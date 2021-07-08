@@ -63,8 +63,8 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 		pTemp = p.joinpath('mm' + versionNum + '/Data/LocalizeConf.ini')
 		config = configparser.ConfigParser()
 		config.read(pTemp, encoding = langEncDict[p.name])
-		if p.name in dbcsLangs:
-			config['Settings']['program_name'] = decodeDbcsSpecial(config['Settings']['program_name'])
+		# if p.name in dbcsLangs:
+		# 	config['Settings']['program_name'] = decodeDbcsSpecial(config['Settings']['program_name'])
 
 		config['Settings']['game_version']     = versionNum                          # 6/7/8/merge
 

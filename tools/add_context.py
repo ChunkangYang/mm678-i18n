@@ -30,13 +30,13 @@ def fn2c(filePath):
 
 	if fileName == 'intro.str' or fileName == 'lose.str' or fileName == 'win.str':
 		return fileName
-	elif ext == '.str' or fileName == 'mapstats.txt' or fileName == 'localizetables.lang_2devents.txt' or fileName == 'lang_2devents.txt' or fileName == '2devents.txt':
+	elif ext == '.str' or fileName == 'mapstats.txt' or fileName == 'lang_mapstats.txt' or fileName == 'localizetables.lang_2devents.txt' or fileName == 'lang_2devents.txt' or fileName == '2devents.txt':
 		return 'location'
 	elif fileName == 'localizetables.lang_itemstxt.txt' or fileName == 'lang_itemstxt.txt' or fileName == 'useitems.txt':
 		return 'items'
 	elif fileName == 'localizetables.lang_monsters.txt' or fileName == 'lang_monsters.txt':
 		return 'monsters'
-	elif fileName == 'npcbtb.txt' or fileName == 'npctext.txt' or fileName == 'npcgreet.txt' or fileName == 'npcnews.txt' or fileName == 'proftext.txt':
+	elif fileName == 'npcbtb.txt' or fileName == 'npctext.txt' or fileName == 'lang_npctext.txt' or fileName == 'npcgreet.txt' or fileName == 'npcnews.txt' or fileName == 'proftext.txt':
 		return 'npc conversation'
 	elif fileName == 'npcprof.txt':
 		return 'npcprof'

@@ -12,7 +12,7 @@ Use csv2po.py `exec()` to generate files
 
 ## Simplified Chinese to Traditional Chinese
 
-Run tools/zhconvert.py
+Run tools/zhconvert.py and regenerate .mo file in Traditional Chinese
 
 ## Everything that need to be done when there is an MM Merge update
 
