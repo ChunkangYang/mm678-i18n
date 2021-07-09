@@ -23,6 +23,13 @@ first_language = 'en'
 
 source_encoding = { # defaults are 'UTF-8'
 	'en': 'cp1252',
+	# 'fr': 'cp1252',
+	# 'de': 'cp1252',
+	# 'es': 'cp1252',
+	# 'it': 'cp1252',
+	# 'cs': 'cp1250',
+	# 'pl': 'cp1250',
+	# 'ru': 'cp1251',
 	'zh_CN': 'gb2312',
 	'zh_TW': 'big5'
 }

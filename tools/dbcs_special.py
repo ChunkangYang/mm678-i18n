@@ -12,6 +12,7 @@
 import re
 from pathlib import Path
 from getfilepaths import getFilePaths
+import shutil
 
 
 # encoding could be set to "gb2312", "big5", "gbk", "euc_jp" and "euc_kr"
@@ -53,17 +54,22 @@ def encodeDbcsSpecialFile(inputPath, outputPath, encoding):
 	inputPathTemp = Path(inputPath)
 	outputPathTemp = Path(outputPath)
 
-	for p in getFilePaths(inputPathTemp, ['txt','str', 'ini']):
+	targetFiles = getFilePaths(inputPathTemp, ['txt', 'str', '*lang.ini'])
 
-		f = p.open(mode = 'rb')
-		content = f.read()
-		f.close()
-
+	for p in getFilePaths(inputPathTemp, '', True, False):
 		pout = outputPathTemp.joinpath(p.relative_to(inputPathTemp))
 		pout.parent.mkdir(parents = True, exist_ok = True)
-		fout = pout.open(mode = 'wb')
-		fout.write(encodeDbcsSpecial(content, encoding))
-		fout.close()
+
+		if p in targetFiles:
+			f = p.open(mode = 'rb')
+			content = f.read()
+			f.close()
+
+			fout = pout.open(mode = 'wb')
+			fout.write(encodeDbcsSpecial(content, encoding))
+			fout.close()
+		else:
+			shutil.copy(p, pout)
 
 
 # decode a file or files in the path using DBCS Special encoding
@@ -72,17 +78,22 @@ def decodeDbcsSpecialFile(inputPath, outputPath):
 	inputPathTemp = Path(inputPath)
 	outputPathTemp = Path(outputPath)
 
-	for p in getFilePaths(inputPathTemp, ['txt','str', 'ini']):
+	targetFiles = getFilePaths(inputPathTemp, ['txt', 'str', '*lang.ini'])
 
-		f = p.open(mode = 'rb')
-		content = f.read()
-		f.close()
-
+	for p in getFilePaths(inputPathTemp, '', True, False):
 		pout = outputPathTemp.joinpath(p.relative_to(inputPathTemp))
 		pout.parent.mkdir(parents = True, exist_ok = True)
-		fout = pout.open(mode = 'wb')
-		fout.write(decodeDbcsSpecial(content))
-		fout.close()
+
+		if p in targetFiles:
+			f = p.open(mode = 'rb')
+			content = f.read()
+			f.close()
+
+			fout = pout.open(mode = 'wb')
+			fout.write(decodeDbcsSpecial(content))
+			fout.close()
+		else:
+			shutil.copy(p, pout)
 
 
 # encodeDbcsSpecialFile('4_prod/zh_CN', '5_postprod/zh_CN', "gb2312")
