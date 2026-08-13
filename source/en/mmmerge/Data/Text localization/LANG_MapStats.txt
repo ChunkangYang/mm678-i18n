@@ -1,0 +1,207 @@
+Table (of Game struct)	Id	Field	New text
+MapStats	1	Name	Dagger Wound Island
+	2	Name	Ravenshore
+	3	Name	Alvar
+	4	Name	Ironsand Desert
+	5	Name	Garrote Gorge
+	6	Name	Shadowspire
+	7	Name	Murmurwoods
+	8	Name	Ravage Roaming
+	9	Name	Plane of Air
+	10	Name	Plane of Earth
+	11	Name	Plane of Fire
+	12	Name	Plane of Water
+	13	Name	Regna
+	14	Name	Plane Between Planes
+	15	Name	Tutorial
+	16	Name	Abandoned Temple
+	17	Name	Pirate Outpost
+	18	Name	Smuggler's Cove
+	19	Name	Dire Wolf Den
+	20	Name	Merchant House of Alvar
+	21	Name	Escaton's Crystal
+	22	Name	Wasp Nest
+	23	Name	Ogre Fortress
+	24	Name	Troll Tomb
+	25	Name	Cyclops Larder
+	26	Name	Chain of Fire
+	27	Name	Dragon Hunter's Camp
+	28	Name	Dragon Cave
+	29	Name	Naga Vault
+	30	Name	Necromancers' Guild
+	31	Name	Mad Necromancer's Lab 
+	32	Name	Vampire Crypt
+	33	Name	Temple of the Sun
+	34	Name	Druid Circle
+	35	Name	Balthazar Lair
+	36	Name	Barbarian Fortress
+	37	Name	The Crypt of Korbu
+	38	Name	Castle of Air
+	39	Name	Tomb of Lord Brinne
+	40	Name	Castle of Fire
+	41	Name	War Camp
+	42	Name	Pirate Stronghold
+	43	Name	Abandoned Pirate Keep
+	44	Name	Passage Under Regna
+	45	Name	Small Sub Pen
+	46	Name	Escaton's Palace
+	47	Name	Prison of the Lord of Air
+	48	Name	Prison of the Lord of Fire
+	49	Name	Prison of the Lord of Water
+	50	Name	Prison of the Lord of Earth
+	51	Name	Uplifted Library
+	52	Name	Dark Dwarf Compound
+	53	Name	Arena
+	54	Name	Ancient Troll Home
+	55	Name	Grand Temple of Eep
+	56	Name	Chapel of Eep
+	57	Name	Church of Eep
+	58	Name	Old Loeb's Cave
+	59	Name	Ilsingore's Cave
+	60	Name	Yaardrake's Cave
+	61	Name	NWC
+	62	Name	Emerald Island
+	63	Name	Harmondale
+	64	Name	Erathia
+	65	Name	The Tularean Forest
+	66	Name	Deyja
+	67	Name	The Bracada Desert
+	68	Name	Evenmorn Island
+	69	Name	Mount Nighon
+	70	Name	The Barrow Downs
+	71	Name	The Land of the Giants
+	72	Name	Tatalia
+	73	Name	Avlee
+	74	Name	Shoals
+	75	Name	The Erathian Sewers
+	76	Name	The Maze
+	77	Name	Castle Gloaming
+	78	Name	The Temple of Baa
+	79	Name	The Arena
+	80	Name	The Temple of the Moon
+	81	Name	Thunderfist Mountain
+	82	Name	The Tularean Caves
+	83	Name	The Titans' Stronghold
+	84	Name	The Breeding Zone
+	85	Name	The Walls of Mist
+	86	Name	Clanker's Laboratory
+	87	Name	Zokarr's Tomb
+	88	Name	The School of Sorcery
+	89	Name	Watchtower 6
+	90	Name	The Wine Cellar
+	91	Name	The Tidewater Caverns
+	92	Name	Lord Markham's Manor
+	93	Name	Grand Temple of the Moon
+	94	Name	The Mercenary Guild
+	95	Name	White Cliff Cave
+	96	Name	The Hall under the Hill
+	97	Name	The Lincoln
+	98	Name	Stone City
+	99	Name	Celeste
+	100	Name	The Pit
+	101	Name	Colony Zod
+	102	Name	The Dragon's Lair
+	103	Name	Castle Harmondale
+	104	Name	Castle Lambent
+	105	Name	Fort Riverstride
+	106	Name	Castle Navan
+	107	Name	Castle Gryphonheart
+	108	Name	The Red Dwarf Mines
+	109	Name	Nighon Tunnels
+	110	Name	Tunnels to Eeofol
+	111	Name	The Haunted Mansion
+	112	Name	Barrow VII
+	113	Name	Barrow IV
+	114	Name	Barrow II
+	115	Name	Barrow XIV
+	116	Name	Barrow III
+	117	Name	Barrow IX
+	118	Name	Barrow VI
+	119	Name	Barrow I
+	120	Name	Barrow VIII
+	121	Name	Barrow XIII
+	122	Name	Barrow X
+	123	Name	Barrow XII
+	124	Name	Barrow V
+	125	Name	Barrow XI
+	126	Name	Barrow XV
+	127	Name	Wromthrax's Cave
+	128	Name	William Setag's Tower
+	129	Name	The Hidden Tomb
+	130	Name	The Dragon Caves
+	131	Name	The Bandit Caves
+	132	Name	The Small House
+	133	Name	Temple of the Light
+	134	Name	Temple of the Dark
+	135	Name	Grand Temple of the Sun
+	136	Name	The Hall of the Pit
+	137	Name	Sweet Water
+	138	Name	Paradise Valley
+	139	Name	Hermit's Isle
+	140	Name	Kriegspire
+	141	Name	Blackshire
+	142	Name	Dragonsand
+	143	Name	Frozen Highlands
+	144	Name	Free Haven
+	145	Name	Mire of the Damned
+	146	Name	Silver Cove
+	147	Name	Bootleg Bay
+	148	Name	Castle Ironfist
+	149	Name	Eel Infested Waters
+	150	Name	Misty Islands
+	151	Name	New Sorpigal
+	152	Name	Goblinwatch
+	153	Name	Abandoned Temple
+	154	Name	Shadow Guild Hideout
+	155	Name	Hall of the Fire Lord
+	156	Name	Snergle's Caverns
+	157	Name	Dragoons' Caverns
+	158	Name	Silver Helm Outpost
+	159	Name	Shadow Guild
+	160	Name	Snergle's Iron Mines
+	161	Name	Dragoons' Keep
+	162	Name	Corlagon's Estate
+	163	Name	Silver Helm Stronghold
+	164	Name	The Monolith
+	165	Name	Tomb of Ethric the Mad
+	166	Name	Icewind Keep
+	167	Name	Warlord's Fortress
+	168	Name	Lair of the Wolf
+	169	Name	Gharik's Forge
+	170	Name	Agar's Laboratory
+	171	Name	Caves of the Dragon Riders
+	172	Name	Temple of Baa
+	173	Name	Temple of the Fist
+	174	Name	Temple of Tsantsa
+	175	Name	Temple of the Sun
+	176	Name	Temple of the Moon
+	177	Name	Supreme Temple of Baa
+	178	Name	Superior Temple of Baa
+	179	Name	Temple of the Snake
+	180	Name	Castle Alamos
+	181	Name	Castle Darkmoor
+	182	Name	Castle Kriegspire
+	183	Name	Free Haven Sewer
+	184	Name	Tomb of VARN
+	185	Name	Oracle of Enroth
+	186	Name	Control Center
+	187	Name	The Hive
+	188	Name	The Arena
+	189	Name	Dragon's Lair
+	190	Name	pending
+	191	Name	pending
+	192	Name	pending
+	193	Name	pending
+	194	Name	pending
+	195	Name	pending
+	196	Name	pending
+	197	Name	pending
+	198	Name	pending
+	199	Name	pending
+	200	Name	pending
+	201	Name	pending
+	202	Name	Devil Outpost
+	203	Name	New World Computing
+	204	Name	The Breach
+	205	Name	The Breach
+	206	Name	Basement of the Breach

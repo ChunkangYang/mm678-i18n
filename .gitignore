@@ -1,183 +1,43 @@
-/1_template/
-/2_dev/
-/4_prod/
-/5_postprod/
-/non_text/sound/
-/non_text/video/
-/note/others/
-/tools/input/
-/tools/output/
-*.baiduyun.uploading.cfg
-/6_setup/prod/
-/6_setup/dev/**/*.*
-!/6_setup/dev/*/*/mm_i18n.nsi
+# all generated build output (mm678 CLI) — safe to delete any time
+/build/
 
+# large media assets kept out of git
+/assets/sound/
+/assets/video/
 
-# === Python.gitignore ===
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-
-# Translations
+# compiled translations (regenerate: mm678 mo)
 *.mo
 
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
+# local-only notes
+/note/
 
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
-
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
-.env
-.venv
-env/
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
 venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
 .mypy_cache/
-.dmypy.json
-dmypy.json
+.pytest_cache/
 
-# Pyre type checker
-.pyre/
+# logs
+*.log
+logfile.txt
 
-# Mac
+# OS / editors
 .DS_Store
-
-# Windows
 Thumbs.db
-
-# WebStorm
 .idea/
-
-# vi
 *~
 
-# General
-log/
-*.log
-
-# === MicrosoftOffice.gitignore ===
-
+# Office temp files
 *.tmp
-
-# Word temporary
 ~$*.doc*
-
-# Word Auto Backup File
-Backup of *.doc*
-
-# Excel temporary
 ~$*.xls*
-
-# Excel Backup File
-*.xlk
-
-# PowerPoint temporary
 ~$*.ppt*
-
-# Visio autosave temporary files
+*.xlk
+Backup of *.doc*
 *.~vsd*
+
+# Baidu netdisk upload leftovers
+*.baiduyun.uploading.cfg

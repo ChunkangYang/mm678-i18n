@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mm678-i18n"
+version = "2.3.0"
+description = "Localization pipeline for Might and Magic 6, 7, 8 (GrayFace Patch) and MM Merge"
+authors = [{ name = "Tom Chen", email = "tomchen.org@gmail.com" }]
+license = { file = "LICENSE.md" }
+requires-python = ">=3.9"
+dependencies = [
+    "polib>=1.1",
+    "OpenCC>=1.1",
+]
+
+[project.urls]
+Homepage = "https://github.com/might-and-magic/mm678-i18n"
+
+[project.scripts]
+mm678 = "mm678i18n.cli:main"
+
+[tool.setuptools]
+packages = ["mm678i18n", "config"]

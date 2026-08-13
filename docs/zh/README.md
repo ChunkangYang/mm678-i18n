@@ -124,7 +124,10 @@ GitHub或百度网盘任选。
 * 魔法门8灰脸补丁中文语言包：使用于打了灰脸补丁的魔法门8英文版，如无音乐则需放入音乐文件（因为我这个补丁已经将MMExtension放进去了，但没放音乐）
   * 音乐文件为2.mp3至15.mp3（或.wav），游戏目录下新建Music文件夹并放入音乐文件即可。音乐可通过以下方式获得：原版游戏CD2转换；GOG/Uplay版本自带；把前述补丁中的高压缩低音质（总共才10多MB）音乐文件拿来用；或[这个网盘中](https://pan.baidu.com/s/1pJv8KYJ#list/path=%2F%E9%AD%94%E6%B3%95%E9%97%A8%2F%E5%8E%9F%E5%A3%B0)下载魔法门8的高压缩低音质试听版原声。
 
-使用语言包/补丁：解压全部文件，复制到游戏文件夹，覆盖原文件即可
+使用语言包/补丁（两种形式任选其一）：
+
+* **安装版**（`.7z` 内含 `.exe`）：解压后把 `.exe` 放进游戏目录运行即可。安装器会校验目录是否正确，并自动删除旧版本遗留的废弃文件，从老版本升级时推荐使用
+* **绿色版**（文件名带 `Portable` 的 `.zip`）：解压全部文件到游戏目录、覆盖原文件即可。适合不便运行安装程序的情况（如杀毒软件误报、Wine/Linux 环境）；注意绿色版覆盖不会删除老版本的废弃文件，从很老的版本升级建议用安装版
 
 ## 注意事项
 
@@ -157,11 +160,11 @@ Ctrl+F1打开控制台
 
 繁体由简体使用[OpenCC](https://github.com/BYVoid/OpenCC)转化，游戏专有名词目前均为简体版本的称呼，除了Free Haven（整合版简体依然使用玩家已习惯的简体原版六代“自由天堂”的译名）和两个大陆的名字换成了繁体版本惯用名称。
 
-想查看、参与翻译，请[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/3_i18n/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑。
+想查看、参与翻译，请[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/translations/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑。
 
 ## 技术
 
-代码请见[魔法门678语言包（mm678-i18n）的GitHub repo](https://github.com/might-and-magic/mm678-i18n)。用我的一个[Python脚本CSV2PO](https://github.com/tomchen/csv2po)从Tab分隔的表格文件提取字符串转为gettext的.po（在[3_i18n文件夹](https://github.com/might-and-magic/mm678-i18n/tree/master/3_i18n)中，[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/3_i18n/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑）和相关文件，整理后转换回表格文件。详细Python代码见[主目录](https://github.com/might-and-magic/mm678-i18n/)和[tools目录](https://github.com/might-and-magic/mm678-i18n/tree/master/tools)下的.py文件。使GrayFace补丁的魔法门支持双字节字符的脚本为[FNT_DBCS.lua](https://github.com/might-and-magic/mm678-i18n/blob/master/non_text/scripts_datatables/zh_CN/mmmerge/Scripts/General/FNT_DBCS.lua)。为了支持双字节字符，现将文本特殊处理，Python脚本[tools/dbcs_special.py](https://github.com/might-and-magic/mm678-i18n/blob/master/tools/dbcs_special.py)可用来将普通文本和特殊文本文件互相转换。关于如何将普通点阵字体转化为魔法门6、7、8和英雄无敌3的.fnt字体文件，请见[FNT Generator项目](https://github.com/might-and-magic/fnt-generator)。
+代码请见[魔法门678语言包（mm678-i18n）的GitHub repo](https://github.com/might-and-magic/mm678-i18n)。用我的一个[Python脚本CSV2PO](https://github.com/tomchen/csv2po)从Tab分隔的表格文件提取字符串转为gettext的.po（在[translations文件夹](https://github.com/might-and-magic/mm678-i18n/tree/master/translations)中，[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/translations/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑）和相关文件，整理后转换回表格文件。详细Python代码见[主目录](https://github.com/might-and-magic/mm678-i18n/)和[mm678i18n目录](https://github.com/might-and-magic/mm678-i18n/tree/master/mm678i18n)下的.py文件。使GrayFace补丁的魔法门支持双字节字符的脚本为[FNT_DBCS.lua](https://github.com/might-and-magic/mm678-i18n/blob/master/assets/scripts_datatables/_common/_all/Scripts/General/FNT_DBCS.lua)。为了支持双字节字符，现将文本特殊处理，Python脚本[mm678i18n/dbcs_special.py](https://github.com/might-and-magic/mm678-i18n/blob/master/mm678i18n/dbcs_special.py)可用来将普通文本和特殊文本文件互相转换。关于如何将普通点阵字体转化为魔法门6、7、8和英雄无敌3的.fnt字体文件，请见[FNT Generator项目](https://github.com/might-and-magic/fnt-generator)。
 
 ## 其他常见问题解答
 
@@ -257,7 +260,7 @@ Ctrl+F1打开控制台
 
 1. **我想查看`/Data/Text localization/`内的几个ZHCN*.txt文件，但用记事本或其他文本编辑器打开后却有部分乱码，如何处理？**
 
-   上文“[技术](#技术)”章节说了，为了支持双字节字符，文本文件已特殊处理过了。“特殊编码”的文本文件转为普通文本文件可以这样选择以下两种方法之一（注意不要改动`/Data/Text localization/`内的文件，而应该复制到别处进行处理）：（一）Python脚本[tools/dbcs_special.py](https://github.com/might-and-magic/mm678-i18n/blob/master/tools/dbcs_special.py)最后一行注释去掉后是`decodeDbcsSpecialFile('5_postprod/zh_CN', 'temp_folder')`，“5_postprod/zh_CN”和“temp_folder”分别是输入路径和输出路径，改成你想要输入和输出的文件夹或文件的相对路径即可。*或者*（二）记事本（或其他文本编辑器）打开一个“乱码”的文本文件，中文字是能显示的，只是里面夹杂着“乱码”而已（假如中文字完全无法显示，那么请用正确的编码——简体为gb2312或gbk，繁体为big5——重新打开文本文件）。Ctrl+H打开替换窗口，将[这个dbcs_special_char_to_replace.txt文件](https://might-and-magic.github.io/mm678-i18n/zh/dbcs_special_char_to_replace.txt)内的第一行的所有字符复制粘贴到“查找内容栏”，“替换为”留空，然后点击“全部替换”，然后再复制粘贴下一行的字符……共三组字符要分别替换为空。最后保存即可。
+   上文“[技术](#技术)”章节说了，为了支持双字节字符，文本文件已特殊处理过了。“特殊编码”的文本文件转为普通文本文件可以这样选择以下两种方法之一（注意不要改动`/Data/Text localization/`内的文件，而应该复制到别处进行处理）：（一）Python脚本[mm678i18n/dbcs_special.py](https://github.com/might-and-magic/mm678-i18n/blob/master/mm678i18n/dbcs_special.py)最后一行注释去掉后是`decodeDbcsSpecialFile('build/postprod/zh_CN', 'temp_folder')`，“build/postprod/zh_CN”和“temp_folder”分别是输入路径和输出路径，改成你想要输入和输出的文件夹或文件的相对路径即可。*或者*（二）记事本（或其他文本编辑器）打开一个“乱码”的文本文件，中文字是能显示的，只是里面夹杂着“乱码”而已（假如中文字完全无法显示，那么请用正确的编码——简体为gb2312或gbk，繁体为big5——重新打开文本文件）。Ctrl+H打开替换窗口，将[这个dbcs_special_char_to_replace.txt文件](https://might-and-magic.github.io/mm678-i18n/zh/dbcs_special_char_to_replace.txt)内的第一行的所有字符复制粘贴到“查找内容栏”，“替换为”留空，然后点击“全部替换”，然后再复制粘贴下一行的字符……共三组字符要分别替换为空。最后保存即可。
 
 1. **如何将整合版或魔法门8灰脸补丁的简体中文版转为繁体中文版（或反之）？**
 
