@@ -1,5 +1,34 @@
 # Translation & i18n technical notes
 
+## Game text table format: CRLF rows, LF in-cell line breaks
+
+The game's `.txt`/`.str` table files (as extracted from `.lod` archives —
+i.e. everything under `source/`, `templates/` and the generated prod trees)
+are tab-separated tables in which the **row separator is CRLF** (`
+`),
+while a **bare LF** (`
+`) inside a cell is a soft line break that makes the
+cell's text multi-line.
+
+Consequences:
+
+- Any automatic newline conversion — a text editor normalizing line endings
+  on save, or git's CRLF/LF conversion — silently corrupts these files by
+  merging rows or splitting cells. This is why `.gitattributes` marks
+  `*.txt` and `*.str` as `-text` (stored and checked out verbatim, no EOL
+  conversion). Never remove those attributes.
+- If you edit these files directly, use an editor that preserves line
+  endings exactly, or better use GrayFace's
+  [Txt Edit](https://grayface.github.io/mm/#Txt-Edit), a table editor made
+  for this format — it ships in this repo at `vendor/TxtEdit/`.
+- The pipeline itself is EOL-exact: files are read/written with explicit
+  newline handling, and an in-cell LF is represented inside `.po` files as
+  the two characters `
+` (`lf_in_crlf_mode` in `config/settings.py`),
+  converted back to a real LF when the prod files are generated.
+- `mm678 check lf` lists all in-cell LF locations in the source tables
+  (informational — they are legitimate).
+
 ## String format constraints (i18n readiness)
 
 - The localized string for `You found %lu gold (followers take %lu)!` must

@@ -27,6 +27,7 @@ pip install -e .
 mm678 build        # .po -> .mo -> game text -> postprod -> installers
 ```
 
+- [Repository guide (AGENTS.md)](AGENTS.md) — one-page orientation: commands, architecture, invariants (auto-loaded by AI coding agents)
 - [Architecture & pipeline](docs/dev/architecture.md) — what each stage does
 - [Building](docs/dev/building.md) — prerequisites and commands
 - [Adding a new language](docs/dev/new-language.md) — step-by-step (`mm678 new-language <lang>`)

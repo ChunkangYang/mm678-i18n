@@ -21,7 +21,8 @@ pip install -e .
 mm678 build        # .po -> .mo -> 游戏文本 -> postprod -> 安装包
 ```
 
-开发文档（英文）：[架构与管线](docs/dev/architecture.md) ·
+开发文档（英文）：[仓库速览 AGENTS.md](AGENTS.md)（一页看懂命令、架构与约定，AI 编码工具也会自动读取） ·
+[架构与管线](docs/dev/architecture.md) ·
 [构建指南](docs/dev/building.md) ·
 [新增语言](docs/dev/new-language.md) ·
 [发版流程](docs/dev/release.md) ·

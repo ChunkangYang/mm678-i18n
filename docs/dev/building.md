@@ -47,7 +47,8 @@ mm678 version      # show configured versions
 **Translation changed** (`.po` edited in Poedit): `mm678 build`.
 
 **Game source text changed** (`source/` or `templates/` edited, e.g. a Merge
-update): `mm678 templates && mm678 dev`, then open the `.po` in Poedit and
+update — mind the CRLF/LF table format, see
+[notes.md](notes.md#game-text-table-format-crlf-rows-lf-in-cell-line-breaks)): `mm678 templates && mm678 dev`, then open the `.po` in Poedit and
 use *Translation → Update from source code* (it scans `build/dev`), translate
 the new strings, then `mm678 build`.
 
