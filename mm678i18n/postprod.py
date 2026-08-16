@@ -237,22 +237,9 @@ def processProdText(postprodPath, prodPath):
 
 			rewriteProgramName(pTemp, langEncDict[p.name])
 
-		if p.name in dbcsLangs:
-			for versionNum in ['6', '7', '8', 'merge']:
-				versionNum2 = versionNum
-				if versionNum2 == 'merge':
-					versionNum2 = '8'
-				pTemp = p.joinpath('mm' + versionNum + '/mm' + versionNum2 + 'lang.ini')
-				config = configparser.RawConfigParser()
-				config.optionxform = str
-				config.read(pTemp, encoding = langEncDict[p.name])
-
-				for opt in ['RecoveryTimeInfo', 'PlayerNotActive', 'DoubleSpeed', 'NormalSpeed', 'GameSavedText', 'ArmorHalved']:
-					if config.has_option('Settings', opt):
-						config['Settings'][opt] = '.' + config['Settings'][opt]
-
-				with open(pTemp, mode = 'w', encoding = langEncDict[p.name]) as configfile:
-					config.write(configfile, False)
+		# (the old page-font DBCS system needed a '.' marker prefixed to six
+		# mm*lang.ini strings; the native renderer is marker-free, so the
+		# values ship as-is now)
 
 		for versionNum in ['6', '7', '8', 'merge']:
 			pTemp = p.joinpath('mm' + versionNum)

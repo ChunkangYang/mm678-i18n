@@ -58,7 +58,7 @@
 
 魔法门GrayFace补丁（灰脸补丁）是由网名为GrayFace的俄罗斯网友制作的分别针对魔法门6、7、8的三个补丁。补丁修正了bug，增强了游戏，可以鼠标视角（类FPS），魔法门7、8都可高清（[GrayFace所有魔法门补丁和工具的英文主页](https://grayface.github.io/mm/)；[GitHub上代码库](https://github.com/GrayFace/Misc)）
 
-然后再加上一个灰脸补丁附带可选安装的叫做MMExtension的东西，就可以方便地用脚本任意修改游戏。于是就有了CelestialHeavens论坛（讨论魔法门和英雄无敌的英文论坛）网友Rodril开发的魔法门678整合版（魔法门：科洛尼世界 / Might and Magic: The World of Enroth），它是基于魔法门8+灰脸补丁+MMExtension制作的，因而算是MM8的一个MOD。整合版将魔法门6、7、8的世界（恩洛斯、恩塔格瑞、贾丹姆大陆）整合在了一起。
+然后再加上一个灰脸补丁附带可选安装的叫做MMExtension的东西，就可以方便地用脚本任意修改游戏。于是就有了CelestialHeavens论坛（讨论魔法门和英雄无敌的英文论坛）网友Rodril开发的魔法门678整合版（魔法门：恩洛斯世界 / Might and Magic: The World of Enroth），它是基于魔法门8+灰脸补丁+MMExtension制作的，因而算是MM8的一个MOD。整合版将魔法门6、7、8的世界（恩洛斯、恩塔格瑞、贾丹姆大陆）整合在了一起。
 
 ## 魔法门678整合版的下载地址和使用方法
 

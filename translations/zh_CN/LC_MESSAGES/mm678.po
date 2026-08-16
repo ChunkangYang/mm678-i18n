@@ -52248,7 +52248,7 @@ msgstr "游戏已保存!"
 #: mmmerge/mm8lang.ini.py:5
 msgctxt "mm_lang.ini"
 msgid "That player is not active"
-msgstr "游戏已保存!"
+msgstr "该角色现在不能行动"
 
 #: mm6/mm6lang.ini.py:7 mm7/mm7lang.ini.py:6 mm8/mm8lang.ini.py:6
 #: mmmerge/mm8lang.ini.py:6
