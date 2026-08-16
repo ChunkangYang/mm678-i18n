@@ -13,12 +13,24 @@
 - [ ] `exsetscrk.bmp`——上游加了 **"EXTRA KEYBINDS"** 大标题,中文版没有,
   需补(建议:额外按键绑定)
 - `exsetscr2.bmp` 仅底图重导出差异,无需改动
-- (可选大工程)**Arcomage 酒馆卡牌小游戏汉化**:`Sprites.pcx`(960×2500
-  图集,含全部卡牌效果文字与 commencer/quitter 等按钮,LocFR 已全翻)、
-  `Layout.PCX`(棋盘背景,FR 版与英文原版字节相同,无文字)。英文原版在
-  `original-latest\mmmerge\Data\mm8.D.lod`,法语参考版在
-  `C:\Users\Chen\Downloads\LocFR\zz LocFR.D.lod`。FR 包里其余非 wav 差异
-  (法术书空白页 sb*000a、16x/32x 按钮)经比对无文字变化,不需要做
+- (可选)**merge 版 Arcomage 卡牌汉化**:merge 的 `Sprites.pcx`(960×2500,
+  在 `original-latest\mmmerge\Data\mm8.D.lod`)含全部卡牌文字与按钮,LocFR
+  已全翻(参考 `C:\Users\Chen\Downloads\LocFR\zz LocFR.D.lod`)。**大底子已
+  有**:`assets/img/prod/zh_CN/mm7/DATA/icons/Sprites.PCX` 是完整简中卡牌
+  图集(960×1372,MM7 版),merge 版是其加高扩充,可在其基础上补差。
+  `Layout.PCX`(棋盘背景)无文字不用做;FR 包里其余非 wav 差异(法术书
+  空白页 sb*000a、16x/32x 按钮)经比对无文字变化,不需要做
+- (可选)mm7cht 的 `swptree1-4.bmp`(sprites.lod 内无字树木图)与 zh-only
+  杂项(lloyd41-45 引导图、全黑 image.pcx)审阅后判定不需要移植
+- zh_TW 的 mm6 图片**暂不翻译**(2026-08 决定):忠实 CHT 原版,只有 2 张
+  标题图,主菜单等保持英文;将来如需可把 zh_CN 的 56 张转繁重制
+- mm7 简繁图集互有缺口(各自忠实官方版,2026-08 对账结论):
+  - [ ] zh_TW 缺 4 张(CHT 官方没翻):`con_16x.bmp`/`con_32x.bmp`(视频
+    选项 "16X/32X" 按钮,简体版重绘过样式)、`load_up.bmp`/`save_up.bmp`
+    (**"装载游戏"/"保存游戏"大按钮的亮起态**——繁体版只翻了普通态,鼠标
+    悬停时会闪回英文,可从 zh_CN 版转繁补齐)
+  - [ ] zh_CN 缺 1 张(CHS 官方没翻):`buttexi1.bmp`("離開/离开"按钮的
+    另一状态;简体版只翻了 buttexi2,可参照 zh_TW 版转简补齐)
 
 ## Pipeline / packaging
 
