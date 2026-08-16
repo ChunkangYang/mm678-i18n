@@ -406,9 +406,9 @@ msgstr ""
 # findMsgstr/conflict_priority and the `bootstrap` command) that harvested
 # msgstrs from pre-translated game files in source/<lang> was removed after
 # the 2026-08 upgrade: the .po files are the single store of translations
-# now. See git history and assets/customlist_zh_CN (archived override
-# lists) if a future language ever needs a seeded start - a targeted
-# harvest script in tools/ is the better shape for that anyway.
+# now. See git history and references/notes/zh (archived override lists)
+# if a future language ever needs a seeded start - a targeted harvest
+# script in tools/ is the better shape for that anyway.
 
 
 

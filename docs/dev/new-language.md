@@ -33,8 +33,13 @@ which official localizations don't guarantee.
 
 ## 3. Translate
 
-Open the `.po` in Poedit and translate. For a Traditional↔Simplified Chinese
-pair, `mm678 zhconvert` converts automatically via OpenCC.
+Open the `.po` in Poedit and translate. Start with the terminology: translate
+the strings listed in `references/glossary/glossary-terms.tsv` first, run
+`python tools/build_glossary.py fr` to produce
+`references/glossary/fr/glossary.tsv`, then translate everything else
+following that table (see the "Translation glossary" section in `AGENTS.md`).
+For a Traditional↔Simplified Chinese pair, `mm678 zhconvert` converts
+automatically via OpenCC.
 
 ## 4. Build
 

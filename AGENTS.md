@@ -43,7 +43,7 @@ installable trees (DBCS re-encoding, fonts, Lua scripts, images, mmarch-packed
 
 - **Everything under `build/` is generated** — never hand-edit it; it is safe
   to delete. All tracked inputs live in `source/ templates/ translations/
-  assets/ installer/ config/ vendor/`.
+  assets/ installer/ config/ vendor/ references/`.
 - **`config/languages.py` is the single source of truth** for per-language
   encoding, version, and DBCS font sizes. `config/versions.py` holds the
   installer matrix (`installers`) and release version; `config/settings.py`
@@ -58,6 +58,28 @@ installable trees (DBCS re-encoding, fonts, Lua scripts, images, mmarch-packed
   `assets/img/prod/<lang>/mmmerge_and_mm8/` (shipped to both games), and the
   `mm8_zh_update` installer = `zh` + `zh_update` additional trees. Do not
   re-introduce per-language/per-game copies of identical files.
+
+## Translation glossary — consult it whenever translating
+
+`references/glossary/<lang>/glossary.tsv` (e.g.
+`references/glossary/zh_CN/glossary.tsv`) is the terminology table:
+`msgctxt <TAB> English <TAB> translation` for every established game term
+(classes, items, monsters, spells, places, stats…). **Any translation work —
+AI or human — must follow it**: an English term that appears inside a longer
+string is rendered with its glossary translation, not re-invented.
+
+- The files are generated; translations are always looked up live in that
+  language's .po, so a glossary is never stale. Regenerate after
+  translating: `python tools/build_glossary.py [lang …]`.
+- Which strings count as terminology is curated (language-neutral) in
+  `references/glossary/glossary-terms.tsv` — add new terms there, then
+  regenerate.
+- Every future language gets the same table for free once its .po has the
+  terms translated (translate the glossary terms first, regenerate, then
+  translate everything else consistently). zh_TW needs none (derived).
+- `references/notes/` holds the maintainer's frozen reference material
+  (old bootstrap-era override lists, translation workbooks) — read-only
+  history, not consumed by any code.
 
 ## Invariants that are easy to break
 

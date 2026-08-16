@@ -53,8 +53,8 @@ source_encoding = languages.source_encoding # defaults are 'UTF-8'
 encoding_errors_handling = 'strict' # could be 'strict', 'ignore' (default), 'replace', 'backslashreplace', etc. see https://docs.python.org/3/library/io.html#io.TextIOWrapper
 
 # (the custom_list/conflict_priority settings for the legacy bootstrap
-# extraction were removed; assets/customlist_zh_CN keeps the old override
-# lists as an archive — their decisions are baked into the zh_CN .po)
+# extraction were removed; references/notes/zh keeps the old override lists
+# as an archive — their decisions are baked into the zh_CN .po)
 
 # Language exclusion list containing languages present in the source folder, but do not need to proceed and generate i18n files
 # default is []
