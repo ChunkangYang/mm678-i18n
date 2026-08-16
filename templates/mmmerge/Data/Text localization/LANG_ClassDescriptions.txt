@@ -48,7 +48,7 @@ ClassDescriptions	0		_(TRANS)_
 	46		_(TRANS)_
 	47		_(TRANS)_
 	48		_(TRANS)_
-	49		_(TRANS)_
+	49		Peasant uneven step placeholder.
 	50		_(TRANS)_
 	51		_(TRANS)_
-	52		_(TRANS)_
+	52		Placeholder

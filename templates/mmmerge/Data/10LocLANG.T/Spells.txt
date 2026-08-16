@@ -96,7 +96,7 @@
 87	10	_(TRANS)_	Light	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
 88	11	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
 	Lvl	Dark Spells	Res		Spell Description					
-89	1	_(TRANS)_	None	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+89	1	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
 90	2	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
 91	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
 92	4	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
@@ -143,4 +143,3 @@
 130	9	Unused!!!	0	0						
 131	10	Unused!!!	0	0						
 132	11	Unused!!!	0	0						
-										

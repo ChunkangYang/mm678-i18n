@@ -4,8 +4,8 @@
 #
 #   templates : template_without_context -> template   (context markers added)
 #   dev       : template + source(en)    -> dev .py files (gettext calls)
-#   [translators update .po from dev via Poedit, or run `bootstrap` once
-#    per new language to seed .po from existing translated game files]
+#   [translators update .po from dev via Poedit; `new-language` scaffolds
+#    an empty .po for a language that doesn't have one yet]
 #   mo        : .po -> .mo               (gettext compile)
 #   prod      : .mo + dev -> translated game text files
 #   postprod  : prod + fonts/scripts/images/sounds -> installable file trees
@@ -26,10 +26,6 @@ def cmd_templates(args):
 def cmd_dev(args):
 	from . import pipeline
 	pipeline.generateDevOnly()
-
-def cmd_bootstrap(args):
-	from . import pipeline
-	pipeline.bootstrap()
 
 def cmd_update_po(args):
 	from . import pipeline
@@ -63,7 +59,7 @@ def cmd_build(args):
 
 def cmd_new_language(args):
 	from . import pipeline
-	pipeline.newLanguage(args.lang, seedFromSource = args.seed_from_source)
+	pipeline.newLanguage(args.lang)
 
 def cmd_zhconvert(args):
 	from . import zhconvert
@@ -90,10 +86,6 @@ def main():
 	sub.add_parser('templates', help = 'generate context-annotated templates').set_defaults(func = cmd_templates)
 	sub.add_parser('dev', help = 'generate dev .py files (the Poedit source-scan target)').set_defaults(func = cmd_dev)
 
-	p = sub.add_parser('bootstrap', help = 'regenerate ALL .po files from the source folders '
-		'(first-time language setup; OVERWRITES existing .po translations — commit first!)')
-	p.set_defaults(func = cmd_bootstrap)
-
 	sub.add_parser('update-po', help = 'non-destructively update all .po after template/source '
 		'changes (translations kept; new strings added untranslated, removed ones marked obsolete; '
 		'GNU msgmerge on PATH enables fuzzy matching)').set_defaults(func = cmd_update_po)
@@ -111,11 +103,9 @@ def main():
 		help = 'stop after postprod (no NSIS/7-Zip needed)')
 	p.set_defaults(func = cmd_build)
 
-	p = sub.add_parser('new-language', help = 'create the .po for a new language '
-		'(empty placeholder by default; --seed-from-source harvests translations from '
-		'that language\'s existing game files in the source folder)')
-	p.add_argument('lang', help = 'language code, e.g. fr, de, ru, zh_CN')
-	p.add_argument('--seed-from-source', action = 'store_true')
+	p = sub.add_parser('new-language', help = 'create an empty .po for a new language '
+		'(translate it in Poedit from there)')
+	p.add_argument('lang', help = 'language code, e.g. fr, de, ru, ja')
 	p.set_defaults(func = cmd_new_language)
 
 	p = sub.add_parser('zhconvert', help = 'regenerate the zh_TW .po from the zh_CN .po via OpenCC')

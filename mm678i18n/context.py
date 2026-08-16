@@ -37,8 +37,28 @@ def fn2c(filePath):
 		return 'items'
 	elif fileName == 'localizetables.lang_monsters.txt' or fileName == 'lang_monsters.txt':
 		return 'monsters'
-	elif fileName == 'npcbtb.txt' or fileName == 'npctext.txt' or fileName == 'lang_npctext.txt' or fileName == 'npcgreet.txt' or fileName == 'npcnews.txt' or fileName == 'proftext.txt':
+	elif fileName == 'npcbtb.txt' or fileName == 'npctext.txt' or fileName == 'lang_npctext.txt' or fileName == 'npcgreet.txt' or fileName == 'npcnews.txt' or fileName == 'proftext.txt' \
+			or fileName == 'lang_npcgreet1.txt' or fileName == 'lang_npcgreet2.txt' or fileName == 'lang_npcnews.txt' \
+			or fileName == 'lang_npcnewstopics.txt':
 		return 'npc conversation'
+	# the LocEN-template runtime tables keep their historical contexts so
+	# translations carry over from the pre-restructure file names
+	elif fileName == 'lang_messagescrolls.txt':
+		return 'scroll'
+	elif fileName == 'lang_autonotetxt.txt' or fileName == 'lang_awardstxt.txt':
+		return 'autonote or awards'
+	elif fileName == 'lang_queststxt.txt':
+		return 'quests'
+	elif fileName == 'lang_classnames.txt' or fileName == 'lang_classdescriptions.txt':
+		return 'class'
+	elif fileName == 'lang_spcitemstxtnames.txt' or fileName == 'lang_spcitemstxtstats.txt':
+		return 'spcitems'
+	elif fileName == 'lang_stditemstxtnames.txt' or fileName == 'lang_stditemstxtstats.txt':
+		return 'stditems'
+	elif fileName == 'lang_transtxt.txt':
+		return 'trans'
+	elif fileName == 'lang_placemontxt.txt':
+		return 'placemon'
 	elif fileName == 'npcprof.txt':
 		return 'npcprof'
 	elif fileName == 'autonote.txt' or fileName == 'awards.txt':

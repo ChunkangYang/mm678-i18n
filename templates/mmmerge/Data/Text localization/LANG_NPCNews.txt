@@ -919,4 +919,4 @@ NPCNews	0		_(TRANS)_
 	917		_(TRANS)_
 	918		_(TRANS)_
 	919		_(TRANS)_
-	920		_(TRANS)_
+	920		Placeholder

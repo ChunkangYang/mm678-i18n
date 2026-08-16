@@ -1473,19 +1473,19 @@ Id	Name	NotIdentifiedName 	Notes
 1472	_(TRANS)_	_(TRANS)_	_(TRANS)_
 1473	_(TRANS)_	_(TRANS)_	_(TRANS)_
 1474	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1475	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1476	_(TRANS)_	_(TRANS)_	_(TRANS)_
+1475	Lich Jar Placeholder	_(TRANS)_	_(TRANS)_
+1476	Elixir Placeholder	_(TRANS)_	_(TRANS)_
 1477	_(TRANS)_	_(TRANS)_	_(TRANS)_
 1478	_(TRANS)_	_(TRANS)_	_(TRANS)_
 1479	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1480	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1481	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1482	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1483	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1484	_(TRANS)_	_(TRANS)_	_(TRANS)_
+1480	Final Part Placeholder	_(TRANS)_	_(TRANS)_
+1481	Level Design Placeholder	_(TRANS)_	_(TRANS)_
+1482	Artifact Placeholder (Elf vs. Human)	_(TRANS)_	_(TRANS)_
+1483	Riverstride Plans Placeholder	_(TRANS)_	_(TRANS)_
+1484	False Plans Placeholder	_(TRANS)_	_(TRANS)_
 1485	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1486	_(TRANS)_	_(TRANS)_	_(TRANS)_
-1487	_(TRANS)_	_(TRANS)_	_(TRANS)_
+1486	Neutral Bow Placeholder	_(TRANS)_	_(TRANS)_
+1487	Elf/Human Artifact Placeholder	_(TRANS)_	_(TRANS)_
 1488	_(TRANS)_	_(TRANS)_	_(TRANS)_
 1489	_(TRANS)_	_(TRANS)_	_(TRANS)_
 1490	_(TRANS)_	_(TRANS)_	_(TRANS)_

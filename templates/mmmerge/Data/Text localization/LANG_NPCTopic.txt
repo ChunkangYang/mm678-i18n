@@ -743,12 +743,12 @@ NPCTopic	1		_(TRANS)_
 	742		_(TRANS)_
 	743		_(TRANS)_
 	744		_(TRANS)_
-	745		_(TRANS)_
-	746		_(TRANS)_
-	747		_(TRANS)_
-	748		_(TRANS)_
-	749		_(TRANS)_
-	750		_(TRANS)_
+	745		Placeholder
+	746		Placeholder
+	747		Placeholder
+	748		Placeholder
+	749		Placeholder
+	750		Placeholder
 	751		_(TRANS)_
 	752		_(TRANS)_
 	753		_(TRANS)_
@@ -949,8 +949,8 @@ NPCTopic	1		_(TRANS)_
 	948		_(TRANS)_
 	949		_(TRANS)_
 	950		_(TRANS)_
-	951		_(TRANS)_
-	952		_(TRANS)_
+	951		Placeholder
+	952		Placeholder
 	953		_(TRANS)_
 	954		_(TRANS)_
 	955		_(TRANS)_
@@ -991,14 +991,14 @@ NPCTopic	1		_(TRANS)_
 	990		_(TRANS)_
 	991		_(TRANS)_
 	992		_(TRANS)_
-	993		_(TRANS)_
-	994		_(TRANS)_
-	995		_(TRANS)_
-	996		_(TRANS)_
-	997		_(TRANS)_
-	998		_(TRANS)_
-	999		_(TRANS)_
-	1000		_(TRANS)_
+	993		MMExt Placeholder
+	994		MMExt Placeholder
+	995		MMExt Placeholder
+	996		MMExt Placeholder
+	997		MMExt Placeholder
+	998		MMExt Placeholder
+	999		MMExt Placeholder
+	1000		MMExt Placeholder
 	1001		_(TRANS)_
 	1002		_(TRANS)_
 	1003		_(TRANS)_
@@ -1340,7 +1340,7 @@ NPCTopic	1		_(TRANS)_
 	1339		_(TRANS)_
 	1340		_(TRANS)_
 	1341		_(TRANS)_
-	1342		_(TRANS)_
+	1342		Empty
 	1343		_(TRANS)_
 	1344		_(TRANS)_
 	1345		_(TRANS)_

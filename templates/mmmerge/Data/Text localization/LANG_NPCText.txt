@@ -1748,9 +1748,9 @@ NPCText	1		_(TRANS)_
 	1747		_(TRANS)_
 	1748		_(TRANS)_
 	1749		_(TRANS)_
-	1750		_(TRANS)_
-	1751		_(TRANS)_
-	1752		_(TRANS)_
+	1750		1
+	1751		2
+	1752		3
 	1753		_(TRANS)_
 	1754		_(TRANS)_
 	1755		_(TRANS)_
@@ -2215,7 +2215,7 @@ NPCText	1		_(TRANS)_
 	2214		_(TRANS)_
 	2215		_(TRANS)_
 	2216		_(TRANS)_
-	2217		_(TRANS)_
+	2217		Placeholder
 	2218		_(TRANS)_
 	2219		_(TRANS)_
 	2220		_(TRANS)_
@@ -2238,7 +2238,7 @@ NPCText	1		_(TRANS)_
 	2237		_(TRANS)_
 	2238		_(TRANS)_
 	2239		_(TRANS)_
-	2240		_(TRANS)_
+	2240		Placeholder
 	2241		_(TRANS)_
 	2242		_(TRANS)_
 	2243		_(TRANS)_
@@ -2702,9 +2702,9 @@ NPCText	1		_(TRANS)_
 	2701		_(TRANS)_
 	2702		_(TRANS)_
 	2703		_(TRANS)_
-	2704		_(TRANS)_
-	2705		_(TRANS)_
-	2706		_(TRANS)_
+	2704		, 
+	2705		(
+	2706		)
 	2707		_(TRANS)_
 	2708		_(TRANS)_
 	2709		_(TRANS)_

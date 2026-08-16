@@ -25,17 +25,11 @@ string and empty translations (a placeholder — building it produces an
 English-text patch for that language).
 
 If you have existing translated game files (e.g. from an official French
-release), put them under `source/fr/` mirroring the game folder layout, set
-`source_encoding` for the language in `config/languages.py` if the files are
-not UTF-8, and run:
-
-```
-mm678 new-language fr --seed-from-source
-```
-
-to harvest translations from them (conflicts are resolved by the
-`conflict_priority` rules in `config/settings.py`; add `custom_list` entries
-there for manual overrides).
+release) and want to pre-seed the `.po` from them, write a one-off harvest
+script with `polib` (match strings per file/row against `source/en`, in the
+spirit of `tools/recover_po.py`). The old `--seed-from-source` bootstrap
+path was removed — it assumed line-for-line parity with the English files,
+which official localizations don't guarantee.
 
 ## 3. Translate
 

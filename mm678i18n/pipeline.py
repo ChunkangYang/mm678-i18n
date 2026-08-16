@@ -13,7 +13,6 @@ import re
 import glob
 import os
 import time
-import random
 import importlib.util
 import gettext
 import polib
@@ -54,8 +53,6 @@ setDefaults({
 	'source_encoding'           : {},
 	'encoding_errors_handling'  : 'ignore',
 
-	'conflict_priority'         : {},
-
 	'i18n_language_exclusion'   : [],
 	'prod_language_exclusion'   : [],
 
@@ -74,8 +71,8 @@ setDefaults({
 
 
 # lang lists (global variables)
-# - sourceLangs/langs/nonFirstLangs: languages with a source folder
-#   (drive the po-generation phases, which read translated game files)
+# - sourceLangs/langs: languages with a source folder (normally just the
+#   first language now: the .po files are the only store of translations)
 # - i18nDirLangs/prodLangs: languages with a .po in the i18n folder
 #   (drive the mo/prod phases; first language builds from msgids directly)
 sourceLangs = list(map(lambda x: x.name, list(Path(settings.source_folder).glob('*'))))
@@ -85,21 +82,16 @@ cleanedI18nLangExcl = [x for x in cleanedI18nLangExcl if x != settings.first_lan
 setattr(settings, 'i18n_language_exclusion', cleanedI18nLangExcl)
 
 langs = [x for x in sourceLangs if x not in cleanedI18nLangExcl] # i18n langs
-nonFirstLangs = [x for x in langs if x != settings.first_language]
 
 i18nDirLangs = sorted([x.name for x in Path(settings.i18n_folder).glob('*') if x.is_dir()])
 
 prodLangs = [x for x in [settings.first_language] + i18nDirLangs if x not in settings.prod_language_exclusion] # prod langs
 
 
-# defaults for settings.source_encoding[lang] and settings.conflict_priority[lang]
+# defaults for settings.source_encoding[lang]
 for lang in set(langs) | set(prodLangs):
 	if lang not in settings.source_encoding or settings.source_encoding[lang] == '':
 		settings.source_encoding[lang] = 'UTF-8' # set default
-
-for lang in nonFirstLangs:
-	if lang not in settings.conflict_priority or settings.conflict_priority[lang] == '':
-		settings.conflict_priority[lang] = [['MOSTFREQUENT']] # set default
 
 
 # lf_in_crlf_mode is effective only when eol = '\r\n'
@@ -249,6 +241,26 @@ def source1stLang2MsgidList(globalLineDict):
 		else:
 			log('Can\'t find first-language file ' + str(p0) + '. First language file must be well present and correspond to the template file.', 'e')
 
+# collapse whitespace-variant twins of the same string into ONE msgid per
+# context: upstream sources write the same text both "sentence.  Next" (the
+# classic games) and "sentence.\nNext" (the Merge translation template), which
+# would otherwise duplicate entries. The canonical form is the first one seen
+# in walk order (mm6/mm7/mm8 before mmmerge), keeping historical msgids - and
+# translations - stable.
+def canonicalizeMsgids(globalLineDict):
+	canon = {}
+	for filePath in globalLineDict:
+		for lineDict in globalLineDict[filePath]:
+			if 'msgidList' not in lineDict:
+				continue
+			msgidList = list(lineDict['msgidList'])
+			for i, msgid in enumerate(msgidList):
+				ctx = lineDict['msgctxtDict'].get(i)
+				key = (ctx, re.sub(r'(\\n|\s)+', ' ', msgid).strip())
+				msgidList[i] = canon.setdefault(key, msgid)
+			lineDict['msgidList'] = msgidList
+
+
 # use globalLineDict[filePath] to generate all files in /<dev>/
 def source1stLang2Dev(globalLineDict):
 	for filePath in globalLineDict:
@@ -308,6 +320,37 @@ def getPluralForm(lang):
 		return pluralforms.get(lang.split('_')[0], None)
 
 
+# write via a temp file + atomic replace, retrying on transient locks
+# (AV/editor holds intermittently EINVAL direct 'w' opens on po files here,
+# which truncates the target before failing)
+def writeFileAtomic(path, text, encoding = 'UTF-8'):
+	path = Path(path)
+	tmp = path.with_name(path.name + '.tmp')
+	with tmp.open(mode = 'w', newline = '\n', encoding = encoding) as f:
+		f.write(text)
+	for attempt in range(8):
+		try:
+			os.replace(tmp, path)
+			return
+		except OSError:
+			if attempt == 7:
+				raise
+			time.sleep(0.7)
+
+
+# gettext-style greedy wrap of "#:" reference comments at ~78 columns
+def wrapRefs(refs):
+	lines = []
+	cur = '#:'
+	for r in refs:
+		if cur != '#:' and len(cur) + 1 + len(r) > 78:
+			lines.append(cur)
+			cur = '#:'
+		cur += ' ' + r
+	lines.append(cur)
+	return '\n'.join(lines) + '\n'
+
+
 # use potDict to generate first language's .pot or non-first language's .po file
 # .pot, .po files are ALWAYS encoded in UTF-8 with LF as EOL
 def generatePoFile(potDict, isPot = True, lang = settings.first_language):
@@ -316,7 +359,6 @@ def generatePoFile(potDict, isPot = True, lang = settings.first_language):
 		p = p.joinpath(lang).joinpath('LC_MESSAGES')
 	p = p.joinpath(settings.textdomain + ('.pot' if isPot else '.po'))
 	p.parent.mkdir(parents = True, exist_ok = True)
-	f = p.open(mode = 'w', newline = '\n', encoding = 'UTF-8')
 
 	pluralform = getPluralForm(lang)
 	currentTime = time.strftime("%Y-%m-%d %H:%M%z", time.localtime())
@@ -346,7 +388,7 @@ msgstr ""
 	for msgTuple in potDict:
 		msgInfo = potDict[msgTuple]
 		locMap = map(lambda tu: tu[0].as_posix() + ':' + str(tu[1]), msgInfo['locations'])
-		lineStr += '#: ' + ' '.join(locMap) + '\n'
+		lineStr += wrapRefs(locMap)
 		if msgTuple[1] != None:
 			lineStr += 'msgctxt "' + msgTuple[1] + '"\n'
 		lineStr += 'msgid "' + msgTuple[0] + '"\n'
@@ -357,191 +399,18 @@ msgstr ""
 			msgstr = ''
 		lineStr += 'msgstr "' + msgstr + '"\n'
 		lineStr += '\n'
-	f.write(lineStr)
-	f.close()
+	writeFileAtomic(p, lineStr)
 
 
-# remove duplicates and set MOSTFREQUENT in a wordList
-def removeDuplicatesAndSetMostfrequent(wordList):
-	for lang in wordList:
-		li = wordList[lang]
-		for msgTuple in li:
-			wordDicts = li[msgTuple]
-			m = max([wordDicts[key]['count'] for key in wordDicts])
-			for word in wordDicts:
-				wordDict = wordDicts[word]
-				if wordDict['count'] == m:
-					wordDict['categories'].append('MOSTFREQUENT')
-				wordDict['categories'] = list(set(wordDict['categories']))
+# The legacy full-extraction machinery (getWordList/addCustomList/
+# findMsgstr/conflict_priority and the `bootstrap` command) that harvested
+# msgstrs from pre-translated game files in source/<lang> was removed after
+# the 2026-08 upgrade: the .po files are the single store of translations
+# now. See git history and assets/customlist_zh_CN (archived override
+# lists) if a future language ever needs a seeded start - a targeted
+# harvest script in tools/ is the better shape for that anyway.
 
 
-def addCustomList(wordList):
-
-	if settings.eol != '\r\n':
-		singleRegex = '([^' + settings.separator + '^' + settings.eol + ']*)'
-	else:
-		singleRegex = '((?:[^' + settings.separator + '^\r]|\r(?!\n))*)'
-	regex = singleRegex + '\t' + singleRegex + '\t' + singleRegex
-
-	if hasattr(settings, 'custom_list'):
-		for lang in settings.custom_list:
-			wLLang = wordList[lang]
-			lCurrentLang = settings.custom_list[lang]
-			for lName in lCurrentLang:
-				lNList = lCurrentLang[lName]
-				lNListEnc = 'UTF-8'
-				if 'encoding' in lNList:
-					lNListEnc = lNList['encoding']
-				if type(lNList) == dict:
-					f = Path(lNList['file']).open(mode = 'r', newline = settings.eol, encoding = lNListEnc, errors = settings.encoding_errors_handling)
-					lNList = []
-					for line in f:
-						line = encodingFix(line, lNListEnc)
-						matches = re.match(regex, line).groups()
-						if matches:
-							if matches[0] == '':
-								lNList.append([cleanString(matches[1]), cleanString(matches[2])])
-							else:
-								lNList.append([(cleanString(matches[1]), cleanString(matches[0])), cleanString(matches[2])])
-				for item in lNList:
-					if type(item[0]) is tuple:
-						msgid = item[0][0]
-						msgctxt = item[0][1]
-						msgstr = item[1]
-					else: # item[0] is str
-						msgid = item[0]
-						msgctxt = None
-						msgstr = item[1]
-					if (msgid, msgctxt) not in wLLang:
-						wLLang[(msgid, msgctxt)] = {}
-					wordListItemCurrent = wLLang[(msgid, msgctxt)]
-					if msgstr not in wordListItemCurrent:
-						wordListItemCurrent[msgstr] = {'categories': ['CUSTOMLIST:' + lName], 'count': 1}
-					else:
-						wordListItemCurrent[msgstr]['categories'].append('CUSTOMLIST:' + lName)
-						wordListItemCurrent[msgstr]['count'] += 1
-
-
-# use globalLineDict[filePath] to match all files in /<source>/<nonFirstLangs>/ to get wordList
-def getWordList(globalLineDict, nonFirstLangs):
-
-	wordList = {}
-
-	for currentLang in nonFirstLangs:
-
-		wordList[currentLang] = {}
-		wordListCurrent = wordList[currentLang]
-
-		for filePath in globalLineDict:
-			currentCatList = list(filePath.parts)
-			l = len(currentCatList)
-			for n in range(l):
-				if n == (l - 1):
-					itemType = 'FILE'
-				else:
-					itemType = 'FOLDER'
-				currentCatList[n] = itemType + ':' + currentCatList[n]
-				currentCatList.append('L' + str(n+1) + currentCatList[n])
-
-			glen = len(globalLineDict[filePath])
-			p0 = Path(settings.source_folder).joinpath(currentLang).joinpath(filePath)
-			if p0.is_file():
-				f0 = p0.open(mode = 'r', newline = settings.eol, encoding = settings.source_encoding[currentLang], errors = settings.encoding_errors_handling)
-
-				for i, line in enumerate(f0):
-					line = encodingFix(line, settings.source_encoding[currentLang])
-					if i < glen:
-						lineDict = globalLineDict[filePath][i]
-						matchObj = re.match(lineDict['regex'], line)
-						if matchObj:
-							msgstrList = matchObj.groups()
-							msgstrList = cleanStringList(msgstrList)
-							if 'msgidList' in lineDict:
-								for j, msgid in enumerate(lineDict['msgidList']):
-									if j in lineDict['msgctxtDict']:
-										msgctxt = lineDict['msgctxtDict'][j]
-									else:
-										msgctxt = None
-									msgTuple = (msgid, msgctxt)
-									msgstr = msgstrList[j]
-									if msgTuple not in wordListCurrent:
-										wordListCurrent[msgTuple] = {}
-									wordListItemCurrent = wordListCurrent[msgTuple]
-									if msgstr in wordListItemCurrent:
-										wordListItemCurrent[msgstr]['categories'] += currentCatList
-										wordListItemCurrent[msgstr]['count'] += 1
-									else:
-										wordListItemCurrent[msgstr] = {'categories': currentCatList.copy(), 'count': 1}
-						else:
-							log('Line ' + str(i + 1) + ' in non first-language file ' + str(p0) + ' is skipped because source and template seem to be different.')
-					else:
-						log('Line ' + str(i + 1) + ' in non first-language file ' + str(p0) + ' is skipped because it doesn\'t exist in the template.')
-				f0.close()
-			else:
-				log('Can\'t find non first-language file ' + str(p0) + '.')
-
-	removeDuplicatesAndSetMostfrequent(wordList)
-	addCustomList(wordList)
-
-	return wordList
-
-
-def filterDict(dictObj, callback):
-	filteredDict = {}
-	for (key, value) in dictObj.items():
-		if callback((key, value)):
-			filteredDict[key] = value
-	return filteredDict
-
-
-# conflict priority list explanation:
-# Use the first rule in the highest level priority sublist (sublist is a non-nested list like ['FOLDER:a', 'L1FOLDER:b', 'L1FOLDER:c']) to check a group of words
-# if only one word meets the rule, then returns this one
-# if no word meets the rule, then use next rule in the same level priority sublist to check the current group of words
-# if no word meets the rule and this is the last rule in the current priority sublist, then use lower level priority sublist to check the current group of words
-# if more than one words meet the rule, then use lower level priority sublist to check the new group of words meeting the current rule
-# if more than one words meet the rule and this is the lowest level priority sublist, then use next rule in the same level priority sublist to check the new group of words meeting the current rule
-# if no word or more than one words meet the rule and this is the last rule in the lowest level priority sublist, then returns a random one in the current/new group of words
-
-# find a single msgstr using priority list and wordDicts
-def findMsgstr(priorityList, wordDicts):
-	filteredWordDicts = wordDicts.copy()
-	l = len(priorityList)
-	for i, prioritySublist in enumerate(priorityList):
-		for priority in prioritySublist:
-			filteredWordDictsTemp = filterDict(filteredWordDicts, lambda wordTuple : priority in wordTuple[1]['categories'])
-			lf = len(filteredWordDictsTemp)
-			if lf == 1:
-				return next(iter(filteredWordDictsTemp.keys()))
-			elif lf == 0:
-				continue
-			else: # lf > 1
-				filteredWordDicts = filteredWordDictsTemp.copy()
-				if i == l - 1:
-					continue
-				else:
-					break
-	return random.choice(list(filteredWordDicts.keys()))
-
-
-# use wordList to WRITE ALL msgstr in potDict
-def writeMsgstrInPotDict(wordList, potDict, nonFirstLangs):
-	for currentLang in nonFirstLangs:
-		wordListCurrent = wordList[currentLang]
-		for msgTuple in potDict:
-			if msgTuple in wordListCurrent:
-				if 'msgstr' not in potDict[msgTuple]:
-					potDict[msgTuple]['msgstr'] = {}
-				potDict[msgTuple]['msgstr'][currentLang] = findMsgstr(settings.conflict_priority[currentLang], wordListCurrent[msgTuple])
-			else:
-				log('Can\'t find ' + currentLang + ' language translation of the word "' + msgTuple[0] + '"' + (' (context: ' + msgTuple[1] + ')' if msgTuple[1] != None else '') + '.')
-
-
-# use wordList to WRITE ALL msgstr in potDict
-def generateAllPoFiles(potDict):
-	generatePoFile(potDict)
-	for currentLang in nonFirstLangs:
-		generatePoFile(potDict, False, currentLang)
 
 def discoveredLangs():
 	return sorted(x.name for x in Path(settings.i18n_folder).glob('*') if x.is_dir())
@@ -567,6 +436,46 @@ def po2Mo():
 		polib.pofile(str(p)).save_as_mofile(str(p.with_suffix('.mo')))
 
 
+# rewrite a .po/.pot with every msgid/msgstr on a single line (no gettext
+# line-splitting at \n, no width wrapping) - purely presentational, the
+# string content is identical
+def compactPoFile(path):
+	import re as _re
+	text = Path(path).read_text(encoding = 'utf-8')
+	# the header entry (empty msgid at the top) keeps its conventional
+	# one-metadata-field-per-line format; expand it if it was compacted
+	sep = text.find('\n\n')
+	head, tail = (text[:sep + 1], text[sep + 1:]) if sep > 0 else ('', text)
+	m = _re.search(r'^msgstr "(.+)"\n', head, _re.M)
+	if m and '\\n' in m.group(1):
+		fields = ''.join('"%s\\n"\n' % p for p in m.group(1).split('\\n') if p != '')
+		head = head[:m.start()] + 'msgstr ""\n' + fields + head[m.end():]
+	# rewrap "#:" reference comments treating each "path:line" as atomic:
+	# polib breaks at any space, splitting paths like "Text localization"
+	refPattern = _re.compile(r'^((?:#: [^\n]*\n)+)', _re.M)
+	def rewrap(mm):
+		joined = ' '.join(ln[3:] for ln in mm.group(1).rstrip('\n').split('\n'))
+		refs = [r.strip() for r in _re.findall(r'.+?:\d+(?= |$)', joined)]
+		return wrapRefs(refs)
+	tail = refPattern.sub(rewrap, tail)
+	pattern = _re.compile(
+		r'^((?:#~ )?msg(?:id|str|ctxt|id_plural)(?:\[\d+\])?) ""\n((?:(?:#~ )?"[^\n]*"\n)+)',
+		_re.M)
+	def join(mm):
+		key, block = mm.group(1), mm.group(2)
+		obsolete = key.startswith('#~ ')
+		parts = []
+		for line in block.rstrip('\n').split('\n'):
+			if obsolete and line.startswith('#~ '):
+				line = line[3:]
+			parts.append(line[1:-1]) # strip the surrounding quotes
+		joined = ''.join(parts)
+		if joined == '': # a genuinely empty string keeps the "" form
+			return key + ' ""\n'
+		return key + ' "' + joined + '"\n'
+	writeFileAtomic(path, head + pattern.sub(join, tail), encoding = 'utf-8')
+
+
 # non-destructive .po update after template/source changes: regenerate dev
 # and a fresh .pot, then merge every existing .po against it. Translations
 # are preserved; new strings appear untranslated, removed ones go obsolete.
@@ -577,9 +486,19 @@ def updatePo():
 	import shutil
 	import subprocess
 	from config.languages import DERIVED_LANGUAGES
+	from . import context
+
+	# regenerate the with-context templates from scratch: batchAddContext
+	# only ever adds files, so a stale build/templates_ctx would silently
+	# feed removed templates (or, if wiped externally, nothing at all)
+	ctxPath = Path(settings.template_folder)
+	if ctxPath.is_dir():
+		shutil.rmtree(ctxPath)
+	context.run()
 
 	globalLineDict = template2GlobalLineDict()
 	source1stLang2MsgidList(globalLineDict)
+	canonicalizeMsgids(globalLineDict)
 	source1stLang2Dev(globalLineDict)
 	potDict = globalLineDict2PotDict(globalLineDict)
 	generatePoFile(potDict)
@@ -597,7 +516,17 @@ def updatePo():
 		else:
 			po = polib.pofile(str(poPath))
 			po.merge(polib.pofile(str(potPath)))
-			po.save(str(poPath))
+			tmp = str(poPath) + '.tmp'
+			po.save(tmp)
+			for attempt in range(8):
+				try:
+					os.replace(tmp, str(poPath))
+					break
+				except OSError:
+					if attempt == 7:
+						raise
+					time.sleep(0.7)
+		compactPoFile(poPath)
 		total = translated = 0
 		for e in polib.pofile(str(poPath)):
 			if e.obsolete:
@@ -684,21 +613,9 @@ def mo2Prod(langs):
 def generateDevOnly():
 	globalLineDict = template2GlobalLineDict()
 	source1stLang2MsgidList(globalLineDict)
+	canonicalizeMsgids(globalLineDict)
 	source1stLang2Dev(globalLineDict)
 
-
-def generateDevAndI18n():
-	globalLineDict = template2GlobalLineDict()
-	source1stLang2MsgidList(globalLineDict)
-	source1stLang2Dev(globalLineDict)
-	potDict = globalLineDict2PotDict(globalLineDict)
-	wordList = getWordList(globalLineDict, nonFirstLangs)
-	writeMsgstrInPotDict(wordList, potDict, nonFirstLangs)
-	# print(globalLineDict)
-	# print(wordList)
-	# print(potDict)
-	generateAllPoFiles(potDict)
-	po2Mo()
 
 
 def generateProd():
@@ -715,47 +632,25 @@ def generateProd():
 	mo2Prod(langs)
 
 
-# full bootstrap: dev + pot/po + mo + prod
-# (regenerates .po from the source folders — see `mm678 bootstrap --help`)
-def bootstrap():
-	generateDevAndI18n()
-	generateProd()
-	log('End.', 'n')
-
 
 # create the .po for ONE new language without touching any other language.
-# By default all msgstr are left empty (placeholder). With seedFromSource,
-# translations are harvested from that language's folder in the source dir
-# (existing translated game files), like the original bootstrap flow.
-def newLanguage(lang, seedFromSource = False):
+# All msgstr are left empty: translation happens in Poedit from there
+def newLanguage(lang):
 	if lang == settings.first_language:
 		log('Language ' + lang + ' is the first (source) language; it needs no .po file.', 'e')
 	if lang not in settings.source_encoding or settings.source_encoding[lang] == '':
 		settings.source_encoding[lang] = 'UTF-8'
-	if lang not in settings.conflict_priority or settings.conflict_priority[lang] == '':
-		settings.conflict_priority[lang] = [['MOSTFREQUENT']]
 
 	globalLineDict = template2GlobalLineDict()
 	source1stLang2MsgidList(globalLineDict)
+	canonicalizeMsgids(globalLineDict)
 	potDict = globalLineDict2PotDict(globalLineDict)
-	if seedFromSource:
-		wordList = getWordList(globalLineDict, [lang])
-		writeMsgstrInPotDict(wordList, potDict, [lang])
 	generatePoFile(potDict, False, lang)
 	log('Created ' + settings.i18n_folder + '/' + lang + '/LC_MESSAGES/' + settings.textdomain + '.po', 'n')
 
 
 # ========== Procedural END ==========
 
-
-# custom_list = {
-# 	'zh_CN': {
-# 		'my_translation_zh_1': [
-# 			['first language name', 'this language name'],
-# 			['first language name', 'this language name']
-# 		] # can also be a string indicating the path to a tab-separated file
-# 	}
-# }
 
 # potDict = {
 # 	('msgid', 'msgctxt'): { # 'msgctxt' could be None or ''
@@ -767,19 +662,6 @@ def newLanguage(lang, seedFromSource = False):
 # 			'zh_CN': '??',
 # 			'fr': '??'
 # 		}
-# 	},
-# 	...
-# }
-
-# wordList = {
-# 	'zh_CN': {
-# 		('aabb', context): {
-# 			'????': {
-# 				'categories': [],
-# 				'count': 3
-# 			}
-# 		},
-# 		...
 # 	},
 # 	...
 # }

@@ -52,51 +52,9 @@ source_encoding = languages.source_encoding # defaults are 'UTF-8'
 
 encoding_errors_handling = 'strict' # could be 'strict', 'ignore' (default), 'replace', 'backslashreplace', etc. see https://docs.python.org/3/library/io.html#io.TextIOWrapper
 
-custom_list = {
-	'zh_CN': {
-		# 'my_translation_zh_0': [
-		# 	# ['pet', '家养动物'],
-		# 	[('cat', 'abbr for category'), '类别']
-		# ], # can also be a string indicating the path to a tab-seperated file
-		'customlist_zh_longstrfix': {
-			'file': 'source/zh_CN/customlist/longstrfix.list',
-			# 'encoding': 'UTF-8'
-		},
-		'customlist_zh_globalfix': {
-			'file': 'source/zh_CN/customlist/globalfix.list',
-			# 'encoding': 'UTF-8'
-		},
-		'customlist_zh_riddle': {
-			'file': 'source/zh_CN/customlist/riddle.list',
-			# 'encoding': 'UTF-8'
-		},
-		'customlist_zh_customlist': {
-			'file': 'source/zh_CN/customlist/customlist.list',
-			# 'encoding': 'UTF-8'
-		},
-		'customlist_zh_untrans': {
-			'file': 'source/zh_CN/customlist/untrans.list',
-			# 'encoding': 'UTF-8'
-		},
-		'customlist_zh_npctextnew': {
-			'file': 'source/zh_CN/customlist/npctextnew.list',
-			# 'encoding': 'UTF-8'
-		}
-	}
-}
-
-conflict_priority = {
-	'zh_CN': [
-		['CUSTOMLIST:customlist_zh_longstrfix'],
-		['CUSTOMLIST:customlist_zh_globalfix'],
-		['CUSTOMLIST:customlist_zh_riddle'],
-		['CUSTOMLIST:customlist_zh_customlist'],
-		['CUSTOMLIST:customlist_zh_untrans'],
-		['CUSTOMLIST:customlist_zh_npctextnew'],
-		['L1FOLDER:mmmerge', 'L1FOLDER:mm6', 'L1FOLDER:mm7', 'L1FOLDER:mm8'],
-		['MOSTFREQUENT']
-	]
-}
+# (the custom_list/conflict_priority settings for the legacy bootstrap
+# extraction were removed; assets/customlist_zh_CN keeps the old override
+# lists as an archive — their decisions are baked into the zh_CN .po)
 
 # Language exclusion list containing languages present in the source folder, but do not need to proceed and generate i18n files
 # default is []

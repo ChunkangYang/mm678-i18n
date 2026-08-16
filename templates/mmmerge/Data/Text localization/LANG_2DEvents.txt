@@ -626,22 +626,22 @@
 625	_(TRANS)_	Placeholder		
 626	_(TRANS)_	Placeholder		
 627	_(TRANS)_	Placeholder		
-628	_(TRANS)_	Placeholder		
+628	Weapon shop placeholder	Placeholder		
 629	_(TRANS)_	Placeholder		
 630	_(TRANS)_	Placeholder		
-631	_(TRANS)_	Placeholder		
-632	_(TRANS)_	Placeholder		
-633	_(TRANS)_	Placeholder		
+631	Armor shop placeholder	Placeholder		
+632	Magic shop placeholder	Placeholder		
+633	Spell shop placeholder	Placeholder		
 634	_(TRANS)_	Placeholder		
 635	_(TRANS)_	Placeholder		
-636	_(TRANS)_	Placeholder		
-637	_(TRANS)_	Placeholder		
+636	Alchemist placeholder	Placeholder		
+637	Temple placeholder	Placeholder		
 638	_(TRANS)_	Placeholder		
 639	_(TRANS)_	Placeholder		
 640	_(TRANS)_	Placeholder		
 641	_(TRANS)_	Placeholder		
-642	_(TRANS)_	Placeholder		
-643	_(TRANS)_	Placeholder		
+642	Bank placeholder	Placeholder		
+643	Training hall placeholder	Placeholder		
 644	_(TRANS)_	Placeholder		
 645	_(TRANS)_	Placeholder		
 646	_(TRANS)_	Placeholder		

@@ -184,21 +184,21 @@ AutonoteTxt	0
 	182		_(TRANS)_
 	183		_(TRANS)_
 	184		_(TRANS)_
-	185		_(TRANS)_
-	186		_(TRANS)_
-	187		_(TRANS)_
-	188		_(TRANS)_
-	189		_(TRANS)_
-	190		_(TRANS)_
+	185		dodging expert unused
+	186		dodging master unused
+	187		dodging gm unused
+	188		unarmed expert unused
+	189		unarmed master unused
+	190		unarmed gm unused
 	191		_(TRANS)_
 	192		_(TRANS)_
 	193		_(TRANS)_
 	194		_(TRANS)_
 	195		_(TRANS)_
 	196		_(TRANS)_
-	197		_(TRANS)_
-	198		_(TRANS)_
-	199		_(TRANS)_
+	197		stealing expert unused
+	198		stealing master unused
+	199		stealing gm unused
 	200		_(TRANS)_
 	201		_(TRANS)_
 	202		_(TRANS)_
@@ -299,15 +299,15 @@ AutonoteTxt	0
 	297		_(TRANS)_
 	298		_(TRANS)_
 	299		_(TRANS)_
-	300		_(TRANS)_
-	301		_(TRANS)_
-	302		_(TRANS)_
-	303		_(TRANS)_
-	304		_(TRANS)_
-	305		_(TRANS)_
-	306		_(TRANS)_
-	307		_(TRANS)_
-	308		_(TRANS)_
+	300		0
+	301		0
+	302		0
+	303		0
+	304		0
+	305		0
+	306		0
+	307		0
+	308		0
 	309		_(TRANS)_
 	310		_(TRANS)_
 	311		_(TRANS)_
@@ -695,4 +695,4 @@ AutonoteTxt	0
 	693		_(TRANS)_
 	694		_(TRANS)_
 	695		_(TRANS)_
-	696		_(TRANS)_
+	696		0

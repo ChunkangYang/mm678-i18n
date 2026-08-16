@@ -320,8 +320,8 @@ NPCGreet	0	1
 	318	1	_(TRANS)_
 	319	1	_(TRANS)_
 	320	1	_(TRANS)_
-	321	1	_(TRANS)_
-	322	1	_(TRANS)_
+	321	1	MMExt Placeholder
+	322	1	MMExt Placeholder
 	323	1	_(TRANS)_
 	324	1	_(TRANS)_
 	325	1	_(TRANS)_
