@@ -157,28 +157,38 @@ releases). File presence ≠ engine use:
 
 `assets/font` layout: flat files under `<enc>/` apply to every game; the
 optional `<enc>/67` and `<enc>/8` subdirs are per-family overrides copied
-on top (67 = MM6/MM7, 8 = MM8/Merge). Currently: `cp1252/` fully flat;
-`cp1250/` flat Polish set + an `8/` layer (its own `spell.fnt` and
-`calig.fnt`); `cp1251/{67,8}` fully split (the mm6/7 and mm8 Russian
-localizations redrew every font differently). A font absent from a set is
-deliberately not overridden — the game keeps its stock English file, same
-as the official localized releases did. postprod drops per-game dead
-files via `fontExcludes()` (cchar for mm8/merge).
+on top (67 = MM6/MM7, 8 = MM8/Merge). Currently all three encodings are
+fully flat, 14 fonts each: `cp1252/` = the EN 2.5.7 set; `cp1250/` = the
+Polish set (16px spell, plus our redrawn CCHAR and grafts); `cp1251/` = a
+per-font best-of mix of the mm6/7 and Buka mm8 Russian sets. The localized
+mm8-era calig ships to every game (its per-game engine usage is unknown;
+worst case a game never loads it). postprod drops per-game dead files via
+`fontExcludes()` (cchar for mm8/merge).
 
 ## Engine font facts (identical files across MM6/7/8)
 
 | font | height | style | typical use |
 |---|---|---|---|
 | Smallnum | 14 | shadow | smallest UI font |
+| Legal | 15 | glow | legal screen (not in [dbcsFont] — no CJK goes through it) |
 | Spell | 16 | plain | spellbook |
 | Lucida | 17 | shadow | status bar |
 | Create | 18 | shadow | character creation |
 | Autonote | 18 | black | autonotes |
 | Arrus | 19 | shadow | main dialog font |
 | Comic | 19 | shadow | |
-| Book | 25 | shadow | book headings |
+| Endgame | 20 | plain | endgame credits (not in [dbcsFont]) |
+| Quick | 20 | glow | quick reference (not in [dbcsFont]) |
+| Book | 25 | **glow** | book headings |
+| Calig | 27 | — | special legacy layout, ship verbatim |
 | Cchar | 29 | shadow | credits (MM6/MM7) |
-| Book2 | 30 | shadow | large titles |
+| Book2 | 30 | **glow** | large titles |
+
+`shadow` = value-1 pixels offset (+1,+1) right-down only; `glow` = value-1
+outline on all four sides; `black` = whole body drawn with value 1;
+`plain` = body only. FNT_DBCS auto-detects all four (glow keys off value-1
+pixels sitting on the body's LEFT flank) and renders BDF glyphs the same
+way; an explicit `shadow/glow/plain/black` ini flag overrides.
 
 ## .fnt format (for reference)
 

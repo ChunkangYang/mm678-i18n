@@ -32,8 +32,8 @@ DBCS_FONT_TEMPLATE = '''
 ; with are cropped away and the glyph sits one pixel below the game font's
 ; baseline. An integer flag (0-10) adds that many pixels of line spacing for
 ; THIS font only (e.g. Smallnum=font.bdf,2; stacks with lineSpacing above).
-; The glyph style (shadow / plain / black) is auto-detected from each game
-; font's own glyphs; add a shadow/plain/black flag only to override it.
+; The glyph style (shadow / glow / plain / black) is auto-detected from
+; each game font's own glyphs; add such a flag only to override it.
 ; Default takes one or more comma-separated files; fonts without their own
 ; line pick from them by height (largest that fits, else smallest).
 Default=
@@ -47,9 +47,9 @@ Arrus=
 Create=
 ; Comic: height 19, shadow style
 Comic=
-; Book: height 25, shadow style (book headings)
+; Book: height 25, glow style - outline on all four sides (book headings)
 Book=
-; Book2: height 30, shadow style (large titles)
+; Book2: height 30, glow style (large titles)
 Book2=
 ; Cchar: height 29, shadow style (credits; MM6/MM7)
 Cchar=
@@ -68,14 +68,12 @@ def mmarch(*args):
 
 
 # assets/font layout (audited 2026-08, docs/dev/fonts.md): flat files
-# under <enc>/ apply to every game; <enc>/67 and <enc>/8 hold per-family
-# overrides/additions on top (copied second, so they win).
-#   cp1252/       one flat set - EN 2.5.7 fonts are byte-identical across
-#                 MM6/7/8 (GrayFace unified the old mm8 LEGAL)
-#   cp1250/ + 8/  Polish set shared by all games; mm8 differs only in
-#                 spell.fnt and adds its own calig.fnt
-#   cp1251/{67,8} fully split - the mm6/7 and mm8 Russian localizations
-#                 redrew every font differently
+# under <enc>/ apply to every game; optional <enc>/67 and <enc>/8 subdirs
+# hold per-family overrides/additions on top (copied second, so they win).
+# All three encodings are currently fully flat (14 fonts each): cp1252 =
+# the EN 2.5.7 set (byte-identical across MM6/7/8), cp1250 = the Polish
+# set + redrawn glyphs, cp1251 = a per-font best-of mix of the mm6/7 and
+# Buka mm8 Russian sets. The localized calig ships to every game.
 def fontFamily(mmVersion):
 	return '8' if mmVersion in ('8', 'merge') else '67'
 

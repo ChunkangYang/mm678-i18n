@@ -427,10 +427,11 @@ end
 -- [dbcsFont] section:
 --   [dbcsFont]
 --   Arrus=wqy16.bdf          (style auto-detected from the game font's own
---                             glyphs: shadow / plain / black - so Autonote
---                             comes out black, Spell plain, the rest shadow)
---   Comic=wqy16.bdf,plain    (an explicit shadow/plain/black flag overrides
---                             the detection)
+--                             glyphs: shadow / glow / plain / black - so
+--                             Autonote comes out black, Spell plain,
+--                             Book/Book2 glow, the rest shadow)
+--   Comic=wqy16.bdf,plain    (an explicit shadow/glow/plain/black flag
+--                             overrides the detection)
 --   Smallnum=fusion12.bdf,2  (integer = extra line spacing for THIS font in
 --                             pixels, 0-10: the engine font is heightened and
 --                             its glyphs repadded at runtime, so lines of this
@@ -463,7 +464,7 @@ for name, spec in pairs(iniFonts) do
 		-- adj = per-font extra line spacing in pixels (nil/0 = none)
 		local files, style, adj = {}, nil, nil
 		for tok in spec:gmatch("[^,%s]+") do
-			if tok == "plain" or tok == "black" or tok == "shadow" then
+			if tok == "plain" or tok == "black" or tok == "shadow" or tok == "glow" then
 				style = tok
 			elseif tok:match("^[+%-]?%d+$") then
 				adj = tonumber(tok) -- extra line spacing for this font
@@ -681,8 +682,9 @@ end
 
 -- build one glyph in the engine's format. Styles (from the shipped fonts'
 -- actual pixel conventions): "shadow" = body 255 + value-1 pixels offset
--- (+1,+1); "plain" = body 255 only (e.g. Spell); "black" = body value 1
--- only (e.g. Autonote). The glyph is placed on the BDF's declared canvas,
+-- (+1,+1); "glow" = value-1 outline on all four sides (Book/Book2);
+-- "plain" = body 255 only (e.g. Spell); "black" = body value 1 only
+-- (e.g. Autonote). The glyph is placed on the BDF's declared canvas,
 -- then only the font's ink band is emitted (blank canvas rows above/below
 -- the ink are always cropped; shadow style keeps one extra row so the
 -- bottom row's drop shadow survives). Vertical placement inside the host
@@ -765,12 +767,39 @@ local function bdfBuildGlyph(obj, cp, style)
 				end
 			end
 		end
+	elseif style == "glow" then -- 4-neighbour outline, value 1 (Book/Book2)
+		for rr = 1, h + 1 do
+			local row = grid[rr]
+			for cc = 1, w do
+				if row[cc] == 255 then
+					if cc > 1 and row[cc - 1] == 0 then
+						row[cc - 1] = 1
+					end
+					if cc < w and row[cc + 1] == 0 then
+						row[cc + 1] = 1
+					end
+					local up = grid[rr - 1]
+					if up and up[cc] == 0 then
+						up[cc] = 1
+					end
+					local dn = grid[rr + 1]
+					if dn and dn[cc] == 0 then
+						dn[cc] = 1
+					end
+				end
+			end
+		end
 	end
 	-- emit only the ink band: the blank rows the BDF pads its canvas with are
 	-- cropped no matter what; shadow always keeps one extra row so the bottom
 	-- ink row's drop shadow survives (the grid has h+1 rows for exactly this)
 	local sliceTop, sliceBot = obj.bandTop, obj.bandBot
 	if style == "shadow" then
+		sliceBot = sliceBot + 1
+	elseif style == "glow" then -- keep the outline above AND below the ink
+		if sliceTop > 1 then
+			sliceTop = sliceTop - 1
+		end
 		sliceBot = sliceBot + 1
 	end
 	local parts = {}
@@ -786,12 +815,14 @@ end
 -- detect the host font's native glyph style by sampling its own glyph pixels
 -- (same criterion as the offline font survey): only value-1 pixels = black
 -- (e.g. Autonote), 255 with few/no 1s = plain (e.g. Spell), both = shadow
+-- unless the 1s also flank the body's left side, which means a four-side
+-- outline = glow (Book/Book2)
 local function detectStyle(font)
 	local m = getFontM(font)
 	if m.style then
 		return m.style
 	end
-	local n255, n1 = 0, 0
+	local n255, n1, nGlowSide = 0, 0, 0
 	local lastInk = -1 -- deepest row with any pixel (fallback bottom measure)
 	local botFreq = {} -- per-char bottom rows of 0-9/A-Z: most of them sit
 	local scanned = 0  -- flat on the baseline, so the MODE is the baseline
@@ -818,6 +849,12 @@ local function detectStyle(font)
 						n255 = n255 + 1
 					elseif v == 1 then
 						n1 = n1 + 1
+						-- a value-1 pixel with body to its RIGHT sits on the
+						-- body's left flank: drop shadows (+1,+1) almost
+						-- never do that, glow outlines always do
+						if i % w + 1 < w and u1[g + i + 1] == 255 then
+							nGlowSide = nGlowSide + 1
+						end
 					end
 				end
 			end
@@ -839,14 +876,16 @@ local function detectStyle(font)
 		style = "black"
 	elseif n255 > 0 and n1 <= n255 * 0.15 then
 		style = "plain"
+	elseif nGlowSide >= n1 * 0.2 then
+		style = "glow" -- symmetric outline (Book/Book2 do this)
 	else
 		style = "shadow"
 	end
 	m.style = style
 	m.botGap = lastInk >= 0 and (m.h - 1 - lastInk) or 0
 	m.baseRow = baseRow >= 0 and baseRow or nil
-	dlog(format("font %X style detected: %s (255:%d 1:%d), bottom pad %d, baseline %s",
-		font, style, n255, n1, m.botGap, tostring(m.baseRow)))
+	dlog(format("font %X style detected: %s (255:%d 1:%d glowside:%d), bottom pad %d, baseline %s",
+		font, style, n255, n1, nGlowSide, m.botGap, tostring(m.baseRow)))
 	return style
 end
 
