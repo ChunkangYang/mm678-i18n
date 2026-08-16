@@ -125097,23 +125097,23 @@ msgstr "梳妆台"
 #: mm6/mm6lang.ini.py:9 mm7/mm7lang.ini.py:11
 msgctxt "mm_lang.ini"
 msgid "Select a spell then click here to set an Attack Spell"
-msgstr "选择一个法术，然后点击这里将其设为攻击法术"
+msgstr "选择一个魔法，然后点击这里将其设为攻击魔法"
 
 #: mm6/mm6lang.ini.py:10 mm7/mm7lang.ini.py:12
 msgctxt "mm_lang.ini"
 msgid "Set %s as the Attack Spell"
-msgstr "将%s设为攻击法术"
+msgstr "将%s设为攻击魔法"
 
 #: mm6/mm6lang.ini.py:11 mm7/mm7lang.ini.py:13
 msgctxt "mm_lang.ini"
 msgid "Set as Attack Spell (instead of %s)"
-msgstr "设为攻击法术（替代%s）"
+msgstr "设为攻击魔法（替代%s）"
 
 #: mm6/mm6lang.ini.py:12 mm7/mm7lang.ini.py:14 mm8/mm8lang.ini.py:12
 #: mmmerge/mm8lang.ini.py:12
 msgctxt "mm_lang.ini"
 msgid "Remove Attack Spell (%s)"
-msgstr "移除攻击法术（%s）"
+msgstr "取消攻击魔法（%s）"
 
 #: mm6/mm6lang.ini.py:13 mm7/mm7lang.ini.py:22 mm8/mm8lang.ini.py:20
 #: mmmerge/mm8lang.ini.py:20
@@ -125164,17 +125164,17 @@ msgstr "能量药剂"
 #: mm8/mm8lang.ini.py:9 mmmerge/mm8lang.ini.py:9
 msgctxt "mm_lang.ini"
 msgid "No Attack Spell"
-msgstr "无攻击法术"
+msgstr "无攻击魔法"
 
 #: mm8/mm8lang.ini.py:10 mmmerge/mm8lang.ini.py:10
 msgctxt "mm_lang.ini"
 msgid "Set as Attack Spell"
-msgstr "设为攻击法术"
+msgstr "设为攻击魔法"
 
 #: mm8/mm8lang.ini.py:11 mmmerge/mm8lang.ini.py:11
 msgctxt "mm_lang.ini"
 msgid "Change Attack Spell (%s)"
-msgstr "更改攻击法术（%s）"
+msgstr "更改攻击魔法（%s）"
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:65
 msgctxt "scroll"

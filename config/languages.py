@@ -6,7 +6,7 @@
 #   source_encoding  encoding of the files in the source folder for that
 #                    language; omit for UTF-8 (e.g. fr sources were converted
 #                    to UTF-8, unlike en/zh which are kept in game encoding)
-#   i18n_version     version of this language's patch
+#   i18n_version     date (YYYY-MM-DD) this language's patch content was last updated
 #   dbcs_fonts       for DBCS languages: the BDF font per engine font name
 #                    (shipped into Data\DBCSFonts\ and filled into the built
 #                    LocalizeConf.ini's [dbcsFont] section)
@@ -28,27 +28,27 @@ def _dbcs_fonts(f12, f14, f24):
 
 
 LANGUAGES = {
-	'en':    {'encoding': 'cp1252', 'source_encoding': 'cp1252', 'i18n_version': '2.3'},
-	'fr':    {'encoding': 'cp1252',                              'i18n_version': '2.3'},
-	'de':    {'encoding': 'cp1252',                              'i18n_version': '2.3'},
-	'es':    {'encoding': 'cp1252',                              'i18n_version': '2.3'},
-	'it':    {'encoding': 'cp1252',                              'i18n_version': '2.3'},
-	'ru':    {'encoding': 'cp1251',                              'i18n_version': '2.3'},
-	'cs':    {'encoding': 'cp1250',                              'i18n_version': '2.3'},
-	'pl':    {'encoding': 'cp1250',                              'i18n_version': '2.3'},
-	'ko':    {'encoding': 'euc_kr',                              'i18n_version': '2.3',
+	'en':    {'encoding': 'cp1252', 'source_encoding': 'cp1252', 'i18n_version': '2026-08-16'},
+	'fr':    {'encoding': 'cp1252',                              'i18n_version': '2026-08-16'},
+	'de':    {'encoding': 'cp1252',                              'i18n_version': '2026-08-16'},
+	'es':    {'encoding': 'cp1252',                              'i18n_version': '2026-08-16'},
+	'it':    {'encoding': 'cp1252',                              'i18n_version': '2026-08-16'},
+	'ru':    {'encoding': 'cp1251',                              'i18n_version': '2026-08-16'},
+	'cs':    {'encoding': 'cp1250',                              'i18n_version': '2026-08-16'},
+	'pl':    {'encoding': 'cp1250',                              'i18n_version': '2026-08-16'},
+	'ko':    {'encoding': 'euc_kr',                              'i18n_version': '2026-08-16',
 	          'dbcs_fonts': _dbcs_fonts('fusion-pixel-12px-ko.bdf',
 	                                    'Galmuri14.bdf',
 	                                    'LXGWWenKaiKR-Medium-24px.bdf')},
-	'ja':    {'encoding': 'shift_jis',                           'i18n_version': '2.3',
+	'ja':    {'encoding': 'shift_jis',                           'i18n_version': '2026-08-16',
 	          'dbcs_fonts': _dbcs_fonts('fusion-pixel-12px-ja.bdf',
 	                                    'Shinonome-14px.bdf',
 	                                    'KleeOne-SemiBold-24px.bdf')},
-	'zh_CN': {'encoding': 'gb2312', 'source_encoding': 'gb2312', 'i18n_version': '2.3',
+	'zh_CN': {'encoding': 'gb2312', 'source_encoding': 'gb2312', 'i18n_version': '2026-08-16',
 	          'dbcs_fonts': _dbcs_fonts('fusion-pixel-12px-zh_hans.bdf',
 	                                    'wenquanyi_14px.bdf',
 	                                    'LXGWWenKaiGB-Medium-24px.bdf')},
-	'zh_TW': {'encoding': 'big5',   'source_encoding': 'big5',   'i18n_version': '2.3',
+	'zh_TW': {'encoding': 'big5',   'source_encoding': 'big5',   'i18n_version': '2026-08-16',
 	          'dbcs_fonts': _dbcs_fonts('fusion-pixel-12px-zh_hant.bdf',
 	                                    'wenquanyi_14px.bdf',
 	                                    'LXGWWenKaiTC-Medium-24px.bdf')},

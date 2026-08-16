@@ -6,20 +6,20 @@ from config.languages import LANGUAGES, langEncDict, dbcsLangs, dbcsEncs  # noqa
 
 versions = {
 	'grayface': {
-		'6': '2.4',
-		'7': '2.4',
-		'8': '2.4.1',
+		'6': '2.5.7',
+		'7': '2.5.7',
+		'8': '2.5.7',
 	},
-	'merge': '2021-07-05',
-	# per-language i18n version (derived from languages.py)
+	'merge': '2024-10-30',
+	# per-language i18n version (last-update date, derived from languages.py)
 	'i18n': {lang: meta['i18n_version'] for lang, meta in LANGUAGES.items()},
 }
 
 # Release identity of the language-patch installers themselves
 # (used as NSIS VERSION / VERSIONDOT defines)
 i18n_release = {
-	'date': '2021-07-09',
-	'dot': '4.0.0.0',
+	'date': '2026-08-16',
+	'dot': '2026.8.16.0',
 }
 
 # Which installers to build: one entry per produced setup .exe / extract-over .zip.
