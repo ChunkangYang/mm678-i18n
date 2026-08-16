@@ -13,8 +13,12 @@
 - [ ] `exsetscrk.bmp`——上游加了 **"EXTRA KEYBINDS"** 大标题,中文版没有,
   需补(建议:额外按键绑定)
 - `exsetscr2.bmp` 仅底图重导出差异,无需改动
-- (可选)FR 包做了、我们从未做过的:MM6 法术书页签 `sb*000a` 12 张、
-  `bt_16x/32x` 分辨率按钮 4 张、`layout.pcx`/`sprites.pcx`
+- (可选大工程)**Arcomage 酒馆卡牌小游戏汉化**:`Sprites.pcx`(960×2500
+  图集,含全部卡牌效果文字与 commencer/quitter 等按钮,LocFR 已全翻)、
+  `Layout.PCX`(棋盘背景,FR 版与英文原版字节相同,无文字)。英文原版在
+  `original-latest\mmmerge\Data\mm8.D.lod`,法语参考版在
+  `C:\Users\Chen\Downloads\LocFR\zz LocFR.D.lod`。FR 包里其余非 wav 差异
+  (法术书空白页 sb*000a、16x/32x 按钮)经比对无文字变化,不需要做
 
 ## Pipeline / packaging
 
@@ -23,10 +27,7 @@
   `zz LocZHCN.{T,D,icons}.lod` 三件套后,旧包升级需清理
 - `config/versions.py` 的 merge 版本号更新到最新基线
 - 安装包清理其他语言的残留文件
-- 整合版补丁装不进 MM8，但 MM8 补丁能装进整合版——应让后者也不可以
 - 视频本地化：`assets/video/zh_CN` → `Anims/10 LocZHCN.Magicdod.vid`
-- `%` 转义（`#, python-format`）研究
-- 比较 Merge 的 rodril 分支与 master 分支的脚本差异
 
 ## Untranslated / display bugs
 
@@ -53,11 +54,15 @@
 - Noble Plate Armor 无穿戴状态图 `evt.GiveItem{1,0,880}`
 - 幽灵沼泽门不对 (mm6)
 - 阿拉莫斯城堡传送器 (mm6)
-- 天气效果无法立即关闭
 
 ## Ideas
 
-- 魔法门7、6的灰脸补丁简体中文汉化
 - 中文视频
-- 其他语言语言包自动生成（`mm678 new-language` 已提供基础）
 - 其他语言的介绍文字
+
+## 其他
+
+- 把简体、繁体中文的所有图片上的“科洛尼世界”改为“恩洛斯世界”
+- extract简体繁体的mm6、7需要翻译的（和英文版不同的）图片
+- 似乎mm6有的需要修改，在\assets\img\dev\zh_CN\mm6里面
+- 其他语言语言包生成po（`mm678 new-language` 已提供基础）、extract图片、翻译等等
