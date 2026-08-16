@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Might and Magic 6 7 8 Translation\n"
-"POT-Creation-Date: 2026-08-16 17:43+0200\n"
-"PO-Revision-Date: 2026-08-16 17:43+0200\n"
+"POT-Creation-Date: 2026-08-16 20:58+0200\n"
+"PO-Revision-Date: 2026-08-16 20:58+0200\n"
 "Last-Translator: Tom Chen <tomchen.org@gmail.com>\n"
 "Language-Team: Might and Magic Unofficial Translation Team\n"
 "Language: en\n"
@@ -47392,7 +47392,7 @@ msgstr ""
 #: mmmerge/Data/10LocLANG.T/7out13.STR.py:27
 #: mm7/DATA/10LocLANG.events/Out13.STR.py:27
 msgctxt "location"
-msgid "The Mercenary Guild"
+msgid "The Mercenary Guild "
 msgstr ""
 
 #: mmmerge/Data/Text localization/LANG_MapStats.txt.py:97

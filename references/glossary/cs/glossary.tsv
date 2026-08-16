@@ -1,0 +1,2436 @@
+# GENERATED - do not edit translations here. Regenerate with:
+#   python tools/build_glossary.py
+# Term selection lives in references/glossary/glossary-terms.tsv;
+# the translations are looked up in translations/cs/.../mm678.po.
+# Columns: msgctxt <TAB> English <TAB> cs
+autonote or awards	Accuracy Boost (White) = Orange + Yellow and Orange Layered	Zvýšení přesnosti (bílý) = oranžový + žlutý a oranžový vrstvený
+autonote or awards	Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered	Odolnost proti vzduchu (bílý) = červený a oranžový vrstvený + modrý a fialový vrstvený
+autonote or awards	Awaken (Green) = Yellow + Blue	Probuzení (zelený) = žlutý + modrý
+autonote or awards	Bless (Red and Green Layered) = Red + Green	Požehnání (červený a zelený vrstvený) = červený + zelený
+autonote or awards	Bless (White) = Purple + Blue	Požehnání (Bílá) = Fialová + Modrá
+autonote or awards	Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered	Odolnost proti tělu (bílý) = modrý a zelený vrstvený + žlutý a oranžový vrstvený
+autonote or awards	Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	Katalyzátor (šedý) = houby + prázdná láhev. Pro zvýšení efektu se mohou použít vydatnější šedé přísady.
+autonote or awards	Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	Katalyzátor (šedý) = houby + prázdná láhev. Pro zvýšení efektu se mohou použít vydatnější šedé přísady.
+autonote or awards	Cure Disease (Orange) = Yellow + Red	Léčení nemocí (oranžový) = žlutý + červený
+autonote or awards	Cure Insanity (Orange and Green Layered) = Orange + Green	Odstranění šílenství (oranžový a zelený vrstvený) = oranžový + zelený
+autonote or awards	Cure Paralysis (White) = Green + Yellow and Orange Layered	Lék na ochromení (bílý) = zelený + žlutý a oranžový vrstvený
+autonote or awards	Cure Paralysis (White) = Orange + Yellow and Green Layered	Lék na ochromení (bílý) = oranžový + žlutý a zelený vrstvený
+autonote or awards	Cure Poison (Purple) = Blue + Red	Protijed (fialový) = modrý + červený
+autonote or awards	Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.	Posilovací nápoj (žlutý) = žluté květy máku + prázdná láhev. Pro zvýšení efektu se mohou použít vydatnější žluté přísady.
+autonote or awards	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle	Hojení ran (Červená) = Brusinkové bobule + prázdná láhev
+autonote or awards	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.	Hojení ran (červený) = bobule kominíčku + prázdná láhev. Pro zvýšení efektu se mohou použít vydatnější červené přísady.
+autonote or awards	Divine Boost = Divine Power + Any attribute boost potion.	
+autonote or awards	Divine Cure (Black) = Restoration + Orange	Božská léčba (Černá) = Vzkříšení + Oranžová
+autonote or awards	Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered	Božský lék (bílý) = červený a oranžový vrstvený + žlutý a oranžový vrstvený
+autonote or awards	Divine Magic (Black) = Super Resistance + Green	Božská magie (Černá) = Super odolnost + Zelená
+autonote or awards	Divine Power (Black) = Extreme Energy + Purple	Božská síla (Černá) = Nesmírná energie + Fialová
+autonote or awards	Divine Power (White) = Blue and Green Layered + Yellow and Green Layered	Božská síla (bílý) = modrý a zelený vrstvený + žlutý a zelený vrstvený
+autonote or awards	Divine Protection = Divine Cure + Any resistance potion.	
+autonote or awards	Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered	Božské uzdravení (bílý) = modrý a fialový vrstvený + žlutý a oranžový vrstvený
+autonote or awards	Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered	Božské uzdravení (bílý) = červený a oranžový vrstvený + modrý a zelený vrstvený
+autonote or awards	Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered	Božské uzdravení (bílý) = červený a fialový vrstvený + žlutý a zelený vrstvený
+autonote or awards	Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)	
+autonote or awards	Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered	Odolnost proti zemi (bílý) = červený a fialový vrstvený + žlutý a oranžový vrstvený
+autonote or awards	Endurance Boost (White) = Purple + Blue and Purple Layered	Zvýšení odolnosti (bílý) = fialový + modrý a fialový vrstvený
+autonote or awards	Energy (Yellow) = Poppysnaps + Empty Bottle	Energie (Žlutá) = Petrklíče + prázdná láhev
+autonote or awards	Essence of Accuracy (Black) = Bless + Yellow	Esence Přesnosti (Černá) = Požehnání + Žlutá
+autonote or awards	Essence of Accuracy = Cure Insanity + Stoneskin	
+autonote or awards	Essence of Endurance (Black) = Supreme Protection + Yellow	Esence Odolnosti (Černá) = Maximální ochrana + Žlutá
+autonote or awards	Essence of Endurance = Remove Curse + Recharge Item	
+autonote or awards	Essence of Intellect (Black) = Stone Skin + Blue	Esence Intelektu (Černá) = Kamenná kůže + Modrá
+autonote or awards	Essence of Intellect = Remove Curse + Shield	
+autonote or awards	Essence of Luck (Black) = Super Resistance + Purple	Esence Štěstí (Černá) = Super odolnost + Fialová
+autonote or awards	Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin	
+autonote or awards	Essence of Might (Black) = Heroism + Red	Esence Síly (Černá) = Hrdinství + Červená
+autonote or awards	Essence of Might = Remove Fear + Heroism	
+autonote or awards	Essence of Personality (Black) = Restoration + Blue	Esence Osobnosti (Černá) = Vzkříšení + Modrá
+autonote or awards	Essence of Personality = Remove Fear + Haste	
+autonote or awards	Essence of Speed (Black) = Haste + Red	Esence Rychlosti (Černá) = Zrychlení + Červená
+autonote or awards	Essence of Speed = Cure Insanity + Harden Item	
+autonote or awards	Extreme Energy (White) = Orange + Yellow	Extrémní energie (Bílá) = Oranžová + Žlutá
+autonote or awards	Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered	Odolnost proti ohni (bílý) = červený a oranžový vrstvený + žlutý a zelený vrstvený
+autonote or awards	Flaming Potion (White) = Green + Red and Orange Layered	Plamenný nátěr (bílý) = zelený + červený a oranžový vrstvený
+autonote or awards	Flaming Potion (White) = Purple + Yellow and Orange Layered	Plamenný nátěr (bílý) = fialový + žlutý a oranžový vrstvený
+autonote or awards	Freezing Potion (White) = Green + Red and Purple Layered	Mrazivý nátěr (bílý) = zelený + červený a fialový vrstvený
+autonote or awards	Freezing Potion (White) = Orange + Blue and Purple Layered	Mrazivý nátěr (bílý) = oranžový + modrý a fialový vrstvený
+autonote or awards	Harden Item (Yellow and Green Layered) = Yellow + Green	Zpevnění předmětu (žlutý a zelený vrstvený) = žlutý + zelený
+autonote or awards	Haste (Red and Orange Layered) = Red + Orange	Zrychlení (červený a oranžový vrstvený) = červený + oranžový
+autonote or awards	Haste (White) = Green + Yellow	Zrychlení (Bílá) = Zelená + Žlutá
+autonote or awards	Heroism (Red and Purple Layered) = Red + Purple	Hrdinství (červený a fialový vrstvený) = červený + fialový
+autonote or awards	Heroism (White) = Orange + Red	Hrdinství (Bílá) = Oranžová + Červená
+autonote or awards	Intellect Boost (White) = Green + Yellow and Green Layered	Zvýšení inteligence (bílý) = zelený + žlutý a zelený vrstvený
+autonote or awards	Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered	Zvýšení štěstí (bílý) = červený a fialový vrstvený + modrý a fialový vrstvený
+autonote or awards	Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered	Zvýšení štěstí (bílý) = červený a fialový vrstvený + modrý a fialový vrstvený
+autonote or awards	Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.	Magický nápoj (modrý) = kořen z phimy + prázdná láhev. Pro zvýšení efektu se mohou použít vydatnější modré přísady.
+autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle	Magický lektvar (Modrá) = Kořen phirny + prázdná láhev
+autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.	Magický nápoj (modrý) = kořen z phimy + prázdná láhev. Pro zvýšení efektu se mohou použít vydatnější modré přísady.
+autonote or awards	Might Boost (White) = Purple + Red and Purple Layered	Zvýšení síly (bílý) = fialový + červený a fialový vrstvený
+autonote or awards	Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered	Odolnost proti mysli (bílý) = červený a fialový vrstvený + modrý a zelený vrstvený
+autonote or awards	Noxious Potion (White) = Orange + Blue and Green Layered	Zhoubný nátěr (bílý) = oranžový + modrý a zelený vrstvený
+autonote or awards	Noxious Potion (White) = Purple + Yellow and Green Layered	Zhoubný nátěr (bílý) = fialový + žlutý a zelený vrstvený
+autonote or awards	Personality Boost (White) = Green + Blue and Green Layered	Zvýšení osobnosti (bílý) = zelený + modrý a zelený vrstvený
+autonote or awards	Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity	
+autonote or awards	Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.	
+autonote or awards	Preservation (Blue and Orange Layered) = Blue + Orange	Ochrana (modrý a oranžový vrstvený) = modrý + oranžový
+autonote or awards	Protection (Orange) = Yellow + Red	Ochrana (Oranžová) = Žlutá + Červená
+autonote or awards	Protection from Magic = Cure Insanity + Bless	
+autonote or awards	Protection from Magic = Remove Curse + Water Breathing	
+autonote or awards	Protection from Magic = Remove Fear + Preservation	
+autonote or awards	Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)	Elixír přesnosti (černý) = zelený lektvar + Zvýšení přesnosti (bílý)
+autonote or awards	Pure Air Resistance = Essence of Luck + Air Resistance	
+autonote or awards	Pure Body Resistance = Essence of Luck + Body Resistance	
+autonote or awards	Pure Earth Resistance = Essence of Luck + Earth Resistance	
+autonote or awards	Pure Endurance (Black) = Green Potion + Endurance Boost (White)	Elixír odolnosti (černý) = zelený lektvar + Zvýšení odolnosti (bílý)
+autonote or awards	Pure Fire Resistance = Essence of Luck + Fire Resistance	
+autonote or awards	Pure Intellect (Black) = Orange Potion + Intellect Boost (White)	Elixír inteligence (černý) = oranžový lektvar + Zvýšení inteligence (bílý)
+autonote or awards	Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)	Elixír štěstí (černý) = žlutý a oranžový vrstvený + Svištivý nátěr (bílý)
+autonote or awards	Pure Might (Black) = Orange Potion + Might Boost (White)	Elixír síly (černý) = oranžový lektvar + Zvýšení síly (bílý)
+autonote or awards	Pure Mind Resistance = Essence of Luck + Mind Resistance	
+autonote or awards	Pure Personality (Black) = Purple Potion + Personality Boost (White)	Elixír osobnosti (černý) = fialový lektvar + Zvýšení osobnosti (bílý)
+autonote or awards	Pure Speed (Black) = Purple Potion + Speed Boost (White)	Elixír rychlosti (černý) = fialový lektvar + Zvýšení rychlosti (bílý)
+autonote or awards	Pure Water Resistance = Essence of Luck + Water Resistance	
+autonote or awards	Recharge Item (Blue and Green Layered) = Blue + Green	Nabij předmět (modrý a zelený vrstvený) = modrý + zelený
+autonote or awards	Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)	Elixír mládí (černý) = modrý a oranžový vrstvený + Božské uzdravení (bílý)
+autonote or awards	Rejuvenation (Black) = Extreme Energy + Green	Omlazení (Černá) = Nesmírná energie + Zelená
+autonote or awards	Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)	Elixír mládí (černý) = červený a zelený vrstvený + Božské uzdravení (bílý)
+autonote or awards	Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)	Elixír mládí (černý) = žlutý a fialový vrstvený + Božské uzdravení (bílý)
+autonote or awards	Remove Curse (Purple and Green Layered) = Purple + Green	Odstranění prokletí (fialový a zelený vrstvený) = fialový + zelený
+autonote or awards	Remove Fear (Orange and Purple Layered) = Orange + Purple	Zbavení strachu (oranžový a fialový vrstvený) = oranžový + fialový
+autonote or awards	Resistance (Green) = Yellow + Blue	Odolnost(Zelená) = Žlutá + Modrá
+autonote or awards	Restoration(White) = Purple + Green	Zotavení (Bílá) = Fialová + Zelená
+autonote or awards	Shield (Blue and Purple Layered) = Blue + Purple	Štít (modrý a fialový vrstvený) = modrý + fialový
+autonote or awards	Shocking Potion (White) = Orange + Red and Purple Layered	Jiskrný nátěr (bílý) = oranžový + červený a fialový vrstvený
+autonote or awards	Shocking Potion (White) = Purple + Red and Orange Layered	Jiskrný nátěr (bílý) = fialový + červený a oranžový vrstvený
+autonote or awards	Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)	Drakobijný nátěr (černý) = modrý a fialový vrstvený + Plamenný nátěr (bílý)
+autonote or awards	Speed Boost (White) = Orange + Red and Orange Layered	Zvýšení rychlosti (bílý) = oranžový + červený a oranžový vrstvený
+autonote or awards	Stone Skin (White) = Orange + Blue	Kamenná kůže (Bílá) = Oranžová + Modrá
+autonote or awards	Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)	Odkamenění (černý) = červený a fialový vrstvený + Lék na ochromení (bílý)
+autonote or awards	Stoneskin (Yellow and Orange Layered) = Yellow + Orange	Kamenná kůže (žlutý a oranžový vrstvený) = žlutý + oranžový
+autonote or awards	Super Resistance (White) = Green + Blue	Super odolnost (Bílá) = Zelená + Modrá
+autonote or awards	Supreme Protection (White) = Orange + Green	Maximální ochrana (Bílá) = Oranžová + Zelená
+autonote or awards	Swift Potion (White) = Green + Blue and Purple Layered	Svištivý nátěr (bílý) = zelený + modrý a fialový vrstvený
+autonote or awards	Swift Potion (White) = Purple + Blue and Green Layered	Svištivý nátěr (bílý) = fialový + modrý a zelený vrstvený
+autonote or awards	Water Breathing (Yellow and Purple Layered) = Yellow + Purple	Dýchaní pod vodou (žlutý a fialový vrstvený) = žlutý + fialový
+autonote or awards	Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered	Odolnost proti vodě (bílý) = modrý a fialový vrstvený + žlutý a zelený vrstvený
+class	Arch Druid	Arcidruid
+class	Arch Mage	Arcimág
+class	Archer	Lučištník
+class	Assassin	Vrah
+class	Battle Mage	Bojový mág
+class	Black Knight	Černý rytíř
+class	Bounty Hunter	Lovec odměn
+class	Cavalier	Šlechtic
+class	Champion	Šampión
+class	Cleric	Klerik
+class	Crusader	Křižák
+class	Dark Elf	Temný elf
+class	Dark Elf Patriarch	Patriarcha
+class	Dragon	Drak
+class	Druid	Druid
+class	Great Druid	Veliký druid
+class	Great Wyrm	Velký wyrm
+class	Hero	Hrdina
+class	High Priest	Velekněz
+class	Hunter	lovec
+class	Initiate	Zasvěcenec
+class	Knight	Rytíř
+class	Lich	Lich
+class	Master	Mistr
+class	Master Archer	Lučištnický mistr
+class	Master Necromancer	Mistr nekromant
+class	Master Wizard	
+class	Minotaur	Minotaur
+class	Minotaur Lord	Pán minotaurů
+class	Monk	Mnich
+class	Necromancer	Nekromancer
+class	Ninja	Ninja
+class	Nosferatu	Nosferatu
+class	Paladin	Paladin
+class	Patriarch	Patriarcha
+class	Peasant	Dělnice
+class	Priest	Kněz
+class	Priest of Light	Kněz Slunce
+class	Priest of the Dark	Kněz temnoty
+class	Priest of the Light	Kněz světla
+class	Priest of the Sun	Kněz Slunce
+class	Ranger	Hraničář
+class	Ranger Lord	Pán hraničářů
+class	Rogue	Lupič
+class	Sniper	Ostřelovač
+class	Sorcerer	Kouzelník
+class	Spy	Zvěd
+class	Thief	zloděj
+class	Troll	Trol
+class	Vampire	Upír
+class	Villain	Zloduch
+class	War Troll	Válečný trol
+class	Warlock	Černokněžník
+class	Warrior Mage	Bojový mág
+class	Wizard	Čaroděj
+condition	Afraid	Vystrašený
+condition	Asleep	Spící
+condition	Cursed	Prokletý
+condition	Dead	Mrtvý
+condition	Diseased	Nemocný
+condition	Drunk	Opilý
+condition	Eradicated	Zahuben
+condition	Good	Zdravý
+condition	Insane	Šílený
+condition	Paralyzed	Ochromený
+condition	Poison	Jed
+condition	Stoned	Zkamenělý
+condition	Unconscious	V bezvědomí
+condition	Weak	Oslabený
+condition	Zombie	zombie
+items	Abbey Normal Golem Head	Abnormalní Golemova hlava
+items	Accuracy Boost	Zvýšení přesnosti
+items	Accuracy Boost Recipe	Recept na lektvar Zvýšení přesnosti
+items	Accurate Crossbow	Přesná kuše
+items	Aegis	Aegis
+items	Air Resistance	Odolnost proti vzduchu
+items	Air Resistance Recipe	Recept na lektvar Odolnosti proti vzduchu
+items	Alacorn Wand of Acid	Alakornská hůlka kyseliny
+items	Alacorn Wand of Blades	Alakornská hůlka čepelí
+items	Alacorn Wand of Charms	Alakornská hůlka okouzlení
+items	Alacorn Wand of Fireballs	Alakornská hůlka ohnivých koulí
+items	Alacorn Wand of Ice	Alakornová hůlka Ledu
+items	Alacorn Wand of Lightning	Alakornská hůlka blesku
+items	Alacorn Wand of Swarms	Alakornová hůlka Roje
+items	Alloyed Shield	Legovaný štít
+items	Almighty Crown	Všemocná koruna
+items	Altar Piece	Část oltáře
+items	Alvar Cloak	Alvarský plášť
+items	Alvarian Boots	Alvarské boty
+items	Alvarian Leather	Alvarské kožené brnění
+items	Alvarian Poignard	Alvarská dýka
+items	Amber	Jantar
+items	Amethyst	Ametyst
+items	Amethyst Ring	Ametystový prsten
+items	Amuck	Amok
+items	Amythest	Ametyst
+items	Ancient Amulet	Starobylý amulet
+items	Angel Statue Painting	Obraz sochy anděla
+items	Angel Statuette	Soška anděla
+items	Angel's Ring	Andělský prsten
+items	Angelic Helm	Andělská helma
+items	Ania Selving	Ania Selving
+items	Ankh	Kříž
+items	Anointed Herb Potion	Posvěcený bylinný lektvar
+items	Aphrodite	Aphrodite
+items	Apollo	Apollo
+items	Apple	Jablko
+items	Arcane Key	Záhadný klíč
+items	Arcane Wand of Blasting	Tajemná hůlka výbuchu
+items	Arcane Wand of Clouds	Tajemná hůlka oblaků
+items	Arcane Wand of Lightning	Magická hůlka Blesků
+items	Arcane Wand of Paralyzing	Tajemná hůlka ochromení
+items	Arcane Wand of Rocks	Tajemná hůlka kamenů
+items	Arcane Wand of the Fist	Tajemná hůlka pěsti
+items	Archangel Broadsword	Archandělský široký meč
+items	Archangel Wings	Archandělova křídla
+items	Archibald Ironfist Painting	Portrét Archibalda Ironfista
+items	Arcomage Deck	Balíček karet Arcomage
+items	Ares	Ares
+items	Armored Boots	Obrněné boty
+items	Artemis	Artemis
+items	Arthur	Arthur
+items	Artificer's Belt	Opasek zbrojíře
+items	Assassin's Dagger	Vrahova dýka
+items	Astral Shield	Astrální štít
+items	Athena	Athena
+items	Atlas	Atlas
+items	Awaken	Probuzení
+items	Axe of Balthazar	Baltazarova sekyra
+items	Back Door Key	Klíč od zadních dveří
+items	Ball of Dunduck	Bochník Dunduckého sýra
+items	Banded Plate	Vyztužené plátové brnění
+items	Barbed Club	
+items	Barbed Trident	Ostnatý trojzubec
+items	Barrow Key	Klíč od hrobky
+items	Basic Cryptography	Základy šifrování
+items	Bathhouse Key	Klíč od lázní
+items	Battle Axe	Bojová sekyra
+items	Battle Hatchet	Bitevní sekyra
+items	Battle Helm	Bojová helma
+items	Battleaxe	Bojová sekyra
+items	Beaked Halberd	Zahnutá halapartna
+items	Bear Statuette	Soška medvěda
+items	Berserk	Berserk
+items	Berserker Belt	Opasek berserkerů
+items	Bibliotheca Chest Key	Klíč od Bibliotékové truhly
+items	Big Brass Ring	Velký mosazný kruh
+items	Big Tapestry	Velká tapisérie
+items	Bill of Sale	Kupní smlouva
+items	Blackmail Letter	Vyděračský dopis
+items	Blade of Mercy	Ostří milosrdenství
+items	Blaster	Blaster
+items	Blaster Rifle	Blasterová puška
+items	Bless	Požehnání
+items	Blessed Ring	Požehnaný prsten
+items	Blood Dagger	Obětní dýka
+items	Blood Drop Crossbow	Kuše z Krvavé vesnice
+items	Blood Talisman	Krvavý talisman
+items	Blue Quartz	Modrý krystal
+items	Body Resistance	Odolnost proti tělu
+items	Body Resistance Recipe	Recept na lektvar Odolnosti proti tělu
+items	Bone	Kost
+items	Bone of Doom	Kost zhouby
+items	Bone Staff	Kostěná hůl
+items	Brass Charm	Mosazný přívěsek
+items	Brass Ring	Mosazný prsten
+items	Breaker	Drtič
+items	Broadsword	Široký meč
+items	Bronze Amulet	Bronzový amulet
+items	Bronze Ring	Bronzový prsten
+items	Bronze Shield	Bronzový štít
+items	Calvary Shield	Ocelový štít
+items	Candelabra	Svícen
+items	Cannon Design Notes	Poznámky o výrobě kanónu
+items	Cannonball of Dominion	Dělová koule nadvlády
+items	Captain's Code	Kapitánův kód
+items	Captain's Cutlass	Kapitánský tesák
+items	Caravaner's Crossbow	Cestovatelova kuše
+items	Caravaner's Leather	Cestovatelovo kožené brnění
+items	Caravaner's Small Shield	Malý štít cestovatele
+items	Cardinal Cloak	Kardinálský plášť
+items	Case of Soul Jars	Sada Džbánů na duše
+items	Castle Shield	Velký štít
+items	Catalyst	Katalyzátor
+items	Catherine's Key	Catherinin klíč
+items	Cavalier Gauntlets	Kavalírské rukavice
+items	Celestial Shield	Nebeský štít
+items	Cell Key	Klíč od cely
+items	Central Pillar Key	Klíč k prostřednímu sloupu
+items	Certificate of Authentication	Ověřovací certifikát
+items	Chain Mail	Kroužková zbroj
+items	Champion Sword	Meč šampiónů
+items	Champion's Sword	Rytířský meč
+items	Charele	Charele
+items	Charged connector stone	
+items	Chest Key	Klíč od truhly
+items	Chime of Harmony	Zvonek Harmonie
+items	Cipher	Šifra
+items	Citrine	Citrín
+items	Clanker's Amulet	Clankerův amulet
+items	Claw Amulet	Pařátový amulet
+items	Cloak of Baa	Baaův plášť
+items	Cloak of the Sheep	Ovčí rouno
+items	Cloth Hat	Plátěný klobouk
+items	Club	Kyj
+items	Cobra Egg	Kobří vejce
+items	Colony Zod Key	Klíč od kolonie Zod
+items	Common Halberd	
+items	Communication Officer's Code	Kód Spojovacího důstojníka
+items	Composite Bow	Kompozitní luk
+items	Conan	Conan
+items	Conflux Key	Klíč splynutí
+items	Connector stone	
+items	Conscript's Helm	Vojínova helma
+items	Contestant's Shield	Štít soutěžícího
+items	Control Cube	Ovládácí krychle
+items	Control Undead	Ovládnutí nemrtvých
+items	Corsair	Korzár
+items	Crate of Arrowheads	Bedna hrotů šípů
+items	Crate of Enrothian Wine	Bedna Enrothského vína
+items	Crate of Glass Bottles	Bedna skleněných láhví
+items	Crate of Griffin Feathers	Bedna gryfího peří
+items	Crate of Sand	Bedna písku
+items	Crate of Tularean Wood	Bedna Tulareanského dřeva
+items	Cronos	Cronos
+items	Crossbow	Kuše
+items	Crown	Koruna
+items	Crown of Final Dominion	Koruna věčné nadvlády
+items	Crude Axe	Obyčejná sekyra
+items	Crude Bow	Obyčejný luk
+items	Crude Crossbow	
+items	Crude Dagger	Primitivní dýka
+items	Crude Leather Armor	
+items	Crude Longbow	
+items	Crude Longsword	Obyčejný meč
+items	Crude Mace	
+items	Crude Spear	Obyčejné kopí
+items	Crude Trident	
+items	Cruel Spear	Zákeřné kopí
+items	Crusader Sword	Křižácký meč
+items	Crusader's Gauntlets	Křižácké rukavice
+items	Crushed Rose Petals	Drcené růžové lístky
+items	Crystal Dagger	Křišťálová dýka
+items	Crystal of Terrax	Terraxský krystal
+items	Crystal Skull	Krystalická lebka
+items	Cure Disease	Léčení nemocí
+items	Cure Insanity	Odstranění šílenství
+items	Cure Paralysis	Lék na ochromení
+items	Cure Paralysis Recipe	Recept na Lék na ochromení
+items	Cure Poison	Protijed
+items	Cure Weakness	Posilovací nápoj
+items	Cure Wounds	Hojení ran
+items	Cutlass	Tesák
+items	Cycle of life	
+items	Dadeross' Letter to Fellmoon	Daderossův dopis Fellmoonovi
+items	Dagger	Dýka
+items	Dagger Wound Oddities	Zvláštnosti souostroví Dýky
+items	Dark Containment	Temné ovládnutí
+items	Dark Elven Bastard Sword	Plamenný meč Temn. elfů
+items	Dark Elven Longsword	Dlouhý meč Temných elfů
+items	Dark Grasp	Temné sevření
+items	Dark Hammer	Kladivo temnot
+items	Dark Knight Plate	Plátové brnění Temného rytíře
+items	Datura	Durman
+items	Dazzling Ring	Blyštivý prsten
+items	Death Head Shield	Štít smrtky
+items	Death Mace	Smrtící palcát
+items	Death's Head Pendant	Přívěsek se smrtihlavem
+items	Deck of Fate	Balíček Osudu
+items	Defender Helm	Obráncova helma
+items	Detect Life	Zjisti život
+items	Devil Plans	Plány démonů
+items	Devilbone Bow	Luk z ďáblovy kosti
+items	Diamond	Diamant
+items	Diary Page	Stránka zápisníku
+items	Dimension door	
+items	Dire Wolf Pelt	Kožešina strašného vlka
+items	Discharge Papers	Propouštěcí listiny
+items	Disheveled Chain Mail	
+items	Divine Boost	
+items	Divine Boost recipe	
+items	Divine Cure	Božský lék
+items	Divine Cure Recipe	Recept na Božský lék
+items	Divine Dagger	Dýka bohů
+items	Divine Magic	Božská magie
+items	Divine Power	Božská síla
+items	Divine Power Recipe	Recept na lektvar Božské síly
+items	Divine Protection	
+items	Divine Protection recipe	
+items	Divine Restoration	Božské uzdravení
+items	Divine Restoration Recipe	Recept na Božské uzdravení
+items	Divine Transcendence	
+items	Divine Transcendence recipe	
+items	Doctor's Code	Doktorův kód
+items	Doom's Day Cloak	Plášť Soudného dne
+items	Dragon Claw	Dračí pařát
+items	Dragon Egg	Dračí vejce
+items	Dragon Harpoon	Dračí harpuna
+items	Dragon Helm	Dračí helma
+items	Dragon Hide Gauntlets	Rukavice z dračí kůže
+items	Dragon Hunter's Shield	Štít drakobijce
+items	Dragon Leader's Egg	Vejce dračího vůdce
+items	Dragon Leather	Císařská kůže
+items	Dragon Statuette	Soška draka
+items	Dragon Tower Keys	Klíče od Dračích věží
+items	Dragon Turtle Fang	Tesák dračí želvy
+items	Dragon's Eye	Dračí oko
+items	Dragonbane Flower	Květina dračí zhouby
+items	Dragoning Plate	Dračí plátové brnění
+items	Dragonning Blade	Dračí meč
+items	Dragonning Boots	Dračí boty
+items	Dried Sunfish	Sušení okouni
+items	Drogg's Helm	Droggova helma
+items	Druid Circlet of Power	Druidská čelenka síly
+items	Drum of Victory	Buben vítězství
+items	Dueling Long Dagger	Dlouhý soubojový nůž
+items	Duelist Blade	Soubojový meč
+items	Dwarven Axe	Trpasličí sekyra
+items	Dwarven Battleaxe	Trpasličí bojová sekyra
+items	Dwarven Dagger	Trpasličí dýka
+items	Dwarven Hammer	Trpasličí kladivo
+items	Dwarven Morningstar	Trpasličí řemdih
+items	Eagle Statuette	Soška orla
+items	Earth Resistance	Odolnost proti zemi
+items	Earth Resistance Recipe	Recept na lektvar Odolnosti proti zemi
+items	East Pillar Key	Klíč k východnímu sloupu
+items	Ebonest	Ebonest
+items	Eclipse	Štít Zatmění
+items	Elderaxe	Sekyra starších
+items	Eldritch Shield	Tajemný štít
+items	Elegant Cloak	Elegantní plášť
+items	Elegant Letter	Elegantní dopis
+items	Elfbane	Zhouba elfů
+items	Elite Halberd	Nejlepší halapartna
+items	Elite Minotaur Axe	Sekyra elitního minotaura
+items	Elixir	Elixír
+items	Elsenrail	Elsenrail
+items	Elven Bow	Elfí luk
+items	Elven Chainmail	Elfí kroužková zbroj
+items	Elven Cloak	Elfí plášť
+items	Elven Long Spear	Elfí dlouhé kopí
+items	Elven Longbow	Elfí dlouhý luk
+items	Elven Saber	Elfí šavle
+items	Elven Spear	Elfí kopí
+items	Elven Warbow	Elfí válečný luk
+items	Elvish Toadstool	Elfí muchomůrka
+items	Emerald	Smaragd
+items	Emerald Ring	Smaragdový prsten
+items	Emerald Staff	Smaragdová hůl
+items	Emperor Thorn's Key	Klíč císaře Thorna
+items	Empty Message Scroll	Prázdná zpráva
+items	Enchanted Amulet	Magický amulet
+items	Enchanted Leather	Začarovaná kůže
+items	Enchanted Ring	Kouzelný prsten
+items	Endurance Boost	Zvýšení odolnosti
+items	Endurance Boost Recipe	Recept na lektvar Zvýšení odolnosti
+items	Enemies List	Seznam nepřátel
+items	Energy	Energie
+items	Engineer's Code	Strojníkův kód
+items	Enslave	Zotročení
+items	Erathian Long Dagger	Erathijská dlouhá dýka
+items	Erudine Chainmail	Erudinové kroužkové brnění
+items	Erudine-laced ore	Erudinová ruda
+items	Essence of Accuracy	Esence Přesnosti
+items	Essence of Accuracy recipe	
+items	Essence of Endurance	Esence Odolnosti
+items	Essence of Endurance recipe	
+items	Essence of Intellect	Esence Intelektu
+items	Essence of Intellect recipe	
+items	Essence of Luck	Esence Štěstí
+items	Essence of Luck recipe	
+items	Essence of Might	Esence Síly
+items	Essence of Might recipe	
+items	Essence of Personality	Esence Osobnosti
+items	Essence of Personality recipe	
+items	Essence of Speed	Esence Rychlosti
+items	Essence of Speed recipe	
+items	Ethereal Ring	Éterický prsten
+items	Ethric's Skull	Erikova lebka
+items	Ethric's Staff	Ethrikova hůl
+items	Excalibur	Excalibur
+items	Excerpt from a Diary	Výpis z deníku
+items	Exquisite Long Dagger	Honosná dlouhá dýka
+items	Exquisite Ring	Nádherný prsten
+items	Extreme Energy	Extrémní energie
+items	Eyeball Amulet	Oční bulva
+items	Fae Dust	Prach z Fae
+items	Faerie Key	Vílí klíč
+items	Faerie Pipes	Vílí píšťaly
+items	Faerie Ring	Vílí prsten
+items	Fairy Wand of Fire	Čarovná hůlka ohně
+items	Fairy Wand of Harm	Čarovná hůlka zraňování
+items	Fairy Wand of Ice	Vílí hůlka ledu
+items	Fairy Wand of Lashing	Vílí hůlka biče
+items	Fairy Wand of Light	Vílí hůlka světla
+items	Fairy Wand of Mind	Vílí hůlka mysli
+items	Fairy Wand of Poison	Čarovná hůlka jedu
+items	Fairy Wand of Sparks	Čarovná hůlka jisker
+items	Fairy Wand of Swarms	Vílí hůlka roje hmyzu
+items	False Report	Falešná zpráva
+items	False Riverstride Plans	Falešné plány Riverstride
+items	Fancy Hat	Parádní čapka
+items	Fanged Blade	Zubaté ostří
+items	Fate	Osud
+items	Festival Hat	Slavnostní klobouk
+items	Field Hammer	Polní kladivo
+items	Finality	Meč práva
+items	Fine Belt	Honosný opasek
+items	Fine Chain Mail	Honosná kroužková zbroj
+items	Fine Ring	Hezký prsten
+items	Fire Amulet	Ohnivý amulet
+items	Fire Aura	Ohnivá aura
+items	Fire Resistance	Odolnost proti ohni
+items	Fire Resistance Recipe	Recept na lektvar Odolnosti proti ohni
+items	Fire Spike	Ohnivý hrot
+items	First Mate's Code	Kód prvního důstojníka
+items	Flail	Řemdih
+items	Flame Door Key	Klíč od Ohnivých dveří
+items	Flaming Potion	Plamenný nátěr
+items	Flaming Potion Recipe	Recept na Plamenný nátěr
+items	Flawed Amulets	Vadné amulety
+items	Fleetfingers	Rukavice hbitých prstů
+items	Floor Tile (w/ moon insignia)	Dlaždice (se znakem Měsíce)
+items	Flower (Rose)	Kytka (růže)
+items	Flute	Flétna
+items	Focal Ring	Ohniskový prsten
+items	Footman's Axe	Pěchotní sekyra
+items	Forge Gauntlets	Kovářské rukavice
+items	Forged Vouchers	Falešné stvrzenky
+items	Foulfang	Zakřivený tesák
+items	Four Leaf Clover	Čtyřlístek 
+items	Fragment of Soldier's Diary	Útržek vojákova deníku
+items	Freezing Potion	Mrazivý nátěr
+items	Freezing Potion Recipe	Recept na Mrazivý nátěr
+items	Full Helm	Turnajová helma
+items	Galahad	Galahad
+items	Garnet	Granát
+items	Gauntlets	Rukavice
+items	Gem of Restoration	Krystal obnovení
+items	Gemstone Ring	Prsten s drahokamy
+items	Genie Lamp	Džinova lampa
+items	Ghost Ring	Prsten ducha
+items	Ghoulsbane	Zhouba ghúlů
+items	Gibbet	Katan
+items	Gilded Belt	Zlatý opasek
+items	Glomenmail	Brnění Temnoty
+items	Glomenthal	Glomenthal
+items	Glorious Cloak	Skvělý plášť
+items	Glory Shield	Štít slávy
+items	Goblin Cutlass	Gobliní tesák
+items	Goblin Scimitar	Gobliní šavle
+items	Goblin Shield	Gobliní štít
+items	Goblinwatch Code	Kód Gobliní strážnice
+items	Gold	Zlato
+items	Gold Ring	Zlatý prsten
+items	Golden Chain Mail	Zlatá kroužková zbroj
+items	Golden Plate Armor	Zlatá plátová zbroj
+items	Golden Pyramid	Zlatá pyramida
+items	Golem chest	Golemova hruď
+items	Golem head	Golemova hlava
+items	Golem left arm	Golemova levá ruka
+items	Golem left leg	Golemova levá noha
+items	Golem right arm	Golemova pravá ruka
+items	Golem right leg	Golemova pravá noha
+items	Gothic Amulet	Gotický amulet
+items	Governor's Armor	Guvernérova zbroj
+items	Graceful Sword	Elegantní meč
+items	Grand Poleax	Mocná širočina
+items	Grand Poleaxe	Mocná širočina
+items	Great Sword	Skvělý meč
+items	Green Apple	Zelené jablko
+items	Green Garnet	Zelený granát
+items	Griffin Bow	Gryfí luk
+items	Grognard's Cutlass	Grognardův tesák
+items	Ground Wyvern Horn	Roh pozemního ještěra
+items	Gryphonheart's Trumpet	Gryphonheartská trubka
+items	Guardian	Strážce
+items	Guardian Helm	Strážcova helma
+items	Guild Key	Klíč od gildy
+items	Guinevere	Guinevere
+items	Hades	Hades
+items	Halberd	Halapartna
+items	Haldar's Remains	Haldarovy ostatky
+items	Hammer	Kladivo
+items	Hammerhands	Kladivové pěsti
+items	Hand Axe	Ruční sekyra
+items	Hands of the Master	Ruce mistra
+items	Harden Item	Zpevnění předmětu
+items	Hardened Leather Boots	Boty z tvrzené kůže
+items	Hardened Leather Vest	Tvrzená kožená vesta
+items	Hareck's Leather	Hareckova kožená zbroj
+items	Harp	Harfa
+items	Harpy Feather	Pero harpyje
+items	Haste	Zrychlení
+items	Havoc	Pohroma
+items	Hayfork	Vidle
+items	Headsman's Poleaxe	Popravčí sekyra
+items	Headsman's Reaver	Popravčí meč
+items	Heal	Léčit za
+items	Heart of Air	Srdce vzduchu
+items	Heart of Earth	Srdce země
+items	Heart of Fire	Srdce ohně
+items	Heart of the Wood	Srdce lesa
+items	Heart of Water	Srdce vody
+items	Heartwood of Jadame	Dřevo z Jadame
+items	Heavy Crossbow	Těžká kuše
+items	Heavy Poleax	Těžká širočina
+items	Heavy Poleaxe	Těžká širočina
+items	Hell's Cleaver	Pekelný sekáček
+items	Helm	Helma
+items	Hera	Hera
+items	Herald's Boots	Kurýrovy boty
+items	Hercules	Hercules
+items	Hermes	Hermes
+items	Hermes' Sandals	Hermovy sandály
+items	Hero's Belt	Hrdinův opasek
+items	Heroic Sword	Hrdinský meč
+items	Heroism	Hrdinství
+items	Herondale's Lost Shield	Herondaleův ztracený štít
+items	High Cleric's Key	Klíč Vysokého kněze
+items	High Sorcerer's Key	Klíč Vysokého čaroděje
+items	History of the Vault of Time	Historie Hrobky času
+items	Hive Sanctum Key	Klíč od svatyně v Úlu
+items	Holy Hammer	Svaté kladivo
+items	Horn of Ros	Rosův roh
+items	Horned Helm	Helma s rohy
+items	Horseman's Shield	Jezdecký štít
+items	Horseshoe	Podkova
+items	Hourglass of Time	Přesýpací hodiny Času
+items	Hunting Bow	Lovecký luk
+items	Hunting Crossbow	Lovecká kuše
+items	Huntsman's Cloak	Lovecký plášť
+items	Ideal Crossbow	Ideální kuše
+items	Idol of the Snake	Soška hada
+items	Igraine	Igraine
+items	Immolation	Obětování
+items	Imperial Leather	Dračí kůže
+items	Improvised Voulge	Primitivní halapartna
+items	Infantry Fork	Pěchotní vidlice
+items	Infused Metal Rod	
+items	Intellect Boost	Zvýšení intelektu
+items	Intellect Boost Recipe	Recept na lektvar Zvýšení inteligence
+items	Invisibility	Neviditelnost
+items	Iolite	Iolit
+items	Iron Broadsword	Železný široký meč
+items	Iron Core Staff	Hůl se železným jádrem
+items	Iron Feather	Železný brk
+items	Iron-laced ore	Železná ruda
+items	Jade Amulet	Nefritový amulet
+items	Jeweled Dagger	Zdobená dýka
+items	Jeweled Egg	Šperkované vejce
+items	Journal Entry	Zápis v deníku
+items	Journal Entry, 11th December	Zápis v deníku, 11. prosince
+items	Journal Entry, 19th September	Zápis v deníku, 19. září
+items	Journal Entry, 23rd April	Zápis v deníku, 23. dubna
+items	Journal Entry, 2nd January	Zápis v deníku, 2. ledna
+items	Journal Entry, 30th June	Zápis v deníku, 30. června
+items	Journal Excerpt	Výpis z deníku
+items	Journal Fragment	Stránka z deníku
+items	Journal Scrap	Útržek z deníku
+items	Journey Staff	Cestovní hůl
+items	Judicious Measure	Mačeta spravedlnosti
+items	Justice	Spravedlnost
+items	Keen Longsword	Břitký meč
+items	Keg of Wine	Sud vína
+items	Kelebrim	Kelebrim
+items	Kergar-laced ore	Kergarová ruda
+items	Key	Klíč
+items	Key to Gharik's Laboratory	Klíč od Gharikovy laboratoře
+items	Key to Goblinwatch	Klíč od Gobliní hlásky
+items	Key to Snergle's Chambers	Klíč od Snerglových komnat
+items	Killer Club	Zabijácký kyj
+items	Kite Shield	Kožený štít
+items	Knight Gauntlets	Rytířské rukavice
+items	Knight Statuette	Soška rytíře
+items	Knight's Boots	Rytířské boty
+items	Knightly Broadsword	Rytířský široký meč
+items	Labyrinth Grapple	Drapák hlídky labyrintu
+items	Lady Carmine's Dagger	Dýka lady Carmine
+items	Lady's Escort	Doprovod dámy
+items	Lantern of Light	Lucerna dobra
+items	Large Round Crystal	
+items	Last Stage Cuirass	Dokonalý kyrys
+items	Leather Armor	Kožená zbroj
+items	Leather Belt	Kožený opasek
+items	Leather Boots	Kožené boty
+items	Leather Cloak	Kožený plášť
+items	Leather Gloves	Kožené rukavice
+items	Leather Jerkin	Kožená vesta
+items	Leather Pouch	Kožený měšec
+items	Letter	Dopis
+items	Letter from Archibald	Dopis od Archibalda
+items	Letter from Cedric Druthers	Dopis od Cedrica Drutherse
+items	Letter from Gavin Magnus	Dopis od Gavina Magnuse
+items	Letter from Johann Kerrid to the Faerie King	Dopis od Johanna Kerrida Králi víl
+items	Letter from Malwick	Dopis od Malwicka
+items	Letter from Mr. Stantley	Dopis od p. Stantleyho
+items	Letter from Norbert Thrush to Lord Markham	Dopis od Norberta Thrushe vévodovi Markhamovi
+items	Letter from the Dragon Riders	Dopis od Dračích jezdců
+items	Letter from the Prince of Thieves	Dopis od Prince zlodějů
+items	Letter from the Temple of Baa	Dopis od Baaova chrámu
+items	Letter from Xenofex	Dopis od Xenofexe
+items	Letter from Zenofex	Dopis od Zenofexa
+items	Letter to Agar	Dopis Agarovi
+items	Letter to Arion Hunter	Dopis Arionu Hunterovi
+items	Letter to Gharik	Dopis Gharikovi
+items	Letter to Hairbaugh	Dopis Hairbaughovi
+items	Letter to Marcus	Dopis Marcusovi
+items	Letter to Snergle	Dopis pro Snergla
+items	Letter to Terrax	Dopis Terraxovi
+items	Letter to the Prince of Thieves	Dopis pro Prince zlodějů
+items	Lich Jar	Džbán proměny
+items	Lieutenant's Cutlass	Důstojníkův tesák
+items	Light Bolt	Světelná střela
+items	Light Crossbow	Lehká kuše
+items	Light Poleaxe	
+items	Lightning Crossbow	Kuše blesku
+items	Lionheart Sword	Meč Lví srdce
+items	Lizardman Broadsword	Ještěrčí široký meč
+items	Lizardman Helm	Helma ještěrčích mužů
+items	Lizardman Trident	Ještěrčí trojzubec
+items	Lock Pick	Šperhák
+items	Locus Amulet	Ohniskový amulet
+items	Lodestone	Magnetit
+items	Log of Eldenbrie	Špalek Eldenbrieského sýra
+items	Long Dagger	Dlouhá dýka
+items	Longbow	Dlouhý luk
+items	Longseeker	Dalekonosný luk
+items	Longsword	Dlouhý meč
+items	Loose Page	Uvolněná stránka
+items	Lord Kilburn's Shield	Štít lorda Kilburna
+items	Lost Book of Kehl	Ztracená kniha Khela
+items	Lucius	Lucius
+items	Luck Boost	Zvýšení štěstí
+items	Luck Boost Recipe	Recept na lektvar Zvýšení štěstí
+items	Lucky Hat	Klobouk štěstí
+items	Lunar Ring	Lunární prsten
+items	Lute	Loutna
+items	Mace	Palcát
+items	Mace of the Sun	Palcát Slunce
+items	Mage Dagger	Mágova dýka
+items	Magic Bow	Kouzelný luk
+items	Magic Horseshoe	Magická podkova
+items	Magic Lamp	Magická lampa
+items	Magic Potion	Magický nápoj
+items	Magical Ritual Notes	Poznámky o Magickém rituálu
+items	Majestic Chain Mail	Majestátní brnění
+items	Majestic Shield	Vznešený štít
+items	Map	Klíč
+items	Map to Evenmorn Island	Mapa Evenmornského ostrova
+items	Mash	Drtič
+items	Massive Halberd	Robustní halapartna
+items	Massive hammer	
+items	Master Cutlass	Šavle mistrů
+items	Master's Dagger	Mistrovská dýka
+items	Medusa's Mirror	Zrcadlo medúzy
+items	Mekorig's Hammer	Mekorigovo kladivo
+items	Memory Crystal Alpha	Paměťový krystal Alfa
+items	Memory Crystal Beta	Paměťový krystal Beta
+items	Memory Crystal Delta	Paměťový krystal Delta
+items	Memory Crystal Epsilon	Paměťový krystal Epsilon
+items	Mercenary Belt	Žoldnéřův opasek
+items	Merchantman's Dagger	Obchodníkova dýka
+items	Merchantman's Hat	Kupecký klobouk
+items	Mercury	Rtuť
+items	Merlin	Merlin
+items	Message from Erathia	Zpráva z Erathie
+items	Message from Mr. Stantley	Zpráva od p. Stantleyho
+items	Metal Shield	Kovový štít
+items	Meteor Fragment	Úlomek meteoritu
+items	Meteorite Fragment	Úlomek meteoritu
+items	Might Boost	Zvýšení síly
+items	Might Boost Recipe	Recept na lektvar Zvýšení síly
+items	Mighty Broadsword	Mohutný meč s širokou čepelí
+items	Mighty Halberd	Mocná halapartna
+items	Mind Resistance	Odolnost proti mysli
+items	Mind Resistance Recipe	Recept na lektvar Odolnosti proti mysli
+items	Mind's Eye	Oko mysli
+items	Minotaur Axe	Minotauří sekyra
+items	Minotaur Battleaxe	Minotauří bojová sekyra
+items	Minotaur Battlesword	Minotauří bojový meč
+items	Minotaur Campaign Pole-axe	Minotauří dlouhá sekyra
+items	Minotaur Chainmail	Minotauří kroužkové brnění
+items	Minotaur Gauntlets	Minotauří rukavice
+items	Minotaur Herdsman Axe	Sekyra vůdce minotaurů
+items	Minotaur Plate	Minotauří plátové brnění
+items	Minotaur War Axe	Minotauří válečná sekyra
+items	Minotaur's Axe	Minotaurova sekyra
+items	Missive from the Archbishop	Poselství od Arcibiskupa
+items	Mogred Gauntlets	Mogredské rukavice
+items	Mogred Helm	Mogredská helma
+items	Moon Cloak	Měsíční plášť
+items	Moon Temple Cloak	Plášť chrámu Měsíce
+items	Moonstone	Měsíční kámen
+items	Mordred	Mordred
+items	Morgan	Morgan
+items	Mushroom	Houba
+items	Mystic Wand of Death	Mystická hůlka Smrti
+items	Mystic Wand of Distortion	Okultní hůlka deformace
+items	Mystic Wand of Implosion	Okultní hůlka imploze
+items	Mystic Wand of Incineration	Okultní hůlka zpopelnění
+items	Mystic Wand of Shrapmetal	Okultní hůlka střepin
+items	Mystic Wand of Shrinking	Okultní hůlka zmenšení
+items	Naga Hide	Kůže Nagy
+items	Name of Message	Name of Message
+items	Navigator's Code	Navigátorův kód
+items	Necromancer Cloak	Nekromantský plášť
+items	Necromatic Ring	Prsten nekromancie
+items	Necrotic Wand of Distortion	Nekrotická hůlka deformace
+items	Necrotic Wand of Implosion	Nekrotická hůlka imploze
+items	Necrotic Wand of Incineration	Nekrotická hůlka zpopelnění
+items	Necrotic Wand of Shrapnel	Nekrotická hůlka střepin
+items	Necrotic Wand of Shrinking	Nekrotická hůlka zmenšení
+items	Newname Key	Newname Key
+items	Nightshade Brazier	Kotel temnoty
+items	Noble Chain Mail	Vznešené brnění
+items	Noble Crown	Šlechtická koruna
+items	Noble Plate Armor	Šlechtická plátová zbroj
+items	Noblebone Bow	Luk z kosti šlechtice
+items	Notes - Emergency Meeting	Poznámky - naléhavé!
+items	Noxious Potion	Zhoubný nátěr
+items	Noxious Potion Recipe	Recept na Zhoubný nátěr
+items	Obsidian	Obsidián
+items	Odin	Odin
+items	Officer's Leather	Důstojnický kožený krunýř
+items	Ogre Ear	Zlobří ucho
+items	Ogre Fighting Stick	Zlobří bojové kopí
+items	Ogre Key	Klíč zlobrů
+items	Old Halberd	
+items	Old Nick	Satanáš
+items	Old Scroll	Starý svitek
+items	Olympian Shield	Olympský štít
+items	Orb Staff	Hůl s koulí
+items	Orders from Snergle	Rozkaz od Snergla
+items	Orders from Steadwick	Příkazy ze Steadwicku
+items	Orders from the Shadow Guild	Rozkazy od Gildy stínů
+items	Ornate Trident	Zdobený trojzubec
+items	Oscillation Overthruster	Oscilační přetlakovač
+items	Overlord's Club	Tyranův kyj
+items	Page from Agar's Journal	Stránka z Agarova deníku
+items	Page from Corlagon's Diary	Stránka z Corlagonova zápisníku
+items	Page Torn from a Book	Vytržený list z knihy
+items	Pain Reflection	Odrážení bolesti
+items	Paladin Boots	Paladinské boty
+items	Paladin Gauntlets	Paladinovy rukavice
+items	Parson's Quill	Parsonův brk
+items	Pearl of Purity	Perla čistoty
+items	Pearl of Putrescence	Perla hniloby
+items	Pearl Ring	Prsten s perlou
+items	Peasant Hat	Selský klobouk
+items	Pellinore	Pellinore
+items	Pendragon	Pendragon
+items	Percival	Percival
+items	Personality Boost	Zvýšení osobnosti
+items	Personality Boost Recipe	Recept na lektvar Zvýšení osobnosti
+items	Phantom Cloak	Fantomův plášť
+items	Phial of Gog Blood	Lahvička krve goga
+items	Philosopher's Stone	Kámen mudrců
+items	Phima Root	Kořen z phimy
+items	Phirna Root	Kořen z phimy
+items	Phoenix Feather	Pero z fénixe
+items	Phylt-laced ore	Phyltová ruda
+items	Phynaxian Crown	Finaxijská koruna
+items	Phynaxian Helm	Finaxijská helma
+items	Phynaxian Shield	Finaxijský štít
+items	Piercing Dagger	Ostrá dýka
+items	Pirate Cutlass	Pirátská šavle
+items	Pirate Hat	Pirátský klobouk
+items	Pirate Leader's Key	Klíč velitele pirátů
+items	Plate Armor	Plátová zbroj
+items	Platinum Ring	Platinový prsten
+items	Poleax	Širočina
+items	Poleaxe	Dlouhá sekyra
+items	Poppy Pod	Žluté květy máku
+items	Poppysnaps	Žluté květy máku
+items	Poseidon	Poseidon
+items	Potion Bottle	Prázdná láhev
+items	Potion of Doom	
+items	Potion of Doom recipe	
+items	Potion of the Gods	
+items	Potion of the Gods recipe	
+items	Pouch of Bat Guano	Měšec s guanem
+items	Power Staff	Mocná hůl
+items	Power Stone	Kámen síly
+items	Precious Ring	Vzácný prsten
+items	Precision Bow	Přesný luk
+items	Preservation	Ochrana
+items	Priestly Staff	Kněžská hůl
+items	Prison Key	Klíč od vězení
+items	Proclamation	Prohlášení
+items	Prophecies of the Snake	Proroctví Hada
+items	Prophecies of the Sun	Proroctví Slunce
+items	Protection	Ochrana
+items	Protection from Magic	Ochrana před magii
+items	Protection from Magic recipe	
+items	Puck	Dareba
+items	Pure Accuracy	Elixír přesnosti
+items	Pure Accuracy Recipe	Recept na Elixír přesnosti
+items	Pure Air Resistance	
+items	Pure Air Resistance recipe	
+items	Pure Body Resistance	
+items	Pure Body Resistance recipe	
+items	Pure Earth Resistance	
+items	Pure Earth Resistance recipe	
+items	Pure Endurance	Elixír odolnosti
+items	Pure Endurance Recipe	Recept na Elixír odolnosti
+items	Pure Fire Resistance	
+items	Pure Fire Resistance recipe	
+items	Pure Intellect	Elixír inteligence
+items	Pure Intellect Recipe	Recept na Elixír inteligence
+items	Pure Luck	Elixír štěstí
+items	Pure Luck Recipe	Recept na Elixír štěstí
+items	Pure Might	Elixír síly
+items	Pure Might Recipe	Recept na Elixír síly
+items	Pure Mind Resistance	
+items	Pure Mind Resistance recipe	
+items	Pure Personality	Elixír osobnosti
+items	Pure Personality Recipe	Recept na Elixír osobnosti
+items	Pure Speed	Elixír rychlosti
+items	Pure Speed Recipe	Recept na Elixír rychlosti
+items	Pure Water Resistance	
+items	Pure Water Resistance recipe	
+items	Purple Topaz	Purpurový topaz
+items	Puzzle Box	Skříňka s hlavolamem
+items	Quality Steel Chain Mail	
+items	Ranger Boots	Hraničářské boty
+items	Ranger's Cloak	Hraničářský plášť
+items	Recharge Item	Nabití předmětu
+items	Recurve Bow	Zakřivený luk
+items	Red Apple	Červené jablko
+items	Regal Crown	Královská koruna
+items	Regeneration	Regenerace
+items	Regnan Boots	Regnanské boty
+items	Regnan Crossbow	Regnanská kuše
+items	Regnan Cutlass	Regnanský tesák
+items	Regnan Falchion	Regnanský široký meč
+items	Regnan Fighting Knife	Regnanský bojový nůž
+items	Regnan Leather	Regnanské kožené brnění
+items	Regnan Tournament Shield	Regnanský turnajový štít
+items	Regnan Trident	Regnanský trojzubec
+items	Rejuvenation	Elixír mládí
+items	Rejuvenation Recipe	Recept na Elixír mládí
+items	Remains of a Journal	Stránka z deníku
+items	Remains of Korbu	Korbuovy pozůstatky
+items	Remnants of a Letter	Zbytky dopisu
+items	Remove Curse	Odstranění prokletí
+items	Remove Fear	Sejmi strach
+items	Resistance	Odolnost
+items	Resplendent Chain Mail	Skvostná kroužková zbroj
+items	Restoration	Zotavení
+items	Reverend Sceptre	Žezlo ctihodných
+items	Ring of Fusion	Prsten spojení
+items	Ring of Keys	Svazek klíčů
+items	Ring of Planes	Prsten rovin
+items	Ritual of the Void	Rituál prázdnoty
+items	Riverstride Plans	Plány Riverstride
+items	Roland Ironfist Painting	Portrét Rolanda Ironfista
+items	Roland's Journal	Rolandův deník
+items	Rope	Provaz
+items	Rose	Růže
+items	Rose Crystal	Růžový křišťál
+items	Royal Chain Mail	Královské brnění
+items	Royal Leather	Královská kožená zbroj
+items	Royal Wasp Jelly	Vosí želé
+items	Ruby	Rubín
+items	Ruby Ring	Rubínový prsten
+items	Ruby Star Amulet	Rubínový amulet
+items	Ruler's Ring	Vládcův prsten
+items	Rusty Breastplate	Rezavý kyrys
+items	Rusty Cutlass	Rezavá šavle
+items	Rusty Mail Vest	Rezavá kroužková vesta
+items	Sacred Chalice	Posvátný kalich
+items	Sacred Spear	Posvátné kopí
+items	Sacrifice	Obětování
+items	Sapphire	Safír
+items	Sapphire Ring	Safírový prsten
+items	Sarcophagus of Korbu	Korbuův sarkofág
+items	Savage Spear	Divoké kopí
+items	Scarab Ring	Skarabeův prsten
+items	Scavenger hunt.	Sběratelská soutěž
+items	Scepter of Kings	Žezlo králů
+items	Scholar's Cap	Učencova čapka
+items	Scrap from Gharik's Journal	Útržek z Gharikova deníku
+items	Scrap of Paper	Útržek papíru
+items	Scroll of Waves	Svitek vln
+items	Sealed Letter 2	Zapečetěný dopis 2
+items	Sealed Letter 3	Zapečetěný dopis 3
+items	Sealed Letter 4	Zapečetěný dopis 4
+items	Sealed Letter 5	Zapečetěný dopis 5
+items	Sealed Letter 6	Zapečetěný dopis 6
+items	Sealed Letter 7	Zapečetěný dopis 7
+items	Seashell	Mušle
+items	Season's Stole	Sváteční štóla
+items	Secret Door Key	Klíč od tajných dveří
+items	Serendine's Preservation	Serendinova ochrana
+items	Serpent Spear	Hadí kopí
+items	Serpent Staff	Hadovitá hůl
+items	Serpent Wand of Blasting	Hadovitá hůl výbuchu
+items	Serpent Wand of Paralysis	Hadovitá hůlka ochromení
+items	Serpent Wand of Rocks	Hadovitá hůlka kamene
+items	Serpent Wand of the Fist	Hadovitá hůlka pěsti
+items	Seven League Boots	Sedmimílové boty
+items	Sewer Key	Klíč od stoky
+items	Shadow Dagger	Dýka temnot
+items	Shadow Sect Medallion	Medailon sekty stínů
+items	Shadow's Mask	Stínová maska
+items	Shaman's Wand of Ice	Šamanova hůlka ledu
+items	Shaman's Wand of Lashing	Šamanova hůlka biče
+items	Shaman's Wand of Light	Šamanova hůlka světla
+items	Shaman's Wand of Mind	Šamanova hůlka mysli
+items	Shaman's Wand of Swarms	Šamanova hůlka roje hmyzu
+items	Sharktooth Dagger	Žraločí dýka
+items	Shield	Štít
+items	Shocking Potion	Jiskrný nátěr
+items	Shocking Potion Recipe	Recept na Jiskrný nátěr
+items	Shovel	Lopata
+items	Siertal Chainmail	Siertalové kroužkové brnění
+items	Siertal-laced ore	Siertalová ruda
+items	Signet Ring	Pečetní prsten
+items	Silver Belt	Stříbrný opasek
+items	Silver Dust of the Sea	Stříbrný prach moře
+items	Silver Mesh Gauntlets	Stříbrné rukavice
+items	Simple Mace	
+items	Simple Staff	
+items	Slaying Potion	Drakobijný nátěr
+items	Slaying Potion Recipe	Recept na Drakobijný nátěr
+items	Sledgehammer	Mlat
+items	Snake	Had
+items	Snakewood Bow	Luk z hadího dřeva
+items	Snergle's Axe	Snerglova sekyra
+items	Soldier's spear	Vojákovo kopí
+items	Souldrinker	Vysát duši
+items	Sovereign Belt	Svrchovaný opasek
+items	Sparkling Ring	Třpytivý prsten
+items	Spear	Kopí
+items	Speed Boost	Zvýšení rychlosti
+items	Speed Boost Recipe	Recept na lektvar Zvýšení rychlosti
+items	Spider Queen's Heart	Srdce královny pavouků
+items	Spiked Club	Ostnatý kyj
+items	Spiked Mace	Ostnatý palcát
+items	Spiral Instructions	Spirálové instrukce
+items	Spirit Lash	Bičování duší
+items	Spirit Shield	Duševní štít
+items	Spiritslayer	Zabiják duše
+items	Splendid Plate Armor	Přepychová plátová zbroj
+items	Splitter	Půlič
+items	Staff	Hůl
+items	Staff of Elements	Hůl živlů
+items	Staff of the Swamp	Hůl bažiny
+items	Stalt-laced ore	Staltová ruda
+items	Steel Axe	Ocelová sekyra
+items	Steel Belt	Ocelový opasek
+items	Steel Boots	Ocelové boty
+items	Steel Broadsword	Ocelový široký meč
+items	Steel Chain Mail	Ocelová kroužková zbroj
+items	Steel Chainmail	Ocelové kroužkové brnění
+items	Steel club	Ocelový kyj
+items	Steel Gauntlets	Ocelové rukavice
+items	Steel Helm	Ocelová helma
+items	Steel Plate Armor	Ocelová plátová zbroj
+items	Steel Plated Boots	Boty z plátové oceli
+items	Steel Shield	Ocelový štít
+items	Steel Spear	Ocelové kopí
+items	Stellar Bow	Kompozitní luk
+items	Sterling Boots	Šterlingové boty
+items	Sterling Shield	Tepaný štít
+items	Stone Axe	Kamenná sekyra
+items	Stone Skin	Kamenná kůže
+items	Stone to Flesh	Odkamenění
+items	Stone To Flesh Recipe	Recept na Odkamenění
+items	Stoneskin	Kamenná kůže
+items	Storage Key	Klíč od skladu
+items	Store Room Key	Klíč od skladiště
+items	Stout Spear	Ostré kopí
+items	Strong Belt	Pevný opasek
+items	Studded Leather	Vycpávaná kožená zbroj
+items	Sturdy Belt	Masivní opasek
+items	Sublime Spear	Prvotřídní kopí
+items	Sulfur	Síra
+items	Summon Elemental	Přivolej elementála
+items	Summon Wisp	Přivolat bludičku
+items	Sun Amulet	Sluneční amulet
+items	Sun Cloak	Sluneční plášť
+items	Sun Hammer	Sluneční kladivo
+items	Sun Opal Ring	Prsten se slunečním opálem
+items	Sunray	Sluneční paprsek
+items	Sunstone	Sluneční kámen
+items	Super Resistance	Super odolnost
+items	Supreme Axe	Skvělá sekyra
+items	Supreme Flail	Prvotřídní řemdih
+items	Supreme Plate	Prvotřídní brnění
+items	Supreme Protection	Maximální ochrana
+items	Swift Potion	Svištivý nátěr
+items	Swift Potion Recipe	Recept na Svištivý nátěr
+items	Sword of Whistlebone	Whistlebonův meč
+items	Taledon's Helm	Taledonova helma
+items	Tanir's Bell	Tanirův zvon
+items	Telelocator	
+items	Telepathy	Telepatie
+items	Teleporter Key	Klíč od teleportu
+items	Templar's Sword	Templářův meč
+items	Temple Gong	Chrámový gong
+items	Temple in a Bottle	Chrám v láhvi
+items	Temple Mace	Chrámový palcát
+items	Terminus	Mezník
+items	The DeathBlade	Čepel smrti
+items	The Letter	Dopis
+items	The Perfect Bow	Skvělý luk
+items	The Third Eye	Třetí oko
+items	Thigh Bone	Stehenní kost
+items	Thor	Thor
+items	Thornbark	Trn z trnovníku
+items	Thornbark Club	Trnovníkový kyj
+items	Thornbark Shield	Trnovníkový štít
+items	Thunder Mace	Hromový palcát
+items	Tiger Statuette	Soška tygra
+items	Titan's Belt	Titánský opasek
+items	Titanic Trident	Titánský trojzubec
+items	Tobersk Brandy	Pálenka z toberkovníku
+items	Tobersk Fruit	Plod toberkovníku
+items	Tobersk Pulp	Dužina toberkovníku
+items	Tooth	Zub
+items	Topaz	Topaz
+items	Torn Page	Vytržená stránka
+items	Tournament Bow	Turnajový luk
+items	Tower Shield	Věžový štít
+items	Traveler's Cloak	Cestovní plášť
+items	Traveller's Hat	Cestovní čapka
+items	Treasure Room Key	Klíč od pokladnice
+items	Trident	Trojzubec
+items	Trident of Rulership	Trojzubec vlády
+items	Triton Trident	Tritónský trojzubec
+items	Troll Gauntlets	Trolí rukavice
+items	Trollish Claymore	Trolí obouruční meč
+items	Trollish Maul	Trolí palice
+items	Trollish Shield	Trolí štít
+items	Trollish War Mace	Trolí válečný palcát
+items	Trollish War Sword	Trolí válečný meč
+items	True Crossbow	Spolehlivá kuše
+items	Turquoise Amulet	Tyrkysový amulet
+items	Twilight	Soumrak
+items	Twilight Kris	Dýka soumraku
+items	Two-Handed Axe	Obouruční sekyra
+items	Two-Handed Sword	Obouruční meč
+items	Ullyses	Odysseus
+items	Ultimate Boots	Ultimátní boty
+items	Ultimate Gauntlets	Ultimátní rukavice
+items	Unicorn Horn	Roh jednorožce
+items	Urn of Ashes	Urna s popelem
+items	Valeria	Valeria
+items	Valuable Ring	Cenný prsten
+items	Vampire Cloak	Upíří plášť
+items	Vampire's Cape	Upíří pláštěnka
+items	Vampire's Ring	Upíří prsten
+items	Vampiric Weapon	Upíří zbraň
+items	Vanguard Belt	Avantgardní opasek
+items	VARN Chest Key	Klíč od VARN truhly
+items	Vase	Váza
+items	Veteran Shield	Štít veteránů
+items	Vial of Devil Ichor	Ampule ďáblovy krve
+items	Vial of Grave Earth	Lahvička s hřbitovní hlínou
+items	Vial of Ooze Endoplasm	Ampule endoplazmy
+items	Vial of Troll Blood	Ampule trolí krve
+items	Villain's Blade	Zloduchův meč
+items	Volcano	Vulkán
+items	Walking Boots	Cestovní boty
+items	Wallace	Wallace
+items	Wand of Arrows	Hůlka šípů
+items	Wand of Cold	Hůlka mrazu
+items	Wand of Fire	Hůlka ohně
+items	Wand of Flame	Hůlka ohně
+items	Wand of Harm	Hůlka zranění
+items	Wand of Poison	Hůlka jedu
+items	Wand of Sparks	Hůlka jisker
+items	Wand of Static	Hůlka statické elektřiny
+items	Wand of Stunning	Hůlka omráčení
+items	War Axe	Válečná sekyra
+items	War Hammer	Válečné kladivo
+items	War Spear	Válečné kopí
+items	War Trident	Válečný trojzubec
+items	Warhammer	Válečné kladivo
+items	Warlock's Ring	Čarodějnický prsten
+items	Warlord Belt	Opasek pána války
+items	Warlord's Key	Vojevůdcův klíč
+items	Warrior Sword	Válečný meč
+items	Warrior's Poleaxe	Válečníkova dlouhá sekyra
+items	Wasp Stingers	Vosí žihadlo
+items	Wasp Wing	Vosí křídlo
+items	Water Breathing	Dýchání pod vodou
+items	Water Resistance	Odolnost proti vodě
+items	Water Resistance Recipe	Recept na lektvar Odolnosti proti vodě
+items	Water Temple Key	Klíč od Chrámu vody
+items	Wealthy Hat	Parádní klobouk
+items	Weighted Halberd	Těžká halapartna
+items	West Pillar Key	Klíč k západnímu sloupu
+items	Wetsuit	Skafandr
+items	Wheel of Frelandeau	Kolo Frelandeauského sýra
+items	Whisp wrappings	
+items	Wicked Mace	Palcát strachu
+items	Widoweeps Berries	Brusinky
+items	Widowsweep Berries	Bobule kominíčku
+items	Will O' Wisp Heart	Srdce bludičky
+items	William's Tower Key	Klíč od Williamovy věže
+items	Winged Sandals	Okřídlené sandály
+items	Witch Ring	Čarodějný prsten
+items	Witch's Amulet	Čarodějčin amulet
+items	Witch's Wand of Fire	Čarodějčina hůlka ohně
+items	Witch's Wand of Harming	Čarodějčina hůlka ublížení
+items	Witch's Wand of Poison	Čarodějčina hůlka jedu
+items	Witch's Wand of Sparks	Čarodějčina hůlka jisker
+items	Witch's Wand of Stunning	Čarodějčina hůlka omráčení
+items	Wizard Cap	Čarodějova čapka
+items	Wizard Ring	Čarodějný prsten
+items	Wizard Staff	Kouzelnická hůl
+items	Wizard Wand of Acid	Kouzelníkova hůlka kyseliny
+items	Wizard Wand of Berzerking	Kouzelníkova hůlka berserku
+items	Wizard Wand of Blades	Kouzelníkova hůlka čepelí
+items	Wizard Wand of Fireballs	Kouzelníkova hůlka ohnivých koulí
+items	Wizard Wand of Lightning	Kouzelníkova hůlka blesků
+items	Wolf Statuette	Soška vlka
+items	Wolf's Eye	Vlčí oko
+items	Wonder Mace	Čarovný palcát
+items	Wooden Buckler	Malý dřevěný štít
+items	Wooden Shield	Dřevěný štít
+items	Worn Belt	Opotřebovaný řemen
+items	Wyrm Spitter	Dračí kopí
+items	Wyvern Horn	Roh ještěra
+items	Wyvern Leather Belt	Opasek z kůže ještěra
+items	Yellow Topaz	Žlutý topaz
+items	Yoruba	Yoruba
+items	Zealot Mace	Palcát fanatiků
+items	Zeus	Zeus
+items	Zircon	Zirkon
+items	Zokarr IV's Skull	Lebka Zokarra IV
+items	Zokarr's Axe	Zokarrova sekyra
+location	Abandoned Pirate Keep	Opuštěná pirátská tvrz
+location	Abandoned Temple	Opuštěný chrám
+location	Agar's Laboratory	Agarova laboratoř
+location	Alvar	Alvar
+location	Ancient Troll Home	Prastarý trolí domov
+location	Arena	Aréna
+location	Avlee	Avlee
+location	Balthazar Lair	Baltazarovo doupě
+location	Barbarian Fortress	Pevnost barbarů
+location	Barrow I	Mohyla I
+location	Barrow II	Mohyla II
+location	Barrow III	Mohyla III
+location	Barrow IV	Mohyla IV
+location	Barrow IX	Mohyla IX
+location	Barrow V	Mohyla V
+location	Barrow VI	Mohyla VI
+location	Barrow VII	Mohyla VII
+location	Barrow VIII	Mohyla VIII
+location	Barrow X	Mohyla X
+location	Barrow XI	Mohyla XI
+location	Barrow XII	Mohyla XII
+location	Barrow XIII	Mohyla XIII
+location	Barrow XIV	Mohyla XIV
+location	Barrow XV	Mohyla XV
+location	Basement of the Breach	
+location	Blackshire	Blackshire
+location	Bootleg Bay	Zátoka pašeráků
+location	Castle Alamos	Hrad Alamos
+location	Castle Darkmoor	Hrad Darkmoor
+location	Castle Gloaming	Hrad Gloaming
+location	Castle Gryphonheart	Hrad Gryphonheart
+location	Castle Harmondale	Hrad Harmondale
+location	Castle Ironfist	Hrad Ironfist
+location	Castle Kriegspire	Hrad Kriegspire
+location	Castle Lambent	Hrad Lambent
+location	Castle Navan	Hrad Navan
+location	Castle of Air	Vzdušný hrad
+location	Castle of Fire	Ohnivý hrad
+location	Caves of the Dragon Riders	Jeskyně dračích jezdců
+location	Celeste	Oblačné město
+location	Chain of Fire	Lávový tunel
+location	Chapel of Eep	Kaple Eepa
+location	Church of Eep	Kostel Eepa
+location	Clanker's Laboratory	Clankerova laboratoř
+location	Colony Zod	Kolonie Zod
+location	Control Center	Kontrolní centrum
+location	Corlagon's Estate	Corlagonovo panství
+location	Cyclops Larder	Spíž kyklopů
+location	Dagger Wound Island	Souostroví Dýky
+location	Dark Dwarf Compound	Opevnění temných trpaslíků
+location	Devil Outpost	Pevnost démonů
+location	Deyja	Deyja
+location	Dire Wolf Den	Doupě strašných vlků
+location	Dragon Cave	Dračí jeskyně
+location	Dragon Hunter's Camp	Tábor drakobijců
+location	Dragon's Lair	Dračí sluj
+location	Dragonsand	Dračí písky
+location	Dragoons' Caverns	Jeskyně dragounů
+location	Dragoons' Keep	Pevnost Dragounů
+location	Druid Circle	Druidský kruh
+location	Eel Infested Waters	Úhoří vody
+location	Emerald Island	Smaragdový ostrov
+location	Erathia	Erathie
+location	Escaton's Crystal	Escatonův krystal
+location	Escaton's Palace	Escatonův palác
+location	Evenmorn Island	Ostrov Evermorn
+location	Fort Riverstride	Pevnost Riverstride
+location	Free Haven	Svobodný přístav
+location	Free Haven Sewer	Stoky Svobodného přístavu
+location	Frozen Highlands	Mrazivá vrchovina
+location	Garrote Gorge	Garrotova rokle
+location	Gharik's Forge	Gharikova kovárna
+location	Goblinwatch	Gobliní hláska
+location	Grand Temple of Eep	Velechrám Eepa
+location	Grand Temple of the Moon	Velechrám Měsíce
+location	Grand Temple of the Sun	Velechrám Slunce
+location	Hall of the Fire Lord	Sídlo Pána ohně
+location	Harmondale	Harmondale
+location	Hermit's Isle	Poustevníkův ostrov
+location	Icewind Keep	Pevnost Icewind
+location	Ilsingore's Cave	Jeskyně Ilsingora
+location	Ironsand Desert	Poušť Železných písků
+location	Kriegspire	Kriegspire
+location	Lair of the Wolf	Vlčí doupě
+location	Lord Markham's Manor	Zámeček vévody Markhama
+location	Mad Necromancer's Lab	Laboratoř šílené nekromancerky
+location	Merchant House of Alvar	Dům obchodníků z Alvaru
+location	Mire of the Damned	Močál prokletých
+location	Misty Islands	Mlžné ostrovy
+location	Mount Nighon	Hora Nighon
+location	Murmurwoods	Šeptající lesy
+location	Naga Vault	Hrobka nagy
+location	Necromancers' Guild	Cech Nekromancerů
+location	New Sorpigal	Nový Sorpigal
+location	New World Computing	New World Computing
+location	Nighon Tunnels	Placeholder
+location	NWC	NWC
+location	Ogre Fortress	Zlobří pevnost
+location	Old Loeb's Cave	Jeskyně starého Loeba
+location	Oracle of Enroth	Orákulum Enrothu
+location	Paradise Valley	Rajské údolí
+location	Passage Under Regna	Průchod pod Regnou
+location	pending	pending
+location	Pirate Outpost	Předsunutá hlídka pirátů
+location	Pirate Stronghold	Tvrz pirátů
+location	Plane Between Planes	Rovina mezi rovinami
+location	Plane of Air	Rovina vzduchu
+location	Plane of Earth	Rovina země
+location	Plane of Fire	Rovina ohně
+location	Plane of Water	Rovina vody
+location	Prison of the Lord of Air	Vězení Pána vzduchu
+location	Prison of the Lord of Earth	Vězení Pána země
+location	Prison of the Lord of Fire	Vězení Pána ohně
+location	Prison of the Lord of Water	Vězení Pána vody
+location	Ravage Roaming	Bludná pláň
+location	Ravenshore	Havraní pobřeží
+location	Regna	Regna
+location	Shadow Guild	Stínová gilda
+location	Shadow Guild Hideout	Skrýš Stínové gildy
+location	Shadowspire	Země stínů
+location	Shoals	Mělčiny
+location	Silver Cove	Stříbrná zátoka
+location	Silver Helm Outpost	Výspa Stříbrných helem
+location	Silver Helm Stronghold	Pevnost Stříbrných helem
+location	Small Sub Pen	Malá základna
+location	Smuggler's Cove	Pašerácká zátoka
+location	Snergle's Caverns	Snerglovy jeskyně
+location	Snergle's Iron Mines	Snerglovy železné doly
+location	Stone City	Kamenné město
+location	Superior Temple of Baa	Nejvyšší chrám Baa
+location	Supreme Temple of Baa	Vyšší chrám Baa
+location	Sweet Water	Dobrá voda
+location	Tatalia	Tatalie
+location	Temple of Baa	Chrám Baa
+location	Temple of the Dark	Chrám Temnoty
+location	Temple of the Fist	Chrám pěsti
+location	Temple of the Light	Chrám Světla
+location	Temple of the Moon	Chrám Měsíce
+location	Temple of the Snake	Chrám hada
+location	Temple of the Sun	Chrám Slunce
+location	Temple of Tsantsa	Chrám Tsantsa
+location	The Arena	Aréna
+location	The Bandit Caves	Jeskyně banditů
+location	The Barrow Downs	Mohylové údolí
+location	The Bracada Desert	Brakadská poušť
+location	The Breach	
+location	The Breeding Zone	Líheň
+location	The Crypt of Korbu	Korbuova krypta
+location	The Dragon Caves	Dračí jeskyně
+location	The Dragon's Lair	Dračí sluj
+location	The Erathian Sewers	Erathijská stoka
+location	The Hall of the Pit	Předsíně Jámy
+location	The Hall under the Hill	Síň pod horou
+location	The Haunted Mansion	Strašidelný dům
+location	The Hidden Tomb	Ztracená hrobka
+location	The Hive	Úl
+location	The Land of the Giants	Země obrů
+location	The Lincoln	Lincoln
+location	The Maze	Labyrint
+location	The Mercenary Guild	Cech žoldáků
+location	The Monolith	Monolit
+location	The Pit	Jáma
+location	The Red Dwarf Mines	Doly rudého trpaslíka
+location	The School of Sorcery	Škola kouzelnictví
+location	The Small House	Domeček
+location	The Strange Temple	Podivný chrám
+location	The Temple of Baa	Chrám Baa
+location	The Temple of the Moon	Chrám Měsíce
+location	The Tidewater Caverns	Příbojové jeskyně
+location	The Titans' Stronghold	Titánská pevnost
+location	The Tularean Caves	Tulareanské jeskyně
+location	The Tularean Forest	Tulareanský les
+location	The Walls of Mist	Mlžné stěny
+location	The Wine Cellar	Vinný sklípek
+location	Thunderfist Mountain	Hromová hora
+location	Tomb of Ethric the Mad	Hrobka Erika Šíleného
+location	Tomb of Lord Brinne	Hrobka lorda Brinna
+location	Tomb of VARN	Hrobka VARN
+location	Troll Tomb	Trolí hrobka
+location	Tunnels to Eeofol	Placeholder
+location	Tutorial	Výuka
+location	Uplifted Library	Vyzdvižená knihovna
+location	Vampire Crypt	Upíří krypta
+location	War Camp	Válečný tábor
+location	Warlord's Fortress	Vojevůdcova pevnost
+location	Wasp Nest	Vosí hnízdo
+location	Watchtower 6	Strážní věž 6
+location	White Cliff Cave	Jeskyně Bílého útesu
+location	William Setag's Tower	Věž Williama Setaga
+location	Wromthrax's Cave	Wromthraxova jeskyně
+location	Yaardrake's Cave	Yaardrakova jeskyně
+location	Zokarr's Tomb	Zokarrova hrobka
+monsters	Acidic Ooze	Kyselinný sliz
+monsters	Acolyte of Baa	Baaův akolyta
+monsters	Acolyte of the Moon	Novic Měsíce
+monsters	Acolyte of the Sun	Sluneční novic
+monsters	Adventurer	Dobrodruh
+monsters	Agar's Abomination	Agarova ohavnost
+monsters	Agar's Monster	Agarova stvůra
+monsters	Agar's Pet	Agarův mazlíček
+monsters	Air Elemental	Vzdušný elementál
+monsters	Air Hydra	Vzdušná hydra
+monsters	Air Warlock	Vzdušná čarodějnice
+monsters	Ancient Behemoth	Starověký behemot
+monsters	Ancient Wyvern	Starověký ještěr
+monsters	Angel	Anděl
+monsters	Angel Lord	Anděl vládce
+monsters	Animalist	Vagabund
+monsters	Apprentice Mage	Mág začátečník
+monsters	Archangel	Archanděl
+monsters	Archer	Lučištník
+monsters	Archmage	Arcimág
+monsters	Assassin	Vrah
+monsters	Assassin Droid	Likvidační robot
+monsters	Bandit	Bandita
+monsters	Barrow Wight	Duch mohyl
+monsters	Basilisk	Bazilišek
+monsters	Bat	Netopýr
+monsters	Behemoth	Behemot
+monsters	Bestial Animalist	Brutální živočich
+monsters	Bestial Lycanthrope	Brutální lykantrop
+monsters	Bestial Shapeshifter	Brutální vlkodlak
+monsters	Blaster Guy C	Muž s blasterem
+monsters	Blood Sucker	Krvohlt
+monsters	Blood Titan	Krvavý titán
+monsters	Bloodstone Ooze	Rubínový sliz
+monsters	Blue Dragon	Modrý drak
+monsters	Bone Dragon	Kostěný drak
+monsters	Boulder	Balvan
+monsters	Bounty Hunter	Lovec lidí
+monsters	Bowman	Lukostřelec
+monsters	Brain Sucker	Mozkoškráb
+monsters	Brass Golem	Mosazný golem
+monsters	Brass Gorgon	Mosazná gorgona
+monsters	Brigand	Bandita
+monsters	Bronze Golem	Bronzový golem
+monsters	Bronze Gorgon	Bronzová gorgona
+monsters	Buccaneer	Bukanýr
+monsters	Burglar	Lupič
+monsters	Cactus	Kaktus
+monsters	Cannibal	Kabibal
+monsters	Captain	Kapitán
+monsters	Cat A	Cat A
+monsters	Cat B	Cat B
+monsters	Cat C	Cat C
+monsters	Centaur	Kentaur
+monsters	Centaur Warlord	Kentauří pán
+monsters	Centaur Warrior	Kentaur válečník
+monsters	Champion of the Sword	Šampión meče
+monsters	Chaos Guardian	Hlídač chaosu
+monsters	Chaos Hydra	Hydra chaosu
+monsters	Chaos Overlord	Vládce chaosu
+monsters	Chaos Protector	Ochránce chaosu
+monsters	Charger	Nabíječ
+monsters	Chicken A	Chicken A
+monsters	Chicken B	Chicken B
+monsters	Chicken C	Chicken C
+monsters	Clay Elemental	Hliněný elementál
+monsters	Cleric of Baa	Baaův klerik
+monsters	Cleric of the Moon	Klerik Měsíce
+monsters	Cleric of the Sun	Sluneční klerik
+monsters	Cobra	Kobra
+monsters	Colossal Hydra	Obrovská hydra
+monsters	Common Rat	Krysa
+monsters	Conscript	Rekrutka
+monsters	Corbie	Krkavec
+monsters	Corrosive Ooze	Žíravý sliz
+monsters	Corsair	Korzár
+monsters	Couatl	Létající had
+monsters	Crusader	Křižák
+monsters	Crystal Guardian	Krystalová stráž
+monsters	Crystal Sentry	Krystalová hlídka
+monsters	Crystal Walker	Krystalový chodec
+monsters	Cuisinart	Ničitel
+monsters	Cutpurse	Kapsář
+monsters	Cyclone	Cyklón
+monsters	Cyclops	Kyklop
+monsters	Cyclops Hunter	Kyklopí lovec
+monsters	Cyclops Warrior	Kyklopí válečník
+monsters	Dancing Light	Tančící světlo
+monsters	Dark Dwarf Berserker	Berserk temných trpaslíků
+monsters	Dark Dwarf Grunt	Poskok temných trpaslíků
+monsters	Dark Dwarf Pounder	Bijec temných trpaslíků
+monsters	Dark Elf Peasant	Dělník temných elfů
+monsters	Dark Elven Crusader	Křižák temných elfů
+monsters	Dark Elven Defender	Obránce temných elfů
+monsters	Dark Elven Warrior	Válečník temných elfů
+monsters	Dark Path Journeyman	Sluha temnoty
+monsters	Death Knight	Rytíř smrtit
+monsters	Defender of VARN	Obránce VARNu
+monsters	Demolisher	Vandal
+monsters	Demon Queen	Královna démonů
+monsters	Devil Captain	Ďábelský kapitán
+monsters	Devil King	Král démonů
+monsters	Devil Master	Pán démonů
+monsters	Devil Spawn	Démoní potěr
+monsters	Devil Warrior	Ďábelský válečník
+monsters	Devil Worker	Ďábelský poskok
+monsters	Diamond Gargoyle	Diamantová gargoyla
+monsters	Dire Wolf	Strašný vlk
+monsters	Dire Wolf Yearling	Štěně strašného vlka
+monsters	Djinn	Džin
+monsters	Djinni	Džinek
+monsters	Dog A	Dog A
+monsters	Dog B	Dog B
+monsters	Dog C	Dog C
+monsters	Doom Knight	Rytíř zkázy
+monsters	Dragon	Drak
+monsters	Dragon Flightleader	Dračí vůdce letky
+monsters	Dragon Hunter	Lovec draků
+monsters	Dragon Shark	Dračí žralok
+monsters	Dragon Turtle	Dračí želva
+monsters	Dragonette	Dráče
+monsters	Dragonfly	Vážka
+monsters	Dragonslayer	Drakobijce
+monsters	Druid	Druid
+monsters	Dust Devil	Démon prachu
+monsters	Dwarf	Trpaslík
+monsters	Dwarf Lord	Pán trpaslíků
+monsters	Dwarf Warrior	Trpasličí bojovník
+monsters	Dwarven Commander	Trpasličí velitel
+monsters	Dwarven Lieutenant	Trpasličí pobočník
+monsters	Dwarven Soldier	Trpasličí voják
+monsters	Earth Elemental	Zemský elementál
+monsters	Earth Spirit	Duch země
+monsters	Efreet	Efrít
+monsters	Efreeti Knight	Efrítí rytíř
+monsters	Efreeti Lord	Efrítí pán
+monsters	Efreeti Soldier	Efrítí voják
+monsters	Elder Basilisk	Starý bazilišek
+monsters	Elder Tortoise	Stará želva
+monsters	Elder Vampire	Starší upír
+monsters	Elite Archer	Elitní lukostřelec
+monsters	Elven Archer	Elfí lučištnice
+monsters	Elven Defender	Elfí obránce
+monsters	Elven Lancer	Elfí kopiník
+monsters	Elven Ranger	Elfí hraničářka
+monsters	Elven Scout	Elfí průzkumnice
+monsters	Elven Warrior	Elfí válečník
+monsters	Ember Gog	Žhavý gog
+monsters	Emerald Dragon	Smaragdový drak
+monsters	Emerald Ooze	Smaragdový sliz
+monsters	Empress Medusa	Císařovna medúz
+monsters	Energy Drake	Elektrický dráček
+monsters	Enforcer Unit	Pořádková jednotka
+monsters	Ether Champion	Éterický šampión
+monsters	Ether Knight	Éterický rytíř
+monsters	Ether Lord	Éterický vládce
+monsters	Evil Eye	Oko zla
+monsters	Evil Spirit	Zlý přízrak
+monsters	Expert Swordsman	Expert šermíř
+monsters	Fanatic of Baa	Fanatik Baa
+monsters	Fear	Strach
+monsters	Fighter	Bojovnice
+monsters	Fire Archer	Ohnivá lučištnice
+monsters	Fire Beast	Ohnivá bestie
+monsters	Fire Bird	Ohnivák
+monsters	Fire Dragonfly	Ohnivá vážka
+monsters	Fire Elemental	Ohnivý elementál
+monsters	Fire Gog	Ohnivý gog
+monsters	Fire Hydra	Ohnivá hydra
+monsters	Fire Lizard	Ohnivá ještěrka
+monsters	Fire Newt	Ohnivý mlok
+monsters	Fire Rat	Ohnivá krysa
+monsters	Fire Spirit	Duch ohně
+monsters	Fire Warlock	Ohnivá čarodějnice
+monsters	Fish	Ryba
+monsters	Flame Drake	Ohnivý dráček
+monsters	Floating Eye	Létající oko
+monsters	Flying Eye	Létající oko
+monsters	Follower of Baa	Následovník Baa
+monsters	Frost Drake	Ledový dráček
+monsters	Gazer	Pozorovatel
+monsters	Genie	Džin
+monsters	Ghast	Děs
+monsters	Ghost	Fantom
+monsters	Ghoul	Ghúl 
+monsters	Giant Bat	Obří netopýr
+monsters	Giant Rat	Obří krysa
+monsters	Giant Shark	Obří žralok
+monsters	Giant Spider	Obří pavouk
+monsters	Giant Wyrm	Velký wyrm
+monsters	Goblin	Goblin
+monsters	Goblin King	Král goblinů
+monsters	Goblin Lord	Vůdce goblinů
+monsters	Goblin Shaman	Gobliní šaman
+monsters	Gog	Gog
+monsters	Gogling	Goglínek
+monsters	Gold Dragon	Zlatý drak
+monsters	Gold Golem	Zlatý golem
+monsters	Gorgon	Gorgona
+monsters	Grand Druid	Nejvyšší druid
+monsters	Grand Phoenix	Velký fénix
+monsters	Great Druid	Veledruid
+monsters	Great Wyrm	Velký wyrm
+monsters	Greater Air Elemental	Velký vzdušný elementál
+monsters	Greater Earth Elemental	Velký zemský elementál
+monsters	Greater Fire Elemental	Velký ohnivý elementál
+monsters	Greater Lich	Vyšší lich
+monsters	Greater Light Elemental	Velký světelný elementál
+monsters	Greater Roc	Velký roch
+monsters	Greater Vampire	Velký upír
+monsters	Greater Water Elemental	Velký vodní elementál
+monsters	Greater Wererat	Velký krysodlak
+monsters	Greater Werewolf	Velký vlkodlak
+monsters	Green Dragon	Zelený drak
+monsters	Griffin	Gryf
+monsters	Guard	Stráž
+monsters	Guardian of Flame	Ohnivý strážce
+monsters	Guardian of VARN	Dozorce VARNu
+monsters	Harpy	Harpyje
+monsters	Harpy Hag	Stará harpyje
+monsters	Harpy Queen	Královna harpyjí
+monsters	Harpy Witch	Harpijí čarodějnice
+monsters	Hatchling	Vylíhlé dráče
+monsters	Head Hunter	Lovec lebek
+monsters	Hobgoblin	Hobgoblin
+monsters	Horned Wyvern	Rohatý ještěr
+monsters	Huge Spider	Obrovský pavouk
+monsters	Human Peasant	Lidský dělník
+monsters	Hunting Griffin	Lovecký gryf
+monsters	Hydra	Hydra
+monsters	Inferno Bat	Pekelný netopýr
+monsters	Initiate	Zasvěcenec
+monsters	Initiate Monk	Mnich zasvěcenec
+monsters	Initiate of the Sword	Zasvěcenec meče
+monsters	Iron Gorgon	Železná gorgona
+monsters	Journeyman Mage	Mág tovaryš
+monsters	Juggernaut	Děs
+monsters	King Cobra	Královská kobra
+monsters	Large Rat	Přerostlá krysa
+monsters	Lesser Air Elemental	Malý vzdušný elementál
+monsters	Lesser Earth Elemental	Malý zemský elementál
+monsters	Lesser Fire Elemental	Malý ohnivý elementál
+monsters	Lesser Light Elemental	Malý světelný elementál
+monsters	Lesser Water Elemental	Malý vodní elementál
+monsters	Lich	Lich
+monsters	Lich King	Král lichů
+monsters	Lieutenant	Poručík
+monsters	Light Elemental	Světelný elementál
+monsters	Lightning Lizard	Blesková ještěrka
+monsters	Lightning Rat	Blesková krysa
+monsters	Lizard Archer	Ještěrácký lučištník
+monsters	Lizard Man	Ještěrák
+monsters	Lizard Wizard	Ještěrácký kouzelník
+monsters	Lizardman Captain	Ještěrčí kapitán
+monsters	Lizardman Farmer	Ještěrčí farmář
+monsters	Lizardman Peasant	Ještěrčí dělník
+monsters	Lizardman Sergeant	Ještěrčí seržant
+monsters	Lizardman Soldier	Ještěrčí voják
+monsters	Lizardman Villager	Ještěrčí vesničan
+monsters	Lycanthrope	Lykantrop
+monsters	Maddening Eye	Šílené oko
+monsters	Mage	Mág
+monsters	Magician	Černokněžník
+monsters	Magog	Magog
+monsters	Magyar	Hun
+monsters	Magyar Matron	Hunská matrona
+monsters	Magyar Soldier	Hunský voják
+monsters	Manticore	Mantikora 
+monsters	Marble Gargoyle	Mramorový chrlič
+monsters	Master	Mistr
+monsters	Master Archer	Mistrovská lučištnice
+monsters	Master Monk	Mnich mistr
+monsters	Master Necromancer	Mistr nekromant
+monsters	Master of the Sword	Mistr meče
+monsters	Master Swordsman	Mistr šermíř
+monsters	Master Thief	Mistr zloděj
+monsters	Medusa	Medúza
+monsters	Medusa Enchantress	Čarodějnice
+monsters	Mega-Dragon	Obří drak
+monsters	Mercenary	Žoldák
+monsters	Mercenary Captain	Žoldácký kapitán
+monsters	Minicore	Minikora
+monsters	Minion Vampire	Upíří přisluhovač
+monsters	Minotaur	Minotaurus
+monsters	Minotaur Battleleader	Minotauří vojevůdce
+monsters	Minotaur Guard	Minotauří stráž
+monsters	Minotaur Headsman	Minotauří kat
+monsters	Minotaur King	Král minotaurů
+monsters	Minotaur Lord	Vůdce minotaurů
+monsters	Minotaur Mage	Minotauří mág
+monsters	Minotaur Peasant	Minotauří dělník
+monsters	Minotaur Warrior	Minotauří válečník
+monsters	Mist Hawk	Mlžný sokol
+monsters	Monk	Mnich
+monsters	Mountain Troll	Horský trol
+monsters	Mystic of Baa	Mystik Baa
+monsters	Naga	Naga 
+monsters	Naga Queen	Královna nag
+monsters	Naga Warrior	Válečná naga
+monsters	Necromancer	Nekromant
+monsters	Nightmare	Noční můra
+monsters	Noble Titan	Urozený titán
+monsters	Novice Monk	Mnich nováček
+monsters	Obsidian Gargoyle	Obsidiánový chrlič
+monsters	Ogre	Ogr
+monsters	Ogre Brawler	Zlobří rváč
+monsters	Ogre Chieftain	Náčelník ogrů
+monsters	Ogre Mage	Zlobří mág 
+monsters	Ogre Mage Apprentice	Učeň zlobřího mága
+monsters	Ogre Magi	Zlobří mudrc
+monsters	Ogre Peasant	Zlobří dělník
+monsters	Ogre Raider	Ogří nájezdník
+monsters	Ogre Warleader	Zlobří vojevůdce
+monsters	Ogre Warrior	Zlobří válečník
+monsters	Ooze	Sliz
+monsters	Pack Leader	Vůdce smečky
+monsters	Patrol Unit	Hlídková jednotka
+monsters	Peasant	Dělnice
+monsters	Phoenix	Fénix
+monsters	Piranha Shark	Piraní žralok
+monsters	Pirate	Pirát
+monsters	Pirate Magi	Pirátský mág
+monsters	Pirate Seer	Pirátský věštec
+monsters	Pirate Wizard	Pirátský čaroděj
+monsters	Plane Guardian	Hlídač roviny
+monsters	Plane Overlord	Vládce roviny
+monsters	Plane Protector	Ochránce roviny
+monsters	Power Lich	Mocný lich
+monsters	Priest of Baa	Baaův kněz
+monsters	Priest of the Moon	Kněz Měsíce
+monsters	Priest of the Sun	Sluneční kněz
+monsters	Queen Cobra	Královna kober
+monsters	Queen Dragonfly	Královna vážek
+monsters	Queen Medusa	Královna medúz
+monsters	Queen of the Dead	Královna mrtvých
+monsters	Raider	Nájezdník
+monsters	Rat A	Rat A
+monsters	Rat B	Rat B
+monsters	Rat C	Rat C
+monsters	Ratman	Krysí muž
+monsters	Raven	Havran
+monsters	Reactor	Reaktor
+monsters	Red Dragon	Rudý drak
+monsters	Regnan Arbalester	Regnanská střelkyně
+monsters	Regnan Archmage	Regnanský arcimág
+monsters	Regnan Bandit	Regnanský bandita
+monsters	Regnan Battlemage	Regnanský bojový mág
+monsters	Regnan Brigadier	Regnanský brigadýr
+monsters	Regnan Crossbowman	Regnanská lukostřelkyně
+monsters	Regnan Lieutenant	Regnanská pobočnice
+monsters	Regnan Pirate	Regnanský pirát
+monsters	Regnan Sorcerer	Regnanský kouzelník
+monsters	Revenant	Zjevení
+monsters	River Troll	Říční trol
+monsters	Robber	Raubíř
+monsters	Robert the Wise	Robert Moudrý
+monsters	Roc	Roch
+monsters	Rock Beast	Kamenná bestie
+monsters	Rogue	Lupič
+monsters	Rook	Vrána
+monsters	Rotted Corpse	Shnilá mrtvola
+monsters	Royal Griffin	Královský gryf
+monsters	Ruby Dragon	Rubínový drak
+monsters	Ruffian	Lotr
+monsters	Salamander	Salamandr 
+monsters	Sapphire Dragon	Safírový drak
+monsters	Sapphire Ooze	Safírový sliz
+monsters	Scorpicore	Škorpikora
+monsters	Sea Monster	Mořské monstrum
+monsters	Sea Serpent	Mořský had
+monsters	Sea Terror	Postrach moří
+monsters	Seeker Droid	Průzkumný robot
+monsters	Sentinel Droid	Hlídkový robot
+monsters	Sentinel of VARN	Hlídka VARNu
+monsters	Serpentman	Hadí muž
+monsters	Serpentman Elder	Starší hadí muž
+monsters	Serpentman Warrior	Válečník hadích mužů
+monsters	Shade	Stín
+monsters	Shapeshifter	Vlkodlak
+monsters	Skeletal Dragon	Dračí kostra
+monsters	Skeleton	Kostlivec
+monsters	Skeleton Archer	Kostlivý lukostřelec 
+monsters	Skeleton Bowman	Kostlivý lučištník
+monsters	Skeleton Hunter	Kostlivý lovec
+monsters	Skeleton Knight	Kostěný rytíř
+monsters	Skeleton Lord	Vůdce kostlivců
+monsters	Skeleton Warrior	Válečný kostlivec
+monsters	Smoke Gog	Dýmový gog
+monsters	Soldier	Vojínka
+monsters	Soldier of Fortune	Voják štěstěny
+monsters	Sorcerer	Kouzelník
+monsters	Soul Sucker	Duchosrk
+monsters	Speaker for the Dead	Mluvčí za mrtvé
+monsters	Specter	Strašidlo
+monsters	Spider	Pavouk
+monsters	Sprite	Vodní skřítek
+monsters	Stone Elemental	Kamenný elementál
+monsters	Stone Gargoyle	Kamenný chrlič
+monsters	Storm Eagle	Bouřkový orel
+monsters	Storm Titan	Bouřkový titán
+monsters	Supreme Titan	Nepřemožitelný titán
+monsters	Swamp Troll	Bažinný trol
+monsters	Swordsman	Šermíř
+monsters	Sylph	Sylfa
+monsters	Tempest	Vichr
+monsters	Terminator Unit	Terminační jednotka
+monsters	Terrible Eye	Děsivé oko
+monsters	Terror	Teror
+monsters	Thief	Zloděj
+monsters	Thug	Rváč
+monsters	Thunder Lizard	Hromová ještěrka
+monsters	Thunderbird	Hromový pták
+monsters	Titan	Titán
+monsters	Tolberti	Tolberti
+monsters	Tree	Strom
+monsters	Triton	Triton 
+monsters	Triton Crusader	Tritoní křižák
+monsters	Triton Warrior	Tritoní válečník
+monsters	Troglodyte Drone	Troglodytí trubec
+monsters	Troglodyte Queen	Královna troglodytů
+monsters	Troglodyte Soldier	Troglodytí voják
+monsters	Troll Chieftain	Trolí šéf
+monsters	Troll Clubman	Trolí bijec
+monsters	Troll Peasant	Trolí dělník
+monsters	Troll Warrior	Trolí válečník
+monsters	Twister	Tornádo
+monsters	Undead Dragon	Nemrtvý drak
+monsters	Unicorn	Jednorožec
+monsters	Unicorn Foal	Hříbě jednorožce
+monsters	Unicorn Herd Leader	Vůdce stáda jednorožců
+monsters	Vampire	Upír
+monsters	Vampire Bat	Upíří netopýr
+monsters	Vampire Minion	Upíří přisluhovač
+monsters	Venemous Spider	Jedovatý pavouk
+monsters	Venomous Hydra	Jedovatá hydra
+monsters	Veteran	Veterán
+monsters	Walking Dead	Chodící mrtvola
+monsters	Warden of Fire	Ohnivý hlídač
+monsters	Warlock	Temný mág
+monsters	Wasp Sentry	Vosí stráž
+monsters	Wasp Warrior	Vosí válečník
+monsters	Wasp Worker	Vosí dělník
+monsters	Water Beast	Vodní bestie
+monsters	Water Elemental	Vodní elementál
+monsters	Water Spirit	Duch vody
+monsters	Water Warlock	Vodní čarodějnice
+monsters	Wererat	Krysodlak
+monsters	Werewolf	Vlkodlak
+monsters	Widowmaker	Černá vdova
+monsters	Wight	Duch
+monsters	Will O' Wisp	Bludička
+monsters	Winged Serpent	Okřídlený létající had
+monsters	Wisp	Světluška 
+monsters	Witch Doctor	Šaman
+monsters	Wizard	Čaroděj
+monsters	Wolfman	Vlčí muž
+monsters	Wraith	Přízrak
+monsters	Wyrm	Wyrm
+monsters	Wyvern	Ještěr 
+monsters	Young Basilisk	Mladý bazilišek
+monsters	Young Behemoth	Mladý behemot
+monsters	Young Couatl	Mladý létající had
+monsters	Young Dragon	Mladý drak
+monsters	Young Dragon Turtle	Mladá dračí želva
+monsters	Zombie	Zombie
+npcprof	Acolyte	novic
+npcprof	Alchemist	alchymista
+npcprof	Apothecary	lékárník
+npcprof	Apprentice	učeň
+npcprof	Armorer	zbrojíř
+npcprof	Armorsmith	zbrojíř
+npcprof	Arms Master	mistr zbraní
+npcprof	Banker	bankéř
+npcprof	Bard	bard
+npcprof	Barmaid	šenkýř
+npcprof	Barrister	advokát
+npcprof	Beggar	žebrák
+npcprof	Blacksmith	kovář
+npcprof	Brekish One-Fang	Brekish One-Fang
+npcprof	Burglar	lupič
+npcprof	Captain	Captain
+npcprof	Carpenter	tesař
+npcprof	Cartographer	kartograf
+npcprof	Chaplain	kaplan
+npcprof	Charles Quixote	Charles Quixote
+npcprof	Chef	šéfkuchař
+npcprof	Child	Dítě
+npcprof	Chimney Sweep	kominík
+npcprof	Clerk	Clerk
+npcprof	Cobbler	švec
+npcprof	Cook	kuchař
+npcprof	Cooper	bednář
+npcprof	Counselor	poradce
+npcprof	Diplomat	diplomat
+npcprof	Ditch Digger	poskok
+npcprof	Dragon	Dragon
+npcprof	Duper	šejdíř
+npcprof	Dyson Leland	Dyson Leland
+npcprof	Enchanter	zaklínač
+npcprof	Escaton	Escaton
+npcprof	Expert Healer	expert léčitel
+npcprof	Explorer	badatel
+npcprof	Factor	jednatel
+npcprof	Fallen Wizard	padlý čaroděj
+npcprof	Farmer	farmář
+npcprof	Follower of Baa	příznivec Baa
+npcprof	Fool	blázen
+npcprof	Gambler	Karbaník
+npcprof	Gate Master	mistr bran
+npcprof	Guard	Stráž
+npcprof	Guide	průvodce
+npcprof	Guildmaster	Cechmistr
+npcprof	Gypsy	cikán
+npcprof	Healer	Healer
+npcprof	Herbalist	bylinkář
+npcprof	Horseman	jezdec
+npcprof	Hunter	Hunter
+npcprof	Initiate	Initiate
+npcprof	Innkeep	Innkeep
+npcprof	Instructor	Instructor
+npcprof	Jester	šašek
+npcprof	Laborer	dělník
+npcprof	Locksmith	zámečník
+npcprof	Magician	mág
+npcprof	Master Healer	mistr léčitel
+npcprof	Merchant	obchodník
+npcprof	Miller	mlynář
+npcprof	Missionary	misionář
+npcprof	Monk	Monk
+npcprof	Mystic	mystik
+npcprof	Navigator	navigátor
+npcprof	Negotiator	vyjednavač
+npcprof	Noble	aristokrat
+npcprof	Overdune	Overdune
+npcprof	Pathfinder	průkopník
+npcprof	Peasant	venkovan
+npcprof	Piper	dudák
+npcprof	Pirate	pirát
+npcprof	Porter	nosič
+npcprof	Potter	hrnčíř
+npcprof	Prelate	prelát
+npcprof	Psychic	okultista
+npcprof	Quarter Master	ubytovatel
+npcprof	Rustler	zloděj dobytka
+npcprof	Sage	mudrc
+npcprof	Sailor	námořník
+npcprof	Sandro	Sandro
+npcprof	Scholar	učenec
+npcprof	Scout	průzkumník
+npcprof	Scribe	Scribe
+npcprof	Serf	nevolník
+npcprof	Shopkeeper	obchodník
+npcprof	Smith	kovář
+npcprof	Smuggler	pašerák
+npcprof	Spell Master	mistr kouzel
+npcprof	Squire	panoš
+npcprof	Stablemaster	dopravce
+npcprof	Stone Cutter	kameník
+npcprof	Tailor	krejčí
+npcprof	Teacher	učitel
+npcprof	Tinker	klempíř
+npcprof	Tracker	stopař
+npcprof	Trader	kupec
+npcprof	Trapper	lovec kožešin
+npcprof	Water Master	mistr vody
+npcprof	Weapons Master	mistr zbrojíř
+npcprof	Weaver	tkadlec
+npcprof	Wererat Smuggler	Wererat Smuggler
+npcprof	Wind Master	mistr vzduchu
+reputation	Angelic	Andělská
+reputation	Average	Průměrná
+reputation	Bad	Špatná
+reputation	Despicable	Opovrženíhodná
+reputation	Glorious	Slavná
+reputation	Honorable	Ctnostná
+reputation	Monstrous	Obludná
+reputation	Neutral	Neutrální
+reputation	Notorious	Nechvalně proslulá
+reputation	Respectable	Vážená
+reputation	Saintly	Svatá
+reputation	Vile	Odporná
+skilldes	Air	Vzduch
+skilldes	Air Magic	Magie vzduchu
+skilldes	Alchemy	Alchymie
+skilldes	Armsmaster	Mistr zbraní
+skilldes	Axe	Sekyra
+skilldes	Blaster	Blaster
+skilldes	Body	Tělo
+skilldes	Body Building	Posilování
+skilldes	Body Magic	Magie těla
+skilldes	Bodybuilding	Posilování
+skilldes	Bow	Luk
+skilldes	Chain	Kroužková zbroj
+skilldes	Dagger	Dýka
+skilldes	Dark	Temnota
+skilldes	Dark Elf Ability	Temný elf
+skilldes	Dark Magic	Magie temnoty
+skilldes	Diplomacy	Diplomacie
+skilldes	Disarm Trap	Odstranění pastí
+skilldes	Disarm Traps	Odstraňování pastí
+skilldes	Dodging	Uhýbání
+skilldes	Dragon Ability	Drak
+skilldes	Earth	Země
+skilldes	Earth Magic	Magie země
+skilldes	Fire	Oheň
+skilldes	Fire Magic	Magie ohně
+skilldes	Identify	Identifikovat
+skilldes	Identify Item	Identifikace věcí
+skilldes	Identify Monster	Identifikace nestvůr
+skilldes	Learning	Vzdělávání
+skilldes	Leather	Kožená zbroj
+skilldes	Light	Světlo
+skilldes	Light Magic	Magie světla
+skilldes	Mace	Palcát
+skilldes	Meditation	Meditace
+skilldes	Merchant	Obchodování
+skilldes	Mind	Mysl
+skilldes	Mind Magic	Magie mysli
+skilldes	Perception	Vnímání
+skilldes	Plate	Plátová zbroj
+skilldes	Regeneration	Regenerace
+skilldes	Repair	Opravování
+skilldes	Repair Item	Opravování
+skilldes	Shield	Štít
+skilldes	Spear	Kopí
+skilldes	Spirit	Duše
+skilldes	Spirit Magic	Magie ducha
+skilldes	Staff	Hůl
+skilldes	Stealing	Kradení
+skilldes	Sword	Meč
+skilldes	Thievery	Kradení
+skilldes	Unarmed	Beze zbraně
+skilldes	Vampire Ability	Upír
+skilldes	Water	Voda
+skilldes	Water Magic	Magie vody
+spcitems	Antique	Starožitný
+spcitems	Assassins'	Zabijácký
+spcitems	Barbarians'	Barbarský
+spcitems	Demon Slayer	Démoní kat
+spcitems	Demon Slaying	Zhouba démonů
+spcitems	Dragon Slayer	Dračí zhouba
+spcitems	Dragon Slaying	Zhouba draků
+spcitems	Elemental Slaying	Zhouba elementalů
+spcitems	Elf Slaying	Zhouba elfů
+spcitems	Monks'	Mnišský
+spcitems	of Acid	kyseliny
+spcitems	of Air Magic	magie Vzduchu
+spcitems	of Alarms	poplachů
+spcitems	of Antidotes	protijedu
+spcitems	of Body Magic	magie Těla
+spcitems	of Carnage	masakru
+spcitems	of Cold	chladu
+spcitems	of Dark Magic	magie Temnoty
+spcitems	of Darkness	Temnoty
+spcitems	Of David	Davida
+spcitems	of Doom	zhouby
+spcitems	of Earth	Země
+spcitems	of Earth Magic	magie Země
+spcitems	of Feather Falling	pádu pírka
+spcitems	of Fire	ohně
+spcitems	of Fire Magic	magie Ohně
+spcitems	of Flame	plamene
+spcitems	of Force	násilí
+spcitems	of Freedom	svobody
+spcitems	of Frost	mrazu
+spcitems	of Ice	ledu
+spcitems	of Identifying	identifikace
+spcitems	of Immunity	imunity
+spcitems	of Infernos	pekla
+spcitems	of Life	Života
+spcitems	of Light Magic	magie Světla
+spcitems	of Lightning	blesku
+spcitems	of Mana	many
+spcitems	of Mind Magic	magie Mysli
+spcitems	of Plenty	hojnosti
+spcitems	of Poison	jedu
+spcitems	of Power	Moci
+spcitems	of Protection	ochrany
+spcitems	of Recovery	uzdravení
+spcitems	of Regeneration	regenerace
+spcitems	of Sanity	příčetnosti
+spcitems	of Shielding	krytí
+spcitems	of Sparks	jisker
+spcitems	of Spirit Magic	magie Ducha
+spcitems	of Swiftness	Hbitosti
+spcitems	of The Dragon	draka
+spcitems	of The Eclipse	zatmění
+spcitems	of The Gods	Bohů
+spcitems	of The Golem	golema
+spcitems	of The Medusa	medúzy
+spcitems	of The Moon	Měsíce
+spcitems	of the Ocean	oceánu
+spcitems	of The Phoenix	Fénixe
+spcitems	of The Sky	Nebe
+spcitems	of The Stars	Hvězd
+spcitems	of the Storm	bouřky
+spcitems	of The Sun	Slunce
+spcitems	of The Troll	trola
+spcitems	of The Unicorn	Jednorožce
+spcitems	of Thievery	zlodějství
+spcitems	of Thunderbolts	hromu
+spcitems	of Venom	otravy
+spcitems	of Water Magic	magie Vody
+spcitems	of Water Walking	vodní chůze
+spcitems	Ogre Slaying	Zhouba zlobrů
+spcitems	Rogues	Lotrů
+spcitems	Rogues'	Lupičský
+spcitems	Swift	Rychlý
+spcitems	Thieves'	Zlodějský
+spcitems	Undead Slaying	Zhouba nemrtvých
+spcitems	Vampiric	Upíří
+spcitems	Warriors	Válečníků
+spcitems	Warriors'	Válečnícký 
+spcitems	Wizards	Mágů
+spcitems	Wizards'	Čarodějský
+spellgroupshort	Air	Vzduch
+spellgroupshort	Body	Tělo
+spellgroupshort	Cold	Zamrzlý
+spellgroupshort	Dark	Temnota
+spellgroupshort	Earth	Země
+spellgroupshort	Electricity	Zelektrizovaný
+spellgroupshort	Fire	Oheň
+spellgroupshort	Light	Světlo
+spellgroupshort	Mind	Mysl
+spellgroupshort	Spirit	Ducha
+spellgroupshort	Water	Voda
+spells	Acid Burst	Kyselinová střela
+spells	Air Res	Odolnost proti vzduchu
+spells	Air Resist	Odol. vzduch
+spells	Air Resistance	Odolnost proti vzduchu
+spells	Armageddon	Armageddon
+spells	Awaken	Probuzení
+spells	Berserk	Berserk
+spells	Blades	Čepele
+spells	Bless	Požehnání
+spells	Blind	Slepota
+spells	Body Res	Odolnost proti tělu
+spells	Body Resist	Odol. tělu
+spells	Body Resistance	Odolnost proti tělu
+spells	Buffet	Úder křídlem
+spells	Charm	Šarm
+spells	Cntrl Undead	Ovl. nemrtvé
+spells	Cold Beam	Mrazivý proud
+spells	Control Undead	Ovládnutí nemrtvých
+spells	Create Food	Vytvoření jídla
+spells	Cure Disease	Uzdrav nemoc
+spells	Cure Insane	Odstr. šíl.
+spells	Cure Insanity	Odstraň šílenství
+spells	Cure Paralysis	Odstraň ochromení
+spells	Cure Plyze	Odst.chrom.
+spells	Cure Poison	Odstraň jed
+spells	Cure Weak	Odstr. slab.
+spells	Cure Weakness	Odstraň slabost
+spells	Cure Wound	Léč.zraň.
+spells	Cure Wounds	Léčba zranění
+spells	Dark Contain	Tem.taj.
+spells	Dark Containment	Temné tajemství
+spells	Dark Grasp	Temné sevření
+spells	Darkfire	Temná střela
+spells	Darkfire Bolt	Temná střela
+spells	Day -o- Gods	Den bohů
+spells	Day of Prot	Ochr.den
+spells	Day of Protection	Den ochrany
+spells	Day of the Gods	Den bohů
+spells	Deadly Swarm	Smrtící roj
+spells	Death Blossom	Květ smrti
+spells	Death Blsm	Květ smrti
+spells	Dest Undead	Znič.nemrtvé
+spells	Destroy Undead	Zničení nemrtvého
+spells	Detect Life	Zjisti život
+spells	Dispel Magic	Odstraň magii
+spells	Divine Inter	Boží zásah
+spells	Divine Intervention	Božský zásah
+spells	Drag Breath	Dračí dech
+spells	Dragon Breath	Dračí dech
+spells	Earth Res	Odolnost proti zemi
+spells	Earth Resist	Odol. zemi
+spells	Earth Resistance	Odolnost proti zemi
+spells	Enchant Item	Očaruj předmět
+spells	Enslave	Zotročení
+spells	Fate	Osud
+spells	Fear	Strach
+spells	Feather Fall	Pád pírka
+spells	Feeblemind	Oslabení mysli
+spells	Finger Death	Smrt
+spells	Finger of Death	Dotek Smrti
+spells	Fire Aura	Ohnivá aura
+spells	Fire Blast	Ohnivý proud
+spells	Fire Bolt	Ohnivá střela
+spells	Fire Res	Odolnost proti ohni
+spells	Fire Resistance	Odolnost proti ohni
+spells	Fire Spike	Ohnivý hrot
+spells	Fireball	Ohnivá koule
+spells	First Aid	První pomoc
+spells	Flame Arrow	Ohnivý šíp
+spells	Flame Blast	Plamenný dech
+spells	Flight	Let
+spells	Fly	Létání
+spells	Flying Fist	Splašená pěst
+spells	Glamour	Osobní kouzlo
+spells	Gldn Touch	Zlt.dtk.
+spells	Golden Touch	Zlatý dotek
+spells	Guard Angel	Anděl
+spells	Guardian Angel	Strážní anděl
+spells	Hammerhand	Kladiv.pěsti
+spells	Hammerhands	Kladivové pěsti
+spells	Harm	Zraň
+spells	Haste	Zrychlení
+spells	Heal	Léčení
+spells	Healing	Léč.dot.
+spells	Healing Touch	Léčivý dotek
+spells	Heroism	Hrdinství
+spells	Hour of Power	Hodina moci
+spells	Hour Power	Hod.moc.
+spells	Ice Blast	Ledová smršť
+spells	Ice Bolt	Ledová střela
+spells	Immolation	Obětování
+spells	Implosion	Imploze
+spells	Incinerate	Zpopelnění
+spells	Inferno	Inferno
+spells	Invisibility	Neviditelnost
+spells	Jump	Skok
+spells	Levitate	Levitace
+spells	Lifedrain	Vysání života
+spells	Light Bolt	Světelná střela
+spells	Lightning	Blesk
+spells	Lightning Bolt	Blesk
+spells	Lloyd's	Lloyd. maják
+spells	Lloyd's Beacon	Lloydův maják
+spells	Lucky Day	Šťastný den
+spells	Magic Arrow	Magický šíp
+spells	Mass Curse	Masové prokletí
+spells	Mass Distort	Zborcení
+spells	Mass Distortion	Zborcení
+spells	Mass Fear	Vlna strachu
+spells	Meditation	Meditace
+spells	Meteor Shower	Déšť meteoritů
+spells	Meteor Shwr	Déšť meteorů
+spells	Mind Blast	Mentální úder
+spells	Mind Res	Odolnost proti mysli
+spells	Mind Resist	Odol. mysli
+spells	Mind Resistance	Odolnost proti mysli
+spells	Mistform	Mlžná podoba
+spells	Moon Ray	Měsíční paprsek
+spells	Pain Reflect	Odr. bolesti
+spells	Pain Reflection	Odrážení bolesti
+spells	Paralyze	Ochromení
+spells	Poison Spr	Jed. sprej
+spells	Poison Spray	Jedovatý sprej
+spells	Power	Moc
+spells	Power Cure	Mocná léčba
+spells	Precision	Přesnost
+spells	Preservation	Ochrana
+spells	Pris Light	Duh. světlo
+spells	Prismatic Light	Duhové světlo
+spells	Prot Cold	Odolnost proti mrazu
+spells	Prot Elec	Odolnost proti jiskrám
+spells	Prot Fire	Odolnost proti ohni
+spells	Prot Magic	Odolnost proti magii
+spells	Prot Poison	Odolnost proti jedu
+spells	Protection from Cold	Ochrana před mrazem
+spells	Protection from Electricity	Odolnost vůči elektřině
+spells	Protection from Fire	Ochrana před ohněm
+spells	Protection from Magic	Ochrana před magii
+spells	Protection from Poison	Ochrana před jedem
+spells	Psy - Shock	Psych. šok
+spells	Psychic Shock	Psychický šok
+spells	Raise Dead	Oživ mrtvého
+spells	Reanimate	Zmrtvýchvstání
+spells	Recharge	Nabij předm.
+spells	Recharge Item	Nabij předmět
+spells	Regeneration	Regenerace
+spells	Remove Curse	Odstranění prokletí
+spells	Remove Fear	Sejmi strach
+spells	Resurrection	Vzkříšení
+spells	Ring of Fire	Kruh ohně
+spells	Rmv. Curse	Odstr.prokl.
+spells	Rock Blast	Kamenný výbuch
+spells	Sacrifice	Obětování
+spells	Shared Life	Sdílený život
+spells	Shield	Štít
+spells	Shrapmetal	Střepina
+spells	Shrink Ray	Smrš.paprsek
+spells	Shrinking Ray	Smršťovací paprsek
+spells	Slow	Zpomalení
+spells	Souldrinker	Vysát duši
+spells	Sparks	Jiskry
+spells	Speed	Rychlost
+spells	Spirit Arrow	Duchovní šíp
+spells	Spirit Lash	Bičování duší
+spells	Starburst	Pád hvězd
+spells	Static Charge	Statický náboj
+spells	Static Chrg	Elect. výb. 
+spells	Stone - Flesh	Odkamenění
+spells	Stone Skin	Kamenná kůže
+spells	Stone to Flesh	Odkamenění
+spells	Stoneskin	Kamenná kůže
+spells	Stun	Omráčení
+spells	Summon	Bludička
+spells	Summon Elemental	Přivolej elementála
+spells	Summon Wisp	Přivolat bludičku
+spells	Sun Ray	Sluneční paprsek
+spells	Sunray	Sluneční paprsek
+spells	Swarm	Smrtící roj
+spells	Telekinesis	Telekineze
+spells	Telepathy	Telepatie
+spells	Torch Light	Pochodeň
+spells	Town Portal	Městská brána
+spells	Toxic Cloud	Toxický mrak
+spells	Travel Boon	Cest. přízeň
+spells	Travelers' Boon	Cestovatelova přízeň
+spells	Turn - Stone	Zkameň.
+spells	Turn to Stone	Zkamenění
+spells	Turn Undead	Zažeň nemrtvé
+spells	Vamp Weap	Upíří zbraň
+spells	Vampiric Weapon	Upíří zbraň
+spells	Water Res	Odolnost proti vodě
+spells	Water Resist	Odol. vodě
+spells	Water Resistance	Odolnost proti vodě
+spells	Water Walk	Chůze po vodě
+spells	Wing Buffet	Úder křídlem
+spells	Wizard Eye	Čarodějovo oko
+spells vampire	Charm	Okouzlení
+stats	AC	TZ
+stats	Accuracy	Přesnost
+stats	Age	Věk
+stats	Air	Vzduch
+stats	Armor Class	Třída zbroje
+stats	Attack	Útok
+stats	Attack Bonus	Útočný bonus
+stats	Attack Damage	Zranění z útoku
+stats	Body	Tělo
+stats	Class	Povolání
+stats	Cold	Zamrzlý
+stats	Cond	Stav
+stats	Condition	Stav
+stats	Dmg	Zásah
+stats	Earth	Země
+stats	Electricity	Zelektrizovaný
+stats	Endurance	Odolnost
+stats	Exp.	Zkuš.
+stats	Experience	Zkušenosti
+stats	Fame	Pověst
+stats	Fire	Oheň
+stats	Hit Points	Zdraví
+stats	HP	Zdraví
+stats	Intellect	Inteligence
+stats	Level	Úroveň
+stats	Luck	Štěstí
+stats	Magic	Magie
+stats	Might	Síla
+stats	Mind	Mysl
+stats	Name	Jméno
+stats	Personality	Osobnost
+stats	Points	Body
+stats	Poison	Jed
+stats	QSpell	RychKouzlo
+stats	Quick Spell	Rych.kouz.
+stats	Reputation	Reputace
+stats	Shoot Bonus	Střelecký bonus
+stats	Shoot Damage	Zranění střelbou
+stats	Skill Points	Doved. body
+stats	Skills	Dovednosti
+stats	SP	Mana
+stats	Speed	Rychlost
+stats	Spell Points	Mana
+stats	Water	Voda
+stditems	of Air Resistance	vzdušné odolnosti
+stditems	of Alchemy	alchymie
+stditems	of Arms	mistrovství
+stditems	of Body Resistance	tělesné odolnosti
+stditems	of Charm	šarmu
+stditems	of Cold Resistance	chladové odolnosti
+stditems	of Defense	obrany
+stditems	of Disarming	zneškodnění
+stditems	of Dodging	uhýbání
+stditems	of Earth Resistance	zemské odolnosti
+stditems	of Elec Resistance	elektr. odolnosti
+stditems	of Fire Resistance	ohnivé odolnosti
+stditems	of great Might	
+stditems	of Health	zdraví
+stditems	of Items	ident. věcí
+stditems	of Luck	štěstí
+stditems	of Magic	magie
+stditems	of Might	síly
+stditems	of Mind Resistance	myšlenkové odolnosti
+stditems	of Monsters	ident. nestvůr
+stditems	of Poison Resistance	jedové odolnosti
+stditems	of Precision	přesnosti
+stditems	of Speed	rychlosti
+stditems	of Stealing	kradení
+stditems	of the Fist	pěsti
+stditems	of Thought	myšlení
+stditems	of Vigor	vitality
+stditems	of Water Resistance	vodní odolnosti

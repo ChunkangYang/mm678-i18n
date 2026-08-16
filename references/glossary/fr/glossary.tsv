@@ -1,0 +1,2436 @@
+# GENERATED - do not edit translations here. Regenerate with:
+#   python tools/build_glossary.py
+# Term selection lives in references/glossary/glossary-terms.tsv;
+# the translations are looked up in translations/fr/.../mm678.po.
+# Columns: msgctxt <TAB> English <TAB> fr
+autonote or awards	Accuracy Boost (White) = Orange + Yellow and Orange Layered	Stimulateur de précision (blanche) = orange + stratifiée jaune et orange
+autonote or awards	Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered	Protection contre l’Air (blanche) = stratifiée rouge et orange + stratifiée bleu et mauve
+autonote or awards	Awaken (Green) = Yellow + Blue	Réveil (verte) = jaune + bleue
+autonote or awards	Bless (Red and Green Layered) = Red + Green	Bénédiction (stratifiée rouge et vert) = rouge + verte
+autonote or awards	Bless (White) = Purple + Blue	Bénédiction (Blanche) = Violette + Bleue
+autonote or awards	Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered	Protection contre le Corps (blanche) = stratifiée bleu et vert + stratifiée jaune et orange
+autonote or awards	Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	Catalyseur (grise) = Champignons + Fiole vide. Pour un effet plus puissant, utiliser différents réactifs gris.
+autonote or awards	Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	Catalyseur (Gris) = Champignons + Flacon vide. Les ingrédients gris n'ont pas tous la même puissance.
+autonote or awards	Cure Disease (Orange) = Yellow + Red	Soigner maladie (orange) = jaune + rouge
+autonote or awards	Cure Insanity (Orange and Green Layered) = Orange + Green	Soigner folie (stratifiée orange et vert) = orange + verte
+autonote or awards	Cure Paralysis (White) = Green + Yellow and Orange Layered	Soigner paralysie (blanche) = verte + stratifiée jaune et orange
+autonote or awards	Cure Paralysis (White) = Orange + Yellow and Green Layered	Soigner paralysie (blanche) = orange + stratifiée jaune et vert
+autonote or awards	Cure Poison (Purple) = Blue + Red	Soigner poison (mauve) = bleue + rouge
+autonote or awards	Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.	Soigner faiblesse (jaune) = Capsules de pavot + Fiole vide. Pour un effet plus puissant, utiliser différents réactifs jaunes.
+autonote or awards	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle	Soigner Blessures (Rouge) = Baies de Larmes de Veuves + Flacon Vide.
+autonote or awards	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.	Soigner blessures (rouge) = Baies de veuve + Fiole vide. Pour un effet plus puissant, utiliser différents réactifs rouges.
+autonote or awards	Divine Boost = Divine Power + Any attribute boost potion.	
+autonote or awards	Divine Cure (Black) = Restoration + Orange	Guérison Divine (Noire) = Restauration + Orange
+autonote or awards	Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered	Soin divin (blanche) = stratifiée rouge et orange + stratifiée jaune et orange
+autonote or awards	Divine Magic (Black) = Super Resistance + Green	Magie Divine (Noire) = Super Résistance + Verte
+autonote or awards	Divine Power (Black) = Extreme Energy + Purple	Puissance Divine (Noire) = Energie Extrême + Violette
+autonote or awards	Divine Power (White) = Blue and Green Layered + Yellow and Green Layered	Puissance divine (blanche) = stratifiée bleu et vert + stratifiée jaune et vert
+autonote or awards	Divine Protection = Divine Cure + Any resistance potion.	
+autonote or awards	Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered	Rétablissement divin (blanche) = stratifiée bleu et mauve + stratifiée jaune et orange
+autonote or awards	Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered	Rétablissement divin (blanche) = stratifiée rouge et orange + stratifiée bleu et vert
+autonote or awards	Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered	Rétablissement divin (blanche) = stratifiée rouge et mauve + stratifiée jaune et vert
+autonote or awards	Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)	
+autonote or awards	Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered	Protection contre la Terre (blanche) = stratifiée rouge et mauve + stratifiée jaune et orange
+autonote or awards	Endurance Boost (White) = Purple + Blue and Purple Layered	Stimulateur d’endurance (blanche) = mauve + stratifiée bleu et mauve
+autonote or awards	Energy (Yellow) = Poppysnaps + Empty Bottle	Energie (Jaune) = Pavot + Flacon Vide.
+autonote or awards	Essence of Accuracy (Black) = Bless + Yellow	Essence de Dextérité (Noire) = Bénédiction + Jaune
+autonote or awards	Essence of Accuracy = Cure Insanity + Stoneskin	
+autonote or awards	Essence of Endurance (Black) = Supreme Protection + Yellow	Essence d'Endurance (Noire) = Protection Suprême + Jaune
+autonote or awards	Essence of Endurance = Remove Curse + Recharge Item	
+autonote or awards	Essence of Intellect (Black) = Stone Skin + Blue	Essence d'Intelligence (Noire) = Peau d'Acier + Bleue
+autonote or awards	Essence of Intellect = Remove Curse + Shield	
+autonote or awards	Essence of Luck (Black) = Super Resistance + Purple	Essence de Chance (Noire) = Super Résistance + Violette
+autonote or awards	Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin	
+autonote or awards	Essence of Might (Black) = Heroism + Red	Essence de Force (Noire) = Héroïsme + Rouge
+autonote or awards	Essence of Might = Remove Fear + Heroism	
+autonote or awards	Essence of Personality (Black) = Restoration + Blue	Essence de Personnalité (Noire) = Restauration + Bleue
+autonote or awards	Essence of Personality = Remove Fear + Haste	
+autonote or awards	Essence of Speed (Black) = Haste + Red	Essence de Vitesse (Noire) = Hâte + Rouge
+autonote or awards	Essence of Speed = Cure Insanity + Harden Item	
+autonote or awards	Extreme Energy (White) = Orange + Yellow	Energie Extrême (Blanche) = Orange + Jaune
+autonote or awards	Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered	Protection contre le Feu (blanche) = stratifiée rouge et orange + stratifiée jaune et vert
+autonote or awards	Flaming Potion (White) = Green + Red and Orange Layered	Potion Flammes (blanche) = verte + stratifiée rouge et orange
+autonote or awards	Flaming Potion (White) = Purple + Yellow and Orange Layered	Potion Flammes (blanche) = mauve + stratifiée jaune et orange
+autonote or awards	Freezing Potion (White) = Green + Red and Purple Layered	Potion Gel (blanche) = verte + stratifiée rouge et mauve
+autonote or awards	Freezing Potion (White) = Orange + Blue and Purple Layered	Potion Gel (blanche) = orange + stratifiée bleu et mauve
+autonote or awards	Harden Item (Yellow and Green Layered) = Yellow + Green	Durcir objet (stratifiée jaune et vert) = jaune + verte
+autonote or awards	Haste (Red and Orange Layered) = Red + Orange	Hâte (stratifiée rouge et orange) = rouge + orange
+autonote or awards	Haste (White) = Green + Yellow	Hâte (Blanche) = Verte + Jaune
+autonote or awards	Heroism (Red and Purple Layered) = Red + Purple	Héroïsme (stratifiée rouge et mauve) = rouge + mauve
+autonote or awards	Heroism (White) = Orange + Red	Héroïsme (Blanche) = Orange + Rouge
+autonote or awards	Intellect Boost (White) = Green + Yellow and Green Layered	Stimulateur d’intelligence (blanche) = verte + stratifiée jaune et vert
+autonote or awards	Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered	Stimulateur de chance (blanche) = stratifiée rouge et mauve + stratifiée bleu et mauve
+autonote or awards	Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered	Chance Accrue (Blanche) = Rouge et Violette + Bleue et Violette
+autonote or awards	Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.	Potion magique (bleue) = Racine de phima + Fiole vide. Pour un effet plus puissant, utiliser différents réactifs bleus.
+autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle	Potion de Magie (Bleue) = Racine de Phirna + Flacon Vide.
+autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.	Mana (Bleue) = Racine de Phirna + Flacon vide. Les ingrédients bleus n'ont pas tous la même puissance.
+autonote or awards	Might Boost (White) = Purple + Red and Purple Layered	Stimulateur de force (blanche) = mauve + stratifiée rouge et mauve
+autonote or awards	Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered	Protection contre l’Esprit (blanche) = stratifiée rouge et mauve + stratifiée bleu et vert
+autonote or awards	Noxious Potion (White) = Orange + Blue and Green Layered	Potion nocive (blanche) = orange + stratifiée bleu et vert
+autonote or awards	Noxious Potion (White) = Purple + Yellow and Green Layered	Potion nocive (blanche) = mauve + stratifiée jaune et vert
+autonote or awards	Personality Boost (White) = Green + Blue and Green Layered	Stimulateur de personnalité (blanche) = verte + stratifiée bleu et vert
+autonote or awards	Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity	
+autonote or awards	Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.	
+autonote or awards	Preservation (Blue and Orange Layered) = Blue + Orange	Préservation (stratifiée bleu et orange) = bleue + orange
+autonote or awards	Protection (Orange) = Yellow + Red	Protection (Orange) = Jaune + Rouge
+autonote or awards	Protection from Magic = Cure Insanity + Bless	
+autonote or awards	Protection from Magic = Remove Curse + Water Breathing	
+autonote or awards	Protection from Magic = Remove Fear + Preservation	
+autonote or awards	Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)	Précision pure (noire) = Potion verte + Stimulateur de précision (blanche)
+autonote or awards	Pure Air Resistance = Essence of Luck + Air Resistance	
+autonote or awards	Pure Body Resistance = Essence of Luck + Body Resistance	
+autonote or awards	Pure Earth Resistance = Essence of Luck + Earth Resistance	
+autonote or awards	Pure Endurance (Black) = Green Potion + Endurance Boost (White)	Endurance pure (noire) = Potion verte + Stimulateur d’endurance (blanche)
+autonote or awards	Pure Fire Resistance = Essence of Luck + Fire Resistance	
+autonote or awards	Pure Intellect (Black) = Orange Potion + Intellect Boost (White)	Intelligence pure (noire) = Potion orange + Stimulateur d’intelligence (blanche)
+autonote or awards	Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)	Chance pure (noire) = stratifiée jaune et orange + Potion Rapidité (blanche)
+autonote or awards	Pure Might (Black) = Orange Potion + Might Boost (White)	Force pure (noire) = Potion orange + Stimulateur de force (blanche)
+autonote or awards	Pure Mind Resistance = Essence of Luck + Mind Resistance	
+autonote or awards	Pure Personality (Black) = Purple Potion + Personality Boost (White)	Personnalité pure (noire) = Potion mauve + Stimulateur de personnalité (blanche)
+autonote or awards	Pure Speed (Black) = Purple Potion + Speed Boost (White)	Vitesse pure (noire) = Potion mauve + Stimulateur de vitesse (blanche)
+autonote or awards	Pure Water Resistance = Essence of Luck + Water Resistance	
+autonote or awards	Recharge Item (Blue and Green Layered) = Blue + Green	Recharger objet (stratifiée bleu et vert) = bleue + verte
+autonote or awards	Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)	Rajeunissement (noire) = stratifiée bleu et orange + Rétablissement divin (blanche)
+autonote or awards	Rejuvenation (Black) = Extreme Energy + Green	Réjuvénation (Noire) = Energie Extrême + Verte
+autonote or awards	Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)	Rajeunissement (noire) = stratifiée rouge et vert + Rétablissement divin (blanche)
+autonote or awards	Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)	Rajeunissement (noire) = stratifiée jaune et mauve + Rétablissement divin (blanche)
+autonote or awards	Remove Curse (Purple and Green Layered) = Purple + Green	Exorcisme (stratifiée mauve et vert) = mauve + verte
+autonote or awards	Remove Fear (Orange and Purple Layered) = Orange + Purple	Annuler peur (stratifiée orange et mauve) = orange + mauve
+autonote or awards	Resistance (Green) = Yellow + Blue	Résistance (Verte) = Jaune + Bleue
+autonote or awards	Restoration(White) = Purple + Green	Restauration (Blanche) = Violette + Verte
+autonote or awards	Shield (Blue and Purple Layered) = Blue + Purple	Bouclier (stratifiée bleu et mauve) = bleue + mauve
+autonote or awards	Shocking Potion (White) = Orange + Red and Purple Layered	Potion Choc (blanche) = orange + stratifiée rouge et mauve
+autonote or awards	Shocking Potion (White) = Purple + Red and Orange Layered	Potion Choc (blanche) = mauve + stratifiée rouge et orange
+autonote or awards	Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)	Potion Massacre (noire) = stratifiée bleu et mauve + Potion Flammes (blanche)
+autonote or awards	Speed Boost (White) = Orange + Red and Orange Layered	Stimulateur de vitesse (blanche) = orange + stratifiée rouge et orange
+autonote or awards	Stone Skin (White) = Orange + Blue	Peau d'Acier (Blanche) = Orange + Bleue
+autonote or awards	Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)	Pierre en chair (noire) = stratifiée rouge et mauve + Soigner paralysie (blanche)
+autonote or awards	Stoneskin (Yellow and Orange Layered) = Yellow + Orange	Peau de pierre (stratifiée jaune et orange) = jaune + orange
+autonote or awards	Super Resistance (White) = Green + Blue	Super Résistance (Blanche) = Verte + Bleue
+autonote or awards	Supreme Protection (White) = Orange + Green	Protection Suprême (Blanche) = Orange + Verte
+autonote or awards	Swift Potion (White) = Green + Blue and Purple Layered	Potion Rapidité (blanche) = verte + stratifiée bleu et mauve
+autonote or awards	Swift Potion (White) = Purple + Blue and Green Layered	Potion Rapidité (blanche) = mauve + stratifiée bleu et vert
+autonote or awards	Water Breathing (Yellow and Purple Layered) = Yellow + Purple	Respiration sous-marine (stratifiée jaune et mauve) = jaune + mauve
+autonote or awards	Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered	Protection contre l’Eau (blanche) = stratifiée bleu et mauve + stratifiée jaune et vert
+class	Arch Druid	Archidruide
+class	Arch Mage	Archimage
+class	Archer	Archer
+class	Assassin	Assassin
+class	Battle Mage	Battle Mage
+class	Black Knight	Chevalier noir
+class	Bounty Hunter	Chasseur de primes
+class	Cavalier	Cavalier
+class	Champion	Champion
+class	Cleric	Clerc
+class	Crusader	Croisé
+class	Dark Elf	Elfe de l’Ombre
+class	Dark Elf Patriarch	Elfe de l’Ombre patriarche
+class	Dragon	Dragon
+class	Druid	Druide
+class	Great Druid	Grand Druide
+class	Great Wyrm	Grand dragon
+class	Hero	Héros
+class	High Priest	High Priest
+class	Hunter	Chasseur
+class	Initiate	Initié
+class	Knight	Chevalier
+class	Lich	Liche
+class	Master	Adepte
+class	Master Archer	Maître archer
+class	Master Necromancer	Maître nécromancien
+class	Master Wizard	
+class	Minotaur	Minotaure
+class	Minotaur Lord	Seigneur minotaure
+class	Monk	Moine
+class	Necromancer	Nécromancien
+class	Ninja	Ninja
+class	Nosferatu	Nosferatu
+class	Paladin	Paladin
+class	Patriarch	Patriarche
+class	Peasant	Paysanne
+class	Priest	Prêtre
+class	Priest of Light	Prêtre de la Lumière
+class	Priest of the Dark	Prêtre de l'Ombre
+class	Priest of the Light	Prêtre de la Lumière
+class	Priest of the Sun	Prêtre du Soleil
+class	Ranger	Rôdeur
+class	Ranger Lord	Pisteur
+class	Rogue	Paria
+class	Sniper	Tireur embusqué
+class	Sorcerer	Envoûteur
+class	Spy	Espion
+class	Thief	Voleur
+class	Troll	Troll
+class	Vampire	Vampire
+class	Villain	Méchant
+class	War Troll	Troll guerrier
+class	Warlock	Sorcier
+class	Warrior Mage	Mage guerrier
+class	Wizard	Sorcier
+condition	Afraid	Effrayé
+condition	Asleep	Endormi
+condition	Cursed	Maudit
+condition	Dead	Mort
+condition	Diseased	Malade
+condition	Drunk	Ivre
+condition	Eradicated	Eradiqué
+condition	Good	Moyen
+condition	Insane	Fou
+condition	Paralyzed	Paralysé
+condition	Poison	Poison
+condition	Stoned	Pétrifié
+condition	Unconscious	Inconscient
+condition	Weak	Très faible
+condition	Zombie	Zombie
+items	Abbey Normal Golem Head	Tête de Golem d'Abbaye Normale
+items	Accuracy Boost	Stimulateur de précision
+items	Accuracy Boost Recipe	Recette Stimulateur de précision
+items	Accurate Crossbow	Arbalète de Précision
+items	Aegis	Aegis
+items	Air Resistance	Protection contre l’Air
+items	Air Resistance Recipe	Recette Protection contre l’Air
+items	Alacorn Wand of Acid	Baguette Alacorn d'Acide
+items	Alacorn Wand of Blades	Baguette Alacorn de Lame
+items	Alacorn Wand of Charms	Baguette Alacorn de Charme
+items	Alacorn Wand of Fireballs	Baguette Alacorn de Boule de Feu
+items	Alacorn Wand of Ice	Baguette Alacorn de Glace
+items	Alacorn Wand of Lightning	Baguette Alacorn d'Eclair
+items	Alacorn Wand of Swarms	Baguette Alacorn de Nuées
+items	Alloyed Shield	Bouclier d'Alliage
+items	Almighty Crown	Couronne de Puissance
+items	Altar Piece	Morceau d'Autel
+items	Alvar Cloak	Cape d’Alvar
+items	Alvarian Boots	Bottes d’Alvar
+items	Alvarian Leather	Cuir d’Alvar
+items	Alvarian Poignard	Poignard d’Alvar
+items	Amber	Ambre
+items	Amethyst	Améthyste
+items	Amethyst Ring	Anneau d’améthyste
+items	Amuck	Amuck
+items	Amythest	Améthyste
+items	Ancient Amulet	Amulette Antique
+items	Angel Statue Painting	Peinture de Statue d'Ange
+items	Angel Statuette	Statuette d'Ange
+items	Angel's Ring	Anneau Angélique
+items	Angelic Helm	Casque Angélique
+items	Ania Selving	Ania Selving
+items	Ankh	Croix
+items	Anointed Herb Potion	Potion herbale consacrée
+items	Aphrodite	Aphrodite
+items	Apollo	Apollon
+items	Apple	Pomme
+items	Arcane Key	Clé ésotérique
+items	Arcane Wand of Blasting	Baguette d'Arcane d'Explosion
+items	Arcane Wand of Clouds	Baguette ésotérique des nuages
+items	Arcane Wand of Lightning	Baguette des Arcanes de Foudre
+items	Arcane Wand of Paralyzing	Baguette d'Arcane de Paralysie
+items	Arcane Wand of Rocks	Baguette d'Arcane de Pierre
+items	Arcane Wand of the Fist	Baguette d'Arcane de Poing
+items	Archangel Broadsword	Glaive d’archange
+items	Archangel Wings	Ailes d’archange
+items	Archibald Ironfist Painting	Portrait d'Archibald Ironfist
+items	Arcomage Deck	Jeu d'ArcoMage
+items	Ares	Arès
+items	Armored Boots	Bottes Blindées
+items	Artemis	Artémis
+items	Arthur	Arthur
+items	Artificer's Belt	Ceinture d’artificier
+items	Assassin's Dagger	Dague d'Assassin
+items	Astral Shield	Bouclier Astral
+items	Athena	Athena
+items	Atlas	Atlas
+items	Awaken	Réveil
+items	Axe of Balthazar	Hache de Balthazar
+items	Back Door Key	Clef de la Porte Noire
+items	Ball of Dunduck	Boule de dunduck
+items	Banded Plate	Armure articulée à bandes
+items	Barbed Club	
+items	Barbed Trident	Trident à Barbelures
+items	Barrow Key	Clé de Tumulus
+items	Basic Cryptography	Cryptographie Primitive
+items	Bathhouse Key	Clef des Thermes
+items	Battle Axe	Hache de Combat 
+items	Battle Hatchet	Hachette de combat
+items	Battle Helm	Heaume de combat
+items	Battleaxe	Hache de combat
+items	Beaked Halberd	Hallebarde à crochet
+items	Bear Statuette	Statuette d'Ours
+items	Berserk	Folie furieuse
+items	Berserker Belt	Ceinture de fou furieux
+items	Bibliotheca Chest Key	Clef du Coffre de la Bibliothèque
+items	Big Brass Ring	Grand anneau de cuivre
+items	Big Tapestry	Grande Tapisserie
+items	Bill of Sale	Acte de Vente
+items	Blackmail Letter	Lettre de chantage
+items	Blade of Mercy	Lame de la pitié
+items	Blaster	Blaster
+items	Blaster Rifle	Fusil Blaster 
+items	Bless	Bénédiction
+items	Blessed Ring	Anneau Béni
+items	Blood Dagger	Dague de Sang
+items	Blood Drop Crossbow	Arbalète de Goutte de sang
+items	Blood Talisman	Talisman de sang
+items	Blue Quartz	Quartz Bleu
+items	Body Resistance	Protection contre le Corps
+items	Body Resistance Recipe	Recette Protection contre le Corps
+items	Bone	Os
+items	Bone of Doom	Os du destin
+items	Bone Staff	Bâton en os
+items	Brass Charm	Charme de cuivre
+items	Brass Ring	Anneau de Cuivre
+items	Breaker	Casseur
+items	Broadsword	Glaive
+items	Bronze Amulet	Amulette de Bronze
+items	Bronze Ring	Anneau de bronze
+items	Bronze Shield	Bouclier de Bronze
+items	Calvary Shield	Bouclier de cavalerie
+items	Candelabra	Candélabre
+items	Cannon Design Notes	Notes sur le plan d’un canon
+items	Cannonball of Dominion	Boulet de canon de dominion
+items	Captain's Code	Vertus de Varn
+items	Captain's Cutlass	Coutelas de capitaine
+items	Caravaner's Crossbow	Arbalète de caravanier
+items	Caravaner's Leather	Cuir de caravanier
+items	Caravaner's Small Shield	Petit bouclier de caravanier
+items	Cardinal Cloak	Cape de Cardinal
+items	Case of Soul Jars	Caisse de Jarres de Liche
+items	Castle Shield	Bouclier d'Elite
+items	Catalyst	Catalyseur
+items	Catherine's Key	Clé de Catherine
+items	Cavalier Gauntlets	Gantelets de Cavalier
+items	Celestial Shield	Bouclier Céleste
+items	Cell Key	Clef de Cellule
+items	Central Pillar Key	Clé du Pilier Central
+items	Certificate of Authentication	Certificat d’authenticité
+items	Chain Mail	Cotte de Mailles
+items	Champion Sword	Epée de Champion 
+items	Champion's Sword	Epée de champion
+items	Charele	Charele
+items	Charged connector stone	
+items	Chest Key	Clef de Coffre
+items	Chime of Harmony	Carillon d'Harmonie
+items	Cipher	Message Chiffré
+items	Citrine	Citrine
+items	Clanker's Amulet	Amulette de Clanker
+items	Claw Amulet	Amulette Griffe
+items	Cloak of Baa	Cape de Baa
+items	Cloak of the Sheep	Cape de la Brebis
+items	Cloth Hat	Chapeau en toile
+items	Club	Massue
+items	Cobra Egg	Œuf de Cobra
+items	Colony Zod Key	Clé de la Colonie Zod
+items	Common Halberd	
+items	Communication Officer's Code	Vertus de Varn
+items	Composite Bow	Arc d'Alliage
+items	Conan	Conan
+items	Conflux Key	Clé de la confluence
+items	Connector stone	
+items	Conscript's Helm	Casque de Conscrit
+items	Contestant's Shield	Bouclier de Combattant
+items	Control Cube	Cube de Contrôle
+items	Control Undead	Contrôler morts-vivants
+items	Corsair	Corsaire
+items	Crate of Arrowheads	Caisse de Têtes de Flèches
+items	Crate of Enrothian Wine	Caisse de Vin Enrothien
+items	Crate of Glass Bottles	Caisse de Bouteilles de Verre
+items	Crate of Griffin Feathers	Caisse de Plumes de Griffon
+items	Crate of Sand	Caisse de Sable
+items	Crate of Tularean Wood	Caisse de Bois de Tulare
+items	Cronos	Cronos
+items	Crossbow	Arbalète
+items	Crown	Couronne
+items	Crown of Final Dominion	Couronne du dominion final 
+items	Crude Axe	Hache Grossière 
+items	Crude Bow	Arc Grossier
+items	Crude Crossbow	
+items	Crude Dagger	Dague rudimentaire
+items	Crude Leather Armor	
+items	Crude Longbow	
+items	Crude Longsword	Epée Longue Grossière
+items	Crude Mace	
+items	Crude Spear	Lance Grossière 
+items	Crude Trident	
+items	Cruel Spear	Lance Cruelle
+items	Crusader Sword	Epée de Croisé
+items	Crusader's Gauntlets	Gantelets de croisé
+items	Crushed Rose Petals	Pétales de Rose Ecrasés
+items	Crystal Dagger	Dague de cristal
+items	Crystal of Terrax	Cristal de Terrax
+items	Crystal Skull	Crâne de Cristal
+items	Cure Disease	Soigner maladie
+items	Cure Insanity	Soigner folie
+items	Cure Paralysis	Soigner paralysie
+items	Cure Paralysis Recipe	Recette Soigner paralysie
+items	Cure Poison	Soigner poison
+items	Cure Weakness	Soigner faiblesse
+items	Cure Wounds	Soigner blessures
+items	Cutlass	Coutelas
+items	Cycle of life	
+items	Dadeross' Letter to Fellmoon	Lettre de Dadeross à Fellmoon
+items	Dagger	Dague
+items	Dagger Wound Oddities	Curiosités de la Plaie de la Dague
+items	Dark Containment	Emprisonnement Sombre
+items	Dark Elven Bastard Sword	Epée de bâtard des elfes de l’Ombre
+items	Dark Elven Longsword	Epée des elfes de l’Ombre
+items	Dark Grasp	Prise de l'obscurité
+items	Dark Hammer	Marteau Obscure
+items	Dark Knight Plate	Armure de chevalier de l’Ombre
+items	Datura	Datura
+items	Dazzling Ring	Anneau Etincelant
+items	Death Head Shield	Bouclier tête de mort
+items	Death Mace	Masse Mortelle
+items	Death's Head Pendant	Pendentif à Tête de Mort
+items	Deck of Fate	Tarot du Destin
+items	Defender Helm	Casque de Défenseur
+items	Detect Life	Détection de la vie
+items	Devil Plans	Plans des Démons
+items	Devilbone Bow	Arc en os du diable
+items	Diamond	Diamant
+items	Diary Page	Page de Journal
+items	Dimension door	
+items	Dire Wolf Pelt	Peau de loup menaçant
+items	Discharge Papers	Papiers de Décharge
+items	Disheveled Chain Mail	
+items	Divine Boost	
+items	Divine Boost recipe	
+items	Divine Cure	Soin divin
+items	Divine Cure Recipe	Recette Soin divin
+items	Divine Dagger	Dague Divine
+items	Divine Magic	Magie Divine
+items	Divine Power	Puissance divine
+items	Divine Power Recipe	Recette Puissance divine
+items	Divine Protection	
+items	Divine Protection recipe	
+items	Divine Restoration	Rétablissement divin
+items	Divine Restoration Recipe	Recette Rétablissement divin
+items	Divine Transcendence	
+items	Divine Transcendence recipe	
+items	Doctor's Code	Vertus de Varn
+items	Doom's Day Cloak	Cape Stellaire
+items	Dragon Claw	Griffe de Dragon
+items	Dragon Egg	Œuf de Dragon
+items	Dragon Harpoon	Harpon à dragons
+items	Dragon Helm	Heaume de dragon
+items	Dragon Hide Gauntlets	Gantelets en Ecailles de Dragon
+items	Dragon Hunter's Shield	Bouclier de chasseur de dragons
+items	Dragon Leader's Egg	Œuf du chef des dragons
+items	Dragon Leather	Arm. de Cuir Dragon
+items	Dragon Statuette	Statuette de Dragon
+items	Dragon Tower Keys	Clefs Tours Antidragon
+items	Dragon Turtle Fang	Croc de tortue-dragon
+items	Dragon's Eye	Œil de Dragon
+items	Dragonbane Flower	Fleur de dragonactée
+items	Dragoning Plate	Armure à dragons
+items	Dragonning Blade	Epée à dragons
+items	Dragonning Boots	Bottes de chasse aux dragons
+items	Dried Sunfish	Poissons-lunes séchés
+items	Drogg's Helm	Heaume de Drogg
+items	Druid Circlet of Power	Couronne de pouvoir des druides
+items	Drum of Victory	Tambour de la victoire
+items	Dueling Long Dagger	Dague longue de duel
+items	Duelist Blade	Fleuret de Duel
+items	Dwarven Axe	Hache Naine
+items	Dwarven Battleaxe	Hache de combat de nain
+items	Dwarven Dagger	Dague Naine
+items	Dwarven Hammer	Marteau Nain
+items	Dwarven Morningstar	Morgenstern Naine
+items	Eagle Statuette	Statuette d'Aigle
+items	Earth Resistance	Protection contre la Terre
+items	Earth Resistance Recipe	Recette Protection contre la Terre
+items	East Pillar Key	Clé du Pilier Est
+items	Ebonest	Ebonest
+items	Eclipse	Eclipse
+items	Elderaxe	Hache de l’Aîné
+items	Eldritch Shield	Bouclier d’Eldritch
+items	Elegant Cloak	Cape Elégante
+items	Elegant Letter	Lettre Elégante
+items	Elfbane	Griffe de l'Elfe
+items	Elite Halberd	Hallebarde de Titan
+items	Elite Minotaur Axe	Hache de minotaure d’élite
+items	Elixir	Elixir
+items	Elsenrail	Elsenrail
+items	Elven Bow	Arc Elfe
+items	Elven Chainmail	Cotte de Mailles Elfique
+items	Elven Cloak	Cape Elfe
+items	Elven Long Spear	Lance longue d’elfe
+items	Elven Longbow	Arc Long Elfique
+items	Elven Saber	Sabre Elfique 
+items	Elven Spear	Lance Elfique
+items	Elven Warbow	Arc de guerre elfique
+items	Elvish Toadstool	Champignons Vénéneux Elfique
+items	Emerald	Emeraude
+items	Emerald Ring	Anneau d'Emeraude
+items	Emerald Staff	Bâton d'Emeraude
+items	Emperor Thorn's Key	Clé de l’empereur Thorn
+items	Empty Message Scroll	Parchemin Vierge
+items	Enchanted Amulet	Amulette enchantée
+items	Enchanted Leather	Arm. de Cuir Enchantée
+items	Enchanted Ring	Anneau Enchanté
+items	Endurance Boost	Stimulateur d’endurance
+items	Endurance Boost Recipe	Recette Stimulateur d'endurance
+items	Enemies List	Liste des Ennemis
+items	Energy	Energie
+items	Engineer's Code	Vertus de Varn
+items	Enslave	Esclavage
+items	Erathian Long Dagger	Dague Longue Erathienne
+items	Erudine Chainmail	Cotte de mailles en érudine
+items	Erudine-laced ore	Minerai d’érudine
+items	Essence of Accuracy	Essence de Dextérité
+items	Essence of Accuracy recipe	
+items	Essence of Endurance	Essence d'Endurance
+items	Essence of Endurance recipe	
+items	Essence of Intellect	Essence d'Intelligence
+items	Essence of Intellect recipe	
+items	Essence of Luck	Essence de Chance
+items	Essence of Luck recipe	
+items	Essence of Might	Essence de Force
+items	Essence of Might recipe	
+items	Essence of Personality	Essence de Personnalité
+items	Essence of Personality recipe	
+items	Essence of Speed	Essence de Vitesse
+items	Essence of Speed recipe	
+items	Ethereal Ring	Anneau Impalpable
+items	Ethric's Skull	Crâne d'Ethric
+items	Ethric's Staff	Bâton d'Ethric
+items	Excalibur	Excalibur
+items	Excerpt from a Diary	Extrait de Journal
+items	Exquisite Long Dagger	Dague Longue Merveilleuse
+items	Exquisite Ring	Anneau Exquis
+items	Extreme Energy	Energie Extrême
+items	Eyeball Amulet	Amulette Oculaire
+items	Fae Dust	Poussière de Fée
+items	Faerie Key	Clé Enchantée
+items	Faerie Pipes	Cornemuse Enchantée
+items	Faerie Ring	Anneau Féerique
+items	Fairy Wand of Fire	Baguette Lumineuse de Feu
+items	Fairy Wand of Harm	Baguette Lumineuse de Douleur
+items	Fairy Wand of Ice	Baguette Magique de Glace
+items	Fairy Wand of Lashing	Baguette Magique de Souffle
+items	Fairy Wand of Light	Baguette Magique de Lumière
+items	Fairy Wand of Mind	Baguette Magique de l'Esprit
+items	Fairy Wand of Poison	Baguette Lumineuse de Poison
+items	Fairy Wand of Sparks	Baguette Lumineuse Electrique
+items	Fairy Wand of Swarms	Baguette Magique de Nuée
+items	False Report	Faux rapport
+items	False Riverstride Plans	Faux Plans de Riverstride
+items	Fancy Hat	Chapeau Elégant
+items	Fanged Blade	Lame à crocs
+items	Fate	Destin
+items	Festival Hat	Chapeau de festival
+items	Field Hammer	Marteau de campagne
+items	Finality	Finalité
+items	Fine Belt	Belle Ceinture
+items	Fine Chain Mail	Belle Cotte de Mailles
+items	Fine Ring	Anneau
+items	Fire Amulet	Amulette de Feu
+items	Fire Aura	Aura de feu
+items	Fire Resistance	Protection contre le Feu
+items	Fire Resistance Recipe	Recette Protection contre le Feu
+items	Fire Spike	Piège de feu
+items	First Mate's Code	Vertus de Varn
+items	Flail	Fléau
+items	Flame Door Key	Clef de la Porte de Feu
+items	Flaming Potion	Potion Flammes
+items	Flaming Potion Recipe	Recette Potion Flammes
+items	Flawed Amulets	Amulettes imparfaites
+items	Fleetfingers	Doigts de fée
+items	Floor Tile (w/ moon insignia)	Dalle (w/ insigne lunaire)
+items	Flower (Rose)	Fleur (Rose)
+items	Flute	Flûte
+items	Focal Ring	Anneau focal
+items	Footman's Axe	Hache de guerrier
+items	Forge Gauntlets	Gantelets de Forge
+items	Forged Vouchers	Fausses quittances
+items	Foulfang	Foulfang
+items	Four Leaf Clover	Trèfle à Quatre Feuilles
+items	Fragment of Soldier's Diary	Fragment du Journal d'un Soldat
+items	Freezing Potion	Potion Gel
+items	Freezing Potion Recipe	Recette Potion Gel
+items	Full Helm	Heaume intégral
+items	Galahad	Galahad
+items	Garnet	Grenat
+items	Gauntlets	Gantelets
+items	Gem of Restoration	Gemme de rétablissement
+items	Gemstone Ring	Anneau de gemme
+items	Genie Lamp	Lampe Magique
+items	Ghost Ring	Anneau Fantôme
+items	Ghoulsbane	Griffe de la Goule
+items	Gibbet	Potence
+items	Gilded Belt	Ceinture Dorée
+items	Glomenmail	Glomenmaille
+items	Glomenthal	Glomenthal
+items	Glorious Cloak	Cape de Gloire
+items	Glory Shield	Bouclier de Gloire
+items	Goblin Cutlass	Coutelas Gobelin 
+items	Goblin Scimitar	Cimeterre de gobelin
+items	Goblin Shield	Bouclier Gobelin
+items	Goblinwatch Code	Code du repaire des Gobelins
+items	Gold	Or
+items	Gold Ring	Anneau d’or
+items	Golden Chain Mail	Cotte de Mailles d'Or
+items	Golden Plate Armor	Armure de Plaque d'Or
+items	Golden Pyramid	Pyramide
+items	Golem chest	Cage Thoracique de Golem
+items	Golem head	Tête de Golem
+items	Golem left arm	Bras gauche de Golem
+items	Golem left leg	Jambe gauche de Golem
+items	Golem right arm	Bras droit de Golem
+items	Golem right leg	Jambe droite de Golem
+items	Gothic Amulet	Amulette Gothique
+items	Governor's Armor	Armure du Gouverneur
+items	Graceful Sword	Epée Gracieuse
+items	Grand Poleax	Hache de Titan
+items	Grand Poleaxe	Hache de Titan
+items	Great Sword	Grande Epée
+items	Green Apple	Pomme verte
+items	Green Garnet	Grenat Vert
+items	Griffin Bow	Arc Griffon
+items	Grognard's Cutlass	Coutelas du Grognard
+items	Ground Wyvern Horn	Corne de vouivre moulue
+items	Gryphonheart's Trumpet	Trompe de Gryphonheart
+items	Guardian	Gardienne
+items	Guardian Helm	Casque de Garde
+items	Guild Key	Clef de Guilde
+items	Guinevere	Guenièvre
+items	Hades	Hadès
+items	Halberd	Hallebarde
+items	Haldar's Remains	Restes d'Haldar
+items	Hammer	Marteau
+items	Hammerhands	Poings d'acier
+items	Hand Axe	Hache
+items	Hands of the Master	Poigne du Maître
+items	Harden Item	Durcir objet
+items	Hardened Leather Boots	Bottes en cuir durci
+items	Hardened Leather Vest	Gilet en cuir durci
+items	Hareck's Leather	Cuir d'Hareck
+items	Harp	Harpe
+items	Harpy Feather	Plume de Harpie
+items	Haste	Hâte
+items	Havoc	Ravages
+items	Hayfork	Fourche à foin
+items	Headsman's Poleaxe	Hache de Bourreau
+items	Headsman's Reaver	Couperet du bourreau
+items	Heal	Premiers soins
+items	Heart of Air	Cœur d’air
+items	Heart of Earth	Cœur de terre
+items	Heart of Fire	Cœur de feu
+items	Heart of the Wood	Cœur du Bois
+items	Heart of Water	Cœur d’eau
+items	Heartwood of Jadame	Duramen de Jadame
+items	Heavy Crossbow	Arbalète Lourde
+items	Heavy Poleax	Hache Géante
+items	Heavy Poleaxe	Hache Géante
+items	Hell's Cleaver	Couperet de l’enfer
+items	Helm	Heaume
+items	Hera	Héra
+items	Herald's Boots	Bottes de messager
+items	Hercules	Hercule
+items	Hermes	Hermes
+items	Hermes' Sandals	Sandales d'Hermès
+items	Hero's Belt	Ceinture du Héros
+items	Heroic Sword	Epée Héroïque 
+items	Heroism	Héroïsme
+items	Herondale's Lost Shield	Bouclier perdu d’Herondale
+items	High Cleric's Key	Clef du Grand Clerc
+items	High Sorcerer's Key	Clef
+items	History of the Vault of Time	Histoire du Caveau du temps
+items	Hive Sanctum Key	Clef du Sanctuaire de la Fourmilière
+items	Holy Hammer	Marteau Béni
+items	Horn of Ros	Corne de Ros
+items	Horned Helm	Casque à Cornes
+items	Horseman's Shield	Bouclier de Cavalier
+items	Horseshoe	Fer à cheval
+items	Hourglass of Time	Sablier du Temps
+items	Hunting Bow	Arc de chasse
+items	Hunting Crossbow	Arbalète de chasse
+items	Huntsman's Cloak	Cape de Chasseur
+items	Ideal Crossbow	Arbalète Idéale
+items	Idol of the Snake	Idole du serpent
+items	Igraine	Igraine
+items	Immolation	Immolation
+items	Imperial Leather	Arm. de Cuir Impériale
+items	Improvised Voulge	Vouge de fortune
+items	Infantry Fork	Fourche d’infanterie
+items	Infused Metal Rod	
+items	Intellect Boost	Stimulateur d’intelligence
+items	Intellect Boost Recipe	Recette Stimulateur d'intelligence
+items	Invisibility	Invisibilité
+items	Iolite	Iolite
+items	Iron Broadsword	Glaive de fer
+items	Iron Core Staff	Bâton d'Acier
+items	Iron Feather	Plume de Fer
+items	Iron-laced ore	Minerai ferreux
+items	Jade Amulet	Amulette de jade
+items	Jeweled Dagger	Dague Ornée
+items	Jeweled Egg	Œuf Orné
+items	Journal Entry	Date de Journal
+items	Journal Entry, 11th December	Date de Journal, 11 Décembre
+items	Journal Entry, 19th September	Date de Journal, 19 Septembre
+items	Journal Entry, 23rd April	Date de Journal, 23 Avril
+items	Journal Entry, 2nd January	Date de Journal, 2 Janvier
+items	Journal Entry, 30th June	Date de Journal, 30 Juin
+items	Journal Excerpt	Extrait de Journal
+items	Journal Fragment	Fragment de Journal
+items	Journal Scrap	Fragment de journal
+items	Journey Staff	Bâton de voyage
+items	Judicious Measure	Mesure judicieuse
+items	Justice	Justice
+items	Keen Longsword	Epée Longue Ardente 
+items	Keg of Wine	Tonnelet
+items	Kelebrim	Kelebrim
+items	Kergar-laced ore	Minerai de kergar
+items	Key	Clé
+items	Key to Gharik's Laboratory	Clef du Laboratoire de Gharik
+items	Key to Goblinwatch	Clef de la Tour des Gobelins
+items	Key to Snergle's Chambers	Clef de Snergle
+items	Killer Club	Massue Tueuse
+items	Kite Shield	Bouclier de Sentinelle
+items	Knight Gauntlets	Gantelets de Chevalier
+items	Knight Statuette	Statuette de Chevalier
+items	Knight's Boots	Bottes de Chevalier
+items	Knightly Broadsword	Glaive de chevalier
+items	Labyrinth Grapple	Grappin de labyrinthe
+items	Lady Carmine's Dagger	Dague de Dame Carmine
+items	Lady's Escort	Garde des Dames
+items	Lantern of Light	Lanterne de Lumière
+items	Large Round Crystal	
+items	Last Stage Cuirass	Cuirasse de phase finale
+items	Leather Armor	Armure en cuir
+items	Leather Belt	Ceinture en cuir
+items	Leather Boots	Bottes de Cuir
+items	Leather Cloak	Cape de Cuir
+items	Leather Gloves	Gants en cuir
+items	Leather Jerkin	Pourpoint en cuir
+items	Leather Pouch	Bourse de Cuir
+items	Letter	Lettre
+items	Letter from Archibald	Lettre d'Archibald
+items	Letter from Cedric Druthers	Lettre de Cedric Druthers
+items	Letter from Gavin Magnus	Lettre de Gavin Magnus
+items	Letter from Johann Kerrid to the Faerie King	Lettre de Johann Kerrid au Roi des Fées
+items	Letter from Malwick	Lettre de Malwick
+items	Letter from Mr. Stantley	Lettre de M. Stantley
+items	Letter from Norbert Thrush to Lord Markham	Lettre de Norbert Thrush au Seigneur Markham
+items	Letter from the Dragon Riders	Lettre des Cavaliers du Dragon
+items	Letter from the Prince of Thieves	Lettre du Prince des Voleurs
+items	Letter from the Temple of Baa	Lettre du Temple de Baa
+items	Letter from Xenofex	Lettre de Xenofex
+items	Letter from Zenofex	Lettre de Zenofex
+items	Letter to Agar	Lettre à Agar
+items	Letter to Arion Hunter	Lettre à Arion Hunter
+items	Letter to Gharik	Lettre à Gharik
+items	Letter to Hairbaugh	Lettre à Hairbaugh
+items	Letter to Marcus	Lettre à Marcus
+items	Letter to Snergle	Lettre de Snergle
+items	Letter to Terrax	Lettre à Terrax
+items	Letter to the Prince of Thieves	Lettre au Prince des Voleurs
+items	Lich Jar	Jarre de Liche
+items	Lieutenant's Cutlass	Coutelas du Lieutenant
+items	Light Bolt	Flèche de lumière
+items	Light Crossbow	Arbalète légère
+items	Light Poleaxe	
+items	Lightning Crossbow	Arbalète éclair
+items	Lionheart Sword	Epée Cœur de Lion
+items	Lizardman Broadsword	Glaive d’homme-lézard
+items	Lizardman Helm	Heaume d’homme-lézard
+items	Lizardman Trident	Trident d’homme-lézard
+items	Lock Pick	Passe-Partout
+items	Locus Amulet	Amulette de lieu
+items	Lodestone	Pierre
+items	Log of Eldenbrie	Bûche d'eldenbrie
+items	Long Dagger	Dague longue
+items	Longbow	Arc Long
+items	Longseeker	Longseeker
+items	Longsword	Epée
+items	Loose Page	Page Isolée
+items	Lord Kilburn's Shield	Bouclier du Seigneur Kilburn
+items	Lost Book of Kehl	Grand livre de Kehl
+items	Lucius	Lucius
+items	Luck Boost	Stimulateur de chance
+items	Luck Boost Recipe	Recette Stimulateur de chance
+items	Lucky Hat	Chapeau porte-bonheur
+items	Lunar Ring	Anneau de Lune
+items	Lute	Luth
+items	Mace	Masse
+items	Mace of the Sun	Masse du soleil
+items	Mage Dagger	Dague de Mage
+items	Magic Bow	Arc Magique
+items	Magic Horseshoe	Fer à Cheval
+items	Magic Lamp	Lampe Magique
+items	Magic Potion	Potion magique
+items	Magical Ritual Notes	Notes Rituel Magique
+items	Majestic Chain Mail	Majestueuse Cotte de Mailles
+items	Majestic Shield	Bouclier Majestueux
+items	Map	Carte
+items	Map to Evenmorn Island	Carte de l'Ile Evenmorn
+items	Mash	Ecraseur
+items	Massive Halberd	Grande Hallebarde
+items	Massive hammer	
+items	Master Cutlass	Coutelas de Maître
+items	Master's Dagger	Dague de maître
+items	Medusa's Mirror	Regard de la Méduse
+items	Mekorig's Hammer	Marteau de Mekorig
+items	Memory Crystal Alpha	Cristal Mémoire Alpha
+items	Memory Crystal Beta	Cristal Mémoire Bêta
+items	Memory Crystal Delta	Cristal Mémoire Delta
+items	Memory Crystal Epsilon	Cristal Mémoire Epsilon
+items	Mercenary Belt	Ceinture de Mercenaire
+items	Merchantman's Dagger	Dague de marchand
+items	Merchantman's Hat	Chapeau de marchand
+items	Mercury	Mercure
+items	Merlin	Merlin
+items	Message from Erathia	Message d'Erathia
+items	Message from Mr. Stantley	Message de M. Stantley
+items	Metal Shield	Bouclier de Métal
+items	Meteor Fragment	Fragment de météore
+items	Meteorite Fragment	Fragment de Météorites
+items	Might Boost	Stimulateur de force
+items	Might Boost Recipe	Recette Stimulateur de force
+items	Mighty Broadsword	Epée Large de Force
+items	Mighty Halberd	Hallebarde Puissante
+items	Mind Resistance	Protection contre l'Esprit
+items	Mind Resistance Recipe	Recette Protection contre l'Esprit
+items	Mind's Eye	Œil de l'Esprit
+items	Minotaur Axe	Hache de Minotaure
+items	Minotaur Battleaxe	Hache de minotaure
+items	Minotaur Battlesword	Epée de combat de minotaure
+items	Minotaur Campaign Pole-axe	Arme d’hast de campagne de minotaure
+items	Minotaur Chainmail	Cotte de mailles de minotaure
+items	Minotaur Gauntlets	Gantelets de minotaure
+items	Minotaur Herdsman Axe	Hache de chef de troupe minotaure
+items	Minotaur Plate	Armure de minotaure
+items	Minotaur War Axe	Hache de guerre de minotaure
+items	Minotaur's Axe	Hache du Minotaure
+items	Missive from the Archbishop	Missive de l'Archevêque
+items	Mogred Gauntlets	Gantelets Mogred
+items	Mogred Helm	Casque Mogred 
+items	Moon Cloak	Cape de la Lune
+items	Moon Temple Cloak	Cape du Temple de la Lune
+items	Moonstone	Pierre de Lune
+items	Mordred	Mordred
+items	Morgan	Morgan
+items	Mushroom	Champignon
+items	Mystic Wand of Death	Baguette Mystique de Mort
+items	Mystic Wand of Distortion	Baguette Mystique de Distorsion
+items	Mystic Wand of Implosion	Baguette Mystique d'Implosion
+items	Mystic Wand of Incineration	Baguette Mystique d'Incinération
+items	Mystic Wand of Shrapmetal	Baguette Mystique de Shrapnel
+items	Mystic Wand of Shrinking	Baguette Mystique de Réduction
+items	Naga Hide	Cuir de naga
+items	Name of Message	Nom de Message
+items	Navigator's Code	Vertus de Varn
+items	Necromancer Cloak	Cape de nécromancien
+items	Necromatic Ring	Anneau nécromancien
+items	Necrotic Wand of Distortion	Baguette nécrotique de distorsion
+items	Necrotic Wand of Implosion	Baguette nécrotique d’implosion
+items	Necrotic Wand of Incineration	Baguette nécrotique d’incinération
+items	Necrotic Wand of Shrapnel	Baguette nécrotique d’éclats
+items	Necrotic Wand of Shrinking	Baguette nécrotique de rétrécissement
+items	Newname Key	Newname Clé
+items	Nightshade Brazier	Brasero de l'obscurité
+items	Noble Chain Mail	Noble Cotte de Mailles
+items	Noble Crown	Couronne Noble
+items	Noble Plate Armor	Armure de Plaques Noble
+items	Noblebone Bow	Arc en os noble
+items	Notes - Emergency Meeting	Notes – Rendez-vous d’urgence
+items	Noxious Potion	Potion nocive
+items	Noxious Potion Recipe	Recette Potion nocive
+items	Obsidian	Obsidienne
+items	Odin	Odin
+items	Officer's Leather	Cuir d'Officier
+items	Ogre Ear	Oreille d’ogre
+items	Ogre Fighting Stick	Bâton de combat d’ogre
+items	Ogre Key	Clé d’ogre
+items	Old Halberd	
+items	Old Nick	Vieux Nick
+items	Old Scroll	Vieux Parchemin
+items	Olympian Shield	Bouclier Olympique
+items	Orb Staff	Bâton à orbe
+items	Orders from Snergle	Ordres de Snergle
+items	Orders from Steadwick	Ordres de Steadwick
+items	Orders from the Shadow Guild	Ordres de la Guilde Obscure
+items	Ornate Trident	Trident Orné
+items	Oscillation Overthruster	Surchargeur d'Oscillation
+items	Overlord's Club	Massue de chef suprême
+items	Page from Agar's Journal	Page du Journal d'Agar
+items	Page from Corlagon's Diary	Page du Journal de Corlagon
+items	Page Torn from a Book	Page arrachée d’un livre
+items	Pain Reflection	Loi du talion
+items	Paladin Boots	Bottes de Paladin
+items	Paladin Gauntlets	Gantelets de Paladin
+items	Parson's Quill	Plume de Parson
+items	Pearl of Purity	Perle de Pureté
+items	Pearl of Putrescence	Perle de Putrescence
+items	Pearl Ring	Anneau de perle
+items	Peasant Hat	Chapeau de Paysan
+items	Pellinore	Pellinore
+items	Pendragon	Pendragon
+items	Percival	Perceval
+items	Personality Boost	Stimulateur de personnalité
+items	Personality Boost Recipe	Recette Stimulateur de personnalité
+items	Phantom Cloak	Cape de Fantôme
+items	Phial of Gog Blood	Fiole de sang de gog
+items	Philosopher's Stone	Pierre philosophale
+items	Phima Root	Racine de phima
+items	Phirna Root	Racines de Phirna
+items	Phoenix Feather	Plume de phœnix 
+items	Phylt-laced ore	Minerai de phylt
+items	Phynaxian Crown	Couronne Phynaxienne
+items	Phynaxian Helm	Casque Phynaxien
+items	Phynaxian Shield	Bouclier Phynaxien
+items	Piercing Dagger	Dague Perçante
+items	Pirate Cutlass	Coutelas Pirate
+items	Pirate Hat	Chapeau de pirate
+items	Pirate Leader's Key	Clé du chef des pirates
+items	Plate Armor	Armure articulée (plaques)
+items	Platinum Ring	Anneau de Platine
+items	Poleax	Grande Hache
+items	Poleaxe	Merlin
+items	Poppy Pod	Capsule de pavot
+items	Poppysnaps	Pavot
+items	Poseidon	Poséïdon
+items	Potion Bottle	Fiole à potion
+items	Potion of Doom	
+items	Potion of Doom recipe	
+items	Potion of the Gods	
+items	Potion of the Gods recipe	
+items	Pouch of Bat Guano	Bourse remplis de Guano de Chauve-Souris
+items	Power Staff	Bâton de Pouvoir
+items	Power Stone	Pierre de pouvoir
+items	Precious Ring	Anneau Précieux
+items	Precision Bow	Arc de Précision
+items	Preservation	Préservation
+items	Priestly Staff	Bâton de prêtre
+items	Prison Key	Clé de prison
+items	Proclamation	Nom du Message
+items	Prophecies of the Snake	Prophéties du Serpent
+items	Prophecies of the Sun	Prophéties du Soleil
+items	Protection	Protection
+items	Protection from Magic	Protection contre la magie
+items	Protection from Magic recipe	
+items	Puck	Puck
+items	Pure Accuracy	Précision pure
+items	Pure Accuracy Recipe	Recette Précision pure
+items	Pure Air Resistance	
+items	Pure Air Resistance recipe	
+items	Pure Body Resistance	
+items	Pure Body Resistance recipe	
+items	Pure Earth Resistance	
+items	Pure Earth Resistance recipe	
+items	Pure Endurance	Endurance pure
+items	Pure Endurance Recipe	Recette Endurance pure
+items	Pure Fire Resistance	
+items	Pure Fire Resistance recipe	
+items	Pure Intellect	Intelligence pure
+items	Pure Intellect Recipe	Recette Intelligence pure
+items	Pure Luck	Chance pure
+items	Pure Luck Recipe	Recette Chance pure
+items	Pure Might	Force pure
+items	Pure Might Recipe	Recette Force pure
+items	Pure Mind Resistance	
+items	Pure Mind Resistance recipe	
+items	Pure Personality	Personnalité pure
+items	Pure Personality Recipe	Recette Personnalité pure
+items	Pure Speed	Vitesse pure
+items	Pure Speed Recipe	Recette Vitesse pure
+items	Pure Water Resistance	
+items	Pure Water Resistance recipe	
+items	Purple Topaz	Topaze Violette
+items	Puzzle Box	Boîte mystérieuse
+items	Quality Steel Chain Mail	
+items	Ranger Boots	Bottes de Pisteur
+items	Ranger's Cloak	Cape de Trappeur
+items	Recharge Item	Recharger objet
+items	Recurve Bow	Arc recourbé
+items	Red Apple	Pomme Rouge
+items	Regal Crown	Couronne Royale
+items	Regeneration	Régénération
+items	Regnan Boots	Bottes regnanes
+items	Regnan Crossbow	Arbalète regnane
+items	Regnan Cutlass	Coutelas regnan
+items	Regnan Falchion	Cimeterre regnan
+items	Regnan Fighting Knife	Couteau de combat regnan
+items	Regnan Leather	Cuir regnan
+items	Regnan Tournament Shield	Bouclier de tournoi regnan
+items	Regnan Trident	Trident regnan
+items	Rejuvenation	Rajeunissement
+items	Rejuvenation Recipe	Recette Rajeunissement
+items	Remains of a Journal	Restes d'un Journal
+items	Remains of Korbu	Dépouille de Korbu
+items	Remnants of a Letter	Restes d'une Lettre
+items	Remove Curse	Exorcisme
+items	Remove Fear	Annuler peur
+items	Resistance	Résistance
+items	Resplendent Chain Mail	Cotte de Mailles Resplendissante
+items	Restoration	Restauration
+items	Reverend Sceptre	Sceptre du révérend
+items	Ring of Fusion	Anneau de fusion
+items	Ring of Keys	Anneau de clés
+items	Ring of Planes	Anneau des Mondes
+items	Ritual of the Void	Rituel de l'Emprisonnement Sombre
+items	Riverstride Plans	Plans de Riverstride
+items	Roland Ironfist Painting	Portrait de Roland Ironfist
+items	Roland's Journal	Nom du Message
+items	Rope	Corde
+items	Rose	Rose
+items	Rose Crystal	Cristal Rose
+items	Royal Chain Mail	Royale Cotte de Mailles
+items	Royal Leather	Cuir Royal
+items	Royal Wasp Jelly	Gelée royale de guêpes
+items	Ruby	Rubis
+items	Ruby Ring	Anneau de rubis
+items	Ruby Star Amulet	Amulette de Rubis
+items	Ruler's Ring	Anneau du Dirigeant
+items	Rusty Breastplate	Plastron rouillé
+items	Rusty Cutlass	Coutelas rouillé
+items	Rusty Mail Vest	Gilet de mailles rouillé
+items	Sacred Chalice	Calice Sacré
+items	Sacred Spear	Lance Sacrée
+items	Sacrifice	Sacrifice
+items	Sapphire	Saphir
+items	Sapphire Ring	Anneau de Saphir
+items	Sarcophagus of Korbu	Sarcophage de Korbu
+items	Savage Spear	Lance Sauvage
+items	Scarab Ring	Anneau Scarabée
+items	Scavenger hunt.	Chasse au trésor
+items	Scepter of Kings	Sceptre des rois
+items	Scholar's Cap	Casquette de l'Erudit
+items	Scrap from Gharik's Journal	Morceau du Journal de Gharik
+items	Scrap of Paper	Morceau de Papier
+items	Scroll of Waves	Rouleau des Vagues
+items	Sealed Letter 2	Lettre Cachetée 2
+items	Sealed Letter 3	Lettre Cachetée 3
+items	Sealed Letter 4	Lettre Cachetée 4
+items	Sealed Letter 5	Lettre Cachetée 5
+items	Sealed Letter 6	Lettre Cachetée 6
+items	Sealed Letter 7	Lettre Cachetée 7
+items	Seashell	Coquillage
+items	Season's Stole	Etole des Saisons
+items	Secret Door Key	Clef de Porte Secrète
+items	Serendine's Preservation	Préservation de Serendine
+items	Serpent Spear	Lance Serpent
+items	Serpent Staff	Bâton serpent
+items	Serpent Wand of Blasting	Baguette-serpent de l’explosion
+items	Serpent Wand of Paralysis	Baguette-serpent de la paralysie
+items	Serpent Wand of Rocks	Baguette-serpent des pierres
+items	Serpent Wand of the Fist	Baguette-serpent du poing
+items	Seven League Boots	Bottes de Sept Lieues
+items	Sewer Key	Clé des Egouts
+items	Shadow Dagger	Dague Obscure
+items	Shadow Sect Medallion	Médaillon de la Secte de l’Obscurité
+items	Shadow's Mask	Masque des Ombres
+items	Shaman's Wand of Ice	Baguette de chaman : Glace
+items	Shaman's Wand of Lashing	Baguette de chaman : Flagellation
+items	Shaman's Wand of Light	Baguette de chaman : Lumière
+items	Shaman's Wand of Mind	Baguette de chaman : Esprit
+items	Shaman's Wand of Swarms	Baguette de chaman : Essaims
+items	Sharktooth Dagger	Dague dentelée
+items	Shield	Bouclier
+items	Shocking Potion	Potion Choc
+items	Shocking Potion Recipe	Recette Potion Choc
+items	Shovel	Pelle
+items	Siertal Chainmail	Cotte de mailles en siertal
+items	Siertal-laced ore	Minerai de siertal
+items	Signet Ring	Chevalière
+items	Silver Belt	Ceinture d'Argent
+items	Silver Dust of the Sea	Poussière d’argent de l’océan
+items	Silver Mesh Gauntlets	Gantelets en Mailles d'Argent
+items	Simple Mace	
+items	Simple Staff	
+items	Slaying Potion	Potion Massacre
+items	Slaying Potion Recipe	Recette Potion Massacre
+items	Sledgehammer	Marteau de forgeron
+items	Snake	Serpent
+items	Snakewood Bow	Arc en bois de couleuvre
+items	Snergle's Axe	Hache de Snergle
+items	Soldier's spear	Lance de Soldat 
+items	Souldrinker	Buveur d'âmes
+items	Sovereign Belt	Ceinture de Souverain
+items	Sparkling Ring	Anneau Etincelant
+items	Spear	Lance
+items	Speed Boost	Stimulateur de vitesse
+items	Speed Boost Recipe	Recette Stimulateur de vitesse
+items	Spider Queen's Heart	Cœur de la Reine Araignée
+items	Spiked Club	Gourdin à Pointes
+items	Spiked Mace	Masse à Pointes
+items	Spiral Instructions	Manuel de la Spirale
+items	Spirit Lash	Souffle spirituel
+items	Spirit Shield	Bouclier Clérical
+items	Spiritslayer	Tueur d’esprits
+items	Splendid Plate Armor	Armure de Plaques Splendide
+items	Splitter	Coupeuse
+items	Staff	Bâton
+items	Staff of Elements	Bâton des élémentaires
+items	Staff of the Swamp	Bâton des marécages
+items	Stalt-laced ore	Minerai de stalt
+items	Steel Axe	Hache d'Acier 
+items	Steel Belt	Ceinture en acier
+items	Steel Boots	Bottes d'Acier
+items	Steel Broadsword	Epée Large d'Acier 
+items	Steel Chain Mail	Cotte de Mailles d'Acier 
+items	Steel Chainmail	Cotte de mailles d’acier
+items	Steel club	Gourdin d'Acier 
+items	Steel Gauntlets	Gantelets en acier
+items	Steel Helm	Casque d'Acier
+items	Steel Plate Armor	Armure de Plaque d'Acier
+items	Steel Plated Boots	Bottes de Plaques d'Acier
+items	Steel Shield	Bouclier d'Acier
+items	Steel Spear	Lance en acier
+items	Stellar Bow	Arc Stellaire
+items	Sterling Boots	Bottes Solides
+items	Sterling Shield	Bouclier de Bon Aloi
+items	Stone Axe	Hache en pierre
+items	Stone Skin	Peau d'Acier
+items	Stone to Flesh	Pierre en chair
+items	Stone To Flesh Recipe	Recette Pierre en chair
+items	Stoneskin	Peau de pierre
+items	Storage Key	Clef de la Réserve
+items	Store Room Key	Clef de la Réserve
+items	Stout Spear	Lance de Bravoure
+items	Strong Belt	Ceinture Forte
+items	Studded Leather	Cuir Clouté
+items	Sturdy Belt	Ceinture solide
+items	Sublime Spear	Lance Sublime
+items	Sulfur	Soufre
+items	Summon Elemental	Invocation d'un Elémentaire
+items	Summon Wisp	Invoquer feu follet
+items	Sun Amulet	Amulette Solaire
+items	Sun Cloak	Cape du Soleil
+items	Sun Hammer	Marteau du soleil
+items	Sun Opal Ring	Anneau d’opale du soleil
+items	Sunray	Rayon de soleil
+items	Sunstone	Pierre de Soleil
+items	Super Resistance	Super Résistance
+items	Supreme Axe	Hache Suprême
+items	Supreme Flail	Fléau Suprême
+items	Supreme Plate	Armure suprême
+items	Supreme Protection	Protection Suprême
+items	Swift Potion	Potion Rapidité
+items	Swift Potion Recipe	Recette Potion Rapidité
+items	Sword of Whistlebone	Epée de Whistlebone
+items	Taledon's Helm	Casque de Taledon
+items	Tanir's Bell	Cloche de Tanir
+items	Telelocator	
+items	Telepathy	Télépathie
+items	Teleporter Key	Clef du Téléporteur
+items	Templar's Sword	Epée de Templar
+items	Temple Gong	Gong
+items	Temple in a Bottle	Temple dans une Bouteille
+items	Temple Mace	Masse du Temple
+items	Terminus	Terminus
+items	The DeathBlade	Lame Fatale
+items	The Letter	La Lettre
+items	The Perfect Bow	Arc Parfait
+items	The Third Eye	Le troisième Œil
+items	Thigh Bone	Fémur
+items	Thor	Thor
+items	Thornbark	Ecorce épineuse
+items	Thornbark Club	Massue d’écorce épineuse
+items	Thornbark Shield	Bouclier d’écorce épineuse
+items	Thunder Mace	Masse De Tonnerre
+items	Tiger Statuette	Statuette de Tigre
+items	Titan's Belt	Ceinture du Titan
+items	Titanic Trident	Trident de Titan
+items	Tobersk Brandy	Brandy de tobersk
+items	Tobersk Fruit	Tobersk
+items	Tobersk Pulp	Pulpe de tobersk
+items	Tooth	Dent
+items	Topaz	Topaze
+items	Torn Page	Page arrachée
+items	Tournament Bow	Arc de tournoi
+items	Tower Shield	Bouclier de Garde
+items	Traveler's Cloak	Cape de voyageur
+items	Traveller's Hat	Chapeau de Voyageur
+items	Treasure Room Key	Clef de la Salle au Trésor
+items	Trident	Trident
+items	Trident of Rulership	Trident de souveraineté
+items	Triton Trident	Trident de triton
+items	Troll Gauntlets	Gantelets de troll
+items	Trollish Claymore	Claymore trollienne
+items	Trollish Maul	Maillet trollien
+items	Trollish Shield	Bouclier trollien
+items	Trollish War Mace	Masse de guerre trollienne
+items	Trollish War Sword	Epée de guerre trollienne
+items	True Crossbow	Arbalète de Vérité
+items	Turquoise Amulet	Amulette Turquoise
+items	Twilight	Crépuscule
+items	Twilight Kris	Criss de Crépuscule
+items	Two-Handed Axe	Hache à deux mains
+items	Two-Handed Sword	Epée à deux mains
+items	Ullyses	Ulysse
+items	Ultimate Boots	Bottes Ultimes
+items	Ultimate Gauntlets	Gantelets Ultimes
+items	Unicorn Horn	Corne de licorne
+items	Urn of Ashes	Urne de cendres
+items	Valeria	Valeria
+items	Valuable Ring	Anneau de Valeur
+items	Vampire Cloak	Cape de vampire
+items	Vampire's Cape	Cape du Vampire
+items	Vampire's Ring	Anneau de vampire
+items	Vampiric Weapon	Arme vampirique
+items	Vanguard Belt	Ceinture de Pionnier
+items	VARN Chest Key	Clef du Coffre de Varn
+items	Vase	Vase
+items	Veteran Shield	Bouclier de vétéran
+items	Vial of Devil Ichor	Fiole de Liqueur Diabolique
+items	Vial of Grave Earth	Fiole de terre tombale
+items	Vial of Ooze Endoplasm	Fiole d'Endoplasme de Limon
+items	Vial of Troll Blood	Fiole de Sang Troll
+items	Villain's Blade	Fleuret du Traître
+items	Volcano	Volcano
+items	Walking Boots	Bottes de marche
+items	Wallace	Wallace
+items	Wand of Arrows	Baguette de Flèches
+items	Wand of Cold	Baguette de Froid
+items	Wand of Fire	Baguette de Feu
+items	Wand of Flame	Baguette de Feu
+items	Wand of Harm	Baguette de Blessure
+items	Wand of Poison	Baguette de Poison
+items	Wand of Sparks	Baguette d'Etincelles
+items	Wand of Static	Baguette Electrique
+items	Wand of Stunning	Baguette d'Etourdissement
+items	War Axe	Hache de Guerre
+items	War Hammer	Marteau de Guerre 
+items	War Spear	Lance de guerre
+items	War Trident	Trident de Guerre 
+items	Warhammer	Marteau de guerre
+items	Warlock's Ring	Anneau de Sorcier
+items	Warlord Belt	Ceinture de Guerrier
+items	Warlord's Key	Clef du Warlord
+items	Warrior Sword	Epée du Guerrier
+items	Warrior's Poleaxe	Merlin de Guerrier 
+items	Wasp Stingers	Dards de guêpe
+items	Wasp Wing	Aile de guêpe
+items	Water Breathing	Respiration sous-marine
+items	Water Resistance	Protection contre l’Eau
+items	Water Resistance Recipe	Recette Protection contre l’Eau
+items	Water Temple Key	Clef du Temple d'Eau
+items	Wealthy Hat	Chapeau d'Apparat
+items	Weighted Halberd	Hallebarde Lourde
+items	West Pillar Key	Clé du Pilier Ouest
+items	Wetsuit	Combinaison de Plongée
+items	Wheel of Frelandeau	Meule de frelandeau
+items	Whisp wrappings	
+items	Wicked Mace	Masse de Cruauté
+items	Widoweeps Berries	Baies de Larmes de Veuve
+items	Widowsweep Berries	Baies de veuve
+items	Will O' Wisp Heart	Cœur de feu follet
+items	William's Tower Key	Clé de la Tour William
+items	Winged Sandals	Sandales Ailées
+items	Witch Ring	Anneau de Sorcière
+items	Witch's Amulet	Amulette de Sorcière
+items	Witch's Wand of Fire	Baguette de sorcière : Feu
+items	Witch's Wand of Harming	Baguette de sorcière : Blessure
+items	Witch's Wand of Poison	Baguette de sorcière : Poison
+items	Witch's Wand of Sparks	Baguette de sorcière : Etincelles
+items	Witch's Wand of Stunning	Baguette de sorcière : Etourdir
+items	Wizard Cap	Chapeau Conique
+items	Wizard Ring	Anneau de Magicien
+items	Wizard Staff	Bâton de Magicien
+items	Wizard Wand of Acid	Baguette de sorcier : Acide
+items	Wizard Wand of Berzerking	Baguette de sorcier : Folie furieuse
+items	Wizard Wand of Blades	Baguette de sorcier : Lames
+items	Wizard Wand of Fireballs	Baguette de sorcier : Boules de feu
+items	Wizard Wand of Lightning	Baguette de sorcier : Eclairs
+items	Wolf Statuette	Statuette de Loup
+items	Wolf's Eye	Œil de loup
+items	Wonder Mace	Masse Miraculeuse
+items	Wooden Buckler	Rondache en bois
+items	Wooden Shield	Bouclier de Bois
+items	Worn Belt	Ceinture Usagée
+items	Wyrm Spitter	Broche à dragons
+items	Wyvern Horn	Corne de vouivre
+items	Wyvern Leather Belt	Ceinture en cuir de vouivre
+items	Yellow Topaz	Topaze jaune
+items	Yoruba	Yoruba
+items	Zealot Mace	Masse de Fanatique
+items	Zeus	Zeus
+items	Zircon	Zircon
+items	Zokarr IV's Skull	Le Crâne de Zokarr IV
+items	Zokarr's Axe	Hache de Zokarr
+location	Abandoned Pirate Keep	Donjon abandonné des pirates
+location	Abandoned Temple	Temple abandonné
+location	Agar's Laboratory	Le Laboratoire d'Agar
+location	Alvar	Alvar
+location	Ancient Troll Home	Ancienne dem. Trolls
+location	Arena	Arène
+location	Avlee	Avlee
+location	Balthazar Lair	Repaire de Balthazar
+location	Barbarian Fortress	Forteresse barbare
+location	Barrow I	Tumulus I
+location	Barrow II	Tumulus II
+location	Barrow III	Tumulus III
+location	Barrow IV	Tumulus IV
+location	Barrow IX	Tumulus IX
+location	Barrow V	Tumulus V
+location	Barrow VI	Tumulus VI
+location	Barrow VII	Tumulus VII
+location	Barrow VIII	Tumulus VIII
+location	Barrow X	Tumulus X
+location	Barrow XI	Tumulus XI
+location	Barrow XII	Tumulus XII
+location	Barrow XIII	Tumulus XIII
+location	Barrow XIV	Tumulus XIV
+location	Barrow XV	Tumulus XV
+location	Basement of the Breach	
+location	Blackshire	Blackshire
+location	Bootleg Bay	Baie des Bandits
+location	Castle Alamos	Château Alamos
+location	Castle Darkmoor	Château Darkmoor
+location	Castle Gloaming	Château Gloaming
+location	Castle Gryphonheart	Château Gryphonheart
+location	Castle Harmondale	Château Harmondale
+location	Castle Ironfist	Château Ironfist
+location	Castle Kriegspire	Le Château Kriegspire
+location	Castle Lambent	Château Lambent
+location	Castle Navan	Château Navan
+location	Castle of Air	Château de l’Air
+location	Castle of Fire	Château du Feu
+location	Caves of the Dragon Riders	Les Caves des Cavaliers du Dragon
+location	Celeste	Celeste
+location	Chain of Fire	Chaîne de Feu
+location	Chapel of Eep	Chapelle d’Eep
+location	Church of Eep	Eglise d’Eep
+location	Clanker's Laboratory	Le Laboratoire de Clanker
+location	Colony Zod	Colonie Zod
+location	Control Center	Centre de Contrôle
+location	Corlagon's Estate	Manoir de Corlagon
+location	Cyclops Larder	Cellier des cyclopes
+location	Dagger Wound Island	Ile de la Plaie de la Dague
+location	Dark Dwarf Compound	Enceinte nains Ombre
+location	Devil Outpost	Poste des Démons
+location	Deyja	Deyja
+location	Dire Wolf Den	Tanière des loups menaçants
+location	Dragon Cave	Grotte des dragons
+location	Dragon Hunter's Camp	Camp. ch. Dragons
+location	Dragon's Lair	Antre du Dragon
+location	Dragonsand	Dragonsand
+location	Dragoons' Caverns	Grottes des Dragoons
+location	Dragoons' Keep	Le Donjon des Dragoons
+location	Druid Circle	Cromlech des druides
+location	Eel Infested Waters	Eaux des Anguilles
+location	Emerald Island	Ile d'Emeraude
+location	Erathia	Erathia
+location	Escaton's Crystal	Cristal d'Escaton
+location	Escaton's Palace	Palais d'Escaton
+location	Evenmorn Island	Ile d'Evenmorn
+location	Fort Riverstride	Fort Riverstride
+location	Free Haven	Port Libre
+location	Free Haven Sewer	Egouts de Port Libre
+location	Frozen Highlands	Les Plateaux Glacés
+location	Garrote Gorge	Garrote Gorge
+location	Gharik's Forge	La Forge de Gharik
+location	Goblinwatch	La Tour des Gobelins
+location	Grand Temple of Eep	Grand Temple d’Eep
+location	Grand Temple of the Moon	Grand Temple de la Lune
+location	Grand Temple of the Sun	Grand Temple du Soleil
+location	Hall of the Fire Lord	Hall du Feu
+location	Harmondale	Harmondale
+location	Hermit's Isle	Ile de l'Ermite
+location	Icewind Keep	Le Donjon du vent Glacé
+location	Ilsingore's Cave	Grotte d’Ilsingore
+location	Ironsand Desert	Désert du sable de fer
+location	Kriegspire	Kriegspire
+location	Lair of the Wolf	La Tanière du Loup
+location	Lord Markham's Manor	Manoir du Seigneur Markham
+location	Mad Necromancer's Lab	Labo Nécromancienne diabolique
+location	Merchant House of Alvar	Maison march. d’Alvar
+location	Mire of the Damned	Fange des Damnés
+location	Misty Islands	Les îles de Mist
+location	Mount Nighon	Mont Nighon
+location	Murmurwoods	Murmurwoods
+location	Naga Vault	Caveau des nagas
+location	Necromancers' Guild	Guilde des nécromanciens
+location	New Sorpigal	Sorpigal La Nouvelle
+location	New World Computing	New World Computing
+location	Nighon Tunnels	Tenancier
+location	NWC	NWC
+location	Ogre Fortress	Forteresse des ogres
+location	Old Loeb's Cave	Grotte de Loeb l’Ancien
+location	Oracle of Enroth	L'Oracle d'Enroth
+location	Paradise Valley	Vallée du Paradis
+location	Passage Under Regna	Passage sous Regna
+location	pending	En attente
+location	Pirate Outpost	Avant-poste des pirates
+location	Pirate Stronghold	Fort des pirates
+location	Plane Between Planes	Monde entre les Mondes
+location	Plane of Air	Monde de l'Air
+location	Plane of Earth	Monde de la Terre
+location	Plane of Fire	Monde du Feu
+location	Plane of Water	Monde de l'Eau
+location	Prison of the Lord of Air	Prison du Seigneur de l’Air
+location	Prison of the Lord of Earth	Prison du Seigneur de la Terre
+location	Prison of the Lord of Fire	Prison du Seigneur du Feu
+location	Prison of the Lord of Water	Prison du Seigneur de l’Eau
+location	Ravage Roaming	Ravagabondage
+location	Ravenshore	Ravenshore
+location	Regna	Regna
+location	Shadow Guild	Guilde Obscure
+location	Shadow Guild Hideout	La Cachette de la Guilde Obscure
+location	Shadowspire	Shadowspire
+location	Shoals	Les Hauts-Fonds
+location	Silver Cove	Baie Argentée
+location	Silver Helm Outpost	Poste Avancé de Silver
+location	Silver Helm Stronghold	Forteresse de Silver
+location	Small Sub Pen	Petit abri à submersibles
+location	Smuggler's Cove	Crique des contrebandiers
+location	Snergle's Caverns	Les Cavernes de Snergle
+location	Snergle's Iron Mines	Les Mines de Fer de Snergle
+location	Stone City	La Cité de Pierre
+location	Superior Temple of Baa	Le Temple Ultime de Baa
+location	Supreme Temple of Baa	Temple Ultime de Baa
+location	Sweet Water	Eau Claire
+location	Tatalia	Tatalia
+location	Temple of Baa	Temple de Baa
+location	Temple of the Dark	Temple de l'Ombre
+location	Temple of the Fist	Le Temple du Poing
+location	Temple of the Light	Temple de la Lumière
+location	Temple of the Moon	Temple de la Lune
+location	Temple of the Snake	Le Temple du Serpent
+location	Temple of the Sun	Temple du Soleil
+location	Temple of Tsantsa	Le Temple de Tsantsa
+location	The Arena	L'Arène
+location	The Bandit Caves	La Grotte des Bandits
+location	The Barrow Downs	Les Collines du Sommeil
+location	The Bracada Desert	Le Désert de Bracada
+location	The Breach	
+location	The Breeding Zone	L'Elevage
+location	The Crypt of Korbu	La Crypte de Korbu
+location	The Dragon Caves	La Grotte des Dragons
+location	The Dragon's Lair	L'Antre du Dragon
+location	The Erathian Sewers	Les Egouts d'Erathia
+location	The Hall of the Pit	Le Hall de la Fosse
+location	The Hall under the Hill	Hall sous la Colline
+location	The Haunted Mansion	Le Manoir Hanté
+location	The Hidden Tomb	La Tombe Secrète
+location	The Hive	La Fourmilière
+location	The Land of the Giants	La Terre des Géants
+location	The Lincoln	Le Lincoln
+location	The Maze	Le Labyrinthe
+location	The Mercenary Guild	La Guilde des Mercenaires
+location	The Monolith	Le Monolithe
+location	The Pit	La Fosse
+location	The Red Dwarf Mines	Les Mines du Nain Rouge
+location	The School of Sorcery	Ecole de Sorcellerie
+location	The Small House	La Petite Maison
+location	The Strange Temple	Le Temple Etrange
+location	The Temple of Baa	Temple de Baa
+location	The Temple of the Moon	Le Temple de la Lune
+location	The Tidewater Caverns	Les Cavernes de Tidewater
+location	The Titans' Stronghold	Forteresse du Titan
+location	The Tularean Caves	Les Grottes de Tulare
+location	The Tularean Forest	La Forêt de Tulare
+location	The Walls of Mist	Les Murs de Mist
+location	The Wine Cellar	Cave à Vin
+location	Thunderfist Mountain	Montagne du Tonnerre
+location	Tomb of Ethric the Mad	Tombe d'Ethric le Fou
+location	Tomb of Lord Brinne	Tombeau du Seigneur Brinne
+location	Tomb of VARN	La Tombe de Varn
+location	Troll Tomb	Cimetière des trolls
+location	Tunnels to Eeofol	Tenancier
+location	Tutorial	Travaux pratiques
+location	Uplifted Library	Bibliothèque surélevée
+location	Vampire Crypt	Crypte des vampires
+location	War Camp	Campement de guerre
+location	Warlord's Fortress	Forteresse du Warlord
+location	Wasp Nest	Nid de guêpes
+location	Watchtower 6	Tour de Guet 6
+location	White Cliff Cave	Grotte de Falaise Blanche
+location	William Setag's Tower	Tour de William Setag
+location	Wromthrax's Cave	Grotte de Wromthrax
+location	Yaardrake's Cave	Grotte de Yaardrake
+location	Zokarr's Tomb	Tombe de Zokarr
+monsters	Acidic Ooze	Limon Acide
+monsters	Acolyte of Baa	Acolyte de Baa
+monsters	Acolyte of the Moon	Novice de la Lune
+monsters	Acolyte of the Sun	Acolyte du Soleil
+monsters	Adventurer	Aventurier
+monsters	Agar's Abomination	Abomination d'Agar
+monsters	Agar's Monster	Monstre d'Agar
+monsters	Agar's Pet	Familier d'Agar
+monsters	Air Elemental	Elémentaire de l’Air
+monsters	Air Hydra	Hydre de l'Air
+monsters	Air Warlock	Géomancien de l'Air
+monsters	Ancient Behemoth	Grand Béhémoth
+monsters	Ancient Wyvern	Vouivre ancienne
+monsters	Angel	Ange
+monsters	Angel Lord	Séraphin
+monsters	Animalist	Animaliste
+monsters	Apprentice Mage	Apprenti Mage
+monsters	Archangel	Archange
+monsters	Archer	Archer Milicien
+monsters	Archmage	Archimage
+monsters	Assassin	Assassin
+monsters	Assassin Droid	Droïde Assassin
+monsters	Bandit	Bandit
+monsters	Barrow Wight	Ombre Spectrale
+monsters	Basilisk	Basilic
+monsters	Bat	Chauve-Souris
+monsters	Behemoth	Béhémoth
+monsters	Bestial Animalist	Animaliste sauvage
+monsters	Bestial Lycanthrope	Lycanthrope sauvage
+monsters	Bestial Shapeshifter	Changeforme sauvage
+monsters	Blaster Guy C	Maître Blaster C
+monsters	Blood Sucker	Suceur de Sang
+monsters	Blood Titan	Seigneur Titan
+monsters	Bloodstone Ooze	Limon de Jaspe
+monsters	Blue Dragon	Dragon Bleu
+monsters	Bone Dragon	Dragon d’os
+monsters	Boulder	Rocher
+monsters	Bounty Hunter	Chasseur de Primes
+monsters	Bowman	Archer
+monsters	Brain Sucker	Suceur de Cerveau
+monsters	Brass Golem	Golem de Cuivre
+monsters	Brass Gorgon	Gorgone de cuivre
+monsters	Brigand	Brigand
+monsters	Bronze Golem	Golem de Bronze
+monsters	Bronze Gorgon	Gorgone de bronze
+monsters	Buccaneer	Flibustier
+monsters	Burglar	Bandit
+monsters	Cactus	Cactus
+monsters	Cannibal	Cannibale
+monsters	Captain	Capitaine
+monsters	Cat A	Chat A
+monsters	Cat B	Chat B
+monsters	Cat C	Chat C
+monsters	Centaur	Centaure
+monsters	Centaur Warlord	Seigneur de guerre centaure
+monsters	Centaur Warrior	Guerrier centaure
+monsters	Champion of the Sword	Champion de l'Epée
+monsters	Chaos Guardian	Gardien du chaos
+monsters	Chaos Hydra	Hydre du Chaos
+monsters	Chaos Overlord	Chef suprême du chaos
+monsters	Chaos Protector	Protecteur du chaos
+monsters	Charger	Cheval de bataille
+monsters	Chicken A	Poulet A
+monsters	Chicken B	Poulet B
+monsters	Chicken C	Poulet C
+monsters	Clay Elemental	Argileux
+monsters	Cleric of Baa	Clerc de Baa
+monsters	Cleric of the Moon	Clerc de la Lune
+monsters	Cleric of the Sun	Clerc du Soleil
+monsters	Cobra	Cobra
+monsters	Colossal Hydra	Hydre Colossale
+monsters	Common Rat	Rat Commun
+monsters	Conscript	Conscrit
+monsters	Corbie	Corbin
+monsters	Corrosive Ooze	Limon Corrosif
+monsters	Corsair	Corsaire
+monsters	Couatl	Couatl
+monsters	Crusader	Croisé
+monsters	Crystal Guardian	Gardien de cristal
+monsters	Crystal Sentry	Sentinelle de cristal
+monsters	Crystal Walker	Marcheur de cristal
+monsters	Cuisinart	Chevalier Boucher
+monsters	Cutpurse	Coupe-Bourse
+monsters	Cyclone	Ouragan
+monsters	Cyclops	Cyclope
+monsters	Cyclops Hunter	Chasseur cyclope
+monsters	Cyclops Warrior	Guerrier cyclope
+monsters	Dancing Light	Lumière dansante
+monsters	Dark Dwarf Berserker	Nain de l’Ombre fou furieux
+monsters	Dark Dwarf Grunt	Nain de l’Ombre grogneur
+monsters	Dark Dwarf Pounder	Nain de l’Ombre frappeur
+monsters	Dark Elf Peasant	Paysan elfe de l’Ombre
+monsters	Dark Elven Crusader	Croisé elfe de l’Ombre
+monsters	Dark Elven Defender	Défenseur elfe de l’Ombre
+monsters	Dark Elven Warrior	Guerrier elfe de l’Ombre
+monsters	Dark Path Journeyman	Voyageur du Chemin de l’Ombre
+monsters	Death Knight	Chevalier Noir
+monsters	Defender of VARN	Défenseur de Varn
+monsters	Demolisher	Démolisseur
+monsters	Demon Queen	Reine des Démons
+monsters	Devil Captain	Seigneur Démon
+monsters	Devil King	Roi Démon
+monsters	Devil Master	Maître Démon
+monsters	Devil Spawn	Démon
+monsters	Devil Warrior	Guerrier Démon
+monsters	Devil Worker	Démon
+monsters	Diamond Gargoyle	Gargouille de Diamant
+monsters	Dire Wolf	Loup menaçant
+monsters	Dire Wolf Yearling	Jeune loup menaçant
+monsters	Djinn	Djinn
+monsters	Djinni	Djinn
+monsters	Dog A	Chien A
+monsters	Dog B	Chien B
+monsters	Dog C	Chien C
+monsters	Doom Knight	Chevalier Maudit
+monsters	Dragon	Dragon
+monsters	Dragon Flightleader	Chef d’escadrille dragon
+monsters	Dragon Hunter	Chasseur de dragons
+monsters	Dragon Shark	Requin Dragon
+monsters	Dragon Turtle	Tortue-dragon
+monsters	Dragonette	Dragonette
+monsters	Dragonfly	Guêpe Dragon
+monsters	Dragonslayer	Tueur de dragons
+monsters	Druid	Druide
+monsters	Dust Devil	Démon des Sables
+monsters	Dwarf	Nain
+monsters	Dwarf Lord	Seigneur Nain
+monsters	Dwarf Warrior	Guerrier Nain
+monsters	Dwarven Commander	Commandant Nain
+monsters	Dwarven Lieutenant	Lieutenant Nain
+monsters	Dwarven Soldier	Soldat Nain
+monsters	Earth Elemental	Elémentaire de la Terre
+monsters	Earth Spirit	Esprit de la Terre
+monsters	Efreet	Efrit
+monsters	Efreeti Knight	Chevalier efreet
+monsters	Efreeti Lord	Seigneur efreet
+monsters	Efreeti Soldier	Soldat efreet
+monsters	Elder Basilisk	Basilic aîné
+monsters	Elder Tortoise	Tortue aînée
+monsters	Elder Vampire	Prince Vampire
+monsters	Elite Archer	Archer d'Elite
+monsters	Elven Archer	Archer Elfe
+monsters	Elven Defender	Garde Elfe
+monsters	Elven Lancer	Lancier Elfe
+monsters	Elven Ranger	Rôdeur Elfe
+monsters	Elven Scout	Eclaireur Elfe
+monsters	Elven Warrior	Guerrier Elfe
+monsters	Ember Gog	Gog de braise
+monsters	Emerald Dragon	Dragon d’émeraude
+monsters	Emerald Ooze	Limon d'Emeraude
+monsters	Empress Medusa	Impératrice Méduse
+monsters	Energy Drake	Dragon d'Energie
+monsters	Enforcer Unit	Garde
+monsters	Ether Champion	Champion d’éther
+monsters	Ether Knight	Chevalier d’éther
+monsters	Ether Lord	Seigneur d’éther
+monsters	Evil Eye	Œil Infernal
+monsters	Evil Spirit	Esprit
+monsters	Expert Swordsman	Expert de l'Epée
+monsters	Fanatic of Baa	Fanatique de Baa
+monsters	Fear	Peur
+monsters	Fighter	Guerrier
+monsters	Fire Archer	Archer de Feu
+monsters	Fire Beast	Bête de Feu
+monsters	Fire Bird	Oiseau de feu
+monsters	Fire Dragonfly	Guêpe Dragon de Feu
+monsters	Fire Elemental	Elémentaire du Feu
+monsters	Fire Gog	Gog de feu
+monsters	Fire Hydra	Hydre du Feu
+monsters	Fire Lizard	Lézard de feu
+monsters	Fire Newt	Triton de feu
+monsters	Fire Rat	Rat de Feu
+monsters	Fire Spirit	Esprit de Feu
+monsters	Fire Warlock	Géomancien du Feu
+monsters	Fish	Poisson
+monsters	Flame Drake	Dragon de Feu
+monsters	Floating Eye	Œil Maléfique
+monsters	Flying Eye	Œil Volant
+monsters	Follower of Baa	Disciple de Baa
+monsters	Frost Drake	Dragon de Glace
+monsters	Gazer	Œil Démoniaque
+monsters	Genie	Génie
+monsters	Ghast	Horreur
+monsters	Ghost	Fantôme
+monsters	Ghoul	Goule 
+monsters	Giant Bat	Chauve-Souris
+monsters	Giant Rat	Rat
+monsters	Giant Shark	Requin
+monsters	Giant Spider	Araignée
+monsters	Giant Wyrm	Wyrm Géante
+monsters	Goblin	Gobelin
+monsters	Goblin King	Roi Gobelin
+monsters	Goblin Lord	Chef Gobelin
+monsters	Goblin Shaman	Shaman Gobelin
+monsters	Gog	Guerrier Gog
+monsters	Gogling	Gog
+monsters	Gold Dragon	Dragon d'Or
+monsters	Gold Golem	Golem d'Or
+monsters	Gorgon	Gorgone
+monsters	Grand Druid	Archidruide
+monsters	Grand Phoenix	Grand Phœnix
+monsters	Great Druid	Grand Druide
+monsters	Great Wyrm	Grand dragon
+monsters	Greater Air Elemental	Elémentaire de l’Air majeur
+monsters	Greater Earth Elemental	Elémentaire de la Terre majeur
+monsters	Greater Fire Elemental	Elémentaire du Feu majeur
+monsters	Greater Lich	Grande Liche
+monsters	Greater Light Elemental	Elémentaire de Lumière Majeur
+monsters	Greater Roc	Grand Rock
+monsters	Greater Vampire	Vampire majeur
+monsters	Greater Water Elemental	Elémentaire de l’Eau majeur
+monsters	Greater Wererat	Rat-garou majeur
+monsters	Greater Werewolf	Grand Loup-Garou
+monsters	Green Dragon	Dragon Vert
+monsters	Griffin	Griffon
+monsters	Guard	Garde
+monsters	Guardian of Flame	Gardien de Flammes
+monsters	Guardian of VARN	Gardien de Varn
+monsters	Harpy	Harpie
+monsters	Harpy Hag	Grande Harpie
+monsters	Harpy Queen	Reine Harpie
+monsters	Harpy Witch	Sorcière Harpie
+monsters	Hatchling	Alevin
+monsters	Head Hunter	Chasseur de Têtes
+monsters	Hobgoblin	Hobgobelin
+monsters	Horned Wyvern	Vouivre cornue
+monsters	Huge Spider	Araignée Titanesque
+monsters	Human Peasant	Paysan humain
+monsters	Hunting Griffin	Griffon de Combat
+monsters	Hydra	Hydre
+monsters	Inferno Bat	Chauve-Souris Infernale
+monsters	Initiate	Initié
+monsters	Initiate Monk	Moine Initié
+monsters	Initiate of the Sword	Initié de l'Epée
+monsters	Iron Gorgon	Gorgone de fer
+monsters	Journeyman Mage	Compagnon Mage
+monsters	Juggernaut	Force meurtrière
+monsters	King Cobra	Cobra Royal
+monsters	Large Rat	Grand Rat
+monsters	Lesser Air Elemental	Elémentaire de l’Air mineur
+monsters	Lesser Earth Elemental	Elémentaire de la Terre mineur
+monsters	Lesser Fire Elemental	Elémentaire du Feu mineur
+monsters	Lesser Light Elemental	Elémentaire de Lumière Mineur
+monsters	Lesser Water Elemental	Elémentaire de l’Eau mineur
+monsters	Lich	Liche
+monsters	Lich King	Roi Liche
+monsters	Lieutenant	Lieutenant
+monsters	Light Elemental	Elémentaire de Lumière
+monsters	Lightning Lizard	Lézard Electrique
+monsters	Lightning Rat	Rat de Tonnerre
+monsters	Lizard Archer	Archer Lézard
+monsters	Lizard Man	Lézard
+monsters	Lizard Wizard	Magicien Lézard
+monsters	Lizardman Captain	Capitaine homme-lézard
+monsters	Lizardman Farmer	Fermier homme-lézard
+monsters	Lizardman Peasant	Paysan homme-lézard
+monsters	Lizardman Sergeant	Sergent homme-lézard
+monsters	Lizardman Soldier	Soldat homme-lézard
+monsters	Lizardman Villager	Villageois homme-lézard
+monsters	Lycanthrope	Lycanthrope
+monsters	Maddening Eye	Œil de Folie
+monsters	Mage	Mage
+monsters	Magician	Mage
+monsters	Magog	Magog
+monsters	Magyar	Magyar
+monsters	Magyar Matron	Matrone Magyar
+monsters	Magyar Soldier	Soldat Magyar
+monsters	Manticore	Manticore 
+monsters	Marble Gargoyle	Gargouille de Marbre
+monsters	Master	Adepte
+monsters	Master Archer	Maître Archer
+monsters	Master Monk	Maître Moine
+monsters	Master Necromancer	Maître nécromancien
+monsters	Master of the Sword	Maître de l'Epée
+monsters	Master Swordsman	Maître d'Armes
+monsters	Master Thief	Maître Voleur
+monsters	Medusa	Méduse
+monsters	Medusa Enchantress	Méduse Enchanteresse
+monsters	Mega-Dragon	Méga-Dragon
+monsters	Mercenary	Mercenaire
+monsters	Mercenary Captain	Capitaine mercenaire
+monsters	Minicore	Jeune Manticore
+monsters	Minion Vampire	Vampire
+monsters	Minotaur	Minotaure
+monsters	Minotaur Battleleader	Chef de combat minotaure
+monsters	Minotaur Guard	Garde minotaure
+monsters	Minotaur Headsman	Guerrier Minotaure
+monsters	Minotaur King	Roi Minotaure
+monsters	Minotaur Lord	Seigneur Minotaure
+monsters	Minotaur Mage	Magicien Minotaure
+monsters	Minotaur Peasant	Paysan minotaure
+monsters	Minotaur Warrior	Guerrier minotaure
+monsters	Mist Hawk	Faucon de brume
+monsters	Monk	Moine
+monsters	Mountain Troll	Troll
+monsters	Mystic of Baa	Mystique de Baa
+monsters	Naga	Naga 
+monsters	Naga Queen	Reine naga
+monsters	Naga Warrior	Guerrier naga
+monsters	Necromancer	Nécromancien
+monsters	Nightmare	Cauchemar
+monsters	Noble Titan	Titan Noble
+monsters	Novice Monk	Moine Novice
+monsters	Obsidian Gargoyle	Gargouille d'Obsidienne
+monsters	Ogre	Ogre
+monsters	Ogre Brawler	Ogre perturbateur
+monsters	Ogre Chieftain	Chef Ogre
+monsters	Ogre Mage	Ogre mage 
+monsters	Ogre Mage Apprentice	Apprenti ogre mage
+monsters	Ogre Magi	Ogre magus
+monsters	Ogre Peasant	Paysan ogre
+monsters	Ogre Raider	Raideur Ogre
+monsters	Ogre Warleader	Chef de guerre ogre
+monsters	Ogre Warrior	Guerrier ogre
+monsters	Ooze	Limon
+monsters	Pack Leader	Chef de meute
+monsters	Patrol Unit	Unité de Patrouille
+monsters	Peasant	Paysanne
+monsters	Phoenix	Phœnix
+monsters	Piranha Shark	Requin Piranha
+monsters	Pirate	Pirate
+monsters	Pirate Magi	Pirate magus
+monsters	Pirate Seer	Devin pirate
+monsters	Pirate Wizard	Sorcier pirate
+monsters	Plane Guardian	Gardien du Monde
+monsters	Plane Overlord	Chef suprême du Monde
+monsters	Plane Protector	Protecteur du Monde
+monsters	Power Lich	Grand Liche
+monsters	Priest of Baa	Prêtre de Baa
+monsters	Priest of the Moon	Prêtre de la Lune
+monsters	Priest of the Sun	Prêtre du Soleil
+monsters	Queen Cobra	Reine Cobra
+monsters	Queen Dragonfly	Reine Guêpe Dragon
+monsters	Queen Medusa	Reine Méduse
+monsters	Queen of the Dead	Nécromancien Infernal
+monsters	Raider	Maraudeur
+monsters	Rat A	Rat A
+monsters	Rat B	Rat B
+monsters	Rat C	Rat C
+monsters	Ratman	Homme-rat
+monsters	Raven	Corbeau
+monsters	Reactor	Réacteur
+monsters	Red Dragon	Dragon Rouge
+monsters	Regnan Arbalester	Tireuse à l’arbalète regnane
+monsters	Regnan Archmage	Archimage regnan
+monsters	Regnan Bandit	Bandit regnan
+monsters	Regnan Battlemage	Mage de guerre regnan
+monsters	Regnan Brigadier	Brigadier regnan
+monsters	Regnan Crossbowman	Arbalétrière regnane
+monsters	Regnan Lieutenant	Lieutenant regnan
+monsters	Regnan Pirate	Pirate regnan
+monsters	Regnan Sorcerer	Envoûteur regnan
+monsters	Revenant	Revenant
+monsters	River Troll	Troll des Eaux
+monsters	Robber	Voleur
+monsters	Robert the Wise	Robert le Sage
+monsters	Roc	Rock
+monsters	Rock Beast	Bête de Roc
+monsters	Rogue	Brigand
+monsters	Rook	Freux
+monsters	Rotted Corpse	Macchabée
+monsters	Royal Griffin	Griffon Royal
+monsters	Ruby Dragon	Dragon de rubis
+monsters	Ruffian	Bandit
+monsters	Salamander	Salamandre 
+monsters	Sapphire Dragon	Dragon de saphir
+monsters	Sapphire Ooze	Limon de Saphir
+monsters	Scorpicore	Scorpicore
+monsters	Sea Monster	Monstre de Mer
+monsters	Sea Serpent	Serpent de Mer
+monsters	Sea Terror	Terreur des Mers
+monsters	Seeker Droid	Droïde Eclaireur
+monsters	Sentinel Droid	Droïde Sentinelle
+monsters	Sentinel of VARN	Sentinelle de Varn
+monsters	Serpentman	Homme-serpent
+monsters	Serpentman Elder	Homme-serpent aîné
+monsters	Serpentman Warrior	Guerrier homme-serpent
+monsters	Shade	Ombre
+monsters	Shapeshifter	Changeforme
+monsters	Skeletal Dragon	Dragon squelette
+monsters	Skeleton	Squelette
+monsters	Skeleton Archer	Archer squelette 
+monsters	Skeleton Bowman	Tireur à l’arc squelette
+monsters	Skeleton Hunter	Chasseur squelette
+monsters	Skeleton Knight	Chevalier Squelette
+monsters	Skeleton Lord	Seigneur Squelette
+monsters	Skeleton Warrior	Guerrier Squelette
+monsters	Smoke Gog	Gog de fumée
+monsters	Soldier	Soldat
+monsters	Soldier of Fortune	Soldat du destin
+monsters	Sorcerer	Sorcier
+monsters	Soul Sucker	Suceur d'Ame
+monsters	Speaker for the Dead	Nécromancien Démoniaque
+monsters	Specter	Spectre
+monsters	Spider	Araignée
+monsters	Sprite	Sylphe Mineure
+monsters	Stone Elemental	Pierreux
+monsters	Stone Gargoyle	Gargouille
+monsters	Storm Eagle	Aigle de tempête
+monsters	Storm Titan	Titan des Tempêtes
+monsters	Supreme Titan	Titan Suprême
+monsters	Swamp Troll	Troll des Marais
+monsters	Swordsman	Soldat
+monsters	Sylph	Sylphe
+monsters	Tempest	Tempête
+monsters	Terminator Unit	Terminateur
+monsters	Terrible Eye	Œil Terrible
+monsters	Terror	Terreur
+monsters	Thief	Voleur
+monsters	Thug	Brute
+monsters	Thunder Lizard	Lézard de Glace
+monsters	Thunderbird	Oiseau de tonnerre
+monsters	Titan	Titan
+monsters	Tolberti	Tolberti
+monsters	Tree	Arbre
+monsters	Triton	Triton 
+monsters	Triton Crusader	Croisé triton
+monsters	Triton Warrior	Guerrier triton
+monsters	Troglodyte Drone	Troglodyte
+monsters	Troglodyte Queen	Reine Troglodyte
+monsters	Troglodyte Soldier	Soldat Troglodyte
+monsters	Troll Chieftain	Petit chef troll
+monsters	Troll Clubman	Troll à massue
+monsters	Troll Peasant	Paysan troll
+monsters	Troll Warrior	Guerrier troll
+monsters	Twister	Tornade
+monsters	Undead Dragon	Dragon mort-vivant
+monsters	Unicorn	Licorne
+monsters	Unicorn Foal	Foal licorne
+monsters	Unicorn Herd Leader	Chef de troupe licorne
+monsters	Vampire	Vampire
+monsters	Vampire Bat	Chauve-Souris Vampire
+monsters	Vampire Minion	Serviteur vampire
+monsters	Venemous Spider	Araignée Vénéneuse
+monsters	Venomous Hydra	Hydre Venimeuse
+monsters	Veteran	Vétéran
+monsters	Walking Dead	Trépassé
+monsters	Warden of Fire	Gardien de Feu
+monsters	Warlock	Magicien
+monsters	Wasp Sentry	Sentinelle guêpe
+monsters	Wasp Warrior	Guerrière guêpe
+monsters	Wasp Worker	Guêpe travailleuse
+monsters	Water Beast	Bête d'Eau
+monsters	Water Elemental	Elémentaire de l’Eau
+monsters	Water Spirit	Esprit d'Eau
+monsters	Water Warlock	Géomancien de l'Eau
+monsters	Wererat	Rat-garou
+monsters	Werewolf	Loup-Garou
+monsters	Widowmaker	Veuve Noire
+monsters	Wight	Apparition
+monsters	Will O' Wisp	Feu follet
+monsters	Winged Serpent	Serpent ailé
+monsters	Wisp	Follet 
+monsters	Witch Doctor	Sorcier-Guérisseur
+monsters	Wizard	Magicien
+monsters	Wolfman	Homme-Loup
+monsters	Wraith	Ombre
+monsters	Wyrm	Wyrm
+monsters	Wyvern	Vouivre
+monsters	Young Basilisk	Jeune basilic
+monsters	Young Behemoth	Jeune Béhémoth
+monsters	Young Couatl	Jeune couatl
+monsters	Young Dragon	Jeune dragon
+monsters	Young Dragon Turtle	Jeune tortue-dragon
+monsters	Zombie	Zombie
+npcprof	Acolyte	Acolyte
+npcprof	Alchemist	Alchimiste
+npcprof	Apothecary	Apothicaire
+npcprof	Apprentice	Apprenti
+npcprof	Armorer	Armurier
+npcprof	Armorsmith	Armurier
+npcprof	Arms Master	Maître d’armes
+npcprof	Banker	Banquier
+npcprof	Bard	Barde
+npcprof	Barmaid	Serveuse
+npcprof	Barrister	Avocat
+npcprof	Beggar	Mendiant
+npcprof	Blacksmith	Forgeron
+npcprof	Brekish One-Fang	Brekish OneFang
+npcprof	Burglar	Cambrioleur
+npcprof	Captain	Capitaine
+npcprof	Carpenter	Charpentier
+npcprof	Cartographer	Cartographe
+npcprof	Chaplain	Chapelain
+npcprof	Charles Quixote	Charles Quixote
+npcprof	Chef	Chef
+npcprof	Child	Enfant
+npcprof	Chimney Sweep	Ramoneur
+npcprof	Clerk	Employé
+npcprof	Cobbler	Cordonnier
+npcprof	Cook	Cuisinier
+npcprof	Cooper	Tonnelier
+npcprof	Counselor	Conseiller
+npcprof	Diplomat	Diplomate
+npcprof	Ditch Digger	Terrassier
+npcprof	Dragon	Dragon
+npcprof	Duper	Dupeur
+npcprof	Dyson Leland	Dyson Leland
+npcprof	Enchanter	Enchanteur
+npcprof	Escaton	Escaton
+npcprof	Expert Healer	Expert guérisseur
+npcprof	Explorer	Explorateur
+npcprof	Factor	Intendant
+npcprof	Fallen Wizard	Sorcier déchu
+npcprof	Farmer	Fermier
+npcprof	Follower of Baa	Adepte de Baa
+npcprof	Fool	Imbécile
+npcprof	Gambler	Joueur
+npcprof	Gate Master	Maître de la porte
+npcprof	Guard	Garde
+npcprof	Guide	Guide
+npcprof	Guildmaster	Maître de Guilde
+npcprof	Gypsy	Gitan
+npcprof	Healer	Guérisseur
+npcprof	Herbalist	Herboriste
+npcprof	Horseman	Cavalier
+npcprof	Hunter	Chasseur
+npcprof	Initiate	Initié
+npcprof	Innkeep	Tenancier
+npcprof	Instructor	Instructeur
+npcprof	Jester	Bouffon
+npcprof	Laborer	Ouvrier
+npcprof	Locksmith	Serrurier
+npcprof	Magician	Magicien
+npcprof	Master Healer	Maître guérisseur
+npcprof	Merchant	Marchand
+npcprof	Miller	Meunier
+npcprof	Missionary	Missionnaire
+npcprof	Monk	Moine
+npcprof	Mystic	Mystique
+npcprof	Navigator	Navigateur
+npcprof	Negotiator	Négociateur
+npcprof	Noble	Noble
+npcprof	Overdune	Overdune
+npcprof	Pathfinder	Eclaireur
+npcprof	Peasant	Paysan
+npcprof	Piper	Joueur de pipeau
+npcprof	Pirate	Pirate
+npcprof	Porter	Concierge
+npcprof	Potter	Potier
+npcprof	Prelate	Prélat
+npcprof	Psychic	Médium
+npcprof	Quarter Master	Maître de quartier
+npcprof	Rustler	Voleur de bétail
+npcprof	Sage	Sage
+npcprof	Sailor	Marin
+npcprof	Sandro	Sandro
+npcprof	Scholar	Erudit
+npcprof	Scout	Eclaireur
+npcprof	Scribe	Scribe
+npcprof	Serf	Serf
+npcprof	Shopkeeper	Marchand
+npcprof	Smith	Forgeron
+npcprof	Smuggler	Contrebandier
+npcprof	Spell Master	Maître de sorts
+npcprof	Squire	Ecuyer
+npcprof	Stablemaster	Maître d'écurie
+npcprof	Stone Cutter	Tailleur de pierres
+npcprof	Tailor	Tailleur
+npcprof	Teacher	Instructeur
+npcprof	Tinker	Ferrailleur
+npcprof	Tracker	Traqueur
+npcprof	Trader	Négociant
+npcprof	Trapper	Trappeur
+npcprof	Water Master	Maître de l’eau
+npcprof	Weapons Master	Maître d’armes
+npcprof	Weaver	Tisserand
+npcprof	Wererat Smuggler	Rat-garou contrebandier
+npcprof	Wind Master	Maître du vent
+reputation	Angelic	Angélique
+reputation	Average	Moyen
+reputation	Bad	Mauvais
+reputation	Despicable	Abject
+reputation	Glorious	Glorieux
+reputation	Honorable	Honorable
+reputation	Monstrous	Monstrueux
+reputation	Neutral	Neutre
+reputation	Notorious	Célèbre
+reputation	Respectable	Respectable
+reputation	Saintly	Saint
+reputation	Vile	Ignoble
+skilldes	Air	Air
+skilldes	Air Magic	Magie de l’Air
+skilldes	Alchemy	Alchimie
+skilldes	Armsmaster	Maître d’armes
+skilldes	Axe	Hache
+skilldes	Blaster	Blaster
+skilldes	Body	Corps
+skilldes	Body Building	Musculation
+skilldes	Body Magic	Magie du Corps
+skilldes	Bodybuilding	Musculation
+skilldes	Bow	Arc
+skilldes	Chain	Cotte de mailles
+skilldes	Dagger	Dague
+skilldes	Dark	Ombre
+skilldes	Dark Elf Ability	Apt. elfes de l’Ombre
+skilldes	Dark Magic	Magie de l’Ombre
+skilldes	Diplomacy	Diplomatie
+skilldes	Disarm Trap	Désamorcer
+skilldes	Disarm Traps	Désamorcer
+skilldes	Dodging	Esquive
+skilldes	Dragon Ability	Aptitude des dragons
+skilldes	Earth	Terre
+skilldes	Earth Magic	Magie de la Terre
+skilldes	Fire	Feu
+skilldes	Fire Magic	Magie du Feu
+skilldes	Identify	Identifier
+skilldes	Identify Item	Identifier objet
+skilldes	Identify Monster	Identifier monstre
+skilldes	Learning	Apprentissage
+skilldes	Leather	Cuir
+skilldes	Light	Lumière
+skilldes	Light Magic	Magie de la Lumière
+skilldes	Mace	Masse
+skilldes	Meditation	Méditation
+skilldes	Merchant	Marchandage
+skilldes	Mind	Esprit
+skilldes	Mind Magic	Magie de l’Esprit
+skilldes	Perception	Perception
+skilldes	Plate	Armure articulée
+skilldes	Regeneration	Régénération
+skilldes	Repair	Réparer
+skilldes	Repair Item	Réparer objet
+skilldes	Shield	Bouclier
+skilldes	Spear	Lance
+skilldes	Spirit	Spiritisme
+skilldes	Spirit Magic	Magie du Spiritisme
+skilldes	Staff	Bâton
+skilldes	Stealing	Vol à la tire
+skilldes	Sword	Epée
+skilldes	Thievery	Vol
+skilldes	Unarmed	Mains nues
+skilldes	Vampire Ability	Aptitude des vampires
+skilldes	Water	Eau
+skilldes	Water Magic	Magie de l’Eau
+spcitems	Antique	Antique
+spcitems	Assassins'	des assassins
+spcitems	Barbarians'	des barbares
+spcitems	Demon Slayer	Tueur de Démon
+spcitems	Demon Slaying	Lux Feris
+spcitems	Dragon Slayer	Tueur de Dragon
+spcitems	Dragon Slaying	Massacre de dragons
+spcitems	Elemental Slaying	Massacre d’élémentaires
+spcitems	Elf Slaying	Antisylvanem
+spcitems	Monks'	des moines
+spcitems	of Acid	d’acide
+spcitems	of Air Magic	de magie de l’Air
+spcitems	of Alarms	d’alarme
+spcitems	of Antidotes	d’antidotes
+spcitems	of Body Magic	de magie du Corps
+spcitems	of Carnage	de carnage
+spcitems	of Cold	de froid
+spcitems	of Dark Magic	de magie de l’Ombre
+spcitems	of Darkness	de l’obscurité
+spcitems	Of David	de David
+spcitems	of Doom	du destin
+spcitems	of Earth	de la terre
+spcitems	of Earth Magic	de magie de la Terre
+spcitems	of Feather Falling	de poids plume
+spcitems	of Fire	de feu
+spcitems	of Fire Magic	de magie du Feu
+spcitems	of Flame	de flammes
+spcitems	of Force	de force
+spcitems	of Freedom	de liberté
+spcitems	of Frost	de gel
+spcitems	of Ice	de glace
+spcitems	of Identifying	d’identification
+spcitems	of Immunity	d’immunité
+spcitems	of Infernos	d’inferno
+spcitems	of Life	de vie
+spcitems	of Light Magic	de magie de la Lumière
+spcitems	of Lightning	d’éclair
+spcitems	of Mana	de mana
+spcitems	of Mind Magic	de magie de l’Esprit
+spcitems	of Plenty	d’abondance
+spcitems	of Poison	de poison
+spcitems	of Power	de puissance
+spcitems	of Protection	de protection
+spcitems	of Recovery	de récupération
+spcitems	of Regeneration	de régénération
+spcitems	of Sanity	de santé mentale
+spcitems	of Shielding	de bouclier
+spcitems	of Sparks	d’étincelles
+spcitems	of Spirit Magic	de magie du Spiritisme
+spcitems	of Swiftness	de Rapidité
+spcitems	of The Dragon	du dragon
+spcitems	of The Eclipse	de l’Eclipse
+spcitems	of The Gods	des dieux
+spcitems	of The Golem	du golem
+spcitems	of The Medusa	de la méduse
+spcitems	of The Moon	de la lune
+spcitems	of the Ocean	de l’océan
+spcitems	of The Phoenix	du phœnix
+spcitems	of The Sky	du ciel
+spcitems	of The Stars	des étoiles
+spcitems	of the Storm	de la tempête
+spcitems	of The Sun	du soleil
+spcitems	of The Troll	du troll
+spcitems	of The Unicorn	de la licorne
+spcitems	of Thievery	de vol
+spcitems	of Thunderbolts	de coups de tonnerre
+spcitems	of Venom	de venin
+spcitems	of Water Magic	de magie de l’Eau
+spcitems	of Water Walking	de marche sur l’eau
+spcitems	Ogre Slaying	Massacre d’ogres
+spcitems	Rogues	Bandits
+spcitems	Rogues'	des crapules
+spcitems	Swift	Rapidité
+spcitems	Thieves'	des voleurs
+spcitems	Undead Slaying	Massacre de morts-vivants
+spcitems	Vampiric	vampirique
+spcitems	Warriors	Guerriers
+spcitems	Warriors'	des guerriers
+spcitems	Wizards	Magiciens
+spcitems	Wizards'	des sorciers
+spellgroupshort	Air	Air
+spellgroupshort	Body	Corps
+spellgroupshort	Cold	Froid
+spellgroupshort	Dark	Ombre
+spellgroupshort	Earth	Terre
+spellgroupshort	Electricity	Electricité
+spellgroupshort	Fire	Feu
+spellgroupshort	Light	Lumière
+spellgroupshort	Mind	Esprit
+spellgroupshort	Spirit	Spiritisme
+spellgroupshort	Water	Eau
+spells	Acid Burst	Giclée d'acide
+spells	Air Res	Prot. Air
+spells	Air Resist	Prot. Air
+spells	Air Resistance	Protection contre l’Air
+spells	Armageddon	Armageddon
+spells	Awaken	Réveil
+spells	Berserk	Folie furieuse
+spells	Blades	Lames
+spells	Bless	Bénédiction
+spells	Blind	Aveuglement
+spells	Body Res	Prot. Corps
+spells	Body Resist	Prot.  Corps
+spells	Body Resistance	Protection contre le Corps
+spells	Buffet	Coup d’aile
+spells	Charm	Charme
+spells	Cntrl Undead	Cntrl m-viv
+spells	Cold Beam	Rayon de Froid
+spells	Control Undead	Contrôler morts-vivants
+spells	Create Food	Créer Rations
+spells	Cure Disease	Soigner maladie
+spells	Cure Insane	Soigner folie
+spells	Cure Insanity	Soigner folie
+spells	Cure Paralysis	Soigner paralysie
+spells	Cure Plyze	Soin Paral.
+spells	Cure Poison	Soigner poison
+spells	Cure Weak	Soigner faib.
+spells	Cure Weakness	Soigner faiblesse
+spells	Cure Wound	S. Blessure
+spells	Cure Wounds	Soigner Blessures
+spells	Dark Contain	Em. Sombre
+spells	Dark Containment	Emprisonnement Sombre
+spells	Dark Grasp	Prise de l'obscurité
+spells	Darkfire	Flèche de l’ombre
+spells	Darkfire Bolt	Flèche de l’ombre
+spells	Day -o- Gods	Jour dieux
+spells	Day of Prot	J. Protection
+spells	Day of Protection	Jour de protection
+spells	Day of the Gods	Jour des dieux
+spells	Deadly Swarm	Essaim mortel
+spells	Death Blossom	Eclosion mortelle
+spells	Death Blsm	Ecl. mort.
+spells	Dest Undead	Détr. morts-vivants
+spells	Destroy Undead	Détruire morts-vivants
+spells	Detect Life	Détection de la vie
+spells	Dispel Magic	Dissipation
+spells	Divine Inter	Inter. divine
+spells	Divine Intervention	Intervention divine
+spells	Drag Breath	Souffle drag.
+spells	Dragon Breath	Souffle du dragon
+spells	Earth Res	Prot. Terre
+spells	Earth Resist	Prot. Terre
+spells	Earth Resistance	Protection contre la Terre
+spells	Enchant Item	Enchanter objet
+spells	Enslave	Esclavage
+spells	Fate	Destin
+spells	Fear	Peur
+spells	Feather Fall	Poids plume
+spells	Feeblemind	Esprit Faible
+spells	Finger Death	Doigt de Mort
+spells	Finger of Death	Doigt de la Mort
+spells	Fire Aura	Aura de feu
+spells	Fire Blast	Tempête de Flammes
+spells	Fire Bolt	Flèche de feu
+spells	Fire Res	Prot. Feu
+spells	Fire Resistance	Protection contre le Feu
+spells	Fire Spike	Piège de feu
+spells	Fireball	Boule de feu
+spells	First Aid	Premiers Soins
+spells	Flame Arrow	Flèche de Feu
+spells	Flame Blast	Boule de flammes
+spells	Flight	Envol
+spells	Fly	Vol
+spells	Flying Fist	Poing volant
+spells	Glamour	Séduction
+spells	Gldn Touch	Midas
+spells	Golden Touch	Midas
+spells	Guard Angel	Ange Gardien
+spells	Guardian Angel	Ange Gardien
+spells	Hammerhand	Poings d’acier
+spells	Hammerhands	Poings d'acier
+spells	Harm	Blessure
+spells	Haste	Hâte
+spells	Heal	Premiers soins
+spells	Healing	Soins
+spells	Healing Touch	Soins
+spells	Heroism	Héroïsme
+spells	Hour of Power	Heure de pouvoir
+spells	Hour Power	H. de Pouvoir
+spells	Ice Blast	Boule de glace
+spells	Ice Bolt	Flèche de glace
+spells	Immolation	Immolation
+spells	Implosion	Implosion
+spells	Incinerate	Incinération
+spells	Inferno	Inferno
+spells	Invisibility	Invisibilité
+spells	Jump	Sauter
+spells	Levitate	Lévitation
+spells	Lifedrain	Absorption de vie
+spells	Light Bolt	Flèche de lumière
+spells	Lightning	C. foudre
+spells	Lightning Bolt	Coup de foudre
+spells	Lloyd's	Lloyd
+spells	Lloyd's Beacon	Balise de Lloyd
+spells	Lucky Day	Jour de chance
+spells	Magic Arrow	Flèche Magique
+spells	Mass Curse	Malédiction en Masse
+spells	Mass Distort	Distors. mass.
+spells	Mass Distortion	Distorsion de masse
+spells	Mass Fear	Peur massive
+spells	Meditation	Méditation
+spells	Meteor Shower	Pluie de météores
+spells	Meteor Shwr	Pluie météor.
+spells	Mind Blast	Attaque mentale
+spells	Mind Res	Prot. Esprit
+spells	Mind Resist	Prot. Esprit
+spells	Mind Resistance	Protection contre l'Esprit
+spells	Mistform	Forme de brume
+spells	Moon Ray	Rayon de Lune
+spells	Pain Reflect	Loi talion
+spells	Pain Reflection	Loi du talion
+spells	Paralyze	Paralysie
+spells	Poison Spr	Gicl. poison
+spells	Poison Spray	Giclée de poison
+spells	Power	Puissance
+spells	Power Cure	Soin puissant
+spells	Precision	Précision
+spells	Preservation	Préservation
+spells	Pris Light	Lum. prism.
+spells	Prismatic Light	Lumière prismatique
+spells	Prot Cold	Prot. froid
+spells	Prot Elec	Prot. élec.
+spells	Prot Fire	Prot. feu
+spells	Prot Magic	Prot. magie
+spells	Prot Poison	Prot. poison
+spells	Protection from Cold	Prot. Contre le Froid
+spells	Protection from Electricity	Prot. Contre l’Electricité
+spells	Protection from Fire	Prot. Contre le Feu
+spells	Protection from Magic	Protection contre la magie
+spells	Protection from Poison	Prot. Contre le Poison
+spells	Psy - Shock	Choc psy.
+spells	Psychic Shock	Choc psychique
+spells	Raise Dead	Rappel à la vie
+spells	Reanimate	Réanimation
+spells	Recharge	Recharger
+spells	Recharge Item	Recharger objet
+spells	Regeneration	Régénération
+spells	Remove Curse	Exorcisme
+spells	Remove Fear	Annuler peur
+spells	Resurrection	Résurrection
+spells	Ring of Fire	Anneau de Feu
+spells	Rmv. Curse	Exorc.
+spells	Rock Blast	Rocher explosif
+spells	Sacrifice	Sacrifice
+spells	Shared Life	Partage de vie
+spells	Shield	Bouclier
+spells	Shrapmetal	Eclats
+spells	Shrink Ray	Rayon réduc.
+spells	Shrinking Ray	Rayon réducteur
+spells	Slow	Lent
+spells	Souldrinker	Buveur d'âmes
+spells	Sparks	Etincelles
+spells	Speed	Vitesse
+spells	Spirit Arrow	Flèche Spirituelle
+spells	Spirit Lash	Souffle spirituel
+spells	Starburst	Explosion stellaire
+spells	Static Charge	Charge Statique
+spells	Static Chrg	Charge Stat.
+spells	Stone - Flesh	Pierre en chair
+spells	Stone Skin	Peau de pierre
+spells	Stone to Flesh	Pierre en chair
+spells	Stoneskin	Peau de pierre
+spells	Stun	Etourdir
+spells	Summon	Invoquer
+spells	Summon Elemental	Invocation d'un Elémentaire
+spells	Summon Wisp	Invoquer feu follet
+spells	Sun Ray	Rayon Solaire
+spells	Sunray	Rayon de soleil
+spells	Swarm	Essaim
+spells	Telekinesis	Télékinésie
+spells	Telepathy	Télépathie
+spells	Torch Light	Torche
+spells	Town Portal	Porte de rappel
+spells	Toxic Cloud	Nuage toxique
+spells	Travel Boon	Fav. voyag.
+spells	Travelers' Boon	Faveur des voyageurs
+spells	Turn - Stone	Statufier
+spells	Turn to Stone	Statufier
+spells	Turn Undead	Repousser morts-vivants
+spells	Vamp Weap	Arme vamp.
+spells	Vampiric Weapon	Arme vampirique
+spells	Water Res	Prot. Eau
+spells	Water Resist	Prot. Eau
+spells	Water Resistance	Protection contre l’Eau
+spells	Water Walk	Marcher sur l'eau
+spells	Wing Buffet	Coup d’aile
+spells	Wizard Eye	Œil du sorcier
+spells vampire	Charm	Charme
+stats	AC	CA
+stats	Accuracy	Précision
+stats	Age	Age
+stats	Air	Air
+stats	Armor Class	Classe d'armure
+stats	Attack	Attaquer
+stats	Attack Bonus	Bonus d’attaque
+stats	Attack Damage	Dégâts d’attaque
+stats	Body	Corps
+stats	Class	Classe
+stats	Cold	Froid
+stats	Cond	Cond.
+stats	Condition	Condition
+stats	Dmg	Dgts
+stats	Earth	Terre
+stats	Electricity	Electricité
+stats	Endurance	Endurance
+stats	Exp.	Exp.
+stats	Experience	Expérience
+stats	Fame	Renommée
+stats	Fire	Feu
+stats	Hit Points	Points de santé
+stats	HP	Pts santé
+stats	Intellect	Intelligence
+stats	Level	Niveau
+stats	Luck	Chance
+stats	Magic	Magic / Magie
+stats	Might	Force
+stats	Mind	Esprit
+stats	Name	Nom
+stats	Personality	Personnalité
+stats	Points	Points
+stats	Poison	Poison
+stats	QSpell	Sort Rapide
+stats	Quick Spell	Sort Rapide
+stats	Reputation	Réputation
+stats	Shoot Bonus	Bonus de tir
+stats	Shoot Damage	Dégâts de tir
+stats	Skill Points	Points de compétence
+stats	Skills	Compétences
+stats	SP	Pts sort
+stats	Speed	Vitesse
+stats	Spell Points	Points de sort
+stats	Water	Eau
+stditems	of Air Resistance	de Protection contre l’Air
+stditems	of Alchemy	d’Alchimie
+stditems	of Arms	d’armes
+stditems	of Body Resistance	de Protection contre le Corps
+stditems	of Charm	de charme
+stditems	of Cold Resistance	de Résistance au Froid
+stditems	of Defense	de défense
+stditems	of Disarming	de Désamorcer
+stditems	of Dodging	d’Esquive
+stditems	of Earth Resistance	de Protection contre la Terre
+stditems	of Elec Resistance	de Résistance à l'Electricité
+stditems	of Fire Resistance	de Protection contre le Feu
+stditems	of great Might	
+stditems	of Health	de santé
+stditems	of Items	d’objets
+stditems	of Luck	de chance
+stditems	of Magic	de magie
+stditems	of Might	de force
+stditems	of Mind Resistance	de Protection contre l’Esprit
+stditems	of Monsters	de monstres
+stditems	of Poison Resistance	de Résistance au Poison
+stditems	of Precision	de dextérité
+stditems	of Speed	de vitesse
+stditems	of Stealing	de Vol à la tire
+stditems	of the Fist	du poing
+stditems	of Thought	de pensée
+stditems	of Vigor	de vitalité
+stditems	of Water Resistance	de Protection contre l’Eau

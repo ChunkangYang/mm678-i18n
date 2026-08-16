@@ -249,7 +249,12 @@ def source1stLang2MsgidList(globalLineDict):
 # translations - stable.
 def canonicalizeMsgids(globalLineDict):
 	canon = {}
-	for filePath in globalLineDict:
+	# when the same string appears in several games in cosmetically
+	# different forms, the NEWEST game's form becomes the canonical msgid
+	# (mmmerge > mm8 > mm7 > mm6)
+	gamePriority = {'mmmerge': 0, 'mm8': 1, 'mm7': 2, 'mm6': 3}
+	for filePath in sorted(globalLineDict,
+			key = lambda p: (gamePriority.get(p.parts[0], 9), str(p).lower())):
 		for lineDict in globalLineDict[filePath]:
 			if 'msgidList' not in lineDict:
 				continue

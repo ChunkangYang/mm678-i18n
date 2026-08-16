@@ -65899,14 +65899,6 @@ msgctxt "location"
 msgid "The Walls of Mist"
 msgstr "迷雾之墙"
 
-#: mmmerge/Data/Text localization/LANG_MapStats.txt.py:96
-#: mm7/DATA/10LocLANG.events/MAPSTATS.TXT.py:44
-#: mmmerge/Data/10LocLANG.T/7out13.STR.py:27
-#: mm7/DATA/10LocLANG.events/Out13.STR.py:27
-msgctxt "location"
-msgid "The Mercenary Guild"
-msgstr "雇佣兵行会"
-
 #: mmmerge/Data/Text localization/LANG_MapStats.txt.py:93
 #: mm7/DATA/10LocLANG.events/MAPSTATS.TXT.py:45
 msgctxt "location"
@@ -125205,3 +125197,15 @@ msgstr "耐力精髓药剂一次性增加15点角色的耐力，减5点精确。
 msgctxt "scroll"
 msgid "Essence of Speed increases a character’s Speed by 15, while subtracting 5 from his Personality. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
 msgstr "速度精髓药剂一次性增加15点角色的速度，减5点个性。这种药剂需要至少6个试剂作为配方，这包括任意某种颜色的试剂4个，外加另两种颜色的试剂各一个。"
+
+#: mmmerge/Data/Text localization/LANG_MapStats.txt.py:96
+#: mm7/DATA/10LocLANG.events/MAPSTATS.TXT.py:44
+#: mmmerge/Data/10LocLANG.T/7out13.STR.py:27
+#: mm7/DATA/10LocLANG.events/Out13.STR.py:27
+msgctxt "location"
+msgid "The Mercenary Guild "
+msgstr "雇佣兵行会"
+
+#~ msgctxt "location"
+#~ msgid "The Mercenary Guild"
+#~ msgstr "雇佣兵行会"

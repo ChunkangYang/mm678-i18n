@@ -1,0 +1,2537 @@
+# GENERATED - do not edit translations here. Regenerate with:
+#   python tools/build_glossary.py
+# Term selection lives in references/glossary/glossary-terms.tsv;
+# the translations are looked up in translations/ja/.../mm678.po.
+# Columns: msgctxt <TAB> English <TAB> ja
+autonote or awards	Accuracy Boost (White) = Orange + Yellow and Orange Layered	「器用度」増強（白） 
+　= オレンジ + 黄・オレンジ
+autonote or awards	Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered	エアレジスタンス（白） 
+　= 赤・オレンジ + 青・紫
+autonote or awards	Awaken (Green) = Yellow + Blue	覚醒（緑）
+　= 黄 + 青
+autonote or awards	Bless (Red and Green Layered) = Red + Green	ブレス（赤・緑）
+　= 赤 + 緑
+autonote or awards	Bless (White) = Purple + Blue	
+autonote or awards	Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered	ボディーレジスタンス（白）
+　= 青・緑 + 黄・オレンジ
+autonote or awards	Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	触媒（グレー） = キノコ + あきびん。
+autonote or awards	Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	触媒（グレー） = キノコ + あきびん。
+autonote or awards	Cure Disease (Orange) = Yellow + Red	病魔撃退（オレンジ）
+　= 黄 + 赤
+autonote or awards	Cure Insanity (Orange and Green Layered) = Orange + Green	キュアインサニティ（オレンジ・緑） 
+　= オレンジ + 緑
+autonote or awards	Cure Paralysis (White) = Green + Yellow and Orange Layered	キュアパラライズ（白） 
+　= 緑 + 黄・オレンジ
+autonote or awards	Cure Paralysis (White) = Orange + Yellow and Green Layered	キュアパラライズ（白）
+　= オレンジ + 黄・緑
+autonote or awards	Cure Poison (Purple) = Blue + Red	解毒（紫）
+　= 青 + 赤
+autonote or awards	Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.	強壮（黄） = ポピースナップ + あきびん。
+autonote or awards	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle	
+autonote or awards	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.	傷薬（赤） = ウィドウズウィープス + あきびん。
+autonote or awards	Divine Boost = Divine Power + Any attribute boost potion.	
+autonote or awards	Divine Cure (Black) = Restoration + Orange	
+autonote or awards	Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered	奇跡の治癒（白） 
+　= 赤・オレンジ + 黄・オレンジ
+autonote or awards	Divine Magic (Black) = Super Resistance + Green	
+autonote or awards	Divine Power (Black) = Extreme Energy + Purple	
+autonote or awards	Divine Power (White) = Blue and Green Layered + Yellow and Green Layered	奇跡の力（白） 
+　= 青・緑 + 黄・緑
+autonote or awards	Divine Protection = Divine Cure + Any resistance potion.	
+autonote or awards	Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered	奇跡の回復（白） 
+　= 青・紫 + 黄・オレンジ
+autonote or awards	Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered	奇跡の回復（白）
+　= 赤・オレンジ + 青・緑
+autonote or awards	Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered	奇跡の回復（白） 
+　= 赤・紫 + 黄・緑
+autonote or awards	Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)	
+autonote or awards	Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered	アースレジスタンス（白）
+　= 赤・紫 + 黄・オレンジ
+autonote or awards	Endurance Boost (White) = Purple + Blue and Purple Layered	「耐久力」増強（白）
+　= 紫 + 青・紫
+autonote or awards	Energy (Yellow) = Poppysnaps + Empty Bottle	
+autonote or awards	Essence of Accuracy (Black) = Bless + Yellow	
+autonote or awards	Essence of Accuracy = Cure Insanity + Stoneskin	
+autonote or awards	Essence of Endurance (Black) = Supreme Protection + Yellow	
+autonote or awards	Essence of Endurance = Remove Curse + Recharge Item	
+autonote or awards	Essence of Intellect (Black) = Stone Skin + Blue	
+autonote or awards	Essence of Intellect = Remove Curse + Shield	
+autonote or awards	Essence of Luck (Black) = Super Resistance + Purple	
+autonote or awards	Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin	
+autonote or awards	Essence of Might (Black) = Heroism + Red	
+autonote or awards	Essence of Might = Remove Fear + Heroism	
+autonote or awards	Essence of Personality (Black) = Restoration + Blue	
+autonote or awards	Essence of Personality = Remove Fear + Haste	
+autonote or awards	Essence of Speed (Black) = Haste + Red	
+autonote or awards	Essence of Speed = Cure Insanity + Harden Item	
+autonote or awards	Extreme Energy (White) = Orange + Yellow	
+autonote or awards	Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered	ファイアーレジスタンス（白）
+　= 赤・オレンジ + 黄・緑
+autonote or awards	Flaming Potion (White) = Green + Red and Orange Layered	炎のポーション（白） 
+　= 緑 + 赤・オレンジ
+autonote or awards	Flaming Potion (White) = Purple + Yellow and Orange Layered	炎のポーション（白） 
+　= 紫 + 黄・オレンジ
+autonote or awards	Freezing Potion (White) = Green + Red and Purple Layered	氷のポーション（白）
+　= 緑 + 赤・紫
+autonote or awards	Freezing Potion (White) = Orange + Blue and Purple Layered	氷のポーション（白） 
+　= オレンジ + 青・紫
+autonote or awards	Harden Item (Yellow and Green Layered) = Yellow + Green	アイテム強化（黄・緑）
+　= 黄 + 緑
+autonote or awards	Haste (Red and Orange Layered) = Red + Orange	ヘイスト（赤・オレンジ）
+　= 赤 + オレンジ
+autonote or awards	Haste (White) = Green + Yellow	
+autonote or awards	Heroism (Red and Purple Layered) = Red + Purple	ヒロイズム（赤・紫）
+　= 赤 + 紫
+autonote or awards	Heroism (White) = Orange + Red	
+autonote or awards	Intellect Boost (White) = Green + Yellow and Green Layered	「知性」増強（白） 
+　= 緑 + 黄・緑
+autonote or awards	Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered	「運」増強（白）
+　= 赤・紫 + 青・紫
+autonote or awards	Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered	「運」増強（白）
+　= 赤・紫 + 青・紫
+autonote or awards	Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.	魔力回復（青） = フィルマの根 + あきびん。
+autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle	
+autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.	魔力回復（青） = フィルマの根 + あきびん。
+autonote or awards	Might Boost (White) = Purple + Red and Purple Layered	「力」増強（白）
+　= 紫 + 赤・紫
+autonote or awards	Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered	マインドレジスタンス（白）
+　= 赤・紫 + 青・緑
+autonote or awards	Noxious Potion (White) = Orange + Blue and Green Layered	毒のポーション（白）
+　= オレンジ + 青・緑
+autonote or awards	Noxious Potion (White) = Purple + Yellow and Green Layered	毒のポーション（白）
+　= 紫 + 黄・緑
+autonote or awards	Personality Boost (White) = Green + Blue and Green Layered	「カリスマ」増強（白）
+　= 緑 + 青・緑
+autonote or awards	Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity	
+autonote or awards	Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.	
+autonote or awards	Preservation (Blue and Orange Layered) = Blue + Orange	プリザベーション（青・オレンジ）
+　= 青 + オレンジ
+autonote or awards	Protection (Orange) = Yellow + Red	
+autonote or awards	Protection from Magic = Cure Insanity + Bless	
+autonote or awards	Protection from Magic = Remove Curse + Water Breathing	
+autonote or awards	Protection from Magic = Remove Fear + Preservation	
+autonote or awards	Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)	純粋なる「器用度」（黒）
+　= 緑 + 「器用度」増強（白）
+autonote or awards	Pure Air Resistance = Essence of Luck + Air Resistance	
+autonote or awards	Pure Body Resistance = Essence of Luck + Body Resistance	
+autonote or awards	Pure Earth Resistance = Essence of Luck + Earth Resistance	
+autonote or awards	Pure Endurance (Black) = Green Potion + Endurance Boost (White)	純粋なる「耐久力」（黒）
+　= 緑 + 「耐久力」増強（白）
+autonote or awards	Pure Fire Resistance = Essence of Luck + Fire Resistance	
+autonote or awards	Pure Intellect (Black) = Orange Potion + Intellect Boost (White)	純粋なる「知性」（黒）
+　= オレンジ + 「知性」増強（白）
+autonote or awards	Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)	純粋なる「運」（黒） 
+　= 黄・オレンジ + 風のポーション（白）
+autonote or awards	Pure Might (Black) = Orange Potion + Might Boost (White)	純粋なる「力」（黒）
+　= オレンジ + 「力」増強（白）
+autonote or awards	Pure Mind Resistance = Essence of Luck + Mind Resistance	
+autonote or awards	Pure Personality (Black) = Purple Potion + Personality Boost (White)	純粋なる「カリスマ」（黒） 
+　= 紫 + 「カリスマ」増強（白）
+autonote or awards	Pure Speed (Black) = Purple Potion + Speed Boost (White)	純粋なる「速さ」（黒） 
+　= 紫 + 「速さ」増強（白）
+autonote or awards	Pure Water Resistance = Essence of Luck + Water Resistance	
+autonote or awards	Recharge Item (Blue and Green Layered) = Blue + Green	リチャージ アイテム（青・緑）
+　= 青 + 緑
+autonote or awards	Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)	若返り（黒）
+　= 青・オレンジ + 奇跡の回復（白）
+autonote or awards	Rejuvenation (Black) = Extreme Energy + Green	
+autonote or awards	Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)	若返り（黒）
+　= 赤・緑 + 奇跡の回復（白）
+autonote or awards	Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)	若返り（黒） 
+　= 黄・紫 + 奇跡の回復（白）
+autonote or awards	Remove Curse (Purple and Green Layered) = Purple + Green	リムーブ カース（紫・緑） 
+= 紫 + 緑
+autonote or awards	Remove Fear (Orange and Purple Layered) = Orange + Purple	リムーブ フィア（オレンジ・紫） 
+　= オレンジ + 紫
+autonote or awards	Resistance (Green) = Yellow + Blue	
+autonote or awards	Restoration(White) = Purple + Green	
+autonote or awards	Shield (Blue and Purple Layered) = Blue + Purple	シールド（青・紫）
+　= 青 + 紫
+autonote or awards	Shocking Potion (White) = Orange + Red and Purple Layered	雷のポーション（白）
+　= オレンジ + 赤・紫
+autonote or awards	Shocking Potion (White) = Purple + Red and Orange Layered	雷のポーション（白） 
+　= 紫 + 赤・オレンジ
+autonote or awards	Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)	スレイヤー（黒） 
+　= 青・紫 + 炎のポーション（白）
+autonote or awards	Speed Boost (White) = Orange + Red and Orange Layered	「速さ」増強（白）
+　= オレンジ + 赤・オレンジ
+autonote or awards	Stone Skin (White) = Orange + Blue	
+autonote or awards	Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)	ストーン トゥ フレッシュ（黒）
+　= 赤・紫 + キュアパラライズ（白）
+autonote or awards	Stoneskin (Yellow and Orange Layered) = Yellow + Orange	ストーン スキン（黄・オレンジ）
+　= 黄 + オレンジ
+autonote or awards	Super Resistance (White) = Green + Blue	
+autonote or awards	Supreme Protection (White) = Orange + Green	
+autonote or awards	Swift Potion (White) = Green + Blue and Purple Layered	風のポーション（白） 
+　= 緑 + 青・紫
+autonote or awards	Swift Potion (White) = Purple + Blue and Green Layered	風のポーション（白） 
+　= 紫 + 青・緑
+autonote or awards	Water Breathing (Yellow and Purple Layered) = Yellow + Purple	水中呼吸（黄・紫）
+　= 黄 + 紫
+autonote or awards	Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered	ウォーターレジスタンス（白）
+　= 青・紫 + 黄・緑
+class	Arch Druid	アークドルイド
+class	Arch Mage	Arch Mage
+class	Archer	アーチャー
+class	Assassin	アサシン
+class	Battle Mage	
+class	Black Knight	ブラックナイト
+class	Bounty Hunter	バウンティーハンター
+class	Cavalier	キャバリア
+class	Champion	チャンピオン
+class	Cleric	クレリック
+class	Crusader	クルセイダー
+class	Dark Elf	ダークエルフ
+class	Dark Elf Patriarch	パトリアーク
+class	Dragon	ドラゴン
+class	Druid	ドルイド
+class	Great Druid	Great Druid
+class	Great Wyrm	グレートウィルム
+class	Hero	ヒーロー
+class	High Priest	
+class	Hunter	猟師
+class	Initiate	イニシエイト
+class	Knight	ナイト
+class	Lich	リッチ
+class	Master	Master
+class	Master Archer	弓の達人
+class	Master Necromancer	マスター
+ネクロマンサー
+class	Master Wizard	
+class	Minotaur	ミノタウロス
+class	Minotaur Lord	ミノタウロスロード
+class	Monk	モンク
+class	Necromancer	ネクロマンサー
+class	Ninja	ニンジャ
+class	Nosferatu	ノスフェラトゥ
+class	Paladin	パラディン
+class	Patriarch	パトリアーク
+class	Peasant	一般人
+class	Priest	プリースト
+class	Priest of Light	サンプリースト
+class	Priest of the Dark	Priest of the Dark
+class	Priest of the Light	Priest of the Light
+class	Priest of the Sun	サンプリースト
+class	Ranger	Ranger
+class	Ranger Lord	Ranger Lord
+class	Rogue	ローグ
+class	Sniper	スナイパー
+class	Sorcerer	ソーサラー
+class	Spy	スパイ
+class	Thief	盗賊
+class	Troll	トロール
+class	Vampire	ヴァンパイア
+class	Villain	ヴィレイン
+class	War Troll	ウォートロール
+class	Warlock	ウォーロック
+class	Warrior Mage	ウォリアーメイジ
+class	Wizard	ウィザード
+condition	Afraid	恐怖
+condition	Asleep	睡眠
+condition	Cursed	呪い
+condition	Dead	死亡
+condition	Diseased	病気
+condition	Drunk	泥酔
+condition	Eradicated	死滅
+condition	Good	良好
+condition	Insane	狂気
+condition	Paralyzed	麻痺
+condition	Poison	毒
+condition	Stoned	石化
+condition	Unconscious	意識不明
+condition	Weak	衰弱
+condition	Zombie	ゾンビ
+items	Abbey Normal Golem Head	Abbey Normal Golem Head
+items	Accuracy Boost	「器用度」増強
+items	Accuracy Boost Recipe	＜「器用度」増強＞の処方箋
+items	Accurate Crossbow	
+items	Aegis	
+items	Air Resistance	エアレジスタンス
+items	Air Resistance Recipe	＜エアレジスタンス＞の処方箋
+items	Alacorn Wand of Acid	Alacorn Wand of Acid
+items	Alacorn Wand of Blades	Alacorn Wand of Blades
+items	Alacorn Wand of Charms	Alacorn Wand of Charms
+items	Alacorn Wand of Fireballs	Alacorn Wand of Fireballs
+items	Alacorn Wand of Ice	
+items	Alacorn Wand of Lightning	Alacorn Wand of Lightning
+items	Alacorn Wand of Swarms	Alacorn Wand of Charms
+items	Alloyed Shield	Alloyed Shield
+items	Almighty Crown	
+items	Altar Piece	Altar Piece
+items	Alvar Cloak	アルヴァーマント
+items	Alvarian Boots	アルヴァーブーツ
+items	Alvarian Leather	アルヴァーレザー
+items	Alvarian Poignard	アルヴァーポイグナード
+items	Amber	アンバー
+items	Amethyst	アメジスト
+items	Amethyst Ring	アメジストリング
+items	Amuck	Amuck
+items	Amythest	Amythest
+items	Ancient Amulet	
+items	Angel Statue Painting	Angel Statue Painting
+items	Angel Statuette	Angel Statuette
+items	Angel's Ring	Angel's Ring
+items	Angelic Helm	
+items	Ania Selving	Ania Selving
+items	Ankh	
+items	Anointed Herb Potion	聖なるハーブのポーション
+items	Aphrodite	
+items	Apollo	
+items	Apple	リンゴ
+items	Arcane Key	不思議な鍵
+items	Arcane Wand of Blasting	Arcane Wand of Blasting
+items	Arcane Wand of Clouds	アルカナクラウドワンド
+items	Arcane Wand of Lightning	
+items	Arcane Wand of Paralyzing	Arcane Wand of Paralyzing
+items	Arcane Wand of Rocks	Arcane Wand of Rocks
+items	Arcane Wand of the Fist	Arcane Wand of The Fist
+items	Archangel Broadsword	アークエンジェルブロードソード
+items	Archangel Wings	アークエンジェルウィング
+items	Archibald Ironfist Painting	Archibald Ironfist Painting
+items	Arcomage Deck	Arcomage Deck
+items	Ares	
+items	Armored Boots	
+items	Artemis	
+items	Arthur	Arthur
+items	Artificer's Belt	アーティフィサーズベルト
+items	Assassin's Dagger	Assassin's Dagger
+items	Astral Shield	
+items	Athena	
+items	Atlas	
+items	Awaken	覚醒
+items	Axe of Balthazar	バルタザールの斧
+items	Back Door Key	
+items	Ball of Dunduck	ダンダック チーズ
+items	Banded Plate	バンデッドプレート
+items	Barbed Club	
+items	Barbed Trident	Barbed Trident
+items	Barrow Key	Barrow Key
+items	Basic Cryptography	Basic Cryptography
+items	Bathhouse Key	
+items	Battle Axe	Battle Axe
+items	Battle Hatchet	バトルハチェット
+items	Battle Helm	バトルヘルム
+items	Battleaxe	バトルアックス
+items	Beaked Halberd	ビークトハルバード
+items	Bear Statuette	
+items	Berserk	バーサーク
+items	Berserker Belt	バーサーカーベルト
+items	Bibliotheca Chest Key	
+items	Big Brass Ring	大きな真鍮の輪
+items	Big Tapestry	Big Tapestry
+items	Bill of Sale	Bill of Sale
+items	Blackmail Letter	脅迫状
+items	Blade of Mercy	マーシーブレード
+items	Blaster	Blaster
+items	Blaster Rifle	Blaster Rifle
+items	Bless	ブレス
+items	Blessed Ring	
+items	Blood Dagger	
+items	Blood Drop Crossbow	ブラッドドロップクロスボウ
+items	Blood Talisman	ブラッドタリスマン
+items	Blue Quartz	Blue Quartz
+items	Body Resistance	ボディーレジスタンス
+items	Body Resistance Recipe	＜ボディーレジスタンス＞の処方箋
+items	Bone	骨
+items	Bone of Doom	滅びの骨
+items	Bone Staff	ボーンスタッフ
+items	Brass Charm	ブラスチャーム
+items	Brass Ring	Brass Ring
+items	Breaker	ブレーカー
+items	Broadsword	ブロードソード
+items	Bronze Amulet	Bronze Amulet
+items	Bronze Ring	ブロンズリング
+items	Bronze Shield	Bronze Shield
+items	Calvary Shield	キャバルリーシールド
+items	Candelabra	
+items	Cannon Design Notes	大砲の設計メモ
+items	Cannonball of Dominion	覇王の砲弾
+items	Captain's Code	
+items	Captain's Cutlass	キャプテンズカトラス
+items	Caravaner's Crossbow	キャラバナーズクロスボウ
+items	Caravaner's Leather	キャラバナーズレザー
+items	Caravaner's Small Shield	キャラバナーズスモールシールド
+items	Cardinal Cloak	
+items	Case of Soul Jars	Case of Soul Jars
+items	Castle Shield	
+items	Catalyst	触媒
+items	Catherine's Key	Catherine's Key
+items	Cavalier Gauntlets	
+items	Celestial Shield	
+items	Cell Key	
+items	Central Pillar Key	Central Pillar Key
+items	Certificate of Authentication	鑑定証明
+items	Chain Mail	Chain Mail
+items	Champion Sword	Champion Sword
+items	Champion's Sword	チャンピオンズソード
+items	Charele	Charele
+items	Charged connector stone	
+items	Chest Key	
+items	Chime of Harmony	
+items	Cipher	Cipher
+items	Citrine	シトリン
+items	Clanker's Amulet	Clanker's Amulet
+items	Claw Amulet	
+items	Cloak of Baa	
+items	Cloak of the Sheep	Cloak of the Sheep
+items	Cloth Hat	クロスハット
+items	Club	棍棒（メイス）
+items	Cobra Egg	
+items	Colony Zod Key	Colony Zod Key
+items	Common Halberd	
+items	Communication Officer's Code	
+items	Composite Bow	Composite Bow
+items	Conan	
+items	Conflux Key	精霊の鍵
+items	Connector stone	
+items	Conscript's Helm	Conscript's Helm
+items	Contestant's Shield	Contestant's Shield
+items	Control Cube	Control Cube
+items	Control Undead	コントロールアンデッド
+items	Corsair	Corsair
+items	Crate of Arrowheads	Crate of Arrowheads
+items	Crate of Enrothian Wine	Crate of Enrothian Wine
+items	Crate of Glass Bottles	Crate of Glass Bottles
+items	Crate of Griffin Feathers	Crate of Griffin Feathers
+items	Crate of Sand	Crate of Sand
+items	Crate of Tularean Wood	Crate of Tularean Wood
+items	Cronos	
+items	Crossbow	弩
+items	Crown	冠
+items	Crown of Final Dominion	ファイナルドミネイションクラウン
+items	Crude Axe	Crude Axe
+items	Crude Bow	Crude Bow
+items	Crude Crossbow	
+items	Crude Dagger	クルードダガー
+items	Crude Leather Armor	
+items	Crude Longbow	
+items	Crude Longsword	Crude Longsword
+items	Crude Mace	
+items	Crude Spear	Crude Spear
+items	Crude Trident	
+items	Cruel Spear	Cruel Spear
+items	Crusader Sword	
+items	Crusader's Gauntlets	クルセイダーズガントレット
+items	Crushed Rose Petals	Crushed Rose Petals
+items	Crystal Dagger	クリスタルダガー
+items	Crystal of Terrax	
+items	Crystal Skull	
+items	Cure Disease	病魔撃退
+items	Cure Insanity	キュアインサニティ
+items	Cure Paralysis	キュアパラライズ
+items	Cure Paralysis Recipe	＜キュアパラライズ＞の処方箋
+items	Cure Poison	解毒
+items	Cure Weakness	強壮
+items	Cure Wounds	傷薬
+items	Cutlass	青竜刀
+items	Cycle of life	
+items	Dadeross' Letter to Fellmoon	ダデロスからフェルムーンに宛てた手紙
+items	Dagger	短剣
+items	Dagger Wound Oddities	ダガーワンドの奇妙な品々
+items	Dark Containment	
+items	Dark Elven Bastard Sword	ダークエルフバスタードソード
+items	Dark Elven Longsword	ダークエルフロングソード
+items	Dark Grasp	ダークグラスプ
+items	Dark Hammer	
+items	Dark Knight Plate	ダークナイトプレート
+items	Datura	アサガオ
+items	Dazzling Ring	Dazzling Ring
+items	Death Head Shield	デスヘッドシールド
+items	Death Mace	
+items	Death's Head Pendant	Death's Head Pendant
+items	Deck of Fate	
+items	Defender Helm	
+items	Detect Life	ディテクトライフ
+items	Devil Plans	
+items	Devilbone Bow	デビルボーンボウ
+items	Diamond	ダイアモンド
+items	Diary Page	
+items	Dimension door	
+items	Dire Wolf Pelt	ダイアウルフの毛皮
+items	Discharge Papers	
+items	Disheveled Chain Mail	
+items	Divine Boost	
+items	Divine Boost recipe	
+items	Divine Cure	奇跡の治癒
+items	Divine Cure Recipe	＜奇跡の治癒＞の処方箋
+items	Divine Dagger	
+items	Divine Magic	
+items	Divine Power	奇跡の力
+items	Divine Power Recipe	＜奇跡の力＞の処方箋
+items	Divine Protection	
+items	Divine Protection recipe	
+items	Divine Restoration	奇跡の回復
+items	Divine Restoration Recipe	＜奇跡の回復＞の処方箋
+items	Divine Transcendence	
+items	Divine Transcendence recipe	
+items	Doctor's Code	
+items	Doom's Day Cloak	
+items	Dragon Claw	
+items	Dragon Egg	Dragon Egg
+items	Dragon Harpoon	ドラゴンハープーン
+items	Dragon Helm	ドラゴンヘルム
+items	Dragon Hide Gauntlets	Dragon Hide Gauntlets
+items	Dragon Hunter's Shield	ドラゴンハンターズシールド
+items	Dragon Leader's Egg	ドラゴン族の長の卵
+items	Dragon Leather	
+items	Dragon Statuette	
+items	Dragon Tower Keys	
+items	Dragon Turtle Fang	ドラゴンタートルの牙
+items	Dragon's Eye	Dragon's Eye
+items	Dragonbane Flower	竜殺しの花
+items	Dragoning Plate	ドラゴニングプレート
+items	Dragonning Blade	ドラゴニングブレード
+items	Dragonning Boots	ドラゴニングブーツ
+items	Dried Sunfish	マンボウの干物
+items	Drogg's Helm	ドロッグズヘルム
+items	Druid Circlet of Power	ドルイドのサークレット
+items	Drum of Victory	勝利の鼓
+items	Dueling Long Dagger	デュエリングロングダガー
+items	Duelist Blade	Duelist Blade
+items	Dwarven Axe	Dwarven Axe
+items	Dwarven Battleaxe	ドワーフバトルアックス
+items	Dwarven Dagger	Dwarven Dagger
+items	Dwarven Hammer	Dwarven Hammer
+items	Dwarven Morningstar	Dwarven Morningstar
+items	Eagle Statuette	Eagle Statuette
+items	Earth Resistance	アースレジスタンス
+items	Earth Resistance Recipe	＜アースレジスタンス＞の処方箋
+items	East Pillar Key	East Pillar Key
+items	Ebonest	エボネスト
+items	Eclipse	エクリプス
+items	Elderaxe	エルダーアックス
+items	Eldritch Shield	エルドリッチシールド
+items	Elegant Cloak	Elegant Cloak
+items	Elegant Letter	
+items	Elfbane	Elfbane
+items	Elite Halberd	
+items	Elite Minotaur Axe	エリートミノタウロスアックス
+items	Elixir	Elixir
+items	Elsenrail	エルセンレイル
+items	Elven Bow	
+items	Elven Chainmail	Elven Chainmail
+items	Elven Cloak	
+items	Elven Long Spear	エルフロングスピア
+items	Elven Longbow	Elven Longbow
+items	Elven Saber	Elven Saber
+items	Elven Spear	Elven Spear
+items	Elven Warbow	エルフウォーボウ
+items	Elvish Toadstool	Elvish Toadstool
+items	Emerald	エメラルド
+items	Emerald Ring	Emerald Ring
+items	Emerald Staff	
+items	Emperor Thorn's Key	皇帝ソーンの鍵
+items	Empty Message Scroll	Empty Message Scroll
+items	Enchanted Amulet	魔法の護符
+items	Enchanted Leather	
+items	Enchanted Ring	Enchanted Ring
+items	Endurance Boost	「耐久力」増強
+items	Endurance Boost Recipe	＜「耐久力」増強＞の処方箋
+items	Enemies List	
+items	Energy	
+items	Engineer's Code	
+items	Enslave	エンスレイブ
+items	Erathian Long Dagger	Erathian Long Dagger
+items	Erudine Chainmail	エルダインチェインメイル
+items	Erudine-laced ore	エルダインを含んだ鉱石
+items	Essence of Accuracy	
+items	Essence of Accuracy recipe	
+items	Essence of Endurance	
+items	Essence of Endurance recipe	
+items	Essence of Intellect	
+items	Essence of Intellect recipe	
+items	Essence of Luck	
+items	Essence of Luck recipe	
+items	Essence of Might	
+items	Essence of Might recipe	
+items	Essence of Personality	
+items	Essence of Personality recipe	
+items	Essence of Speed	
+items	Essence of Speed recipe	
+items	Ethereal Ring	
+items	Ethric's Skull	
+items	Ethric's Staff	Ethric's Staff
+items	Excalibur	
+items	Excerpt from a Diary	Excerpt from a Diary
+items	Exquisite Long Dagger	Exquisite Long Dagger
+items	Exquisite Ring	
+items	Extreme Energy	
+items	Eyeball Amulet	Eyeball Amulet
+items	Fae Dust	Fae Dust
+items	Faerie Key	Faerie Key
+items	Faerie Pipes	Faerie Pipes
+items	Faerie Ring	Faerie Ring
+items	Fairy Wand of Fire	
+items	Fairy Wand of Harm	
+items	Fairy Wand of Ice	Fairy Wand of Ice
+items	Fairy Wand of Lashing	Fairy Wand of Lashing
+items	Fairy Wand of Light	Fairy Wand of Light
+items	Fairy Wand of Mind	Fairy Wand of Mind
+items	Fairy Wand of Poison	
+items	Fairy Wand of Sparks	Fairy Wand of Swarms
+items	Fairy Wand of Swarms	Fairy Wand of Swarms
+items	False Report	偽りの報告書
+items	False Riverstride Plans	False Riverstride Plans
+items	Fancy Hat	Fancy Hat
+items	Fanged Blade	ファングドダガー
+items	Fate	フェイト
+items	Festival Hat	フェスティバルハット
+items	Field Hammer	フィールドハンマー
+items	Finality	ファイナリティー
+items	Fine Belt	Fine Belt
+items	Fine Chain Mail	Fine Chain Mail
+items	Fine Ring	
+items	Fire Amulet	
+items	Fire Aura	ファイアーオーラ
+items	Fire Resistance	ファイアーレジスタンス
+items	Fire Resistance Recipe	＜ファイアーレジスタンス＞の処方箋
+items	Fire Spike	ファイアースパイク
+items	First Mate's Code	
+items	Flail	フレイル
+items	Flame Door Key	
+items	Flaming Potion	炎のポーション
+items	Flaming Potion Recipe	＜炎のポーション＞の処方箋
+items	Flawed Amulets	ひび割れたアミュレット
+items	Fleetfingers	フリートフィンガー
+items	Floor Tile (w/ moon insignia)	Floor Tile (w/ moon insignia)
+items	Flower (Rose)	Flower (Rose)
+items	Flute	フルート
+items	Focal Ring	フォーカルリング
+items	Footman's Axe	フットマンズアックス
+items	Forge Gauntlets	Forge Gauntlets
+items	Forged Vouchers	偽の掛け売り証明
+items	Foulfang	ファールファング
+items	Four Leaf Clover	
+items	Fragment of Soldier's Diary	Fragment of Soldier's Diary
+items	Freezing Potion	氷のポーション
+items	Freezing Potion Recipe	＜氷のポーション＞の処方箋
+items	Full Helm	フルヘルム
+items	Galahad	
+items	Garnet	ガーネット
+items	Gauntlets	籠手
+items	Gem of Restoration	癒しの秘石
+items	Gemstone Ring	ジェムストーンリング
+items	Genie Lamp	Genie Lamp
+items	Ghost Ring	Ghost Ring
+items	Ghoulsbane	Ghoulsbane
+items	Gibbet	Gibbet
+items	Gilded Belt	Gilded Belt
+items	Glomenmail	グローメンメイル
+items	Glomenthal	グロメンサル
+items	Glorious Cloak	Glorious Cloak
+items	Glory Shield	Glory Shield
+items	Goblin Cutlass	Goblin Cutlass
+items	Goblin Scimitar	ゴブリンシミター
+items	Goblin Shield	Goblin Shield
+items	Goblinwatch Code	
+items	Gold	ゴールド
+items	Gold Ring	ゴールドリング
+items	Golden Chain Mail	Golden Chain Mail
+items	Golden Plate Armor	
+items	Golden Pyramid	
+items	Golem chest	Golem chest
+items	Golem head	Golem head
+items	Golem left arm	Golem left arm
+items	Golem left leg	Golem left leg
+items	Golem right arm	Golem right arm
+items	Golem right leg	Golem right leg
+items	Gothic Amulet	
+items	Governor's Armor	Governor's Armor
+items	Graceful Sword	Graceful Sword
+items	Grand Poleax	
+items	Grand Poleaxe	
+items	Great Sword	Great Sword
+items	Green Apple	青リンゴ
+items	Green Garnet	Green Garnet
+items	Griffin Bow	Griffin Bow
+items	Grognard's Cutlass	Grognard's Cutlass
+items	Ground Wyvern Horn	粉にしたワイヴァーンの角
+items	Gryphonheart's Trumpet	Gryphonheart's Trumpet
+items	Guardian	ガーディアン
+items	Guardian Helm	
+items	Guild Key	
+items	Guinevere	
+items	Hades	
+items	Halberd	槍斧（槍）
+items	Haldar's Remains	Haldar's Remains
+items	Hammer	ハンマー（メイス）
+items	Hammerhands	ハンマーハンド
+items	Hand Axe	
+items	Hands of the Master	Hands of the Master
+items	Harden Item	アイテム強化
+items	Hardened Leather Boots	ハードレザーブーツ
+items	Hardened Leather Vest	ハードレザーベスト
+items	Hareck's Leather	Hareck's Leather
+items	Harp	
+items	Harpy Feather	Harpy Feather
+items	Haste	ヘイスト
+items	Havoc	ハヴォック
+items	Hayfork	ヘイフォーク
+items	Headsman's Poleaxe	Headsman's Poleaxe
+items	Headsman's Reaver	ヘッズマンズリーバー
+items	Heal	ヒール
+items	Heart of Air	風の核石
+items	Heart of Earth	地の核石
+items	Heart of Fire	炎の核石
+items	Heart of the Wood	Heart of the Wood
+items	Heart of Water	水の核石
+items	Heartwood of Jadame	ジャデイムのマーマーウッド
+items	Heavy Crossbow	Heavy Crossbow
+items	Heavy Poleax	
+items	Heavy Poleaxe	
+items	Hell's Cleaver	ヘルズクリーヴァー
+items	Helm	兜
+items	Hera	
+items	Herald's Boots	ヘラルドブーツ
+items	Hercules	
+items	Hermes	
+items	Hermes' Sandals	Hermes' Sandals
+items	Hero's Belt	Hero's Belt
+items	Heroic Sword	Heroic Sword
+items	Heroism	ヒロイズム
+items	Herondale's Lost Shield	ヘロンデールズロストシールド
+items	High Cleric's Key	
+items	High Sorcerer's Key	
+items	History of the Vault of Time	＜時の蔵＞の歴史
+items	Hive Sanctum Key	
+items	Holy Hammer	
+items	Horn of Ros	
+items	Horned Helm	Horned Helm
+items	Horseman's Shield	Horseman's Shield
+items	Horseshoe	蹄鉄
+items	Hourglass of Time	
+items	Hunting Bow	ハンティングボウ
+items	Hunting Crossbow	ハンティングクロスボウ
+items	Huntsman's Cloak	Huntsman's Cloak
+items	Ideal Crossbow	Ideal Crossbow
+items	Idol of the Snake	蛇の偶像
+items	Igraine	
+items	Immolation	イモレーション
+items	Imperial Leather	
+items	Improvised Voulge	インプロバイズドヴォールグ
+items	Infantry Fork	インファントリーフォーク
+items	Infused Metal Rod	
+items	Intellect Boost	「知性」増強
+items	Intellect Boost Recipe	＜「知性」増強＞の処方箋
+items	Invisibility	インビジビリティ
+items	Iolite	アイレート
+items	Iron Broadsword	アイアンブロードソード
+items	Iron Core Staff	Iron Core Staff
+items	Iron Feather	Iron Feather
+items	Iron-laced ore	鉄鉱石
+items	Jade Amulet	ジェイドアミュレット
+items	Jeweled Dagger	
+items	Jeweled Egg	
+items	Journal Entry	Journal Entry
+items	Journal Entry, 11th December	Journal Entry, 11th December
+items	Journal Entry, 19th September	Journal Entry, 19th September
+items	Journal Entry, 23rd April	Journal Entry, 23rd April
+items	Journal Entry, 2nd January	Journal Entry, 2nd January
+items	Journal Entry, 30th June	Journal Entry, 30th June
+items	Journal Excerpt	Journal Excerpt
+items	Journal Fragment	Journal Fragment
+items	Journal Scrap	日誌の切り抜き
+items	Journey Staff	ジャーニースタッフ
+items	Judicious Measure	ジュディシャスメジャー
+items	Justice	Justice
+items	Keen Longsword	Keen Longsword
+items	Keg of Wine	
+items	Kelebrim	Kelebrim
+items	Kergar-laced ore	ケルガーを含んだ鉱石
+items	Key	鍵
+items	Key to Gharik's Laboratory	
+items	Key to Goblinwatch	
+items	Key to Snergle's Chambers	
+items	Killer Club	
+items	Kite Shield	
+items	Knight Gauntlets	
+items	Knight Statuette	Knight Statuette
+items	Knight's Boots	Knight's Boots
+items	Knightly Broadsword	ナイトブロードソード
+items	Labyrinth Grapple	ラビリンスグラップル
+items	Lady Carmine's Dagger	Lady Carmine's Dagger
+items	Lady's Escort	Lady's Escort
+items	Lantern of Light	Lantern of Light
+items	Large Round Crystal	
+items	Last Stage Cuirass	ラストステージキラス
+items	Leather Armor	レザーアーマー
+items	Leather Belt	レザーベルト
+items	Leather Boots	Leather Boots
+items	Leather Cloak	Leather Cloak
+items	Leather Gloves	レザーグローブ
+items	Leather Jerkin	レザージャーキン
+items	Leather Pouch	
+items	Letter	手紙
+items	Letter from Archibald	Letter from Archibald
+items	Letter from Cedric Druthers	
+items	Letter from Gavin Magnus	Letter from Gavin Magnus
+items	Letter from Johann Kerrid to the Faerie King	Letter from Johann Kerrid to the Faerie King
+items	Letter from Malwick	Letter from Malwick
+items	Letter from Mr. Stantley	Letter from Mr. Stantley
+items	Letter from Norbert Thrush to Lord Markham	Letter from Norbert Thrush to Lord Markham
+items	Letter from the Dragon Riders	
+items	Letter from the Prince of Thieves	
+items	Letter from the Temple of Baa	
+items	Letter from Xenofex	Letter from Xenofex
+items	Letter from Zenofex	Letter from Xenofex
+items	Letter to Agar	
+items	Letter to Arion Hunter	アリオン ハンターに宛てた手紙
+items	Letter to Gharik	
+items	Letter to Hairbaugh	Letter to Hairbaugh
+items	Letter to Marcus	
+items	Letter to Snergle	
+items	Letter to Terrax	
+items	Letter to the Prince of Thieves	
+items	Lich Jar	Lich Jar
+items	Lieutenant's Cutlass	Lieutenant's Cutlass
+items	Light Bolt	ライトボルト
+items	Light Crossbow	ライトクロスボウ
+items	Light Poleaxe	
+items	Lightning Crossbow	ライトニングクロスボウ
+items	Lionheart Sword	
+items	Lizardman Broadsword	リザードマンブロードソード
+items	Lizardman Helm	リザードマンヘルム
+items	Lizardman Trident	リザードマントライデント
+items	Lock Pick	
+items	Locus Amulet	ローカスアミュレット
+items	Lodestone	
+items	Log of Eldenbrie	エルデンブリー チーズ
+items	Long Dagger	短刀
+items	Longbow	Longbow
+items	Longseeker	ロングシーカー
+items	Longsword	長剣
+items	Loose Page	
+items	Lord Kilburn's Shield	Lord Kilburn's Shield
+items	Lost Book of Kehl	ケールの失われし書
+items	Lucius	
+items	Luck Boost	「運」増強
+items	Luck Boost Recipe	＜「運」増強＞の処方箋
+items	Lucky Hat	ラッキーハット
+items	Lunar Ring	
+items	Lute	Lute
+items	Mace	メイス
+items	Mace of the Sun	太陽のメイス
+items	Mage Dagger	Mage Dagger
+items	Magic Bow	
+items	Magic Horseshoe	
+items	Magic Lamp	
+items	Magic Potion	魔力回復
+items	Magical Ritual Notes	
+items	Majestic Chain Mail	
+items	Majestic Shield	Majestic Shield
+items	Map	Map
+items	Map to Evenmorn Island	Map to Evenmorn Island
+items	Mash	Mash
+items	Massive Halberd	
+items	Massive hammer	
+items	Master Cutlass	
+items	Master's Dagger	マスターズダガー
+items	Medusa's Mirror	Medusa's Mirror
+items	Mekorig's Hammer	Mekorig's Hammer
+items	Memory Crystal Alpha	
+items	Memory Crystal Beta	
+items	Memory Crystal Delta	
+items	Memory Crystal Epsilon	
+items	Mercenary Belt	
+items	Merchantman's Dagger	マーチャントマンズダガー
+items	Merchantman's Hat	マーチャントマンズハット
+items	Mercury	水銀
+items	Merlin	
+items	Message from Erathia	Message from Erathia
+items	Message from Mr. Stantley	Message from Mr. Stantley
+items	Metal Shield	Metal Shield
+items	Meteor Fragment	隕石のかけら
+items	Meteorite Fragment	Meteorite Fragment
+items	Might Boost	「力」増強
+items	Might Boost Recipe	＜「力」増強」＞の処方箋
+items	Mighty Broadsword	
+items	Mighty Halberd	Mighty Halberd
+items	Mind Resistance	マインドレジスタンス
+items	Mind Resistance Recipe	＜マインドレジスタンス＞の処方箋
+items	Mind's Eye	Mind's Eye
+items	Minotaur Axe	Minotaur Axe
+items	Minotaur Battleaxe	ミノタウロスバトルアックス
+items	Minotaur Battlesword	ミノタウロスバトルソード
+items	Minotaur Campaign Pole-axe	ミノタウロスキャンペーンアックス
+items	Minotaur Chainmail	ミノタウロスチェインメイル
+items	Minotaur Gauntlets	ミノタウロスガントレット
+items	Minotaur Herdsman Axe	ミノタウロスハーズマンアックス
+items	Minotaur Plate	ミノタウロスプレート
+items	Minotaur War Axe	ミノタウロスウォーアックス
+items	Minotaur's Axe	Minotaur's Axe
+items	Missive from the Archbishop	
+items	Mogred Gauntlets	Mogred Gauntlets
+items	Mogred Helm	Mogred Helm
+items	Moon Cloak	Moon Cloak
+items	Moon Temple Cloak	ムーンテンプルマント
+items	Moonstone	Moonstone
+items	Mordred	
+items	Morgan	
+items	Mushroom	キノコ
+items	Mystic Wand of Death	
+items	Mystic Wand of Distortion	Mystic Wand of Distortion
+items	Mystic Wand of Implosion	Mystic Wand of Implosion
+items	Mystic Wand of Incineration	Mystic Wand of Incineration
+items	Mystic Wand of Shrapmetal	Mystic Wand of Shrapmetal
+items	Mystic Wand of Shrinking	Mystic Wand of Shrinking
+items	Naga Hide	ナーガの皮
+items	Name of Message	Name of Message
+items	Navigator's Code	
+items	Necromancer Cloak	ネクロマンサーマント
+items	Necromatic Ring	ネクロマンサーリング
+items	Necrotic Wand of Distortion	ネクロマンサーディストーションワンド
+items	Necrotic Wand of Implosion	ネクロマンサーインプロージョンワンド
+items	Necrotic Wand of Incineration	ネクロマンサーインシネレイションワンド
+items	Necrotic Wand of Shrapnel	ネクロマンサーシュラップメタルワンド
+items	Necrotic Wand of Shrinking	ネクロマンサーシュリンキングワンド
+items	Newname Key	Newname Key
+items	Nightshade Brazier	夜闇の火鉢
+items	Noble Chain Mail	
+items	Noble Crown	Noble Crown
+items	Noble Plate Armor	Noble Plate Armor
+items	Noblebone Bow	ノーブルボーンボウ
+items	Notes - Emergency Meeting	排水計画書
+items	Noxious Potion	毒のポーション
+items	Noxious Potion Recipe	＜毒のポーション＞の処方箋
+items	Obsidian	黒曜石
+items	Odin	
+items	Officer's Leather	Officer's Leather
+items	Ogre Ear	オーガの耳
+items	Ogre Fighting Stick	オーガファイティングスティック
+items	Ogre Key	オーガの鍵
+items	Old Halberd	
+items	Old Nick	Old Nick
+items	Old Scroll	古い巻物
+items	Olympian Shield	
+items	Orb Staff	オーブスタッフ
+items	Orders from Snergle	Orders from Snergle
+items	Orders from Steadwick	Orders from Steadwick
+items	Orders from the Shadow Guild	
+items	Ornate Trident	
+items	Oscillation Overthruster	Oscillation Overthruster
+items	Overlord's Club	オーバーローズクラブ
+items	Page from Agar's Journal	
+items	Page from Corlagon's Diary	
+items	Page Torn from a Book	本の切れ端
+items	Pain Reflection	ペインリフレクション
+items	Paladin Boots	Paladin Boots
+items	Paladin Gauntlets	
+items	Parson's Quill	Parson's Quill
+items	Pearl of Purity	
+items	Pearl of Putrescence	
+items	Pearl Ring	パールリング
+items	Peasant Hat	Peasant Hat
+items	Pellinore	
+items	Pendragon	
+items	Percival	パーシバル
+items	Personality Boost	「カリスマ」増強
+items	Personality Boost Recipe	＜「カリスマ」増強＞の処方箋
+items	Phantom Cloak	
+items	Phial of Gog Blood	ゴッグの血
+items	Philosopher's Stone	賢者の石
+items	Phima Root	フィルマの根
+items	Phirna Root	Phirna Root
+items	Phoenix Feather	フェニックスの羽
+items	Phylt-laced ore	フィルトを含んだ鉱石
+items	Phynaxian Crown	Phynaxian Crown
+items	Phynaxian Helm	Phynaxian Helm
+items	Phynaxian Shield	Phynaxian Shield
+items	Piercing Dagger	
+items	Pirate Cutlass	
+items	Pirate Hat	海賊の帽子
+items	Pirate Leader's Key	海賊隊長の鍵
+items	Plate Armor	プレートメイル
+items	Platinum Ring	Platinum Ring
+items	Poleax	Poleaxe
+items	Poleaxe	Poleaxe
+items	Poppy Pod	ポピースナップ
+items	Poppysnaps	Poppysnaps
+items	Poseidon	
+items	Potion Bottle	薬瓶
+items	Potion of Doom	
+items	Potion of Doom recipe	
+items	Potion of the Gods	
+items	Potion of the Gods recipe	
+items	Pouch of Bat Guano	
+items	Power Staff	
+items	Power Stone	パワーストーン
+items	Precious Ring	
+items	Precision Bow	
+items	Preservation	プリザベーション
+items	Priestly Staff	プリーストスタッフ
+items	Prison Key	監獄の鍵
+items	Proclamation	
+items	Prophecies of the Snake	蛇の予言書
+items	Prophecies of the Sun	太陽の予言書
+items	Protection	
+items	Protection from Magic	プロテクションフロムマジック
+items	Protection from Magic recipe	
+items	Puck	Puck
+items	Pure Accuracy	純粋なる「器用度」
+items	Pure Accuracy Recipe	＜純粋なる「器用度」＞の処方箋
+items	Pure Air Resistance	
+items	Pure Air Resistance recipe	
+items	Pure Body Resistance	
+items	Pure Body Resistance recipe	
+items	Pure Earth Resistance	
+items	Pure Earth Resistance recipe	
+items	Pure Endurance	純粋なる「耐久力」
+items	Pure Endurance Recipe	＜純粋なる「耐久力」＞の処方箋
+items	Pure Fire Resistance	
+items	Pure Fire Resistance recipe	
+items	Pure Intellect	純粋なる「知性」
+items	Pure Intellect Recipe	＜純粋なる「知性」＞の処方箋
+items	Pure Luck	純粋なる「運」
+items	Pure Luck Recipe	＜純粋なる「運」＞の処方箋
+items	Pure Might	純粋なる「力」
+items	Pure Might Recipe	＜純粋なる「力」＞の処方箋
+items	Pure Mind Resistance	
+items	Pure Mind Resistance recipe	
+items	Pure Personality	純粋なる「カリスマ」
+items	Pure Personality Recipe	＜純粋なる「カリスマ」＞の処方箋
+items	Pure Speed	純粋なる「速さ」
+items	Pure Speed Recipe	＜純粋なる「速さ」＞の処方箋
+items	Pure Water Resistance	
+items	Pure Water Resistance recipe	
+items	Purple Topaz	
+items	Puzzle Box	からくり箱
+items	Quality Steel Chain Mail	
+items	Ranger Boots	Ranger Boots
+items	Ranger's Cloak	Ranger's Cloak
+items	Recharge Item	リチャージアイテム
+items	Recurve Bow	リカーブボウ
+items	Red Apple	Red Apple
+items	Regal Crown	Regal Crown
+items	Regeneration	リジェネレーション
+items	Regnan Boots	レグナブーツ
+items	Regnan Crossbow	レグナクロスボウ
+items	Regnan Cutlass	レグナカトラス
+items	Regnan Falchion	レグナフォルション
+items	Regnan Fighting Knife	レグナファイティングナイフ
+items	Regnan Leather	レグナレザー
+items	Regnan Tournament Shield	レグナトーナメントシールド
+items	Regnan Trident	レグナトライデント
+items	Rejuvenation	若返り
+items	Rejuvenation Recipe	「若返り」の処方箋
+items	Remains of a Journal	Remains of a Journal
+items	Remains of Korbu	コルブの遺骨
+items	Remnants of a Letter	
+items	Remove Curse	リムーブカース
+items	Remove Fear	リムーブフィア
+items	Resistance	抵抗力
+items	Resplendent Chain Mail	Resplendent Chain Mail
+items	Restoration	
+items	Reverend Sceptre	レベランドセプター
+items	Ring of Fusion	フュージョンリング
+items	Ring of Keys	鍵束
+items	Ring of Planes	精霊の指輪
+items	Ritual of the Void	
+items	Riverstride Plans	Riverstride Plans
+items	Roland Ironfist Painting	Roland Ironfist Painting
+items	Roland's Journal	
+items	Rope	
+items	Rose	ローズ
+items	Rose Crystal	Rose Crystal
+items	Royal Chain Mail	
+items	Royal Leather	Royal Leather
+items	Royal Wasp Jelly	ロイヤル ワスプ ゼリー
+items	Ruby	ルビー
+items	Ruby Ring	ルビーリング
+items	Ruby Star Amulet	
+items	Ruler's Ring	Ruler's Ring
+items	Rusty Breastplate	ラスティーブレストプレート
+items	Rusty Cutlass	ラスティーカトラス
+items	Rusty Mail Vest	ラスティーチェインメイル
+items	Sacred Chalice	
+items	Sacred Spear	
+items	Sacrifice	Sacrifice
+items	Sapphire	サファイア
+items	Sapphire Ring	Sapphire Ring
+items	Sarcophagus of Korbu	コルブの石棺
+items	Savage Spear	
+items	Scarab Ring	
+items	Scavenger hunt.	Scavenger Hunt
+items	Scepter of Kings	キングセプター
+items	Scholar's Cap	Scholar's Cap
+items	Scrap from Gharik's Journal	
+items	Scrap of Paper	
+items	Scroll of Waves	Scroll of Waves
+items	Sealed Letter 2	Sealed Letter 2
+items	Sealed Letter 3	Sealed Letter 3
+items	Sealed Letter 4	Sealed Letter 4
+items	Sealed Letter 5	Sealed Letter 5
+items	Sealed Letter 6	Sealed Letter 6
+items	Sealed Letter 7	Sealed Letter 7
+items	Seashell	Seashell
+items	Season's Stole	Season's Stole
+items	Secret Door Key	
+items	Serendine's Preservation	セレンダインズプレザベイション
+items	Serpent Spear	
+items	Serpent Staff	サーペントスタッフ
+items	Serpent Wand of Blasting	サーペントブラストワンド
+items	Serpent Wand of Paralysis	サーペントパラライズワンド
+items	Serpent Wand of Rocks	サーペントロックワンド
+items	Serpent Wand of the Fist	サーペントフィストワンド
+items	Seven League Boots	Seven League Boots
+items	Sewer Key	Sewer Key
+items	Shadow Dagger	
+items	Shadow Sect Medallion	シャドーセクトメダリオン
+items	Shadow's Mask	Shadow's Mask
+items	Shaman's Wand of Ice	シャーマンズアイスワンド
+items	Shaman's Wand of Lashing	シャーマンズラッシュワンド
+items	Shaman's Wand of Light	シャーマンズライトワンド
+items	Shaman's Wand of Mind	シャーマンズマインドワンド
+items	Shaman's Wand of Swarms	シャーマンズスワームワンド
+items	Sharktooth Dagger	Sharktooth Dagger
+items	Shield	シールド
+items	Shocking Potion	雷のポーション
+items	Shocking Potion Recipe	＜雷のポーション＞の処方箋
+items	Shovel	
+items	Siertal Chainmail	シエルタルチェインメイル
+items	Siertal-laced ore	シエルタルを含んだ鉱石
+items	Signet Ring	Signet Ring
+items	Silver Belt	Silver Belt
+items	Silver Dust of the Sea	海の銀の塵
+items	Silver Mesh Gauntlets	Silver Mesh Gauntlets
+items	Simple Mace	
+items	Simple Staff	
+items	Slaying Potion	スレイヤー
+items	Slaying Potion Recipe	＜スレイヤー＞の処方箋
+items	Sledgehammer	スレッジハンマー
+items	Snake	スネーク
+items	Snakewood Bow	スネークウッドボウ
+items	Snergle's Axe	Snergle's Axe
+items	Soldier's spear	Soldier's spear
+items	Souldrinker	ソウルドリンカー
+items	Sovereign Belt	
+items	Sparkling Ring	
+items	Spear	槍
+items	Speed Boost	「速さ」増強
+items	Speed Boost Recipe	＜「速さ」増強＞の処方箋
+items	Spider Queen's Heart	
+items	Spiked Club	Spiked Club
+items	Spiked Mace	Spiked Mace
+items	Spiral Instructions	
+items	Spirit Lash	スピリットラッシュ
+items	Spirit Shield	
+items	Spiritslayer	スピリットスレイヤー
+items	Splendid Plate Armor	Splendid Plate Armor
+items	Splitter	Splitter
+items	Staff	杖
+items	Staff of Elements	エレメントスタッフ
+items	Staff of the Swamp	スワンプスタッフ
+items	Stalt-laced ore	スタルトを含んだ鉱石
+items	Steel Axe	Steel Axe
+items	Steel Belt	スティールベルト
+items	Steel Boots	
+items	Steel Broadsword	Steel Broadsword
+items	Steel Chain Mail	Steel Chain Mail
+items	Steel Chainmail	スティールチェインメイル
+items	Steel club	Steel club
+items	Steel Gauntlets	スティールガントレット
+items	Steel Helm	
+items	Steel Plate Armor	
+items	Steel Plated Boots	Steel Plated Boots
+items	Steel Shield	
+items	Steel Spear	スティールスピア
+items	Stellar Bow	
+items	Sterling Boots	
+items	Sterling Shield	Sterling Shield
+items	Stone Axe	ストーンアックス
+items	Stone Skin	ストーンスキン
+items	Stone to Flesh	ストーン トゥ フレッシュ
+items	Stone To Flesh Recipe	＜ストーン トゥ フレッシュ＞の処方箋
+items	Stoneskin	ストーンスキン
+items	Storage Key	
+items	Store Room Key	
+items	Stout Spear	
+items	Strong Belt	Strong Belt
+items	Studded Leather	Studded Leather
+items	Sturdy Belt	スターディベルト
+items	Sublime Spear	Sublime Spear
+items	Sulfur	硫黄
+items	Summon Elemental	Summon Elemental
+items	Summon Wisp	サモンエレメンタル
+items	Sun Amulet	Sun Amulet
+items	Sun Cloak	Sun Cloak
+items	Sun Hammer	サンハンマー
+items	Sun Opal Ring	サンオパールリング
+items	Sunray	サンレイ
+items	Sunstone	
+items	Super Resistance	
+items	Supreme Axe	
+items	Supreme Flail	Supreme Flail
+items	Supreme Plate	スプリームプレート
+items	Supreme Protection	
+items	Swift Potion	風のポーション
+items	Swift Potion Recipe	＜風のポーション＞の処方箋
+items	Sword of Whistlebone	ホイッスルボーンの剣
+items	Taledon's Helm	Taledon's Helm
+items	Tanir's Bell	
+items	Telelocator	
+items	Telepathy	テレパシー
+items	Teleporter Key	
+items	Templar's Sword	テンプルナイトソード
+items	Temple Gong	
+items	Temple in a Bottle	Temple in a Bottle
+items	Temple Mace	テンプルメイス
+items	Terminus	ターミナス
+items	The DeathBlade	The DeathBlade
+items	The Letter	
+items	The Perfect Bow	The Perfect Bow
+items	The Third Eye	
+items	Thigh Bone	Thigh Bone
+items	Thor	
+items	Thornbark	刺の生えた樹皮
+items	Thornbark Club	ソーンバーククラブ
+items	Thornbark Shield	ソーンバークシールド
+items	Thunder Mace	
+items	Tiger Statuette	
+items	Titan's Belt	Titan's Belt
+items	Titanic Trident	
+items	Tobersk Brandy	トベルスクのブランデー
+items	Tobersk Fruit	トベルスクの実
+items	Tobersk Pulp	トベルスクのピューレ
+items	Tooth	
+items	Topaz	トパーズ
+items	Torn Page	破れたページ
+items	Tournament Bow	トーナメントボウ
+items	Tower Shield	
+items	Traveler's Cloak	トラベラーズマント
+items	Traveller's Hat	Traveller's Hat
+items	Treasure Room Key	
+items	Trident	トライデント（槍）
+items	Trident of Rulership	ルーラーシップトライデント
+items	Triton Trident	トリトントライデント
+items	Troll Gauntlets	トロールガントレット
+items	Trollish Claymore	トロールクレイモア
+items	Trollish Maul	トロールモール
+items	Trollish Shield	トロールシールド
+items	Trollish War Mace	トロールウォーメイス
+items	Trollish War Sword	トロールウォーソード
+items	True Crossbow	
+items	Turquoise Amulet	
+items	Twilight	Twilight
+items	Twilight Kris	トワイライトクリス
+items	Two-Handed Axe	両手斧
+items	Two-Handed Sword	両手剣
+items	Ullyses	Ullyses
+items	Ultimate Boots	
+items	Ultimate Gauntlets	
+items	Unicorn Horn	ユニコーンの角
+items	Urn of Ashes	遺灰の壷
+items	Valeria	
+items	Valuable Ring	
+items	Vampire Cloak	ヴァンパイアマント
+items	Vampire's Cape	Vampire's Cape
+items	Vampire's Ring	ヴァンパイアリング
+items	Vampiric Weapon	ヴァンピリックウェポン
+items	Vanguard Belt	
+items	VARN Chest Key	
+items	Vase	Vase
+items	Veteran Shield	ヴェテランシールド
+items	Vial of Devil Ichor	Vial of Devil Ichor
+items	Vial of Grave Earth	墓土の小びん
+items	Vial of Ooze Endoplasm	Vial of Ooze Endoplasm
+items	Vial of Troll Blood	Vial of Troll Blood
+items	Villain's Blade	Villain's Blade
+items	Volcano	ヴォルケーノ
+items	Walking Boots	ウォーキングブーツ
+items	Wallace	Wallace
+items	Wand of Arrows	
+items	Wand of Cold	
+items	Wand of Fire	Wand of Fire
+items	Wand of Flame	
+items	Wand of Harm	Wand of Harm
+items	Wand of Poison	Wand of Poison
+items	Wand of Sparks	Wand of Sparks
+items	Wand of Static	
+items	Wand of Stunning	Wand of Stunning
+items	War Axe	
+items	War Hammer	War Hammer
+items	War Spear	ウォースピア
+items	War Trident	War Trident
+items	Warhammer	ウォーハンマー
+items	Warlock's Ring	Warlock's Ring
+items	Warlord Belt	
+items	Warlord's Key	
+items	Warrior Sword	
+items	Warrior's Poleaxe	Warrior's Poleaxe
+items	Wasp Stingers	スズメバチの針
+items	Wasp Wing	スズメバチの羽
+items	Water Breathing	水中呼吸
+items	Water Resistance	ウォーターレジスタンス
+items	Water Resistance Recipe	＜ウォーターレジスタンス＞の処方箋
+items	Water Temple Key	
+items	Wealthy Hat	Wealthy Hat
+items	Weighted Halberd	Weighted Halberd
+items	West Pillar Key	West Pillar Key
+items	Wetsuit	Wetsuit
+items	Wheel of Frelandeau	フレランデュ チーズ
+items	Whisp wrappings	
+items	Wicked Mace	
+items	Widoweeps Berries	
+items	Widowsweep Berries	ウィドウズウィープスの実
+items	Will O' Wisp Heart	ウィル オー ウィスプの心臓
+items	William's Tower Key	William's Tower Key
+items	Winged Sandals	Winged Sandals
+items	Witch Ring	
+items	Witch's Amulet	Witch's Amulet
+items	Witch's Wand of Fire	ウィッチズファイアーワンド
+items	Witch's Wand of Harming	ウィッチズハームワンド
+items	Witch's Wand of Poison	ウィッチズポイズンワンド
+items	Witch's Wand of Sparks	ウィッチズスパークワンド
+items	Witch's Wand of Stunning	ウィッチズスタンワンド
+items	Wizard Cap	
+items	Wizard Ring	Wizard Ring
+items	Wizard Staff	Wizard Staff
+items	Wizard Wand of Acid	ウィザードアシッドワンド
+items	Wizard Wand of Berzerking	ウィザードバーサークワンド
+items	Wizard Wand of Blades	ウィザードブレードワンド
+items	Wizard Wand of Fireballs	ウィザードファイアーボールワンド
+items	Wizard Wand of Lightning	ウィザードライトニングワンド
+items	Wolf Statuette	
+items	Wolf's Eye	狼の目
+items	Wonder Mace	
+items	Wooden Buckler	ウッドバックラー
+items	Wooden Shield	Wooden Shield
+items	Worn Belt	Worn Belt
+items	Wyrm Spitter	ウィルムスピッター
+items	Wyvern Horn	ワイヴァーンの角
+items	Wyvern Leather Belt	ワイヴァーンレザーベルト
+items	Yellow Topaz	Yellow Topaz
+items	Yoruba	Yoruba
+items	Zealot Mace	Zealot Mace
+items	Zeus	
+items	Zircon	ジルコン
+items	Zokarr IV's Skull	Zokarr IV's Skull
+items	Zokarr's Axe	Zokarr's Axe
+location	Abandoned Pirate Keep	海賊の砦跡
+location	Abandoned Temple	見捨てられた神殿
+location	Agar's Laboratory	
+location	Alvar	アルヴァー
+location	Ancient Troll Home	トロールのいにしえの故郷
+location	Arena	闘技場
+location	Avlee	Avlee
+location	Balthazar Lair	バルタザール
+location	Barbarian Fortress	バーバリアンの要塞
+location	Barrow I	Barrow I
+location	Barrow II	Barrow II
+location	Barrow III	Barrow III
+location	Barrow IV	Barrow IV
+location	Barrow IX	Barrow IX
+location	Barrow V	Barrow V
+location	Barrow VI	Barrow VI
+location	Barrow VII	Barrow VII
+location	Barrow VIII	Barrow VIII
+location	Barrow X	Barrow X
+location	Barrow XI	Barrow XI
+location	Barrow XII	Barrow XII
+location	Barrow XIII	Barrow XIII
+location	Barrow XIV	Barrow XIV
+location	Barrow XV	Barrow XV
+location	Basement of the Breach	
+location	Blackshire	ブラックシャー
+location	Bootleg Bay	
+location	Castle Alamos	
+location	Castle Darkmoor	
+location	Castle Gloaming	Castle Gloaming
+location	Castle Gryphonheart	Castle Gryphonheart
+location	Castle Harmondale	Castle Harmondale
+location	Castle Ironfist	アイアンフィスト城
+location	Castle Kriegspire	
+location	Castle Lambent	Castle Lambent
+location	Castle Navan	Castle Navan
+location	Castle of Air	風の城
+location	Castle of Fire	炎の城
+location	Caves of the Dragon Riders	
+location	Celeste	Celeste
+location	Chain of Fire	＜炎の鎖＞
+location	Chapel of Eep	イープの礼拝堂
+location	Church of Eep	イープの教会
+location	Clanker's Laboratory	Clanker's Laboratory
+location	Colony Zod	Colony Zod
+location	Control Center	
+location	Corlagon's Estate	
+location	Cyclops Larder	サイクロプスの貯蔵庫
+location	Dagger Wound Island	ダガーワンド諸島
+location	Dark Dwarf Compound	ダークドワーフの街
+location	Devil Outpost	
+location	Deyja	Deyja
+location	Dire Wolf Den	ダイアウルフの巣
+location	Dragon Cave	ドラゴンの洞窟
+location	Dragon Hunter's Camp	ドラゴンスレイヤーの砦
+location	Dragon's Lair	Dragon's Lair
+location	Dragonsand	
+location	Dragoons' Caverns	
+location	Dragoons' Keep	
+location	Druid Circle	ドルイドのストーンサークル
+location	Eel Infested Waters	
+location	Emerald Island	Emerald Island
+location	Erathia	Erathia
+location	Escaton's Crystal	エスカトンの水晶
+location	Escaton's Palace	エスカトンの宮殿
+location	Evenmorn Island	Evenmorn Island
+location	Fort Riverstride	Fort Riverstride
+location	Free Haven	フリーヘブン
+location	Free Haven Sewer	
+location	Frozen Highlands	
+location	Garrote Gorge	ギャロットゴージ
+location	Gharik's Forge	
+location	Goblinwatch	
+location	Grand Temple of Eep	イープの大神殿
+location	Grand Temple of the Moon	Grand Temple of the Moon
+location	Grand Temple of the Sun	Grand Temple of the Sun
+location	Hall of the Fire Lord	
+location	Harmondale	Harmondale
+location	Hermit's Isle	隠者の島
+location	Icewind Keep	
+location	Ilsingore's Cave	イルシニョーレの洞窟
+location	Ironsand Desert	アイアンサンド砂漠
+location	Kriegspire	クリーグスパイア
+location	Lair of the Wolf	
+location	Lord Markham's Manor	Lord Markham's Manor
+location	Mad Necromancer's Lab	狂えるネクロマンサーの研究所
+location	Merchant House of Alvar	アルヴァーの商館
+location	Mire of the Damned	
+location	Misty Islands	
+location	Mount Nighon	Mount Nighon
+location	Murmurwoods	マーマーウッズ
+location	Naga Vault	ナーガの地下室
+location	Necromancers' Guild	ネクロマンサーギルド
+location	New Sorpigal	ニューソーピガル
+location	New World Computing	
+location	Nighon Tunnels	Placeholder
+location	NWC	NWC
+location	Ogre Fortress	オーガの砦
+location	Old Loeb's Cave	老翁ローブの洞窟
+location	Oracle of Enroth	
+location	Paradise Valley	
+location	Passage Under Regna	レグナの地下道
+location	pending	
+location	Pirate Outpost	海賊の前哨地
+location	Pirate Stronghold	海賊の要塞
+location	Plane Between Planes	<狭間の世界>
+location	Plane of Air	風の精霊界
+location	Plane of Earth	地の精霊界
+location	Plane of Fire	炎の精霊界
+location	Plane of Water	水の精霊界
+location	Prison of the Lord of Air	風の王の牢獄
+location	Prison of the Lord of Earth	地の王の牢獄
+location	Prison of the Lord of Fire	炎の王の牢獄
+location	Prison of the Lord of Water	水の王の牢獄
+location	Ravage Roaming	ラヴィッジローミング
+location	Ravenshore	レイベンショア
+location	Regna	レグナ島
+location	Shadow Guild	
+location	Shadow Guild Hideout	
+location	Shadowspire	シャドースパイア
+location	Shoals	Shoals
+location	Silver Cove	シルバーコーブ
+location	Silver Helm Outpost	
+location	Silver Helm Stronghold	
+location	Small Sub Pen	潜水艦ドック
+location	Smuggler's Cove	密輸団のアジト
+location	Snergle's Caverns	
+location	Snergle's Iron Mines	
+location	Stone City	Stone City
+location	Superior Temple of Baa	
+location	Supreme Temple of Baa	
+location	Sweet Water	
+location	Tatalia	Tatalia
+location	Temple of Baa	Temple of Baa
+location	Temple of the Dark	Temple of the Dark
+location	Temple of the Fist	
+location	Temple of the Light	Temple of the Light
+location	Temple of the Moon	Temple of the Moon
+location	Temple of the Snake	
+location	Temple of the Sun	太陽の神殿
+location	Temple of Tsantsa	
+location	The Arena	The Arena
+location	The Bandit Caves	The Bandit Caves
+location	The Barrow Downs	The Barrow Downs
+location	The Bracada Desert	The Bracada Desert
+location	The Breach	
+location	The Breeding Zone	The Breeding Zone
+location	The Crypt of Korbu	コルブの地下墓地
+location	The Dragon Caves	The Dragon Caves
+location	The Dragon's Lair	The Dragon's Lair
+location	The Erathian Sewers	The Erathian Sewers
+location	The Hall of the Pit	The Hall of the Pit
+location	The Hall under the Hill	The Hall under the Hill
+location	The Haunted Mansion	The Haunted Mansion
+location	The Hidden Tomb	The Hidden Tomb
+location	The Hive	
+location	The Land of the Giants	The Land of the Giants
+location	The Lincoln	The Lincoln
+location	The Maze	The Maze
+location	The Mercenary Guild	The Mercenary Guild
+location	The Monolith	
+location	The Pit	The Pit
+location	The Red Dwarf Mines	The Red Dwarf Mines
+location	The School of Sorcery	The School of Sorcery
+location	The Small House	The Small House
+location	The Strange Temple	The Strange Temple
+location	The Temple of Baa	The Temple of Baa
+location	The Temple of the Moon	The Temple of the Moon
+location	The Tidewater Caverns	The Tidewater Caverns
+location	The Titans' Stronghold	The Titans' Stronghold
+location	The Tularean Caves	The Tularean Caves
+location	The Tularean Forest	The Tularean Forest
+location	The Walls of Mist	The Walls of Mist
+location	The Wine Cellar	The Wine Cellar
+location	Thunderfist Mountain	Thunderfist Mountain
+location	Tomb of Ethric the Mad	
+location	Tomb of Lord Brinne	ブリンヌ卿の墓
+location	Tomb of VARN	
+location	Troll Tomb	トロール族の墓
+location	Tunnels to Eeofol	Placeholder
+location	Tutorial	チュートリアル
+location	Uplifted Library	隆起によって出現した図書館
+location	Vampire Crypt	ヴァンパイア地下墓地
+location	War Camp	駐屯地
+location	Warlord's Fortress	
+location	Wasp Nest	スズメバチの巣
+location	Watchtower 6	Watchtower 6
+location	White Cliff Cave	White Cliff Cave
+location	William Setag's Tower	William Setag's Tower
+location	Wromthrax's Cave	Wromthrax's Cave
+location	Yaardrake's Cave	ヤールドレイクの洞窟
+location	Zokarr's Tomb	Zokarr's Tomb
+monsters	Acidic Ooze	
+monsters	Acolyte of Baa	
+monsters	Acolyte of the Moon	Acolyte of the Moon
+monsters	Acolyte of the Sun	サン アコライト
+monsters	Adventurer	Adventurer
+monsters	Agar's Abomination	
+monsters	Agar's Monster	
+monsters	Agar's Pet	
+monsters	Air Elemental	エアーエレメンタル 
+monsters	Air Hydra	Air Hydra
+monsters	Air Warlock	Air Warlock
+monsters	Ancient Behemoth	Ancient Behemoth
+monsters	Ancient Wyvern	エインシャント
+ワイヴァーン 
+monsters	Angel	Angel
+monsters	Angel Lord	Angel Lord
+monsters	Animalist	アニマリスト
+monsters	Apprentice Mage	
+monsters	Archangel	Archangel
+monsters	Archer	Archer
+monsters	Archmage	Archmage
+monsters	Assassin	アサシン
+monsters	Assassin Droid	Assassin Droid
+monsters	Bandit	Bandit
+monsters	Barrow Wight	Barrow Wight
+monsters	Basilisk	バシリスク 
+monsters	Bat	
+monsters	Behemoth	Behemoth
+monsters	Bestial Animalist	ベスチャル
+アニマリスト
+monsters	Bestial Lycanthrope	ベスチャル
+ライカンスロープ
+monsters	Bestial Shapeshifter	ベスチャル
+シェイプシフター
+monsters	Blaster Guy C	Blaster Guy C
+monsters	Blood Sucker	
+monsters	Blood Titan	Blood Titan
+monsters	Bloodstone Ooze	Bloodstone Ooze
+monsters	Blue Dragon	Blue Dragon
+monsters	Bone Dragon	ボーンドラゴン 
+monsters	Boulder	ボールダー
+monsters	Bounty Hunter	バウンティーハンター
+monsters	Bowman	Bowman
+monsters	Brain Sucker	
+monsters	Brass Golem	Brass Golem
+monsters	Brass Gorgon	ブラスゴーゴン 
+monsters	Brigand	Brigands
+monsters	Bronze Golem	Bronze Golem
+monsters	Bronze Gorgon	ブロンズゴーゴン 
+monsters	Buccaneer	バッカニア 
+monsters	Burglar	夜盗
+monsters	Cactus	サボテン
+monsters	Cannibal	
+monsters	Captain	船長
+monsters	Cat A	Cat A
+monsters	Cat B	Cat B
+monsters	Cat C	Cat C
+monsters	Centaur	ケンタウロス 
+monsters	Centaur Warlord	ケンタウロス
+ウォーロード 
+monsters	Centaur Warrior	ケンタウロス
+ウォリアー 
+monsters	Champion of the Sword	Champion of the Sword
+monsters	Chaos Guardian	ケイオス　ガーディアン　
+monsters	Chaos Hydra	Chaos Hydra
+monsters	Chaos Overlord	ケイオス
+オーバーロード　
+monsters	Chaos Protector	ケイオス　プロテクター　
+monsters	Charger	チャージャー 
+monsters	Chicken A	Chicken A
+monsters	Chicken B	Chicken B
+monsters	Chicken C	Chicken C
+monsters	Clay Elemental	Clay Elemental
+monsters	Cleric of Baa	
+monsters	Cleric of the Moon	Cleric of the Moon
+monsters	Cleric of the Sun	サン クレリック
+monsters	Cobra	
+monsters	Colossal Hydra	
+monsters	Common Rat	
+monsters	Conscript	Conscript
+monsters	Corbie	コールビー 
+monsters	Corrosive Ooze	
+monsters	Corsair	コルセア 
+monsters	Couatl	コアトル
+monsters	Crusader	クルセイダー
+monsters	Crystal Guardian	クリスタル
+ガーディアン 
+monsters	Crystal Sentry	クリスタル セントリー 
+monsters	Crystal Walker	クリスタル ウォーカー 
+monsters	Cuisinart	
+monsters	Cutpurse	
+monsters	Cyclone	Cyclone
+monsters	Cyclops	サイクロプス 
+monsters	Cyclops Hunter	サイクロプス ハンター 
+monsters	Cyclops Warrior	サイクロプス
+ウォリア− 
+monsters	Dancing Light	ダンシングライト 
+monsters	Dark Dwarf Berserker	ダークドワーフ
+バーサーカー 
+monsters	Dark Dwarf Grunt	ダークドワーフ
+グラント 
+monsters	Dark Dwarf Pounder	ダークドワーフ
+パウンダー 
+monsters	Dark Elf Peasant	一般人
+monsters	Dark Elven Crusader	ダークエルフ
+クルセイダー
+monsters	Dark Elven Defender	ダークエルフ
+ディフェンダー
+monsters	Dark Elven Warrior	ダークエルフ ウォリア−
+monsters	Dark Path Journeyman	ダークパス
+ジャーニーマン
+monsters	Death Knight	
+monsters	Defender of VARN	
+monsters	Demolisher	デモリシャー 
+monsters	Demon Queen	
+monsters	Devil Captain	Devil Captain
+monsters	Devil King	
+monsters	Devil Master	
+monsters	Devil Spawn	
+monsters	Devil Warrior	Devil Warrior
+monsters	Devil Worker	Devil Worker
+monsters	Diamond Gargoyle	
+monsters	Dire Wolf	ダイアウルフ
+monsters	Dire Wolf Yearling	ダイアウルフ
+イヤーリング 
+monsters	Djinn	Djinni
+monsters	Djinni	Djinni
+monsters	Dog A	Dog A
+monsters	Dog B	Dog B
+monsters	Dog C	Dog C
+monsters	Doom Knight	
+monsters	Dragon	ドラゴン
+monsters	Dragon Flightleader	ドラゴン
+フライトリーダー
+monsters	Dragon Hunter	ドラゴンハンター
+monsters	Dragon Shark	Dragon Shark
+monsters	Dragon Turtle	ドラゴンタートル 
+monsters	Dragonette	ドラゴネット　
+monsters	Dragonfly	Dragonfly
+monsters	Dragonslayer	ドラゴンスレイヤー
+monsters	Druid	ドルイド
+monsters	Dust Devil	
+monsters	Dwarf	ドワーフ
+monsters	Dwarf Lord	
+monsters	Dwarf Warrior	
+monsters	Dwarven Commander	Dwarven Commander
+monsters	Dwarven Lieutenant	Dwarven Lieutenant
+monsters	Dwarven Soldier	Dwarven Soldier
+monsters	Earth Elemental	アースエレメンタル 
+monsters	Earth Spirit	
+monsters	Efreet	Efreet
+monsters	Efreeti Knight	イフリート ナイト 
+monsters	Efreeti Lord	イフリート ロード 
+monsters	Efreeti Soldier	イフリート ソルジャー 
+monsters	Elder Basilisk	エルダー バシリスク 
+monsters	Elder Tortoise	エルダー トータス 
+monsters	Elder Vampire	Elder Vampire
+monsters	Elite Archer	Elite Archer
+monsters	Elven Archer	Elven Archer
+monsters	Elven Defender	Elven Defender
+monsters	Elven Lancer	Elven Lancer
+monsters	Elven Ranger	Elven Ranger
+monsters	Elven Scout	Elven Scout
+monsters	Elven Warrior	Elven Warrior
+monsters	Ember Gog	エンバーゴッグ 
+monsters	Emerald Dragon	エメラルドドラゴン 
+monsters	Emerald Ooze	Emerald Ooze
+monsters	Empress Medusa	Empress Medusa
+monsters	Energy Drake	
+monsters	Enforcer Unit	
+monsters	Ether Champion	エーテル チャンピオン 
+monsters	Ether Knight	エーテルナイト 
+monsters	Ether Lord	エーテル ロード 
+monsters	Evil Eye	Evil Eye
+monsters	Evil Spirit	
+monsters	Expert Swordsman	
+monsters	Fanatic of Baa	
+monsters	Fear	フィアー 
+monsters	Fighter	Fighter
+monsters	Fire Archer	
+monsters	Fire Beast	
+monsters	Fire Bird	ファイアーバード 
+monsters	Fire Dragonfly	Fire Dragonfly
+monsters	Fire Elemental	ファイアーエレメンタル
+monsters	Fire Gog	ファイアーゴッグ 
+monsters	Fire Hydra	Fire Hydra
+monsters	Fire Lizard	ファイアーリザード 
+monsters	Fire Newt	ファイアーニュート 
+monsters	Fire Rat	Fire Rat
+monsters	Fire Spirit	
+monsters	Fire Warlock	Fire Warlock
+monsters	Fish	フィッシュ
+monsters	Flame Drake	
+monsters	Floating Eye	Floating Eye
+monsters	Flying Eye	
+monsters	Follower of Baa	バーの信者
+monsters	Frost Drake	
+monsters	Gazer	Gazer
+monsters	Genie	Genie
+monsters	Ghast	Ghast
+monsters	Ghost	Ghost
+monsters	Ghoul	Ghoul 
+monsters	Giant Bat	Giant Bat
+monsters	Giant Rat	Giant Rat
+monsters	Giant Shark	Giant Shark
+monsters	Giant Spider	Giant Spider
+monsters	Giant Wyrm	
+monsters	Goblin	Goblin
+monsters	Goblin King	
+monsters	Goblin Lord	Goblin Lord
+monsters	Goblin Shaman	
+monsters	Gog	Gog
+monsters	Gogling	Gogling
+monsters	Gold Dragon	
+monsters	Gold Golem	Gold Golem
+monsters	Gorgon	
+monsters	Grand Druid	
+monsters	Grand Phoenix	グランド フェニックス 
+monsters	Great Druid	Great Druid
+monsters	Great Wyrm	グレート ウィルム
+monsters	Greater Air Elemental	グレーター
+エアーエレメンタル 
+monsters	Greater Earth Elemental	グレーター
+アースエレメンタル 
+monsters	Greater Fire Elemental	グレーター
+ファイアーエレメンタル
+monsters	Greater Lich	
+monsters	Greater Light Elemental	Greater Light Elemental
+monsters	Greater Roc	Greater Roc
+monsters	Greater Vampire	グレーター
+ヴァンパイア
+monsters	Greater Water Elemental	グレーター
+ウォーターエレメンタル
+monsters	Greater Wererat	グレーター ワーラット
+monsters	Greater Werewolf	
+monsters	Green Dragon	Green Dragon
+monsters	Griffin	Griffin
+monsters	Guard	Guard
+monsters	Guardian of Flame	Guardian of Flame
+monsters	Guardian of VARN	
+monsters	Harpy	Harpy
+monsters	Harpy Hag	Harpy Hag
+monsters	Harpy Queen	Harpy Queen
+monsters	Harpy Witch	
+monsters	Hatchling	ハッチリング
+monsters	Head Hunter	
+monsters	Hobgoblin	Hobgoblin
+monsters	Horned Wyvern	ホーンド ワイヴァーン 
+monsters	Huge Spider	
+monsters	Human Peasant	一般人
+monsters	Hunting Griffin	Hunting Griffin
+monsters	Hydra	
+monsters	Inferno Bat	Inferno Bat
+monsters	Initiate	Initiate
+monsters	Initiate Monk	
+monsters	Initiate of the Sword	Initiate of the Sword
+monsters	Iron Gorgon	アイアンゴーゴン 
+monsters	Journeyman Mage	
+monsters	Juggernaut	ジャガーノート 
+monsters	King Cobra	
+monsters	Large Rat	
+monsters	Lesser Air Elemental	レッサー
+エアーエレメンタル 
+monsters	Lesser Earth Elemental	レッサー
+アースエレメンタル 
+monsters	Lesser Fire Elemental	レッサー
+ファイアーエレメンタル
+monsters	Lesser Light Elemental	Lesser Light Elemental
+monsters	Lesser Water Elemental	レッサー
+ウォーターエレメンタル
+monsters	Lich	Lich
+monsters	Lich King	Lich King
+monsters	Lieutenant	
+monsters	Light Elemental	Light Elemental
+monsters	Lightning Lizard	
+monsters	Lightning Rat	Lightning Rat
+monsters	Lizard Archer	
+monsters	Lizard Man	
+monsters	Lizard Wizard	
+monsters	Lizardman Captain	リザードマン
+キャプテン
+monsters	Lizardman Farmer	リザードマン
+ファーマー
+monsters	Lizardman Peasant	一般人
+monsters	Lizardman Sergeant	リザードマン
+サージェント
+monsters	Lizardman Soldier	リザードマン
+ソルジャー
+monsters	Lizardman Villager	リザードマン
+ビレッジャー
+monsters	Lycanthrope	ライカンスロープ
+monsters	Maddening Eye	
+monsters	Mage	
+monsters	Magician	魔術師
+monsters	Magog	Magog
+monsters	Magyar	
+monsters	Magyar Matron	
+monsters	Magyar Soldier	
+monsters	Manticore	Manticore 
+monsters	Marble Gargoyle	Marble Gargoyle
+monsters	Master	Master
+monsters	Master Archer	弓の達人
+monsters	Master Monk	
+monsters	Master Necromancer	マスター
+ネクロマンサー
+monsters	Master of the Sword	Master of the Sword
+monsters	Master Swordsman	
+monsters	Master Thief	Master Thief
+monsters	Medusa	Medusa
+monsters	Medusa Enchantress	
+monsters	Mega-Dragon	Mega-Dragon
+monsters	Mercenary	マーセナリー　
+monsters	Mercenary Captain	マーセナリー
+キャプテン　
+monsters	Minicore	Minicore
+monsters	Minion Vampire	Minion Vampire
+monsters	Minotaur	Minotaur
+monsters	Minotaur Battleleader	ミノタウロス
+バトルリーダー
+monsters	Minotaur Guard	ミノタウロス ガード
+monsters	Minotaur Headsman	Minotaur Headsman
+monsters	Minotaur King	
+monsters	Minotaur Lord	Minotaur Lord
+monsters	Minotaur Mage	
+monsters	Minotaur Peasant	一般人
+monsters	Minotaur Warrior	ミノタウロス ウォリア−
+monsters	Mist Hawk	ミストホーク 
+monsters	Monk	Monk
+monsters	Mountain Troll	Mountain Troll
+monsters	Mystic of Baa	
+monsters	Naga	ナーガ 
+monsters	Naga Queen	ナーガクイーン 
+monsters	Naga Warrior	ナーガウォリアー 
+monsters	Necromancer	ネクロマンサー
+monsters	Nightmare	ナイトメア 
+monsters	Noble Titan	
+monsters	Novice Monk	
+monsters	Obsidian Gargoyle	Obsidian Gargoyle
+monsters	Ogre	
+monsters	Ogre Brawler	オーガ ブロウラー
+monsters	Ogre Chieftain	
+monsters	Ogre Mage	オーガメイジ
+monsters	Ogre Mage Apprentice	オーガメイジ
+アプレンティス 
+monsters	Ogre Magi	オーガメイジ
+monsters	Ogre Peasant	一般人
+monsters	Ogre Raider	オーガの略奪隊
+monsters	Ogre Warleader	オーガ ウォーリーダー
+monsters	Ogre Warrior	オーガ ウォリアー
+monsters	Ooze	
+monsters	Pack Leader	パックリーダー 
+monsters	Patrol Unit	
+monsters	Peasant	一般人
+monsters	Phoenix	フェニックス 
+monsters	Piranha Shark	Piranha Shark
+monsters	Pirate	パイレーツ 
+monsters	Pirate Magi	パイレーツ メイジ
+monsters	Pirate Seer	パイレーツ シアー 
+monsters	Pirate Wizard	パイレーツ　ウィザード
+monsters	Plane Guardian	プレーン ガーディアン 
+monsters	Plane Overlord	プレーン
+オーバーロード 
+monsters	Plane Protector	プレーン プロテクター 
+monsters	Power Lich	Power Lich
+monsters	Priest of Baa	
+monsters	Priest of the Moon	Priest of the Moon
+monsters	Priest of the Sun	サン プリースト
+monsters	Queen Cobra	
+monsters	Queen Dragonfly	Queen Dragonfly
+monsters	Queen Medusa	Queen Medusa
+monsters	Queen of the Dead	Queen of the Dead
+monsters	Raider	Raider
+monsters	Rat A	Rat A
+monsters	Rat B	Rat B
+monsters	Rat C	Rat C
+monsters	Ratman	ラットマン
+monsters	Raven	レイブン 
+monsters	Reactor	
+monsters	Red Dragon	Red Dragon
+monsters	Regnan Arbalester	レグナ アルバレスター
+monsters	Regnan Archmage	レグナ アークメイジ
+monsters	Regnan Bandit	レグナ バンデット
+monsters	Regnan Battlemage	レグナ バトルメイジ
+monsters	Regnan Brigadier	レグナ ブリガディアー
+monsters	Regnan Crossbowman	レグナ クロスボウマン
+monsters	Regnan Lieutenant	レグナ リューテナント
+monsters	Regnan Pirate	レグナ パイレーツ
+monsters	Regnan Sorcerer	レグナ ソーサラー
+monsters	Revenant	Revenant
+monsters	River Troll	River Troll
+monsters	Robber	Robber
+monsters	Robert the Wise	Robert the Wise
+monsters	Roc	Roc
+monsters	Rock Beast	ロックブラスト
+monsters	Rogue	Rogue
+monsters	Rook	ルーク 
+monsters	Rotted Corpse	Rotted Corpse
+monsters	Royal Griffin	Royal Griffin
+monsters	Ruby Dragon	ルビードラゴン 
+monsters	Ruffian	
+monsters	Salamander	サラマンダー 
+monsters	Sapphire Dragon	サファイアドラゴン 
+monsters	Sapphire Ooze	Sapphire Ooze
+monsters	Scorpicore	Scorpicore
+monsters	Sea Monster	
+monsters	Sea Serpent	
+monsters	Sea Terror	
+monsters	Seeker Droid	Seeker Droid
+monsters	Sentinel Droid	Sentinel Droid
+monsters	Sentinel of VARN	
+monsters	Serpentman	サーペントマン 
+monsters	Serpentman Elder	サーペントマン
+エルダー 
+monsters	Serpentman Warrior	サーペントマン
+ウォリアー 
+monsters	Shade	Shade
+monsters	Shapeshifter	シェイプシフター
+monsters	Skeletal Dragon	スケルトン ドラゴン 
+monsters	Skeleton	Skeleton
+monsters	Skeleton Archer	スケルトン アーチャー 
+monsters	Skeleton Bowman	スケルトン ボウマン 
+monsters	Skeleton Hunter	スケルトン ハンター 
+monsters	Skeleton Knight	
+monsters	Skeleton Lord	Skeleton Lord
+monsters	Skeleton Warrior	Skeleton Warrior
+monsters	Smoke Gog	スモークゴッグ 
+monsters	Soldier	Soldier
+monsters	Soldier of Fortune	フォーチューン
+ソルジャー　
+monsters	Sorcerer	Sorcerer
+monsters	Soul Sucker	
+monsters	Speaker for the Dead	Speaker for the Dead
+monsters	Specter	Specter
+monsters	Spider	
+monsters	Sprite	Sprite
+monsters	Stone Elemental	Stone Elemental
+monsters	Stone Gargoyle	Stone Gargoyle
+monsters	Storm Eagle	ストームイーグル 
+monsters	Storm Titan	Storm Titan
+monsters	Supreme Titan	
+monsters	Swamp Troll	Swamp Troll
+monsters	Swordsman	Swordsman
+monsters	Sylph	Sylph
+monsters	Tempest	Tempest
+monsters	Terminator Unit	
+monsters	Terrible Eye	
+monsters	Terror	テラー 
+monsters	Thief	Thief
+monsters	Thug	
+monsters	Thunder Lizard	
+monsters	Thunderbird	サンダーバード 
+monsters	Titan	Titan
+monsters	Tolberti	Tolberti
+monsters	Tree	Tree
+monsters	Triton	トリトン 
+monsters	Triton Crusader	トリトン クルセイダー 
+monsters	Triton Warrior	トリトン ウォリアー 
+monsters	Troglodyte Drone	Troglodyte Drone
+monsters	Troglodyte Queen	Troglodyte Queen
+monsters	Troglodyte Soldier	Troglodyte Soldier
+monsters	Troll Chieftain	トロール チーフテン
+monsters	Troll Clubman	トロール クラブマン
+monsters	Troll Peasant	一般人
+monsters	Troll Warrior	トロール ウォリア−
+monsters	Twister	
+monsters	Undead Dragon	アンデッド ドラゴン 
+monsters	Unicorn	ユニコーン フォール 
+monsters	Unicorn Foal	ユニコーン フォール 
+monsters	Unicorn Herd Leader	ユニコーン
+ハードリーダー 
+monsters	Vampire	ヴァンパイア
+monsters	Vampire Bat	Vampire Bat
+monsters	Vampire Minion	ヴァンパイア ミニオン
+monsters	Venemous Spider	Venemous Spider
+monsters	Venomous Hydra	
+monsters	Veteran	
+monsters	Walking Dead	Walking Dead
+monsters	Warden of Fire	Warden of Fire
+monsters	Warlock	ウォーロック
+monsters	Wasp Sentry	ワスプ セントリー 
+monsters	Wasp Warrior	ワスプ ウォリアー 
+monsters	Wasp Worker	ワスプ ワーカー 
+monsters	Water Beast	
+monsters	Water Elemental	ウォーターエレメンタル
+monsters	Water Spirit	
+monsters	Water Warlock	Water Warlock
+monsters	Wererat	ワーラット
+monsters	Werewolf	
+monsters	Widowmaker	Widowmaker
+monsters	Wight	Wight
+monsters	Will O' Wisp	ウィルオー ウィスプ 
+monsters	Winged Serpent	ウィング サーペント
+monsters	Wisp	ウィスプ 
+monsters	Witch Doctor	
+monsters	Wizard	Wizard
+monsters	Wolfman	
+monsters	Wraith	Wraith
+monsters	Wyrm	
+monsters	Wyvern	ワイヴァーン 
+monsters	Young Basilisk	ヤング バシリスク 
+monsters	Young Behemoth	Young Behemoth
+monsters	Young Couatl	ヤング コアトル
+monsters	Young Dragon	ヤングドラゴン　
+monsters	Young Dragon Turtle	ヤング
+ドラゴンタートル 
+monsters	Zombie	Zombie
+npcprof	Acolyte	侍僧
+npcprof	Alchemist	錬金術師
+npcprof	Apothecary	薬屋
+npcprof	Apprentice	徒弟
+npcprof	Armorer	防具職人
+npcprof	Armorsmith	防具屋
+npcprof	Arms Master	武術の達人
+npcprof	Banker	銀行家
+npcprof	Bard	吟遊詩人
+npcprof	Barmaid	宿屋の女主人
+npcprof	Barrister	弁護士
+npcprof	Beggar	乞食
+npcprof	Blacksmith	武器屋
+npcprof	Brekish One-Fang	ブレキッシュ
+ワンファング
+npcprof	Burglar	夜盗
+npcprof	Captain	船長
+npcprof	Carpenter	大工
+npcprof	Cartographer	地図製作者
+npcprof	Chaplain	牧師
+npcprof	Charles Quixote	チャールズ キホーテ
+npcprof	Chef	料理長
+npcprof	Child	子供
+npcprof	Chimney Sweep	煙突掃除夫
+npcprof	Clerk	職員
+npcprof	Cobbler	革細工職人
+npcprof	Cook	料理人
+npcprof	Cooper	おけ屋
+npcprof	Counselor	助言者
+npcprof	Diplomat	外交官
+npcprof	Ditch Digger	穴掘り人夫
+npcprof	Dragon	ドラゴン
+npcprof	Duper	ペテン師
+npcprof	Dyson Leland	ダイソン リランド
+npcprof	Enchanter	魔法使い
+npcprof	Escaton	エスカトン
+npcprof	Expert Healer	熟練した癒し手
+npcprof	Explorer	冒険家
+npcprof	Factor	仲買人
+npcprof	Fallen Wizard	堕落した魔道師
+npcprof	Farmer	百姓
+npcprof	Follower of Baa	バーの信者
+npcprof	Fool	阿呆
+npcprof	Gambler	Gambler
+npcprof	Gate Master	門の主
+npcprof	Guard	Guard
+npcprof	Guide	案内人
+npcprof	Guildmaster	Guildmaster
+npcprof	Gypsy	ジプシー
+npcprof	Healer	癒し手
+npcprof	Herbalist	薬草学者
+npcprof	Horseman	馬丁
+npcprof	Hunter	Hunter
+npcprof	Initiate	Initiate
+npcprof	Innkeep	宿屋の主人
+npcprof	Instructor	教官
+npcprof	Jester	道化
+npcprof	Laborer	人夫
+npcprof	Locksmith	錠前職人
+npcprof	Magician	魔術師
+npcprof	Master Healer	癒しの達人
+npcprof	Merchant	商人
+npcprof	Miller	粉屋
+npcprof	Missionary	伝導師
+npcprof	Monk	Monk
+npcprof	Mystic	神秘学者
+npcprof	Navigator	航海士
+npcprof	Negotiator	交渉人
+npcprof	Noble	貴族
+npcprof	Overdune	オバーデューン
+npcprof	Pathfinder	開拓者
+npcprof	Peasant	一般人
+npcprof	Piper	笛吹き
+npcprof	Pirate	海賊
+npcprof	Porter	運搬作業員
+npcprof	Potter	陶工
+npcprof	Prelate	司教
+npcprof	Psychic	霊能力者
+npcprof	Quarter Master	物資管理官
+npcprof	Rustler	家畜どろぼう
+npcprof	Sage	予言者
+npcprof	Sailor	船乗り
+npcprof	Sandro	サンドロ
+npcprof	Scholar	学者
+npcprof	Scout	斥候
+npcprof	Scribe	ギルド長
+npcprof	Serf	農奴
+npcprof	Shopkeeper	
+npcprof	Smith	武器屋
+npcprof	Smuggler	密輸商人
+npcprof	Spell Master	呪文の達人
+npcprof	Squire	従士
+npcprof	Stablemaster	厩舎長
+npcprof	Stone Cutter	石工
+npcprof	Tailor	仕立て屋
+npcprof	Teacher	教師
+npcprof	Tinker	鋳掛け屋
+npcprof	Tracker	探索者
+npcprof	Trader	交易商
+npcprof	Trapper	罠猟師
+npcprof	Water Master	水使い
+npcprof	Weapons Master	武器の達人
+npcprof	Weaver	織物職人
+npcprof	Wererat Smuggler	ワーラット密輸団
+npcprof	Wind Master	風使い
+reputation	Angelic	天使のような
+reputation	Average	月並みな
+reputation	Bad	悪しき
+reputation	Despicable	見下げはてた
+reputation	Glorious	栄光に包まれた
+reputation	Honorable	名誉ある
+reputation	Monstrous	化物のごとき
+reputation	Neutral	中立
+reputation	Notorious	悪名高き
+reputation	Respectable	尊敬すべき
+reputation	Saintly	聖者のごとき
+reputation	Vile	邪悪な
+skilldes	Air	耐風
+skilldes	Air Magic	風の魔法
+skilldes	Alchemy	錬金術
+skilldes	Armsmaster	修練
+skilldes	Axe	斧
+skilldes	Blaster	ブラスター
+skilldes	Body	耐肉体
+skilldes	Body Building	ボディービル
+skilldes	Body Magic	肉体魔法
+skilldes	Bodybuilding	ボディービル
+skilldes	Bow	弓
+skilldes	Chain	チェイン
+skilldes	Dagger	短剣
+skilldes	Dark	耐闇
+skilldes	Dark Elf Ability	特殊能力
+skilldes	Dark Magic	闇の魔法
+skilldes	Diplomacy	外交
+skilldes	Disarm Trap	解除
+skilldes	Disarm Traps	解除
+skilldes	Dodging	回避
+skilldes	Dragon Ability	特殊能力
+skilldes	Earth	耐地
+skilldes	Earth Magic	地の魔法
+skilldes	Fire	耐炎
+skilldes	Fire Magic	炎の魔法
+skilldes	Identify	鑑定
+skilldes	Identify Item	Identify Item
+skilldes	Identify Monster	Identify Monster
+skilldes	Learning	習得
+skilldes	Leather	レザー
+skilldes	Light	耐光
+skilldes	Light Magic	光の魔法
+skilldes	Mace	メイス
+skilldes	Meditation	瞑想
+skilldes	Merchant	取引
+skilldes	Mind	耐精神
+skilldes	Mind Magic	精神魔法
+skilldes	Perception	知覚
+skilldes	Plate	プレート
+skilldes	Regeneration	再生
+skilldes	Repair	修復
+skilldes	Repair Item	修復
+skilldes	Shield	盾
+skilldes	Spear	槍
+skilldes	Spirit	耐心霊
+skilldes	Spirit Magic	心霊魔法
+skilldes	Staff	杖
+skilldes	Stealing	窃盗
+skilldes	Sword	長剣
+skilldes	Thievery	窃盗
+skilldes	Unarmed	格闘
+skilldes	Vampire Ability	特殊能力
+skilldes	Water	耐水
+skilldes	Water Magic	水の魔法
+spcitems	Antique	アンティーク
+spcitems	Assassins'	アサシン
+spcitems	Barbarians'	バーバリアン
+spcitems	Demon Slayer	
+spcitems	Demon Slaying	
+spcitems	Dragon Slayer	ドラゴンスレイヤー
+spcitems	Dragon Slaying	ドラゴンスレイヤー
+spcitems	Elemental Slaying	エレメンタルスレイヤー
+spcitems	Elf Slaying	
+spcitems	Monks'	モンク
+spcitems	of Acid	オブ アシッド
+spcitems	of Air Magic	オブ エアマジック
+spcitems	of Alarms	オブ アラームズ
+spcitems	of Antidotes	オブ アンチドーテ
+spcitems	of Body Magic	オブ ボディーマジック
+spcitems	of Carnage	オブ カルメージ
+spcitems	of Cold	オブ コールド
+spcitems	of Dark Magic	オブ ダークマジック
+spcitems	of Darkness	オブ ダークネス
+spcitems	Of David	オブ デイビット
+spcitems	of Doom	オブ ドゥーム
+spcitems	of Earth	オブ アース
+spcitems	of Earth Magic	オブ アースマジック
+spcitems	of Feather Falling	オブ フェザーフォーリング
+spcitems	of Fire	オブ ファイアー
+spcitems	of Fire Magic	オブ ファイアーマジック
+spcitems	of Flame	オブ フレーム
+spcitems	of Force	オブ フォース
+spcitems	of Freedom	オブ フリーダム
+spcitems	of Frost	オブ フロスト
+spcitems	of Ice	オブ アイス
+spcitems	of Identifying	オブ アイデンティファイング
+spcitems	of Immunity	オブ イミュニティ
+spcitems	of Infernos	オブ インフェルノ
+spcitems	of Life	オブ ライフ
+spcitems	of Light Magic	オブ ライトマジック
+spcitems	of Lightning	オブ ライトニング
+spcitems	of Mana	オブ マナ
+spcitems	of Mind Magic	オブ マインドマジック
+spcitems	of Plenty	オブ プレンティー
+spcitems	of Poison	オブ ポイズン
+spcitems	of Power	オブ パワー
+spcitems	of Protection	オブ プロテクション
+spcitems	of Recovery	オブ リカバリー
+spcitems	of Regeneration	オブ リジェネレーション
+spcitems	of Sanity	オブ サニティ
+spcitems	of Shielding	オブ シールディング
+spcitems	of Sparks	オブ スパーク
+spcitems	of Spirit Magic	オブ スピリットマジック
+spcitems	of Swiftness	
+spcitems	of The Dragon	オブ ザ ドラゴン
+spcitems	of The Eclipse	オブ ジ エクリプス
+spcitems	of The Gods	オブ ザ ゴッド
+spcitems	of The Golem	オブ ザ ゴーレム
+spcitems	of The Medusa	オブ ザ メデューサ
+spcitems	of The Moon	オブ ザ ムーン
+spcitems	of the Ocean	オブ ジ オーシャン
+spcitems	of The Phoenix	オブ ザ フェニックス
+spcitems	of The Sky	オブ ザ スカイ
+spcitems	of The Stars	オブ ザ スター
+spcitems	of the Storm	オブ ザ ストーム
+spcitems	of The Sun	オブ ザ サン
+spcitems	of The Troll	オブ ザ トロール
+spcitems	of The Unicorn	オブ ジ ユニコーン
+spcitems	of Thievery	オブ シーベリー
+spcitems	of Thunderbolts	オブ サンダーボルト
+spcitems	of Venom	オブ ベノム
+spcitems	of Water Magic	オブ ウォーターマジック
+spcitems	of Water Walking	オブ ウォーターウォーキング
+spcitems	Ogre Slaying	オーガスレイヤー
+spcitems	Rogues	ローグ
+spcitems	Rogues'	ローグ
+spcitems	Swift	スイフト
+spcitems	Thieves'	シーフ
+spcitems	Undead Slaying	アンデッドスレイヤー
+spcitems	Vampiric	ヴァンパイア
+spcitems	Warriors	ウォーリア
+spcitems	Warriors'	ウォーリア
+spcitems	Wizards	ウィザード
+spcitems	Wizards'	ウィザード
+spellgroupshort	Air	Air
+spellgroupshort	Body	Body
+spellgroupshort	Cold	Cold
+spellgroupshort	Dark	耐闇
+spellgroupshort	Earth	Earth
+spellgroupshort	Electricity	Electricity
+spellgroupshort	Fire	Fire
+spellgroupshort	Light	耐光
+spellgroupshort	Mind	Mind
+spellgroupshort	Spirit	耐心霊
+spellgroupshort	Water	Water
+spells	Acid Burst	アシッドバースト
+spells	Air Res	耐風
+spells	Air Resist	エアレジスタンス
+spells	Air Resistance	エアレジスタンス
+spells	Armageddon	ハルマゲドン
+spells	Awaken	アウェイクン
+spells	Berserk	バーサーク
+spells	Blades	ブレード
+spells	Bless	ブレス
+spells	Blind	ブラインド
+spells	Body Res	耐肉体
+spells	Body Resist	ボディーレジスタンス
+spells	Body Resistance	ボディーレジスタンス
+spells	Buffet	ウィングバフィット
+spells	Charm	チャーム
+spells	Cntrl Undead	コントロールアンデッド
+spells	Cold Beam	
+spells	Control Undead	コントロールアンデッド
+spells	Create Food	
+spells	Cure Disease	キュアディジーズ
+spells	Cure Insane	キュアインサニティ
+spells	Cure Insanity	キュアインサニティ
+spells	Cure Paralysis	キュアパラライズ
+spells	Cure Plyze	キュアパラライズ
+spells	Cure Poison	キュアポイズン
+spells	Cure Weak	キュアウィークネス
+spells	Cure Weakness	キュアウィークネス
+spells	Cure Wound	傷薬
+spells	Cure Wounds	傷薬
+spells	Dark Contain	
+spells	Dark Containment	
+spells	Dark Grasp	ダークグラスプ
+spells	Darkfire	ダークファイアーボルト
+spells	Darkfire Bolt	ダークファイアーボルト
+spells	Day -o- Gods	デイ オブ ザ ゴッド
+spells	Day of Prot	
+spells	Day of Protection	デイ オブ プロテクション
+spells	Day of the Gods	デイ オブ ザ ゴッド
+spells	Deadly Swarm	デッドリースワーム
+spells	Death Blossom	デスブロッサム
+spells	Death Blsm	デスブロッサム
+spells	Dest Undead	デストロイアンデッド
+spells	Destroy Undead	デストロイアンデッド
+spells	Detect Life	ディテクトライフ
+spells	Dispel Magic	ディスペルマジック
+spells	Divine Inter	デバインインターベンション
+spells	Divine Intervention	デバインインターベンション
+spells	Drag Breath	ドラゴンブレス
+spells	Dragon Breath	ドラゴンブレス
+spells	Earth Res	耐地
+spells	Earth Resist	アースレジスタンス
+spells	Earth Resistance	アースレジスタンス
+spells	Enchant Item	エンチャントアイテム
+spells	Enslave	エンスレイブ
+spells	Fate	フェイト
+spells	Fear	フィアー
+spells	Feather Fall	フェザーフォール
+spells	Feeblemind	精神を破壊されている
+spells	Finger Death	
+spells	Finger of Death	
+spells	Fire Aura	ファイアーオーラ
+spells	Fire Blast	
+spells	Fire Bolt	ファイアーボルト
+spells	Fire Res	耐炎
+spells	Fire Resistance	ファイアーレジスタンス
+spells	Fire Spike	ファイアースパイク
+spells	Fireball	ファイアーボール
+spells	First Aid	
+spells	Flame Arrow	
+spells	Flame Blast	フレームブラスト
+spells	Flight	フライト
+spells	Fly	フライ
+spells	Flying Fist	フライングフィスト
+spells	Glamour	グラマー
+spells	Gldn Touch	
+spells	Golden Touch	
+spells	Guard Angel	
+spells	Guardian Angel	
+spells	Hammerhand	ハンマーハンド
+spells	Hammerhands	ハンマーハンド
+spells	Harm	ハーム
+spells	Haste	ヘイスト
+spells	Heal	ヒール
+spells	Healing	
+spells	Healing Touch	
+spells	Heroism	ヒロイズム
+spells	Hour of Power	アワー オブ パワー
+spells	Hour Power	
+spells	Ice Blast	アイスブラスト
+spells	Ice Bolt	アイスボルト
+spells	Immolation	イモレーション
+spells	Implosion	インプロージョン
+spells	Incinerate	インシネレイト
+spells	Inferno	インフェルノ
+spells	Invisibility	インビジビリティ
+spells	Jump	ジャンプ
+spells	Levitate	レビテイト
+spells	Lifedrain	ライフドレイン
+spells	Light Bolt	ライトボルト
+spells	Lightning	ライトニングボルト
+spells	Lightning Bolt	ライトニングボルト
+spells	Lloyd's	ロイズビーコン
+spells	Lloyd's Beacon	ロイズビーコン
+spells	Lucky Day	ラッキーデー
+spells	Magic Arrow	
+spells	Mass Curse	
+spells	Mass Distort	マスディストーション
+spells	Mass Distortion	マスディストーション
+spells	Mass Fear	マスフィア
+spells	Meditation	瞑想
+spells	Meteor Shower	メテオシャワー
+spells	Meteor Shwr	メテオシャワー
+spells	Mind Blast	マインドブラスト
+spells	Mind Res	耐精神
+spells	Mind Resist	マインドレジスタンス
+spells	Mind Resistance	マインドレジスタンス
+spells	Mistform	ミストフォーム
+spells	Moon Ray	
+spells	Pain Reflect	ペインリフレクション
+spells	Pain Reflection	ペインリフレクション
+spells	Paralyze	パラライズ
+spells	Poison Spr	ポイズンスプレー
+spells	Poison Spray	ポイズンスプレー
+spells	Power	パワー
+spells	Power Cure	パワーキュア
+spells	Precision	プレシジョン
+spells	Preservation	プリザベーション
+spells	Pris Light	プリズマティックライト
+spells	Prismatic Light	プリズマティックライト
+spells	Prot Cold	耐冷気
+spells	Prot Elec	耐電気
+spells	Prot Fire	耐炎
+spells	Prot Magic	耐魔法
+spells	Prot Poison	耐毒
+spells	Protection from Cold	
+spells	Protection from Electricity	
+spells	Protection from Fire	
+spells	Protection from Magic	プロテクションフロムマジック
+spells	Protection from Poison	
+spells	Psy - Shock	サイキックショック
+spells	Psychic Shock	サイキックショック
+spells	Raise Dead	レイズデッド
+spells	Reanimate	リアニメイト
+spells	Recharge	リチャージアイテム
+spells	Recharge Item	リチャージアイテム
+spells	Regeneration	リジェネレーション
+spells	Remove Curse	リムーブカース
+spells	Remove Fear	リムーブフィア
+spells	Resurrection	レザレクション
+spells	Ring of Fire	
+spells	Rmv. Curse	リムーブカース
+spells	Rock Blast	ロックブラスト
+spells	Sacrifice	Sacrifice
+spells	Shared Life	シェアドライフ
+spells	Shield	シールド
+spells	Shrapmetal	シュラップメタル
+spells	Shrink Ray	シュリンキングレイ
+spells	Shrinking Ray	シュリンキングレイ
+spells	Slow	スロウ
+spells	Souldrinker	ソウルドリンカー
+spells	Sparks	スパーク
+spells	Speed	速さ
+spells	Spirit Arrow	
+spells	Spirit Lash	スピリットラッシュ
+spells	Starburst	スターバースト
+spells	Static Charge	
+spells	Static Chrg	
+spells	Stone - Flesh	ストーン トゥ フレッシュ
+spells	Stone Skin	ストーンスキン
+spells	Stone to Flesh	ストーン トゥ フレッシュ
+spells	Stoneskin	ストーンスキン
+spells	Stun	スタン
+spells	Summon	サモンエレメンタル
+spells	Summon Elemental	Summon Elemental
+spells	Summon Wisp	サモンエレメンタル
+spells	Sun Ray	サンレイ
+spells	Sunray	サンレイ
+spells	Swarm	デッドリースワーム
+spells	Telekinesis	テレキネシス
+spells	Telepathy	テレパシー
+spells	Torch Light	トーチライト
+spells	Town Portal	タウンポータル
+spells	Toxic Cloud	トキシッククラウド
+spells	Travel Boon	トラベラーズブーン
+spells	Travelers' Boon	トラベラーズブーン
+spells	Turn - Stone	
+spells	Turn to Stone	
+spells	Turn Undead	ターンアンデッド
+spells	Vamp Weap	ヴァンピリックウェポン
+spells	Vampiric Weapon	ヴァンピリックウェポン
+spells	Water Res	耐水
+spells	Water Resist	ウォーターレジスタンス
+spells	Water Resistance	ウォーターレジスタンス
+spells	Water Walk	ウォーターウォーク
+spells	Wing Buffet	ウィングバフィット
+spells	Wizard Eye	ウィザードアイ
+spells vampire	Charm	チャーム
+stats	AC	AC
+stats	Accuracy	器用度
+stats	Age	年齢
+stats	Air	耐風
+stats	Armor Class	アーマークラス
+stats	Attack	攻撃
+stats	Attack Bonus	攻撃ボーナス
+stats	Attack Damage	攻撃ダメージ
+stats	Body	耐肉体
+stats	Class	クラス
+stats	Cold	冷気
+stats	Cond	状態
+stats	Condition	状態
+stats	Dmg	ダメージ
+stats	Earth	耐地
+stats	Electricity	電気
+stats	Endurance	耐久力
+stats	Exp.	経験値
+stats	Experience	経験値
+stats	Fame	名誉
+stats	Fire	耐炎
+stats	Hit Points	ヒットポイント
+stats	HP	HP
+stats	Intellect	知性
+stats	Level	レベル
+stats	Luck	運
+stats	Magic	魔法
+stats	Might	力
+stats	Mind	耐精神
+stats	Name	名前
+stats	Personality	カリスマ
+stats	Points	ポイント
+stats	Poison	毒
+stats	QSpell	即効呪文
+stats	Quick Spell	即効呪文
+stats	Reputation	名声
+stats	Shoot Bonus	射撃ボーナス
+stats	Shoot Damage	射撃ダメージ
+stats	Skill Points	技能ポイント
+stats	Skills	技能
+stats	SP	MP
+stats	Speed	速さ
+stats	Spell Points	マジックポイント
+stats	Water	耐水
+stditems	of Air Resistance	オブ エアレジスタンス
+stditems	of Alchemy	オブ アルケミー
+stditems	of Arms	オブ アームス
+stditems	of Body Resistance	オブ ボディーレジスタンス
+stditems	of Charm	オブ チャーム
+stditems	of Cold Resistance	
+stditems	of Defense	オブ ディフェンス
+stditems	of Disarming	オブ ディスアーミング
+stditems	of Dodging	オブ ドッジング
+stditems	of Earth Resistance	オブ アースレジスタンス
+stditems	of Elec Resistance	
+stditems	of Fire Resistance	オブ ファイアーレジスタンス
+stditems	of great Might	
+stditems	of Health	オブ ヘルス
+stditems	of Items	オブ アイテム
+stditems	of Luck	オブ ラック
+stditems	of Magic	オブ マジック
+stditems	of Might	オブ マイト
+stditems	of Mind Resistance	オブ マインドレジスタンス
+stditems	of Monsters	オブ モンスター
+stditems	of Poison Resistance	
+stditems	of Precision	オブ プレシジョン
+stditems	of Speed	オブ スピード
+stditems	of Stealing	オブ スティーリング
+stditems	of the Fist	オブ ザ フィスト
+stditems	of Thought	オブ ソート
+stditems	of Vigor	オブ ビガー
+stditems	of Water Resistance	オブ ウォーターレジスタンス

@@ -1,0 +1,2436 @@
+# GENERATED - do not edit translations here. Regenerate with:
+#   python tools/build_glossary.py
+# Term selection lives in references/glossary/glossary-terms.tsv;
+# the translations are looked up in translations/ru/.../mm678.po.
+# Columns: msgctxt <TAB> English <TAB> ru
+autonote or awards	Accuracy Boost (White) = Orange + Yellow and Orange Layered	Увеличение Меткости (белое) = оранжевое + желтое и оранжевое слоями
+autonote or awards	Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered	Устойчивость к Воздуху (белое) = красное и оранжевое слоями + синее и фиолетовое слоями
+autonote or awards	Awaken (Green) = Yellow + Blue	Пробуждение (Зеленое) = Желтое + Синее
+autonote or awards	Bless (Red and Green Layered) = Red + Green	Благословение (Красное + Зеленое слоями) = Красное + Зеленое
+autonote or awards	Bless (White) = Purple + Blue	Благословение (белое) = Пурпурное + Синее
+autonote or awards	Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered	Устойчивость Тела (белое) = синее и зеленое слоями + желтое и оранжевое слоями
+autonote or awards	Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	Катализатор (Серый) = Грибы + Пустая Бутылка.  Различные серые реагенты можно использовать для усугубления эффекта.
+autonote or awards	Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	Катализатор (Серый) = Грибы + Пустая бутылка. Различные серые реагенты могут использоваться для усиления эффекта снадобья.
+autonote or awards	Cure Disease (Orange) = Yellow + Red	Исцеление болезней (Оранжевое) = Желтое + Красное
+autonote or awards	Cure Insanity (Orange and Green Layered) = Orange + Green	Исцеление безумия (оранжевое и зеленое слоями) = оранжевое + зеленое
+autonote or awards	Cure Paralysis (White) = Green + Yellow and Orange Layered	Исцеление Паралича (белое) = зеленое + желтое и оранжевое слоями
+autonote or awards	Cure Paralysis (White) = Orange + Yellow and Green Layered	Исцеление Паралича (белое) = оранжевое + желтое и зеленое слоями
+autonote or awards	Cure Poison (Purple) = Blue + Red	Противоядие (Фиолетовое) = Синее + Красное
+autonote or awards	Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.	Исцеление слабости (Желтое) = Маковые коробочки  + Пустая Бутылка.  Различные желтые компоненты можно использовать для увеличения эффекта.
+autonote or awards	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle	Лечение Ран (красное) = Волчьи ягоды + Пустая бутылка
+autonote or awards	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.	Исцеление ран (Красное) = Ягоды Вдовьих Слез + Пустая Бутылка.  Различные красные реагенты можно использовать для увеличения эффекта.
+autonote or awards	Divine Boost = Divine Power + Any attribute boost potion.	
+autonote or awards	Divine Cure (Black) = Restoration + Orange	Божественное лечение (черное) = Приведение в сознание + Оранжевое
+autonote or awards	Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered	Божественное Исцеление (белое) = красное и оранжевое слоями + желтое и оранжевое слоями
+autonote or awards	Divine Magic (Black) = Super Resistance + Green	Божественная магия (черное) = Сверхустойчивость + Зеленое
+autonote or awards	Divine Power (Black) = Extreme Energy + Purple	Божественная сила (черное) = Сверхэнергия + Пурпурное
+autonote or awards	Divine Power (White) = Blue and Green Layered + Yellow and Green Layered	Божественная Сила (белое) = синее и зеленое слоями + желтое и зеленое слоями
+autonote or awards	Divine Protection = Divine Cure + Any resistance potion.	
+autonote or awards	Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered	Божественное Восстановление (белое) = синее и фиолетовое слоями + желтое и оранжевое слоями
+autonote or awards	Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered	Божественное Восстановление (белое) = красное и оранжевое слоями + синее и зеленое слоями
+autonote or awards	Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered	Божественное Восстановление (белое) = красное и фиолетовое слоями + желтое и зеленое слоями
+autonote or awards	Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)	
+autonote or awards	Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered	Устойчивость к Земле (белое) = красное и фиолетовое слоями + желтое и оранжевое слоями
+autonote or awards	Endurance Boost (White) = Purple + Blue and Purple Layered	Увеличение Выносливости (белое) = фиолетовое + синее и фиолетовое слоями
+autonote or awards	Energy (Yellow) = Poppysnaps + Empty Bottle	Энергия (желтое) = Маковый хруст + Пустая бутылка
+autonote or awards	Essence of Accuracy (Black) = Bless + Yellow	Эссенция меткости (черное) = Благословение + Желтое
+autonote or awards	Essence of Accuracy = Cure Insanity + Stoneskin	
+autonote or awards	Essence of Endurance (Black) = Supreme Protection + Yellow	Эссенция выносливости (черное) = Высшая Защита + Желтое
+autonote or awards	Essence of Endurance = Remove Curse + Recharge Item	
+autonote or awards	Essence of Intellect (Black) = Stone Skin + Blue	Эссенция интеллекта (черное) = Каменная кожа + Синее
+autonote or awards	Essence of Intellect = Remove Curse + Shield	
+autonote or awards	Essence of Luck (Black) = Super Resistance + Purple	Эссенция удачи (черное) = Сверхустойчивость + Пурпурное
+autonote or awards	Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin	
+autonote or awards	Essence of Might (Black) = Heroism + Red	Эссенция силы (черное) = Мужество + Красное
+autonote or awards	Essence of Might = Remove Fear + Heroism	
+autonote or awards	Essence of Personality (Black) = Restoration + Blue	Эссенция силы духа (черное) = Приведение в сознание + Синее
+autonote or awards	Essence of Personality = Remove Fear + Haste	
+autonote or awards	Essence of Speed (Black) = Haste + Red	Эссенция скорости (черное) = Ускорение + Красное
+autonote or awards	Essence of Speed = Cure Insanity + Harden Item	
+autonote or awards	Extreme Energy (White) = Orange + Yellow	Сверхэнергия (белое) = Оранжевое + Желтое
+autonote or awards	Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered	Устойчивость к Огню (белое) = красное и оранжевое слоями + желтое и зеленое слоями
+autonote or awards	Flaming Potion (White) = Green + Red and Orange Layered	Пылающее Зелье (белое) = зеленое + красное и оранжевое слоями
+autonote or awards	Flaming Potion (White) = Purple + Yellow and Orange Layered	Пылающее Зелье (белое) = фиолетовое + желтое и оранжевое слоями
+autonote or awards	Freezing Potion (White) = Green + Red and Purple Layered	Замораживающее Зелье (белое) = зеленое + красное и фиолетовое слоями
+autonote or awards	Freezing Potion (White) = Orange + Blue and Purple Layered	Замораживающее Зелье (белое) = оранжевое + синее и фиолетовое слоями
+autonote or awards	Harden Item (Yellow and Green Layered) = Yellow + Green	Добавить прочности предмету (желтое и зеленое слоями) = желтое + зеленое
+autonote or awards	Haste (Red and Orange Layered) = Red + Orange	Ускорение (Красное и Оранжевое слоями) =  Красное + Оранжевое
+autonote or awards	Haste (White) = Green + Yellow	Ускорение (белое) = Зеленое + Желтое
+autonote or awards	Heroism (Red and Purple Layered) = Red + Purple	Героизм (Красное и Фиолетовое слоями) = Красное + Фиолетовое
+autonote or awards	Heroism (White) = Orange + Red	Мужество (белое) = Оранжевое + Красное
+autonote or awards	Intellect Boost (White) = Green + Yellow and Green Layered	Увеличение Интеллекта (белое) = зеленое + желтое и зеленое слоями
+autonote or awards	Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered	Увеличение Удачи (белое) = красное и фиолетовое слоями + синее и фиолетовое слоями
+autonote or awards	Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered	Сапоги Удачи (Белое) = Красно-пурпурное + Сине-пурпурное
+autonote or awards	Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.	Волшебное зелье (Синее) = Корень Фимы + Пустая Бутылка. Различные синие реагенты можно использовать для увеличения эффекта.
+autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle	Магическое снадобье (синее) = Корень бузины + Пустая бутылка
+autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.	Магическое снадобье (Синее) = Корень бузины + Пустая бутылка. Различные синие реагенты могут использоваться для усиления эффекта снадобья.
+autonote or awards	Might Boost (White) = Purple + Red and Purple Layered	Увеличение Мощи (белое) = фиолетовое + красное и фиолетовое слоями
+autonote or awards	Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered	Устойчивость Разума (белое) = красное и фиолетовое слоями + синее и зеленое слоями
+autonote or awards	Noxious Potion (White) = Orange + Blue and Green Layered	Вредоносное Зелье (белое) = оранжевое + синее и зеленое слоями
+autonote or awards	Noxious Potion (White) = Purple + Yellow and Green Layered	Вредоносное Зелье (белое) = фиолетовое + желтое и зеленое слоями
+autonote or awards	Personality Boost (White) = Green + Blue and Green Layered	Увеличение Лидерства (белое) = зеленое + синее и зеленое слоями
+autonote or awards	Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity	
+autonote or awards	Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.	
+autonote or awards	Preservation (Blue and Orange Layered) = Blue + Orange	Сохранение (Синее и Оранжевое слоями) = Синее + Оранжевое
+autonote or awards	Protection (Orange) = Yellow + Red	Защита (оранжевое) = Желтое + Красное
+autonote or awards	Protection from Magic = Cure Insanity + Bless	
+autonote or awards	Protection from Magic = Remove Curse + Water Breathing	
+autonote or awards	Protection from Magic = Remove Fear + Preservation	
+autonote or awards	Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)	Абсолютная Меткость (черное) = зеленое зелье + Увеличение Меткости (белое)
+autonote or awards	Pure Air Resistance = Essence of Luck + Air Resistance	
+autonote or awards	Pure Body Resistance = Essence of Luck + Body Resistance	
+autonote or awards	Pure Earth Resistance = Essence of Luck + Earth Resistance	
+autonote or awards	Pure Endurance (Black) = Green Potion + Endurance Boost (White)	Абсолютная Выносливость (черное) = зеленое зелье + Увеличение Выносливости (белое)
+autonote or awards	Pure Fire Resistance = Essence of Luck + Fire Resistance	
+autonote or awards	Pure Intellect (Black) = Orange Potion + Intellect Boost (White)	Абсолютный Интеллект (черное) = оранжевое зелье + Увеличение Интеллекта (белое)
+autonote or awards	Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)	Абсолютная Удача (черное) = желтое и оранжевое слоями + Зелье Ускорения (белое)
+autonote or awards	Pure Might (Black) = Orange Potion + Might Boost (White)	Абсолютная Мощь (черное) = оранжевое зелье + Увеличение Мощи (белое)
+autonote or awards	Pure Mind Resistance = Essence of Luck + Mind Resistance	
+autonote or awards	Pure Personality (Black) = Purple Potion + Personality Boost (White)	Абсолютное Лидерство (черное) = фиолетовое зелье + Увеличение Лидерства (белое)
+autonote or awards	Pure Speed (Black) = Purple Potion + Speed Boost (White)	Абсолютная Скорость (черное) = фиолетовое зелье + Увеличение Скорости (белое)
+autonote or awards	Pure Water Resistance = Essence of Luck + Water Resistance	
+autonote or awards	Recharge Item (Blue and Green Layered) = Blue + Green	Перезарядка предмета (Синее и зеленое слоями) = Синее + Зеленое
+autonote or awards	Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)	Омоложение (черное) = синее и оранжевое слоями + Божественное Восстановление (белое)
+autonote or awards	Rejuvenation (Black) = Extreme Energy + Green	Омоложение (черное) = Сверхэнергия + Зеленое
+autonote or awards	Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)	Омоложение (черное) = красное и зеленое слоями + Божественное Восстановление (белое)
+autonote or awards	Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)	Омоложение (черное) = желтое и фиолетовое слоями + Божественное Восстановление (белое)
+autonote or awards	Remove Curse (Purple and Green Layered) = Purple + Green	Снятие проклятия (фиолетовое и зеленое слоями) = фиолетовое + зеленое
+autonote or awards	Remove Fear (Orange and Purple Layered) = Orange + Purple	Изгнание страха (оранжевое и фиолетовое слоями) = оранжевое + фиолетовое
+autonote or awards	Resistance (Green) = Yellow + Blue	Устойчивость (зеленое) = Желтое + Синее
+autonote or awards	Restoration(White) = Purple + Green	Приведение в сознание (белое) = Пурпурное + Зеленое
+autonote or awards	Shield (Blue and Purple Layered) = Blue + Purple	Защита (Синее и Фиолетовое слоями) = Синее + Фиолетовое
+autonote or awards	Shocking Potion (White) = Orange + Red and Purple Layered	Шоковое
+autonote or awards	Shocking Potion (White) = Purple + Red and Orange Layered	Шоковое Зелье (белое) = фиолетовое + красное и оранжевое слоями
+autonote or awards	Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)	Убийственное Зелье (черное) = синее и фиолетовое слоями + Пылающее Зелье (белое)
+autonote or awards	Speed Boost (White) = Orange + Red and Orange Layered	Увеличение Скорости (белое) = оранжевое + красное и оранжевое слоями
+autonote or awards	Stone Skin (White) = Orange + Blue	Каменная кожа (белое) = Оранжевое + Синее
+autonote or awards	Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)	Размягчение (черное) = красное и фиолетовое слоями + Исцеление Паралича (белое)
+autonote or awards	Stoneskin (Yellow and Orange Layered) = Yellow + Orange	Каменная кожа (Желтое и Оранжевое слоями) = Желтое + Оранжевое
+autonote or awards	Super Resistance (White) = Green + Blue	Сверхустойчивость (белое) = Зеленое + Синее
+autonote or awards	Supreme Protection (White) = Orange + Green	Высшая Защита (белое) = Оранжевое + Зеленое
+autonote or awards	Swift Potion (White) = Green + Blue and Purple Layered	Зелье Ускорения (белое) = зеленое + синее и фиолетовое слоями
+autonote or awards	Swift Potion (White) = Purple + Blue and Green Layered	Зелье Ускорения (белое) = фиолетовое + синее и зеленое слоями
+autonote or awards	Water Breathing (Yellow and Purple Layered) = Yellow + Purple	Дыхание под водой (Желтое и Фиолетовое слоями) = Желтое + Фиолетовое
+autonote or awards	Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered	Устойчивость к Воде (белое) = синее и фиолетовое слоями + желтое и зеленое слоями
+class	Arch Druid	Архи-друид
+class	Arch Mage	Архимаг
+class	Archer	Лучник
+class	Assassin	Ассасин
+class	Battle Mage	Боевой маг
+class	Black Knight	Темный Рыцарь
+class	Bounty Hunter	Охотник за головами
+class	Cavalier	Кавалер
+class	Champion	Заступник
+class	Cleric	Клирик
+class	Crusader	Крестоносец
+class	Dark Elf	Темный Эльф
+class	Dark Elf Patriarch	Патриарх темных эльфов
+class	Dragon	Дракон
+class	Druid	Друид
+class	Great Druid	Великий Друид
+class	Great Wyrm	Великий Змий
+class	Hero	Герой
+class	High Priest	Верховный жрец
+class	Hunter	Охотник
+class	Initiate	Посвященный
+class	Knight	Рыцарь
+class	Lich	Лич
+class	Master	Магистр
+class	Master Archer	Мастер-лучник
+class	Master Necromancer	Мастер некромантии
+class	Master Wizard	
+class	Minotaur	Минотавр
+class	Minotaur Lord	Минотавр-рыцарь
+class	Monk	Монах
+class	Necromancer	Некромант
+class	Ninja	Нинзя
+class	Nosferatu	Носферату
+class	Paladin	Паладин
+class	Patriarch	Патриарх
+class	Peasant	Крестьянин
+class	Priest	Священник
+class	Priest of Light	Священник Света
+class	Priest of the Dark	Священник Тьмы
+class	Priest of the Light	Священник Света
+class	Priest of the Sun	Священник Солнца
+class	Ranger	Рейнджер
+class	Ranger Lord	Властелин - рейнджер
+class	Rogue	Бродяга
+class	Sniper	Снайпер
+class	Sorcerer	Заклинатель
+class	Spy	Шпион
+class	Thief	Вор
+class	Troll	Тролль
+class	Vampire	Вампир
+class	Villain	Злодей
+class	War Troll	Бойцовый Тролль
+class	Warlock	Колдун
+class	Warrior Mage	Маг-воин
+class	Wizard	Волшебник
+condition	Afraid	Испуган(а)
+condition	Asleep	Спит
+condition	Cursed	Проклят(а)
+condition	Dead	Мертв(а)
+condition	Diseased	Болен(больна)
+condition	Drunk	Пьяный
+condition	Eradicated	Уничтожен(а)
+condition	Good	Здоров(а)
+condition	Insane	Безумие
+condition	Paralyzed	Парализован(а)
+condition	Poison	Отравлен(а)
+condition	Stoned	Окаменел(а)
+condition	Unconscious	В обмороке
+condition	Weak	Слабость
+condition	Zombie	Зомби
+items	Abbey Normal Golem Head	Нормальная голова голема Эбби
+items	Accuracy Boost	Увеличение Меткости
+items	Accuracy Boost Recipe	Рецепт поднятия меткости
+items	Accurate Crossbow	Арбалет меткости
+items	Aegis	Эгида
+items	Air Resistance	Устойчивость к Воздуху
+items	Air Resistance Recipe	Рецепт устойчивости к Воздуху
+items	Alacorn Wand of Acid	Алакорнийский Жезл Кислоты
+items	Alacorn Wand of Blades	Алакорнийский жезл Лезвий
+items	Alacorn Wand of Charms	Алакорнийский жезл Чар
+items	Alacorn Wand of Fireballs	Алакорнийский жезл Огненных шаров
+items	Alacorn Wand of Ice	Жезл льда алакорна
+items	Alacorn Wand of Lightning	Алакорнийский Жезл Молнии
+items	Alacorn Wand of Swarms	Жезл Роя алакорна
+items	Alloyed Shield	Легированный щит
+items	Almighty Crown	Корона всемогущего
+items	Altar Piece	Часть алтаря
+items	Alvar Cloak	Альварский плащ
+items	Alvarian Boots	Альварские сапоги
+items	Alvarian Leather	Альварский кожаный доспех
+items	Alvarian Poignard	Альварский кинжал
+items	Amber	Янтарь
+items	Amethyst	Аметист
+items	Amethyst Ring	Кольцо с аметистами
+items	Amuck	Ярость
+items	Amythest	Аметист
+items	Ancient Amulet	Древний амулет
+items	Angel Statue Painting	Картина со статуей ангела
+items	Angel Statuette	Статуэтка ангела
+items	Angel's Ring	Кольцо Ангела
+items	Angelic Helm	Ангельский шлем
+items	Ania Selving	Аня Селвинг
+items	Ankh	Символ жизни
+items	Anointed Herb Potion	Зелье Очищения
+items	Aphrodite	Афродита
+items	Apollo	Аполлон
+items	Apple	Яблоко
+items	Arcane Key	Волшебный Ключ 
+items	Arcane Wand of Blasting	Таинственный жезл Залпа
+items	Arcane Wand of Clouds	Волшебный жезл Облаков
+items	Arcane Wand of Lightning	Жезл молнии
+items	Arcane Wand of Paralyzing	Таинственный жезл Паралича
+items	Arcane Wand of Rocks	Таинственный жезл Камнепада
+items	Arcane Wand of the Fist	Таинственный Жезл Кулака
+items	Archangel Broadsword	Палаш Архангела
+items	Archangel Wings	Крылья Архангела
+items	Archibald Ironfist Painting	Портрет Арчибальда Айронфиста
+items	Arcomage Deck	Колода для игры в АркоМэйдж
+items	Ares	Арес
+items	Armored Boots	Укрепленные сапоги
+items	Artemis	Артемида
+items	Arthur	Артур
+items	Artificer's Belt	Пояс художника
+items	Assassin's Dagger	Кинжал Убийцы
+items	Astral Shield	Звездный щит
+items	Athena	Афина
+items	Atlas	Атлас
+items	Awaken	Пробуждение
+items	Axe of Balthazar	Топор Бальтазара
+items	Back Door Key	Ключ к задней двери
+items	Ball of Dunduck	Голова Дандэкского Сыра
+items	Banded Plate	Наборный доспех
+items	Barbed Club	
+items	Barbed Trident	Заостренный трезубец
+items	Barrow Key	Ключ от кургана
+items	Basic Cryptography	Основы криптографии
+items	Bathhouse Key	Ключ от бани
+items	Battle Axe	Боевой топор
+items	Battle Hatchet	Боевой топорик
+items	Battle Helm	Боевой шлем
+items	Battleaxe	Боевой топор
+items	Beaked Halberd	Алебарда
+items	Bear Statuette	Статуэтка медведя
+items	Berserk	Берсерк
+items	Berserker Belt	Пояс Берсерка
+items	Bibliotheca Chest Key	Ключ от сундука в библиотеке
+items	Big Brass Ring	Большое латунное кольцо
+items	Big Tapestry	Большой гобелен
+items	Bill of Sale	Купчая
+items	Blackmail Letter	Угрожающее Письмо
+items	Blade of Mercy	Клинок Милосердия
+items	Blaster	Бластер
+items	Blaster Rifle	Лучевое ружье
+items	Bless	Благословение
+items	Blessed Ring	Святое кольцо
+items	Blood Dagger	Кровавый кинжал 
+items	Blood Drop Crossbow	Кровавый арбалет
+items	Blood Talisman	Кровавый талисман
+items	Blue Quartz	Синий кварц
+items	Body Resistance	Устойчивость Тела
+items	Body Resistance Recipe	Рецепт устойчивости Тела
+items	Bone	Кость
+items	Bone of Doom	Кость Рока
+items	Bone Staff	Костяной посох
+items	Brass Charm	Латунное ожерелье
+items	Brass Ring	Латунное кольцо
+items	Breaker	Разрушитель
+items	Broadsword	Палаш
+items	Bronze Amulet	Бронзовый амулет
+items	Bronze Ring	Бронзовое кольцо
+items	Bronze Shield	Бронзовый щит
+items	Calvary Shield	Кавалерийский щит
+items	Candelabra	Канделябр
+items	Cannon Design Notes	Набросок
+items	Cannonball of Dominion	Ядро
+items	Captain's Code	Капитанский Кодекс
+items	Captain's Cutlass	Капитанский тесак
+items	Caravaner's Crossbow	Арбалет караванщика
+items	Caravaner's Leather	Кожаный доспех караванщика
+items	Caravaner's Small Shield	Малый щит караванщика
+items	Cardinal Cloak	Мантия кардинала
+items	Case of Soul Jars	Ларец с Сосудами Души
+items	Castle Shield	Замковый щит
+items	Catalyst	Катализатор
+items	Catherine's Key	Ключ Катерины
+items	Cavalier Gauntlets	Рукавицы всадника
+items	Celestial Shield	Небесный щит
+items	Cell Key	Ключ от кельи
+items	Central Pillar Key	Ключ Центрального Столпа
+items	Certificate of Authentication	Сертификат подлинности Топора
+items	Chain Mail	Кольчуга
+items	Champion Sword	Меч Чемпиона
+items	Champion's Sword	Меч заступников
+items	Charele	Чарель
+items	Charged connector stone	
+items	Chest Key	Ключ от сундука
+items	Chime of Harmony	Колокольчик Гармонии
+items	Cipher	Шифр
+items	Citrine	Цитрин
+items	Clanker's Amulet	Амулет Кланкера
+items	Claw Amulet	Амулет коготь
+items	Cloak of Baa	Мантия Баа
+items	Cloak of the Sheep	Мантия Овцы
+items	Cloth Hat	Матерчатая Шапка
+items	Club	Дубинка
+items	Cobra Egg	Яйцо кобры
+items	Colony Zod Key	Ключ Колонии Зод
+items	Common Halberd	
+items	Communication Officer's Code	Кодекс начальника связи
+items	Composite Bow	Составной лук
+items	Conan	Конан
+items	Conflux Key	Ключ Сопряжения
+items	Connector stone	
+items	Conscript's Helm	Шлем новобранца
+items	Contestant's Shield	Щит соперника
+items	Control Cube	Куб Управления
+items	Control Undead	Управление Нежитью
+items	Corsair	Корсар
+items	Crate of Arrowheads	Ящик с наконечниками стрел
+items	Crate of Enrothian Wine	Ящик с энротским вином
+items	Crate of Glass Bottles	Ящик со стеклянными бутылками
+items	Crate of Griffin Feathers	Ящик с перьями грифона
+items	Crate of Sand	Ящик песка
+items	Crate of Tularean Wood	Ящик с Тулареанской древесиной
+items	Cronos	Крон
+items	Crossbow	Арбалет
+items	Crown	Корона
+items	Crown of Final Dominion	Корона Верховного Владычества
+items	Crude Axe	Простой топор
+items	Crude Bow	Простой лук
+items	Crude Crossbow	
+items	Crude Dagger	Обычный кинжал
+items	Crude Leather Armor	
+items	Crude Longbow	
+items	Crude Longsword	Простой длинный меч
+items	Crude Mace	
+items	Crude Spear	Грубое копье
+items	Crude Trident	
+items	Cruel Spear	Жестокое копье
+items	Crusader Sword	Меч крестоносца
+items	Crusader's Gauntlets	Рукавицы крестоносцев
+items	Crushed Rose Petals	Измельченные розовые лепестки
+items	Crystal Dagger	Кристалльный кинжал
+items	Crystal of Terrax	Кристалл Терракса
+items	Crystal Skull	Хрустальный череп
+items	Cure Disease	Излечение болезней
+items	Cure Insanity	Исцеление Безумия
+items	Cure Paralysis	Исцеление Паралича
+items	Cure Paralysis Recipe	Рецепт исцеления паралича
+items	Cure Poison	Противоядие
+items	Cure Weakness	Исцеление слабости
+items	Cure Wounds	Исцеление ран
+items	Cutlass	Нож
+items	Cycle of life	
+items	Dadeross' Letter to Fellmoon	Письмо Дадеросса к Феллмуну
+items	Dagger	Кинжал
+items	Dagger Wound Oddities	Странности на Кинжальной Ране
+items	Dark Containment	Вселение Тьмы
+items	Dark Elven Bastard Sword	Меч-бастард темных эльфов
+items	Dark Elven Longsword	Большой меч темных эльфов
+items	Dark Grasp	Темная Хватка
+items	Dark Hammer	Темный молот 
+items	Dark Knight Plate	Латы темного рыцаря
+items	Datura	Дурман
+items	Dazzling Ring	Ослепительное кольцо
+items	Death Head Shield	Щит Мертвой Головы
+items	Death Mace	Булава смерти
+items	Death's Head Pendant	Брелок Голова Смерти
+items	Deck of Fate	Колода Судьбы
+items	Defender Helm	Шлем защитника
+items	Detect Life	Обнаружение Жизни
+items	Devil Plans	Дьявольские планы
+items	Devilbone Bow	Лук Дьяволова Кость
+items	Diamond	Алмаз
+items	Diary Page	Страница дневника
+items	Dimension door	
+items	Dire Wolf Pelt	Шкура матерого волка
+items	Discharge Papers	Бумаги по увольнению
+items	Disheveled Chain Mail	
+items	Divine Boost	
+items	Divine Boost recipe	
+items	Divine Cure	Божественное Исцеление
+items	Divine Cure Recipe	Рецепт Божественного исцеления
+items	Divine Dagger	Кинжал святости
+items	Divine Magic	Божественная магия
+items	Divine Power	Божественная  Сила
+items	Divine Power Recipe	Рецепт Божественной силы
+items	Divine Protection	
+items	Divine Protection recipe	
+items	Divine Restoration	Божественное Восстановление
+items	Divine Restoration Recipe	Рецепт Божественного восстановления
+items	Divine Transcendence	
+items	Divine Transcendence recipe	
+items	Doctor's Code	Кодекс врача
+items	Doom's Day Cloak	Мантия Судного дня
+items	Dragon Claw	Коготь дракона
+items	Dragon Egg	Яйцо дракона
+items	Dragon Harpoon	Драконий Гарпун
+items	Dragon Helm	Драконий шлем
+items	Dragon Hide Gauntlets	Латные рукавицы из шкуры дракона
+items	Dragon Hunter's Shield	Щит охотника на драконов
+items	Dragon Leader's Egg	Яйцо Предводителя Драконов
+items	Dragon Leather	Кожа дракона
+items	Dragon Statuette	Статуэтка дракона
+items	Dragon Tower Keys	Ключи от башни Дракона
+items	Dragon Turtle Fang	Клык Драконовой Черепахи
+items	Dragon's Eye	Глаз дракона
+items	Dragonbane Flower	Цветок "Погибель драконов
+items	Dragoning Plate	Драконий панцирь
+items	Dragonning Blade	Драконий клинок
+items	Dragonning Boots	Драконьи Сапоги
+items	Dried Sunfish	Сушеная рыба-солнце
+items	Drogg's Helm	Шлем Дрогга
+items	Druid Circlet of Power	Друидский Браслет Силы
+items	Drum of Victory	Барабан Победы
+items	Dueling Long Dagger	Дага
+items	Duelist Blade	Клинок дуэлянта
+items	Dwarven Axe	Топор гномов
+items	Dwarven Battleaxe	Боевой топор гномов
+items	Dwarven Dagger	Кинжал Гномов
+items	Dwarven Hammer	Молот гномов
+items	Dwarven Morningstar	Утренняя Звезда Гномов
+items	Eagle Statuette	Статуэтка орла
+items	Earth Resistance	Устойчивость к Земле
+items	Earth Resistance Recipe	Рецепт устойчивости к Земле
+items	East Pillar Key	Ключ Восточного Столпа
+items	Ebonest	Эбонест
+items	Eclipse	Затмение
+items	Elderaxe	Секира Древних
+items	Eldritch Shield	Щит Элдрича
+items	Elegant Cloak	Элегантная накидка
+items	Elegant Letter	Галантное письмо
+items	Elfbane	Гибель Эльфа
+items	Elite Halberd	Элитная алебарда 
+items	Elite Minotaur Axe	Элитный топор минотавров
+items	Elixir	Эликсир
+items	Elsenrail	Элсенрэйл
+items	Elven Bow	Эльфийский лук
+items	Elven Chainmail	Эльфийская Кольчуга
+items	Elven Cloak	Эльфийская накидка
+items	Elven Long Spear	Эльфийское длинное копье
+items	Elven Longbow	Эльфийский большой лук
+items	Elven Saber	Сабля Эльфов
+items	Elven Spear	Копье эльфов
+items	Elven Warbow	Эльфийский боевой лук
+items	Elvish Toadstool	Эльфийская поганка
+items	Emerald	Изумруд
+items	Emerald Ring	Изумрудное кольцо
+items	Emerald Staff	Изумрудный посох 
+items	Emperor Thorn's Key	Ключ Императора Торна
+items	Empty Message Scroll	Пустой свиток
+items	Enchanted Amulet	Заколодованный Амулет
+items	Enchanted Leather	Зачарованная кожа 
+items	Enchanted Ring	Очарованное кольцо
+items	Endurance Boost	Увеличение Выносливости
+items	Endurance Boost Recipe	Рецепт поднятия выносливости
+items	Enemies List	Список врагов
+items	Energy	Энергия
+items	Engineer's Code	Кодекс инженера
+items	Enslave	Порабощение
+items	Erathian Long Dagger	Эрафийский длинный кинжал
+items	Erudine Chainmail	Эрудиновая Кольчуга
+items	Erudine-laced ore	Кусок Эрудиновой Руды
+items	Essence of Accuracy	Эссенция Меткости
+items	Essence of Accuracy recipe	
+items	Essence of Endurance	Эссенция Выносливости
+items	Essence of Endurance recipe	
+items	Essence of Intellect	Эссенция Интеллекта
+items	Essence of Intellect recipe	
+items	Essence of Luck	Эссенция Удачи
+items	Essence of Luck recipe	
+items	Essence of Might	Эссенция Силы
+items	Essence of Might recipe	
+items	Essence of Personality	Эссенция Силы Духа
+items	Essence of Personality recipe	
+items	Essence of Speed	Эссенция Скорости
+items	Essence of Speed recipe	
+items	Ethereal Ring	Кольцо легкости
+items	Ethric's Skull	Череп Этрика
+items	Ethric's Staff	Посох Этрика
+items	Excalibur	Экскалибур
+items	Excerpt from a Diary	Выдержка из дневника
+items	Exquisite Long Dagger	Изысканный длинный кинжал
+items	Exquisite Ring	Изящное кольцо
+items	Extreme Energy	Сверхэнергия
+items	Eyeball Amulet	Амулет Глазное яблоко
+items	Fae Dust	Пыль феи
+items	Faerie Key	Ключ Феи
+items	Faerie Pipes	Волшебная Свирель
+items	Faerie Ring	Кольцо Фей
+items	Fairy Wand of Fire	Волшебный жезл огня
+items	Fairy Wand of Harm	Волшебный жезл вреда
+items	Fairy Wand of Ice	Волшебный Жезл Льда
+items	Fairy Wand of Lashing	Волшебный Жезл Бичевания
+items	Fairy Wand of Light	Волшебный Жезл Света
+items	Fairy Wand of Mind	Волшебный Жезл Мысли
+items	Fairy Wand of Poison	Волшебный жезл яда
+items	Fairy Wand of Sparks	Волшебный жезл искр
+items	Fairy Wand of Swarms	Волшебный Жезл Роя
+items	False Report	Фальшивое Донесение
+items	False Riverstride Plans	Фальшивые планы Риверстрайда
+items	Fancy Hat	Модная шляпа
+items	Fanged Blade	Зазубренный кинжал
+items	Fate	Рок
+items	Festival Hat	Шляпа
+items	Field Hammer	Военный молот
+items	Finality	Конец Всему
+items	Fine Belt	Красивый пояс
+items	Fine Chain Mail	Тонкая кольчуга
+items	Fine Ring	Изысканное кольцо
+items	Fire Amulet	Амулет Огня
+items	Fire Aura	Огненная Аура
+items	Fire Resistance	Устойчивость к Огню
+items	Fire Resistance Recipe	Рецепт устойчивости к Огню
+items	Fire Spike	Огненный Шип
+items	First Mate's Code	Кодекс старшего помощника капитана
+items	Flail	Цеп
+items	Flame Door Key	Ключ к Двери пламени
+items	Flaming Potion	Пылающее Зелье
+items	Flaming Potion Recipe	Рецепт зелья пламени
+items	Flawed Amulets	Битые Амулеты
+items	Fleetfingers	Быстрые Пальцы
+items	Floor Tile (w/ moon insignia)	Половая плитка (с иероглифами Храма Луны)
+items	Flower (Rose)	Цветок (Роза)
+items	Flute	Флейта
+items	Focal Ring	Кольцо Фокуса
+items	Footman's Axe	Пехотный топор 
+items	Forge Gauntlets	Кованые латные рукавицы
+items	Forged Vouchers	Поддельные чеки Купцов Альвара
+items	Foulfang	Клык
+items	Four Leaf Clover	Четырехпалый клевер
+items	Fragment of Soldier's Diary	Фрагмент солдатского дневника
+items	Freezing Potion	Замораживающее Зелье
+items	Freezing Potion Recipe	Рецепт замораживающего зелья
+items	Full Helm	Закрытый шлем
+items	Galahad	Галахад
+items	Garnet	Гранат
+items	Gauntlets	Рукавицы
+items	Gem of Restoration	Драгоценность Восстановления
+items	Gemstone Ring	Кольцо с драгоценными камнями
+items	Genie Lamp	Лампа с джинном
+items	Ghost Ring	Кольцо Призрака
+items	Ghoulsbane	Гибель Вурдалака
+items	Gibbet	Виселица
+items	Gilded Belt	Позолоченный пояс
+items	Glomenmail	Гломенмэйл
+items	Glomenthal	Гломенталь
+items	Glorious Cloak	Великолепная накидка
+items	Glory Shield	Щит Славы
+items	Goblin Cutlass	Тесак Гоблинов
+items	Goblin Scimitar	Гоблинская сабля
+items	Goblin Shield	Щит Гоблина
+items	Goblinwatch Code	Кодекс Дозора гоблинов
+items	Gold	Золото
+items	Gold Ring	Золотое кольцо
+items	Golden Chain Mail	Золотая кольчуга
+items	Golden Plate Armor	Золотые латы
+items	Golden Pyramid	Золотая пирамида
+items	Golem chest	Торс голема
+items	Golem head	Голова голема
+items	Golem left arm	Левая рука голема
+items	Golem left leg	Левая нога голема
+items	Golem right arm	Правая рука голема
+items	Golem right leg	Правая нога голема
+items	Gothic Amulet	Готический амулет
+items	Governor's Armor	Доспехи Правителя
+items	Graceful Sword	Грациозный меч
+items	Grand Poleax	Большая секира
+items	Grand Poleaxe	Большая секира
+items	Great Sword	Великий меч
+items	Green Apple	Зеленое Яблоко
+items	Green Garnet	Зеленый гранат
+items	Griffin Bow	Лук Грифона
+items	Grognard's Cutlass	Тесак Грогнарда
+items	Ground Wyvern Horn	Рог Ползучей Виверны
+items	Gryphonheart's Trumpet	Труба Грифонхарта
+items	Guardian	Страж
+items	Guardian Helm	Шлем стража
+items	Guild Key	Ключ гильдии
+items	Guinevere	Гвиневра
+items	Hades	Аид
+items	Halberd	Алебарда
+items	Haldar's Remains	Прах Халдара
+items	Hammer	Молот
+items	Hammerhands	Рука-Молот
+items	Hand Axe	Ручной топор 
+items	Hands of the Master	Руки Мастера
+items	Harden Item	Укрепление предмета
+items	Hardened Leather Boots	Прочные кожаные сапоги
+items	Hardened Leather Vest	Усиленный кожаный доспех
+items	Hareck's Leather	Кожаные доспехи Харека
+items	Harp	Арфа
+items	Harpy Feather	Перо гарпии
+items	Haste	Ускорение
+items	Havoc	Опустошитель
+items	Hayfork	Вилы
+items	Headsman's Poleaxe	Секира Палача
+items	Headsman's Reaver	Отсекатель голов
+items	Heal	Лечить
+items	Heart of Air	Сердце Воздуха
+items	Heart of Earth	Сердце Земли
+items	Heart of Fire	Сердце Огня
+items	Heart of the Wood	Сердце Леса
+items	Heart of Water	Сердце Воды
+items	Heartwood of Jadame	Джадамская Древесина
+items	Heavy Crossbow	Тяжелый арбалет
+items	Heavy Poleax	Тяжелая секира
+items	Heavy Poleaxe	Тяжелая секира
+items	Hell's Cleaver	Адский Клинок
+items	Helm	Шлем
+items	Hera	Гера
+items	Herald's Boots	Сапоги Герольда
+items	Hercules	Геракл
+items	Hermes	Гермес
+items	Hermes' Sandals	Сандалии Гермеса
+items	Hero's Belt	Пояс  Героя
+items	Heroic Sword	Героический меч
+items	Heroism	Героизм
+items	Herondale's Lost Shield	Утерянный Щит Херондэйла
+items	High Cleric's Key	Ключ Высшего клирика
+items	High Sorcerer's Key	Ключ Верховного волхва
+items	History of the Vault of Time	История Капсулы Времени
+items	Hive Sanctum Key	Ключ от Святого Улья
+items	Holy Hammer	Святой молот 
+items	Horn of Ros	Рог Роса
+items	Horned Helm	Рогатый шлем
+items	Horseman's Shield	Щит всадника
+items	Horseshoe	Подкова
+items	Hourglass of Time	Песочные часы
+items	Hunting Bow	Охотничий лук
+items	Hunting Crossbow	Охотничий самострел
+items	Huntsman's Cloak	Накидка охотника
+items	Ideal Crossbow	Идеальный арбалет
+items	Idol of the Snake	Идол змеи
+items	Igraine	Игрэйн
+items	Immolation	Всесожжение
+items	Imperial Leather	Имперская кожа
+items	Improvised Voulge	Самодельная алебарда
+items	Infantry Fork	Пехотная рогатина
+items	Infused Metal Rod	
+items	Intellect Boost	Увеличение Интеллекта
+items	Intellect Boost Recipe	Рецепт поднятия интеллекта
+items	Invisibility	Невидимость
+items	Iolite	Иолит
+items	Iron Broadsword	Железный  палаш
+items	Iron Core Staff	Посох со стальной сердцевиной
+items	Iron Feather	Железное Перо
+items	Iron-laced ore	Железная Руда
+items	Jade Amulet	Нефритовый амулет
+items	Jeweled Dagger	Кинжал с инкрустацией
+items	Jeweled Egg	Яйцо с драгоценностями
+items	Journal Entry	Запись в дневнике
+items	Journal Entry, 11th December	Запись в дневнике от 11 декабря
+items	Journal Entry, 19th September	Запись в дневнике от 19 сентября
+items	Journal Entry, 23rd April	Запись в дневнике от 23 апреля
+items	Journal Entry, 2nd January	Запись в дневнике, 2 января 
+items	Journal Entry, 30th June	Запись в дневнике от 30 июня
+items	Journal Excerpt	Выдержки из дневника
+items	Journal Fragment	Фрагмент дневника
+items	Journal Scrap	Обрывок записки
+items	Journey Staff	Дорожный посох
+items	Judicious Measure	Мера Благоразумия
+items	Justice	Справедливость
+items	Keen Longsword	Острый длинный меч
+items	Keg of Wine	Бочонок вина
+items	Kelebrim	Келебрим
+items	Kergar-laced ore	Кусок Кергаровой Руды
+items	Key	Ключ 
+items	Key to Gharik's Laboratory	Ключ от лаборатории Гарика
+items	Key to Goblinwatch	Ключ от Дозора гоблинов
+items	Key to Snergle's Chambers	Ключ от палат Снергла
+items	Killer Club	Палица Убийцы
+items	Kite Shield	Обтянутый щит
+items	Knight Gauntlets	Рыцарские рукавицы 
+items	Knight Statuette	Статуэтка рыцаря
+items	Knight's Boots	Сапоги рыцаря
+items	Knightly Broadsword	Рыцарский палаш
+items	Labyrinth Grapple	Лабиринтный крюк
+items	Lady Carmine's Dagger	Кинжал  Леди Кармин
+items	Lady's Escort	Эскорт Леди
+items	Lantern of Light	Фонарь Света
+items	Large Round Crystal	
+items	Last Stage Cuirass	Кираса Последняя Степень
+items	Leather Armor	Кожаный доспех
+items	Leather Belt	Кожаный пояс
+items	Leather Boots	Кожаные сапоги
+items	Leather Cloak	Кожаная накидка
+items	Leather Gloves	Кожаные перчатки
+items	Leather Jerkin	Кожаный доспех
+items	Leather Pouch	Кожаная сумка
+items	Letter	Письмо
+items	Letter from Archibald	Письмо от Арчибальда
+items	Letter from Cedric Druthers	Письмо от Седрика Друзерса
+items	Letter from Gavin Magnus	Письмо от Гэвина Магнуса
+items	Letter from Johann Kerrid to the Faerie King	Письмо от Иоханна Керрида Королю фей
+items	Letter from Malwick	Письмо от Мальвика
+items	Letter from Mr. Stantley	Письмо от г-на Стэнтли
+items	Letter from Norbert Thrush to Lord Markham	Письмо от Норберта Траша Лорду Мархэму
+items	Letter from the Dragon Riders	Письмо от наездников Драконов
+items	Letter from the Prince of Thieves	Письмо от принца Воров
+items	Letter from the Temple of Baa	Письмо из храма Баа
+items	Letter from Xenofex	Письмо от Ценофекса
+items	Letter from Zenofex	Письмо от Ценофекса
+items	Letter to Agar	Письмо Агару
+items	Letter to Arion Hunter	Письмо
+items	Letter to Gharik	Письмо Гарику
+items	Letter to Hairbaugh	Письмо Хейрбау
+items	Letter to Marcus	Письмо Маркусу
+items	Letter to Snergle	Письмо Снерглу
+items	Letter to Terrax	Письмо Терраксу
+items	Letter to the Prince of Thieves	Письмо принцу Воров
+items	Lich Jar	Сосуд Лича
+items	Lieutenant's Cutlass	Тесак Наместника
+items	Light Bolt	Стрела Света
+items	Light Crossbow	Самострел
+items	Light Poleaxe	
+items	Lightning Crossbow	Молниеносный Арбалет
+items	Lionheart Sword	Меч Сердце льва
+items	Lizardman Broadsword	Палаш человекоящеров 
+items	Lizardman Helm	Шлем человекоящеров
+items	Lizardman Trident	Трезубец человекоящеров
+items	Lock Pick	Отмычка
+items	Locus Amulet	Амулет Локуса
+items	Lodestone	Магнит
+items	Log of Eldenbrie	Кусок Элденбрийского Сыра
+items	Long Dagger	Длинный кинжал
+items	Longbow	Большой лук
+items	Longseeker	Дальнобой
+items	Longsword	Большой меч
+items	Loose Page	Выпавшая страница
+items	Lord Kilburn's Shield	Щит Лорда Килбурна
+items	Lost Book of Kehl	Утраченная Книга Хеля
+items	Lucius	Луциус
+items	Luck Boost	Увеличение Удачи
+items	Luck Boost Recipe	Рецепт поднятия удачи
+items	Lucky Hat	Удачливая Шляпа
+items	Lunar Ring	Лунное кольцо
+items	Lute	Лютня
+items	Mace	Булава
+items	Mace of the Sun	Солнечная Палица
+items	Mage Dagger	Кинжал мага
+items	Magic Bow	Магический лук 
+items	Magic Horseshoe	Волшебная подкова
+items	Magic Lamp	Волшебная лампа
+items	Magic Potion	Волшебное зелье
+items	Magical Ritual Notes	Записи о магических ритуалах
+items	Majestic Chain Mail	Кольчуга величия
+items	Majestic Shield	Величественный щит
+items	Map	Карта
+items	Map to Evenmorn Island	Карта острова Эвенморн
+items	Mash	Месиво
+items	Massive Halberd	Массивная алебарда 
+items	Massive hammer	
+items	Master Cutlass	Тесак магистра
+items	Master's Dagger	Фехтовальный кинжал
+items	Medusa's Mirror	Зеркало Медузы
+items	Mekorig's Hammer	Молот Мекорика
+items	Memory Crystal Alpha	Кристалл памяти Альфа
+items	Memory Crystal Beta	Кристалл памяти Бета
+items	Memory Crystal Delta	Кристалл памяти Дельта
+items	Memory Crystal Epsilon	Кристалл памяти Эпсилон
+items	Mercenary Belt	Пояс наемника
+items	Merchantman's Dagger	Купеческий кинжал
+items	Merchantman's Hat	Шапка торговца
+items	Mercury	Ртуть
+items	Merlin	Мерлин
+items	Message from Erathia	Сообщение из Эрафии
+items	Message from Mr. Stantley	Сообщение от г-на Стэнтли
+items	Metal Shield	Металлический щит
+items	Meteor Fragment	Частица метеора
+items	Meteorite Fragment	Осколок метеорита
+items	Might Boost	Увеличение Мощи
+items	Might Boost Recipe	Рецепт поднятия силы
+items	Mighty Broadsword	Палаш могущества
+items	Mighty Halberd	Мощная алебарда
+items	Mind Resistance	Устойчивость Разума
+items	Mind Resistance Recipe	Рецепт устойчивости Разума
+items	Mind's Eye	Око Мысли
+items	Minotaur Axe	Топор Минотавра
+items	Minotaur Battleaxe	Военный топор минотавров
+items	Minotaur Battlesword	Боевой меч минотавров
+items	Minotaur Campaign Pole-axe	Секира минотавров
+items	Minotaur Chainmail	Кольчуга минотавров
+items	Minotaur Gauntlets	Рукавицы минотавров
+items	Minotaur Herdsman Axe	Топор минотавров
+items	Minotaur Plate	Латы минотавров
+items	Minotaur War Axe	Боевой топор минотавров
+items	Minotaur's Axe	Топор Минотавра
+items	Missive from the Archbishop	Официальное письмо от Архиепископа
+items	Mogred Gauntlets	Латные рукавицы из могреда
+items	Mogred Helm	Шлем могреда
+items	Moon Cloak	Мантия Луны
+items	Moon Temple Cloak	Плащ Храма Луны
+items	Moonstone	Лунный камень
+items	Mordred	Мордред
+items	Morgan	Морган
+items	Mushroom	Гриб
+items	Mystic Wand of Death	Мистический жезл смерти
+items	Mystic Wand of Distortion	Мистический жезл Нарушения
+items	Mystic Wand of Implosion	Мистический жезл Направленного Взрыва
+items	Mystic Wand of Incineration	Мистический Жезл Испепеления
+items	Mystic Wand of Shrapmetal	Мистический жезл Шрапнели
+items	Mystic Wand of Shrinking	Мистический жезл Сжатия
+items	Naga Hide	Кожа наги
+items	Name of Message	Название сообщения
+items	Navigator's Code	Кодекс штурмана
+items	Necromancer Cloak	Плащ некроманта
+items	Necromatic Ring	Кольцо некроманта
+items	Necrotic Wand of Distortion	Некротический жезл Искажения
+items	Necrotic Wand of Implosion	Некротический жезл Коллапса
+items	Necrotic Wand of Incineration	Некротический жезл Испепеления
+items	Necrotic Wand of Shrapnel	Некротический жезл Дроби
+items	Necrotic Wand of Shrinking	Некротический жезл Сжатия
+items	Newname Key	Ключ с новым названием
+items	Nightshade Brazier	Светильник Теней
+items	Noble Chain Mail	Кольчуга знати
+items	Noble Crown	Корона Знати
+items	Noble Plate Armor	Латы аристократа
+items	Noblebone Bow	Лук
+items	Notes - Emergency Meeting	Записка
+items	Noxious Potion	Вредоносное Зелье
+items	Noxious Potion Recipe	Рецепт вредоносного зелья
+items	Obsidian	Обсидиан
+items	Odin	Один
+items	Officer's Leather	Кожаные доспехи офицера
+items	Ogre Ear	Ухо Огра
+items	Ogre Fighting Stick	Пика огров
+items	Ogre Key	Ключ Огра
+items	Old Halberd	
+items	Old Nick	Старый Ник
+items	Old Scroll	Свиток из Заброшенного Храма
+items	Olympian Shield	Олимпийский щит
+items	Orb Staff	Посох с набалдашником
+items	Orders from Snergle	Приказы Снергла
+items	Orders from Steadwick	Приказы из Стедвика
+items	Orders from the Shadow Guild	Заказы от гильдии Тени
+items	Ornate Trident	Украшенный трезубец 
+items	Oscillation Overthruster	Волновой Разрушитель
+items	Overlord's Club	Дубинка вождя
+items	Page from Agar's Journal	Страница из дневника Агара
+items	Page from Corlagon's Diary	Страница из дневника Корлагона
+items	Page Torn from a Book	Страница
+items	Pain Reflection	Отражение Боли
+items	Paladin Boots	Сапоги паладина
+items	Paladin Gauntlets	Рукавицы паладина
+items	Parson's Quill	Перо Парсона
+items	Pearl of Purity	Жемчужина чистоты
+items	Pearl of Putrescence	Жемчужина порока
+items	Pearl Ring	Кольцо с жемчужиной
+items	Peasant Hat	Шляпа крестьянина
+items	Pellinore	Пеллинор
+items	Pendragon	Пендрагон
+items	Percival	Персиваль
+items	Personality Boost	Увеличение Лидерства
+items	Personality Boost Recipe	Рецепт поднятия лидерства
+items	Phantom Cloak	Накидка - фантом
+items	Phial of Gog Blood	Склянка с Кровью Гога
+items	Philosopher's Stone	Философский Камень
+items	Phima Root	Корень Фирны
+items	Phirna Root	Корень бузины
+items	Phoenix Feather	Перо Феникса
+items	Phylt-laced ore	Кусок Филтовой Руды
+items	Phynaxian Crown	Финаксийская Корона
+items	Phynaxian Helm	Финаксийский шлем
+items	Phynaxian Shield	Финаксийский щит
+items	Piercing Dagger	Пронзающий кинжал 
+items	Pirate Cutlass	Пиратский тесак
+items	Pirate Hat	Пиратская Шляпа
+items	Pirate Leader's Key	Ключ Главаря Пиратов
+items	Plate Armor	Латный доспех
+items	Platinum Ring	Платиновое кольцо
+items	Poleax	Секира
+items	Poleaxe	Секира
+items	Poppy Pod	Маковая коробочка
+items	Poppysnaps	Маковый хруст
+items	Poseidon	Посейдон
+items	Potion Bottle	Бутыль для зелий
+items	Potion of Doom	
+items	Potion of Doom recipe	
+items	Potion of the Gods	
+items	Potion of the Gods recipe	
+items	Pouch of Bat Guano	Сумка с пометом летучих мышей
+items	Power Staff	Посох силы
+items	Power Stone	Камень Силы
+items	Precious Ring	Драгоценное кольцо
+items	Precision Bow	Лук меткости
+items	Preservation	Сохранение
+items	Priestly Staff	Посох священника
+items	Prison Key	Ключ от Тюрьмы
+items	Proclamation	Прокламация
+items	Prophecies of the Snake	Пророчества Змея
+items	Prophecies of the Sun	Пророчества Солнца
+items	Protection	Защита
+items	Protection from Magic	Защита от Магии
+items	Protection from Magic recipe	
+items	Puck	Леший
+items	Pure Accuracy	Абсолютная Меткость
+items	Pure Accuracy Recipe	Рецепт абсолютной меткости
+items	Pure Air Resistance	
+items	Pure Air Resistance recipe	
+items	Pure Body Resistance	
+items	Pure Body Resistance recipe	
+items	Pure Earth Resistance	
+items	Pure Earth Resistance recipe	
+items	Pure Endurance	Абсолютная Выносливость
+items	Pure Endurance Recipe	Рецепт абсолютной выносливости
+items	Pure Fire Resistance	
+items	Pure Fire Resistance recipe	
+items	Pure Intellect	Абсолютный Интеллект
+items	Pure Intellect Recipe	Рецепт абсолютного интеллекта
+items	Pure Luck	Абсолютная Удача
+items	Pure Luck Recipe	Рецепт абсолютной удачи
+items	Pure Might	Абсолютная Сила
+items	Pure Might Recipe	Рецепт абсолютной силы
+items	Pure Mind Resistance	
+items	Pure Mind Resistance recipe	
+items	Pure Personality	Абсолютное Лидерство
+items	Pure Personality Recipe	Рецепт абсолютного лидерства
+items	Pure Speed	Абсолютная Скорость
+items	Pure Speed Recipe	Рецепт абсолютной скорости
+items	Pure Water Resistance	
+items	Pure Water Resistance recipe	
+items	Purple Topaz	Багровый топаз
+items	Puzzle Box	Ларец-головоломка
+items	Quality Steel Chain Mail	
+items	Ranger Boots	Сапоги рейнджера
+items	Ranger's Cloak	Накидка рейнджера
+items	Recharge Item	Перезарядка Предмета
+items	Recurve Bow	Двойной лук
+items	Red Apple	Красное яблоко
+items	Regal Crown	Королевская корона
+items	Regeneration	Регенерация
+items	Regnan Boots	Регнанские сапоги
+items	Regnan Crossbow	Регнанский арбалет
+items	Regnan Cutlass	Регнанский тесак
+items	Regnan Falchion	Регнанский ятаган
+items	Regnan Fighting Knife	Регнанский боевой нож
+items	Regnan Leather	Регнанский кожаный доспех
+items	Regnan Tournament Shield	Регнанский турнирный щит
+items	Regnan Trident	Регнанский трезубец 
+items	Rejuvenation	Омоложение
+items	Rejuvenation Recipe	Рецепт Омоложения
+items	Remains of a Journal	Остатки дневника
+items	Remains of Korbu	Останки Корбу
+items	Remnants of a Letter	Обрывки письма
+items	Remove Curse	Снятие Проклятия
+items	Remove Fear	Изгнание Страха
+items	Resistance	Устойчивость
+items	Resplendent Chain Mail	Великолепная кольчуга
+items	Restoration	Приведение в сознание
+items	Reverend Sceptre	Скипетр священника
+items	Ring of Fusion	Кольцо Синтеза
+items	Ring of Keys	Кольцо с ключами
+items	Ring of Planes	Кольцо измерений
+items	Ritual of the Void	Ритуал Пустоты 
+items	Riverstride Plans	Планы Риверстрайда
+items	Roland Ironfist Painting	Портрет Роланда Айронфиста
+items	Roland's Journal	Дневник Роланда
+items	Rope	Веревка
+items	Rose	Роза
+items	Rose Crystal	Розовый хрусталь
+items	Royal Chain Mail	Королевская кольчуга 
+items	Royal Leather	Королевские кожаные доспехи
+items	Royal Wasp Jelly	Осиный мед
+items	Ruby	Рубин
+items	Ruby Ring	Кольцо с рубином
+items	Ruby Star Amulet	Амулет звезды
+items	Ruler's Ring	Кольцо Правителя
+items	Rusty Breastplate	Ржавый нагрудник
+items	Rusty Cutlass	Ржавый Тесак
+items	Rusty Mail Vest	Ржавый Кольчужный Нагрудник
+items	Sacred Chalice	Священный потир
+items	Sacred Spear	Святое копье
+items	Sacrifice	Убийство жертвы
+items	Sapphire	Сапфир
+items	Sapphire Ring	Кольцо с сапфиром
+items	Sarcophagus of Korbu	Саркофаг Корбу
+items	Savage Spear	Копье дикаря
+items	Scarab Ring	Кольцо скарабея
+items	Scavenger hunt.	Гонка за мусором
+items	Scepter of Kings	Скипетр Королей
+items	Scholar's Cap	Шапочка Учёного
+items	Scrap from Gharik's Journal	Обрывок дневника Гарика
+items	Scrap of Paper	Клочок бумаги
+items	Scroll of Waves	Скрижаль Волн
+items	Sealed Letter 2	Запечатанное Письмо 2
+items	Sealed Letter 3	Запечатанное Письмо 3
+items	Sealed Letter 4	Запечатанное Письмо 4
+items	Sealed Letter 5	Запечатанное Письмо 5
+items	Sealed Letter 6	Запечатанное Письмо 6
+items	Sealed Letter 7	Запечатанное Письмо 7
+items	Seashell	Морская раковина
+items	Season's Stole	Епитрахиль Времен Года
+items	Secret Door Key	Ключ от секретной двери
+items	Serendine's Preservation	Защита Серендина
+items	Serpent Spear	Змеиное копье
+items	Serpent Staff	Змеиный посох
+items	Serpent Wand of Blasting	Змеиный жезл Взрыва
+items	Serpent Wand of Paralysis	Змеиный жезл Паралича
+items	Serpent Wand of Rocks	Змеиный жезл Смерча
+items	Serpent Wand of the Fist	Змеиный жезл Кулака
+items	Seven League Boots	Сапоги-скороходы
+items	Sewer Key	Ключ от Канализации
+items	Shadow Dagger	Кинжал теней
+items	Shadow Sect Medallion	Медальон секты теней
+items	Shadow's Mask	Маска Тени
+items	Shaman's Wand of Ice	Шаманский жезл Льда
+items	Shaman's Wand of Lashing	Шаманский жезл Плети
+items	Shaman's Wand of Light	Шаманский жезл Света
+items	Shaman's Wand of Mind	Шаманский жезл Разума
+items	Shaman's Wand of Swarms	Шаманский жезл Роя
+items	Sharktooth Dagger	Кинжал Зуб Акулы
+items	Shield	Защита
+items	Shocking Potion	Шоковое Зелье
+items	Shocking Potion Recipe	Рецепт шокового зелья
+items	Shovel	Лопата
+items	Siertal Chainmail	Сьертальная Кольчуга
+items	Siertal-laced ore	Кусок Сьерталовой Руды
+items	Signet Ring	Перстень с печатью
+items	Silver Belt	Серебряный пояс
+items	Silver Dust of the Sea	Серебряная Пыль Моря
+items	Silver Mesh Gauntlets	Латные рукавицы из серебряной сетки
+items	Simple Mace	
+items	Simple Staff	
+items	Slaying Potion	Убийственное Зелье
+items	Slaying Potion Recipe	Рецепт убийственного зелья
+items	Sledgehammer	Кувалда
+items	Snake	Змея
+items	Snakewood Bow	Тисовый лук
+items	Snergle's Axe	Топор Снергла
+items	Soldier's spear	Копье солдата
+items	Souldrinker	Душепийца
+items	Sovereign Belt	Королевский пояс 
+items	Sparkling Ring	Сверкающее кольцо
+items	Spear	Копье
+items	Speed Boost	Увеличение Скорости
+items	Speed Boost Recipe	Рецепт поднятия скорости
+items	Spider Queen's Heart	Сердце царицы пауков 
+items	Spiked Club	Шипастая палица
+items	Spiked Mace	Шипастая булава
+items	Spiral Instructions	Инструкции к Спирали
+items	Spirit Lash	Плеть Призрака
+items	Spirit Shield	Щит духа
+items	Spiritslayer	Убийца Душ
+items	Splendid Plate Armor	Роскошные латы
+items	Splitter	Колун
+items	Staff	Посох
+items	Staff of Elements	Посох Стихий
+items	Staff of the Swamp	Болотный Посох
+items	Stalt-laced ore	Кусок Стальтовой руды
+items	Steel Axe	Стальной топор
+items	Steel Belt	Стальной пояс
+items	Steel Boots	Стальные сапоги
+items	Steel Broadsword	Стальной палаш
+items	Steel Chain Mail	Стальная кольчуга
+items	Steel Chainmail	Стальная кольчуга
+items	Steel club	Стальная палица
+items	Steel Gauntlets	Стальные рукавицы
+items	Steel Helm	Стальной шлем
+items	Steel Plate Armor	Стальные латы
+items	Steel Plated Boots	Стальные сапоги
+items	Steel Shield	Стальной щит
+items	Steel Spear	Стальное копье
+items	Stellar Bow	Звездный лук
+items	Sterling Boots	Серебряные сапоги
+items	Sterling Shield	Безупречный щит
+items	Stone Axe	Каменный топор
+items	Stone Skin	Каменная кожа
+items	Stone to Flesh	Размягчение
+items	Stone To Flesh Recipe	Рецепт зелья размягчения
+items	Stoneskin	Каменная Кожа
+items	Storage Key	Ключ от склада
+items	Store Room Key	Ключ от склада
+items	Stout Spear	Копье разведчика
+items	Strong Belt	Крепкий пояс
+items	Studded Leather	Клепанная кожа
+items	Sturdy Belt	Крепкий пояс
+items	Sublime Spear	Величественное копье
+items	Sulfur	Сера
+items	Summon Elemental	Элементал
+items	Summon Wisp	Создание Болотного Огонька
+items	Sun Amulet	Амулет Солнца
+items	Sun Cloak	Мантия Солнца
+items	Sun Hammer	Молот Солнца
+items	Sun Opal Ring	Кольцо с солнечным опалом
+items	Sunray	Солнечный Луч
+items	Sunstone	Солнечный камень
+items	Super Resistance	Сверхустойчивость
+items	Supreme Axe	Топор превосходства
+items	Supreme Flail	Великий кистень
+items	Supreme Plate	Непревзойденный Доспех
+items	Supreme Protection	Высшая защита
+items	Swift Potion	Зелье Ускорения
+items	Swift Potion Recipe	Рецепт зелья ускорения
+items	Sword of Whistlebone	Меч Вистлбона
+items	Taledon's Helm	Шлем Таледона
+items	Tanir's Bell	Колокол Танира
+items	Telelocator	
+items	Telepathy	Телепатия
+items	Teleporter Key	Ключ от телепорта
+items	Templar's Sword	Меч храмовников
+items	Temple Gong	Храмовый гонг 
+items	Temple in a Bottle	Храм в бутылке
+items	Temple Mace	Храмовая булава
+items	Terminus	Терминус
+items	The DeathBlade	Лезвие Смерти
+items	The Letter	Письмо
+items	The Perfect Bow	Совершенный Лук
+items	The Third Eye	Третий Глаз
+items	Thigh Bone	Бедренная кость
+items	Thor	Тор
+items	Thornbark	Кора терновника
+items	Thornbark Club	Шипастая дубинка
+items	Thornbark Shield	Шипастый щит
+items	Thunder Mace	Булава грома
+items	Tiger Statuette	Статуэтка тигра
+items	Titan's Belt	Пояс Титана
+items	Titanic Trident	Трезубец Титана
+items	Tobersk Brandy	Тоберисковое Бренди
+items	Tobersk Fruit	Тобериск
+items	Tobersk Pulp	Мякоть Тобериска
+items	Tooth	Зуб
+items	Topaz	Топаз
+items	Torn Page	Вырванная страница
+items	Tournament Bow	Турнирный Лук
+items	Tower Shield	Башенный щит
+items	Traveler's Cloak	Плащ путешественника
+items	Traveller's Hat	Шляпа путешественника
+items	Treasure Room Key	Ключ от сокровищницы
+items	Trident	Трезубец
+items	Trident of Rulership	Трезубец Правления
+items	Triton Trident	Трезубец тритонов
+items	Troll Gauntlets	Тролльские рукавицы
+items	Trollish Claymore	Тролльская клеймора
+items	Trollish Maul	Кувалда троллей
+items	Trollish Shield	Тролльский щит
+items	Trollish War Mace	Боевая палица троллей
+items	Trollish War Sword	Боевой меч троллей
+items	True Crossbow	Верный арбалет
+items	Turquoise Amulet	Бирюзовый амулет
+items	Twilight	Сумрак
+items	Twilight Kris	Сумеречный Крис
+items	Two-Handed Axe	Двуручный топор
+items	Two-Handed Sword	Двуручный меч
+items	Ullyses	Улисс
+items	Ultimate Boots	Сапоги защиты
+items	Ultimate Gauntlets	Рукавицы защиты
+items	Unicorn Horn	Рог Единорога
+items	Urn of Ashes	Урна с прахом
+items	Valeria	Валерия
+items	Valuable Ring	Ценное кольцо
+items	Vampire Cloak	Плащ вампира
+items	Vampire's Cape	Плащ Вампира
+items	Vampire's Ring	Кольцо вампира
+items	Vampiric Weapon	Вампирское Оружие
+items	Vanguard Belt	Пояс атакующего
+items	VARN Chest Key	Ключ от сундука ВАРН
+items	Vase	Ваза
+items	Veteran Shield	Ветеранский щит
+items	Vial of Devil Ichor	Склянка с ихором дьявола
+items	Vial of Grave Earth	Сосуд с Могильной Землей
+items	Vial of Ooze Endoplasm	Склянка с эндоплазмой слизня
+items	Vial of Troll Blood	Склянка с кровью тролля
+items	Villain's Blade	Клинок Злодея
+items	Volcano	Вулкан
+items	Walking Boots	Ботинки
+items	Wallace	Уоллес
+items	Wand of Arrows	Жезл стрелы
+items	Wand of Cold	Жезл холода
+items	Wand of Fire	Жезл Огня
+items	Wand of Flame	Жезл пламени
+items	Wand of Harm	Жезл Вреда
+items	Wand of Poison	Жезл Яда
+items	Wand of Sparks	Жезл Искр
+items	Wand of Static	Жезл статики
+items	Wand of Stunning	Жезл Оглушения
+items	War Axe	Топор войны
+items	War Hammer	Молот Войны
+items	War Spear	Боевое копье
+items	War Trident	Трезубец Войны
+items	Warhammer	Боевой молот
+items	Warlock's Ring	Кольцо чернокнижника
+items	Warlord Belt	Пояс полководца
+items	Warlord's Key	Ключ полководца
+items	Warrior Sword	Меч воина
+items	Warrior's Poleaxe	Секира воина
+items	Wasp Stingers	Осиное Жало
+items	Wasp Wing	Крыло Осы
+items	Water Breathing	Дыхание под водой
+items	Water Resistance	Устойчивость к Воде
+items	Water Resistance Recipe	Рецепт устойчивости к Воде
+items	Water Temple Key	Ключ от храма Воды
+items	Wealthy Hat	Шикарная шляпа
+items	Weighted Halberd	Утяжеленная алебарда
+items	West Pillar Key	Ключ Западного Столпа
+items	Wetsuit	Гидрокостюм
+items	Wheel of Frelandeau	Круг Сыра Фриландау
+items	Whisp wrappings	
+items	Wicked Mace	Булава злодеяния
+items	Widoweeps Berries	Волчьи ягоды
+items	Widowsweep Berries	Ягоды "Вдовьи слезы
+items	Will O' Wisp Heart	Сердце Болотного Огня
+items	William's Tower Key	Ключ от башни Вильяма
+items	Winged Sandals	Крылатые Сандалии
+items	Witch Ring	Кольцо ведьмы
+items	Witch's Amulet	Амулет ведьмы
+items	Witch's Wand of Fire	Ведьмин жезл Огня
+items	Witch's Wand of Harming	Ведьмин жезл Ущерба
+items	Witch's Wand of Poison	Ведьмин жезл Яда
+items	Witch's Wand of Sparks	Ведьмин жезл Искр
+items	Witch's Wand of Stunning	Ведьмин жезл Оглушения
+items	Wizard Cap	Колпак чародея
+items	Wizard Ring	Кольцо Чародея
+items	Wizard Staff	Посох Чародея
+items	Wizard Wand of Acid	Волшебный жезл Кислоты
+items	Wizard Wand of Berzerking	Волшебный жезл Берсеркера
+items	Wizard Wand of Blades	Волшебный жезл Лезвия
+items	Wizard Wand of Fireballs	Волшебный жезл Огненных Шаров
+items	Wizard Wand of Lightning	Волшебный жезл Молнии
+items	Wolf Statuette	Статуэтка волка
+items	Wolf's Eye	Волчий Глаз
+items	Wonder Mace	Булава чудес
+items	Wooden Buckler	Деревянный щит
+items	Wooden Shield	Деревянный щит
+items	Worn Belt	Изношенный ремень
+items	Wyrm Spitter	Жало Змия
+items	Wyvern Horn	Рог Виверны
+items	Wyvern Leather Belt	Пояс из кожи виверны
+items	Yellow Topaz	Желтый топаз
+items	Yoruba	Йоруба
+items	Zealot Mace	Булава Фанатика
+items	Zeus	Зевс
+items	Zircon	Циркон
+items	Zokarr IV's Skull	Череп Зокарра IV
+items	Zokarr's Axe	Топор Зокарра
+location	Abandoned Pirate Keep	 Заброшенный пиратский замок 
+location	Abandoned Temple	 Заброшенный храм 
+location	Agar's Laboratory	Лаборатория Агара
+location	Alvar	Альвар
+location	Ancient Troll Home	Древний дом троллей
+location	Arena	Арена
+location	Avlee	АвЛи
+location	Balthazar Lair	 Пещеры Бальтазара 
+location	Barbarian Fortress	 Варварская крепость 
+location	Barrow I	Курган I
+location	Barrow II	Курган II
+location	Barrow III	Курган III
+location	Barrow IV	Курган IV
+location	Barrow IX	Курган IX
+location	Barrow V	Курган V
+location	Barrow VI	Курган VI
+location	Barrow VII	Курган VII
+location	Barrow VIII	Курган VIII
+location	Barrow X	Курган X
+location	Barrow XI	Курган XI
+location	Barrow XII	Курган XII
+location	Barrow XIII	Курган XIII
+location	Barrow XIV	Курган XIV
+location	Barrow XV	Курган XV
+location	Basement of the Breach	
+location	Blackshire	Блэкшир
+location	Bootleg Bay	Залив Бутлег
+location	Castle Alamos	Замок Аламос
+location	Castle Darkmoor	Замок Даркмор
+location	Castle Gloaming	Сумеречный замок
+location	Castle Gryphonheart	Замок Грифонхарт
+location	Castle Harmondale	Замок Хармондейл
+location	Castle Ironfist	Замок Айронфист
+location	Castle Kriegspire	Замок Кригспайр
+location	Castle Lambent	Светящийся замок
+location	Castle Navan	Замок Наван
+location	Castle of Air	 Замок Воздуха 
+location	Castle of Fire	 Замок Огня 
+location	Caves of the Dragon Riders	Пещеры наездников драконов
+location	Celeste	Небеса
+location	Chain of Fire	 Огненная Цепь 
+location	Chapel of Eep	Молельня Иипа
+location	Church of Eep	Церковь Иипа
+location	Clanker's Laboratory	Лаборатория Кланкера
+location	Colony Zod	Колония Зод
+location	Control Center	Центр управления
+location	Corlagon's Estate	Имение Корлагона
+location	Cyclops Larder	 Кладовая циклопов 
+location	Dagger Wound Island	Остров Кинжальной раны
+location	Dark Dwarf Compound	Строение темных гномов
+location	Devil Outpost	Застава дьявола
+location	Deyja	Дейя
+location	Dire Wolf Den	 Логово матерых волков 
+location	Dragon Cave	 Драконья пещера 
+location	Dragon Hunter's Camp	Лагерь охотников на драконов
+location	Dragon's Lair	Логово Дракона
+location	Dragonsand	Драконсэнд
+location	Dragoons' Caverns	Пещеры Драгунов
+location	Dragoons' Keep	Крепость Драгунов
+location	Druid Circle	Друидский круг
+location	Eel Infested Waters	Кишащие угрями воды
+location	Emerald Island	Изумрудный остров
+location	Erathia	 Эрафия 
+location	Escaton's Crystal	Кристалл Эскатона
+location	Escaton's Palace	Дворец Эскатона
+location	Evenmorn Island	Остров Эвенморн
+location	Fort Riverstride	Форт Риверстрайд
+location	Free Haven	Свободная Гавань
+location	Free Haven Sewer	Канализация Свободной гавани
+location	Frozen Highlands	Замерзшие горы
+location	Garrote Gorge	Ущелье Удавки
+location	Gharik's Forge	Кузница Гарика
+location	Goblinwatch	Дозор гоблинов
+location	Grand Temple of Eep	Великий храм Иипа
+location	Grand Temple of the Moon	Великий Храм Луны
+location	Grand Temple of the Sun	Великий Храм Солнца
+location	Hall of the Fire Lord	Чертог лорда Огня
+location	Harmondale	Хармондейл
+location	Hermit's Isle	Остров Отшельника
+location	Icewind Keep	Крепость Ледяного ветра
+location	Ilsingore's Cave	Пещера Ильсингора
+location	Ironsand Desert	Железные Пески
+location	Kriegspire	Кригспайр
+location	Lair of the Wolf	Волчье логово
+location	Lord Markham's Manor	Поместье Лорда Мархэма
+location	Mad Necromancer's Lab	Лаборатория Безумного Некроманта
+location	Merchant House of Alvar	Альварский купеческий дом
+location	Mire of the Damned	Трясина Проклятых
+location	Misty Islands	Остров Тумана
+location	Mount Nighon	Гора Нигон
+location	Murmurwoods	Шепчущий Лес
+location	Naga Vault	 Склеп наг 
+location	Necromancers' Guild	 Гильдия Некромантов 
+location	New Sorpigal	Нью-Сорпигаль
+location	New World Computing	New World Computing
+location	Nighon Tunnels	Placeholder
+location	NWC	NWC
+location	Ogre Fortress	Крепость огров
+location	Old Loeb's Cave	Пещера Старого Лоэба
+location	Oracle of Enroth	Оракул Энрота
+location	Paradise Valley	Райская долина
+location	Passage Under Regna	Тоннель под Регной
+location	pending	на рассмотрении
+location	Pirate Outpost	 Пиратский аванпост 
+location	Pirate Stronghold	 Пиратская твердыня 
+location	Plane Between Planes	Измерение - между - Измерениями
+location	Plane of Air	Измерение Воздуха
+location	Plane of Earth	Измерение Земли
+location	Plane of Fire	Измерение Огня
+location	Plane of Water	Измерение Воды
+location	Prison of the Lord of Air	 Тюрьма Повелителя Воздуха 
+location	Prison of the Lord of Earth	 Тюрьма Повелителя Земли 
+location	Prison of the Lord of Fire	 Тюрьма Повелителя Огня 
+location	Prison of the Lord of Water	 Тюрьма Повелителя Воды 
+location	Ravage Roaming	Дикое Пастбище
+location	Ravenshore	Воронов Берег
+location	Regna	Регна
+location	Shadow Guild	Гильдия Тени
+location	Shadow Guild Hideout	Схрон гильдии Тени
+location	Shadowspire	Пик Теней
+location	Shoals	Мелководье
+location	Silver Cove	Серебряная бухта
+location	Silver Helm Outpost	Застава шлема Серебряного
+location	Silver Helm Stronghold	Крепость шлема Серебряного
+location	Small Sub Pen	 Загончик 
+location	Smuggler's Cove	 Бухта контрабандистов 
+location	Snergle's Caverns	Пещеры Снергла
+location	Snergle's Iron Mines	Железные копи Снергла
+location	Stone City	Каменный город
+location	Superior Temple of Baa	Высший храм Баа
+location	Supreme Temple of Baa	Верховный храм Баа
+location	Sweet Water	Пресная вода
+location	Tatalia	Таталия
+location	Temple of Baa	Храм Баа
+location	Temple of the Dark	Храм Тьмы
+location	Temple of the Fist	Храм Кулака
+location	Temple of the Light	Храм Света
+location	Temple of the Moon	Храм Луны
+location	Temple of the Snake	Храм Змеи
+location	Temple of the Sun	 Храм Солнца 
+location	Temple of Tsantsa	Храм Цанца
+location	The Arena	Арена
+location	The Bandit Caves	Пещеры бандитов
+location	The Barrow Downs	Курганы
+location	The Bracada Desert	Пустыня Бракада
+location	The Breach	
+location	The Breeding Zone	Инкубатор
+location	The Crypt of Korbu	Склеп Корбу
+location	The Dragon Caves	Пещеры драконов
+location	The Dragon's Lair	Пещера дракона
+location	The Erathian Sewers	 Эрафийская канализация 
+location	The Hall of the Pit	Врата в Бездну
+location	The Hall under the Hill	Чертог под холмом
+location	The Haunted Mansion	Дом с привидениями
+location	The Hidden Tomb	Тайная гробница
+location	The Hive	Улей
+location	The Land of the Giants	Земля гигантов
+location	The Lincoln	Линкольн
+location	The Maze	Лабиринт
+location	The Mercenary Guild	Гильдия наемников
+location	The Monolith	Монолит
+location	The Pit	Бездна
+location	The Red Dwarf Mines	Копи красных гномов
+location	The School of Sorcery	Школа волшебства
+location	The Small House	Маленький дом
+location	The Strange Temple	 Странный храм 
+location	The Temple of Baa	Храм Баа
+location	The Temple of the Moon	Храм Луны
+location	The Tidewater Caverns	Приливные пещеры
+location	The Titans' Stronghold	Цитадель Титанов
+location	The Tularean Caves	Тулареанские пещеры
+location	The Tularean Forest	Тулареанский лес
+location	The Walls of Mist	 Стены Тумана 
+location	The Wine Cellar	Винный погреб
+location	Thunderfist Mountain	Гора Громовой Кулак
+location	Tomb of Ethric the Mad	Гробница Этрика Безумного
+location	Tomb of Lord Brinne	Могила Лорда Бринна
+location	Tomb of VARN	Усыпальница ВАРН
+location	Troll Tomb	 Гробница троллей 
+location	Tunnels to Eeofol	Placeholder
+location	Tutorial	Учебный
+location	Uplifted Library	Верхняя библиотека
+location	Vampire Crypt	Склеп вампиров
+location	War Camp	 Военный лагерь 
+location	Warlord's Fortress	Крепость Полководца
+location	Wasp Nest	 Осиное гнездо 
+location	Watchtower 6	Сторожевая башня 6
+location	White Cliff Cave	Пещеры Белого утеса
+location	William Setag's Tower	Башня Вильяма Сетага
+location	Wromthrax's Cave	Пещера Ромтракса
+location	Yaardrake's Cave	Пещера Йаардрейка
+location	Zokarr's Tomb	Гробница Зокарра
+monsters	Acidic Ooze	Кислотный слизень
+monsters	Acolyte of Baa	Послушник Баа
+monsters	Acolyte of the Moon	Послушник Луны
+monsters	Acolyte of the Sun	Служитель Солнца
+monsters	Adventurer	Искатель приключений
+monsters	Agar's Abomination	Мерзость Агара
+monsters	Agar's Monster	Монстр Агара
+monsters	Agar's Pet	Любимец Агара
+monsters	Air Elemental	Дух воздуха
+monsters	Air Hydra	Воздушная гидра
+monsters	Air Warlock	Чернокнижник Воздуха
+monsters	Ancient Behemoth	Древнее чудище
+monsters	Ancient Wyvern	Древняя виверна
+monsters	Angel	Ангел
+monsters	Angel Lord	Ангел-владыка
+monsters	Animalist	Тотемист
+monsters	Apprentice Mage	Ученик мага
+monsters	Archangel	Архангел
+monsters	Archer	Стрелок
+monsters	Archmage	Архимаг
+monsters	Assassin	Наемный убийца
+monsters	Assassin Droid	Друид - убийца
+monsters	Bandit	Бандит
+monsters	Barrow Wight	Призрак Кургана
+monsters	Basilisk	Василиск
+monsters	Bat	Летучая мышь
+monsters	Behemoth	Чудище
+monsters	Bestial Animalist	Зверь-тотемист
+monsters	Bestial Lycanthrope	Зверь-ликантроп
+monsters	Bestial Shapeshifter	Зверь-притвора
+monsters	Blaster Guy C	Стрелок с бластером
+monsters	Blood Sucker	Пиявка
+monsters	Blood Titan	Кровавый титан
+monsters	Bloodstone Ooze	Кровавый слизень
+monsters	Blue Dragon	Синий дракон
+monsters	Bone Dragon	Костяной Дракон
+monsters	Boulder	Булыжник
+monsters	Bounty Hunter	Охотник за головами
+monsters	Bowman	Лучник
+monsters	Brain Sucker	Мозговая пиявка
+monsters	Brass Golem	Медный голем
+monsters	Brass Gorgon	Медная горгона
+monsters	Brigand	Бандит
+monsters	Bronze Golem	Бронзовый голем
+monsters	Bronze Gorgon	Бронзовая горгона
+monsters	Buccaneer	Букканьер
+monsters	Burglar	Медвежатник
+monsters	Cactus	Кактус
+monsters	Cannibal	Людоед
+monsters	Captain	Капитан
+monsters	Cat A	Кошка
+monsters	Cat B	Кошка
+monsters	Cat C	Кошка
+monsters	Centaur	Кентавр
+monsters	Centaur Warlord	Кентавр - командир
+monsters	Centaur Warrior	Кентавр - воин
+monsters	Champion of the Sword	Чемпион Меча
+monsters	Chaos Guardian	Страх Хаоса
+monsters	Chaos Hydra	Гидра Хаоса
+monsters	Chaos Overlord	Хозяин Хаоса
+monsters	Chaos Protector	Защитник Хаоса
+monsters	Charger	Накат
+monsters	Chicken A	Курица
+monsters	Chicken B	Курица
+monsters	Chicken C	Курица
+monsters	Clay Elemental	Глиняный элементал
+monsters	Cleric of Baa	Клирик Баа
+monsters	Cleric of the Moon	Клирик Луны
+monsters	Cleric of the Sun	Клирик Солнца
+monsters	Cobra	Кобра
+monsters	Colossal Hydra	Исполинская гидра
+monsters	Common Rat	Обыкновенная крыса
+monsters	Conscript	Новобранец
+monsters	Corbie	Грач
+monsters	Corrosive Ooze	Едкий слизень
+monsters	Corsair	Корсар
+monsters	Couatl	Коатль
+monsters	Crusader	Крестоносец
+monsters	Crystal Guardian	Страж Кристалла
+monsters	Crystal Sentry	Часовой Кристалла
+monsters	Crystal Walker	Патрульный Кристалла
+monsters	Cuisinart	Рыцарь - мясник
+monsters	Cutpurse	Ворюга
+monsters	Cyclone	Циклон
+monsters	Cyclops	Циклоп
+monsters	Cyclops Hunter	Циклоп - охотник
+monsters	Cyclops Warrior	Циклоп - воин
+monsters	Dancing Light	Танцующий огонь
+monsters	Dark Dwarf Berserker	Темный гном - берсерк
+monsters	Dark Dwarf Grunt	Темный гном
+monsters	Dark Dwarf Pounder	Темный гном - молотобоец
+monsters	Dark Elf Peasant	Темный эльф - крестьянин
+monsters	Dark Elven Crusader	Темный эльф - крестоносец
+monsters	Dark Elven Defender	Темный эльф - защитник
+monsters	Dark Elven Warrior	Темный эльф - воин
+monsters	Dark Path Journeyman	Адепт пути Тьмы
+monsters	Death Knight	Рыцарь смерти
+monsters	Defender of VARN	Защитник ВАРН
+monsters	Demolisher	Громада
+monsters	Demon Queen	Королева демонов
+monsters	Devil Captain	Капитан дьяволов
+monsters	Devil King	Король дьяволов
+monsters	Devil Master	Владыка дьяволов
+monsters	Devil Spawn	Детеныш дьявола
+monsters	Devil Warrior	Дьявол-воин
+monsters	Devil Worker	Дьявол-работник
+monsters	Diamond Gargoyle	Алмазная горгулья
+monsters	Dire Wolf	Матерый волк
+monsters	Dire Wolf Yearling	Годовалый волк
+monsters	Djinn	Могучий джинн
+monsters	Djinni	Джинн
+monsters	Dog A	Собака
+monsters	Dog B	Собака
+monsters	Dog C	Собака
+monsters	Doom Knight	Рыцарь судьбы
+monsters	Dragon	Дракон
+monsters	Dragon Flightleader	Большой дракон
+monsters	Dragon Hunter	Охотник на драконов
+monsters	Dragon Shark	Драконовая акула
+monsters	Dragon Turtle	Драконовая черепаха
+monsters	Dragonette	Драконелла
+monsters	Dragonfly	Стрекозавр
+monsters	Dragonslayer	Драконоборец
+monsters	Druid	Друид
+monsters	Dust Devil	Дьявол праха
+monsters	Dwarf	Гном
+monsters	Dwarf Lord	Лорд гномов
+monsters	Dwarf Warrior	Гном - воин
+monsters	Dwarven Commander	Гном-командир
+monsters	Dwarven Lieutenant	Гном-лейтенант
+monsters	Dwarven Soldier	Гном-солдат
+monsters	Earth Elemental	Дух земли
+monsters	Earth Spirit	Земной дух
+monsters	Efreet	Ифрит
+monsters	Efreeti Knight	Ифрит - рыцарь
+monsters	Efreeti Lord	Повелитель ифритов
+monsters	Efreeti Soldier	Ифрит - солдат
+monsters	Elder Basilisk	Большой василиск
+monsters	Elder Tortoise	Великая черепаха
+monsters	Elder Vampire	Вурдалак
+monsters	Elite Archer	Элитный стрелок
+monsters	Elven Archer	Эльф - стрелок
+monsters	Elven Defender	Эльф - защитник
+monsters	Elven Lancer	Эльф - улан
+monsters	Elven Ranger	Эльф - рейнджер
+monsters	Elven Scout	Эльф - разведчик
+monsters	Elven Warrior	Эльф - воин
+monsters	Ember Gog	Уголный гог
+monsters	Emerald Dragon	Изумрудный дракон
+monsters	Emerald Ooze	Изумрудный слизень
+monsters	Empress Medusa	Медуза-владычица
+monsters	Energy Drake	Энергетический дракон
+monsters	Enforcer Unit	Робот - инфорсер
+monsters	Ether Champion	Небесный заступник
+monsters	Ether Knight	Небесный рыцарь
+monsters	Ether Lord	Небесный владыка
+monsters	Evil Eye	Глаз дьявола
+monsters	Evil Spirit	Злой дух
+monsters	Expert Swordsman	Мечник - эксперт
+monsters	Fanatic of Baa	Фанатик Баа
+monsters	Fear	Страх
+monsters	Fighter	Воин
+monsters	Fire Archer	Огненный стрелок
+monsters	Fire Beast	Огненное чудовище
+monsters	Fire Bird	Огненная птица
+monsters	Fire Dragonfly	Огненный стрекозавр
+monsters	Fire Elemental	Дух огня
+monsters	Fire Gog	Огненный гог
+monsters	Fire Hydra	Огненная гидра
+monsters	Fire Lizard	Огненный ящер
+monsters	Fire Newt	Огненная ящерица
+monsters	Fire Rat	Огненная крыса
+monsters	Fire Spirit	Огненный дух
+monsters	Fire Warlock	Чернокнижник Огня
+monsters	Fish	Рыба
+monsters	Flame Drake	Пылающий дракон
+monsters	Floating Eye	Плавучий глаз
+monsters	Flying Eye	Летающий глаз
+monsters	Follower of Baa	Последователь Баа
+monsters	Frost Drake	Ледяной дракон
+monsters	Gazer	Глазище
+monsters	Genie	Могучий джинн
+monsters	Ghast	Мертвец
+monsters	Ghost	Призрак
+monsters	Ghoul	Упырь 
+monsters	Giant Bat	Летучая мышь
+monsters	Giant Rat	Гигантская крыса
+monsters	Giant Shark	Гигантская акула
+monsters	Giant Spider	Большой паук
+monsters	Giant Wyrm	Гигантский змий
+monsters	Goblin	Гоблин
+monsters	Goblin King	Король гоблинов
+monsters	Goblin Lord	Властелин гоблинов
+monsters	Goblin Shaman	Гоблин - шаман
+monsters	Gog	Гог
+monsters	Gogling	Малый гог
+monsters	Gold Dragon	Золотой дракон
+monsters	Gold Golem	Золотой голем
+monsters	Gorgon	Горгона
+monsters	Grand Druid	Высший друид
+monsters	Grand Phoenix	Великий феникс
+monsters	Great Druid	Великий друид
+monsters	Great Wyrm	Великий Змий
+monsters	Greater Air Elemental	Великий Дух воздуха
+monsters	Greater Earth Elemental	Великий Дух земли
+monsters	Greater Fire Elemental	Великий Дух огня
+monsters	Greater Lich	Великий лич
+monsters	Greater Light Elemental	Великий элементал Света
+monsters	Greater Roc	Великий рух
+monsters	Greater Vampire	Великий Вампир
+monsters	Greater Water Elemental	Великий Дух воды
+monsters	Greater Wererat	Высший Крысолак
+monsters	Greater Werewolf	Великий оборотень
+monsters	Green Dragon	Зеленый дракон
+monsters	Griffin	Грифон
+monsters	Guard	Стражник
+monsters	Guardian of Flame	Страж Огня
+monsters	Guardian of VARN	Стражник ВАРН
+monsters	Harpy	Гарпия
+monsters	Harpy Hag	Гарпия-ведьма
+monsters	Harpy Queen	Королева гарпий
+monsters	Harpy Witch	Гарпия - колдунья
+monsters	Hatchling	Птенец дракона
+monsters	Head Hunter	Охотник за головами
+monsters	Hobgoblin	Гоблин-повелитель
+monsters	Horned Wyvern	Рогатая виверна
+monsters	Huge Spider	Огромный паук
+monsters	Human Peasant	Крестьянин
+monsters	Hunting Griffin	Ловчий грифон
+monsters	Hydra	Гидра
+monsters	Inferno Bat	Адская летучая мышь
+monsters	Initiate	Посвящённый 
+monsters	Initiate Monk	Посвящённый
+monsters	Initiate of the Sword	Посвященный Меча
+monsters	Iron Gorgon	Железная горгона
+monsters	Journeyman Mage	Начинающий маг
+monsters	Juggernaut	Таран
+monsters	King Cobra	Королевская кобра
+monsters	Large Rat	Большая крыса
+monsters	Lesser Air Elemental	Меньший Дух воздуха
+monsters	Lesser Earth Elemental	Меньший Дух земли
+monsters	Lesser Fire Elemental	Меньший Дух огня
+monsters	Lesser Light Elemental	Малый элементал Света
+monsters	Lesser Water Elemental	Меньший Дух воды
+monsters	Lich	Лич
+monsters	Lich King	Король личей
+monsters	Lieutenant	Лейтенант
+monsters	Light Elemental	Элементал Света
+monsters	Lightning Lizard	Молниеносный ящер
+monsters	Lightning Rat	Громовая крыса
+monsters	Lizard Archer	Ящер - стрелок
+monsters	Lizard Man	Ящер
+monsters	Lizard Wizard	Ящер - чародей
+monsters	Lizardman Captain	Человекоящер - капитан
+monsters	Lizardman Farmer	Человекоящер - фермер
+monsters	Lizardman Peasant	Человекоящер - крестьянин
+monsters	Lizardman Sergeant	Человекоящер - сержант
+monsters	Lizardman Soldier	Человекоящер - солдат
+monsters	Lizardman Villager	Житель деревни человекоящеров
+monsters	Lycanthrope	Ликантроп
+monsters	Maddening Eye	Бешеный глаз
+monsters	Mage	Маг
+monsters	Magician	Кудесник
+monsters	Magog	Магог
+monsters	Magyar	Мадьярка
+monsters	Magyar Matron	Матрона мадьярок
+monsters	Magyar Soldier	Мадьярка - солдат
+monsters	Manticore	Мантикора 
+monsters	Marble Gargoyle	Мраморная горгулья
+monsters	Master	Мастер
+monsters	Master Archer	Мастер стрелок
+monsters	Master Monk	Монах
+monsters	Master Necromancer	Мастер некромантии
+monsters	Master of the Sword	Мастер Меча
+monsters	Master Swordsman	Мастер мечник
+monsters	Master Thief	Мастер Вор
+monsters	Medusa	Медуза
+monsters	Medusa Enchantress	Медуза - чаровница
+monsters	Mega-Dragon	Мегадракон
+monsters	Mercenary	Наемник
+monsters	Mercenary Captain	Капитан наемников
+monsters	Minicore	Миникора
+monsters	Minion Vampire	Слабый вампир
+monsters	Minotaur	Минотавр
+monsters	Minotaur Battleleader	Минотавр - командир
+monsters	Minotaur Guard	Минотавр - стражник
+monsters	Minotaur Headsman	Старший минотавр
+monsters	Minotaur King	Царь минотавров
+monsters	Minotaur Lord	Царь минотавров
+monsters	Minotaur Mage	Минотавр - маг
+monsters	Minotaur Peasant	Минотавр - крестьянин
+monsters	Minotaur Warrior	Минотавр - воин
+monsters	Mist Hawk	Ястреб тумана
+monsters	Monk	Монах
+monsters	Mountain Troll	Горный тролль
+monsters	Mystic of Baa	Мистик Баа
+monsters	Naga	Нага
+monsters	Naga Queen	Королева наг
+monsters	Naga Warrior	Нага-воин
+monsters	Necromancer	Некромант
+monsters	Nightmare	Кошмар
+monsters	Noble Titan	Благородный титан
+monsters	Novice Monk	Послушник
+monsters	Obsidian Gargoyle	Обсидиановая горгулья
+monsters	Ogre	Огр
+monsters	Ogre Brawler	Огр-буян
+monsters	Ogre Chieftain	Вождь огров
+monsters	Ogre Mage	Огр-маг
+monsters	Ogre Mage Apprentice	Ученик огра-мага
+monsters	Ogre Magi	Огр-шаман
+monsters	Ogre Peasant	Огр-крестьянин
+monsters	Ogre Raider	Огр - налётчик
+monsters	Ogre Warleader	Огр-командир
+monsters	Ogre Warrior	Огр-воин
+monsters	Ooze	Слизень
+monsters	Pack Leader	Вожак стаи
+monsters	Patrol Unit	Робот - патрульный
+monsters	Peasant	Крестьянин
+monsters	Phoenix	Феникс
+monsters	Piranha Shark	Акула-людоед
+monsters	Pirate	Пират
+monsters	Pirate Magi	Советник пиратов
+monsters	Pirate Seer	Провидец пиратов
+monsters	Pirate Wizard	Волшебник пиратов
+monsters	Plane Guardian	Страж измерения
+monsters	Plane Overlord	Хозяин измерения
+monsters	Plane Protector	Защитник измерения
+monsters	Power Lich	Могучий лич
+monsters	Priest of Baa	Священник Баа
+monsters	Priest of the Moon	Священник Луны
+monsters	Priest of the Sun	Жрец Солнца
+monsters	Queen Cobra	Королева кобр
+monsters	Queen Dragonfly	Королева стрекозавров
+monsters	Queen Medusa	Королевская медуза
+monsters	Queen of the Dead	Королева Мёртвых
+monsters	Raider	Налётчик
+monsters	Rat A	Крыса
+monsters	Rat B	Крыса
+monsters	Rat C	Крыса
+monsters	Ratman	Человекокрыса
+monsters	Raven	Ворон
+monsters	Reactor	Реактор
+monsters	Red Dragon	Красный дракон
+monsters	Regnan Arbalester	Регнанский арбалетчик
+monsters	Regnan Archmage	Регнанский архи-маг
+monsters	Regnan Bandit	Регнанский разбойник
+monsters	Regnan Battlemage	Регнанский маг войны
+monsters	Regnan Brigadier	Регнанский бригадир
+monsters	Regnan Crossbowman	Регнанский стрелок
+monsters	Regnan Lieutenant	Регнанский лейтенант
+monsters	Regnan Pirate	Регнанский пират
+monsters	Regnan Sorcerer	Регнанский волшебник
+monsters	Revenant	Восставший из ада
+monsters	River Troll	Речной тролль
+monsters	Robber	Грабитель
+monsters	Robert the Wise	Роберт Мудрый
+monsters	Roc	Рух
+monsters	Rock Beast	Каменное чудовище
+monsters	Rogue	Разбойник
+monsters	Rook	Рук
+monsters	Rotted Corpse	Гниющий труп
+monsters	Royal Griffin	Королевский грифон
+monsters	Ruby Dragon	Рубиновый дракон
+monsters	Ruffian	Головорез
+monsters	Salamander	Саламандра
+monsters	Sapphire Dragon	Сапфировый дракон
+monsters	Sapphire Ooze	Сапфировый слизень
+monsters	Scorpicore	Скорпикора
+monsters	Sea Monster	Морской монстр
+monsters	Sea Serpent	Морской змей
+monsters	Sea Terror	Гроза морей
+monsters	Seeker Droid	Друид - охотник
+monsters	Sentinel Droid	Друид - часовой
+monsters	Sentinel of VARN	Часовой ВАРН
+monsters	Serpentman	Человекозмей
+monsters	Serpentman Elder	Староста человекозмеев
+monsters	Serpentman Warrior	Человекозмей - воин
+monsters	Shade	Бесплотный дух
+monsters	Shapeshifter	Притвора
+monsters	Skeletal Dragon	Дракон-скелет
+monsters	Skeleton	Скелет
+monsters	Skeleton Archer	Скелет-стрелок
+monsters	Skeleton Bowman	Скелет-лучник
+monsters	Skeleton Hunter	Скелет-охотник
+monsters	Skeleton Knight	Скелет - рыцарь
+monsters	Skeleton Lord	Предводитель скелетов
+monsters	Skeleton Warrior	Скелет - воин
+monsters	Smoke Gog	Дымовой гог
+monsters	Soldier	Солдат
+monsters	Soldier of Fortune	Солдат удачи
+monsters	Sorcerer	Волхв
+monsters	Soul Sucker	Пиявка души
+monsters	Speaker for the Dead	Повелительница Мёртвых
+monsters	Specter	Привидение
+monsters	Spider	Паук
+monsters	Sprite	Ундина
+monsters	Stone Elemental	Каменный элементал
+monsters	Stone Gargoyle	Каменная горгулья
+monsters	Storm Eagle	Орел шторма
+monsters	Storm Titan	Грозовой титан
+monsters	Supreme Titan	Верховный титан
+monsters	Swamp Troll	Болотный тролль
+monsters	Swordsman	Мечник
+monsters	Sylph	Сильфида
+monsters	Tempest	Вихрь
+monsters	Terminator Unit	Робот - терминатор
+monsters	Terrible Eye	Ужасный глаз
+monsters	Terror	Ужас
+monsters	Thief	Вор
+monsters	Thug	Душитель
+monsters	Thunder Lizard	Громовой ящер
+monsters	Thunderbird	Грозовая птица
+monsters	Titan	Титан
+monsters	Tolberti	Толберти
+monsters	Tree	Дерево
+monsters	Triton	Тритон
+monsters	Triton Crusader	Тритон- крестоносец
+monsters	Triton Warrior	Тритон-воин
+monsters	Troglodyte Drone	Троглодит-работник
+monsters	Troglodyte Queen	Королева троглодитов
+monsters	Troglodyte Soldier	Троглодит-солдат
+monsters	Troll Chieftain	Тролль - вождь
+monsters	Troll Clubman	Троль - солдат
+monsters	Troll Peasant	Тролль - крестьянин
+monsters	Troll Warrior	Тролль - воин
+monsters	Twister	Вихрь
+monsters	Undead Dragon	Дракон-зомби
+monsters	Unicorn	Единорог
+monsters	Unicorn Foal	Жеребенок
+monsters	Unicorn Herd Leader	Вожак стада
+monsters	Vampire	Вампир
+monsters	Vampire Bat	Летучая мышь-вампир
+monsters	Vampire Minion	Малый вамир
+monsters	Venemous Spider	Ядовитый паук
+monsters	Venomous Hydra	Ядовитая гидра
+monsters	Veteran	Ветеран
+monsters	Walking Dead	Ходячий мертвец
+monsters	Warden of Fire	Часовой Огня
+monsters	Warlock	Чернокнижник
+monsters	Wasp Sentry	Оса-часовой
+monsters	Wasp Warrior	Оса-воин
+monsters	Wasp Worker	Оса
+monsters	Water Beast	Водное чудовище
+monsters	Water Elemental	Дух воды
+monsters	Water Spirit	Водный дух
+monsters	Water Warlock	Чернокнижник Воды
+monsters	Wererat	Крысолак
+monsters	Werewolf	Оборотень
+monsters	Widowmaker	Черная вдова
+monsters	Wight	Призрак
+monsters	Will O' Wisp	Блуждающий огонь
+monsters	Winged Serpent	Крылатый змей
+monsters	Wisp	Огонек
+monsters	Witch Doctor	Шаманка
+monsters	Wizard	Чародей
+monsters	Wolfman	Человек - волк
+monsters	Wraith	Привидение
+monsters	Wyrm	Змий
+monsters	Wyvern	Виверна
+monsters	Young Basilisk	Молодой василиск
+monsters	Young Behemoth	Молодое чудище
+monsters	Young Couatl	Молодой Коатль
+monsters	Young Dragon	Молодой дракон
+monsters	Young Dragon Turtle	Молодая Драконовая черепаха
+monsters	Zombie	Зомби
+npcprof	Acolyte	Служка
+npcprof	Alchemist	Алхимик
+npcprof	Apothecary	Аптекарь
+npcprof	Apprentice	Подмастерье
+npcprof	Armorer	Оружейник
+npcprof	Armorsmith	Доспешник
+npcprof	Arms Master	Учитель оружия
+npcprof	Banker	Банкир
+npcprof	Bard	Бард
+npcprof	Barmaid	Барменша
+npcprof	Barrister	Адвокат
+npcprof	Beggar	Нищий
+npcprof	Blacksmith	Оружейник
+npcprof	Brekish One-Fang	Брекиш Однозуб
+npcprof	Burglar	Взломщик
+npcprof	Captain	Капитан
+npcprof	Carpenter	Плотник
+npcprof	Cartographer	Картограф
+npcprof	Chaplain	Капеллан
+npcprof	Charles Quixote	Карл Кихот
+npcprof	Chef	Шеф-повар
+npcprof	Child	Дитя
+npcprof	Chimney Sweep	Трубочист
+npcprof	Clerk	Клерк
+npcprof	Cobbler	Сапожник
+npcprof	Cook	Повар
+npcprof	Cooper	Бондарь
+npcprof	Counselor	Советник
+npcprof	Diplomat	Дипломат
+npcprof	Ditch Digger	Землекоп
+npcprof	Dragon	Дракон
+npcprof	Duper	Простофиля
+npcprof	Dyson Leland	Дайсон Лиланд
+npcprof	Enchanter	Заклинатель
+npcprof	Escaton	Эскатон
+npcprof	Expert Healer	Лекарь-эксперт
+npcprof	Explorer	Исследователь
+npcprof	Factor	Агент
+npcprof	Fallen Wizard	Павший Волшебник
+npcprof	Farmer	Фермер
+npcprof	Follower of Baa	Сторонник Баа
+npcprof	Fool	Дурак
+npcprof	Gambler	игрок
+npcprof	Gate Master	Мастер Врат
+npcprof	Guard	страж
+npcprof	Guide	Проводник
+npcprof	Guildmaster	Глава гильдии
+npcprof	Gypsy	Цыган
+npcprof	Healer	Целитель
+npcprof	Herbalist	Травник
+npcprof	Horseman	Конюх
+npcprof	Hunter	Охотник
+npcprof	Initiate	Посвящённый
+npcprof	Innkeep	Трактирщик
+npcprof	Instructor	Наставник
+npcprof	Jester	Шут
+npcprof	Laborer	Рабочий
+npcprof	Locksmith	Слесарь
+npcprof	Magician	Волшебник
+npcprof	Master Healer	Лекарь-мастер
+npcprof	Merchant	Купец
+npcprof	Miller	Мельник
+npcprof	Missionary	Миссионер
+npcprof	Monk	Монах
+npcprof	Mystic	Мистик
+npcprof	Navigator	Штурман
+npcprof	Negotiator	Посредник
+npcprof	Noble	Дворянин
+npcprof	Overdune	Овердюн
+npcprof	Pathfinder	Следопыт
+npcprof	Peasant	Крестьянин
+npcprof	Piper	Волынщик
+npcprof	Pirate	Пират
+npcprof	Porter	Привратник
+npcprof	Potter	Гончар
+npcprof	Prelate	Прелат
+npcprof	Psychic	Физик
+npcprof	Quarter Master	Интендант
+npcprof	Rustler	Делец
+npcprof	Sage	Мудрец
+npcprof	Sailor	Моряк
+npcprof	Sandro	Сандро
+npcprof	Scholar	Ученик
+npcprof	Scout	Разведчик
+npcprof	Scribe	Книжник
+npcprof	Serf	Крепостной
+npcprof	Shopkeeper	владелец лавки
+npcprof	Smith	Кузнец
+npcprof	Smuggler	Контрабандист
+npcprof	Spell Master	Мастер Магии
+npcprof	Squire	Сквайр
+npcprof	Stablemaster	Конюший
+npcprof	Stone Cutter	Каменотес
+npcprof	Tailor	Портной
+npcprof	Teacher	Учитель
+npcprof	Tinker	Лудильщик
+npcprof	Tracker	Охотник
+npcprof	Trader	Торговец
+npcprof	Trapper	Траппер
+npcprof	Water Master	Мастер Воды
+npcprof	Weapons Master	Мастер оружия
+npcprof	Weaver	Ткач
+npcprof	Wererat Smuggler	Крысолак - контрабандист
+npcprof	Wind Master	Мастер Ветра
+reputation	Angelic	Ангельский
+reputation	Average	Средний
+reputation	Bad	Плохой
+reputation	Despicable	Презренный
+reputation	Glorious	Знаменитый
+reputation	Honorable	Почетный
+reputation	Monstrous	Чудовищный
+reputation	Neutral	Нейтральная
+reputation	Notorious	Пресловутый
+reputation	Respectable	Приличный
+reputation	Saintly	Святой
+reputation	Vile	Подлый
+skilldes	Air	Воздух
+skilldes	Air Magic	Магия Воздуха
+skilldes	Alchemy	Алхимия
+skilldes	Armsmaster	Владение оружием
+skilldes	Axe	Топор
+skilldes	Blaster	Бластер
+skilldes	Body	Тело
+skilldes	Body Building	Бодибилдинг
+skilldes	Body Magic	Магия Тела
+skilldes	Bodybuilding	Бодибилдинг 
+skilldes	Bow	Лук
+skilldes	Chain	Кольчуга
+skilldes	Dagger	Кинжал
+skilldes	Dark	Тьма
+skilldes	Dark Elf Ability	Способности темн. эльфа
+skilldes	Dark Magic	Магия Тьмы
+skilldes	Diplomacy	Дипломатия
+skilldes	Disarm Trap	Устранение ловушек
+skilldes	Disarm Traps	Обезвреживание ловушек
+skilldes	Dodging	Проворство
+skilldes	Dragon Ability	Способности дракона
+skilldes	Earth	Земля
+skilldes	Earth Magic	Магия Земли
+skilldes	Fire	Огонь
+skilldes	Fire Magic	Магия Огня
+skilldes	Identify	Опознать
+skilldes	Identify Item	Опознание предмета
+skilldes	Identify Monster	Опознание монстра 
+skilldes	Learning	Обучаемость
+skilldes	Leather	Кожа
+skilldes	Light	Свет
+skilldes	Light Magic	Магия Света
+skilldes	Mace	Булава
+skilldes	Meditation	Медитация
+skilldes	Merchant	Торговля
+skilldes	Mind	Разум
+skilldes	Mind Magic	Магия Разума
+skilldes	Perception	Внимание
+skilldes	Plate	Латы
+skilldes	Regeneration	Регенерация
+skilldes	Repair	Починка
+skilldes	Repair Item	Починка вещей
+skilldes	Shield	Щит
+skilldes	Spear	Копье
+skilldes	Spirit	Дух
+skilldes	Spirit Magic	Магия Духа
+skilldes	Staff	Посох
+skilldes	Stealing	Воровство
+skilldes	Sword	Меч
+skilldes	Thievery	Воровство
+skilldes	Unarmed	Рукопашная
+skilldes	Vampire Ability	Способности вампира
+skilldes	Water	Вода
+skilldes	Water Magic	Магия Воды
+spcitems	Antique	(Древности)
+spcitems	Assassins'	(Убийцы)
+spcitems	Barbarians'	(Варвара)
+spcitems	Demon Slayer	Убийцы демонов
+spcitems	Demon Slaying	Убийцы Демонов
+spcitems	Dragon Slayer	Убийцы драконов
+spcitems	Dragon Slaying	("Погибель драконов")
+spcitems	Elemental Slaying	("Ужас духов стихий")
+spcitems	Elf Slaying	Убийцы Эльфов
+spcitems	Monks'	(Монаха)
+spcitems	of Acid	(Кислоты)
+spcitems	of Air Magic	(Магии Воздуха)
+spcitems	of Alarms	(Чуткого сна)
+spcitems	of Antidotes	(Противоядия)
+spcitems	of Body Magic	(Магии Тела)
+spcitems	of Carnage	(Резни)
+spcitems	of Cold	(Холода)
+spcitems	of Dark Magic	(Магии Тьмы)
+spcitems	of Darkness	(Сумерек)
+spcitems	Of David	(Давида)
+spcitems	of Doom	(Рока)
+spcitems	of Earth	(Земли)
+spcitems	of Earth Magic	(Магии Земли)
+spcitems	of Feather Falling	(Падения перышком)
+spcitems	of Fire	(Огня)
+spcitems	of Fire Magic	(Магии Огня)
+spcitems	of Flame	(Пламени)
+spcitems	of Force	(Силы)
+spcitems	of Freedom	(Свободы)
+spcitems	of Frost	(Мороза)
+spcitems	of Ice	(Льда)
+spcitems	of Identifying	(Определения)
+spcitems	of Immunity	(Защиты)
+spcitems	of Infernos	(Адского пламени)
+spcitems	of Life	(Жизни)
+spcitems	of Light Magic	(Магии Света)
+spcitems	of Lightning	(Грома)
+spcitems	of Mana	(Маны)
+spcitems	of Mind Magic	(Магии Разума)
+spcitems	of Plenty	(Изобилия)
+spcitems	of Poison	(Отравы)
+spcitems	of Power	(Власти)
+spcitems	of Protection	(Защиты)
+spcitems	of Recovery	(Восстановления)
+spcitems	of Regeneration	(Регенерации)
+spcitems	of Sanity	(Ясного разума)
+spcitems	of Shielding	(Щита)
+spcitems	of Sparks	(Искр)
+spcitems	of Spirit Magic	(Магии Духа)
+spcitems	of Swiftness	Проворства
+spcitems	of The Dragon	(Дракона)
+spcitems	of The Eclipse	(Затмения)
+spcitems	of The Gods	(Богов)
+spcitems	of The Golem	(Голема)
+spcitems	of The Medusa	(Медузы)
+spcitems	of The Moon	(Луны)
+spcitems	of the Ocean	(Океана)
+spcitems	of The Phoenix	(Феникса)
+spcitems	of The Sky	(Неба)
+spcitems	of The Stars	(Звезд)
+spcitems	of the Storm	(Шторма)
+spcitems	of The Sun	(Солнца)
+spcitems	of The Troll	(Тролля)
+spcitems	of The Unicorn	(Единорога)
+spcitems	of Thievery	(Воровства)
+spcitems	of Thunderbolts	(Молнии)
+spcitems	of Venom	(Яда)
+spcitems	of Water Magic	(Магии Воды)
+spcitems	of Water Walking	(Хождения по воде)
+spcitems	Ogre Slaying	("Ужас огров")
+spcitems	Rogues	Разбойников
+spcitems	Rogues'	(Наемника)
+spcitems	Swift	(Скорости)
+spcitems	Thieves'	(Вора)
+spcitems	Undead Slaying	("Уничтожение нежити")
+spcitems	Vampiric	(Вампира)
+spcitems	Warriors	Воинов
+spcitems	Warriors'	(Воина)
+spcitems	Wizards	Чародеев
+spcitems	Wizards'	(Волшебника)
+spellgroupshort	Air	Воздух
+spellgroupshort	Body	Тело
+spellgroupshort	Cold	Холод
+spellgroupshort	Dark	Тьма
+spellgroupshort	Earth	Земля
+spellgroupshort	Electricity	Гром
+spellgroupshort	Fire	Огонь
+spellgroupshort	Light	Свет
+spellgroupshort	Mind	Мысль
+spellgroupshort	Spirit	Дух
+spellgroupshort	Water	Вода
+spells	Acid Burst	Струя Кислоты
+spells	Air Res	Защита от воздуха
+spells	Air Resist	Уст.к Возд.
+spells	Air Resistance	Устойчивость к Воздуху
+spells	Armageddon	Армагеддон
+spells	Awaken	Пробуждение
+spells	Berserk	Берсерк
+spells	Blades	Лезвия
+spells	Bless	Благословение
+spells	Blind	Ослепление
+spells	Body Res	Защита от магии Тела
+spells	Body Resist	Уст.Тела
+spells	Body Resistance	Устойчивость Тела
+spells	Buffet	Удар Крыльев
+spells	Charm	Очарование
+spells	Cntrl Undead	Упр.Нежит.
+spells	Cold Beam	Поток Холода
+spells	Control Undead	Управление Нежитью
+spells	Create Food	Сотворение Еды
+spells	Cure Disease	Излечение Болезни
+spells	Cure Insane	Исц Безумия
+spells	Cure Insanity	Исцеление Безумия
+spells	Cure Paralysis	Исцеление Паралича
+spells	Cure Plyze	Л.парал.
+spells	Cure Poison	Лечение Отравления
+spells	Cure Weak	Леч.Слаб.
+spells	Cure Weakness	Лечение Слабости
+spells	Cure Wound	Леч.ран
+spells	Cure Wounds	Лечение Ран
+spells	Dark Contain	Вс.тьмы
+spells	Dark Containment	Вселение Тьмы
+spells	Dark Grasp	Темная Хватка
+spells	Darkfire	Темн.Огонь
+spells	Darkfire Bolt	Темный Огонь
+spells	Day -o- Gods	День Богов
+spells	Day of Prot	Д.защиты
+spells	Day of Protection	День Защиты
+spells	Day of the Gods	День Богов
+spells	Deadly Swarm	Рой Смерти
+spells	Death Blossom	Бутон Смерти
+spells	Death Blsm	Бут.Cмерти
+spells	Dest Undead	Разр.Нежити
+spells	Destroy Undead	Разрушение Нежити
+spells	Detect Life	Обнаружение Жизни
+spells	Dispel Magic	Снятие Магии
+spells	Divine Inter	Бож.Вмеш.
+spells	Divine Intervention	Божественное Вмешательство
+spells	Drag Breath	Дых.Драк.
+spells	Dragon Breath	Дыхание Дракона
+spells	Earth Res	Защита от Земли
+spells	Earth Resist	Уст к Земле
+spells	Earth Resistance	Устойчивость к Земле
+spells	Enchant Item	Зачаровывание Предмета
+spells	Enslave	Порабощение
+spells	Fate	Рок
+spells	Fear	Ужас
+spells	Feather Fall	Падение Перышком
+spells	Feeblemind	Слабоумие
+spells	Finger Death	П.смерти
+spells	Finger of Death	Перст Смерти
+spells	Fire Aura	Огненная Аура
+spells	Fire Blast	Поток Огня
+spells	Fire Bolt	Огненная Стрела
+spells	Fire Res	Защита от огня
+spells	Fire Resistance	Устойчивость к Огню
+spells	Fire Spike	Огненный Шип
+spells	Fireball	Огненный Шар
+spells	First Aid	Первая Помощь
+spells	Flame Arrow	Пламенная Стрела
+spells	Flame Blast	Пламя
+spells	Flight	Полет
+spells	Fly	Полет
+spells	Flying Fist	Летящий Кулак
+spells	Glamour	Обаяние
+spells	Gldn Touch	Дар Мид.
+spells	Golden Touch	Дар Мидаса
+spells	Guard Angel	Ангел-хр.
+spells	Guardian Angel	Ангел-хранитель
+spells	Hammerhand	Молот
+spells	Hammerhands	Рука-Молот
+spells	Harm	Вред
+spells	Haste	Ускорение
+spells	Heal	Исцеление
+spells	Healing	Прикос.
+spells	Healing Touch	Прикосновение
+spells	Heroism	Героизм
+spells	Hour of Power	Час Силы
+spells	Hour Power	Ч.могущ.
+spells	Ice Blast	Ледяной Взрыв
+spells	Ice Bolt	Ледяная Стрела
+spells	Immolation	Всесожжение
+spells	Implosion	Коллапс
+spells	Incinerate	Испепеление
+spells	Inferno	Адское Пламя
+spells	Invisibility	Невидимость
+spells	Jump	Прыжок
+spells	Levitate	Левитация
+spells	Lifedrain	Вытягивание Жизни
+spells	Light Bolt	Стрела Света
+spells	Lightning	Молния
+spells	Lightning Bolt	Молния
+spells	Lloyd's	Маяк
+spells	Lloyd's Beacon	Маяк
+spells	Lucky Day	Удачный день
+spells	Magic Arrow	Волшебная Стрела
+spells	Mass Curse	Общее Проклятие
+spells	Mass Distort	Иск.Массы
+spells	Mass Distortion	Искажение Массы
+spells	Mass Fear	Всеобщий Ужас
+spells	Meditation	Медитация
+spells	Meteor Shower	Метеорный Поток
+spells	Meteor Shwr	Метеор
+spells	Mind Blast	Телепатический Удар
+spells	Mind Res	Защита от магии Разума
+spells	Mind Resist	Уст Разума
+spells	Mind Resistance	Устойчивость Разума
+spells	Mistform	Превращение в Туман
+spells	Moon Ray	Луч Луны
+spells	Pain Reflect	Отраж.Боли
+spells	Pain Reflection	Отражение Боли
+spells	Paralyze	Паралич
+spells	Poison Spr	Яд.Брызги
+spells	Poison Spray	Ядовитые Брызги
+spells	Power	Сила
+spells	Power Cure	Могущественное Исцеление
+spells	Precision	Меткость
+spells	Preservation	Сохранение
+spells	Pris Light	Радуга
+spells	Prismatic Light	Радужный Свет
+spells	Prot Cold	Защита от холода
+spells	Prot Elec	Защита от электричества
+spells	Prot Fire	Защита от огня
+spells	Prot Magic	Защита от магии
+spells	Prot Poison	Защита от яда
+spells	Protection from Cold	Защита от Холода
+spells	Protection from Electricity	Защита от грома
+spells	Protection from Fire	Защита от Огня
+spells	Protection from Magic	Защита от Магии
+spells	Protection from Poison	Защита от Яда
+spells	Psy - Shock	Душев.Шок
+spells	Psychic Shock	Душевный Шок
+spells	Raise Dead	Оживление
+spells	Reanimate	Поднятие Нежити
+spells	Recharge	Перезар.
+spells	Recharge Item	Перезарядка Предмета
+spells	Regeneration	Регенерация
+spells	Remove Curse	Снятие Проклятия
+spells	Remove Fear	Снятие Страха
+spells	Resurrection	Воскрешение
+spells	Ring of Fire	Кольцо Огня
+spells	Rmv. Curse	Снятие Прокл
+spells	Rock Blast	Каменный Взрыв
+spells	Sacrifice	Убийство жертвы
+spells	Shared Life	Разделение Жизни
+spells	Shield	Щит
+spells	Shrapmetal	Осколки Металла
+spells	Shrink Ray	Сжим.Луч
+spells	Shrinking Ray	Сжимающий Луч
+spells	Slow	Замедление
+spells	Souldrinker	Душепийца
+spells	Sparks	Искры
+spells	Speed	Скорость
+spells	Spirit Arrow	Стрела Духа
+spells	Spirit Lash	Плеть Призрака
+spells	Starburst	Звездный Взрыв
+spells	Static Charge	Заряд статики
+spells	Static Chrg	Заряд ст.
+spells	Stone - Flesh	Размяг.
+spells	Stone Skin	Каменная Кожа
+spells	Stone to Flesh	Размягчение
+spells	Stoneskin	Каменная кожа
+spells	Stun	Оглушение
+spells	Summon	Огонек
+spells	Summon Elemental	Элементал
+spells	Summon Wisp	Создание Болотного Огонька
+spells	Sun Ray	Луч Солнца
+spells	Sunray	Солнечный Луч
+spells	Swarm	Рой
+spells	Telekinesis	Телекинез
+spells	Telepathy	Телепатия
+spells	Torch Light	Факел
+spells	Town Portal	Портал в Город
+spells	Toxic Cloud	Ядовитое Облако
+spells	Travel Boon	Путник
+spells	Travelers' Boon	Радость Путника
+spells	Turn - Stone	Окамен.
+spells	Turn to Stone	Окаменение
+spells	Turn Undead	Изгнание Нежити
+spells	Vamp Weap	Вамп.Оруж.
+spells	Vampiric Weapon	Вампирское Оружие
+spells	Water Res	Защита от воды
+spells	Water Resist	Уст к Воде
+spells	Water Resistance	Устойчивость к Воде
+spells	Water Walk	Хождение по Воде
+spells	Wing Buffet	Удар Крыльев
+spells	Wizard Eye	Волшебный Глаз
+spells vampire	Charm	Очарование
+stats	AC	AC
+stats	Accuracy	Меткость
+stats	Age	Возраст
+stats	Air	Воздух
+stats	Armor Class	Класс защиты
+stats	Attack	Атака
+stats	Attack Bonus	Премия к атаке
+stats	Attack Damage	Наносимый урон
+stats	Body	Тело
+stats	Class	Класс
+stats	Cold	Холод
+stats	Cond	Сост.
+stats	Condition	Состояние
+stats	Dmg	Урон
+stats	Earth	Земля
+stats	Electricity	Электричество
+stats	Endurance	Выносливость
+stats	Exp.	Опыт
+stats	Experience	Опыт
+stats	Fame	Слава
+stats	Fire	Огонь
+stats	Hit Points	Здоровье
+stats	HP	ПЗ
+stats	Intellect	Интеллект
+stats	Level	Уров.
+stats	Luck	Удача
+stats	Magic	Магия 
+stats	Might	Мощь
+stats	Mind	Разум
+stats	Name	Имя
+stats	Personality	Лидерство
+stats	Points	Пункт.
+stats	Poison	Яд 
+stats	QSpell	Б.заклинание
+stats	Quick Spell	Заклинание
+stats	Reputation	Репутация
+stats	Shoot Bonus	Премия к стрельбе
+stats	Shoot Damage	Урон при стрельбе
+stats	Skill Points	Пункты умения
+stats	Skills	Умен.
+stats	SP	Мана
+stats	Speed	Скорость
+stats	Spell Points	Пункты маны
+stats	Water	Вода
+stditems	of Air Resistance	(Устойчивости к воздуху)
+stditems	of Alchemy	(Алхимика)
+stditems	of Arms	(Фехтовальщика)
+stditems	of Body Resistance	(Устойчивости тела)
+stditems	of Charm	(Очарования)
+stditems	of Cold Resistance	Холодостойкости
+stditems	of Defense	(Защиты)
+stditems	of Disarming	(Обезвреживания)
+stditems	of Dodging	(Уворачивания)
+stditems	of Earth Resistance	(Устойчивости к земле)
+stditems	of Elec Resistance	Громостойкости
+stditems	of Fire Resistance	(Устойчивости к огню)
+stditems	of great Might	
+stditems	of Health	(Жизни)
+stditems	of Items	(Опознания)
+stditems	of Luck	(Удачи)
+stditems	of Magic	(Магии)
+stditems	of Might	(Мощи)
+stditems	of Mind Resistance	(Устойчивости разума)
+stditems	of Monsters	(Монстров) 
+stditems	of Poison Resistance	Ядостойкости 
+stditems	of Precision	(Безошибочности)
+stditems	of Speed	(Скорости)
+stditems	of Stealing	(Вора)
+stditems	of the Fist	(Кулака)
+stditems	of Thought	(Мысли)
+stditems	of Vigor	(Доблести)
+stditems	of Water Resistance	(Устойчивости к воде)
