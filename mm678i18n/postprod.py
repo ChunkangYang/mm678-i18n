@@ -67,6 +67,25 @@ def mmarch(*args):
 	subprocess.run([str(exe)] + list(args), check = True)
 
 
+# assets/font layout (audited 2026-08, docs/dev/fonts.md): flat files
+# under <enc>/ apply to every game; <enc>/67 and <enc>/8 hold per-family
+# overrides/additions on top (copied second, so they win).
+#   cp1252/       one flat set - EN 2.5.7 fonts are byte-identical across
+#                 MM6/7/8 (GrayFace unified the old mm8 LEGAL)
+#   cp1250/ + 8/  Polish set shared by all games; mm8 differs only in
+#                 spell.fnt and adds its own calig.fnt
+#   cp1251/{67,8} fully split - the mm6/7 and mm8 Russian localizations
+#                 redrew every font differently
+def fontFamily(mmVersion):
+	return '8' if mmVersion in ('8', 'merge') else '67'
+
+
+# the MM8 engine has no Cchar font slot (see 00 structs.lua: the pointer
+# exists only for MM6/MM7) - the file in its archives is a dead leftover
+def fontExcludes(mmVersion):
+	return {'cchar.fnt'} if mmVersion in ('8', 'merge') else set()
+
+
 def copyFonts(d, pTemp, mmVersion, pNameCondensed):
 	if mmVersion == '6':
 		folder = 'Data/10 Loc' + pNameCondensed + '.icons'
@@ -79,7 +98,10 @@ def copyFonts(d, pTemp, mmVersion, pNameCondensed):
 	fontDir = Path(settings.non_text_folder).joinpath('font').joinpath(d)
 	if not fontDir.exists(): # e.g. DBCS encodings: BDFs replaced the page .fnt
 		return
+	skip = fontExcludes(mmVersion)
 	for fnt in getFilePaths(fontDir, 'fnt', False):
+		if fnt.name.lower() in skip:
+			continue
 		shutil.copy(fnt, pTemp.joinpath(folder))
 
 
@@ -245,17 +267,16 @@ def processProdText(postprodPath, prodPath):
 			pTemp = p.joinpath('mm' + versionNum)
 			encoding = langEncDict[p.name]
 
+			fam = fontFamily(versionNum)
 			copyFonts(encoding, pTemp, versionNum, pNameCondensed)
+			copyFonts(encoding + '/' + fam, pTemp, versionNum, pNameCondensed)
 			if encoding in dbcsEncs:
+				# DBCS languages keep the cp1252 engine fonts for the
+				# single-byte range; CJK glyphs come from the BDFs
 				copyFonts('cp1252', pTemp, versionNum, pNameCondensed)
+				copyFonts('cp1252/' + fam, pTemp, versionNum, pNameCondensed)
 				if 'mm' + versionNum in settings.native_dbcs_games:
 					copyDbcsFonts(p.name, pTemp)
-			if encoding == 'cp1252' or encoding in dbcsEncs:
-				if versionNum == '6' or versionNum == '7':
-					versionNumFont = '67'
-				else: # versionNum == '8' or versionNum == 'merge'
-					versionNumFont = '8'
-				copyFonts('cp1252/' + versionNumFont, pTemp, versionNum, pNameCondensed)
 
 	print('Main process is done.')
 

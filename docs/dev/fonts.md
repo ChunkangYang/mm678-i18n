@@ -132,6 +132,39 @@ BDF only carries glyphs the game can request), fixes the canvas to
 (e.g. U+3000) as 1×1 empty bitmaps so the advance is preserved. The
 generated 16px/28px BDFs are committed in `assets/font/`.
 
+## Per-game font audit (2026-08, EN 2.5.7 baseline)
+
+All 14 `.fnt` files are **byte-identical across MM6/7/8** (each game's
+`icons.lod`; GrayFace 2.5.7 unified the once-different MM8 `LEGAL.FNT` —
+the old 26248-byte MM8 variant still appears in pre-patch localized
+releases). File presence ≠ engine use:
+
+- engine font **slots** (persistent pointers, see `00 structs.lua`):
+  Arrus, Autonote, Book, Book2, Comic, Create, Lucida, Smallnum, Spell in
+  all three games; **Cchar only in MM6/MM7** (nil for MM8 — the file in
+  MM8's archives is a dead leftover, and postprod excludes `cchar.fnt`
+  from mm8/mmmerge packages);
+- loaded ad hoc on specific screens: Endgame and Quick are referenced by
+  all three exes; **Legal and Calig appear in no exe's strings** (loaded
+  via some other path) — their per-game usage is unproven either way.
+  The localized calig variants ship only in the 8 family purely by
+  **provenance**: the mm8-era localizations (Polish, Buka) made their
+  own calig, while every mm6/7 localization kept the English file — not
+  overriding it there reproduces exactly what the official releases did;
+- **the English calig.fnt is NOT the standard .fnt layout** (the
+  localized mm8 ones are) — do not run glyph tooling on the English one
+  (it was once corrupted that way); ship files verbatim.
+
+`assets/font` layout: flat files under `<enc>/` apply to every game; the
+optional `<enc>/67` and `<enc>/8` subdirs are per-family overrides copied
+on top (67 = MM6/MM7, 8 = MM8/Merge). Currently: `cp1252/` fully flat;
+`cp1250/` flat Polish set + an `8/` layer (its own `spell.fnt` and
+`calig.fnt`); `cp1251/{67,8}` fully split (the mm6/7 and mm8 Russian
+localizations redrew every font differently). A font absent from a set is
+deliberately not overridden — the game keeps its stock English file, same
+as the official localized releases did. postprod drops per-game dead
+files via `fontExcludes()` (cchar for mm8/merge).
+
 ## Engine font facts (identical files across MM6/7/8)
 
 | font | height | style | typical use |
