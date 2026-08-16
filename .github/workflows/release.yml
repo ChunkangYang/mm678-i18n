@@ -14,19 +14,16 @@ jobs:
           python-version: '3.12'
       - name: Install dependencies
         run: pip install -e .
-      - name: Install NSIS
-        run: choco install nsis -y --no-progress
       - name: Checks
         run: python -m mm678i18n check po encoding
       - name: Build everything
         run: python -m mm678i18n build
         # note: assets/sound and assets/video are not in git, so CI-built
-        # installers lack the voice-over archives (see docs/dev/release.md)
-      - name: Attach installers to the GitHub Release
+        # archives lack the voice-over content (see docs/dev/release.md)
+      - name: Attach release zips to the GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            build/setup/out/*.7z
-            build/setup/out/*.zip
+            build/release/out/*.zip
           draft: true
           generate_release_notes: true

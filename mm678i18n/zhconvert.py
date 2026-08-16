@@ -40,8 +40,8 @@ def run(method = 's2twp', convertQuote = True, sourceLang = 'zh_CN', targetLang 
 	cc = OpenCC(method)
 
 	i18nPath = Path(settings.i18n_folder)
-	sourcePo = i18nPath.joinpath(sourceLang).joinpath('LC_MESSAGES').joinpath(settings.textdomain + '.po')
-	targetPo = i18nPath.joinpath(targetLang).joinpath('LC_MESSAGES').joinpath(settings.textdomain + '.po')
+	sourcePo = i18nPath.joinpath(sourceLang).joinpath(settings.textdomain + '.po')
+	targetPo = i18nPath.joinpath(targetLang).joinpath(settings.textdomain + '.po')
 
 	po = polib.pofile(str(sourcePo))
 	for entry in po:

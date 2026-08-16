@@ -85,7 +85,7 @@ def main():
 		raise SystemExit('usage: python tools/harvest_po.py <lang> <game> <install-root>')
 	lang, game, install = sys.argv[1], sys.argv[2], Path(sys.argv[3])
 	enc = LANGUAGES[lang]['encoding']
-	poPath = REPO / 'translations' / lang / 'LC_MESSAGES' / 'mm678.po'
+	poPath = REPO / 'translations' / lang / 'mm678.po'
 	if not poPath.is_file():
 		raise SystemExit('no po for %s - run: mm678 new-language %s' % (lang, lang))
 

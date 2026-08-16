@@ -20,7 +20,7 @@ font — see `docs/dev/fonts.md`; entries for zh/ja/ko already exist).
 mm678 new-language fr
 ```
 
-This writes `translations/fr/LC_MESSAGES/mm678.po` with every translatable
+This writes `translations/fr/mm678.po` with every translatable
 string and empty translations (a placeholder — building it produces an
 English-text patch for that language).
 
@@ -44,13 +44,12 @@ automatically via OpenCC.
 ## 4. Build
 
 ```
-mm678 build --no-installers
+mm678 build --no-release
 ```
 
 `build/postprod/fr/` now holds the installable file trees. To also produce
-installers, add the language's targets to `installers` in
-`config/versions.py` (plus an `installer/nsi/fr/<target>/mm_i18n.nsi`,
-copied and adapted from an existing one) and run `mm678 installers`.
+release zips, add the language's targets to `releases` in
+`config/versions.py` and run `mm678 release`.
 
 ## Notes
 

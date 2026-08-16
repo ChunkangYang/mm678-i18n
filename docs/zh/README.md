@@ -160,11 +160,11 @@ Ctrl+F1打开控制台
 
 繁体由简体使用[OpenCC](https://github.com/BYVoid/OpenCC)转化，游戏专有名词目前均为简体版本的称呼，除了Free Haven（整合版简体依然使用玩家已习惯的简体原版六代“自由天堂”的译名）和两个大陆的名字换成了繁体版本惯用名称。
 
-想查看、参与翻译，请[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/translations/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑。
+想查看、参与翻译，请[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/translations/zh_CN/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑。
 
 ## 技术
 
-代码请见[魔法门678语言包（mm678-i18n）的GitHub repo](https://github.com/might-and-magic/mm678-i18n)。用我的一个[Python脚本CSV2PO](https://github.com/tomchen/csv2po)从Tab分隔的表格文件提取字符串转为gettext的.po（在[translations文件夹](https://github.com/might-and-magic/mm678-i18n/tree/master/translations)中，[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/translations/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑）和相关文件，整理后转换回表格文件。详细Python代码见[主目录](https://github.com/might-and-magic/mm678-i18n/)和[mm678i18n目录](https://github.com/might-and-magic/mm678-i18n/tree/master/mm678i18n)下的.py文件。使GrayFace补丁的魔法门支持双字节字符的脚本为[FNT_DBCS.lua](https://github.com/might-and-magic/mm678-i18n/blob/master/assets/scripts_datatables/_common/_all/Scripts/General/FNT_DBCS.lua)。为了支持双字节字符，现将文本特殊处理，Python脚本[mm678i18n/dbcs_special.py](https://github.com/might-and-magic/mm678-i18n/blob/master/mm678i18n/dbcs_special.py)可用来将普通文本和特殊文本文件互相转换。关于如何将普通点阵字体转化为魔法门6、7、8和英雄无敌3的.fnt字体文件，请见[FNT Generator项目](https://github.com/might-and-magic/fnt-generator)。
+代码请见[魔法门678语言包（mm678-i18n）的GitHub repo](https://github.com/might-and-magic/mm678-i18n)。用我的一个[Python脚本CSV2PO](https://github.com/tomchen/csv2po)从Tab分隔的表格文件提取字符串转为gettext的.po（在[translations文件夹](https://github.com/might-and-magic/mm678-i18n/tree/master/translations)中，[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/translations/zh_CN/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑）和相关文件，整理后转换回表格文件。详细Python代码见[主目录](https://github.com/might-and-magic/mm678-i18n/)和[mm678i18n目录](https://github.com/might-and-magic/mm678-i18n/tree/master/mm678i18n)下的.py文件。使GrayFace补丁的魔法门支持双字节字符的脚本为[FNT_DBCS.lua](https://github.com/might-and-magic/mm678-i18n/blob/master/assets/scripts_datatables/_common/_all/Scripts/General/FNT_DBCS.lua)。为了支持双字节字符，现将文本特殊处理，Python脚本[mm678i18n/dbcs_special.py](https://github.com/might-and-magic/mm678-i18n/blob/master/mm678i18n/dbcs_special.py)可用来将普通文本和特殊文本文件互相转换。关于如何将普通点阵字体转化为魔法门6、7、8和英雄无敌3的.fnt字体文件，请见[FNT Generator项目](https://github.com/might-and-magic/fnt-generator)。
 
 ## 其他常见问题解答
 

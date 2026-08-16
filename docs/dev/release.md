@@ -5,8 +5,8 @@
 All versions live in `config/`:
 
 - `config/versions.py` — GrayFace patch versions, MM Merge version
-  (date form), and `i18n_release` (`date` + `dot`), which is stamped into the
-  installers via `makensis /DVERSION /DVERSIONDOT`.
+  (date form), and `i18n_release` (`date`, which goes into the release
+  archive names).
 - `config/languages.py` — per-language `i18n_version`.
 
 ## When MM Merge updates
@@ -20,18 +20,17 @@ All versions live in `config/`:
    (*Update from source code*), translate new strings.
 4. Update `i18n_release` in `config/versions.py`, write `CHANGELOG.md`, and
    update the player-facing changelog in `docs/zh/README.md`.
-5. `mm678 check && mm678 build`.
-6. If the installers' compose step prints a *FILE COPYING block differs*
-   warning, review it and update the block in the affected
-   `installer/nsi/<lang>/<target>/mm_i18n.nsi`.
+5. `mm678 check && mm678 build` — produces the extract-over release `.zip`
+   archives in `build/release/out/` (matrix: `releases` in
+   `config/versions.py`).
 
 ## Publishing
 
 1. Commit, tag `v<date or version>`, push with tags.
-2. The GitHub Actions release workflow builds the installers on a Windows
-   runner and attaches the `.7z` files to the GitHub Release. (Note:
-   `assets/sound/` and `assets/video/` are not in git, so CI-built installers
-   lack the voice-over archives — for zh releases, build locally with
-   `mm678 build` and upload, or attach the sound archives separately.)
+2. The GitHub Actions release workflow builds the release zips on a Windows
+   runner and attaches them to the GitHub Release. (Note: `assets/sound/`
+   and `assets/video/` are not in git, so CI-built archives lack the
+   voice-over content — for zh releases, build locally with `mm678 build`
+   and upload, or attach the sound archives separately.)
 3. Update the download links / Baidu netdisk mirror referenced in
    `docs/zh/README.md` if needed.

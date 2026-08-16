@@ -1,7 +1,7 @@
 # Architecture
 
 The project turns the games' original text files plus gettext translations
-into per-language patch installers.
+into per-language patch packages.
 
 ## Repository layout
 
@@ -9,9 +9,8 @@ into per-language patch installers.
 |---|---|---|
 | `source/` | ✔ | Original game text files per language (`en/` is the reference; other folders hold pre-existing translated game files used only to seed a language) |
 | `templates/` | ✔ | Game text files with every translatable cell replaced by `_(TRANS)_` |
-| `translations/` | ✔ | gettext files: `mm678.pot` + `<lang>/LC_MESSAGES/mm678.po` (compiled `.mo` live next to them, git-ignored) |
+| `translations/` | ✔ | gettext files: `mm678.pot` + `<lang>/mm678.po` (compiled `.mo` live next to them, git-ignored) |
 | `assets/` | ✔ | Non-text assets: `font/`, `img/`, `icon/`, `scripts_datatables/`, `MM8Setup/`, `sound/`+`video/` (large, git-ignored) |
-| `installer/` | ✔ | NSIS scripts (`nsi/<lang>/<target>/mm_i18n.nsi`) and per-installer additional files |
 | `config/` | ✔ | All project configuration (see below) |
 | `mm678i18n/` | ✔ | The Python build package (`mm678` CLI) |
 | `references/` | ✔ | Translation reference material |
@@ -23,8 +22,8 @@ into per-language patch installers.
 - `config/languages.py` — per-language metadata: game encoding, source
   encoding, version, DBCS font sizes. **Everything language-specific derives
   from this file.**
-- `config/versions.py` — GrayFace/Merge versions, installer release version,
-  and the installer matrix (which lang × game targets get built).
+- `config/versions.py` — GrayFace/Merge versions, the release version,
+  and the release matrix (which lang × game targets get built).
 - `config/settings.py` — text-pipeline settings (folders, template markers,
   quoting rules).
 
@@ -37,19 +36,19 @@ into per-language patch installers.
 │ source/en  │           │ templates_ctx/  │       │ (.py files)│    scans this
 └────────────┘           └─────────────────┘       └─────┬──────┘
                                                          │
-        translations/<lang>/LC_MESSAGES/mm678.po  ◄──────┘ (translators edit .po)
+        translations/<lang>/mm678.po  ◄──────┘ (translators edit .po)
                           │ mo
                           ▼
-        translations/<lang>/LC_MESSAGES/mm678.mo
+        translations/<lang>/mm678.mo
                           │ prod
                           ▼
               build/prod/<lang>/<game>/...        (translated game text)
                           │ postprod   + assets/ (fonts, scripts, img, sound)
                           ▼
               build/postprod/<lang>/<game>/...    (installable file tree,
-                          │ installers             DBCS-encoded, .lod packed)
+                          │ release                DBCS-encoded, .lod packed)
                           ▼
-              build/setup/out/MM*.exe / .7z       (NSIS installers)
+              build/release/out/MM*.zip             (release archives)
 ```
 
 - **templates** (`mm678 templates`): adds translation-context markers
@@ -64,12 +63,12 @@ into per-language patch installers.
 - **postprod** (`mm678 postprod`): DBCS special encoding for CJK, font files,
   shared+per-language Lua scripts/data tables, images, sounds, MM8Setup, and
   packs `10 Loc*` folders into `.lod`/`.snd` archives with mmarch.
-- **installers** (`mm678 installers`): composes each installer working dir,
-  packs a portable extract-over-the-game-dir `.zip`, compiles the NSIS
-  installers and 7-zips them. The `.zip` cannot delete files obsoleted by
-  old patch versions — the installer's Delete list handles that.
+- **release** (`mm678 release`): composes each release working dir,
+  packs an extract-over-the-game-dir `.zip`. The `.zip` cannot delete
+  files obsoleted by very old patch versions; leftovers are harmless
+  (name-sort losers) — see the cleanup note in `docs/dev/TODO.md`.
 
-`mm678 build` = mo + prod + postprod + installers.
+`mm678 build` = mo + prod + postprod + release.
 
 ## Single-source-of-truth rules
 
@@ -85,10 +84,7 @@ into per-language patch installers.
     Renderer + font configuration reference: `docs/dev/fonts.md`.
   - `assets/img/prod/<lang>/mmmerge_and_mm8/` → shipped to both mmmerge and
     mm8.
-  - `installer/additional_files/zh/mm8/zh_update/` holds only the files that
-    are NOT in `zh/`; the `mm8_zh_update` installer is composed as
-    `zh` + `zh_update` (see `installers` in `config/versions.py`).
-
+  
 ## Language derivation
 
 - Which languages get `.po` generation: folders in `source/`.

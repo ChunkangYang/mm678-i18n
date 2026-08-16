@@ -361,7 +361,7 @@ def wrapRefs(refs):
 def generatePoFile(potDict, isPot = True, lang = settings.first_language):
 	p = Path(settings.i18n_folder)
 	if not isPot:
-		p = p.joinpath(lang).joinpath('LC_MESSAGES')
+		p = p.joinpath(lang)
 	p = p.joinpath(settings.textdomain + ('.pot' if isPot else '.po'))
 	p.parent.mkdir(parents = True, exist_ok = True)
 
@@ -434,7 +434,7 @@ def deriveLanguages():
 def po2Mo():
 	deriveLanguages()
 	for currentLang in discoveredLangs():
-		p = Path(settings.i18n_folder).joinpath(currentLang).joinpath('LC_MESSAGES').joinpath(settings.textdomain + '.po')
+		p = Path(settings.i18n_folder).joinpath(currentLang).joinpath(settings.textdomain + '.po')
 		if not p.is_file():
 			log('No .po file for language ' + currentLang + ' (' + str(p) + '), skipped.')
 			continue
@@ -512,7 +512,7 @@ def updatePo():
 	for currentLang in discoveredLangs():
 		if currentLang in DERIVED_LANGUAGES:
 			continue
-		poPath = Path(settings.i18n_folder).joinpath(currentLang, 'LC_MESSAGES', settings.textdomain + '.po')
+		poPath = Path(settings.i18n_folder).joinpath(currentLang, settings.textdomain + '.po')
 		if not poPath.is_file():
 			continue
 		if msgmerge:
@@ -573,8 +573,15 @@ codecs.register_error('mm678translit', _translitError)
 
 
 def generateProdForLang(lang, devTextDict):
-	localedir = Path.cwd().joinpath(settings.i18n_folder)
-	trans = gettext.translation(settings.textdomain, localedir, languages = [lang], fallback = True)
+	# load the .mo directly from translations/<lang>/ (we do not use the
+	# GNU <lang>/LC_MESSAGES/<domain>.mo convention gettext.translation()
+	# would insist on)
+	moPath = Path.cwd().joinpath(settings.i18n_folder, lang, settings.textdomain + '.mo')
+	if moPath.is_file():
+		with moPath.open('rb') as f:
+			trans = gettext.GNUTranslations(f)
+	else:
+		trans = gettext.NullTranslations()
 
 	def _(message):
 		ret = trans.gettext(message)
@@ -651,7 +658,7 @@ def newLanguage(lang):
 	canonicalizeMsgids(globalLineDict)
 	potDict = globalLineDict2PotDict(globalLineDict)
 	generatePoFile(potDict, False, lang)
-	log('Created ' + settings.i18n_folder + '/' + lang + '/LC_MESSAGES/' + settings.textdomain + '.po', 'n')
+	log('Created ' + settings.i18n_folder + '/' + lang + '/' + settings.textdomain + '.po', 'n')
 
 
 # ========== Procedural END ==========

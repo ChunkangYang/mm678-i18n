@@ -16,7 +16,7 @@ import polib
 
 REPO = Path(__file__).resolve().parent.parent
 PO = Path(sys.argv[1]) if len(sys.argv) > 1 else \
-	REPO / 'translations' / 'zh_CN' / 'LC_MESSAGES' / 'mm678.po'
+	REPO / 'translations' / 'zh_CN' / 'mm678.po'
 
 
 # when an untranslated entry's context is the key, translations from the

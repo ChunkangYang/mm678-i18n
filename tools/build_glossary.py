@@ -59,7 +59,7 @@ def buildIndexes(po):
 
 
 def buildFor(lang, report):
-	poPath = REPO / 'translations' / lang / 'LC_MESSAGES' / 'mm678.po'
+	poPath = REPO / 'translations' / lang / 'mm678.po'
 	po = polib.pofile(str(poPath))
 	if not any(e.msgstr for e in po if not e.obsolete):
 		print('%s: po has no translations, skipped' % lang)

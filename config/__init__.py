@@ -2,5 +2,5 @@
 #
 # languages.py — per-language metadata (encodings, versions, font sizes):
 #                the single source of truth for anything language-specific
-# versions.py  — game/patch versions and the installer target matrix
+# versions.py  — game/patch versions and the release matrix
 # settings.py  — text-pipeline settings consumed by mm678i18n.pipeline

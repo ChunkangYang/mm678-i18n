@@ -18,7 +18,7 @@ from config.languages import LANGUAGES, langEncDict, dbcsLangs
 def checkPoFiles():
 	problems = 0
 	i18nPath = Path(settings.i18n_folder)
-	for p in sorted(i18nPath.glob('*/LC_MESSAGES/' + settings.textdomain + '.po')):
+	for p in sorted(i18nPath.glob('*/' + settings.textdomain + '.po')):
 		try:
 			po = polib.pofile(str(p))
 			print('OK   ' + str(p) + '  (' + str(len(po)) + ' entries, ' +

@@ -16,13 +16,12 @@ source_folder   = 'source'                          # original game text per lan
 template_without_context_folder = 'templates'       # templates without context markers (tracked)
 i18n_folder     = 'translations'                    # gettext .pot/.po (tracked; .mo generated)
 non_text_folder = 'assets'                          # fonts, images, scripts, sounds (tracked)
-installer_folder = 'installer'                      # NSIS scripts + additional files (tracked)
 
 template_folder = 'build/templates_ctx'             # templates with context markers
 dev_folder      = 'build/dev'                       # .py files with gettext calls (Poedit scans these)
 prod_folder     = 'build/prod'                      # translated game text
 postprod_folder = 'build/postprod'                  # installable file trees
-setup_build_folder = 'build/setup'                  # installer working dirs + final .exe/.7z in out/
+release_build_folder = 'build/release'              # release working dirs + final .zip in out/
 
 # external tool: mmarch (MM archive packer, github.com/might-and-magic/mmarch)
 # installed via npm (`npm i -g mmarch`) and resolved from PATH

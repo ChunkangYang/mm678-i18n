@@ -24,7 +24,7 @@ Everything is built with one command:
 
 ```
 pip install -e .
-mm678 build        # .po -> .mo -> game text -> postprod -> installers
+mm678 build        # .po -> .mo -> game text -> postprod -> release zips
 ```
 
 - [Repository guide (AGENTS.md)](AGENTS.md) — one-page orientation: commands, architecture, invariants (auto-loaded by AI coding agents)
