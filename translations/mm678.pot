@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Might and Magic 6 7 8 Translation\n"
-"POT-Creation-Date: 2026-08-16 17:10+0200\n"
-"PO-Revision-Date: 2026-08-16 17:10+0200\n"
+"POT-Creation-Date: 2026-08-16 17:43+0200\n"
+"PO-Revision-Date: 2026-08-16 17:43+0200\n"
 "Last-Translator: Tom Chen <tomchen.org@gmail.com>\n"
 "Language-Team: Might and Magic Unofficial Translation Team\n"
 "Language: en\n"
@@ -48172,32 +48172,32 @@ msgstr ""
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:65
 msgctxt "scroll"
-msgid "Essence of Luck increases a character’s Might by 15, while subtracting 5 from his Intellect. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
+msgid "Essence of Might increases a character’s Might by 15, while subtracting 5 from his Intellect. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
 msgstr ""
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:66
 msgctxt "scroll"
-msgid "Essence of Luck increases a character’s Intellect by 15, while subtracting 5 from his Might. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
+msgid "Essence of Intellect increases a character’s Intellect by 15, while subtracting 5 from his Might. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
 msgstr ""
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:67
 msgctxt "scroll"
-msgid "Essence of Luck increases a character’s Personality by 15, while subtracting 5 from his Speed. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
+msgid "Essence of Personality increases a character’s Personality by 15, while subtracting 5 from his Speed. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
 msgstr ""
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:68
 msgctxt "scroll"
-msgid "Essence of Luck increases a character’s Accuracy by 15, while subtracting 5 from his Endurance. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
+msgid "Essence of Accuracy increases a character’s Accuracy by 15, while subtracting 5 from his Endurance. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
 msgstr ""
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:69
 msgctxt "scroll"
-msgid "Essence of Luck increases a character’s Endurance by 15, while subtracting 5 from his Accuracy. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
+msgid "Essence of Endurance increases a character’s Endurance by 15, while subtracting 5 from his Accuracy. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
 msgstr ""
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:70
 msgctxt "scroll"
-msgid "Essence of Luck increases a character’s Speed by 15, while subtracting 5 from his Personality. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
+msgid "Essence of Speed increases a character’s Speed by 15, while subtracting 5 from his Personality. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors."
 msgstr ""
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:71

@@ -287,12 +287,19 @@ def processScriptsDatatables(postprodPath):
 		if commonPath.joinpath('_all').exists():
 			commonGames = sorted(set(commonGames) | set(settings.script_games))
 
-	for pntLang in getFilePaths(sdtPath, '', False):
-		if pntLang.name == '_common':
-			continue
-		gameNames = sorted(set(p.name for p in getFilePaths(pntLang, '', False)) | set(commonGames))
-		for gameName in gameNames:
-			dest = postprodPath.joinpath(pntLang.name).joinpath(gameName)
+	# the _common trees apply to EVERY language being built, so take the
+	# language list from what the text phase already produced under
+	# postprod, plus any per-language dirs here (a scripts_datatables with
+	# only _common/ must still distribute to all built languages)
+	langNames = set(p.name for p in getFilePaths(sdtPath, '', False) if p.name != '_common')
+	langNames |= set(p.name for p in getFilePaths(postprodPath, '', False))
+	for langName in sorted(langNames):
+		pntLang = sdtPath.joinpath(langName)
+		gameNames = set(commonGames)
+		if pntLang.exists():
+			gameNames |= set(p.name for p in getFilePaths(pntLang, '', False))
+		for gameName in sorted(gameNames):
+			dest = postprodPath.joinpath(langName).joinpath(gameName)
 			if commonPath.joinpath('_all').exists():
 				copy_tree(commonPath.joinpath('_all'), dest)
 			if commonPath.joinpath(gameName).exists():

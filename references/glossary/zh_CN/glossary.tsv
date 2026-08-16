@@ -190,7 +190,6 @@ items	Aegis	伊杰斯
 items	Air Resistance	御风药剂
 items	Air Resistance Recipe	御风药剂配方
 items	Alacorn Wand of Acid	酸雨权杖
-items	Alacorn Wand of Berzerking	狂战士独角兽魔杖
 items	Alacorn Wand of Blades	飞镖权杖
 items	Alacorn Wand of Charms	迷惑权杖
 items	Alacorn Wand of Fireballs	火球权杖
@@ -366,7 +365,7 @@ items	Cure Poison	解毒药剂
 items	Cure Weakness	治愈虚弱药剂
 items	Cure Wounds	疗伤药剂
 items	Cutlass	短刀
-items	Cycle of life	生命之环
+items	Cycle of Life	生命之环
 items	Dadeross' Letter to Fellmoon	达德罗斯给费尔蒙的信
 items	Dagger	匕首
 items	Dagger Wound Oddities	匕伤岛奇人异事
@@ -765,7 +764,7 @@ items	Map	地图
 items	Map to Evenmorn Island	埃弗蒙岛的地图
 items	Mash	麦斯
 items	Massive Halberd	宽戟
-items	Massive hammer	大锤
+items	Massive Hammer	大锤
 items	Master Cutlass	大师短刀
 items	Master's Dagger	大副匕首
 items	Medusa's Mirror	美杜莎之镜
@@ -1185,7 +1184,6 @@ items	Wand of Cold	冷冻杖
 items	Wand of Fire	烈火之杖
 items	Wand of Flame	火焰杖
 items	Wand of Harm	攻击之杖
-items	Wand of Harming	伤害魔杖
 items	Wand of Poison	毒药之杖
 items	Wand of Sparks	火光之杖
 items	Wand of Static	电击杖
