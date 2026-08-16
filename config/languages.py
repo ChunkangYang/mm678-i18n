@@ -1,23 +1,21 @@
 # Per-language metadata — the single source of truth.
-#
-# Fields per language:
-#   encoding         encoding of the produced game files (and of the NSIS/ini
-#                    metadata written for that language)
-#   source_encoding  encoding of the files in the source folder for that
-#                    language; omit for UTF-8 (e.g. fr sources were converted
-#                    to UTF-8, unlike en/zh which are kept in game encoding)
-#   i18n_version     date (YYYY-MM-DD) this language's patch content was last updated
-#   dbcs_fonts       for DBCS languages: the BDF font per engine font name
-#                    (shipped into Data\DBCSFonts\ and filled into the built
-#                    LocalizeConf.ini's [dbcsFont] section)
+# The data half lives in languages.toml; this module loads it and derives
+# the lookup tables. Import the tables below instead of parsing the TOML.
+
+import tomllib
+from pathlib import Path
+
+with open(Path(__file__).with_name('languages.toml'), 'rb') as _f:
+	_data = tomllib.load(_f)
 
 
-# Assignment rule (per host font height, measured heights in docs/dev/fonts.md):
-# >= 25 (Book, Cchar, Book2) -> the 24px font; >= 16 (Lucida..Comic,
-# Autonote, Spell) -> the 14px font; below (Smallnum) and Default -> the 12px
-# font. The renderer auto-crops each BDF's blank canvas rows and anchors the
-# glyph one pixel below the host font's baseline; a trailing ",N" flag would
-# add N px of line spacing for that font only (none needed by default).
+# Engine-font assignment rule (per host font height, measured heights in
+# docs/dev/fonts.md): >= 25 (Book, Cchar, Book2) -> the 24px font; >= 16
+# (Lucida..Comic, Autonote, Spell) -> the 14px font; below (Smallnum) and
+# Default -> the 12px font. The renderer auto-crops each BDF's blank canvas
+# rows and anchors the glyph one pixel below the host font's baseline; a
+# trailing ",N" flag would add N px of line spacing for that font only
+# (none needed by default).
 def _dbcs_fonts(f12, f14, f24):
 	fonts = {name: f14 for name in
 	         ['Lucida', 'Arrus', 'Create', 'Comic', 'Autonote', 'Spell']}
@@ -27,57 +25,37 @@ def _dbcs_fonts(f12, f14, f24):
 	return fonts
 
 
-LANGUAGES = {
-	'en':    {'encoding': 'cp1252', 'source_encoding': 'cp1252', 'i18n_version': '2026-08-16'},
-	'fr':    {'encoding': 'cp1252',                              'i18n_version': '2026-08-16'},
-	'de':    {'encoding': 'cp1252',                              'i18n_version': '2026-08-16'},
-	'es':    {'encoding': 'cp1252',                              'i18n_version': '2026-08-16'},
-	'it':    {'encoding': 'cp1252',                              'i18n_version': '2026-08-16'},
-	'ru':    {'encoding': 'cp1251',                              'i18n_version': '2026-08-16'},
-	'cs':    {'encoding': 'cp1250',                              'i18n_version': '2026-08-16'},
-	'pl':    {'encoding': 'cp1250',                              'i18n_version': '2026-08-16'},
-	'ko':    {'encoding': 'euc_kr',                              'i18n_version': '2026-08-16',
-	          'dbcs_fonts': _dbcs_fonts('fusion-pixel-12px-ko.bdf',
-	                                    'Galmuri14.bdf',
-	                                    'LXGWWenKaiKR-Medium-24px.bdf')},
-	'ja':    {'encoding': 'shift_jis',                           'i18n_version': '2026-08-16',
-	          'dbcs_fonts': _dbcs_fonts('fusion-pixel-12px-ja.bdf',
-	                                    'Shinonome-14px.bdf',
-	                                    'KleeOne-SemiBold-24px.bdf')},
-	'zh_CN': {'encoding': 'gb2312', 'source_encoding': 'gb2312', 'i18n_version': '2026-08-16',
-	          'dbcs_fonts': _dbcs_fonts('fusion-pixel-12px-zh_hans.bdf',
-	                                    'wenquanyi_14px.bdf',
-	                                    'LXGWWenKaiGB-Medium-24px.bdf')},
-	'zh_TW': {'encoding': 'big5',   'source_encoding': 'big5',   'i18n_version': '2026-08-16',
-	          'dbcs_fonts': _dbcs_fonts('fusion-pixel-12px-zh_hant.bdf',
-	                                    'wenquanyi_14px.bdf',
-	                                    'LXGWWenKaiTC-Medium-24px.bdf')},
+# per-language metadata dict; the TOML's f12/f14/f24 triple is expanded
+# into the per-engine-font map here
+LANGUAGES = {}
+for _lang, _meta in _data['languages'].items():
+	_meta = dict(_meta)
+	if 'dbcs_fonts' in _meta:
+		_bdf = _meta['dbcs_fonts']
+		_meta['dbcs_fonts'] = _dbcs_fonts(_bdf['f12'], _bdf['f14'], _bdf['f24'])
+	LANGUAGES[_lang] = _meta
+
+DBCS_ENCODINGS = _data['dbcs_encodings']
+
+# target -> (source language, OpenCC method); see languages.toml
+DERIVED_LANGUAGES = {
+	lang: (spec['source'], spec['opencc_method'])
+	for lang, spec in _data.get('derived_languages', {}).items()
 }
-
-# Encodings that are double-byte character sets (rendered by the native
-# FNT_DBCS.lua runtime). Japanese uses shift_jis (the game-world standard;
-# note: half-width katakana is not supported - use full-width kana).
-DBCS_ENCODINGS = ['gb2312', 'big5', 'euc_kr', 'shift_jis']
-
-# Languages with no tracked .po of their own: their .po is regenerated at
-# build time from another language's .po (target -> (source, OpenCC method)).
-# zh_TW is always derived from zh_CN, so only zh_CN gets translated by hand.
-DERIVED_LANGUAGES = {'zh_TW': ('zh_CN', 's2twp')}
 
 
 # ---- derived tables (import these instead of rebuilding them) ----
 
-# game-file encoding per language (formerly tools/versions.py langEncDict)
+# game-file encoding per language
 langEncDict = {lang: meta['encoding'] for lang, meta in LANGUAGES.items()}
 
-# DBCS language list (formerly tools/versions.py dbcsLangs)
+# DBCS language list
 dbcsLangs = [lang for lang, meta in LANGUAGES.items() if meta['encoding'] in DBCS_ENCODINGS]
 
 # alias kept for readability at call sites
 dbcsEncs = DBCS_ENCODINGS
 
 # source-folder encoding per language where it is not UTF-8
-# (formerly settings.py source_encoding)
 source_encoding = {
 	lang: meta['source_encoding']
 	for lang, meta in LANGUAGES.items() if 'source_encoding' in meta

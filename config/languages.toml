@@ -1,0 +1,96 @@
+# Per-language metadata — the single source of truth (data half).
+# Derivations (font-name mapping, lookup tables) live in config/languages.py.
+#
+# Fields per language:
+#   encoding         encoding of the produced game files (and of the ini
+#                    metadata written for that language)
+#   source_encoding  encoding of the files in the source folder for that
+#                    language; omit for UTF-8 (e.g. fr sources were converted
+#                    to UTF-8, unlike en/zh which are kept in game encoding)
+#   i18n_version     date (YYYY-MM-DD) this language's patch content was last updated
+#   dbcs_fonts       for DBCS languages: the three BDF files (12/14/24 px)
+#                    shipped into Data\DBCSFonts\; config/languages.py expands
+#                    them into the per-engine-font map for LocalizeConf.ini
+
+# Encodings that are double-byte character sets (rendered by the native
+# FNT_DBCS.lua runtime). Japanese uses shift_jis (the game-world standard;
+# note: half-width katakana is not supported - use full-width kana).
+dbcs_encodings = ["gb2312", "big5", "euc_kr", "shift_jis"]
+
+[languages.en]
+encoding = "cp1252"
+source_encoding = "cp1252"
+i18n_version = "2026-08-16"
+
+[languages.fr]
+encoding = "cp1252"
+i18n_version = "2026-08-16"
+
+[languages.de]
+encoding = "cp1252"
+i18n_version = "2026-08-16"
+
+[languages.es]
+encoding = "cp1252"
+i18n_version = "2026-08-16"
+
+[languages.it]
+encoding = "cp1252"
+i18n_version = "2026-08-16"
+
+[languages.ru]
+encoding = "cp1251"
+i18n_version = "2026-08-16"
+
+[languages.cs]
+encoding = "cp1250"
+i18n_version = "2026-08-16"
+
+[languages.pl]
+encoding = "cp1250"
+i18n_version = "2026-08-16"
+
+[languages.ko]
+encoding = "euc_kr"
+i18n_version = "2026-08-16"
+
+[languages.ko.dbcs_fonts]
+f12 = "fusion-pixel-12px-ko.bdf"
+f14 = "Galmuri14.bdf"
+f24 = "LXGWWenKaiKR-Medium-24px.bdf"
+
+[languages.ja]
+encoding = "shift_jis"
+i18n_version = "2026-08-16"
+
+[languages.ja.dbcs_fonts]
+f12 = "fusion-pixel-12px-ja.bdf"
+f14 = "Shinonome-14px.bdf"
+f24 = "KleeOne-SemiBold-24px.bdf"
+
+[languages.zh_CN]
+encoding = "gb2312"
+source_encoding = "gb2312"
+i18n_version = "2026-08-16"
+
+[languages.zh_CN.dbcs_fonts]
+f12 = "fusion-pixel-12px-zh_hans.bdf"
+f14 = "wenquanyi_14px.bdf"
+f24 = "LXGWWenKaiGB-Medium-24px.bdf"
+
+[languages.zh_TW]
+encoding = "big5"
+source_encoding = "big5"
+i18n_version = "2026-08-16"
+
+[languages.zh_TW.dbcs_fonts]
+f12 = "fusion-pixel-12px-zh_hant.bdf"
+f14 = "wenquanyi_14px.bdf"
+f24 = "LXGWWenKaiTC-Medium-24px.bdf"
+
+# Languages with no tracked .po of their own: their .po is regenerated at
+# build time from another language's .po. zh_TW is always derived from
+# zh_CN, so only zh_CN gets translated by hand.
+[derived_languages.zh_TW]
+source = "zh_CN"
+opencc_method = "s2twp"

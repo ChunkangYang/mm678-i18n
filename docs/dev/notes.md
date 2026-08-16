@@ -24,7 +24,7 @@ Consequences:
 - The pipeline itself is EOL-exact: files are read/written with explicit
   newline handling, and an in-cell LF is represented inside `.po` files as
   the two characters `
-` (`lf_in_crlf_mode` in `config/settings.py`),
+` (`lf_in_crlf_mode` in `config/settings.toml`),
   converted back to a real LF when the prod files are generated.
 - `mm678 check lf` lists all in-cell LF locations in the source tables
   (informational — they are legitimate).
@@ -38,7 +38,7 @@ Consequences:
 - `.str` lines must stay under 784 bytes in the game encoding
   (`mm678 check linelength` enforces this).
 - Do not put raw line breaks in a `msgstr`; embedded soft line breaks are
-  written as `\n` (see `lf_in_crlf_mode` in `config/settings.py`).
+  written as `\n` (see `lf_in_crlf_mode` in `config/settings.toml`).
 
 ## Percent-sign placeholders
 

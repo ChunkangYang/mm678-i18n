@@ -33,29 +33,49 @@ def cmd_update_po(args):
 
 def cmd_mo(args):
 	from . import pipeline
-	pipeline.po2Mo()
+	pipeline.po2Mo(args.langs)
 
 def cmd_prod(args):
 	from . import pipeline
-	pipeline.generateProd()
+	pipeline.generateProd(args.langs)
 
 def cmd_postprod(args):
 	from . import postprod
-	postprod.run()
+	postprod.run(args.langs)
 
 def cmd_release(args):
 	from . import release_builder
-	release_builder.run(args.steps)
+	release_builder.run(args.steps, args.langs)
 
 def cmd_build(args):
 	from . import pipeline, postprod, release_builder
-	pipeline.po2Mo()
-	pipeline.generateProd()
-	postprod.run()
+	pipeline.po2Mo(args.langs)
+	pipeline.generateProd(args.langs)
+	postprod.run(args.langs)
 	if args.no_release:
 		print('Skipped the release zips (--no-release).')
 	else:
-		release_builder.run()
+		release_builder.run(langs = args.langs)
+
+def cmd_apply(args):
+	import shutil
+	from pathlib import Path
+	from config import settings
+	src = Path(settings.postprod_folder).joinpath(args.lang, args.game)
+	dest = Path(args.install_dir)
+	if not src.is_dir():
+		raise SystemExit('no built package at ' + str(src)
+			+ " — run: mm678 build --no-release --langs " + args.lang)
+	if not dest.is_dir():
+		raise SystemExit('install dir not found: ' + str(dest))
+	n = 0
+	for p in src.rglob('*'):
+		if p.is_file():
+			target = dest.joinpath(p.relative_to(src))
+			target.parent.mkdir(parents = True, exist_ok = True)
+			shutil.copy2(p, target)
+			n += 1
+	print('applied %d files: %s -> %s' % (n, src, dest))
 
 def cmd_new_language(args):
 	from . import pipeline
@@ -74,7 +94,7 @@ def cmd_version(args):
 	print('mm678-i18n pipeline ' + __version__)
 	print('GrayFace patch versions: ' + str(versions['grayface']))
 	print('MM Merge version: ' + versions['merge'])
-	print('i18n release: ' + i18n_release['date'] + ' (' + i18n_release['dot'] + ')')
+	print('i18n release: ' + i18n_release['date'])
 
 
 def main():
@@ -89,19 +109,31 @@ def main():
 	sub.add_parser('update-po', help = 'non-destructively update all .po after template/source '
 		'changes (translations kept; new strings added untranslated, removed ones marked obsolete; '
 		'GNU msgmerge on PATH enables fuzzy matching)').set_defaults(func = cmd_update_po)
-	sub.add_parser('mo', help = 'compile .po -> .mo (derived languages regenerated first)').set_defaults(func = cmd_mo)
-	sub.add_parser('prod', help = 'generate translated game text files from .mo').set_defaults(func = cmd_prod)
-	sub.add_parser('postprod', help = 'assemble installable file trees (text + fonts, scripts, images, sounds)').set_defaults(func = cmd_postprod)
+	def addLangs(p):
+		p.add_argument('--langs', nargs = '+', metavar = 'LANG',
+			help = 'limit to these languages (default: all)')
+		return p
 
-	p = sub.add_parser('release', help = 'build the extract-over .zip release archives')
+	addLangs(sub.add_parser('mo', help = 'compile .po -> .mo (derived languages regenerated first)')).set_defaults(func = cmd_mo)
+	addLangs(sub.add_parser('prod', help = 'generate translated game text files from .mo')).set_defaults(func = cmd_prod)
+	addLangs(sub.add_parser('postprod', help = 'assemble installable file trees (text + fonts, scripts, images, sounds)')).set_defaults(func = cmd_postprod)
+
+	p = addLangs(sub.add_parser('release', help = 'build the extract-over .zip release archives'))
 	p.add_argument('--steps', nargs = '+', choices = ['compose', 'zip'],
 		help = 'run only these steps (default: both)')
 	p.set_defaults(func = cmd_release)
 
-	p = sub.add_parser('build', help = 'one-click build: mo + prod + postprod + release zips')
+	p = addLangs(sub.add_parser('build', help = 'one-click build: mo + prod + postprod + release zips'))
 	p.add_argument('--no-release', action = 'store_true',
 		help = 'stop after postprod (skip the release zips)')
 	p.set_defaults(func = cmd_build)
+
+	p = sub.add_parser('apply', help = 'copy a built language package over a game '
+		'installation (build it first: mm678 build --no-release --langs <lang>)')
+	p.add_argument('lang', help = 'language code, e.g. zh_CN')
+	p.add_argument('game', choices = ['mm6', 'mm7', 'mm8', 'mmmerge'])
+	p.add_argument('install_dir', help = 'game installation directory to copy onto')
+	p.set_defaults(func = cmd_apply)
 
 	p = sub.add_parser('new-language', help = 'create an empty .po for a new language '
 		'(translate it in Poedit from there)')

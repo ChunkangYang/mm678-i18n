@@ -14,11 +14,10 @@
 
 ## 🛠 开发者与翻译者
 
-一条命令完成构建：
+一条命令完成构建（在仓库根目录运行；首次需 `pip install polib OpenCC`）：
 
 ```
-pip install -e .
-mm678 build        # .po -> .mo -> 游戏文本 -> postprod -> 安装包
+python -m mm678i18n build   # .po -> .mo -> 游戏文本 -> postprod -> 语言包 zip
 ```
 
 开发文档（英文）：[仓库速览 AGENTS.md](AGENTS.md)（一页看懂命令、架构与约定，AI 编码工具也会自动读取） ·

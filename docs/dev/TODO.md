@@ -37,7 +37,7 @@
 
 - 发布包改纯 zip 后无自动清理:README/包内说明加一行旧布局残留手动删除
   提示(`10 LocZHCN.EnglishD.lod`、`z10 LocZHCN.icons.lod` 等,均为无害死重)
-- `config/versions.py` 的 merge 版本号更新到最新基线
+- `config/versions.toml` 的 merge 版本号更新到最新基线
 - 安装包清理其他语言的残留文件
 - 视频本地化：`assets/video/zh_CN` → `Anims/10 LocZHCN.Magicdod.vid`
 

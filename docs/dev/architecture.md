@@ -19,12 +19,15 @@ into per-language patch packages.
 
 ## Configuration (single source of truth)
 
-- `config/languages.py` — per-language metadata: game encoding, source
-  encoding, version, DBCS font sizes. **Everything language-specific derives
+Each area is a `.toml` (the editable data) plus a same-named `.py` that
+loads it and derives the lookup tables the pipeline imports:
+
+- `config/languages.toml` — per-language metadata: game encoding, source
+  encoding, version, DBCS fonts. **Everything language-specific derives
   from this file.**
-- `config/versions.py` — GrayFace/Merge versions, the release version,
+- `config/versions.toml` — GrayFace/Merge versions, the release version,
   and the release matrix (which lang × game targets get built).
-- `config/settings.py` — text-pipeline settings (folders, template markers,
+- `config/settings.toml` — text-pipeline settings (folders, template markers,
   quoting rules).
 
 ## Pipeline

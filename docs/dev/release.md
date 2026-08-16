@@ -4,25 +4,25 @@
 
 All versions live in `config/`:
 
-- `config/versions.py` — GrayFace patch versions, MM Merge version
-  (date form), and `i18n_release` (`date`, which goes into the release
+- `config/versions.toml` — GrayFace patch versions, MM Merge version
+  (date form), and `release_date` (which goes into the release
   archive names).
-- `config/languages.py` — per-language `i18n_version`.
+- `config/languages.toml` — per-language `i18n_version`.
 
 ## When MM Merge updates
 
-1. Update `versions['merge']` (and GrayFace versions if changed) in
-   `config/versions.py`.
+1. Update `merge_version` (and `grayface_versions` if changed) in
+   `config/versions.toml`.
 2. Update `assets/scripts_datatables/` for ALL languages (diff against the
    new Merge scripts; shared files live in `_common/`).
 3. If translatable text changed: update `source/en` + `templates/`, run
    `mm678 templates && mm678 dev`, update each `.po` in Poedit
    (*Update from source code*), translate new strings.
-4. Update `i18n_release` in `config/versions.py`, write `CHANGELOG.md`, and
+4. Update `release_date` in `config/versions.toml`, write `CHANGELOG.md`, and
    update the player-facing changelog in `docs/zh/README.md`.
 5. `mm678 check && mm678 build` — produces the extract-over release `.zip`
    archives in `build/release/out/` (matrix: `releases` in
-   `config/versions.py`).
+   `config/versions.toml`).
 
 ## Publishing
 

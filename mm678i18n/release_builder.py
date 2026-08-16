@@ -67,6 +67,9 @@ STEPS = {
 }
 
 
-def run(steps = None):
+def run(steps = None, langs = None):
+	global releases
+	if langs:
+		releases = [r for r in releases if r['lang'] in langs]
 	for name in (steps or list(STEPS)):
 		STEPS[name]()

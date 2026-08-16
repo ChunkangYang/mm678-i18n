@@ -171,15 +171,44 @@ def copyDbcsFonts(langName, pTemp):
 		dst.joinpath(name).write_bytes(_strippedBdfCache[key])
 
 
+# optional language filter (set by run(langs=...)): every stage skips
+# languages outside it, and cleanup only touches the filtered languages
+langFilter = None
+
+
+def wantLang(name):
+	return langFilter is None or name in langFilter
+
+
 def processProdText(postprodPath, prodPath):
+	# refuse to run on a missing/empty prod: every later stage would still
+	# "succeed" and produce text-less packages (checked BEFORE the clean so
+	# a bad invocation does not destroy a good postprod tree)
+	if not prodPath.is_dir() or not any(prodPath.iterdir()):
+		raise SystemExit('build/prod is empty — run `mm678 prod` (or `mm678 build`) first')
+	if langFilter:
+		missing = [lang for lang in sorted(langFilter) if not prodPath.joinpath(lang).is_dir()]
+		if missing:
+			raise SystemExit('no build/prod tree for: ' + ', '.join(missing)
+				+ ' — run `mm678 prod --langs ' + ' '.join(missing) + '` first')
+	# clean output first: every stage only ever adds/overwrites, so renamed
+	# or removed outputs (e.g. an archive naming change) would linger
 	if postprodPath.exists():
-		shutil.rmtree(postprodPath)
+		if langFilter is None:
+			shutil.rmtree(postprodPath)
+		else:
+			for lang in langFilter:
+				p = postprodPath.joinpath(lang)
+				if p.exists():
+					shutil.rmtree(p)
 
 	for p in getFilePaths(prodPath, '', True):
 		if p.name == 'nonprod' and p.exists():
 			shutil.rmtree(p)
 
 	for p in getFilePaths(prodPath, '', False):
+		if not wantLang(p.name):
+			continue
 		if p.name in dbcsLangs:
 			# per game: native-renderer games ship plain DBCS text, the rest
 			# keep the legacy marker encoding (see settings.native_dbcs_games)
@@ -196,6 +225,8 @@ def processProdText(postprodPath, prodPath):
 			shutil.copytree(p, postprodPath.joinpath(p.name))
 
 	for p in getFilePaths(postprodPath, '', False):
+		if not wantLang(p.name):
+			continue
 		pNameCondensed = p.name.upper().replace('_', '') # e.g. ZHCN
 
 		pTemp = p.joinpath('mm6/data/10LocLANG.icons')
@@ -299,6 +330,7 @@ def processScriptsDatatables(postprodPath):
 	# only _common/ must still distribute to all built languages)
 	langNames = set(p.name for p in getFilePaths(sdtPath, '', False) if p.name != '_common')
 	langNames |= set(p.name for p in getFilePaths(postprodPath, '', False))
+	langNames = {n for n in langNames if wantLang(n)}
 	for langName in sorted(langNames):
 		pntLang = sdtPath.joinpath(langName)
 		gameNames = set(commonGames)
@@ -320,6 +352,8 @@ def processScriptsDatatables(postprodPath):
 def processImages(postprodPath):
 	for pntLang in getFilePaths(Path(settings.non_text_folder).joinpath('img/prod'), '', False):
 		pntLangName = pntLang.name
+		if not wantLang(pntLangName):
+			continue
 		pntLangNameCondensed = pntLangName.upper().replace('_', '') # e.g. ZHCN
 		for pntVer in getFilePaths(pntLang, '', False):
 			if pntVer.name == 'mmmerge_and_mm8':
@@ -346,6 +380,8 @@ def processImages(postprodPath):
 
 def processMM8Setup(postprodPath):
 	for pntLang in getFilePaths(Path(settings.non_text_folder).joinpath('MM8Setup/prod'), '', False):
+		if not wantLang(pntLang.name):
+			continue
 		for pntVer in getFilePaths(pntLang, '', False):
 			shutil.copy(pntVer.joinpath('MM8Setup.Exe'), postprodPath.joinpath(pntLang.name).joinpath(pntVer.name))
 	print('MM8Setup process is done.')
@@ -354,6 +390,8 @@ def processMM8Setup(postprodPath):
 def processSound(postprodPath):
 	for pntLang in getFilePaths(Path(settings.non_text_folder).joinpath('sound/prod'), '', False):
 		pntLangName = pntLang.name
+		if not wantLang(pntLangName) and not (pntLangName == 'zh_CN' and wantLang('zh_TW')):
+			continue
 		for pntVer in getFilePaths(pntLang, '', False):
 			soundParentFolder = next(pntVer.iterdir())
 			soundFolder = next(soundParentFolder.iterdir())
@@ -372,7 +410,7 @@ def processSound(postprodPath):
 			copy_tree(str(soundFolder), str(pTemp))
 
 			# zh_TW reuses the zh_CN voice-over recordings
-			if pntLangName == 'zh_CN':
+			if pntLangName == 'zh_CN' and wantLang('zh_TW'):
 				pTempZHTW = postprodPath.joinpath('zh_TW').joinpath(pntVer.name).joinpath(soundParentFolder.name).joinpath(archiveDirName('ZHTW'))
 				copy_tree(str(soundFolder), str(pTempZHTW))
 
@@ -382,6 +420,8 @@ def processSound(postprodPath):
 # pack every '10 Loc*' asset folder into its mm archive (.lod/.snd)
 def packArchives(postprodPath):
 	for pntLang in getFilePaths(postprodPath, '', False):
+		if not wantLang(pntLang.name):
+			continue
 		for pntVer in getFilePaths(pntLang, '', False):
 			dataFolder = pntVer.joinpath('Data')
 			soundFolder = pntVer.joinpath('Sounds')
@@ -411,14 +451,11 @@ def packArchives(postprodPath):
 					print(str(fInDataFolder.parent.joinpath(fInDataFolder.name + '.' + archiveExt)) + ' is made.')
 
 
-def run():
+def run(langs = None):
+	global langFilter
+	langFilter = set(langs) if langs else None
 	postprodPath = Path(settings.postprod_folder)
 	prodPath = Path(settings.prod_folder)
-
-	# clean output first: every stage only ever adds/overwrites, so renamed
-	# or removed outputs (e.g. an archive naming change) would linger
-	if postprodPath.exists():
-		shutil.rmtree(str(postprodPath))
 
 	processProdText(postprodPath, prodPath)
 	processScriptsDatatables(postprodPath)

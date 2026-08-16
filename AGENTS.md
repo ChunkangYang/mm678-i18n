@@ -15,17 +15,22 @@ game text + gettext translations → per-language patch packages.
 
 ## Commands
 
+`mm678 …` below (and throughout the docs) is shorthand for
+`python -m mm678i18n …`, run from the repo root. (`pip install -e .`
+optionally installs it as a real `mm678` command.)
+
 ```
-pip install -e .                 # once; installs polib/OpenCC + the mm678 CLI
+pip install polib OpenCC         # once — the pipeline dependencies
 mm678 build                      # one-click: .po -> .mo -> game text -> postprod -> release .zip archives
 mm678 build --no-release      # same, stop after postprod
-mm678 templates|dev|mo|prod|postprod|release   # individual stages
+mm678 templates|dev|mo|prod|postprod|release   # individual stages (mo/prod/postprod/release/build take --langs)
+mm678 apply <lang> <game> <install-dir>          # copy a built package onto a game install
 mm678 check                      # po validity + source encodings + .str line lengths (CI runs po+encoding)
 mm678 zhconvert                  # regenerate zh_TW .po from zh_CN (OpenCC)
 mm678 new-language <lang>        # create a placeholder .po for a new language
 ```
 
-`python -m mm678i18n …` works without installing. The build is Windows-oriented
+The build is Windows-oriented
 (mmarch from PATH via `npm i -g mmarch`, case-insensitive paths);
 `mm678 check` runs anywhere.
 There is no test suite — see "Verifying pipeline changes" below.
@@ -44,11 +49,12 @@ installable trees (DBCS re-encoding, fonts, Lua scripts, images, mmarch-packed
 - **Everything under `build/` is generated** — never hand-edit it; it is safe
   to delete. All tracked inputs live in `source/ templates/ translations/
   assets/ config/ vendor/ references/`.
-- **`config/languages.py` is the single source of truth** for per-language
-  encoding, version, and DBCS font sizes. `config/versions.py` holds the
-  release matrix (`releases`) and release version; `config/settings.py`
+- **`config/languages.toml` is the single source of truth** for per-language
+  encoding, version, and DBCS fonts. `config/versions.toml` holds the
+  release matrix (`releases`) and release version; `config/settings.toml`
   holds pipeline settings and all folder paths. Never duplicate language
-  metadata elsewhere.
+  metadata elsewhere. Each `.toml` is the editable data; the same-named
+  `config/*.py` loads it and derives the lookup tables the pipeline imports.
 - **Language derivation**: languages with a folder in `source/` get .po
   generation; languages **built** (mo/prod/postprod) are `en` + the folders in
   `translations/`. Adding a language = adding its .po.
@@ -89,7 +95,7 @@ string is rendered with its glossary translation, not re-invented.
   two characters `\n` (see `lf_in_crlf_mode`). A bare newline in a msgstr
   breaks every gettext parser.
 - `source/` and prod files use legacy game encodings (cp1252/gb2312/big5,
-  declared in `config/languages.py`) — always honor the configured encoding
+  declared in `config/languages.toml`) — always honor the configured encoding
   when touching them.
 - In the game's `.txt`/`.str` table files, **CRLF is the row separator and a
   bare LF is an in-cell line break** — any automatic LF↔CRLF conversion
@@ -105,7 +111,7 @@ string is rendered with its glossary translation, not re-invented.
   archives lack the zh voice-over content; full releases are built locally.
 - Releases are plain extract-over .zip archives (the NSIS .exe chain was
   removed in 2026-08); adding a language to the release only needs matrix
-  entries in `config/versions.py`.
+  entries in `config/versions.toml`.
 
 ## Verifying pipeline changes
 

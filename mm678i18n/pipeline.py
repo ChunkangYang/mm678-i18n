@@ -431,9 +431,11 @@ def deriveLanguages():
 
 
 # compile all .po to .mo files (derived languages regenerated first)
-def po2Mo():
+def po2Mo(langs = None):
 	deriveLanguages()
 	for currentLang in discoveredLangs():
+		if langs and currentLang not in langs:
+			continue
 		p = Path(settings.i18n_folder).joinpath(currentLang).joinpath(settings.textdomain + '.po')
 		if not p.is_file():
 			log('No .po file for language ' + currentLang + ' (' + str(p) + '), skipped.')
@@ -630,17 +632,34 @@ def generateDevOnly():
 
 
 
-def generateProd():
+def generateProd(onlyLangs = None):
+	# build/ is disposable: after a deleted build tree (or a fresh checkout)
+	# build/dev is gone, and an empty dev would silently produce an empty
+	# prod — regenerate templates + dev first
+	if not any(Path(settings.dev_folder).rglob('*.py')):
+		print('build/dev is missing — regenerating it (templates + dev) first')
+		from . import context
+		context.run()
+		generateDevOnly()
 	# clean output first: prod only ever overwrites, so files whose template
-	# was removed would otherwise linger and leak into postprod
+	# was removed would otherwise linger and leak into postprod. With a
+	# language filter, clean only the filtered languages' trees.
 	import shutil
 	prodPath = Path(settings.prod_folder)
 	if prodPath.exists():
-		shutil.rmtree(prodPath)
+		if onlyLangs:
+			for lang in onlyLangs:
+				p = prodPath.joinpath(lang)
+				if p.exists():
+					shutil.rmtree(p)
+		else:
+			shutil.rmtree(prodPath)
 	# recompute instead of using the import-time snapshot: derived languages
 	# (e.g. zh_TW) may have been created by po2Mo within the same run
 	langs = [x for x in dict.fromkeys([settings.first_language] + discoveredLangs())
 		if x not in settings.prod_language_exclusion]
+	if onlyLangs:
+		langs = [x for x in langs if x in onlyLangs]
 	mo2Prod(langs)
 
 

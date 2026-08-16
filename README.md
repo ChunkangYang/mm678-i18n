@@ -20,11 +20,11 @@ Install: put the language patch `.exe` into your game folder and run it. Details
 
 ## 🛠 For developers & translators
 
-Everything is built with one command:
+Everything is built with one command, run from the repo root (needs
+`pip install polib OpenCC` once):
 
 ```
-pip install -e .
-mm678 build        # .po -> .mo -> game text -> postprod -> release zips
+python -m mm678i18n build   # .po -> .mo -> game text -> postprod -> release zips
 ```
 
 - [Repository guide (AGENTS.md)](AGENTS.md) — one-page orientation: commands, architecture, invariants (auto-loaded by AI coding agents)

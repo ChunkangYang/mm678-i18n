@@ -1,0 +1,47 @@
+# Game/patch versions and the release matrix (data half; config/versions.py
+# loads this and derives the per-language i18n version table).
+# Language-specific metadata (encodings, per-language versions) lives in
+# config/languages.toml — do not duplicate it here.
+
+# Release identity of the language patches (the date goes into the
+# release archive names)
+release_date = "2026-08-16"
+
+merge_version = "2024-10-30"
+
+[grayface_versions]
+6 = "2.5.7"
+7 = "2.5.7"
+8 = "2.5.7"
+
+# Which release .zip archives to build: one entry per produced archive.
+# Releases are PURE language packs - prerequisites like GrayFace patch and
+# MMExtension are installed by the user from their official pages.
+#   lang        language of the postprod tree the archive is built from
+#   target      folder/name of the working dir under build/release/dev
+#   game        which postprod game tree goes in (mm6/mm7/mm8/mmmerge)
+#   outname     base name of the produced .zip; the release date is appended
+
+[[releases]]
+lang = "zh_CN"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_zh_CN"
+
+[[releases]]
+lang = "zh_CN"
+target = "mm8"
+game = "mm8"
+outname = "MM8_zh_CN"
+
+[[releases]]
+lang = "zh_TW"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_zh_TW"
+
+[[releases]]
+lang = "zh_TW"
+target = "mm8"
+game = "mm8"
+outname = "MM8_zh_TW"

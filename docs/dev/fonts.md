@@ -99,9 +99,11 @@ for them, which is correct: they render as missing.)
 The `.bdf` files live flat in `assets/font/` (pixel fonts are used as-is;
 the 16px/28px ones were rasterized from TTF/OTF as a one-off with
 `tools/ttf2bdf.py`, see below — the TTF/OTF sources are not kept in the
-repo). The per-language mapping is `dbcs_fonts` in `config/languages.py` —
-the single source of truth the pipeline both copies files from and fills
-the ini template with. Assignment rule by host font height:
+repo). The per-language 12/14/24 px triple is `dbcs_fonts` in
+`config/languages.toml` (expanded to the per-engine-font map by
+`config/languages.py`) — the single source of truth the pipeline both
+copies files from and fills the ini template with. Assignment rule by
+host font height:
 
 | host height | zh_CN | zh_TW | ja | ko |
 |---|---|---|---|---|

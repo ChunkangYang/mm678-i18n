@@ -2,13 +2,15 @@
 
 ## Prerequisites
 
-- **Python 3.9+** (3.13 tested)
-- `pip install -e .` in the repo root (installs `polib`, `OpenCC` and the
-  `mm678` command)
--   environment variable.
+- **Python 3.11+** (3.13 tested)
+- `pip install polib OpenCC` (the pipeline dependencies)
 - **Poedit** (only for translating) — https://poedit.net/
 
 mmarch comes from PATH: `npm i -g mmarch` (v5+).
+
+Commands are run as `python -m mm678i18n <cmd>` from the repo root — the
+docs write `mm678 <cmd>` for short. (`pip install -e .` optionally
+installs `mm678` as a real command usable from anywhere.)
 
 Note: the build itself is Windows-oriented (mmarch, case-insensitive
 paths). `mm678 check` runs anywhere.
@@ -16,7 +18,9 @@ paths). `mm678 check` runs anywhere.
 ## One-click build
 
 ```
-mm678 build                  # .po -> release zips, everything
+mm678 build                  # .po -> release zips, every language
+mm678 build --langs zh_CN de # only these languages
+mm678 apply zh_CN mmmerge D:\games\mmmerge   # copy the built package onto an install
 mm678 build --no-release  # stop after postprod (skip the release zips)
 ```
 

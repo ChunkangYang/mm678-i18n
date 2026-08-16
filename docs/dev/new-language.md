@@ -4,15 +4,17 @@ Example: French (`fr`).
 
 ## 1. Declare the language
 
-`config/languages.py` — make sure the language has an entry with the right
+`config/languages.toml` — make sure the language has an entry with the right
 game encoding (already present for the common European/CJK languages):
 
-```python
-'fr': {'encoding': 'cp1252', 'i18n_version': '2.3'},
+```toml
+[languages.fr]
+encoding = "cp1252"
+i18n_version = "2026-08-16"
 ```
 
-For a DBCS (CJK) language also set `dbcs_fonts` (the BDF font per engine
-font — see `docs/dev/fonts.md`; entries for zh/ja/ko already exist).
+For a DBCS (CJK) language also set `dbcs_fonts` (the three BDF files —
+see `docs/dev/fonts.md`; entries for zh/ja/ko already exist).
 
 ## 2. Create the .po
 
@@ -49,7 +51,7 @@ mm678 build --no-release
 
 `build/postprod/fr/` now holds the installable file trees. To also produce
 release zips, add the language's targets to `releases` in
-`config/versions.py` and run `mm678 release`.
+`config/versions.toml` and run `mm678 release`.
 
 ## Notes
 
