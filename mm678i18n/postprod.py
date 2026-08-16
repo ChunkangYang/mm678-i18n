@@ -19,8 +19,52 @@ def copy_tree(src, dst):
 	shutil.copytree(src, dst, dirs_exist_ok = True)
 
 
+# Documented BDF font-mapping template appended to LocalizeConf.ini of
+# native-renderer builds (configparser cannot round-trip comments, so this is
+# written as raw text after the managed keys); the empty values are filled
+# from the language's dbcs_fonts map (config/languages.py). Heights/styles
+# were measured from the shipped engine fonts and are identical across MM6/7/8.
+DBCS_FONT_TEMPLATE = '''
+[dbcsFont]
+; BDF font mapping (native DBCS renderer, FNT_DBCS.lua). Each line maps an
+; engine font to a .bdf file in Data\\DBCSFonts\\; an empty value falls back
+; to Default. Glyph placement is automatic: blank rows a BDF pads its glyphs
+; with are cropped away and the glyph sits one pixel below the game font's
+; baseline. An integer flag (0-10) adds that many pixels of line spacing for
+; THIS font only (e.g. Smallnum=font.bdf,2; stacks with lineSpacing above).
+; The glyph style (shadow / plain / black) is auto-detected from each game
+; font's own glyphs; add a shadow/plain/black flag only to override it.
+; Default takes one or more comma-separated files; fonts without their own
+; line pick from them by height (largest that fits, else smallest).
+Default=
+; Lucida: height 17, shadow style
+Lucida=
+; Smallnum: height 14, shadow style (smallest UI font)
+Smallnum=
+; Arrus: height 19, shadow style (main dialog font)
+Arrus=
+; Create: height 18, shadow style (character creation)
+Create=
+; Comic: height 19, shadow style
+Comic=
+; Book: height 25, shadow style (book headings)
+Book=
+; Book2: height 30, shadow style (large titles)
+Book2=
+; Cchar: height 29, shadow style (credits; MM6/MM7)
+Cchar=
+; Autonote: height 18, black style
+Autonote=
+; Spell: height 16, plain style (no shadow)
+Spell=
+'''
+
+
 def mmarch(*args):
-	subprocess.run([str(Path(settings.mmarch_exe).resolve())] + list(args), check = True)
+	# resolve through PATH (npm installs a .cmd shim, which plain
+	# subprocess.run would not find without shutil.which)
+	exe = shutil.which(settings.mmarch_exe) or settings.mmarch_exe
+	subprocess.run([str(exe)] + list(args), check = True)
 
 
 def copyFonts(d, pTemp, mmVersion, pNameCondensed):
@@ -30,26 +74,79 @@ def copyFonts(d, pTemp, mmVersion, pNameCondensed):
 		targetLod = 'events'
 	else: # 8 or merge
 		targetLod = 'EnglishT'
-	for fnt in getFilePaths(Path(settings.non_text_folder).joinpath('font').joinpath(d), 'fnt', False):
+	fontDir = Path(settings.non_text_folder).joinpath('font').joinpath(d)
+	if not fontDir.exists(): # e.g. DBCS encodings: BDFs replaced the page .fnt
+		return
+	for fnt in getFilePaths(fontDir, 'fnt', False):
 		shutil.copy(fnt, pTemp.joinpath('Data/10 Loc' + pNameCondensed + '.' + targetLod))
 
 
-# patch the per-language `local fontSizes = {...}` line into the shared
-# FNT_DBCS.lua (the file itself is a single canonical copy in
-# scripts_datatables/_common/_all/)
-def patchFntDbcsFontSizes(gameDir, lang):
-	sizes = LANGUAGES.get(lang, {}).get('fnt_dbcs_font_sizes')
-	if sizes is None:
+def rewriteProgramName(pIni, enc):
+	# store program_name in UTF-8: ProgramName.lua detects that (strict UTF-8
+	# validation), converts to the user's SYSTEM codepage for the engine's
+	# ANSI buffer and sets the window title in real Unicode. cp1250/cp1251
+	# names keep the legacy raw-bytes format (no runtime converter for them).
+	if enc not in dbcsEncs and enc != 'cp1252':
 		return
-	p = gameDir.joinpath('Scripts/General/FNT_DBCS.lua')
-	if not p.is_file():
+	out = []
+	for line in pIni.read_bytes().split(b'\r\n'):
+		if line.startswith(b'program_name='):
+			name = line[len(b'program_name='):].decode(enc)
+			out.append(b'program_name=' + name.encode('utf-8'))
+		else:
+			out.append(line)
+	pIni.write_bytes(b'\r\n'.join(out))
+
+
+def stripBdf(raw, keepCps):
+	# drop the glyphs of code points the language's encoding can never
+	# request (the renderer resolves glyphs through the encoding's .tbl, so
+	# this is lossless for it) - smaller files load and scan much faster
+	end = raw.find(b'\nENDFONT')
+	tail = raw[end + 1:] if end >= 0 else b'ENDFONT\n'
+	body = raw[:end + 1] if end >= 0 else raw
+	parts = body.split(b'STARTCHAR')
+	kept = []
+	for part in parts[1:]:
+		m = re.search(rb'\nENCODING (\d+)', part)
+		if m and int(m.group(1)) in keepCps:
+			kept.append(b'STARTCHAR' + part)
+	head = re.sub(rb'\nCHARS \d+\n', b'\nCHARS %d\n' % len(kept), parts[0], count = 1)
+	return head + b''.join(kept) + tail
+
+
+def tblCodepoints(pTbl):
+	data = pTbl.read_bytes()
+	cps = set()
+	for i in range(0, len(data) - 1, 2):
+		cp = data[i] | (data[i + 1] << 8)
+		if cp:
+			cps.add(cp)
+	return cps
+
+
+_strippedBdfCache = {}
+
+def copyDbcsFonts(langName, pTemp):
+	# the language's BDF fonts (stripped to its charset) + the encoding's
+	# Unicode table (<enc>.tbl), loaded by FNT_DBCS.lua from Data\DBCSFonts\
+	# (plain folder, not a LOD)
+	fonts = LANGUAGES[langName].get('dbcs_fonts')
+	if not fonts:
 		return
-	content = p.read_bytes()
-	replacement = ('local fontSizes = {' + ', '.join(map(str, sizes)) + '}').encode('ascii')
-	newContent, n = re.subn(rb'local fontSizes = \{[^}]*\}', replacement, content, count = 1)
-	if n != 1:
-		raise ValueError('fontSizes line not found in ' + str(p))
-	p.write_bytes(newContent)
+	dst = pTemp.joinpath('Data/DBCSFonts')
+	dst.mkdir(parents = True, exist_ok = True)
+	src = Path(settings.non_text_folder).joinpath('font')
+	enc = langEncDict[langName]
+	shutil.copy(src.joinpath(enc + '.tbl'), dst.joinpath(enc + '.tbl'))
+	keep = None
+	for name in sorted({value.split(',')[0] for value in fonts.values()}):
+		key = (name, enc)
+		if key not in _strippedBdfCache:
+			if keep is None:
+				keep = tblCodepoints(src.joinpath(enc + '.tbl'))
+			_strippedBdfCache[key] = stripBdf(src.joinpath(name).read_bytes(), keep)
+		dst.joinpath(name).write_bytes(_strippedBdfCache[key])
 
 
 def processProdText(postprodPath, prodPath):
@@ -62,7 +159,17 @@ def processProdText(postprodPath, prodPath):
 
 	for p in getFilePaths(prodPath, '', False):
 		if p.name in dbcsLangs:
-			encodeDbcsSpecialFile(p, postprodPath.joinpath(p.name), langEncDict[p.name])
+			# per game: native-renderer games ship plain DBCS text, the rest
+			# keep the legacy marker encoding (see settings.native_dbcs_games)
+			for game in getFilePaths(p, '', False):
+				dest = postprodPath.joinpath(p.name).joinpath(game.name)
+				if not game.is_dir():
+					dest.parent.mkdir(parents = True, exist_ok = True)
+					shutil.copy(game, dest)
+				elif game.name in settings.native_dbcs_games:
+					shutil.copytree(game, dest)
+				else:
+					encodeDbcsSpecialFile(game, dest, langEncDict[p.name])
 		else:
 			shutil.copytree(p, postprodPath.joinpath(p.name))
 
@@ -92,6 +199,7 @@ def processProdText(postprodPath, prodPath):
 		for versionNum in ['6', '7', '8', 'merge']:
 			pTemp = p.joinpath('mm' + versionNum + '/Data/LocalizeConf.ini')
 			config = configparser.ConfigParser()
+			config.optionxform = str # keep key case (the native renderer's keys are case-sensitive)
 			config.read(pTemp, encoding = langEncDict[p.name])
 
 			config['Settings']['game_version']     = versionNum                          # 6/7/8/merge
@@ -107,8 +215,22 @@ def processProdText(postprodPath, prodPath):
 			config['Settings']['i18n_version']     = versions['i18n'][p.name]
 			config['Settings']['encoding']         = langEncDict[p.name]
 
+			# global extra line spacing off by default; the 12px font carries
+			# a per-font ",1" instead (see languages.dbcs_fonts / docs/dev/fonts.md)
+			if p.name in dbcsLangs and 'mm' + versionNum in settings.native_dbcs_games:
+				config['Settings']['lineSpacing'] = '0'
+
 			with open(pTemp, mode = 'w', encoding = langEncDict[p.name]) as configfile:
 				config.write(configfile, False)
+
+			if p.name in dbcsLangs and 'mm' + versionNum in settings.native_dbcs_games:
+				block = DBCS_FONT_TEMPLATE
+				for name, value in LANGUAGES[p.name].get('dbcs_fonts', {}).items():
+					block = block.replace('\n' + name + '=\n', '\n' + name + '=' + value + '\n')
+				with open(pTemp, mode = 'a', encoding = langEncDict[p.name]) as configfile:
+					configfile.write(block)
+
+			rewriteProgramName(pTemp, langEncDict[p.name])
 
 		if p.name in dbcsLangs:
 			for versionNum in ['6', '7', '8', 'merge']:
@@ -134,6 +256,8 @@ def processProdText(postprodPath, prodPath):
 			copyFonts(encoding, pTemp, versionNum, pNameCondensed)
 			if encoding in dbcsEncs:
 				copyFonts('cp1252', pTemp, versionNum, pNameCondensed)
+				if 'mm' + versionNum in settings.native_dbcs_games:
+					copyDbcsFonts(p.name, pTemp)
 			if encoding == 'cp1252' or encoding in dbcsEncs:
 				if versionNum == '6' or versionNum == '7':
 					versionNumFont = '67'
@@ -170,7 +294,6 @@ def processScriptsDatatables(postprodPath):
 				copy_tree(commonPath.joinpath(gameName), dest)
 			if pntLang.joinpath(gameName).exists():
 				copy_tree(pntLang.joinpath(gameName), dest)
-			patchFntDbcsFontSizes(dest, pntLang.name)
 	print('Script, datatable process is done.')
 
 

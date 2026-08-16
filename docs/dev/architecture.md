@@ -14,7 +14,6 @@ into per-language patch installers.
 | `installer/` | ✔ | NSIS scripts (`nsi/<lang>/<target>/mm_i18n.nsi`) and per-installer additional files |
 | `config/` | ✔ | All project configuration (see below) |
 | `mm678i18n/` | ✔ | The Python build package (`mm678` CLI) |
-| `vendor/` | ✔ | Third-party binaries: `mmarch.exe`, `TxtEdit/` |
 | `references/` | ✔ | Translation reference material |
 | `docs/` | ✔ | User documentation (GitHub Pages) + `docs/dev/` developer docs |
 | `build/` | ✘ | ALL generated output — safe to delete at any time |
@@ -79,8 +78,11 @@ into per-language patch installers.
   build time:
   - `assets/scripts_datatables/_common/_all/` → every language × every game in
     `settings.script_games`; `_common/<game>/` → every language, that game.
-    `FNT_DBCS.lua` is one canonical copy whose `fontSizes` line is patched
-    per language from `config/languages.py`.
+    `FNT_DBCS.lua` is one canonical copy; per-language BDF font mappings come
+    from `dbcs_fonts` in `config/languages.py` and are both filled into
+    `LocalizeConf.ini`'s `[dbcsFont]` section and shipped (with the
+    encoding's `.tbl`) into `Data\DBCSFonts\`.
+    Renderer + font configuration reference: `docs/dev/fonts.md`.
   - `assets/img/prod/<lang>/mmmerge_and_mm8/` → shipped to both mmmerge and
     mm8.
   - `installer/additional_files/zh/mm8/zh_update/` holds only the files that

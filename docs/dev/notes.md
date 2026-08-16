@@ -20,7 +20,7 @@ Consequences:
 - If you edit these files directly, use an editor that preserves line
   endings exactly, or better use GrayFace's
   [Txt Edit](https://grayface.github.io/mm/#Txt-Edit), a table editor made
-  for this format — it ships in this repo at `vendor/TxtEdit/`.
+  for this format.
 - The pipeline itself is EOL-exact: files are read/written with explicit
   newline handling, and an in-cell LF is represented inside `.po` files as
   the two characters `

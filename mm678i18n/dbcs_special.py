@@ -1,6 +1,6 @@
-# Double-byte character set (DBCS) support for Might and Magic 6/7/8 GrayFace Patch
-# Use dbcs_special.py to transform DBCS text files to "special" text files first
-# Then put FNT_DBCS.lua into \Scripts\General in GrayFace Patched MM6/7/8 with MMExtension (or MMMerge)
+# Legacy marker encoding for the retired FNT_DBCS.lua renderer (kept for
+# decoding old data and for any game not in settings.native_dbcs_games;
+# native builds ship plain DBCS text rendered by Scripts/General/FNT_DBCS.lua).
 # By Tom CHEN (tomchen.org), MIT/Expat License
 
 # This Python script will convert
@@ -16,7 +16,7 @@ from pathlib import Path
 from .getfilepaths import getFilePaths
 
 
-# encoding could be set to "gb2312", "big5", "gbk", "euc_jp" and "euc_kr"
+# encoding could be set to "gb2312", "big5", "gbk", "shift_jis" and "euc_kr"
 
 # inputStr is bytes
 def encodeDbcsSpecial(inputStr, encoding):
@@ -25,7 +25,7 @@ def encodeDbcsSpecial(inputStr, encoding):
 		"gb2312": b"[\xA1-\xA9\xB0-\xF7][\xA0-\xFF]",
 		"big5": b"[\xA1-\xC7\xC9-\xF9][\x40-\x7F\xA0-\xFF]",
 		"gbk": b"[\x81-\xFE][\x40-\xFF]",
-		"euc_jp": b"[\xA1-\xA8\xAD\xB0-\xF4][\xA0-\xFF]",
+		"shift_jis": b"[\x81-\x9F\xE0-\xFC][\x40-\x7E\x80-\xFC]",
 		"euc_kr": b"[\xA1-\xAC\xB0-\xC8\xCA-\xFD][\xA0-\xFF]"
 	}
 	def rpl(m):

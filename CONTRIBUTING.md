@@ -27,7 +27,7 @@ The `.txt`/`.str` files under `source/` and `templates/` are CRLF/LF-sensitive
 tables (CRLF separates rows; a bare LF is an in-cell line break). Editors or
 git settings that normalize line endings will corrupt them — read the format
 rules in [docs/dev/notes.md](docs/dev/notes.md) first, and prefer GrayFace's
-[Txt Edit](https://grayface.github.io/mm/#Txt-Edit) (in `vendor/TxtEdit/`).
+[Txt Edit](https://grayface.github.io/mm/#Txt-Edit).
 
 ## Report problems
 

@@ -40063,7 +40063,7 @@ msgstr "它是最具威力的单一目标攻击魔法之一。摧毁力极大，
 #: mm7/DATA/10LocLANG.events/SPELLS.TXT.py:15
 msgctxt "spells"
 msgid "Wizard Eye causes the automap located in the upper right corner of the main gaming screen to show the locations of monsters and other points of interest while outdoors.  The spell lasts 1 hour per point of skill in Air Magic."
-msgstr "魔法眼能在屏幕右上角的小地图钟标明怪物所处位置和室外的其他值得一去的地点。持续时间为1小时乘以魔法等级。"
+msgstr "魔力神眼能在屏幕右上角的小地图中标明怪物所处位置和室外的其他值得一去的地点。持续时间为1小时乘以魔法等级。"
 
 #: mm6/data/10LocLANG.icons/Spells.txt.py:16
 #: mm7/DATA/10LocLANG.events/SPELLS.TXT.py:15

@@ -12,7 +12,7 @@
   override with the `SEVENZIP` environment variable.
 - **Poedit** (only for translating) — https://poedit.net/
 
-`vendor/mmarch.exe` ships in the repo; no setup needed.
+mmarch comes from PATH: `npm i -g mmarch` (v5+).
 
 Note: the build itself is Windows-oriented (mmarch, NSIS, case-insensitive
 paths). `mm678 check` runs anywhere.

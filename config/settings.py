@@ -25,11 +25,18 @@ postprod_folder = 'build/postprod'                  # installable file trees
 setup_build_folder = 'build/setup'                  # installer working dirs + final .exe/.7z in out/
 
 # external tool: mmarch (MM archive packer, github.com/might-and-magic/mmarch)
-mmarch_exe = 'vendor/mmarch.exe'
+# installed via npm (`npm i -g mmarch`) and resolved from PATH
+mmarch_exe = 'mmarch'
 
 # games that ship MMExtension Lua scripts / data tables
 # (the scripts_datatables/_common/_all tree is applied to each of these)
-script_games = ['mm8', 'mmmerge']
+script_games = ['mm6', 'mm7', 'mm8', 'mmmerge']
+
+# games whose DBCS-language builds use the native renderer (FNT_DBCS.lua):
+# their text ships as plain DBCS bytes (no dbcs_special marker encoding) and
+# their LocalizeConf.ini gets the [dbcsFont] template. FNT_DBCS.lua supports
+# all three engines (smoke-tested in-game 2026-08-15).
+native_dbcs_games = ['mm6', 'mm7', 'mm8', 'mmmerge']
 
 file_extensions = ['txt', 'str', 'ini']
 

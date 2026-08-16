@@ -11,7 +11,8 @@ game encoding (already present for the common European/CJK languages):
 'fr': {'encoding': 'cp1252', 'i18n_version': '2.3'},
 ```
 
-For a DBCS (CJK) language also set `fnt_dbcs_font_sizes`.
+For a DBCS (CJK) language also set `dbcs_fonts` (the BDF font per engine
+font — see `docs/dev/fonts.md`; entries for zh/ja/ko already exist).
 
 ## 2. Create the .po
 

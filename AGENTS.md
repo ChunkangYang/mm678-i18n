@@ -3,8 +3,10 @@
 One-page orientation for anyone (human or AI) working in this repo. Deeper
 docs: `docs/dev/architecture.md` (directory layout + pipeline),
 `docs/dev/building.md` (commands + day-to-day workflows),
-`docs/dev/new-language.md`, `docs/dev/release.md`, `docs/dev/notes.md`
-(string-format constraints), `docs/dev/TODO.md` (known issues).
+`docs/dev/fonts.md` (native DBCS renderer, `[dbcsFont]` ini usage, BDF
+workflow, .fnt format), `docs/dev/new-language.md`, `docs/dev/release.md`,
+`docs/dev/notes.md` (string-format constraints), `docs/dev/TODO.md` (known
+issues).
 
 ## What this is
 
@@ -24,7 +26,8 @@ mm678 new-language <lang>        # create a placeholder .po for a new language
 ```
 
 `python -m mm678i18n …` works without installing. The build is Windows-oriented
-(vendor/mmarch.exe, NSIS, case-insensitive paths); `mm678 check` runs anywhere.
+(mmarch from PATH via `npm i -g mmarch`, NSIS, case-insensitive paths);
+`mm678 check` runs anywhere.
 There is no test suite — see "Verifying pipeline changes" below.
 
 ## Architecture (the parts that span multiple files)
@@ -51,8 +54,7 @@ installable trees (DBCS re-encoding, fonts, Lua scripts, images, mmarch-packed
   `translations/`. Adding a language = adding its .po.
 - **Shared files are stored once and distributed at build time**:
   `assets/scripts_datatables/_common/_all/` (every language × games in
-  `settings.script_games`; `FNT_DBCS.lua` gets its per-language `fontSizes`
-  line patched from `config/languages.py`), `_common/<game>/`,
+  `settings.script_games`), `_common/<game>/`,
   `assets/img/prod/<lang>/mmmerge_and_mm8/` (shipped to both games), and the
   `mm8_zh_update` installer = `zh` + `zh_update` additional trees. Do not
   re-introduce per-language/per-game copies of identical files.
@@ -72,7 +74,7 @@ installable trees (DBCS re-encoding, fonts, Lua scripts, images, mmarch-packed
   bare LF is an in-cell line break** — any automatic LF↔CRLF conversion
   (editor save, git EOL conversion) corrupts them, hence the `-text`
   attributes in `.gitattributes`. Edit them only with an EOL-preserving
-  editor or GrayFace's Txt Edit (`vendor/TxtEdit/`); see
+  editor or GrayFace's [Txt Edit](https://grayface.github.io/mm/#Txt-Edit); see
   `docs/dev/notes.md`.
 - Dev files are emitted as one `r.append(...)` statement per template line —
   do not "simplify" back to a single expression; a whole-file expression

@@ -3,3 +3,6 @@
 *.str -text
 *.po eol=lf
 *.pot eol=lf
+*.bdf -text
+*.tbl -text
+*.fnt -text
