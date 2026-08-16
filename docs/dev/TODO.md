@@ -2,8 +2,26 @@
 
 (These would make good GitHub issues; kept here so they are not lost.)
 
+## Images (2026-08 upstream audit)
+
+对比最新上游后,全部 508 张本地化图片中仅 merge 的设置界面 3 张需要跟进
+(中文源图在 `assets/img/prod/zh_CN/mmmerge/Data/icons/`,最新英文原图可从
+`original-latest\mmmerge\Data\mmmerge.icons.lod` 解出;改完跑 `mm678 postprod`):
+
+- [ ] `exsetscr.bmp`——上游把第 4 项 "Increased view range" 换成 **"Frame
+  limit"**,中文版第 4 行仍是"增大视野范围",需重画(建议:帧数上限)
+- [ ] `exsetscrk.bmp`——上游加了 **"EXTRA KEYBINDS"** 大标题,中文版没有,
+  需补(建议:额外按键绑定)
+- `exsetscr2.bmp` 仅底图重导出差异,无需改动
+- (可选)FR 包做了、我们从未做过的:MM6 法术书页签 `sb*000a` 12 张、
+  `bt_16x/32x` 分辨率按钮 4 张、`layout.pcx`/`sprites.pcx`
+
 ## Pipeline / packaging
 
+- NSIS 安装包 Delete 列表补旧布局残留(`10 LocZHCN.EnglishD.lod`、
+  `z10 LocZHCN.icons.lod`、`10 LocLANG.EnglishT` 时代文件)——2026-08 改为
+  `zz LocZHCN.{T,D,icons}.lod` 三件套后,旧包升级需清理
+- `config/versions.py` 的 merge 版本号更新到最新基线
 - 安装包清理其他语言的残留文件
 - 整合版补丁装不进 MM8，但 MM8 补丁能装进整合版——应让后者也不可以
 - 视频本地化：`assets/video/zh_CN` → `Anims/10 LocZHCN.Magicdod.vid`

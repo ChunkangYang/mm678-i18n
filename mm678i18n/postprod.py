@@ -325,8 +325,14 @@ def processImages(postprodPath):
 			for gameName in gameNames:
 				for dirTemp in getFilePaths(dataFolder, '', False):
 					folderNameTemp = '10 Loc' + pntLangNameCondensed + '.' + dirTemp.name
-					if dirTemp.name == 'icons' and gameName == 'mmmerge':
-						folderNameTemp = 'z' + folderNameTemp
+					if gameName == 'mmmerge':
+						# latest Merge loads archives name-sorted, LAST wins:
+						# its own mmmerge.D/mmmerge.icons outrank a '10 '
+						# prefix, so localization archives take the 'zz'
+						# prefix (LocFR convention); EnglishD content ships
+						# as the .D archive of that chain
+						suffix = 'D' if dirTemp.name == 'EnglishD' else dirTemp.name
+						folderNameTemp = 'zz Loc' + pntLangNameCondensed + '.' + suffix
 					pTemp = postprodPath.joinpath(pntLangName).joinpath(gameName).joinpath(dataFolder.name).joinpath(folderNameTemp)
 					copy_tree(str(dirTemp), str(pTemp))
 	print('Image process is done.')
@@ -346,14 +352,22 @@ def processSound(postprodPath):
 			soundParentFolder = next(pntVer.iterdir())
 			soundFolder = next(soundParentFolder.iterdir())
 
-			folderNameTemp = '10 Loc' + pntLangName.upper().replace('_', '') + '.' + soundFolder.name
-			pTemp = postprodPath.joinpath(pntLangName).joinpath(pntVer.name).joinpath(soundParentFolder.name).joinpath(folderNameTemp)
+			def archiveDirName(cond):
+				# merge voice-overs live in the same zz *.D archive as the
+				# localized images (LocFR does the same); classic games keep
+				# their 10 Loc*.audio .snd archives
+				if pntVer.name == 'mmmerge':
+					suffix = 'D' if soundFolder.name == 'EnglishD' else soundFolder.name
+					return 'zz Loc' + cond + '.' + suffix
+				return '10 Loc' + cond + '.' + soundFolder.name
+
+			cond = pntLangName.upper().replace('_', '')
+			pTemp = postprodPath.joinpath(pntLangName).joinpath(pntVer.name).joinpath(soundParentFolder.name).joinpath(archiveDirName(cond))
 			copy_tree(str(soundFolder), str(pTemp))
 
 			# zh_TW reuses the zh_CN voice-over recordings
 			if pntLangName == 'zh_CN':
-				folderNameTempZHTW = '10 LocZHTW.' + soundFolder.name
-				pTempZHTW = postprodPath.joinpath('zh_TW').joinpath(pntVer.name).joinpath(soundParentFolder.name).joinpath(folderNameTempZHTW)
+				pTempZHTW = postprodPath.joinpath('zh_TW').joinpath(pntVer.name).joinpath(soundParentFolder.name).joinpath(archiveDirName('ZHTW'))
 				copy_tree(str(soundFolder), str(pTempZHTW))
 
 	print('Sound process is done.')
@@ -380,7 +394,7 @@ def packArchives(postprodPath):
 					elif stemTemp == 'icons' or stemTemp == 'events':
 						archiveType = 'mmiconslod'
 						archiveExt = 'lod'
-					elif stemTemp == 'englishd' or stemTemp == 'englisht' or stemTemp == 't':
+					elif stemTemp == 'englishd' or stemTemp == 'englisht' or stemTemp == 't' or stemTemp == 'd':
 						archiveType = 'mm8loclod'
 						archiveExt = 'lod'
 					else:
@@ -394,6 +408,11 @@ def packArchives(postprodPath):
 def run():
 	postprodPath = Path(settings.postprod_folder)
 	prodPath = Path(settings.prod_folder)
+
+	# clean output first: every stage only ever adds/overwrites, so renamed
+	# or removed outputs (e.g. an archive naming change) would linger
+	if postprodPath.exists():
+		shutil.rmtree(str(postprodPath))
 
 	processProdText(postprodPath, prodPath)
 	processScriptsDatatables(postprodPath)
