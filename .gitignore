@@ -41,3 +41,5 @@ Backup of *.doc*
 
 # Baidu netdisk upload leftovers
 *.baiduyun.uploading.cfg
+
+translations/zh_TW/

@@ -69,16 +69,18 @@ def mmarch(*args):
 
 def copyFonts(d, pTemp, mmVersion, pNameCondensed):
 	if mmVersion == '6':
-		targetLod = 'icons'
+		folder = 'Data/10 Loc' + pNameCondensed + '.icons'
 	elif mmVersion == '7':
-		targetLod = 'events'
-	else: # 8 or merge
-		targetLod = 'EnglishT'
+		folder = 'Data/10 Loc' + pNameCondensed + '.events'
+	elif mmVersion == 'merge': # text ships in the zz *.T archive (see above)
+		folder = 'Data/zz Loc' + pNameCondensed + '.T'
+	else: # 8
+		folder = 'Data/10 Loc' + pNameCondensed + '.EnglishT'
 	fontDir = Path(settings.non_text_folder).joinpath('font').joinpath(d)
 	if not fontDir.exists(): # e.g. DBCS encodings: BDFs replaced the page .fnt
 		return
 	for fnt in getFilePaths(fontDir, 'fnt', False):
-		shutil.copy(fnt, pTemp.joinpath('Data/10 Loc' + pNameCondensed + '.' + targetLod))
+		shutil.copy(fnt, pTemp.joinpath(folder))
 
 
 def rewriteProgramName(pIni, enc):
@@ -188,9 +190,12 @@ def processProdText(postprodPath, prodPath):
 		if pTemp.exists():
 			pTemp.rename(pTemp.parent.joinpath('10 Loc' + pNameCondensed + '.EnglishT'))
 
-		pTemp = p.joinpath('mmmerge/Data/10LocLANG.EnglishT')
+		# mmmerge text ships as "zz Loc*.T.lod": the Merge loads *.T.lod sorted
+		# by name with later archives winning, so the zz prefix outranks the
+		# game's own mmmerge.T.lod (same convention as Rodril's LocEN template)
+		pTemp = p.joinpath('mmmerge/Data/10LocLANG.T')
 		if pTemp.exists():
-			pTemp.rename(pTemp.parent.joinpath('10 Loc' + pNameCondensed + '.EnglishT'))
+			pTemp.rename(pTemp.parent.joinpath('zz Loc' + pNameCondensed + '.T'))
 
 		for pTemp in getFilePaths(p.joinpath('mmmerge/Data/Text localization'), 'txt', True):
 			if pTemp.name[:4] == 'LANG':
@@ -359,7 +364,8 @@ def packArchives(postprodPath):
 			if soundFolder.exists():
 				fInFolder = fInFolder + getFilePaths(soundFolder, '', False)
 			for fInDataFolder in fInFolder:
-				if fInDataFolder.name[0:6] == '10 Loc' or fInDataFolder.name[0:7] == 'z10 Loc':
+				if fInDataFolder.name[0:6] == '10 Loc' or fInDataFolder.name[0:7] == 'z10 Loc' \
+						or fInDataFolder.name[0:6] == 'zz Loc':
 					stemTemp = fInDataFolder.name.split('.')[-1].lower()
 					if stemTemp == 'audio':
 						archiveType = 'mmsnd'
@@ -367,7 +373,7 @@ def packArchives(postprodPath):
 					elif stemTemp == 'icons' or stemTemp == 'events':
 						archiveType = 'mmiconslod'
 						archiveExt = 'lod'
-					elif stemTemp == 'englishd' or stemTemp == 'englisht':
+					elif stemTemp == 'englishd' or stemTemp == 'englisht' or stemTemp == 't':
 						archiveType = 'mm8loclod'
 						archiveExt = 'lod'
 					else:

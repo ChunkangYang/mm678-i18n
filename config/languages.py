@@ -59,6 +59,11 @@ LANGUAGES = {
 # note: half-width katakana is not supported - use full-width kana).
 DBCS_ENCODINGS = ['gb2312', 'big5', 'euc_kr', 'shift_jis']
 
+# Languages with no tracked .po of their own: their .po is regenerated at
+# build time from another language's .po (target -> (source, OpenCC method)).
+# zh_TW is always derived from zh_CN, so only zh_CN gets translated by hand.
+DERIVED_LANGUAGES = {'zh_TW': ('zh_CN', 's2twp')}
+
 
 # ---- derived tables (import these instead of rebuilding them) ----
 

@@ -1,0 +1,26 @@
+Table (of Game struct)	Id	Field	New text
+StdItemsTxt	0	NameAdd	of Might
+	1	NameAdd	of Thought
+	2	NameAdd	of Charm
+	3	NameAdd	of Vigor
+	4	NameAdd	of Precision
+	5	NameAdd	of Speed
+	6	NameAdd	of Luck
+	7	NameAdd	of Health
+	8	NameAdd	of Magic
+	9	NameAdd	of Defense
+	10	NameAdd	of Fire Resistance
+	11	NameAdd	of Air Resistance
+	12	NameAdd	of Water Resistance
+	13	NameAdd	of Earth Resistance
+	14	NameAdd	of Mind Resistance
+	15	NameAdd	of Body Resistance
+	16	NameAdd	of Alchemy
+	17	NameAdd	of Stealing
+	18	NameAdd	of Disarming
+	19	NameAdd	of Items
+	20	NameAdd	of Monsters
+	21	NameAdd	of Arms
+	22	NameAdd	of Dodging
+	23	NameAdd	of the Fist
+	24	NameAdd	of great Might

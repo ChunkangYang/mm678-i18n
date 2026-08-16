@@ -1,0 +1,54 @@
+Table (of Game struct)	Id	Field	New text
+ClassNames	0		Archer
+	1		Warrior Mage
+	2		Master Archer
+	3		Sniper
+	4		Cleric
+	5		Priest
+	6		Priest of the Light
+	7		Priest of the Dark
+	8		Dark Elf
+	9		Patriarch
+	10		Dragon
+	11		Great Wyrm
+	12		Druid
+	13		Great Druid
+	14		Warlock
+	15		Arch Druid
+	16		Knight
+	17		Cavalier
+	18		Black Knight
+	19		Champion
+	20		Minotaur
+	21		Minotaur Lord
+	22		Monk
+	23		Initiate
+	24		Master
+	25		Ninja
+	26		Paladin
+	27		Crusader
+	28		Hero
+	29		Villain
+	30		Ranger
+	31		Hunter
+	32		Bounty Hunter
+	33		Ranger Lord
+	34		Thief
+	35		Rogue
+	36		Assassin
+	37		Spy
+	38		Troll
+	39		War Troll
+	40		Vampire
+	41		Nosferatu
+	42		Sorcerer
+	43		Wizard
+	44		Necromancer
+	45		Lich
+	46		Arch Mage
+	47		Master Necromancer
+	48		Peasant
+	49		n/u
+	50		High Priest
+	51		Master Wizard
+	52		n/u

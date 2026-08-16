@@ -1,0 +1,1226 @@
+Table (of Game struct)	Id	Field	New text
+NPCDataTxt	0	Name	
+	1	Name	Brekish Onefang
+	2	Name	Dadeross
+	3	Name	Elgar Fellmoon
+	4	Name	Arion Hunter
+	5	Name	Bastian Loudrin
+	6	Name	Alliane Frelsig
+	7	Name	Overdune Snapfinger
+	8	Name	Aori Derrisai
+	9	Name	Sandro
+	10	Name	Thant
+	11	Name	Dyson Leland
+	12	Name	Icarus Dire
+	13	Name	Masul
+	14	Name	Helius
+	15	Name	Sir Charles Quixote
+	16	Name	Reginald Dorray
+	17	Name	Deftclaw Redreaver
+	18	Name	Zog the Jackal
+	19	Name	Xanthor
+	20	Name	Queen Catherine
+	21	Name	King Roland
+	22	Name	Escaton
+	23	Name	Pyrannaste
+	24	Name	Acwalander
+	25	Name	Gralkor the Cruel
+	26	Name	Shalwend
+	27	Name	S'ton
+	28	Name	Fredrick Talimere
+	29	Name	Rohtnax
+	30	Name	Pascella Tisk
+	31	Name	Brekish Onefang
+	32	Name	Dadeross
+	33	Name	Oskar Tyre
+	34	Name	Guard
+	35	Name	Guard
+	36	Name	Guard
+	37	Name	Guard
+	38	Name	Jeric Whistlebone
+	39	Name	Relburn Jeebes
+	40	Name	Elgar Fellmoon
+	41	Name	Dantillion 
+	42	Name	Cauri Blackthorne
+	43	Name	Volog Sandwind
+	44	Name	Sahil Ittalle
+	45	Name	Guard
+	46	Name	Dark Elf Pilgrim
+	47	Name	Farhill Snapfinger
+	48	Name	Zanthora
+	49	Name	Leane Stormlance
+	50	Name	Dervish Chevron
+	51	Name	Garret Deverro
+	52	Name	Sir Charles Quixote
+	53	Name	Deftclaw Redreaver
+	54	Name	Oskar Tyre
+	55	Name	Masul
+	56	Name	Sandro
+	57	Name	Thanys
+	58	Name	Tessalar
+	59	Name	Stephen
+	60	Name	Cleric of the Sun
+	61	Name	Vetrinus Taleshire
+	62	Name	Lathean
+	63	Name	Thant
+	64	Name	Derrin Delver
+	65	Name	Aislen
+	66	Name	Languid
+	67	Name	Hobb Sandwind
+	68	Name	Thistle
+	69	Name	Hiss
+	70	Name	Isthric the Tongue
+	71	Name	Maddigan the Tracker
+	72	Name	Wilburt
+	73	Name	Lathius
+	74	Name	Rihansi
+	75	Name	Reaver
+	76	Name	Keldon
+	77	Name	Galvinus
+	78	Name	Talion
+	79	Name	Veldon
+	80	Name	Dirthic
+	81	Name	Husk
+	82	Name	Hobert
+	83	Name	Kelvin
+	84	Name	Pole
+	85	Name	Xevius
+	86	Name	Schmecker
+	87	Name	Calindril
+	88	Name	Castigeir
+	89	Name	Balion Tearwing
+	90	Name	Avalon
+	91	Name	Jerin Flame-eye
+	92	Name	Zelim
+	93	Name	Tantilion
+	94	Name	Benefice
+	95	Name	Hallien
+	96	Name	One-Eye
+	97	Name	Long-Tail
+	98	Name	Treblid
+	99	Name	Gibere
+	100	Name	Mylander
+	101	Name	Whisper
+	102	Name	Irabelle Hunter
+	103	Name	Pavel
+	104	Name	Journey
+	105	Name	Neblick
+	106	Name	Cagnor
+	107	Name	Blazen Stormlance
+	108	Name	Dread Pirate Stanley
+	109	Name	Bryant Conlan
+	110	Name	Cahalli Evenall
+	111	Name	Harry Merit
+	112	Name	Aerie Luodrin
+	113	Name	Jaycin Cardron
+	114	Name	Miyon Dragontracker
+	115	Name	Herald Foestryke
+	116	Name	Jasp Hunter
+	117	Name	Garic Senjac
+	118	Name	Puddle Thain
+	119	Name	Celia Stone
+	120	Name	Tristen Stillwater
+	121	Name	Matric Townsaver
+	122	Name	Ashandra Withersmythe
+	123	Name	Yarrow
+	124	Name	Lori Vespers
+	125	Name	Jobber 
+	126	Name	Karla Nirses
+	127	Name	Shivan Keeneye
+	128	Name	Oberic Nosewort
+	129	Name	Solis
+	130	Name	Lisha Sourbrow
+	131	Name	Robert Morningstar
+	132	Name	Brother Hearthsworn
+	133	Name	Thadin 
+	134	Name	Shamus Hollyfield
+	135	Name	Medwari Elmsmire
+	136	Name	Tobren Forgewright
+	137	Name	Halian Eversmyle
+	138	Name	Seline Burnkindle
+	139	Name	Bone
+	140	Name	Botham
+	141	Name	Sethine Ironfist
+	142	Name	Qillain Moore
+	143	Name	Sheldon Nightwood
+	144	Name	Peryn Reaverston
+	145	Name	Taren Temper
+	146	Name	Solomon Steele
+	147	Name	Burn
+	148	Name	Ulbrecht Pederton
+	149	Name	Gregory Mist
+	150	Name	Black Current
+	151	Name	Reshie 
+	152	Name	Hollis Stormeye
+	153	Name	Cloud Nedlon
+	154	Name	Ostrin Grivic
+	155	Name	Dorothy Sablewood
+	156	Name	Griven
+	157	Name	Straton Hawthorne
+	158	Name	Bethold Kern
+	159	Name	Lasiter Ravensight
+	160	Name	Shane Krewlen
+	161	Name	Barbara Lotts
+	162	Name	Gilad Dreamwright
+	163	Name	Zevah Poised
+	164	Name	Tugor Arin
+	165	Name	Critias Snowtree
+	166	Name	Archibald Dawnsglow
+	167	Name	Lunius Dawnbringer
+	168	Name	Aldrin Cleareye
+	169	Name	Patwin Darkenmore
+	170	Name	Carla Umberpool
+	171	Name	Sithicus Shadowrunner
+	172	Name	Flynn Shador
+	173	Name	Douglas Dirthmoore
+	174	Name	Payge Arachnia
+	175	Name	Fedwin Dervish
+	176	Name	Lanshee Caverhill
+	177	Name	Ton Agraynel
+	178	Name	Ishton
+	179	Name	Erthint
+	180	Name	Klain Scarwing
+	181	Name	Chevon Wist
+	182	Name	Kelli Lightfingers
+	183	Name	Gareth Lifter
+	184	Name	Silk Nightwalker
+	185	Name	Helga Steeleye
+	186	Name	Balan Suretrail
+	187	Name	Fishner Thomb
+	188	Name	Fenton Iverson
+	189	Name	Raven Quicktoungue
+	190	Name	Petra Mithrit
+	191	Name	Garret Mistspring
+	192	Name	Wanda Lightsworn
+	193	Name	Alton Putnam
+	194	Name	Gretchin Nevermore
+	195	Name	Lenord Nightcrawler
+	196	Name	Menasaur 
+	197	Name	Kenneth Otterton
+	198	Name	Mikel Smithson
+	199	Name	Kyra Sparkmen
+	200	Name	Eithian 
+	201	Name	Elzbet Roggen
+	202	Name	Evandar Lotts
+	203	Name	Quick Jeni 
+	204	Name	Qethrin Tonk
+	205	Name	Tessa Maker
+	206	Name	Matric Keenedge
+	207	Name	Blacken Stonecleaver
+	208	Name	Norbert Slayer
+	209	Name	Lasatin the Scarred
+	210	Name	Jasper Steelcoif
+	211	Name	Tabitha Watershed
+	212	Name	Kethry Treasurestone
+	213	Name	Ich 
+	214	Name	Kethric Tarent
+	215	Name	William Sampson
+	216	Name	Ush the Many Tailed
+	217	Name	Elsie Apple
+	218	Name	Jillian Applebee
+	219	Name	Chadric Benson
+	220	Name	Mortie Bith
+	221	Name	Aznog Black
+	222	Name	Tonk Blueswan
+	223	Name	Turgon Bombah
+	224	Name	Karn Bowes
+	225	Name	Kerin Bremen
+	226	Name	Claderin Brightspear
+	227	Name	Cardric Caverhill
+	228	Name	Brother Crane
+	229	Name	Poundlin Deerhunter
+	230	Name	Isram Delver
+	231	Name	Dotes
+	232	Name	Weldrik Falconeye
+	233	Name	Dekian Farswell
+	234	Name	Brand Featherwind
+	235	Name	Kindle Fellburn
+	236	Name	Ashen Fiddlebone
+	237	Name	Sethrik Fist 
+	238	Name	Bigfist Slowstepper
+	239	Name	Zephyr
+	240	Name	Lara Gallowswell
+	241	Name	Gizmo Bertram 
+	242	Name	Heather Goblinreaver
+	243	Name	Benjamin Greenstorm
+	244	Name	Julian Greensward
+	245	Name	Myles Greydawn
+	246	Name	Xavier Havest
+	247	Name	Ethan Hillsman
+	248	Name	Holden
+	249	Name	Karlin Ivers
+	250	Name	Samuel Jack
+	251	Name	Payge Karrand
+	252	Name	Brigham Kinney
+	253	Name	Thomas Laraselle
+	254	Name	Asael Fromago
+	255	Name	Bazalath
+	256	Name	Loamwalker
+	257	Name	Soil
+	258	Name	Wingsail
+	259	Name	Vapor
+	260	Name	Riverglass
+	261	Name	Clearcreek
+	262	Name	Devlin Arcanus
+	263	Name	Fredrick Talimere
+	264	Name	Simon Templar
+	265	Name	Overdune Snaprfinger
+	266	Name	Arius
+	267	Name	Rohani Oscleton
+	268	Name	Elsbeth Lamentia
+	269	Name	Ithilgore
+	270	Name	Karanya Memoria
+	271	Name	Maylander 
+	272	Name	Leane Stormlance
+	273	Name	Volog Sandwind
+	274	Name	Thanys
+	275	Name	Jasp Thelbourne
+	276	Name	Gethric Mercutura
+	277	Name	Flamdring
+	278	Name	Hevatia Deverbero
+	279	Name	Verish 
+	280	Name	Nelix Uriel
+	281	Name	Sethrc Thistlebone
+	282	Name	Rionel
+	283	Name	Adric Stellare
+	284	Name	Infaustus 
+	285	Name	Brimstone
+	286	Name	Vetrinus Taleshire
+	287	Name	Dervish Chevron
+	288	Name	Tempus 
+	289	Name	Thorne Understone
+	290	Name	Ulbrecht
+	291	Name	Cauri Blackthorne
+	292	Name	Artorius Veritas
+	293	Name	Duroth the Eternal
+	294	Name	Nathaniel Roberts
+	295	Name	Dyson Leyland
+	296	Name	Blazen Stormlance
+	297	Name	troll
+	298	Name	minotaur
+	299	Name	darkelf
+	300	Name	vampire
+	301	Name	dragon
+	302	Name	necromancer
+	303	Name	cleric
+	304	Name	knight
+	305	Name	troll
+	306	Name	minotaur
+	307	Name	darkelf
+	308	Name	vampire
+	309	Name	dragon
+	310	Name	dragon
+	311	Name	Ember
+	312	Name	Evenblaze
+	313	Name	Arena Master
+	314	Name	Oracle
+	315	Name	Davee Sail
+	316	Name	Erik Jarblower
+	317	Name	Jarrena Marmon
+	318	Name	Pirate Paul
+	319	Name	Yoel Wargreen
+	320	Name	Pordo
+	321	Name	Vish
+	322	Name	Ferris
+	323	Name	Ex-captain Terrence
+	324	Name	Fenella Ferne
+	325	Name	Dierdra Wallace
+	326	Name	Nalani
+	327	Name	Rhetta Mercer
+	328	Name	Lizardman Peasant
+	329	Name	Lizardman Guard
+	330	Name	Dark Elf Peasant
+	331	Name	Dark Elf Guard
+	332	Name	Ogre Peasant
+	333	Name	Wererat Peasants
+	334	Name	Troll Peasant
+	335	Name	Dragon Hunter
+	336	Name	Necromancer Peasant
+	337	Name	Cleric Peasant
+	338	Name	Regnan Peasant
+	339	Name	Minotaur Peasant
+	340	Name	Lord Markham
+	341	Name	Thomas the Judge
+	342	Name	Margaret the Docent
+	343	Name	Ailyssa the Bard
+	344	Name	Sally
+	345	Name	Mr. Malwick
+	346	Name	Sal Sharktooth
+	347	Name	Brent Filiant
+	348	Name	Carolyn Weathers
+	349	Name	Roger Tellmar
+	350	Name	William Darvees
+	351	Name	Donna Wyrith
+	352	Name	Grant Valandir
+	353	Name	Mia Lucille
+	354	Name	William Lasker
+	355	Name	Seknit Undershadow
+	356	Name	Sir Charles Quixote
+	357	Name	William Setag
+	358	Name	Margaret the Docent
+	359	Name	Margaret the Docent
+	360	Name	Margaret the Docent
+	361	Name	Margaret the Docent
+	362	Name	Margaret the Docent
+	363	Name	Margaret the Docent
+	364	Name	Margaret the Docent
+	365	Name	Margaret the Docent
+	366	Name	Margaret the Docent
+	367	Name	Margaret the Docent
+	368	Name	Margaret the Docent
+	369	Name	Margaret the Docent
+	370	Name	Margaret the Docent
+	371	Name	Margaret the Docent
+	372	Name	Margaret the Docent
+	373	Name	Margaret the Docent
+	374	Name	Margaret the Docent
+	375	Name	Margaret the Docent
+	376	Name	Margaret the Docent
+	377	Name	Bartholomew Hume
+	378	Name	Stephan Sand
+	379	Name	Lawrence Mark
+	380	Name	Steagal Snick
+	381	Name	Leda Rowan
+	382	Name	Frederick Org
+	383	Name	Lysander Sweet
+	384	Name	Ebednezer Sower
+	385	Name	Rebecca Devine
+	386	Name	Daedalus Falk
+	387	Name	Thomas Grey
+	388	Name	Halfgild Wynac
+	389	Name	Anthony Green
+	390	Name	Tor Anwyn
+	391	Name	Faerie King
+	392	Name	The Oldest Tree
+	393	Name	Alice Hargreaves
+	394	Name	Bartholomew Hume
+	395	Name	Golem
+	396	Name	Baby Dragon
+	397	Name	Butler
+	398	Name	Hothfarr IX
+	399	Name	Drathen Keldin
+	400	Name	Jaycen Keldin
+	401	Name	Yarrow Keldin
+	402	Name	Fausil Keldin
+	403	Name	Red Keldin
+	404	Name	Thom Keldin
+	405	Name	Arvin Keldin
+	406	Name	Ellen Rockway
+	407	Name	Alain Hani
+	408	Name	Queen Catherine
+	409	Name	ElfKing
+	410	Name	Loren Steel
+	411	Name	Fake Loren
+	412	Name	Messenger
+	413	Name	Judge Grey
+	414	Name	Ambassador Wright
+	415	Name	Ambassador Scale
+	416	Name	Judge Fairweather
+	417	Name	Judge Sleen
+	418	Name	Gavin Magnus
+	419	Name	Resurectra
+	420	Name	Crag Hack
+	421	Name	Sir Caneghem
+	422	Name	Robert the Wise
+	423	Name	Kastore
+	424	Name	Maximus
+	425	Name	Dark Shade
+	426	Name	Tolberti
+	427	Name	Archibald Ironfist
+	428	Name	Temple of Light
+	429	Name	Temple of Dark
+	430	Name	Messenger
+	431	Name	Lady Carmine
+	432	Name	Tarin Withern
+	433	Name	Mazim Dusk
+	434	Name	Davrik Peladium
+	435	Name	Norbert Thrush
+	436	Name	Johann Kerrid
+	437	Name	Messenger
+	438	Name	Niles Stantley
+	439	Name	Spark Burnkindle
+	440	Name	Ton Withersmythe
+	441	Name	Elsie Pederton
+	442	Name	Jillian Mithrit
+	443	Name	Payge Rivenhill
+	444	Name	Tugor Slicer
+	445	Name	Chadric Townsaver
+	446	Name	Mortie Ottin
+	447	Name	Aznog Slasher
+	448	Name	Tonken Fist
+	449	Name	Turgon Woodsplitter
+	450	Name	Dalin Keenedge
+	451	Name	Karn Stonecleaver
+	452	Name	Kerin Greydawn
+	453	Name	Claderin Silverpoint
+	454	Name	Seline Falconeye
+	455	Name	Jaycin Suretrail
+	456	Name	Lanshee Ravensight
+	457	Name	Cardric the Steady
+	458	Name	Aldrin Tamloc
+	459	Name	Brother Rothham
+	460	Name	Patwin Fellbern
+	461	Name	Lunius Shador
+	462	Name	Archibald Ironfist
+	463	Name	Grand Master Blaster
+	464	Name	Poundlin Lotts
+	465	Name	Isram Gallowswell
+	466	Name	Fedwin Smithson
+	467	Name	Douglas Iverson
+	468	Name	Rabisa Nedlon
+	469	Name	Miyon the Quick
+	470	Name	Gilad Bith
+	471	Name	Medwari Dragontracker
+	472	Name	Halian Nevermore
+	473	Name	Weldrik Lotts
+	474	Name	Dekian Forgewright
+	475	Name	Brand the Maker
+	476	Name	Kindle Treasurestone
+	477	Name	Ashen Temper
+	478	Name	Blayze 
+	479	Name	Sethrik Windsong
+	480	Name	Rislyn Greenstorm
+	481	Name	Gayle
+	482	Name	Herald Whitecap
+	483	Name	Tobren Rainshield
+	484	Name	Torrent
+	485	Name	Johanson Kern
+	486	Name	Lara Stonewright
+	487	Name	Avalanche
+	488	Name	Bertram Stillwater
+	489	Name	Heather Dreamwright
+	490	Name	Benjamin the Balanced
+	491	Name	Julian the Delver
+	492	Name	Myles Featherwind
+	493	Name	Xavier Bremen
+	494	Name	Straton Hillsman
+	495	Name	Brother Bombah
+	496	Name	Tempus
+	497	Name	Ethan Lightsworn
+	498	Name	Helena Morningstar
+	499	Name	Shamus Dawnbringer
+	500	Name	Jasp the Nightcrawler
+	501	Name	Seth Darkenmore
+	502	Name	Karlin Arachnia
+	503	Name	Fenton Krewlen
+	504	Name	Samuel Benson
+	505	Name	Payge Blueswan
+	506	Name	Matric Weatherson
+	507	Name	Bethold Caverhill
+	508	Name	Brigham the Frugal
+	509	Name	Shane Thomas
+	510	Name	Thomas Moore
+	511	Name	Gareth the Fixer
+	512	Name	Kelli Hollyfield
+	513	Name	Wanda Foestryke
+	514	Name	Evandar Thomas
+	515	Name	Barbara Wiseman
+	516	Name	Tessa Greensward
+	517	Name	Kaine
+	518	Name	Gregory Weider
+	519	Name	Garret Dotes
+	520	Name	Petra Cleareye
+	521	Name	Qillain Laraselle
+	522	Name	Robert Sourbrow
+	523	Name	Cloud Agraynel
+	524	Name	Expert Thievery
+	525	Name	Master Thievery
+	526	Name	Grand Master Thievery
+	527	Name	Gretchin Fiddlebone
+	528	Name	Lenord Skinner
+	529	Name	Silk Quicktoungue
+	530	Name	Sheldon Mist
+	531	Name	Oberic Crane
+	532	Name	Kenneth Wain
+	533	Name	Kira Steeleye
+	534	Name	Ulbrecht the Brawler
+	535	Name	Norris 
+	536	Name	Alton Black
+	537	Name	Jeni Swiftfoot
+	538	Name	Raven the Hunter
+	539	Name	Edgar Botham
+	540	Name	Paula Brightspear
+	541	Name	Lasiter the Slayer
+	542	Name	Peryn Lightfingers
+	543	Name	Leane Shadowrunner
+	544	Name	Everil Nightwalker
+	545	Name	Edgar Willowbark
+	546	Name	Elzbet Winterspoon
+	547	Name	Lucid Apple
+	548	Name	Agatha Putnam
+	549	Name	Dorothy Senjac
+	550	Name	William Smithson
+	551	Name	Garic Hawthorne
+	552	Name	Flynn Arin
+	553	Name	Smiling Jack
+	554	Name	Wort Goblinreaver
+	555	Name	Cassandra Holden
+	556	Name	Wil Rudyman
+	557	Name	Norbert Havest
+	558	Name	Expert Blaster
+	559	Name	Randal Wolverton
+	560	Name	Mikel Deerhunter
+	561	Name	Tricia Steelcoif
+	562	Name	Critias Burnkindle
+	563	Name	Lisha Redding
+	564	Name	Kyra Stormeye
+	565	Name	Karla Ravenhair
+	566	Name	Jasper Welman
+	567	Name	Solomon Riverstone
+	568	Name	Helga Whitesky
+	569	Name	Tristen Hearthsworn
+	570	Name	Celia Sparkmen
+	571	Name	Blacken Reaverston
+	572	Name	Hollis the True
+	573	Name	Jobber Thain
+	574	Name	Balan Gizmo
+	575	Name	Trip Thorinson
+	576	Name	Stewart Whitesky
+	577	Name	Kethric Otterton
+	578	Name	Expert Diplomacy
+	579	Name	Expert Thievery
+	580	Name	Taren the Lifter
+	581	Name	Spyder 
+	582	Name	Puddle Stone
+	583	Name	Christie Nosewort
+	584	Name	Trent Steele
+	585	Name	Elmo the Pincher
+	586	Name	Bryce Watershed
+	587	Name	Issac Applebee
+	588	Name	Matric Bowes
+	589	Name	Kethry Dawnsglow
+	590	Name	Lita Roggen
+	591	Name	Carla Tarent
+	592	Name	Patrice Vespers
+	593	Name	Lori Winterbright
+	594	Name	Illene Farswell
+	595	Name	Tabitha Mistspring
+	596	Name	Janet Thomas
+	597	Name	Dennis Caverhill
+	598	Name	Pedron Sablewood
+	599	Name	Devon Ivers
+	600	Name	Therese Umberpool
+	601	Name	Feldin Urthsmite
+	602	Name	Alise Nightwood
+	603	Name	Wilbur Eversmyle
+	604	Name	Malisha Karrand
+	605	Name	Yarrow Elmsmire
+	606	Name	Tilgar Dirthmoore
+	607	Name	Ashandra Snowtree
+	608	Name	Ronald Kinney
+	609	Name	Heather Cardron
+	610	Name	Halain Sampson
+	611	Name	Rawn Dervish
+	612	Name	Guard
+	613	Name	Guard
+	614	Name	Guard
+	615	Name	Guard
+	616	Name	Castle Guard
+	617	Name	Castle Guard
+	618	Name	Castle Guard
+	619	Name	Castle Guard
+	620	Name	Eric Swarrel
+	621	Name	Guard
+	622	Name	Guard
+	623	Name	Seth Drakkson
+	624	Name	Darron Temper
+	625	Name	Gary Zimm
+	626	Name	Roland Ironfist
+	627	Name	Thom Lumbra
+	628	Name	Ferdinand Visconti
+	629	Name	Gina Barnes
+	630	Name	Tiricia Lambert
+	631	Name	Timothy Hawk
+	632	Name	Heather Hughes
+	633	Name	Geofery Hamic
+	634	Name	Irving Kull
+	635	Name	Polera Skulk
+	636	Name	Agatha Noble
+	637	Name	Vincent Albers
+	638	Name	Dallia Sparks
+	639	Name	Arena Master
+	640	Name	Adam McCarthy
+	641	Name	Alex Sherman
+	642	Name	Andrew Grumm
+	643	Name	April Lee
+	644	Name	Benjamin Bent
+	645	Name	Bill Nesemeier
+	646	Name	Bob Young
+	647	Name	Bonnie Long-Hemssath
+	648	Name	Brian DeMetz
+	649	Name	Brian Kemper
+	650	Name	Bryan Farina
+	651	Name	Carl Pinder
+	652	Name	Charles Zilm
+	653	Name	Chris Bates
+	654	Name	Chris Rock
+	655	Name	Christian Vanover
+	656	Name	Chuck Russom
+	657	Name	Dave Botan
+	658	Name	David Mullich
+	659	Name	David Richey
+	660	Name	David Vela
+	661	Name	Dean Gibson
+	662	Name	Edward Hudson
+	663	Name	George Almond
+	664	Name	George Ruof
+	665	Name	Greg Fulton
+	666	Name	Gus Smedstad 
+	667	Name	Ian Bullard
+	668	Name	Jack Russell
+	669	Name	James Dickinson
+	670	Name	Jeff Bigman
+	671	Name	Jeff Blattner
+	672	Name	Jeff Leggett
+	673	Name	Jennifer Bullard
+	674	Name	Joel Kelly 
+	675	Name	John Bolton
+	676	Name	John Gibson
+	677	Name	John Krause
+	678	Name	John Machin
+	679	Name	John Slowsky
+	680	Name	Jon Van Caneghem
+	681	Name	Julia Ulano
+	682	Name	Keith Francart
+	683	Name	Keith Talanay
+	684	Name	Ken Spencer
+	685	Name	Ken Thomson
+	686	Name	Kurt McKeever
+	687	Name	Lisa Whitman
+	688	Name	Lou Henderson
+	689	Name	Marcus Pregent
+	690	Name	Mark Caldwell
+	691	Name	Michael Wolf 
+	692	Name	Nicco Wargon 
+	693	Name	Paul Rattner
+	694	Name	Peter ""Zoop"" Ryu
+	695	Name	Phelan Sykes
+	696	Name	Rebecca Christel
+	697	Name	Riki Corredera 
+	698	Name	Robert King
+	699	Name	Ryan Den
+	700	Name	Scott White
+	701	Name	Steve Baca
+	702	Name	Steve Jasper
+	703	Name	Steve Wasaff
+	704	Name	Tim Lang
+	705	Name	Tracy Iwata
+	706	Name	Walter Johnson
+	707	Name	Devin Chapman
+	708	Name	Derek Chester
+	709	Name	Eric Williamson
+	710	Name	Tom Zeliff
+	711	Name	Lord Roberts
+	712	Name	Amethyst Gemstone
+	713	Name	Wacko the Ninja
+	714	Name	Andrew YC Pupedis
+	715	Name	Just_A_Brain
+	716	Name	Mephisto, Ancient Sorcerer
+	717	Name	Contest Winner 7
+	718	Name	King Louis
+	719	Name	Rydric
+	720	Name	Guthwulf
+	721	Name	Aaron Castro
+	722	Name	Pip Hillier
+	723	Name	Robert Belknap
+	724	Name	Infernon
+	725	Name	Wacko
+	726	Name	Your Conscience
+	727	Name	Amethyst Gemstone
+	728	Name	Matthias Bearheart
+	729	Name	Tanya Kirklynn
+	730	Name	Brahein Kadarr
+	731	Name	Karlin Talion
+	732	Name	Peggy Tish
+	733	Name	Kira Cardrin
+	734	Name	Inja Yew
+	735	Name	Alik Whitemoon
+	736	Name	Damon Hawker
+	737	Name	Claes Mogren
+	738	Name	Licia Rivenrock
+	739	Name	Feldspar Toolmen
+	740	Name	Jasper Fissure
+	741	Name	Kelly Garnet
+	742	Name	Regina Fern
+	743	Name	Thed Robynson
+	744	Name	Tasha Vale
+	745	Name	Relburn Ditch
+	746	Name	Auric Goldsmith
+	747	Name	Darek Halover
+	748	Name	Diana Dedrick
+	749	Name	Sioned Warsen
+	750	Name	Deedra Brewer
+	751	Name	Solitare Bainful
+	752	Name	Tiana Withern
+	753	Name	Therenda Evermorn
+	754	Name	Tamara Anders
+	755	Name	Roberta Theben
+	756	Name	Samantha Kilvers
+	757	Name	Tabitha Yerin
+	758	Name	Jasmine Jeavers
+	759	Name	Mattric Bowes
+	760	Name	Alashandra Reese
+	761	Name	Calindra Goldensight
+	762	Name	Arvin Beneclowd
+	763	Name	Nivek Arlond
+	764	Name	Mireille Warlin
+	765	Name	Shiara FireOpal
+	766	Name	Linda Draken
+	767	Name	Ferris Oxhide
+	768	Name	Jayce Kedrin
+	769	Name	Giliyan Redfern
+	770	Name	Karzon Skyefyre
+	771	Name	Rainyn Rivencrest
+	772	Name	Tom Ono
+	773	Name	Karl Drown
+	774	Name	Tony Evans
+	775	Name	Chris Miller
+	776	Name	Carl Pindor
+	777	Name	Eric Heffron
+	778	Name	Hairbaugh
+	779	Name	Rawn Talreisch
+	780	Name	Guard
+	781	Name	Peni Pretty
+	782	Name	Tallia Ravenswood
+	783	Name	Harli Quinn
+	784	Name	Madigan Tarent
+	785	Name	Garion Ramiez
+	786	Name	Andover Potbello
+	787	Name	Maria
+	788	Name	Frank Fairchild
+	789	Name	Wilbur Humphrey
+	790	Name	Albert Newton
+	791	Name	Osric Temper
+	792	Name	Chadwick Blackpoole
+	793	Name	Oracle
+	794	Name	The Seer
+	795	Name	Marton Ferris
+	796	Name	Melody Silver
+	797	Name	Archibald Ironfist
+	798	Name	Nicolai Ironfist
+	799	Name	Loretta Fleise
+	800	Name	Erik Von Stromgard
+	801	Name	Anthony Stone
+	802	Name	The Prince of Thieves
+	803	Name	Verdant
+	804	Name	The Hermit on the Mountain
+	805	Name	Aaron Strongmun
+	806	Name	Bernard Jacobs
+	807	Name	Benito Tellman
+	808	Name	Forrest Suthers
+	809	Name	John Tuck
+	810	Name	Kyle Lutvig
+	811	Name	David Feather
+	812	Name	Rich Hamburg
+	813	Name	Susan Handlebaum
+	814	Name	Will Ottoman
+	815	Name	Noah White
+	816	Name	Calvin Black
+	817	Name	Avinril Smythers 
+	818	Name	Harold Hess
+	819	Name	Jacques Kohl
+	820	Name	Tim O'Hoolihan
+	821	Name	Fredrick Piles
+	822	Name	Charles D'Sorpigal
+	823	Name	Kent Williams
+	824	Name	Gordon Styles
+	825	Name	Dorf
+	826	Name	Twillen
+	827	Name	Terrance Smith
+	828	Name	Samson Tess
+	829	Name	Harper Collins
+	830	Name	Arlen Sailor
+	831	Name	Bertrand Scrivner
+	832	Name	Peter Ivanovich
+	833	Name	Michael Ogilvy
+	834	Name	Bernice Hatter
+	835	Name	Tess Tucker
+	836	Name	Hector Dragged
+	837	Name	Guy Hampton
+	838	Name	Horace Rose
+	839	Name	Falagar
+	840	Name	Gilbert Hammer
+	841	Name	Leon Lazaru
+	842	Name	Macro Caligula
+	843	Name	Orville Corvair
+	844	Name	Lucky Oster
+	845	Name	Gonzalo Ramirez
+	846	Name	Marcellus Lutvig
+	847	Name	Erik Salzburg
+	848	Name	Ahmed A'sanzi
+	849	Name	Sergio Carrington
+	850	Name	Saad Shamel
+	851	Name	Ghim Hammond
+	852	Name	Walter Hargreaves
+	853	Name	Virgil Holiday
+	854	Name	Warren Holmes
+	855	Name	Tyler Tailor
+	856	Name	Sylvester Moor
+	857	Name	Victor Hosen
+	858	Name	Thane Roper
+	859	Name	Oliver Wendell
+	860	Name	Winston Historian
+	861	Name	Zoltan Phelps
+	862	Name	Andrew Besper
+	863	Name	Ellen Rockway
+	864	Name	Olaf Berring
+	865	Name	Nadine Hayden
+	866	Name	Isao Magistrus
+	867	Name	Livia Farrel
+	868	Name	Enoch Highridge
+	869	Name	Edgar Carpenter
+	870	Name	Hans Gifford
+	871	Name	Isaac Streetman
+	872	Name	Twillen
+	873	Name	Naomi Highland
+	874	Name	Errol Ostermann
+	875	Name	Gabe Lester
+	876	Name	Dickson Parks
+	877	Name	Takao
+	878	Name	Jed Morrison
+	879	Name	Douglas Hill
+	880	Name	Elton Astrogate
+	881	Name	Morton Holovin
+	882	Name	Newt Headrow
+	883	Name	Jasmine Spicer
+	884	Name	Helen Teal
+	885	Name	Pat
+	886	Name	Jessica Carson
+	887	Name	Faith Kellenmoor
+	888	Name	Ginger Astor
+	889	Name	Yvonne D'arcy
+	890	Name	Jezebel
+	891	Name	Pat Skylark
+	892	Name	Doreen Espana
+	893	Name	Emmanuel Cravitz
+	894	Name	Revee Botania
+	895	Name	Deth Macbre
+	896	Name	Hugger Brother
+	897	Name	Hugger Brother
+	898	Name	Hugger Brother
+	899	Name	Hugger Brother
+	900	Name	Graham Dancey
+	901	Name	Wendy Featherhill
+	902	Name	Dolores Craft
+	903	Name	Joanne Cravitz
+	904	Name	Holly Struthers
+	905	Name	Ike Pargrew
+	906	Name	Corey Rozburg
+	907	Name	Preston Harper
+	908	Name	Tina Sheltan
+	909	Name	Roxanne Sheltan
+	910	Name	Tara D'Cathay
+	911	Name	Vera Grasslin
+	912	Name	Emma Terrance
+	913	Name	Olivia Trumpet
+	914	Name	Rebecca Traveler
+	915	Name	Rexella 
+	916	Name	Miriam Goodwife
+	917	Name	Dominique Juarez
+	918	Name	Gretchen Fallzen
+	919	Name	Edna Harmenov
+	920	Name	Julie Cooper
+	921	Name	Ethel Armstrong
+	922	Name	Bernice Weaver
+	923	Name	Bishop Iquisitorio
+	924	Name	Eva Semple
+	925	Name	Gail Ashtengard
+	926	Name	Daphne Calloway
+	927	Name	Stephen Biggs
+	928	Name	Lilly June
+	929	Name	Peggy Woods
+	930	Name	Maria
+	931	Name	Alice Ofenhauser
+	932	Name	Cyrus Montebleu
+	933	Name	Donald Retzer
+	934	Name	Cody Ripper
+	935	Name	Tracy Flauta
+	936	Name	Carol Rossini
+	937	Name	Stephanie Pavlov
+	938	Name	Sandra Trudoor
+	939	Name	Violet Dawson
+	940	Name	Sherell Ivanaveh
+	941	Name	Elsie Freedman
+	942	Name	Beverly Sweetwater
+	943	Name	Florimel Evylen
+	944	Name	Stacy Flanders
+	945	Name	Belinda Pikeman
+	946	Name	Connie Lettering
+	947	Name	Chandra Stripling
+	948	Name	Jean Acton
+	949	Name	Clyde Dagget
+	950	Name	Kathleen Mester
+	951	Name	Mynasia
+	952	Name	Amber Praetor
+	953	Name	Cassandra Timmon
+	954	Name	Michele Blackshire
+	955	Name	Carly Rotterdam
+	956	Name	Gabriel Cartman
+	957	Name	Casey Ludwig
+	958	Name	Sheila Loompus
+	959	Name	Judith Shoemaker
+	960	Name	Selena Stipe
+	961	Name	Wilma Rothwing
+	962	Name	Ivan Magyar
+	963	Name	Nicholas Roth
+	964	Name	Bonnie Rotterdam
+	965	Name	Caao Salem
+	966	Name	Bronwyn Meck
+	967	Name	Randall Norris
+	968	Name	Telelocator
+	969	Name	Heidi Strumper
+	970	Name	Igor
+	971	Name	Iris Poppyfield
+	972	Name	Jason Traveler
+	973	Name	Desmond Weller
+	974	Name	Jack Crow
+	975	Name	Harriet Waters
+	976	Name	Avilia Asheed
+	977	Name	Kevin Watch
+	978	Name	Sharry Carnegie
+	979	Name	Jo Handlebaum
+	980	Name	Angela Dawson
+	981	Name	Arthur O'Leery
+	982	Name	Ambrose Brusse
+	983	Name	Fletcher Tormengast
+	984	Name	Elijah Skylark
+	985	Name	Carlo Tormini
+	986	Name	Emil Lime
+	987	Name	Kern Carnegie
+	988	Name	Logan Dasher
+	989	Name	Flossie Setering
+	990	Name	Dolores Fischer
+	991	Name	Burton Rutherford
+	992	Name	Buford T. Allman
+	993	Name	Jack Van Imp
+	994	Name	Rexella Van Imp
+	995	Name	Jules Miles
+	996	Name	Ryan Treacle
+	997	Name	Maria Trepan
+	998	Name	Cheryl Duncan
+	999	Name	Woodrow Albright
+	1000	Name	Droppa MaPantz
+	1001	Name	Taro
+	1002	Name	Madeleine Towers
+	1003	Name	Fabian Sun
+	1004	Name	Bandar Jahrom
+	1005	Name	Thari Mirumoto
+	1006	Name	Kai Lian
+	1007	Name	Eunbo Kim
+	1008	Name	Hitomi Mirumoto
+	1009	Name	Sila Daewon
+	1010	Name	Abdulai Mahgreb
+	1011	Name	Chitania Retiani
+	1012	Name	Sigriv
+	1013	Name	Myyra Hian
+	1014	Name	Norio Ariganaka
+	1015	Name	Shoshi Pertoniki
+	1016	Name	Leah Lu
+	1017	Name	Rodinia Sidara
+	1018	Name	Indihir Vilandi
+	1019	Name	Ta Li No Gharma
+	1020	Name	Ackbar
+	1021	Name	Li Tizare
+	1022	Name	Soon Lu
+	1023	Name	Zodahn Delphi
+	1024	Name	Lori Tao
+	1025	Name	Sri Retiani
+	1026	Name	Daila Chow
+	1027	Name	Gohei Matsu
+	1028	Name	Shileka Toreena
+	1029	Name	Melody Stone
+	1030	Name	Rebecca Calaway
+	1031	Name	Virginia Standridge
+	1032	Name	Dana Fenster
+	1033	Name	Roxina Smolenska
+	1034	Name	Beth Thompson
+	1035	Name	Wilma Cook
+	1036	Name	Lesiah Marduk
+	1037	Name	Miro Shinek
+	1038	Name	Anawah
+	1039	Name	Mihi Mihi Nanook
+	1040	Name	Su Lang Manchu
+	1041	Name	Nigan
+	1042	Name	Kachiko Toranaga
+	1043	Name	Jasper Rice
+	1044	Name	Isao Tizare
+	1045	Name	Heather Mitchell
+	1046	Name	Linda Nichols
+	1047	Name	Svetlanta Irktusk
+	1048	Name	Rachel Herzl
+	1049	Name	Rosemarie Reyjavik
+	1050	Name	Miriam Boyer
+	1051	Name	Naomi Wind
+	1052	Name	Eleanor Vanderbilt
+	1053	Name	Gertrude Whaler
+	1054	Name	Amanda Van De Camp
+	1055	Name	Sharla Quinn
+	1056	Name	Deliah Bwana
+	1057	Name	Ki Lo Nee
+	1058	Name	Rosita Alexander
+	1059	Name	Ral
+	1060	Name	Nikobi
+	1061	Name	Beauregard Wolf
+	1062	Name	Lysander Farrel
+	1063	Name	Becky Holmes
+	1064	Name	Kim Astrogate
+	1065	Name	William Tucker
+	1066	Name	Dennis Johnson
+	1067	Name	Jennifer Herzl
+	1068	Name	Christopher Smith
+	1069	Name	George Almond
+	1070	Name	Daniel Carnegie
+	1071	Name	Carrie Calaway
+	1072	Name	Dini Mahgreb
+	1073	Name	Hejaz Mawsil
+	1074	Name	Barrad Unter
+	1075	Name	Winston Schezar
+	1076	Name	Janice
+	1077	Name	Earnest
+	1078	Name	Jake
+	1079	Name	Ghost of John Silver
+	1080	Name	Ghost of Balthasar
+	1081	Name	Urok
+	1082	Name	Arius Peleth
+	1083	Name	Lord of Fire
+	1084	Name	Preston Steel
+	1085	Name	Tori Goldman
+	1086	Name	Isaac Rockwell
+	1087	Name	Olaf Heimdall
+	1088	Name	Euclid Kepler
+	1089	Name	Slicker Silvertongue
+	1090	Name	Loretta Fleise
+	1091	Name	Loretta Fleise
+	1092	Name	Runaway Chaos
+	1093	Name	Slovang Arcanos
+	1094	Name	Brian Telemere
+	1095	Name	Ken Chomais
+	1096	Name	Christian Vela
+	1097	Name	Michael Tuck
+	1098	Name	Anthony Hargraine
+	1099	Name	Miles Loman
+	1100	Name	Zeke Magellan
+	1101	Name	Tyger Helms
+	1102	Name	Wolf Armstrong
+	1103	Name	Rockwell Humdring
+	1104	Name	Carl Moramir
+	1105	Name	Vance Cornelius
+	1106	Name	Norris Horton
+	1107	Name	Stile Bloke
+	1108	Name	Abdul
+	1109	Name	Najat Ramadi
+	1110	Name	Hans Schultz
+	1111	Name	Donald Dorfus
+	1112	Name	Richard Harp
+	1113	Name	Stephen Iago
+	1114	Name	Lawrence Aleman
+	1115	Name	Terry Ros
+	1116	Name	Alex Morrow
+	1117	Name	Castor Lithgow
+	1118	Name	Egor Ivanovich
+	1119	Name	Jacques Roscomon
+	1120	Name	Shiela Wind
+	1121	Name	Bronwyn Blue
+	1122	Name	Daniel Forosmini
+	1123	Name	Bejamin Sotherland
+	1124	Name	Harold Amwen
+	1125	Name	Leo Grant
+	1126	Name	Lorn Hammer
+	1127	Name	David Pike
+	1128	Name	Barry Shepherd
+	1129	Name	Robin Lang
+	1130	Name	Dom Malikto
+	1131	Name	Josef Logger
+	1132	Name	Jult Bandito
+	1133	Name	Piter Harkonnen
+	1134	Name	Saul Fogg
+	1135	Name	Arther Jelnic
+	1136	Name	Abe Markoviac
+	1137	Name	Shel Stineway
+	1138	Name	Les Parker
+	1139	Name	Ray Boswell
+	1140	Name	Sly Silverstone
+	1141	Name	Marc Teagan
+	1142	Name	Harper Nike
+	1143	Name	Trevor Jones
+	1144	Name	Gerrold Dane
+	1145	Name	Peace Stringer
+	1146	Name	Trent Jameson
+	1147	Name	Yves Meeks
+	1148	Name	Dean Frimple
+	1149	Name	Lisa Janway
+	1150	Name	Tor Brock
+	1151	Name	Cheryl Ahmanson
+	1152	Name	Lyle Roma
+	1153	Name	Renee Blackburn
+	1154	Name	Lon Miller
+	1155	Name	Davis Carp
+	1156	Name	Nick Fenster
+	1157	Name	Sy Roth
+	1158	Name	Mort Arnosti
+	1159	Name	Geoff Southy
+	1160	Name	Dillan Robinson
+	1161	Name	Ian Trom
+	1162	Name	Darth Cartwright
+	1163	Name	Jason Duster
+	1164	Name	Paul Hapsburg
+	1165	Name	Kerman Murian
+	1166	Name	Irbil Baktarian
+	1167	Name	Tracy Neather
+	1168	Name	Ty Cognac
+	1169	Name	Joy Brown
+	1170	Name	Larry Dorfmann
+	1171	Name	Nero Claudius
+	1172	Name	Drusis Tiberio
+	1173	Name	Iris Amble
+	1174	Name	Candice Streep
+	1175	Name	Rus Hockwoller
+	1176	Name	Jake Green
+	1177	Name	Blaze the Circus Master
+	1178	Name	Sir William Tarquin
+	1179	Name	Pip Darkstone
+	1180	Name	Shalaz Zalas
+	1181	Name	Azure Windsong
+	1182	Name	Gnimish Goroth
+	1183	Name	Teleron Prentice
+	1184	Name	Random MapNPC 1
+	1185	Name	Random MapNPC 2
+	1186	Name	Random MapNPC 3
+	1187	Name	Random MapNPC 4
+	1188	Name	Random MapNPC 5
+	1189	Name	Random MapNPC 6
+	1190	Name	Random MapNPC 7
+	1191	Name	Random MapNPC 8
+	1192	Name	Random MapNPC 9
+	1193	Name	Random MapNPC 10
+	1194	Name	Random MapNPC 11
+	1195	Name	Random MapNPC 12
+	1196	Name	Random MapNPC 13
+	1197	Name	Random MapNPC 14
+	1198	Name	Random MapNPC 15
+	1199	Name	Random MapNPC 16
+	1200	Name	Random MapNPC 17
+	1201	Name	Random MapNPC 18
+	1202	Name	Random MapNPC 19
+	1203	Name	Random MapNPC 20
+	1204	Name	Random MapNPC 21
+	1205	Name	Random MapNPC 22
+	1206	Name	Random MapNPC 23
+	1207	Name	Random MapNPC 24
+	1208	Name	Random MapNPC 25
+	1209	Name	Random MapNPC 26
+	1210	Name	Random MapNPC 27
+	1211	Name	Random MapNPC 28
+	1212	Name	Random MapNPC 29
+	1213	Name	Random MapNPC 30
+	1214	Name	Random MapNPC 31
+	1215	Name	Random MapNPC 32
+	1216	Name	Random MapNPC 33
+	1217	Name	Random MapNPC 34
+	1218	Name	Random MapNPC 35
+	1219	Name	Random MapNPC 36
+	1220	Name	Random MapNPC 37
+	1221	Name	Random MapNPC 38
+	1222	Name	Random MapNPC 39
+	1223	Name	Random MapNPC 40
+	1224	Name	Random MapNPC 41

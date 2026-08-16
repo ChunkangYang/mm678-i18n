@@ -543,14 +543,70 @@ def generateAllPoFiles(potDict):
 	for currentLang in nonFirstLangs:
 		generatePoFile(potDict, False, currentLang)
 
-# compile all .po to .mo files
+def discoveredLangs():
+	return sorted(x.name for x in Path(settings.i18n_folder).glob('*') if x.is_dir())
+
+
+# regenerate the derived languages' .po from their source language
+# (config/languages.py DERIVED_LANGUAGES, e.g. zh_TW from zh_CN via OpenCC)
+def deriveLanguages():
+	from config.languages import DERIVED_LANGUAGES
+	from . import zhconvert
+	for target, (srcLang, method) in DERIVED_LANGUAGES.items():
+		zhconvert.run(method = method, sourceLang = srcLang, targetLang = target)
+
+
+# compile all .po to .mo files (derived languages regenerated first)
 def po2Mo():
-	for currentLang in i18nDirLangs:
+	deriveLanguages()
+	for currentLang in discoveredLangs():
 		p = Path(settings.i18n_folder).joinpath(currentLang).joinpath('LC_MESSAGES').joinpath(settings.textdomain + '.po')
 		if not p.is_file():
 			log('No .po file for language ' + currentLang + ' (' + str(p) + '), skipped.')
 			continue
 		polib.pofile(str(p)).save_as_mofile(str(p.with_suffix('.mo')))
+
+
+# non-destructive .po update after template/source changes: regenerate dev
+# and a fresh .pot, then merge every existing .po against it. Translations
+# are preserved; new strings appear untranslated, removed ones go obsolete.
+# GNU msgmerge is used when on PATH (adds fuzzy matching for changed
+# strings); the polib merge otherwise. Derived languages are skipped (they
+# are regenerated from their source language at build time).
+def updatePo():
+	import shutil
+	import subprocess
+	from config.languages import DERIVED_LANGUAGES
+
+	globalLineDict = template2GlobalLineDict()
+	source1stLang2MsgidList(globalLineDict)
+	source1stLang2Dev(globalLineDict)
+	potDict = globalLineDict2PotDict(globalLineDict)
+	generatePoFile(potDict)
+	potPath = Path(settings.i18n_folder).joinpath(settings.textdomain + '.pot')
+	msgmerge = shutil.which('msgmerge')
+	for currentLang in discoveredLangs():
+		if currentLang in DERIVED_LANGUAGES:
+			continue
+		poPath = Path(settings.i18n_folder).joinpath(currentLang, 'LC_MESSAGES', settings.textdomain + '.po')
+		if not poPath.is_file():
+			continue
+		if msgmerge:
+			subprocess.run([msgmerge, '--update', '--backup=off', '--no-wrap',
+				str(poPath), str(potPath)], check = True)
+		else:
+			po = polib.pofile(str(poPath))
+			po.merge(polib.pofile(str(potPath)))
+			po.save(str(poPath))
+		total = translated = 0
+		for e in polib.pofile(str(poPath)):
+			if e.obsolete:
+				continue
+			total += 1
+			if e.msgstr:
+				translated += 1
+		print('updated %s: %d entries, %d translated, %d untranslated'
+			% (poPath, total, translated, total - translated))
 
 # get dev text functions from all dev modules
 def getDevTextDict():
@@ -566,6 +622,22 @@ def getDevTextDict():
 	return devTextDict
 
 # generate prod files for a single language
+# untranslated strings fall back to the English source text, which can hold
+# characters the target game encoding cannot express (e.g. 'ï' in gb2312):
+# transliterate those to their base ASCII instead of failing the build
+def _translitError(e):
+	import unicodedata
+	out = []
+	for ch in e.object[e.start:e.end]:
+		d = unicodedata.normalize('NFKD', ch).encode('ascii', 'ignore').decode()
+		out.append(d or '?')
+	return (''.join(out), e.end)
+
+
+import codecs
+codecs.register_error('mm678translit', _translitError)
+
+
 def generateProdForLang(lang, devTextDict):
 	localedir = Path.cwd().joinpath(settings.i18n_folder)
 	trans = gettext.translation(settings.textdomain, localedir, languages = [lang], fallback = True)
@@ -588,7 +660,7 @@ def generateProdForLang(lang, devTextDict):
 		devText = devTextDict[path]
 		p = Path(settings.prod_folder).joinpath(lang).joinpath(path)
 		p.parent.mkdir(parents = True, exist_ok = True)
-		f = p.open(mode = 'w', newline = '', encoding = settings.source_encoding[lang], errors = settings.encoding_errors_handling)
+		f = p.open(mode = 'w', newline = '', encoding = settings.source_encoding[lang], errors = 'mm678translit')
 		f.write(encodingFix(devText(_, _x), settings.source_encoding[lang], False))
 		f.close()
 
@@ -630,7 +702,17 @@ def generateDevAndI18n():
 
 
 def generateProd():
-	mo2Prod(prodLangs)
+	# clean output first: prod only ever overwrites, so files whose template
+	# was removed would otherwise linger and leak into postprod
+	import shutil
+	prodPath = Path(settings.prod_folder)
+	if prodPath.exists():
+		shutil.rmtree(prodPath)
+	# recompute instead of using the import-time snapshot: derived languages
+	# (e.g. zh_TW) may have been created by po2Mo within the same run
+	langs = [x for x in dict.fromkeys([settings.first_language] + discoveredLangs())
+		if x not in settings.prod_language_exclusion]
+	mo2Prod(langs)
 
 
 # full bootstrap: dev + pot/po + mo + prod

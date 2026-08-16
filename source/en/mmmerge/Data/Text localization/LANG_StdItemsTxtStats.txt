@@ -1,0 +1,26 @@
+Table (of Game struct)	Id	Field	New text
+StdItemsTxt	0	BonusStat	Might
+	1	BonusStat	Intellect
+	2	BonusStat	Personality
+	3	BonusStat	Endurance
+	4	BonusStat	Accuracy
+	5	BonusStat	Speed
+	6	BonusStat	Luck
+	7	BonusStat	Hit Points
+	8	BonusStat	Spell Points
+	9	BonusStat	Armor Class
+	10	BonusStat	Fire Resistance
+	11	BonusStat	Air Resistance
+	12	BonusStat	Water Resistance
+	13	BonusStat	Earth Resistance
+	14	BonusStat	Mind Resistance
+	15	BonusStat	Body Resistance
+	16	BonusStat	Alchemy skill
+	17	BonusStat	Stealing skill
+	18	BonusStat	Disarm skill
+	19	BonusStat	ID Item skill
+	20	BonusStat	ID Monster skill
+	21	BonusStat	Armsmaster skill
+	22	BonusStat	Dodge skill
+	23	BonusStat	Unarmed skill
+	24	BonusStat	Great might

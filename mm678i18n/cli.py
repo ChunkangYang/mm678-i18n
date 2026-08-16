@@ -31,6 +31,10 @@ def cmd_bootstrap(args):
 	from . import pipeline
 	pipeline.bootstrap()
 
+def cmd_update_po(args):
+	from . import pipeline
+	pipeline.updatePo()
+
 def cmd_mo(args):
 	from . import pipeline
 	pipeline.po2Mo()
@@ -90,7 +94,10 @@ def main():
 		'(first-time language setup; OVERWRITES existing .po translations — commit first!)')
 	p.set_defaults(func = cmd_bootstrap)
 
-	sub.add_parser('mo', help = 'compile .po -> .mo').set_defaults(func = cmd_mo)
+	sub.add_parser('update-po', help = 'non-destructively update all .po after template/source '
+		'changes (translations kept; new strings added untranslated, removed ones marked obsolete; '
+		'GNU msgmerge on PATH enables fuzzy matching)').set_defaults(func = cmd_update_po)
+	sub.add_parser('mo', help = 'compile .po -> .mo (derived languages regenerated first)').set_defaults(func = cmd_mo)
 	sub.add_parser('prod', help = 'generate translated game text files from .mo').set_defaults(func = cmd_prod)
 	sub.add_parser('postprod', help = 'assemble installable file trees (text + fonts, scripts, images, sounds)').set_defaults(func = cmd_postprod)
 

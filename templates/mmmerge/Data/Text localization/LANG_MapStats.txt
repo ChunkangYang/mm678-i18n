@@ -1,5 +1,6 @@
 Table (of Game struct)	Id	Field	New text
-MapStats	1	Name	_(TRANS)_
+MapStats	0	Name	
+	1	Name	_(TRANS)_
 	2	Name	_(TRANS)_
 	3	Name	_(TRANS)_
 	4	Name	_(TRANS)_
@@ -205,3 +206,4 @@ MapStats	1	Name	_(TRANS)_
 	204	Name	_(TRANS)_
 	205	Name	_(TRANS)_
 	206	Name	_(TRANS)_
+	207	Name	_(TRANS)_

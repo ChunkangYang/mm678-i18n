@@ -1,5 +1,6 @@
 Table (of Game struct)	Id	Field	New text
-MapStats	1	Name	Dagger Wound Island
+MapStats	0	Name	
+	1	Name	Dagger Wound Island
 	2	Name	Ravenshore
 	3	Name	Alvar
 	4	Name	Ironsand Desert
@@ -205,3 +206,4 @@ MapStats	1	Name	Dagger Wound Island
 	204	Name	The Breach
 	205	Name	The Breach
 	206	Name	Basement of the Breach
+	207	Name	The Strange Temple

@@ -1,0 +1,74 @@
+Table (of Game struct)	Id	Field	New text
+SpcItemsTxt	0	NameAdd	of Protection
+	1	NameAdd	of The Gods
+	2	NameAdd	of Carnage
+	3	NameAdd	of Cold
+	4	NameAdd	of Frost
+	5	NameAdd	of Ice
+	6	NameAdd	of Sparks
+	7	NameAdd	of Lightning
+	8	NameAdd	of Thunderbolts
+	9	NameAdd	of Fire
+	10	NameAdd	of Flame
+	11	NameAdd	of Infernos
+	12	NameAdd	of Poison
+	13	NameAdd	of Venom
+	14	NameAdd	of Acid
+	15	NameAdd	Vampiric
+	16	NameAdd	of Recovery
+	17	NameAdd	of Immunity
+	18	NameAdd	of Sanity
+	19	NameAdd	of Freedom
+	20	NameAdd	of Antidotes
+	21	NameAdd	of Alarms
+	22	NameAdd	of The Medusa
+	23	NameAdd	of Force
+	24	NameAdd	of Power
+	25	NameAdd	of Air Magic
+	26	NameAdd	of Body Magic
+	27	NameAdd	of Dark Magic
+	28	NameAdd	of Earth Magic
+	29	NameAdd	of Fire Magic
+	30	NameAdd	of Light Magic
+	31	NameAdd	of Mind Magic
+	32	NameAdd	of Spirit Magic
+	33	NameAdd	of Water Magic
+	34	NameAdd	of Thievery
+	35	NameAdd	of Shielding
+	36	NameAdd	of Regeneration
+	37	NameAdd	of Mana
+	38	NameAdd	Ogre Slaying
+	39	NameAdd	Dragon Slaying
+	40	NameAdd	of Darkness
+	41	NameAdd	of Doom
+	42	NameAdd	of Earth
+	43	NameAdd	of Life
+	44	NameAdd	Rogues'
+	45	NameAdd	of The Dragon
+	46	NameAdd	of The Eclipse
+	47	NameAdd	of The Golem
+	48	NameAdd	of The Moon
+	49	NameAdd	of The Phoenix
+	50	NameAdd	of The Sky
+	51	NameAdd	of The Stars
+	52	NameAdd	of The Sun
+	53	NameAdd	of The Troll
+	54	NameAdd	of The Unicorn
+	55	NameAdd	Warriors'
+	56	NameAdd	Wizards'
+	57	NameAdd	Antique
+	58	NameAdd	Swift
+	59	NameAdd	Monks'
+	60	NameAdd	Thieves'
+	61	NameAdd	of Identifying
+	62	NameAdd	Elemental Slaying
+	63	NameAdd	Undead Slaying
+	64	NameAdd	Of David
+	65	NameAdd	of Plenty
+	66	NameAdd	Assassins'
+	67	NameAdd	Barbarians'
+	68	NameAdd	of the Storm
+	69	NameAdd	of the Ocean
+	70	NameAdd	of Water Walking
+	71	NameAdd	of Feather Falling
+	72	NameAdd	of Sparking

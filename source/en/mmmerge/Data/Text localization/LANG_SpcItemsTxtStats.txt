@@ -1,0 +1,74 @@
+Table (of Game struct)	Id	Field	New text
+SpcItemsTxt	0	BonusStat	 +10 to all Resistances.
+	1	BonusStat	 +10 to all Seven Statistics.
+	2	BonusStat	Explosive Impact!
+	3	BonusStat	Adds 3-4 points of Cold damage.
+	4	BonusStat	Adds 6-8 points of Cold damage.
+	5	BonusStat	Adds 9-12 points of Cold damage.
+	6	BonusStat	Adds 2-5 points of Electrical damage.
+	7	BonusStat	Adds 4-10 points of Electrical damage.
+	8	BonusStat	Adds 6-15 points of Electrical damage.
+	9	BonusStat	Adds 1-6 points of Fire damage.
+	10	BonusStat	Adds 2-12 points of Fire damage.
+	11	BonusStat	Adds 3-18 points of Fire damage.
+	12	BonusStat	Adds 5 points of Body damage.
+	13	BonusStat	Adds 8 points of Body damage.
+	14	BonusStat	Adds 12 points of Body damage.
+	15	BonusStat	Drain Hit Points from target.
+	16	BonusStat	Increases rate of Recovery.
+	17	BonusStat	Wearer resistant to Diseases.
+	18	BonusStat	Wearer resistant to Insanity.
+	19	BonusStat	Wearer resistant to Paralysis.
+	20	BonusStat	Wearer resistant to Poison.
+	21	BonusStat	Wearer resistant to Sleep.
+	22	BonusStat	Wearer resistant to Stone.
+	23	BonusStat	Increased Knockback.
+	24	BonusStat	 +5 Level.
+	25	BonusStat	Increases effect of all Air spells.
+	26	BonusStat	Increases effect of all Body spells.
+	27	BonusStat	Increases effect of all Dark spells.
+	28	BonusStat	Increases effect of all Earth spells.
+	29	BonusStat	Increases effect of all Fire spells.
+	30	BonusStat	Increases effect of all Light spells.
+	31	BonusStat	Increases effect of all Mind spells.
+	32	BonusStat	Increases effect of all Spirit spells.
+	33	BonusStat	Increases effect of all Water spells.
+	34	BonusStat	Increases chance of Disarming.
+	35	BonusStat	Half damage from all missile attacks.
+	36	BonusStat	Regenerate Hit points over time.
+	37	BonusStat	Regenerate Spell points over time.
+	38	BonusStat	Double Damage vs. Ogres
+	39	BonusStat	Double damage vs Dragons
+	40	BonusStat	Drain Hit Points from target and Increased Weapon speed.
+	41	BonusStat	 +1 to Seven Stats, HP, SP, Armor, Resistances.
+	42	BonusStat	 +10 to Endurance, Armor, Hit points.
+	43	BonusStat	 +10 Hit points and Regenerate Hit points over time.
+	44	BonusStat	 +5 Speed and Accuracy.
+	45	BonusStat	Adds 10-20 points of Fire damage and +25 Might.
+	46	BonusStat	 +10 Spell points and Regenerate Spell points over time.
+	47	BonusStat	 +15 Endurance and +5 Armor.
+	48	BonusStat	 +10 Intellect and Luck.
+	49	BonusStat	 +30 Fire Resistance and Regenerate Hit points over time.
+	50	BonusStat	 +10 Spell points, Speed, Intellect.
+	51	BonusStat	 +10 Endurance and Accuracy.
+	52	BonusStat	 +10 Might and Personality.
+	53	BonusStat	 +15 Endurance and Regenerate Hit points over time.
+	54	BonusStat	 +15 Luck and Regenerate Spell points over time.
+	55	BonusStat	 +5 Might and Endurance.
+	56	BonusStat	 +5 Intellect and Personality.
+	57	BonusStat	Increased Value.
+	58	BonusStat	Increased Weapon speed.
+	59	BonusStat	+3 Unarmed and Dodging skills.
+	60	BonusStat	+3 Stealing and Disarm skills.
+	61	BonusStat	+3 ID Item and ID Monster skills.
+	62	BonusStat	Double Damage vs. Elementals.
+	63	BonusStat	Double Damage vs. Undead.
+	64	BonusStat	Double Damage vs. Titans.
+	65	BonusStat	Regenerate Spell points and Hit points over time.
+	66	BonusStat	Adds 5 points of Body damage and +2 Disarm skill.
+	67	BonusStat	Adds 6-8 points of Cold damage and +5 Armor Class.
+	68	BonusStat	+20 Air Resistance and Shielding.
+	69	BonusStat	+10 Water Resistance and +2 Alchemy skill.
+	70	BonusStat	Prevents damage from drowning.
+	71	BonusStat	Prevents damage from falling.
+	72	BonusStat	Throws sparks into enemy.

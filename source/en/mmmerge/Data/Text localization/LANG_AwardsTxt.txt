@@ -1,0 +1,106 @@
+Table (of Game struct)	Id	Field	New text
+AwardsTxt	0		
+	1		Won the Scavenger Hunt on Emerald Island
+	2		Found the missing contestants on Emerald Island
+	3		Removed goblins from Castle Harmondale
+	4		Rescued the dwarves from the Red Dwarf Mine
+	5		Found a witness to the cataclysm in the Ironsand Desert.
+	6		Completed Wizard Proving Grounds
+	7		Formed an alliance with the Garrote Gorge Dragons.
+	8		Formed an alliance with Charles Quixote and his Dragon Hunters.
+	9		Formed an alliance with the Minotaurs of Ravage Roaming.
+	10		Formed an alliance with the Necromancers' Guild.
+	11		Formed and alliance with the Temple of the Sun.
+	12		Sunk the Regnan fleet allowing Roland and Catherine Ironfist to join the alliance.
+	13		Built the Conflux Key.
+	14		Rescued Shalwend, Lord of Air.
+	15		Rescued Acwalander, Lord of Water.
+	16		Rescued Gralkor the Cruel, Lord of Earth.
+	17		Rescued Pyrannaste, Lord of Fire.
+	18		Stopped the Yellow Fever Epidemic on Dagger Wound Island
+	19		Retrieved Both Temple Pieces
+	20		Rescued Cauri Blackthorne.
+	21		Slayed Xenofex
+	22		Solved the Mystery of the Wine Cellar
+	23		Retrieved the Heart of the Wood
+	24		Retrieved Soul Jars
+	25		Assassinated Tolberti
+	26		Cleaned out Clanker's Laboratory
+	27		Assassinated Robert the Wise
+	28		Completed Necromancer Breeding Pit
+	29		Recovered Axe of Balthazar.
+	30		Returned Withern's Lantern
+	31		Found the lost Prophecies of the Sun and returned them to the Temple of the Sun.
+	32		Returned Haldar's Remains
+	33		Found the Sarcophagus and Remains of Korbu.
+	34		Returned Lord Davrik's signet Ring
+	35		Found the Lost Book of Khel.
+	36		Arcomage wins: %lu
+	37		Arcomage losses: %lu
+	38		Returned Parson's Quill to Norbert Thrush
+	39		Returned Faerie Pipes to Johann Kerrid
+	40		Troglodyte Slayer
+	41		Arcomage Champion.
+	42		Retrieved three cheeses for Asael Fromago, the Cheese Connoisseur of Alvar.
+	43		%u Deaths
+	44		Collected %u in bounties.
+	45		Served %u prison terms.
+	46		Won %u Page Arena Victories.
+	47		Won %u Squire Arena Victories.
+	48		Won %u Knight Arena Victories.
+	49		Won %u Lord Arena Victories.
+	50		Found the treasure of the Dread Pirate Stanley!
+	51		Griffin Slayer
+	52		Retrieved the Seasons' Stole
+	53		Found and placed all the statuettes
+	54		Rescued Isthric the Tongue, brother of Rohtnax, on the Dagger Wound Islands.
+	55		Retrieved the complete set of paintings
+	56		Returned the Prince
+	57		Retrieved Lord Kilburn's Shield
+	58		Retrieved the Hourglass of Time
+	59		Destroyed the Devil's Post
+	60		Captured the Prince of Thieves
+	61		Fixed the Stable Prices
+	62		Ended Winter
+	63		Exposed the Traitor on the High Council
+	64		Won Arcomage at The Grog and Grub in the Dagger Wound Islands.
+	65		Won Arcomage at Kessel's Kantina in Ravenshore.
+	66		Won Arcomage at the Profit House in Alvar.
+	67		Won Arcomage at the Parched Throat in the Ironsand Desert.
+	68		Won Arcomage at the Dragon's Blood Inn in Garrote Gorge.
+	69		Won Arcomage at the Black Company in Shadowspire.
+	70		Won Arcomage at the Traveler's Rest in Murmurwoods.
+	71		Won Arcomage at the Bull's Eye Inn in Ravage Roaming.
+	72		Won Arcomage at the Pirate's Rest in Regna.
+	73		Won Arcomage at The Dancing Ogre in Ravenshore.
+	74		Won Arcomage at Miho's Roadhouse in Alvar.
+	75		Awakened the Oracle
+	76		Gained Access to the Control Center
+	77		Freed Archibald
+	78		Destroyed the Hive and Saved Enroth
+	79		Killed Snergle
+	80		Saved the Mayor of Mist
+	81		Retrieved the Baa Candelabra
+	82		Retrieved Andrew's Harp
+	83		Retrieved Ethric's Skull
+	84		Killed the Spider Queen
+	85		Saved the Monolith
+	86		Gave Bat Guano to Barad
+	87		Destroyed the Wicked Crystal
+	88		Rescued Emmanuel
+	89		Found Zoltan's Artifact
+	90		Rescued Sharry
+	91		Rescued Angela
+	92		Rescued Sherell
+	93		Broke the Blackshire Curse
+	94		Killed the Werewolf Leader
+	95		Solved the Goblinwatch Combination
+	96		Returned with the Chime of Harmony
+	97		Retrieved Emil's Egg
+	98		Placed Twillen's statuettes
+	99		Aided the Lord of Fire
+	100		Delivered 6th Letter to Wilbur Humphry
+	101		Allowed to use the Royal Yacht
+	102		Destroyed the Book of Liches
+	103		Super-Goober
+	104		Solved the Obelisk Puzzle

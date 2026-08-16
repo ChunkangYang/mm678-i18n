@@ -1,0 +1,246 @@
+Table (of Game struct)	Id	Field	New text
+MessageScrolls	0		_(TRANS)_
+	1		_(TRANS)_
+	2		_(TRANS)_
+	3		_(TRANS)_
+	4		_(TRANS)_
+	5		_(TRANS)_
+	6		_(TRANS)_
+	7		_(TRANS)_
+	8		_(TRANS)_
+	9		_(TRANS)_
+	10		_(TRANS)_
+	11		_(TRANS)_
+	12		_(TRANS)_
+	13		_(TRANS)_
+	14		_(TRANS)_
+	15		_(TRANS)_
+	16		_(TRANS)_
+	17		_(TRANS)_
+	18		_(TRANS)_
+	19		_(TRANS)_
+	20		_(TRANS)_
+	21		_(TRANS)_
+	22		_(TRANS)_
+	23		_(TRANS)_
+	24		_(TRANS)_
+	25		_(TRANS)_
+	26		_(TRANS)_
+	27		_(TRANS)_
+	28		_(TRANS)_
+	29		_(TRANS)_
+	30		_(TRANS)_
+	31		_(TRANS)_
+	32		_(TRANS)_
+	33		_(TRANS)_
+	34		_(TRANS)_
+	35		_(TRANS)_
+	36		_(TRANS)_
+	37		_(TRANS)_
+	38		_(TRANS)_
+	39		_(TRANS)_
+	40		_(TRANS)_
+	41		_(TRANS)_
+	42		_(TRANS)_
+	43		_(TRANS)_
+	44		_(TRANS)_
+	45		_(TRANS)_
+	46		_(TRANS)_
+	47		_(TRANS)_
+	48		_(TRANS)_
+	49		_(TRANS)_
+	50		_(TRANS)_
+	51		_(TRANS)_
+	52		_(TRANS)_
+	53		_(TRANS)_
+	54		_(TRANS)_
+	55		_(TRANS)_
+	56		_(TRANS)_
+	57		_(TRANS)_
+	58		_(TRANS)_
+	59		_(TRANS)_
+	60		_(TRANS)_
+	61		_(TRANS)_
+	62		_(TRANS)_
+	63		_(TRANS)_
+	64		_(TRANS)_
+	65		_(TRANS)_
+	66		_(TRANS)_
+	67		_(TRANS)_
+	68		_(TRANS)_
+	69		_(TRANS)_
+	70		_(TRANS)_
+	71		_(TRANS)_
+	72		_(TRANS)_
+	73		
+	74		_(TRANS)_
+	75		
+	76		
+	77		
+	78		
+	79		
+	80		
+	81		
+	82		_(TRANS)_
+	83		_(TRANS)_
+	84		_(TRANS)_
+	85		_(TRANS)_
+	86		_(TRANS)_
+	87		_(TRANS)_
+	88		_(TRANS)_
+	89		_(TRANS)_
+	90		_(TRANS)_
+	91		_(TRANS)_
+	92		_(TRANS)_
+	93		_(TRANS)_
+	94		_(TRANS)_
+	95		_(TRANS)_
+	96		_(TRANS)_
+	97		_(TRANS)_
+	98		_(TRANS)_
+	99		_(TRANS)_
+	100		_(TRANS)_
+	101		_(TRANS)_
+	102		_(TRANS)_
+	103		_(TRANS)_
+	104		_(TRANS)_
+	105		_(TRANS)_
+	106		_(TRANS)_
+	107		_(TRANS)_
+	108		_(TRANS)_
+	109		_(TRANS)_
+	110		_(TRANS)_
+	111		_(TRANS)_
+	112		_(TRANS)_
+	113		_(TRANS)_
+	114		_(TRANS)_
+	115		_(TRANS)_
+	116		_(TRANS)_
+	117		_(TRANS)_
+	118		_(TRANS)_
+	119		_(TRANS)_
+	120		_(TRANS)_
+	121		_(TRANS)_
+	122		_(TRANS)_
+	123		_(TRANS)_
+	124		_(TRANS)_
+	125		_(TRANS)_
+	126		_(TRANS)_
+	127		_(TRANS)_
+	128		_(TRANS)_
+	129		_(TRANS)_
+	130		_(TRANS)_
+	131		_(TRANS)_
+	132		_(TRANS)_
+	133		_(TRANS)_
+	134		_(TRANS)_
+	135		_(TRANS)_
+	136		_(TRANS)_
+	137		_(TRANS)_
+	138		_(TRANS)_
+	139		_(TRANS)_
+	140		_(TRANS)_
+	141		_(TRANS)_
+	142		_(TRANS)_
+	143		_(TRANS)_
+	144		_(TRANS)_
+	145		_(TRANS)_
+	146		_(TRANS)_
+	147		_(TRANS)_
+	148		_(TRANS)_
+	149		_(TRANS)_
+	150		_(TRANS)_
+	151		_(TRANS)_
+	152		_(TRANS)_
+	153		_(TRANS)_
+	154		_(TRANS)_
+	155		
+	156		
+	157		
+	158		
+	159		
+	160		
+	161		
+	162		
+	163		
+	164		_(TRANS)_
+	165		_(TRANS)_
+	166		_(TRANS)_
+	167		_(TRANS)_
+	168		_(TRANS)_
+	169		_(TRANS)_
+	170		_(TRANS)_
+	171		_(TRANS)_
+	172		_(TRANS)_
+	173		_(TRANS)_
+	174		_(TRANS)_
+	175		_(TRANS)_
+	176		_(TRANS)_
+	177		_(TRANS)_
+	178		_(TRANS)_
+	179		_(TRANS)_
+	180		_(TRANS)_
+	181		_(TRANS)_
+	182		_(TRANS)_
+	183		_(TRANS)_
+	184		_(TRANS)_
+	185		_(TRANS)_
+	186		_(TRANS)_
+	187		_(TRANS)_
+	188		_(TRANS)_
+	189		_(TRANS)_
+	190		_(TRANS)_
+	191		_(TRANS)_
+	192		_(TRANS)_
+	193		_(TRANS)_
+	194		_(TRANS)_
+	195		_(TRANS)_
+	196		_(TRANS)_
+	197		_(TRANS)_
+	198		_(TRANS)_
+	199		_(TRANS)_
+	200		_(TRANS)_
+	201		_(TRANS)_
+	202		_(TRANS)_
+	203		_(TRANS)_
+	204		_(TRANS)_
+	205		_(TRANS)_
+	206		_(TRANS)_
+	207		_(TRANS)_
+	208		_(TRANS)_
+	209		_(TRANS)_
+	210		_(TRANS)_
+	211		
+	212		
+	213		
+	214		
+	215		
+	216		
+	217		
+	218		
+	219		
+	220		
+	221		
+	222		
+	223		
+	224		
+	225		
+	226		
+	227		
+	228		
+	229		
+	230		
+	231		
+	232		
+	233		
+	234		
+	235		
+	236		
+	237		
+	238		
+	239		
+	240		
+	241		
+	242		
+	243		
+	244		

@@ -1,0 +1,922 @@
+Table (of Game struct)	Id	Field	New text
+NPCNewsTopics	0		Ooops text
+	1		Peasants on main island of Dagger Wound before the pirate outpost is defeated
+	2		Peasants on main island of Dagger Wound after the pirate outpost is defeated (Questbit 6)
+	3		Peasants on smaller islands before teleporters are fixed
+	4		Peasants on smaller islands after teleporters are fixed (questbit 2)
+	5		Pirates on Dagger Wound Island
+	6		Wolves
+	7		Peasants in Ravenshore city
+	8		Wererats
+	9		Were-rats in Smugglers Cove after Fellmoon's letter has been delivered (Questbit 4).  Rats in Dungeo
+	10		All Peasants after end game
+	11		Lizardman Lookouts/cannons
+	12		Lizardmen Warriors
+	13		Lzardmen Warriors after Questbit 6
+	14		Ogres
+	15		Wasps
+	16		News
+	17		Peasants in Ironsand/Rust
+	18		Peasants in Ironsand/Rust
+	19		Peasants in Ironsand/Rust
+	20		Dragon Hunters in Fort
+	21		Dragon Hunters in Fort
+	22		Dragon Hunters at Training Camp
+	23		Peasants in Shadowspire
+	24		Peasants in Shadowspire
+	25		Peasants in Shadowspire
+	26		Peasants in Murmurwoods
+	27		Peasants in Murmurwoods
+	28		Ogres in Ravage Roaming by Zog's fort
+	29		Ogres in Ravage Roaming by boat dock
+	30		Peasant Pirates of Regna
+	31		Peasant Pirates of Regna
+	32		Peasant Pirates of Regna
+	33		Peasant Minotaurs in Balzathar Lair
+	34		Water
+	35		Masul
+	36		
+	37		 
+	38		 
+	39		Clerics(area 7)
+	40		Clerics(area 7)
+	41		Nercros in guild
+	42		Necros in guild
+	43		Rogues inside Dragon Hunter's Fort
+	44		dragons when allied
+	45		dragons when allied
+	46		
+	47		
+	48		
+	49		
+	50		Used for the non-talkative friendly monsters
+	51		Default change me text
+	52		Peasant
+	53		Adventurer
+	54		Ambusher
+	55		Guard
+	56		"Peasant message 2, Emerald Island"
+	57		"Adventurer message 2, Emerald Island"
+	58		
+	59		
+	60		
+	61		Southern Village Group in Harmondale
+	62		Lords
+	63		Tent camp in Erathia
+	64		Steadwick
+	65		Elven capitol
+	66		Pierpont
+	67		Walking dead
+	68		Deyja
+	69		Stable and Tele dwellers in Bracada
+	70		Eastern village and boat dwellers in Bracada
+	71		Ridge walkers in Bracada
+	72		Celeste
+	73		Welcome
+	74		Peasents in first area of the pit
+	75		Peasents in the second area of the pit
+	76		Peasents in the third area of the pit
+	77		Peasents in main town of nighon
+	78		Peasents in western town of Nighon
+	79		Peasents in Eastern village of Nighon
+	80		Peasents in the Mercenary guild village
+	81		Peasents in the wharf town
+	82		Peasents in the village area
+	83		Peasents in the Dock area
+	84		Peasents good endgame
+	85		Peasents evil endgame
+	86		Peasants in 6/7 endgame
+	87		Peasants in 5/8 endgame
+	88		
+	89		
+	90		
+	91		
+	92		
+	93		
+	94		
+	95		
+	96		
+	97		
+	98		
+	99		
+	100		
+	101		
+	102		Goblinwatch
+	103		Baa Temple
+	104		Bandits
+	105		Sea Travel
+	106		Oracle
+	107		Prince Nicolai
+	108		Solstices
+	109		Arena
+	110		Goblins
+	111		Apprentice Mages
+	112		Mordred
+	113		Wizards
+	114		Abandoned Temple
+	115		Temple of Baa
+	116		Curses
+	117		Treasure
+	118		Goblinwatch
+	119		Magicians
+	120		Town Fountains
+	121		Goblin Raiders
+	122		New Sorpigal
+	123		Fruit Trees
+	124		Islands
+	125		Regnan Pirates
+	126		Buccaneers' Lair
+	127		Protection Services
+	128		Smugglers' Guild
+	129		Blades' End
+	130		Duelists' Edge
+	131		Berserker's Fury
+	132		Silver Helms
+	133		Taxes
+	134		Bootleg Bay
+	135		Fountain of Magic
+	136		Gharik's Forge
+	137		Castle Alamos
+	138		Temples
+	139		Water Elementals
+	140		Conan
+	141		Arch Mages
+	142		Mist
+	143		Regna
+	144		Recipe
+	145		Melody Silver
+	146		Vigilantes
+	147		Trade
+	148		Memory
+	149		Succession War
+	150		Lord of Mist
+	151		Buccaneers' Lair
+	152		Protection Services
+	153		Smugglers' Guild
+	154		Blades' End
+	155		Duelists' Edge
+	156		Berserker's Fury
+	157		Calvin Black
+	158		Gonzalo Ramirez
+	159		Arthur O'Leery
+	160		Bernard Jacobs
+	161		Alamos
+	162		Circle of Stone
+	163		Sea Serpent
+	164		Percival
+	165		Agar's Pet
+	166		Rocklin
+	167		Iron Mines
+	168		Nicolai
+	169		Corlagon
+	170		Shadow Guild
+	171		Oracle
+	172		Catherine
+	173		Yacht
+	174		Lizardmen
+	175		Arena
+	176		Valeria
+	177		Crusaders
+	178		Lord Corlagon
+	179		Wilbur Humphrey
+	180		Circus of the Sun
+	181		Highwaymen
+	182		The Seer
+	183		Dwarves
+	184		The Swamp
+	185		Dragoons
+	186		Newt Headrow
+	187		Rich Hamburg
+	188		Benito Tellman
+	189		Edgar Carpenter
+	190		Aaron Strongmun
+	191		Stephan Biggs
+	192		Helen Teal
+	193		Tyler Tailor
+	194		Leon Lazaru
+	195		Olaf Berring
+	196		Elton Astrogate
+	197		Walter Hargreaves
+	198		Terrance Smith
+	199		Merchants
+	200		Order of the Fist
+	201		Pirate Treasure
+	202		Fountain of Magic
+	203		Temple
+	204		Arthur
+	205		Heroes
+	206		Temple of Tsantsa
+	207		Temple of the Sun
+	208		Preston Harper
+	209		Shoshi Pertoniki
+	210		Winston Schezar
+	211		Celestial Order
+	212		Silver Helms
+	213		The Warlord
+	214		Shadow Guild
+	215		Castle Alamos
+	216		Light and Dark
+	217		Diamond Gargoyle
+	218		Druids
+	219		Lucius
+	220		Arch Druids
+	221		Warlord's Fortress
+	222		The Monolith
+	223		Silver Cove
+	224		Loretta Fleise
+	225		Vigilantes
+	226		Eel Infested Waters
+	227		Equinoxes
+	228		Circle of Stone
+	229		Sir John Silver
+	230		Netherworld Ties
+	231		Tina Sheltan
+	232		Cyrus Montebleu
+	233		Clyde Dagget
+	234		Sigriv
+	235		Eleanor Vanderbilt
+	236		Darkmoor
+	237		Dragonsand
+	238		Snergle
+	239		Terrax
+	240		Ghost
+	241		Harpy
+	242		Skeleton
+	243		Igraine
+	244		Champions
+	245		Connie Lettering
+	246		Casey Ludwig
+	247		Jack Crow
+	248		Avinril Smythers
+	249		Old Temple
+	250		Sewers
+	251		Ship
+	252		Celestial Order
+	253		Oracle
+	254		Icewind Pass
+	255		Archer
+	256		Morgan
+	257		Cavaliers
+	258		The High Council
+	259		Osric Temper
+	260		Sewer Entrance
+	261		Circus of the Sun
+	262		Village of Rockham
+	263		Ethric's Tomb
+	264		Mercenary Stronghold
+	265		Free Haven
+	266		Glimmervale Lake
+	267		Temple Stone
+	268		Baa in the Sewer
+	269		Prince of Thieves
+	270		Bandits
+	271		Liches
+	272		Mercenary Stronghold
+	273		Rocklin
+	274		Timothy O'Hoolihan
+	275		Michael Ogilvy
+	276		Sylvester Moor
+	277		Livia Farrel
+	278		Takao
+	279		Mynasia
+	280		Michele Blackshire
+	281		Ivan Magyar
+	282		Logan Dasher
+	283		Jack Van Imp
+	284		Woodrow Albright
+	285		Hitomi Mirumoto
+	286		Li Tizare
+	287		Zodahn Delphi
+	288		Zoltan Phelps
+	289		Gabriel Cartman
+	290		Carlo Tormini
+	291		Shadow Guild
+	292		Icewind Pass
+	293		Magyar
+	294		Ares
+	295		Priests
+	296		Warrior Mages
+	297		Erik Von Stromgard
+	298		Anthony Stone
+	299		Icewind Keep
+	300		Shadow Guild
+	301		White Cap
+	302		Long winter
+	303		Shadow Guild
+	304		Dragon Towers
+	305		Icewind Keep
+	306		Passes
+	307		Winter from Baa
+	308		Hermits
+	309		Secret Pass
+	310		Succession War
+	311		Dickson Parks
+	312		Jed Morrison
+	313		Morton Holovin
+	314		Abdul's Resort Isle
+	315		Pyramid
+	316		Wyrm
+	317		Fire Lizard
+	318		Cronos
+	319		Lair of the Wolf
+	320		Blackshire
+	321		Star Island
+	322		Werewolf
+	323		Air Elemental
+	324		Hercules
+	325		High Priests
+	326		Medusas
+	327		Lair of the Wolf
+	328		Dragons
+	329		Circus of the Sun
+	330		Western Trade Road
+	331		Devils
+	332		Rangers
+	333		Roland
+	334		Ambrose Brusse
+	335		Kriegspire
+	336		Agar
+	337		Flame Drake
+	338		Minotaur
+	339		Earth Elemental
+	340		Apollo
+	341		Superior Temple
+	342		Battle of Edenbrook
+	343		Battle at Kriegspire
+	344		Death Knights
+	345		Nicholas Roth
+	346		Titan
+	347		Fire Elemental
+	348		Odin
+	349		Hermit's Isle
+	350		Dragonsand
+	351		Pleasant valley
+	352		The Blight
+	353		Devils
+	354		Sweet Water Pass
+	355		Hermes
+	356		Hive
+	357		Sweet Water
+	358		Blackwoode
+	359		Devils
+	360		Hera
+	361		Sweet Water
+	362		Night of Shooting Stars
+	363		Lair of the Devils
+	364		Agents of Baa
+	365		Queen Catherine
+	366		Sea Travel
+	367		Tomb of VARN
+	368		Obelisks
+	369		Dragon Towers
+	370		Devils and Baa
+	371		Traitor on the Council
+	372		Weather
+	373		Disasters
+	374		Curses
+	375		Archibald
+	376		The Blight
+	377		Legend of the Crossing
+	378		Erathia
+	379		Regna
+	380		Dwarves
+	381		Monday
+	382		The Enchanted Hauberk
+	383		Magic Shops
+	384		Treasures
+	385		Western Wastes
+	386		Eastern Seaboard
+	387		Mire of the Damned
+	388		Travel Seasons
+	389		Sea Serpents
+	390		Unconscious
+	391		Alchemy Basics
+	392		Advanced Alchemy
+	393		Skills
+	394		Kriegspire
+	395		Battle Tactics
+	396		Magic Weapons
+	397		Elemental Spells
+	398		Liches
+	399		Light Magic
+	400		Merchants
+	401		Dragoons
+	402		Star Lake
+	403		The Ironfist Code
+	404		Lords
+	405		Locks
+	406		Magical Locks 
+	407		Temple of Baa
+	408		Positive Thinking
+	409		Kriegspire
+	410		Wastelands
+	411		Accountancy
+	412		Gold
+	413		Evil Tidings
+	414		Roland's Last Supper
+	415		Centaurs
+	416		Free Haven
+	417		Retrograde
+	418		Travel Seasons
+	419		Mountains
+	420		Drowning
+	421		Town Portal
+	422		Church of the Sun
+	423		Taverns
+	424		Walk on Water
+	425		Cutlasses
+	426		Chadwick
+	427		Games of Chance
+	428		Brigands
+	429		Begging
+	430		Nicolai 
+	431		Sewers
+	432		Temple of Baa
+	433		Nicolai 
+	434		Cloaks
+	435		Work
+	436		Cold Weather
+	437		Heavenly Forge
+	438		Hot Fires
+	439		Weather
+	440		Magical Boots
+	441		High Council
+	442		Grain Prices
+	443		Enchanting
+	444		Marble
+	445		Joke of the Day
+	446		Monsters
+	447		Wealth
+	448		Fencing
+	449		Blackwoode
+	450		Pushy Nobles
+	451		Regna
+	452		Tuesday
+	453		Arena
+	454		Oracle
+	455		Upstart Religions
+	456		Fellow Travelers
+	457		School
+	458		Hiring Smiths
+	459		Hiring smiths
+	460		Lloyd's Beacon items
+	461		Herbs
+	462		Castle Kriegspire
+	463		Dragons
+	464		Enemies 
+	465		Loretta Fleise
+	466		Pirates
+	467		Eradication
+	468		Healing Alternatives
+	469		Guild of the Self
+	470		Experts and Masters
+	471		Opponents
+	472		Armor
+	473		Ancient Weapons
+	474		The Wonders of Mass Distortion
+	475		Twillen
+	476		Dark Magic
+	477		Banks
+	478		Gold
+	479		Desert Villagers
+	480		Bandits
+	481		Underworld
+	482		Secret Doors
+	483		Thief
+	484		Wise Men
+	485		King Roland
+	486		Packing your Goods
+	487		Resting Safety
+	488		Shady Dealings
+	489		Expenses
+	490		Potions
+	491		Favorite Dishes
+	492		Swamp Travel
+	493		Nicolai
+	494		Prophecies
+	495		Loretta Fleise
+	496		Alamos
+	497		Ice Blast
+	498		Maps
+	499		Light Magic
+	500		Rats and Children
+	501		Star Island
+	502		Tridents
+	503		Council's Cache
+	504		Palm Reading
+	505		Daggers
+	506		Karigor
+	507		Baa
+	508		The Prince of Thieves
+	509		Mandate of Heaven
+	510		Protection
+	511		Gauntlets
+	512		Ironfists
+	513		Armies
+	514		Taverns
+	515		Markets
+	516		Frozen Highlands
+	517		Dragonhide
+	518		Pirate Treasure
+	519		Wind
+	520		Regna
+	521		Gems
+	522		Joke of the Day
+	523		Tanning
+	524		Succession War
+	525		Bloodsuckers
+	526		Shrines
+	527		Books
+	528		Church of the Moon
+	529		Pushing Paper
+	530		Sleeping
+	531		Archibald
+	532		Mandate Nonsense
+	533		Free Healing
+	534		Nicolai
+	535		Magic Weapons
+	536		Shields
+	537		Broken Items
+	538		Magic Abilities
+	539		Volcanic Island
+	540		Frozen Highlands
+	541		Paradise Valley
+	542		The Royal Yacht
+	543		Bootleg Bay
+	544		Death
+	545		Alchemy Basics
+	546		Advanced Alchemy
+	547		Learning Spells
+	548		Loretta Fleise
+	549		Initiative
+	550		Specialization
+	551		Spells of protection
+	552		Agar
+	553		Terrax's Crystal
+	554		Diplomacy
+	555		Abdul
+	556		Sweet Water
+	557		Thief Guilds
+	558		Council Members
+	559		Magic Armor
+	560		Jerrad
+	561		A Fool's services
+	562		Temple in Free Haven
+	563		Pack Rats
+	564		Resting
+	565		Pirates
+	566		Economy
+	567		Evil Temples
+	568		Fountains
+	569		Resting
+	570		Temples of Baa
+	571		Dragon Towers
+	572		The Royal Yacht
+	573		Terrax
+	574		Town Portal
+	575		Guardian Angel
+	576		False Prophets
+	577		Savage Beasts
+	578		Darkmoor
+	579		Imperial Taxation
+	580		Osric Temper
+	581		Doom!
+	582		Baa Cloaks
+	583		Bribes
+	584		Pyramid
+	585		Banks
+	586		King Roland
+	587		Adventurer
+	588		Belts
+	589		Widoweeps Berries
+	590		The Blight
+	591		Wood
+	592		Fossils
+	593		Clothes
+	594		Hermes
+	595		Skills
+	596		Water Mills
+	597		Heavenly Forges
+	598		Jade
+	599		Joke of the Day
+	600		Traps
+	601		Donations
+	602		Cow Tipping
+	603		Ivan Seling
+	604		Scrolls
+	605		Roland
+	606		Rubber Stamps
+	607		Roland
+	608		Weather
+	609		The King
+	610		Superior Temple
+	611		Devils
+	612		Abdul's Discounts
+	613		Merchants
+	614		Equinoxes and Solstices
+	615		Black and White
+	616		Abdul's Discount Island Resort
+	617		Druids 
+	618		Sentinels 
+	619		Islands
+	620		Boat Travel
+	621		Free Haven's Temple
+	622		First Aid
+	623		Divine Intervention
+	624		Training Centers
+	625		Oracle
+	626		Combo weapons
+	627		Magic
+	628		Travelling Spells
+	629		Flying Eyes
+	630		Self Magic Guilds
+	631		Abdul's Discounts
+	632		Shadow Guild
+	633		Mire of the Damned
+	634		Jail Sentences
+	635		Monsters
+	636		Undesirables
+	637		Danger
+	638		Treasure Map
+	639		Loretta Fleise
+	640		Obelisks
+	641		Osric Temper
+	642		Death and Taxes
+	643		Banks
+	644		Herbs from Regna
+	645		Food Prices
+	646		Island travel
+	647		Catherine
+	648		Necromancers
+	649		Islands
+	650		Dragons
+	651		Erathia
+	652		Devils
+	653		Night of Shooting Stars
+	654		Medusas
+	655		Flight Spells
+	656		Hareck IX
+	657		Repairing
+	658		Ghosts
+	659		Resting
+	660		Fear and Love
+	661		Organized Crime
+	662		Thieves' Guilds
+	663		Nicolai Ironfist
+	664		Bandits
+	665		Indigo
+	666		Entertainment
+	667		Rivers
+	668		Barrels
+	669		Paints
+	670		Baa Cloaks
+	671		Hobnail Boots
+	672		Promotion
+	673		Flour
+	674		Cabinets
+	675		Flagstones
+	676		Joke of the Day
+	677		Dark Days
+	678		Silver Cove
+	679		Underworld
+	680		Bounty Hunter
+	681		Dictation
+	682		Baa
+	683		Taxes
+	684		Dragon Towers
+	685		Ironfist Dynasty
+	686		Queen Catherine
+	687		Supreme Temple
+	688		Goblins
+	689		Knight's Paradise
+	690		Dwarves
+	691		Magic Guilds
+	692		The Island of Mist
+	693		Swamps
+	694		Magic Portals
+	695		Dragonsand
+	696		Buried Treasure
+	697		Isle of the Hermit
+	698		Necromancy
+	699		Alchemy Basics
+	700		Advanced Alchemy
+	701		Thief and Mercenary Guilds
+	702		Quests
+	703		Bows
+	704		Generalization
+	705		Magic resistance
+	706		Albert Newton
+	707		Magical Staves
+	708		General Stores
+	709		Stores
+	710		Castle Darkmoor
+	711		City Councils
+	712		Reputation
+	713		Chimney Sweeps
+	714		Thieves' Guild
+	715		Bridge Deed
+	716		Castle Ironfist 
+	717		Roads
+	718		Inns
+	719		Resurrection Bills
+	720		Investing
+	721		Fish
+	722		Food Supply
+	723		Horseshoes
+	724		Archibald Statue
+	725		Dawn and Dusk
+	726		Buried Treasure
+	727		Dragon Towers
+	728		Church of the Moon
+	729		Lloyd's Beacon
+	730		Healing Potions
+	731		Ruin of Sweet Water
+	732		Isle of the Hermit
+	733		Regnan smithies
+	734		Roland's Expedition
+	735		Astrology
+	736		Organized Crime
+	737		Listening
+	738		Roland
+	739		Disarm Traps
+	740		Weather
+	741		Temple of Baa
+	742		Boots
+	743		Graves
+	744		Produce Prices
+	745		Liquids
+	746		Spinning Patterns
+	747		Dyes
+	748		Will of the Gods
+	749		Osric Temper
+	750		Mice
+	751		Blackwoode
+	752		Ethric's Tomb
+	753		Joke of the Day
+	754		Fur
+	755		Blackshire
+	756		Poaching
+	757		Game
+	758		Records
+	759		Nicolai
+	760		City Councils
+	761		Unrest
+	762		Chimney Sweeper
+	763		Sabotage of Summer
+	764		Devils
+	765		Boats
+	766		Arms Smugglers
+	767		Dragons' Gold
+	768		Cursed items
+	769		High Noon
+	770		Desert
+	771		Icewind Pass
+	772		Blackshire
+	773		Erathia
+	774		Water Walking 
+	775		Resting
+	776		Healing Touch
+	777		Shared Life
+	778		Teachers
+	779		Fame
+	780		The Glory of the Mace
+	781		Staves
+	782		Dark Containment
+	783		Elementals
+	784		Archibald
+	785		Prices
+	786		Banks
+	787		The Pyramid 
+	788		Low Character
+	789		Monsters 
+	790		Highwaymen
+	791		Traps
+	792		Shooting Stars
+	793		Luck
+	794		Snow
+	795		Benefit of Rest
+	796		Fortune
+	797		Western Areas
+	798		Fruit Trees
+	799		Create Food Spell
+	800		Sweet Water
+	801		Council Members
+	802		Meditation
+	803		Erathia
+	804		Feather Fall
+	805		The Crossing
+	806		Magic Portals
+	807		The Gods
+	808		Fall of Roland
+	809		Travel Times
+	810		Arms Shipments
+	811		Shields
+	812		Witches
+	813		Merchants
+	814		Threats
+	815		Bridge
+	816		Fetzil 
+	817		Shooting Stars
+	818		Taxes
+	819		Cotton
+	820		Brigands
+	821		Farm Help
+	822		Oracle
+	823		Change
+	824		Darkmoor
+	825		The Blight
+	826		Labor
+	827		Taxes
+	828		Secret Passages
+	829		Statues at Star Lake
+	830		Joke of the Day
+	831		Spooked Animals
+	832		Wretch
+	833		Notoriety
+	834		Bows
+	835		Library at Karigor
+	836		Temple
+	837		High Council
+	838		Patience
+	839		Catherine
+	840		Meteors
+	841		Madness
+	842		Fighting
+	843		Rest
+	844		Magic Armor
+	845		Recharging Wands
+	846		Potions
+	847		Civilization
+	848		Horses
+	849		Magic Transportation
+	850		Water Walking Spells
+	851		Travel Seasons
+	852		Disease and Poison
+	853		Power Cure
+	854		Resting
+	855		Experience
+	856		Nicolai
+	857		Weapons
+	858		Osric Temper
+	859		Mental Attacks
+	860		Gharik
+	861		Elemental Magic Guilds
+	862		Gold
+	863		Speculation
+	864		Devils
+	865		Law and Jail
+	866		Negotiating
+	867		Find a Penny
+	868		Chests
+	869		Talking
+	870		Eric Von Stromgard
+	871		Loretta Fleise
+	872		Food Supply
+	873		Time
+	874		Loretta Fleise
+	875		Cost of Food
+	876		Alchemy
+	877		Price of riding
+	878		Songs
+	879		Music of the Spheres
+	880		Water walking Spells
+	881		Flying
+	882		Water walking Spells
+	883		Retreat
+	884		Self Improvement
+	885		Music
+	886		Special Locations
+	887		Regna
+	888		Opponents
+	889		Tarot Cards
+	890		The West
+	891		Diplomacy
+	892		Devils
+	893		Stealing
+	894		Labor
+	895		Governor
+	896		Hats
+	897		Time of Wonders
+	898		Majesty of Law
+	899		Advice
+	900		Clay
+	901		Magic Clothes
+	902		Shoes
+	903		Intelligence
+	904		Grindstones
+	905		Timber Wars
+	906		Church Design
+	907		Joke of the Day
+	908		Game
+	909		Temple of Baa
+	910		Cow Shortage
+	911		Extinction
+	912		Paper
+	913		Church of the Sun
+	914		Holidays
+	915		Guards
+	916		Luck
+	917		Sundays
+	918		Worship of Baa
+	919		Circus
+	920		Placeholder

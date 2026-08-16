@@ -1,0 +1,1798 @@
+Table (of Game struct)	Id	Field	New text
+NPCTopic	1		Cataclysm
+	2		Caravan Master
+	3		Pirates of Regna
+	4		Cataclysm
+	5		Pirates
+	6		Caravan
+	7		Cataclysm
+	8		Portals of Stone
+	9		Fredrick Talimere
+	10		Portals of Stone
+	11		Cataclysm
+	12		Power Stone
+	13		Abandoned Temple
+	14		Quest
+	15		Portals of Stone
+	16		Fredrick Talimere
+	17		Mountain of Fire
+	18		Prophecies
+	19		Quest
+	20		Quest
+	21		Quest
+	22		Promotion to Dark Elf Patriarch
+	23		Cauri Blackthorne
+	24		Thank you!
+	25		Patriarch
+	26		Circle of Stone
+	27		Cauri Blackthorne
+	28		Letter
+	29		Quest
+	30		Blackthorne Residence
+	31		Where is Cauri?
+	32		Blackmail
+	33		Smuggler Boats
+	34		Ancient Troll Home
+	35		Quest
+	36		Ancient Home Found!
+	37		Curse of Stone
+	38		Thanks for your help!
+	39		Thanks for your help!
+	40		Ancient Home
+	41		Deliver Report
+	42		Quest
+	43		Quest
+	44		Well Done
+	45		Lake of Fire
+	46		Come to Alvar
+	47		Vilebite
+	48		Alliance
+	49		Quest
+	50		Cure for Blazen Stormlance
+	51		Skeletal Dragons
+	52		Promotion to Champion
+	53		Ebonest
+	54		Cure
+	55		Mad Necromancer
+	56		Stormlance
+	57		Ebonest
+	58		Promotion to Champion
+	59		My Father
+	60		Promotion to Great Wyrm
+	61		Dragon Slayers
+	62		Sword of the Slayer
+	63		Alliance
+	64		Quest
+	65		Alliance
+	66		Flood
+	67		Quest
+	68		Axe of Balthazar
+	69		Promotion to Minotaur Lord
+	70		Dark Dwarves
+	71		Quest
+	72		Balthazar of 
+Ravage Roaming
+	73		The Axe of Balthazar
+	74		Thanks for your help!
+	75		Hurry!
+	76		Prophecies of the Sun
+	77		Clues
+	78		Promotion to Priest of the Light
+	79		Lair of the 
+Feathered Serpent
+	80		Prophecies of the Sun
+	81		Quest
+	82		Korbu
+	83		Quest
+	84		Korbu
+	85		Korbu
+	86		Lich
+	87		Lich Jars
+	88		The Lost Book of Khel
+	89		Promotion to Lich
+	90		Return of Korbu
+	91		Thanks for your help!
+	92		Thanks for your help!
+	93		Thanks for your help!
+	94		Alliance
+	95		Quest
+	96		Dyson Leland
+	97		Necromancers
+	98		Sun Temple
+	99		Yourself
+	100		Join
+	101		Thant
+	102		Alliance
+	103		Quest
+	104		Alliance
+	105		Strange Gateways
+	106		Ironfists
+	107		Quest
+	108		Pirates
+	109		Xanthor
+	110		Quest
+	111		Ironfists' Arrival
+	112		Plane of Fire
+	113		Plane Between Planes
+	114		Elemental Lord Prisons
+	115		Merchant House
+	116		Dragon Hunting
+	117		Blackwell Cooper
+	118		Xanthor
+	119		Raising an Army
+	120		Plane Between Planes
+	121		Xanthor
+	122		Dragon Hunting
+	123		Accommodations
+	124		Regna Island
+	125		Quixote's Treasure
+	126		Gateways
+	127		Crystal Dragons
+	128		The Destroyer
+	129		Great Deeds
+	130		The Light
+	131		Mace of the Sun
+	132		Ironfists
+	133		Plane of Air
+	134		Source of the Crisis
+	135		Devils
+	136		Servants of the Light
+	137		The Library
+	138		Pirate Raid
+	139		Catherine Ironfist
+	140		Plane of Water
+	141		Iron Rations
+	142		Salvation
+	143		Keys to the City
+	144		Temple of the Sun
+	145		Pirate Mages
+	146		Wizards
+	147		Ring of Planes
+	148		Nightmares
+	149		Elemental Wars
+	150		Safety
+	151		Xanthor
+	152		The Crystal
+	153		Quest
+	154		Gateway
+	155		Elemental Lords
+	156		The Destroyer
+	157		Leaving
+	158		Nightshade Brazier
+	159		Who Are You?
+	160		Masters
+	161		Cataclysm
+	162		Kreegans
+	163		Save the World
+	164		Riddle One
+	165		Riddle Two
+	166		Riddle Three
+	167		Release Shalwend
+	168		Release Acwalander
+	169		Release Gralkor
+	170		Release Pyrannaste
+	171		Riddles
+	172		Raiders
+	173		Join
+	174		Quest
+	175		Quest
+	176		Have you stopped the epidemic?
+	177		Quest
+	178		Do you have the antidote?
+	179		Potion of Pure Speed
+	180		Ingredients
+	181		Do you have the Ingredients?
+	182		Quest
+	183		Do you have the Idol?
+	184		Quest
+	185		Dire Wolf Pelts
+	186		Finally!
+	187		Quest
+	188		Quest
+	189		Report has been delivered?
+	190		Anointed Herb Potion
+	191		Naga Hides
+	192		500 Gold!
+	193		Quest
+	194		Eclipse
+	195		Delicacy
+	196		1000 Gold!
+	197		Royal Wasp Jelly
+	198		Quest
+	199		Bounty for Ogre Ears
+	200		It's safe to travel again!
+	201		Potion of Pure Luck
+	202		Ingredients
+	203		Do you have the Ingredients?
+	204		Wasp Stingers
+	205		500 Gold!
+	206		Survival!
+	207		Quest
+	208		Not enough potions?
+	209		The village can hold 
+its own.
+	210		Potion of Pure Endurance
+	211		Ingredients
+	212		Do you have the Ingredients?
+	213		Quest
+	214		Poison!
+	215		Thanks for your help!
+	216		Quest
+	217		Poison!
+	218		Thanks for your help!
+	219		Quest
+	220		At last!
+	221		Quest
+	222		Land is ours yet again!
+	223		Quest
+	224		Drum of Victory History
+	225		Where is the drum?
+	226		Quest
+	227		Bone History
+	228		Great!
+	229		Quest
+	230		Puzzle History
+	231		Hours of Enjoyment!
+	232		Potion of Pure Intellect
+	233		War between the Guild and Temple
+	234		Do you have the Ingredients?
+	235		Quest
+	236		Vial of Grave Dirt
+	237		Do you have the vial?
+	238		Potion of Pure Personality
+	239		Ingredients
+	240		Thanks for the Ingredients
+	241		Ancient Wyverns
+	242		Bounty for Horn of the Wyvern
+	243		1500 gold!
+	244		Potion of Pure Accuracy
+	245		Ingredients
+	246		Do you have the Ingredients?
+	247		Dread Pirate Stanley's Treasure
+	248		Riches
+	249		Quest
+	250		Buy Tobersk Fruit for 200 gold
+	251		Sell Tobersk Brandy
+	252		Buy Tobersk Pulp for 300 gold
+	253		Sell Tobersk Fruit
+	254		Buy Tobersk Brandy 500 gold
+	255		Sell Tobersk Pulp
+	256		Buy Heartwood of Jadame for 1000 gold
+	257		Sell Dried Sunfish
+	258		Buy Pirate Amulets for 1500 gold
+	259		Sell Heartwood of Jadame
+	260		Buy Dried Sunfish for 2000 gold
+	261		Sell Pirate Amulets
+	262		Buy Silver Dust of the Sea for 5000 gold
+	263		Sell Ground Wyvern Horn
+	264		Buy Forged Credit Vouchers for 6500 gold
+	265		Sell Silver Dust of the Sea
+	266		Buy Ground Wyvern Horn for 7500 gold
+	267		Sell Forged Credit Vouchers
+	268		Empty Barrel
+	269		Red Barrel
+	270		Yellow Barrel
+	271		Blue Barrel
+	272		Orange Barrel
+	273		Green Barrel
+	274		Purple Barrel
+	275		White Barrel
+	276		Empty Cauldron
+	277		Steaming Cauldron
+	278		Frosty Cauldron
+	279		Shocking Cauldron
+	280		Dirty Cauldron
+	281		Trash Heap
+	282		Trash Heap
+	283		Trash Heap
+	284		Trash Heap
+	285		Camp Fire
+	286		Camp Fire
+	287		Food Bowl
+	288		Empty Cask
+	289		Cask
+	290		Yellow Fever
+	291		Yellow Fever
+	292		Yellow Fever
+	293		Yellow Fever
+	294		Yellow Fever
+	295		Yellow Fever
+	296		Rothnax
+	297		Thank you again!
+	298		Report!
+	299		Fate of Jadame
+	300		Expert Staff 
+	301		Master Staff
+	302		Grand Master Staff
+	303		Expert Sword
+	304		Master Sword
+	305		Grand Master Sword
+	306		Expert Dagger
+	307		Master Dagger
+	308		Grand Master Dagger
+	309		Expert Axe
+	310		Master Axe
+	311		Grand Master Axe
+	312		Expert Spear
+	313		Master Spear
+	314		Grand Master Spear
+	315		Expert Bow
+	316		Master Bow
+	317		Grand Master Bow
+	318		Expert Mace
+	319		Master Mace
+	320		Grand Master Mace
+	321		Expert Blaster
+	322		Master Blaster
+	323		Grand Master Blaster
+	324		Expert Shield
+	325		Master Shield
+	326		Grand Master Shield
+	327		Expert Leather
+	328		Master Leather
+	329		Grand Master Leather
+	330		Expert Chain
+	331		Master Chain
+	332		Grand Master Chain
+	333		Expert Plate
+	334		Master Plate
+	335		Grand Master Plate
+	336		Expert Fire Magic
+	337		Master Fire Magic
+	338		Grand Master Fire Magic
+	339		Expert Air Magic
+	340		Master Air Magic
+	341		Grand Master Air Magic
+	342		Expert Water Magic
+	343		Master Water Magic
+	344		Grand Master Water Magic
+	345		Expert Earth Magic
+	346		Master Earth Magic
+	347		Grand Master Earth Magic
+	348		Expert Spirit Magic
+	349		Master Spirit Magic
+	350		Grand Master Spirit Magic
+	351		Expert Mind Magic
+	352		Master Mind Magic
+	353		Grand Master Mind Magic
+	354		Expert Body Magic
+	355		Master Body Magic
+	356		Grand Master Body Magic
+	357		Expert Light Magic
+	358		Master Light Magic
+	359		Grand Master Light Magic
+	360		Expert Dark Magic
+	361		Master Dark Magic
+	362		Grand Master Dark Magic
+	363		Expert Dark Elf
+	364		Master Dark Elf 
+	365		Grand Master Dark Elf
+	366		Expert Vampire
+	367		Master Vampire
+	368		Grand Master Vampire
+	369		Expert Dragon
+	370		Master Dragon
+	371		Grand Master Dragon
+	372		Expert Identify Item
+	373		Master Identify Item
+	374		Grand Master Identify Item
+	375		Expert Merchant
+	376		Master Merchant
+	377		Grand Master Merchant
+	378		Expert Repair Item
+	379		Master Repair Item
+	380		Grand Master Repair Item
+	381		Expert Body Building
+	382		Master Body Building
+	383		Grand Master Body Building
+	384		Expert Meditation
+	385		Master Meditation 
+	386		Grand Master Meditation
+	387		Expert Perception
+	388		Master Perception
+	389		Grand Master Perception
+	390		Expert Regeneration
+	391		Master Regeneration
+	392		Grand Master Regeneration
+	393		Expert Disarm Trap 
+	394		Master Disarm Trap
+	395		Grand Master Disarm Trap
+	396		Expert Dodging
+	397		Master Dodging
+	398		Grand Master Dodging
+	399		Expert Unarmed
+	400		Master Unarmed
+	401		Grand Master Unarmed
+	402		Expert Identify Monster
+	403		Master Identify Monster
+	404		Grand Master Identify Monster
+	405		Expert Armsmaster
+	406		Master Armsmaster
+	407		Grand Master Armsmaster
+	408		Expert Stealing
+	409		Master Stealing
+	410		Grand Master Stealing
+	411		Expert Alchemy
+	412		Master Alchemy
+	413		Grand Master Alchemy
+	414		Expert Learning
+	415		Master Learning
+	416		Grand Master Learning 
+	417		Puddle Thain
+	418		Celia Stone
+	419		Tristen Stillwater
+	420		Aerie Luodrin
+	421		Jaycin Cardron
+	422		Miyon Dragontracker
+	423		Lori Vespers
+	424		Jobber
+	425		Karla Nirses
+	426		Herald Foestryke
+	427		Jasp Hunter 
+	428		Garic Senjac
+	429		Matric Townsaver
+	430		Ashandra Withersmythe
+	431		Yarrow
+	432		Shivan Keeneye
+	433		Oberic Nosewort
+	434		Solis
+	435		Lisha Sourbrow
+	436		Robert Morningstar
+	437		Brother Hearthsworn
+	438		Qillain Moore
+	439		Sheldon Nightwood
+	440		Peryn Reaverston
+	441		Thadin
+	442		Shamus Hollyfield
+	443		Medwari Elmsmire
+	444		Tobren Forgewright 
+	445		Halian Eversmyle
+	446		Seline Burnkindle
+	447		Bone
+	448		Botham
+	449		Seth Ironfist
+	450		Taren Temper
+	451		Solomon Steele
+	452		Burn
+	453		Reshie
+	454		Hollis Stormeye
+	455		Cloud Nedlon
+	456		Ulbrecht Pederton
+	457		Gregory Mist
+	458		Black Current
+	459		Ostrin Grivic
+	460		Dorothy Sablewood
+	461		Griven
+	462		Straton Hawthorne
+	463		Bethold Kern
+	464		Lasiter Ravensight
+	465		Shane Krewlen 
+	466		Barthine Lotts
+	467		Gilad Dreamwright
+	468		Zevah Poised
+	469		Tugor Arin
+	470		Critias Snowtree
+	471		Archibald Dawnsglow
+	472		Lunius Dawnbringer
+	473		Aldrin Cleareye
+	474		Patwin Darkenmore
+	475		Carla Umberpool
+	476		Sithicus Shadowrunner
+	477		Kyra Sparkmen
+	478		Eithian
+	479		Elzbet Roggen
+	480		Fishner Thomb
+	481		Fenton Iverson
+	482		Raven Quicktoungue
+	483		Evandar Lotts 
+	484		Quick Jeni
+	485		Quethrin Tonk
+	486		Menasaur
+	487		Kenneth Otterton
+	488		Mikel Smithson
+	489		Alton Putnam
+	490		Gretchin Nevermore
+	491		Lenord Nightcrawler
+	492		Silk Nightwalker
+	493		Helga Steeleye
+	494		Balan Suretrail
+	495		Kethric Tarent
+	496		William Sampson
+	497		Ush the Many Tailed
+	498		Chevon Wist
+	499		Kelli Lightfingers
+	500		Gareth Lifter
+	501		Make Weapon
+	502		Make Armor
+	503		Make Item
+	504		Signal 
+	505		Dragon Flies
+	506		Fallen Trees
+	507		Tessa Maker
+	508		Matric Keenedge
+	509		Blacken Stonecleaver
+	510		Norbert Slayer
+	511		Lasatin the Scarred
+	512		Jasper Steelcoif
+	513		Pay 1000 Gold
+	514		Don't Pay
+	515		Buy Arrowheads for 200 Gold
+	516		Tabitha Watershed
+	517		Kethry Treasurestone
+	518		Ich
+	519		Petra Mithrit
+	520		Garret Mistspring
+	521		Wanda Lightsworn
+	522		Flynn Shador
+	523		Douglas Dirthmoore
+	524		Payge Arachnia
+	525		Fedwin Dervish
+	526		Lanshee Caverhill
+	527		Ton Agraynel
+	528		Ishton
+	529		Erthint
+	530		Klain Scarwing
+	531		Haste Pedestal
+	532		Earth Resistance Pedestal
+	533		Day of the Gods Pedestal
+	534		Shield Pedestal
+	535		Water Resistance Pedestal
+	536		Fire Resistance Pedestal
+	537		Heroism Pedestal
+	538		Immolation Pedestal
+	539		Mind Resistance Pedestal
+	540		Body Resistance Pedestal
+	541		Stone Skin Pedestal
+	542		Air Resistance Pedestal
+	543		Game of Might
+	544		Game of Endurance
+	545		Game of Intellect
+	546		Game of Personality
+	547		Game of Accuracy
+	548		Game of Speed
+	549		Game of Luck
+	550		Contest of Might
+	551		Contest of Endurance
+	552		Contest of Intellect
+	553		Contest of Personality
+	554		Contest of Accuracy
+	555		Contest of Speed
+	556		Contest of Luck
+	557		Test of Might
+	558		Test of Endurance
+	559		Test of Intellect
+	560		Test of Personality
+	561		Test of Accuracy
+	562		Test of Speed
+	563		Test of Luck
+	564		Challenge of Might
+	565		Challenge of Endurance
+	566		Challenge of Intellect
+	567		Challenge of Personality
+	568		Challenge of Accuracy
+	569		Challenge of Speed
+	570		Challenge of Luck
+	571		Fire Resistance Potion
+	572		Fire Resistance Potion
+	573		Fire Resistance Potion
+	574		Fire Resistance Potion
+	575		Fire Resistance Potion
+	576		Fire Resistance Potion
+	577		Guild of Bounty Hunters
+	578		Bounty!
+	579		This Month's Bounty
+	580		Arcomage Tournament 
+	581		Cleric Necromancer War
+	582		Dragon Hunters
+	583		Minotaurs
+	584		A bridge too far?
+	585		Travel between the Islands
+	586		The boat dock
+	587		Kreegans
+	588		Elemental Lords
+	589		Enroth
+	590		Erathia
+	591		Kreegans
+	592		Elementals
+	593		Have you rescued them?
+	594		Make Weapon
+	595		Make Armor
+	596		Make Item
+	597		Arcomage Tournament 
+	598		Rock Spire
+	599		Rock Spire
+	600		Roster Join Event
+	601		Roster Join Event
+	602		Roster Join Event
+	603		Join
+	604		Roster Join Event
+	605		Roster Join Event
+	606		Roster Join Event
+	607		Roster Join Event
+	608		Join
+	609		Roster Join Event
+	610		Roster Join Event
+	611		Roster Join Event
+	612		Roster Join Event
+	613		Roster Join Event
+	614		Roster Join Event
+	615		Roster Join Event
+	616		Join
+	617		Roster Join Event
+	618		Roster Join Event
+	619		Roster Join Event
+	620		Roster Join Event
+	621		Roster Join Event
+	622		Roster Join Event
+	623		Roster Join Event
+	624		Join
+	625		Roster Join Event
+	626		Roster Join Event
+	627		Roster Join Event
+	628		Roster Join Event
+	629		Roster Join Event
+	630		Roster Join Event
+	631		Roster Join Event
+	632		Join
+	633		Roster Join Event
+	634		Roster Join Event
+	635		Roster Join Event
+	636		Roster Join Event
+	637		Roster Join Event
+	638		Roster Join Event
+	639		Roster Join Event
+	640		Roster Join Event
+	641		Roster Join Event
+	642		Roster Join Event
+	643		Roster Join Event
+	644		Roster Join Event
+	645		Roster Join Event
+	646		Roster Join Event
+	647		Roster Join Event
+	648		Roster Join Event
+	649		Roster Join Event
+	650		Rock Spire
+	651		Rock Spire
+	652		Rock Spire
+	653		Rock Spire
+	654		My Life
+	655		Vori Cheese Masters
+	656		Quest
+	657		The Stranger
+	658		Night of the Crystal
+	659		The Crystal
+	660		Wandering Mage
+	661		Pirate Raids
+	662		Regnans
+	663		Empire of the Endless Ocean
+	664		Ogres and Bandits
+	665		Overland Travel
+	666		Smugglers
+	667		Wererats!
+	668		Cyclopes of Ironsand
+	669		Sea of Fire
+	670		Find us a home!
+	671		Ore Traders
+	672		Vault of Time
+	673		Renegade Dragons
+	674		Other Dragons
+	675		Dragon on Regna
+	676		The Destroyer
+	677		The Destroyer
+	678		Temple of Eep
+	679		Cheese
+	680		Gralkor the Cruel
+	681		Plane of Earth
+	682		Shalwend
+	683		Plane of Air
+	684		Plane of Water
+	685		Acwalander
+	686		Pyrannaste
+	687		Plane of Fire
+	688		Adventure
+	689		Join with Us
+	690		Adventure
+	691		Come with Us
+	692		Adventure
+	693		Adventure
+	694		Go with Us
+	695		Come with Us
+	696		Join Us
+	697		Join Us
+	698		Adventure
+	699		Come with Us
+	700		Join Us
+	701		The Family Tomb
+	702		Have you found the shield?
+	703		Use Eclipse well!
+	704		Arena
+	705		I lost it!
+	706		Come with Us
+	707		Come with Us
+	708		Join Us
+	709		Ogre Raiders
+	710		Wasps
+	711		Trained Dragons
+	712		Zanthora
+	713		Vampire Crypt
+	714		The Guild
+	715		Coffins
+	716		Lava Tunnel
+	717		Navigation
+	718		The Easy Life
+	719		Dread Pirate Stanley
+	720		Jadamean Smugglers
+	721		Stanley's Treasure
+	722		Hidden Treasure
+	723		Burial Mound
+	724		Followers of Eep
+	725		Water Gateway
+	726		Pirate Fortress
+	727		Regnan Culture
+	728		Nightshade Amulets
+	729		Gaudy Jewelry
+	730		Sunfish
+	731		The Warehouse
+	732		Hint
+	733		Promote Dark Elves
+	734		Promote Trolls
+	735		Promote Knights
+	736		Promote Dragons
+	737		Promote Clerics
+	738		Promote Necromancers
+	739		Promote Vampires
+	740		Promote Minotuars
+	741		Thank you!
+	742		Travel with you!
+	743		Travel with you!
+	744		Rescue
+	745		Placeholder
+	746		Placeholder
+	747		Placeholder
+	748		Placeholder
+	749		Placeholder
+	750		Placeholder
+	751		Castle Harmondale
+	752		The Hunt
+	753		Congratulations
+	754		Your ship…
+	755		Rules of the Hunt
+	756		What do you have?
+	757		Greetings
+	758		Emerald Island
+	759		Contest
+	760		Scavenger Hunt
+	761		Instruments
+	762		Lute
+	763		Buy Lute for 500 gold
+	764		Ocean
+	765		Seashell
+	766		Buy Seashell for 100 gold
+	767		Harmondale
+	768		Proposal
+	769		Accept Wand
+	770		Decline Wand
+	771		Your hat, please…
+	772		Temple
+	773		Give Hat to Sal
+	774		Keep Hat
+	775		I warned you…
+	776		Very well, then…
+	777		Potion for a Hat?
+	778		Brigands
+	779		Blue Potions
+	780		Trade Potion for Hat
+	781		Keep Potion
+	782		Boat Travel
+	783		Cast off!
+	784		Missing Contestants
+	785		Missing Contestants
+	786		Missing People
+	787		Abandoned Temple
+	788		Dragonflies
+	789		Dragon
+	790		Dragon Cave
+	791		Contestants
+	792		Tour Off
+	793		Tour On
+	794		Rogue 
+	795		Rogue 
+	796		Spy
+	797		Spy
+	798		Drink Tea
+	799		Assassin
+	800		Assassin
+	801		Crusader
+	802		Crusader
+	803		Hero
+	804		Hero
+	805		Hello?
+	806		Villain
+	807		Villain
+	808		Initiate
+	809		Initiate
+	810		Initiate
+	811		Master
+	812		Master
+	813		Ninja
+	814		Ninja
+	815		Master Archer
+	816		Master Archer
+	817		Warrior Mage
+	818		Warrior Mage
+	819		Sniper
+	820		Sniper
+	821		Champion
+	822		Champion
+	823		Cavalier
+	824		Cavalier
+	825		Black Knight
+	826		Black Knight
+	827		Ranger Lord
+	828		Ranger Lord
+	829		Hunter
+	830		Hunter
+	831		Bounty Hunter
+	832		Bounty Hunter
+	833		Hunter?
+	834		Heart of the Wood
+	835		Heart of the Wood
+	836		Priest of Light
+	837		Priest of Light
+	838		Priest
+	839		Priest
+	840		Priest of Dark
+	841		Priest of Dark
+	842		Wizard
+	843		Wizard
+	844		Archmage
+	845		Archmage
+	846		Lich
+	847		Lich
+	848		Great Druid
+	849		Great Druid
+	850		Arch Druid
+	851		Arch Druid
+	852		Warlock
+	853		Warlock
+	854		Golem Parts
+	855		Swap Heads
+	856		Goblins
+	857		Rescue Dwarves
+	858		Rescue Dwarves
+	859		Use Elixir
+	860		Use Elixir
+	861		Use Elixir
+	862		Use Elixir
+	863		Use Elixir
+	864		Use Elixir
+	865		Use Elixir
+	866		An invitation…
+	867		False Plans
+	868		Artifact
+	869		Betrayed?
+	870		An invitation…
+	871		False Prisoner
+	872		Artifact
+	873		Betrayed?
+	874		Prisoner of War
+	875		Prisoner of War
+	876		Here's a fake prisoner…
+	877		Riverstride plans
+	878		Riverstride plans
+	879		We stole the plans…
+	880		Artifact
+	881		Riverstride plans
+	882		Riverstride plans
+	883		Here's fake plans…
+	884		Prison Break
+	885		Prison Break
+	886		We rescued Loren!..
+	887		Artifact
+	888		Hint
+	889		I lost it
+	890		Artifact
+	891		I choose you!
+	892		Hint
+	893		I choose you!
+	894		Hint
+	895		Proving Grounds
+	896		Proving Grounds
+	897		Temple of the Dark
+	898		Temple of the Dark
+	899		Strike the Devils
+	900		Strike the Devils
+	901		Vampires
+	902		Vampires
+	903		Soul Jars
+	904		Soul Jars
+	905		Tolberti
+	906		Tolberti
+	907		Temple of the Light
+	908		Temple of the Light
+	909		Strike the Devils
+	910		Strike the Devils
+	911		Soul Jars
+	912		Soul Jars
+	913		Clanker's Laboratory
+	914		Clanker's Laboratory
+	915		Robert the Wise
+	916		Robert the Wise
+	917		Breeding Pit
+	918		Breeding Pit
+	919		Final Task
+	920		Final Task
+	921		Final Task
+	922		Final Task
+	923		Enter Temple of Light
+	924		Enter Temple of Dark
+	925		Thomas Grey
+	926		Book Shop
+	927		Book Shop
+	928		Zokarr's Bones
+	929		Quest
+	930		Quest
+	931		Quest
+	932		Quest
+	933		Quest
+	934		Quest
+	935		Quest
+	936		Thrush's Letter
+	937		Quest
+	938		Quest
+	939		Pipes
+	940		Quest
+	941		Quest
+	942		Quest
+	943		Quest
+	944		Quest
+	945		Quest
+	946		Quest
+	947		Quest
+	948		Quest
+	949		Quest
+	950		Ancient Weapon
+	951		Placeholder
+	952		Placeholder
+	953		Expert Sword Fighting
+	954		Master Sword Fighter
+	955		Sword Grandmaster
+	956		Dagger Expert
+	957		Dagger Master
+	958		Dagger Grandmaster
+	959		Axe Expert
+	960		Axe Master
+	961		Axe Grandmaster
+	962		Spear Expert
+	963		Spear Master
+	964		Spear Grandmaster
+	965		Bow Expert
+	966		Bow Master
+	967		Bow Grandmaster
+	968		Mace Expert
+	969		Mace Master
+	970		Mace Grandmaster
+	971		Ancient Weapon Expert
+	972		Ancient Weapon Master
+	973		Ancient Weapon Grandmaster
+	974		Shield Expert
+	975		Shield Master
+	976		Shield Grandmaster
+	977		Leather Expert
+	978		Leather Master
+	979		Leather Grandmaster
+	980		Chain Expert
+	981		Chain Master
+	982		Chain Grandmaster
+	983		Plate Expert
+	984		Plate Master
+	985		Plate Grandmaster
+	986		Fire Magic Expert
+	987		Fire Magic Master
+	988		Fire Magic Grandmaster
+	989		Air Magic Expert
+	990		Air Magic Master
+	991		Air Magic Grandmaster
+	992		Water Magic Expert
+	993		MMExt Placeholder
+	994		MMExt Placeholder
+	995		MMExt Placeholder
+	996		MMExt Placeholder
+	997		MMExt Placeholder
+	998		MMExt Placeholder
+	999		MMExt Placeholder
+	1000		MMExt Placeholder
+	1001		Mind Magic Expert
+	1002		Mind Magic Master
+	1003		Mind Magic Grandmaster
+	1004		Body Magic Expert
+	1005		Body Magic Master
+	1006		Body Magic Grandmaster
+	1007		Light Magic Expert
+	1008		Light Magic Master
+	1009		Light Magic Grandmaster
+	1010		Dark Magic Expert
+	1011		Dark Magic Master
+	1012		Dark Magic Grandmaster
+	1013		Identify Item Expert
+	1014		Identify Item Master
+	1015		Identify Item Grandmaster
+	1016		Merchant Expert
+	1017		Merchant Master
+	1018		Merchant Grandmaster
+	1019		Repair Item Expert
+	1020		Repair Item Master
+	1021		Repair Item Grandmaster
+	1022		Body Building Expert
+	1023		Body Building Master
+	1024		Body Building Grandmaster
+	1025		Meditation Expert
+	1026		Meditation Master
+	1027		Meditation Grandmaster
+	1028		Perception Expert
+	1029		Perception Master
+	1030		Perception Grandmaster
+	1031		Diplomacy Expert
+	1032		Diplomacy Master
+	1033		Diplomacy Grandmaster
+	1034		Thievery Expert
+	1035		Thievery Master
+	1036		Thievery GM
+	1037		Disarm Trap Expert
+	1038		Disarm Trap Master
+	1039		Disarm Trap Grandmaster
+	1040		Dodging Expert
+	1041		Dodging Master
+	1042		Dodging Grandmaster
+	1043		Unarmed Expert
+	1044		Unarmed Master
+	1045		Unarmed Grandmaster
+	1046		Identify Monster Expert
+	1047		Identify Monster Master
+	1048		Identify Monster Grandmaster
+	1049		Armsmaster Expert
+	1050		Armsmaster Master
+	1051		Armsmaster Grandmaster
+	1052		Stealing Expert
+	1053		Stealing Master
+	1054		Stealing Grandmaster
+	1055		Alchemy Expert
+	1056		Alchemy Master
+	1057		Alchemy Grandmaster
+	1058		Learning Expert
+	1059		Learning Master
+	1060		Learning Grandmaster
+	1061		Bounty Hunt
+	1062		Pay Fine
+	1063		Quest
+	1064		Quest
+	1065		Elsie Pederton
+	1066		Jillian Mithrit
+	1067		Tugor Slicer
+	1068		Chadric Townsaver
+	1069		Aznog Slasher
+	1070		Tonken Fist
+	1071		Dalin Keenedge
+	1072		Karn Stonecleaver
+	1073		Claderin Silverpoint
+	1074		Seline Falconeye
+	1075		Lanshee Ravensight
+	1076		Cardric the Steady
+	1077		Brother Rothham
+	1078		Patwin Fellbern
+	1079		Isram Gallowswell
+	1080		Fedwin Smithson
+	1081		Rabisa Nedlon
+	1082		Miyon the Quick
+	1083		Medwari Dragontracker
+	1084		Halian Nevermore
+	1085		Dekian Forgewright
+	1086		Brand the Maker
+	1087		Ashen Temper
+	1088		Blayze 
+	1089		Rislyn Greenstorm
+	1090		Gayle
+	1091		Tobren Rainshield
+	1092		Torrent
+	1093		Lara Stonewright
+	1094		Avalanche
+	1095		Heather Dreamwright
+	1096		Benjamin the Balanced
+	1097		Myles Featherwind
+	1098		Xavier Bremen
+	1099		Brother Bombah
+	1100		Tempus
+	1101		Samuel Benson
+	1102		Payge Blueswan
+	1103		Bethold Caverhill
+	1104		Brigham the Frugal
+	1105		Thomas Moore
+	1106		Gareth the Fixer
+	1107		Wanda Foestryke
+	1108		Evandar Thomas
+	1109		Tessa Greensward
+	1110		Kaine
+	1111		Garret Dotes
+	1112		Petra Cleareye
+	1113		Lenord Skinner
+	1114		Silk Quicktoungue
+	1115		Oberic Crane
+	1116		Kenneth Wain
+	1117		Ulbrecht the Brawler
+	1118		Norris 
+	1119		Jeni Swiftfoot
+	1120		Raven the Hunter
+	1121		Paula Brightspear
+	1122		Lasiter the Slayer
+	1123		Leane Shadowrunner
+	1124		Everil Nightwalker
+	1125		Elzbet Winterspoon
+	1126		Lucid Apple
+	1127		Dorothy Senjac
+	1128		William Davies
+	1129		Helena Morningstar
+	1130		Gavin Magnus
+	1131		Seth Darkenmore
+	1132		Archibald
+	1133		Empty Barrel
+	1134		Red Barrel
+	1135		Yellow Barrel
+	1136		Blue Barrel
+	1137		Orange Barrel
+	1138		Green Barrel
+	1139		Purple Barrel
+	1140		White Barrel
+	1141		Empty Cauldron
+	1142		Steaming Cauldron
+	1143		Frosty Cauldron
+	1144		Shocking Cauldron
+	1145		Dirty Cauldron
+	1146		Trash Heap
+	1147		Trash Heap
+	1148		Trash Heap
+	1149		Enter Arena Combat
+	1150		Elemental Guild Membership
+	1151		Guild of the Self Membership
+	1152		Air Guild Membership
+	1153		Earth Guild Membership
+	1154		Fire Guild Membership
+	1155		Water Guild Membership
+	1156		Body Guild Membership
+	1157		Mind Guild Membership
+	1158		Spirit Guild Membership
+	1159		Light Guild Membership
+	1160		Dark Guild Membership
+	1161		Trash Heap
+	1162		Campfire
+	1163		Campfire
+	1164		Food Bowl
+	1165		Empty Cask
+	1166		Cask
+	1167		Mushroom
+	1168		Lord Markham
+	1169		The Master Thief
+	1170		Watchtowers
+	1171		Bill Lasker
+	1172		Lady Carmine
+	1173		Assasins
+	1174		Wromthrax the Heartless
+	1175		Crusaders
+	1176		The Fairest of them all
+	1177		Villains
+	1178		Monk Training
+	1179		Medusas
+	1180		Temple of Baa
+	1181		Missing Sheep
+	1182		Ciphers
+	1183		The nature of ooze
+	1184		Medusas
+	1185		Titans' Stronghold
+	1186		The Arena
+	1187		Arena Championships
+	1188		Haunted Mansion
+	1189		Ghosts
+	1190		Secret passage
+	1191		Faeries
+	1192		Mad Forest
+	1193		Oldest Tree
+	1194		Bounty Hunting
+	1195		Professional Bounty Hunting
+	1196		Tidewater Caverns
+	1197		Evenmorn Islands
+	1198		Reef Maps
+	1199		The Curse
+	1200		Golem parts
+	1201		Golems
+	1202		Divine Intervention Book
+	1203		Divine Intervention
+	1204		Soul Jars
+	1205		The Rituals
+	1206		Circle of stone
+	1207		Summer Circle
+	1208		The graveyard
+	1209		Barrow Navigation
+	1210		Land of the Titans
+	1211		The Mega Dragon
+	1212		Quest
+	1213		Quest
+	1214		Quest
+	1215		Quest
+	1216		Quest
+	1217		Quest
+	1218		Stone City
+	1219		Stone City
+	1220		Passage to Nighon
+	1221		Warlock's Tunnels
+	1222		Barrows
+	1223		Medusas
+	1224		Red Dwarf Mines
+	1225		The Statues
+	1226		Stone City
+	1227		Harmondale
+	1228		Rebellions
+	1229		Castle Harmondale
+	1230		Tularean Caves
+	1231		White Cliff Caves
+	1232		Fort Riverstride
+	1233		The Trophy
+	1234		The Arbiter
+	1235		Lost and Found
+	1236		The Choice
+	1237		Proving Grounds
+	1238		Celeste
+	1239		The Pit
+	1240		Celeste
+	1241		Mysterious Murders
+	1242		The Kreegan
+	1243		Losing the War
+	1244		Falling out in Deyja
+	1245		Roland of Enroth
+	1246		Soul Jars
+	1247		Warlocks
+	1248		Clanker's Defenses
+	1249		Expert Teachers
+	1250		Missing People
+	1251		Bracada Teleporters
+	1252		Castle Upgrade
+	1253		Pedestals
+	1254		Disputed Land
+	1255		Castle Harmondale
+	1256		Beacon Fires
+	1257		Sell Tularean Wood
+	1258		Buy Griffin Feathers for 200 Gold
+	1259		Sell Arrowheads
+	1260		Buy Tularean Wood for 200 Gold
+	1261		Sell Griffin Feathers
+	1262		Buy Sand for 2000 Gold
+	1263		Sell Enrothian Wine
+	1264		Buy Glass Bottles for 2000 Gold
+	1265		Sell Sand
+	1266		Buy Enrothian Wine for 2000 Gold
+	1267		Sell Glass Bottles
+	1268		Boat Schedule
+	1269		Nighon Tunnel
+	1270		Trading
+	1271		Haste Pedestal
+	1272		Earth Resistance Pedestal
+	1273		Day of the Gods Pedestal
+	1274		Shield Pedestal
+	1275		Water Resistance Pedestal
+	1276		Fire Resistance Pedestal
+	1277		Heroism Pedestal
+	1278		Immolation Pedestal
+	1279		Mind Resistance Pedestal
+	1280		Body Resistance Pedestal
+	1281		Stone Skin Pedestal
+	1282		Air Resistance Pedestal
+	1283		Game of Might
+	1284		Game of Endurance
+	1285		Game of Intellect
+	1286		Game of Personality
+	1287		Game of Accuracy
+	1288		Game of Speed
+	1289		Game of Luck
+	1290		Contest of Might
+	1291		Contest of Endurance
+	1292		Contest of Intellect
+	1293		Contest of Personality
+	1294		Contest of Accuracy
+	1295		Contest of Speed
+	1296		Contest of Luck
+	1297		Test of Might
+	1298		Test of Endurance
+	1299		Test of Intellect
+	1300		Test of Personality
+	1301		Test of Accuracy
+	1302		Test of Speed
+	1303		Test of Luck
+	1304		Challenge of Might
+	1305		Challenge of Endurance
+	1306		Challenge of Intellect
+	1307		Challenge of Personality
+	1308		Challenge of Accuracy
+	1309		Challenge of Speed
+	1310		Challenge of Luck
+	1311		Traitor!
+	1312		Shrine
+	1313		Challenges
+	1314		The Letter
+	1315		The Letter
+	1316		Goblinwatch
+	1317		Goblinwatch
+	1318		Evil Cults
+	1319		Evil Cults
+	1320		Evil Cults
+	1321		The Howling Moon
+	1322		The Letter
+	1323		Lord Kilburn
+	1324		Lord Kilburn
+	1325		The High Council
+	1326		Crusaders
+	1327		Crusaders
+	1328		Heroes
+	1329		Heroes
+	1330		Heroes
+	1331		Boredom
+	1332		The Circus
+	1333		Missing Text 20
+	1334		Excuse me, your Highness…
+	1335		Excuse me, your Highness…
+	1336		Missing Text 23
+	1337		The Circus
+	1338		Uncle Archibald
+	1339		The Third Eye
+	1340		Uncle Archibald
+	1341		Uncle Archibald
+	1342		Empty
+	1343		Release Archibald
+	1344		Silver Helms
+	1345		The Prince of Thieves
+	1346		The Prince of Thieves
+	1347		The High Council
+	1348		Priests
+	1349		Priests
+	1350		High Priests
+	1351		High Priests
+	1352		High Priests
+	1353		Arch Mages
+	1354		Pilgrimage
+	1355		Quest
+	1356		Quest
+	1357		Put Text Here 44
+	1358		I lost it
+	1359		Hint
+	1360		Divine Intervention
+	1361		Divine Intervention
+	1362		Divine Intervention
+	1363		Put Text Here 50
+	1364		Council Quest
+	1365		Council Quest
+	1366		Put Text Here
+	1367		Council Quest
+	1368		Wizards
+	1369		Wizards
+	1370		Put Text Here 57
+	1371		Wizards
+	1372		Master Wizards
+	1373		Master Wizards
+	1374		Council Quest
+	1375		Council Quest
+	1376		Put Text Here 63
+	1377		Council Quest
+	1378		Cavaliers
+	1379		Nomination
+	1380		Cavaliers
+	1381		Cavaliers
+	1382		Cavaliers
+	1383		Champions
+	1384		Champions
+	1385		Champions
+	1386		Crystal Locations
+	1387		Memory Crystal
+	1388		Put Text Here 75
+	1389		Control Center
+	1390		Kreegan
+	1391		Ancients
+	1392		Money
+	1393		Money
+	1394		Money
+	1395		Great Druids
+	1396		Great Druids
+	1397		Arch Druids
+	1398		Arch Druids
+	1399		Arch Druids
+	1400		Winter
+	1401		Winter
+	1402		Winter
+	1403		Winter
+	1404		Warrior Mages
+	1405		Warrior Mages
+	1406		Master Archers
+	1407		Master Archers
+	1408		Winter
+	1409		Winter
+	1410		Winter
+	1411		My Capture
+	1412		Price Fixing
+	1413		Master Archers
+	1414		Silvertongue's Refusal
+	1415		Silvertongue's Cure
+	1416		Service to the Crown
+	1417		Rules
+	1418		Prizes
+	1419		Instructions
+	1420		Play Might Game for 50 Gold
+	1421		Play Endurance Game for 50 Gold
+	1422		Play Speed Game for 50 Gold
+	1423		Play Accuracy Game for 50 Gold
+	1424		Play Luck Game for 50 Gold
+	1425		Play  Intellect Game for 50 Gold
+	1426		Gongs
+	1427		Bones
+	1428		Lodestones
+	1429		Harpy Feathers
+	1430		Golden Pyramids
+	1431		Kegs of Wine
+	1432		Teeth
+	1433		Four Leaf Clovers
+	1434		Amber
+	1435		Quest
+	1436		Quest
+	1437		Welcome
+	1438		Fountain of Youth
+	1439		Instructions
+	1440		Instructions
+	1441		Instructions
+	1442		Trade Pyramid for Armor
+	1443		Trade Pyramid for Weapon
+	1444		Trade Pyramid for Accessory
+	1445		Trade Keg for Armor
+	1446		Trade Keg for Weapon
+	1447		Trade Keg for Accessory
+	1448		Trade Lamp for Gems
+	1449		Put Text Here
+	1450		Put Text Here
+	1451		Put Text Here
+	1452		Put Text Here
+	1453		Put Text Here
+	1454		Put Text Here
+	1455		Put Text Here
+	1456		Put Text Here
+	1457		Put Text Here
+	1458		Put Text Here
+	1459		Put Text Here
+	1460		Put Text Here
+	1461		Put Text Here
+	1462		Put Text Here
+	1463		Put Text Here
+	1464		Put Text Here
+	1465		Put Text Here
+	1466		Put Text Here
+	1467		Put Text Here
+	1468		Put Text Here
+	1469		Put Text Here
+	1470		Put Text Here
+	1471		Put Text Here
+	1472		Put Text Here
+	1473		Put Text Here
+	1474		Put Text Here
+	1475		Put Text Here
+	1476		Put Text Here
+	1477		Put Text Here
+	1478		Put Text Here
+	1479		Put Text Here
+	1480		Put Text Here
+	1481		Put Text Here
+	1482		Put Text Here
+	1483		Put Text Here
+	1484		Put Text Here
+	1485		Put Text Here
+	1486		Put Text Here
+	1487		Put Text Here
+	1488		Put Text Here
+	1489		Put Text Here
+	1490		Put Text Here
+	1491		Put Text Here
+	1492		Put Text Here
+	1493		Put Text Here
+	1494		Put Text Here
+	1495		Put Text Here
+	1496		Put Text Here
+	1497		Put Text Here
+	1498		Put Text Here
+	1499		Put Text Here
+	1500		Put Text Here
+	1501		Put Text Here
+	1502		Put Text Here
+	1503		Put Text Here
+	1504		Put Text Here
+	1505		Put Text Here
+	1506		Put Text Here
+	1507		Put Text Here
+	1508		Put Text Here
+	1509		Put Text Here
+	1510		Put Text Here
+	1511		Put Text Here
+	1512		Put Text Here
+	1513		Expert Staff Defense 
+	1514		Master of the Staff
+	1515		Expert Swordsmanship
+	1516		Master Swordsmanship
+	1517		Expert Knife Fighting
+	1518		Master Knife Fighting
+	1519		Expert Axe Fighting
+	1520		Master Axe Fighting
+	1521		Expert Spear Training
+	1522		Master Spear Training
+	1523		Expert Bowmanship
+	1524		Master Bowmanship
+	1525		Expert Mace Training
+	1526		Master Mace Training
+	1527		Ancient Weapon Expertise
+	1528		Master of Ancient Weapons
+	1529		Expert Shield Defense
+	1530		Master Shield Defense
+	1531		Expert Leather Armor Training
+	1532		Master Leather Armor Training
+	1533		Expert Chain Armor Training
+	1534		Master Chain Armor Training
+	1535		Expert Plate Armor Training
+	1536		Master Plate Armor Training
+	1537		Fire Magic Expertise
+	1538		Master of Fire 
+	1539		Air Magic Expertise
+	1540		Master of Air
+	1541		Water Magic Expertise
+	1542		Master of Water
+	1543		Earth Magic Expertise
+	1544		Master of Earth
+	1545		Spirit Magic Expert
+	1546		Master of the Spirit
+	1547		Mind Magic Expert
+	1548		Master of the Mind
+	1549		Body Magic Expert
+	1550		Master of the Body
+	1551		Light Magic Expert
+	1552		Master of Light
+	1553		Dark Magic Expert
+	1554		Master of the Dark
+	1555		Identification Expertise
+	1556		Identification Mastery
+	1557		Expert Merchant Training
+	1558		Master Merchant Training
+	1559		Repair Expertise
+	1560		Repair Mastery
+	1561		Expert Body Building
+	1562		Master Body Building
+	1563		Expert Meditation
+	1564		Master Meditation
+	1565		Expert Perception
+	1566		Master Perception
+	1567		Expert Alchemy
+	1568		Master Alchemy
+	1569		Expert Disarm Training
+	1570		Master Disarm Training
+	1571		Expert Learning Training
+	1572		Master Learning Training
+	1573		Jasper Rice
+	1574		Guy Hampton
+	1575		Jules Miles
+	1576		Avinril Smythers
+	1577		Burton Rutherford
+	1578		Desmond Weller
+	1579		Errol Ostermann
+	1580		Rexella
+	1581		Bronwyn Meck
+	1582		Arlen Sailor
+	1583		David Feather
+	1584		Forrest Suthers
+	1585		Jezebel
+	1586		Caao Salem
+	1587		Harper Collins
+	1588		Revee Botania
+	1589		Bishop Inquisitorio
+	1590		Thane Roper
+	1591		Gilbert Hammer
+	1592		Ki Lo Nee
+	1593		Su Lang Manchu
+	1594		Hans Gifford
+	1595		Will Ottoman
+	1596		Ryan Treacle
+	1597		Jason Traveler
+	1598		Norio Ariganaka
+	1599		Macro Caligula
+	1600		Jacques Kohl
+	1601		Gabe Lester
+	1602		John Tuck
+	1603		Quest
+	1604		Quest
+	1605		Quest
+	1606		Quest
+	1607		Silver Helms
+	1608		Silver Helms
+	1609		Quest
+	1610		Quest
+	1611		Fraternal Order of Silver
+	1612		Melody
+	1613		Ankh
+	1614		Snergle's Key
+	1615		Hidden Passages
+	1616		Quest
+	1617		Quest
+	1618		Quest
+	1619		Quest
+	1620		Put Text Here 307
+	1621		Quest
+	1622		Quest
+	1623		Quest
+	1624		Quest
+	1625		Cobra Eggs
+	1626		Quest
+	1627		Quest
+	1628		Quest
+	1629		Quest
+	1630		Quest
+	1631		Quest
+	1632		Greeting
+	1633		Greeting
+	1634		Blackshire
+	1635		Quest
+	1636		Quest
+	1637		Quest
+	1638		Quest
+	1639		Shadow Guild
+	1640		New Sorpigal
+	1641		Quest
+	1642		Quest
+	1643		Help!
+	1644		Quest
+	1645		Quest
+	1646		Escape
+	1647		Quest
+	1648		Quest
+	1649		Greeting
+	1650		Greeting
+	1651		Werewolves
+	1652		Pearl of Purity
+	1653		Quest
+	1654		Quest
+	1655		Pearl of Purity
+	1656		Put Text Here 343
+	1657		Put Text Here 344
+	1658		Put Text Here 345
+	1659		Put Text Here 346
+	1660		Humans
+	1661		Greeting
+	1662		Advice
+	1663		Odd Jobs
+	1664		Quest
+	1665		Quest
+	1666		Archibald
+	1667		Quest
+	1668		Quest
+	1669		Quest
+	1670		Quest
+	1671		Servants
+	1672		Creature
+	1673		Quest
+	1674		Put Text Here 361
+	1675		Ankh
+	1676		Ankh
+	1677		Ankh
+	1678		Ceremony of the Sun
+	1679		Ceremony of the Moon
+	1680		Put Text Here 367
+	1681		Put Text Here 368
+	1682		Put Text Here 369
+	1683		Put Text Here 370
+	1684		Put Text Here 371
+	1685		Put Text Here 372
+	1686		Put Text Here 373
+	1687		Put Text Here 374
+	1688		Admission to the Oracle
+	1689		Admission to the Oracle
+	1690		Admission to the Oracle
+	1691		Admission to the Oracle
+	1692		Admission to the Oracle
+	1693		Admission to the Oracle
+	1694		Elemental Guild Membership
+	1695		Guild of the Self Membership
+	1696		Buccaneer's Lair Membership
+	1697		Protection Services Membership
+	1698		Smuggler's Guild Membership
+	1699		Blade's End Membership
+	1700		Duelist's Edge Membership
+	1701		Berserker's Fury Membership
+	1702		Air Guild Membership
+	1703		Earth Guild Membership
+	1704		Fire Guild Membership
+	1705		Water Guild Membership
+	1706		Body Guild Membership
+	1707		Mind Guild Membership
+	1708		Spirit Guild Membership
+	1709		Light Guild Membership
+	1710		Dark Guild Membership
+	1711		Quest
+	1712		Bounty Hunt
+	1713		Collect Arena Award
+	1714		Heal Party
+	1715		Make Food
+	1716		Cast Fly
+	1717		Cast Walk on Water
+	1718		Cast Town Portal
+	1719		Cast Bless
+	1720		Cast Heroism
+	1721		No Benefit
+	1722		Empty Barrel
+	1723		Barrel of Red liquid
+	1724		Barrel of Yellow liquid
+	1725		Barrel of Blue liquid
+	1726		Barrel of Orange liquid
+	1727		Barrel of Green liquid
+	1728		Barrel of Purple liquid
+	1729		Barrel of White liquid
+	1730		Empty Cauldron
+	1731		Steaming Brew
+	1732		Frosty Brew
+	1733		Shocking Brew
+	1734		Noxious Brew
+	1735		Magical Brew
+	1736		Cook Pot
+	1737		Cook Pot
+	1738		Cook Pot
+	1739		Cook Pot
+	1740		Cook Pot
+	1741		Flour Sack
+	1742		Flour Sack
+	1743		Large Bag
+	1744		Large Bag
+	1745		Large Bag
+	1746		Large Bag
+	1747		Bag of Gold
+	1748		Trash Heap
+	1749		Trash Heap
+	1750		Skull Pile
+	1751		Skull Pile of Weakness
+	1752		Skull Pile of Curses
+	1753		Skull Pile of Insanity
+	1754		Skull Pile of Death
+	1755		Bucket
+	1756		Bucket
+	1757		Bucket
+	1758		Bucket
+	1759		Crystals
+	1760		Crystals
+	1761		Crystals
+	1762		Crystals
+	1763		Crystals
+	1764		Crystals
+	1765		Bribe
+	1766		Beg
+	1767		Threat
+	1768		Bribe
+	1769		
+	1770		Spirit Magic Grandmaster
+	1771		Spirit Magic Master
+	1772		Spirit Magic Expert
+	1773		Earth Magic Grandmaster
+	1774		Earth Magic Master
+	1775		Earth Magic Expert
+	1776		Water Magic Grandmaster
+	1777		Water Magic Master
+	1778		The Important Matter
+	1779		A Little Something
+	1780		Your Task
+	1781		Time Travel Guide
+	1782		Jadame
+	1783		Antagarich
+	1784		Enroth
+	1785		Something terrible
+	1786		The Controlled Breach
+	1787		What's next?
+	1788		Connector gem
+	1789		Join!
+	1790		Riddle
+	1791		Riddle?
+	1792		Come with me
+	1793		Friend!
+	1794		Runaway Chaos
