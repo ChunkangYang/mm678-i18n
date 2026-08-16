@@ -13,13 +13,14 @@
 - [ ] `exsetscrk.bmp`——上游加了 **"EXTRA KEYBINDS"** 大标题,中文版没有,
   需补(建议:额外按键绑定)
 - `exsetscr2.bmp` 仅底图重导出差异,无需改动
-- (可选)**merge 版 Arcomage 卡牌汉化**:merge 的 `Sprites.pcx`(960×2500,
-  在 `original-latest\mmmerge\Data\mm8.D.lod`)含全部卡牌文字与按钮,LocFR
-  已全翻(参考 `C:\Users\Chen\Downloads\LocFR\zz LocFR.D.lod`)。**大底子已
-  有**:`assets/img/prod/zh_CN/mm7/DATA/icons/Sprites.PCX` 是完整简中卡牌
-  图集(960×1372,MM7 版),merge 版是其加高扩充,可在其基础上补差。
-  `Layout.PCX`(棋盘背景)无文字不用做;FR 包里其余非 wav 差异(法术书
-  空白页 sb*000a、16x/32x 按钮)经比对无文字变化,不需要做
+- ~~merge 版 Arcomage 卡牌汉化~~——**已覆盖**(2026-08 复查):
+  `assets/img/prod/zh_CN/mmmerge_and_mm8/Data/EnglishD/sprites.pcx` 就是
+  全尺寸(960×2500,与最新 merge 英文版同尺寸)简中卡牌图集,随
+  `zz LocZHCN.D.lod` 发货并压过 mm8.D.lod;merge 自身的 mmmerge.D.lod 不含
+  sprites,无扩充卡。之前"FR 做了我们没做"是文件名后缀误判(我们的法术书
+  页叫 `sb*000`,FR 用 `sb*000a`;两套变体英文档里都有且均无文字)。
+  待办仅剩:进 merge 游戏开一局 Arcomage 抽验显示。mm7 版(960×1372)
+  也早已汉化。`Layout.PCX` 无文字不用做
 - (可选)mm7cht 的 `swptree1-4.bmp`(sprites.lod 内无字树木图)与 zh-only
   杂项(lloyd41-45 引导图、全黑 image.pcx)审阅后判定不需要移植
 - zh_TW 的 mm6 图片**暂不翻译**(2026-08 决定):忠实 CHT 原版,只有 2 张
