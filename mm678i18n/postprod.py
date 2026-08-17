@@ -1,7 +1,9 @@
 # Postprod: prod (translated text) + non-text assets -> installable file trees
 # per language/game (DBCS special encoding, fonts, scripts, images, archives).
 
+import concurrent.futures
 import configparser
+import os
 import re
 import shutil
 import subprocess
@@ -15,8 +17,22 @@ from config.languages import LANGUAGES, langEncDict, dbcsLangs, dbcsEncs
 from config.versions import versions
 
 
+# Windows: a file can be transiently locked by antivirus scanning or a
+# concurrent reader (parallel language workers share read-only sources) —
+# retry copies on sharing violations (WinError 32)
+def _copyWithRetry(src, dst):
+	import time
+	for attempt in range(5):
+		try:
+			return shutil.copy2(src, dst)
+		except OSError as e:
+			if getattr(e, 'winerror', None) != 32 or attempt == 4:
+				raise
+			time.sleep(0.2 * (attempt + 1))
+
+
 def copy_tree(src, dst):
-	shutil.copytree(src, dst, dirs_exist_ok = True)
+	shutil.copytree(src, dst, dirs_exist_ok = True, copy_function = _copyWithRetry)
 
 
 # Documented BDF font-mapping template appended to LocalizeConf.ini of
@@ -216,13 +232,13 @@ def processProdText(postprodPath, prodPath):
 				dest = postprodPath.joinpath(p.name).joinpath(game.name)
 				if not game.is_dir():
 					dest.parent.mkdir(parents = True, exist_ok = True)
-					shutil.copy(game, dest)
+					_copyWithRetry(game, dest)
 				elif game.name in settings.native_dbcs_games:
-					shutil.copytree(game, dest)
+					copy_tree(game, dest)
 				else:
 					encodeDbcsSpecialFile(game, dest, langEncDict[p.name])
 		else:
-			shutil.copytree(p, postprodPath.joinpath(p.name))
+			copy_tree(p, postprodPath.joinpath(p.name))
 
 	for p in getFilePaths(postprodPath, '', False):
 		if not wantLang(p.name):
@@ -417,8 +433,51 @@ def processSound(postprodPath):
 	print('Sound process is done.')
 
 
-# pack every '10 Loc*' asset folder into its mm archive (.lod/.snd)
+# content manifest of an archive-input folder (relpath, size, sha256 per
+# file) — the cache key deciding whether a re-pack can be skipped
+def _folderManifest(folder):
+	import hashlib
+	rows = []
+	for p in sorted(folder.rglob('*')):
+		if p.is_file():
+			h = hashlib.sha256()
+			with p.open('rb') as f:
+				for chunk in iter(lambda: f.read(1 << 20), b''):
+					h.update(chunk)
+			rows.append(p.relative_to(folder).as_posix().lower()
+				+ ',' + str(p.stat().st_size) + ',' + h.hexdigest())
+	return '\n'.join(rows)
+
+
+def _packOne(job):
+	folder, archiveType, archiveExt = job
+	archivePath = folder.parent.joinpath(folder.name + '.' + archiveExt)
+	manifest = _folderManifest(folder)
+	cached = Path(settings.cache_folder).joinpath('archives').joinpath(
+		folder.relative_to(settings.postprod_folder)).with_name(folder.name + '.' + archiveExt)
+	cachedManifest = cached.with_name(cached.name + '.manifest')
+	if cached.is_file() and cachedManifest.is_file() \
+			and cachedManifest.read_text(encoding = 'utf-8') == manifest:
+		_copyWithRetry(cached, archivePath)
+		made = ' is made (cached).'
+	else:
+		# no `mmarch o` afterwards: archives output by create are
+		# already optimized (mmarch README)
+		mmarch('c', folder.name + '.' + archiveExt, archiveType, str(folder.parent), str(folder) + '\\*')
+		cached.parent.mkdir(parents = True, exist_ok = True)
+		_copyWithRetry(archivePath, cached)
+		cachedManifest.write_text(manifest, encoding = 'utf-8')
+		made = ' is made.'
+	shutil.rmtree(str(folder))
+	print(str(archivePath) + made)
+
+
+# pack every '10 Loc*' asset folder into its mm archive (.lod/.snd).
+# Packing is the postprod bottleneck (mmarch zlib-compresses every entry):
+# archives pack on a small thread pool, and an input folder whose content
+# manifest matches the build/cache copy reuses the cached archive.
 def packArchives(postprodPath):
+	jobs = []
 	for pntLang in getFilePaths(postprodPath, '', False):
 		if not wantLang(pntLang.name):
 			continue
@@ -445,18 +504,59 @@ def packArchives(postprodPath):
 						archiveExt = 'lod'
 					else:
 						raise ValueError('Unknown archive folder type: ' + str(fInDataFolder))
-					mmarch('c', fInDataFolder.name + '.' + archiveExt, archiveType, str(fInDataFolder.parent), str(fInDataFolder) + '\\*')
-					mmarch('o', str(fInDataFolder.parent.joinpath(fInDataFolder.name + '.' + archiveExt)))
-					shutil.rmtree(str(fInDataFolder))
-					print(str(fInDataFolder.parent.joinpath(fInDataFolder.name + '.' + archiveExt)) + ' is made.')
+					jobs.append((fInDataFolder, archiveType, archiveExt))
+	if not jobs:
+		return
+	with concurrent.futures.ThreadPoolExecutor(max_workers = min(3, len(jobs))) as ex:
+		list(ex.map(_packOne, jobs))
 
 
-def run(langs = None):
+# worker entry for the parallel build (module top level so that
+# multiprocessing spawn can import it)
+def _runOneLang(lang):
+	run([lang], jobs = 1)
+
+
+def run(langs = None, jobs = None):
 	global langFilter
-	langFilter = set(langs) if langs else None
 	postprodPath = Path(settings.postprod_folder)
 	prodPath = Path(settings.prod_folder)
 
+	# languages are independent of each other (zh_TW's voice reuse only
+	# READS zh_CN assets), so a multi-language run fans out into one worker
+	# process per language
+	prodLangs = sorted(x.name for x in prodPath.glob('*') if x.is_dir()) if prodPath.is_dir() else []
+	if langs:
+		missing = sorted(set(langs) - set(prodLangs))
+		if missing:
+			raise SystemExit('no build/prod tree for: ' + ', '.join(missing)
+				+ ' — run `mm678 prod --langs ' + ' '.join(missing) + '` first')
+	workLangs = [x for x in prodLangs if not langs or x in langs]
+	if jobs is None:
+		jobs = max(1, min(len(workLangs), (os.cpu_count() or 4) - 1))
+	if jobs > 1 and len(workLangs) > 1:
+		# shared cleanups happen once here, before the workers (preserving
+		# the serial semantics: a no-filter run cleans the whole tree)
+		if not langs and postprodPath.exists():
+			shutil.rmtree(postprodPath)
+		for p in getFilePaths(prodPath, '', True):
+			if p.name == 'nonprod' and p.exists():
+				shutil.rmtree(p)
+		print('postprod: %d languages in %d parallel workers' % (len(workLangs), jobs))
+		with concurrent.futures.ProcessPoolExecutor(max_workers = jobs) as ex:
+			futures = {ex.submit(_runOneLang, lang): lang for lang in workLangs}
+			failed = []
+			for future in concurrent.futures.as_completed(futures):
+				try:
+					future.result()
+				except Exception as e:
+					failed.append(futures[future])
+					print('postprod worker FAILED for %s: %r' % (futures[future], e))
+			if failed:
+				raise SystemExit('postprod failed for: ' + ', '.join(sorted(failed)))
+		return
+
+	langFilter = set(langs) if langs else None
 	processProdText(postprodPath, prodPath)
 	processScriptsDatatables(postprodPath)
 	processImages(postprodPath)

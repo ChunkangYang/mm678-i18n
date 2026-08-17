@@ -41,7 +41,7 @@ def cmd_prod(args):
 
 def cmd_postprod(args):
 	from . import postprod
-	postprod.run(args.langs)
+	postprod.run(args.langs, args.jobs)
 
 def cmd_release(args):
 	from . import release_builder
@@ -51,7 +51,7 @@ def cmd_build(args):
 	from . import pipeline, postprod, release_builder
 	pipeline.po2Mo(args.langs)
 	pipeline.generateProd(args.langs)
-	postprod.run(args.langs)
+	postprod.run(args.langs, args.jobs)
 	if args.no_release:
 		print('Skipped the release zips (--no-release).')
 	else:
@@ -113,17 +113,22 @@ def main():
 		p.add_argument('--langs', nargs = '+', metavar = 'LANG',
 			help = 'limit to these languages (default: all)')
 		return p
+	def addJobs(p):
+		p.add_argument('--jobs', type = int, metavar = 'N',
+			help = 'parallel per-language workers (default: auto; 1 = serial)')
+		return p
 
-	addLangs(sub.add_parser('mo', help = 'compile .po -> .mo (derived languages regenerated first)')).set_defaults(func = cmd_mo)
+	addLangs(sub.add_parser('mo', help = 'compile .po -> .mo (derived languages regenerated first; '
+		'up-to-date .mo files are skipped)')).set_defaults(func = cmd_mo)
 	addLangs(sub.add_parser('prod', help = 'generate translated game text files from .mo')).set_defaults(func = cmd_prod)
-	addLangs(sub.add_parser('postprod', help = 'assemble installable file trees (text + fonts, scripts, images, sounds)')).set_defaults(func = cmd_postprod)
+	addJobs(addLangs(sub.add_parser('postprod', help = 'assemble installable file trees (text + fonts, scripts, images, sounds)'))).set_defaults(func = cmd_postprod)
 
 	p = addLangs(sub.add_parser('release', help = 'build the extract-over .zip release archives'))
 	p.add_argument('--steps', nargs = '+', choices = ['compose', 'zip'],
 		help = 'run only these steps (default: both)')
 	p.set_defaults(func = cmd_release)
 
-	p = addLangs(sub.add_parser('build', help = 'one-click build: mo + prod + postprod + release zips'))
+	p = addJobs(addLangs(sub.add_parser('build', help = 'one-click build: mo + prod + postprod + release zips')))
 	p.add_argument('--no-release', action = 'store_true',
 		help = 'stop after postprod (skip the release zips)')
 	p.set_defaults(func = cmd_build)

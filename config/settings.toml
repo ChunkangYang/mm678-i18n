@@ -21,6 +21,7 @@ dev_folder      = "build/dev"                       # .py files with gettext cal
 prod_folder     = "build/prod"                      # translated game text
 postprod_folder = "build/postprod"                  # installable file trees
 release_build_folder = "build/release"              # release working dirs + final .zip in out/
+cache_folder    = "build/cache"                     # build caches (packed-archive reuse); safe to delete
 
 # external tool: mmarch (MM archive packer, github.com/might-and-magic/mmarch)
 # installed via npm (`npm i -g mmarch`) and resolved from PATH

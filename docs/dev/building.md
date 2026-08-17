@@ -25,7 +25,9 @@ mm678 build --no-release  # stop after postprod (skip the release zips)
 ```
 
 Output lands in `build/` (git-ignored):
-release zips in `build/release/out/`.
+release zips in `build/release/out/`. `build/cache/` holds the
+packed-archive cache (content-keyed; unchanged folders reuse the cached
+.lod/.snd instead of re-packing — delete it to force a full re-pack).
 
 ## Individual stages
 
@@ -34,7 +36,7 @@ mm678 templates    # regenerate build/templates_ctx after editing templates/
 mm678 dev          # regenerate build/dev after source/template changes
 mm678 mo           # compile .po -> .mo
 mm678 prod         # translated game text -> build/prod
-mm678 postprod     # installable trees -> build/postprod
+mm678 postprod     # installable trees -> build/postprod (parallel per language; --jobs 1 = serial)
 mm678 release   # extract-over release .zip archives -> build/release/out
 mm678 release --steps compose            # just assemble working dirs
 mm678 check        # quality checks (po validity, encodings, line lengths)

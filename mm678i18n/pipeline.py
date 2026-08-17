@@ -427,12 +427,24 @@ def deriveLanguages():
 	from config.languages import DERIVED_LANGUAGES
 	from . import zhconvert
 	for target, (srcLang, method) in DERIVED_LANGUAGES.items():
+		src = Path(settings.i18n_folder).joinpath(srcLang).joinpath(settings.textdomain + '.po')
+		dst = Path(settings.i18n_folder).joinpath(target).joinpath(settings.textdomain + '.po')
+		# up to date = newer than both its source .po and the conversion
+		# code (the special-case replace tables live in zhconvert.py)
+		if dst.is_file() and src.is_file() \
+				and dst.stat().st_mtime > src.stat().st_mtime \
+				and dst.stat().st_mtime > Path(zhconvert.__file__).stat().st_mtime:
+			print(target + ': derived .po up to date, skipped')
+			continue
 		zhconvert.run(method = method, sourceLang = srcLang, targetLang = target)
 
 
-# compile all .po to .mo files (derived languages regenerated first)
+# compile all .po to .mo files (derived languages regenerated first);
+# a .mo newer than its .po is up to date and skipped (delete the .mo or
+# touch the .po to force a recompile)
 def po2Mo(langs = None):
 	deriveLanguages()
+	skipped = 0
 	for currentLang in discoveredLangs():
 		if langs and currentLang not in langs:
 			continue
@@ -440,7 +452,13 @@ def po2Mo(langs = None):
 		if not p.is_file():
 			log('No .po file for language ' + currentLang + ' (' + str(p) + '), skipped.')
 			continue
-		polib.pofile(str(p)).save_as_mofile(str(p.with_suffix('.mo')))
+		moPath = p.with_suffix('.mo')
+		if moPath.is_file() and moPath.stat().st_mtime > p.stat().st_mtime:
+			skipped += 1
+			continue
+		polib.pofile(str(p)).save_as_mofile(str(moPath))
+	if skipped:
+		print('mo: %d language(s) already up to date, skipped' % skipped)
 
 
 # rewrite a .po/.pot with every msgid/msgstr on a single line (no gettext

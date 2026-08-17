@@ -40,6 +40,9 @@
 - `config/versions.toml` 的 merge 版本号更新到最新基线
 - 安装包清理其他语言的残留文件
 - 视频本地化：`assets/video/zh_CN` → `Anims/10 LocZHCN.Magicdod.vid`
+- mmarch 打 icons/EnglishD 档时对约 240 张 UI bmp 报 `Bitmap image is not
+  valid` 后原样存入(round-trip 逐字节一致)。zh_CN 2020 年起同样报错、
+  实机多年无问题 → 判定无害;但 mmarch(自家工具)可考虑收紧/静音该路径
 
 ## Untranslated / display bugs
 

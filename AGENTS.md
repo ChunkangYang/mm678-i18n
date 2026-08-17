@@ -23,7 +23,8 @@ optionally installs it as a real `mm678` command.)
 pip install polib OpenCC         # once — the pipeline dependencies
 mm678 build                      # one-click: .po -> .mo -> game text -> postprod -> release .zip archives
 mm678 build --no-release      # same, stop after postprod
-mm678 templates|dev|mo|prod|postprod|release   # individual stages (mo/prod/postprod/release/build take --langs)
+mm678 templates|dev|mo|prod|postprod|release   # individual stages (mo/prod/postprod/release/build take --langs;
+                                 #   postprod/build take --jobs, default = parallel per-language workers)
 mm678 apply <lang> <game> <install-dir>          # copy a built package onto a game install
 mm678 check                      # po validity + source encodings + .str line lengths (CI runs po+encoding)
 mm678 zhconvert                  # regenerate zh_TW .po from zh_CN (OpenCC)
