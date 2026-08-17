@@ -1,0 +1,22 @@
+# Layer 2 of the .po check allowlist: per-entry exemptions.
+#
+# Layer 1 is built into mm678i18n/pocheck.py -- a translation with less
+# whitespace or fewer line breaks than the source is already exempt. Add an
+# entry here only for a difference that survives layer 1 and you have
+# confirmed is correct.
+#
+# Get a paste-ready key with:  mm678 check po --print-key <lang>
+#
+# key    12 hex chars: sha1(msgctxt + "\x04" + msgid)[:12]
+# lang   the language this exemption applies to
+# checks which sub-checks to suppress for this entry; everything else in
+#        the entry is still checked
+# msgid  a readable excerpt -- documentation only, the code ignores it
+# reason why the difference is correct
+#
+# [[allow]]
+# key    = "3f9a1c04be77"
+# lang   = "zh_CN"
+# checks = ["newline"]
+# msgid  = "Etched into the tree a message reads:"
+# reason = "source pads with trailing spaces; the Chinese uses an explicit break"

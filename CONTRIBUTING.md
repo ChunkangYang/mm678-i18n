@@ -7,10 +7,12 @@ Thanks for helping localize Might and Magic 6/7/8 and MM Merge!
 1. Fork and clone the repo.
 2. Edit `translations/<lang>/mm678.po` — with
    [Poedit](https://poedit.net/) (recommended) or any editor that produces
-   valid gettext syntax. Do not put raw line breaks inside a `msgstr`; use
-   `\n`.
+   valid gettext syntax. Press Enter for a line break inside a `msgstr` —
+   Poedit stores it as the gettext `\n` escape. Do not type a literal
+   backslash followed by `n`.
 3. Run `mm678 check po` (see [docs/dev/building.md](docs/dev/building.md)
-   for setup) to make sure the file still parses.
+   for setup). It checks that the file parses, that your placeholders match
+   the source, and that you have not added stray whitespace or line breaks.
 4. Open a pull request. CI validates the `.po` files and encodings.
 
 To test in-game: `mm678 build --no-release` and copy

@@ -1,11 +1,9 @@
-# Quality checks: po validity, source-file encodings, stray LF line endings,
+# Quality checks: po content, source-file encodings, stray LF line endings,
 # postprod line lengths. `mm678 check` runs everything that is applicable.
 # Each check returns the number of problems found (0 = pass).
 
 import re
 from pathlib import Path
-
-import polib
 
 from . import paths  # noqa: F401
 from .getfilepaths import getFilePaths
@@ -14,19 +12,11 @@ from config.languages import LANGUAGES, langEncDict, dbcsLangs
 
 
 # ---- po files ----
+# The entry-level rules live in pocheck.py; only the 'po' check takes options.
 
-def checkPoFiles():
-	problems = 0
-	i18nPath = Path(settings.i18n_folder)
-	for p in sorted(i18nPath.glob('*/' + settings.textdomain + '.po')):
-		try:
-			po = polib.pofile(str(p))
-			print('OK   ' + str(p) + '  (' + str(len(po)) + ' entries, ' +
-			      str(po.percent_translated()) + '% translated)')
-		except Exception as e:
-			problems += 1
-			print('FAIL ' + str(p) + ': ' + str(e))
-	return problems
+def checkPoFiles(**opts):
+	from . import pocheck
+	return pocheck.run(**opts)
 
 
 # ---- file encodings ----
@@ -129,11 +119,11 @@ CHECKS = {
 DEFAULT_CHECKS = ['po', 'encoding', 'linelength']
 
 
-def run(names = None):
+def run(names = None, **opts):
 	problems = 0
 	for name in (names or DEFAULT_CHECKS):
 		print('== check: ' + name + ' ==')
-		problems += CHECKS[name]()
+		problems += CHECKS[name](**opts) if name == 'po' else CHECKS[name]()
 	if problems:
 		print(str(problems) + ' problem(s) found.')
 	else:

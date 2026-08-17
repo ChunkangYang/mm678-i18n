@@ -87,7 +87,9 @@ def cmd_zhconvert(args):
 
 def cmd_check(args):
 	from . import checks
-	sys.exit(1 if checks.run(args.names or None) else 0)
+	sys.exit(1 if checks.run(args.names or None,
+		langs = args.langs, strict = args.strict,
+		showExempt = args.show_exempt, printKey = args.print_key) else 0)
 
 def cmd_version(args):
 	from config.versions import versions, i18n_release
@@ -153,6 +155,13 @@ def main():
 		'"lf" is an opt-in diagnostic — bare LF in strings is a legitimate soft line break)')
 	p.add_argument('names', nargs = '*', choices = ['po', 'encoding', 'lf', 'linelength'],
 		help = 'checks to run')
+	addLangs(p)
+	p.add_argument('--strict', action = 'store_true',
+		help = 'po: promote whitespace/newline warnings to failures')
+	p.add_argument('--show-exempt', action = 'store_true',
+		help = 'po: also list differences the directional rule suppressed')
+	p.add_argument('--print-key', metavar = 'LANG',
+		help = 'po: print paste-ready config/po_allowlist.toml keys for LANG')
 	p.set_defaults(func = cmd_check)
 
 	sub.add_parser('version', help = 'print pipeline and game/patch versions').set_defaults(func = cmd_version)

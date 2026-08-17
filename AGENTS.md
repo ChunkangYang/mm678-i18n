@@ -26,7 +26,7 @@ mm678 build --no-release      # same, stop after postprod
 mm678 templates|dev|mo|prod|postprod|release   # individual stages (mo/prod/postprod/release/build take --langs;
                                  #   postprod/build take --jobs, default = parallel per-language workers)
 mm678 apply <lang> <game> <install-dir>          # copy a built package onto a game install
-mm678 check                      # po validity + source encodings + .str line lengths (CI runs po+encoding)
+mm678 check                      # po content + source encodings + .str line lengths (CI runs po+encoding)
 mm678 zhconvert                  # regenerate zh_TW .po from zh_CN (OpenCC)
 mm678 new-language <lang>        # create a placeholder .po for a new language
 ```
@@ -34,7 +34,9 @@ mm678 new-language <lang>        # create a placeholder .po for a new language
 The build is Windows-oriented
 (mmarch from PATH via `npm i -g mmarch`, case-insensitive paths);
 `mm678 check` runs anywhere.
-There is no test suite — see "Verifying pipeline changes" below.
+`mm678i18n/pocheck.py` has unit tests: `python -m unittest discover -s tests -v`
+(stdlib unittest, no pytest). The rest of the pipeline has no test suite —
+see "Verifying pipeline changes" below.
 
 ## Architecture (the parts that span multiple files)
 

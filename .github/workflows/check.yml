@@ -15,5 +15,10 @@ jobs:
           python-version: '3.12'
       - name: Install dependencies
         run: pip install polib
+      # ahead of the .po validation: that step is expected to fail until the
+      # pre-existing placeholder defects are fixed, and a failing step would
+      # stop the job before the tests ever ran
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
       - name: Validate .po files and source encodings
         run: python -m mm678i18n check po encoding

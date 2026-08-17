@@ -53,6 +53,16 @@ Consequences:
   - `%07` 爵士Sir/夫人Lady · `%08` Award（完成的任务）之一
   - `%10` 爵士Lord/夫人Lady · `%11`/`%12` 声誉 · `%13` 随机名字
   - `%14`/`%16` 兄弟/姐妹（按NPC性别） · `%15` 女儿（角色是男的也如此，原版bug）
+- `mm678 check po` enforces these. The two families follow different rules:
+  - **printf** (`%s` `%d` `%u` `%lu`) is filled positionally, so both the set
+    and the **order** must match the source. Reordering feeds the wrong
+    argument into the wrong slot — an integer into a `%s` prints garbage or
+    crashes.
+  - **numbered tokens** (`%01`–`%34`) identify themselves, so only the
+    **set** must match; reorder them freely to suit the target language.
+- A literal `%` in prose (`10% chance per point of`) is not a placeholder and
+  is not matched — the checks use an allowlist of the forms above rather than
+  a general printf grammar.
 
 ## Localization plumbing
 
