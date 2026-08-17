@@ -1,8 +1,14 @@
 * text=auto
-*.txt -text
-*.str -text
+
+# Game data files are stored verbatim — they carry CRLF endings and legacy
+# codepages, so no eol conversion. Names unpacked from the LOD archives come
+# in mixed case (.TXT / .STR / .FNT), and gitattributes matching is
+# case-sensitive, hence the character classes.
+*.[tT][xX][tT] -text
+*.[sS][tT][rR] -text
+*.[bB][dD][fF] -text
+*.[tT][bB][lL] -text
+*.[fF][nN][tT] -text
+
 *.po eol=lf
 *.pot eol=lf
-*.bdf -text
-*.tbl -text
-*.fnt -text
