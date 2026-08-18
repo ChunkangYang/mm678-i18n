@@ -69,9 +69,9 @@ installable trees (DBCS re-encoding, fonts, Lua scripts, images, mmarch-packed
 
 ## Translation glossary — consult it whenever translating
 
-`references/glossary/<lang>/glossary.tsv` (e.g.
-`references/glossary/zh_CN/glossary.tsv`) is the terminology table:
-`msgctxt <TAB> English <TAB> translation` for every established game term
+`references/glossary/<lang>/glossary.jsonl` (e.g.
+`references/glossary/fr/glossary.jsonl`) is the generated terminology table:
+one JSON object per line with `msgctxt`, `msgid`, and `msgstr` for every established game term
 (classes, items, monsters, spells, places, stats…). **Any translation work —
 AI or human — must follow it**: an English term that appears inside a longer
 string is rendered with its glossary translation, not re-invented.

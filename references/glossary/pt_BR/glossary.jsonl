@@ -1,0 +1,2431 @@
+{"msgctxt":"autonote or awards","msgid":"Accuracy Boost (White) = Orange + Yellow and Orange Layered","msgstr":"Aumento de Precisão (Branca) = Laranja + Amarela e Laranja em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered","msgstr":"Resistência ao Ar (Branca) = Poção em Camadas Vermelha e Laranja + Poção em Camadas Azul e Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Awaken (Green) = Yellow + Blue","msgstr":"Despertar (Verde) = Amarela + Azul"}
+{"msgctxt":"autonote or awards","msgid":"Bless (Red and Green Layered) = Red + Green","msgstr":"Benção (Vermelha e Verde em Camadas) = Vermelha + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Bless (White) = Purple + Blue","msgstr":"Benção (Branca) = Roxa + Azul"}
+{"msgctxt":"autonote or awards","msgid":"Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered","msgstr":"Resistência a Corpo (Branca) = Poção em Camadas Azul e Verde + Poção em Camadas Amarela e Laranja"}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"Catalisador (Cinza) = Cogumelos + Frasco Vazio.  Diferentes reagentes cinza podem ser usados para aumentar o efeito."}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"Catalisador (Cinza) = Cogumelos + Frasco Vazio.  Diferentes reagentes cinza podem ser usados para aumentar o efeito."}
+{"msgctxt":"autonote or awards","msgid":"Cure Disease (Orange) = Yellow + Red","msgstr":"Curar doença (Laranja) = Amarela + Vermelha"}
+{"msgctxt":"autonote or awards","msgid":"Cure Insanity (Orange and Green Layered) = Orange + Green","msgstr":"Curar Loucura (Laranja e Verde em Camadas) = Laranja + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Green + Yellow and Orange Layered","msgstr":"Curar Paralisia (Branca) = Verde + Amarela e Laranja em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Orange + Yellow and Green Layered","msgstr":"Curar Paralisia (Branca) = Laranja + Amarela e Verde em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Cure Poison (Purple) = Blue + Red","msgstr":"Curar envenenamento (Roxa) = Azul + Vermelha"}
+{"msgctxt":"autonote or awards","msgid":"Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.","msgstr":"Curar Fraqueza (Amarela) = Estalos de Papoula + Frasco Vazio.  Diferentes reagentes amarelos podem ser usados para aumentar o efeito."}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle","msgstr":"Curar ferimentos (Vermelha) = Bagas de Choro-de-Viúva + Frasco Vazio"}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.","msgstr":"Curar ferimentos (Vermelha) = Bagas de Choro-de-Viúva + Frasco Vazio.  Diferentes reagentes vermelhos podem ser usados para aumentar o efeito."}
+{"msgctxt":"autonote or awards","msgid":"Divine Boost = Divine Power + Any attribute boost potion.","msgstr":"Impulso Divino = Poder Divino + Qualquer poção de aumento de atributo."}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (Black) = Restoration + Orange","msgstr":"Cura divina (Preta) = Restauração + Laranja"}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered","msgstr":"Cura divina (Branca) = Poção em Camadas Vermelha e Laranja + Poção em Camadas Amarela e Laranja"}
+{"msgctxt":"autonote or awards","msgid":"Divine Magic (Black) = Super Resistance + Green","msgstr":"Magia Divina (Preta) = Super-resistência + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (Black) = Extreme Energy + Purple","msgstr":"Poder Divino (Preta) = Energia Extrema + Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (White) = Blue and Green Layered + Yellow and Green Layered","msgstr":"Poder Divino (Branca) = Poção em Camadas Azul e Verde + Poção em Camadas Amarela e Verde"}
+{"msgctxt":"autonote or awards","msgid":"Divine Protection = Divine Cure + Any resistance potion.","msgstr":"Proteção Divina = Cura divina + Qualquer poção de resistência."}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered","msgstr":"Restauração Divina (Branca) = Poção em Camadas Azul e Roxa + Poção em Camadas Amarela e Laranja"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered","msgstr":"Restauração Divina (Branca) = Poção em Camadas Vermelha e Laranja + Poção em Camadas Azul e Verde"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered","msgstr":"Restauração Divina (Branca) = Poção em Camadas Vermelha e Roxa + Poção em Camadas Amarela e Verde"}
+{"msgctxt":"autonote or awards","msgid":"Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)","msgstr":"Transcendência Divina = Restauração Divina + Curar Loucura (ou Remover medo, ou Remover maldição)"}
+{"msgctxt":"autonote or awards","msgid":"Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered","msgstr":"Resistência à Terra (Branca) = Poção em Camadas Vermelha e Roxa + Poção em Camadas Amarela e Laranja"}
+{"msgctxt":"autonote or awards","msgid":"Endurance Boost (White) = Purple + Blue and Purple Layered","msgstr":"Aumento de Resistência (Branca) = Roxa + Azul e Roxa em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Energy (Yellow) = Poppysnaps + Empty Bottle","msgstr":"Energia (Amarela) = Estalos de Papoula + Frasco Vazio"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy (Black) = Bless + Yellow","msgstr":"Essência da Precisão (Preta) = Benção + Amarela"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy = Cure Insanity + Stoneskin","msgstr":"Essência da Precisão = Curar Loucura + Pele de Pedra"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance (Black) = Supreme Protection + Yellow","msgstr":"Essência da Resistência (Preta) = Proteção Suprema + Amarela"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance = Remove Curse + Recharge Item","msgstr":"Essência da Resistência = Remover maldição + Recarregar Item"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect (Black) = Stone Skin + Blue","msgstr":"Essência do Intelecto (Preta) = Pele de pedra + Azul"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect = Remove Curse + Shield ","msgstr":"Essência do Intelecto = Remover maldição + Escudo "}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck (Black) = Super Resistance + Purple","msgstr":"Essência da Sorte (Preta) = Super-resistência + Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin","msgstr":"Essência da Sorte = Aceleração + Heroísmo, Recarregar Item + Escudo, Endurecer item + Pele de Pedra"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might (Black) = Heroism + Red","msgstr":"Essência da Força (Preta) = Heroísmo + Vermelha"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might = Remove Fear + Heroism","msgstr":"Essência da Força = Remover medo + Heroísmo"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality (Black) = Restoration + Blue","msgstr":"Essência da Personalidade (Preta) = Restauração + Azul"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality = Remove Fear + Haste","msgstr":"Essência da Personalidade = Remover medo + Aceleração"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed (Black) = Haste + Red","msgstr":"Essência da Velocidade (Preta) = Aceleração + Vermelha"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed = Cure Insanity + Harden Item","msgstr":"Essência da Velocidade = Curar Loucura + Endurecer item"}
+{"msgctxt":"autonote or awards","msgid":"Extreme Energy (White) = Orange + Yellow","msgstr":"Energia Extrema (Branca) = Laranja + Amarela"}
+{"msgctxt":"autonote or awards","msgid":"Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered","msgstr":"Resistência ao Fogo (Branca) = Poção em Camadas Vermelha e Laranja + Poção em Camadas Amarela e Verde"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Green + Red and Orange Layered","msgstr":"Poção Flamejante (Branca) = Verde + Vermelha e Laranja em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Purple + Yellow and Orange Layered","msgstr":"Poção Flamejante (Branca) = Roxa + Amarela e Laranja em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Green + Red and Purple Layered","msgstr":"Poção Congelante (Branca) = Verde + Vermelha e Roxa em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Orange + Blue and Purple Layered","msgstr":"Poção Congelante (Branca) = Laranja + Azul e Roxa em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Harden Item (Yellow and Green Layered) = Yellow + Green","msgstr":"Endurecer item (Amarela e Verde em Camadas) = Amarela + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Haste (Red and Orange Layered) = Red + Orange","msgstr":"Aceleração (Vermelha e Laranja em Camadas) = Vermelha + Laranja"}
+{"msgctxt":"autonote or awards","msgid":"Haste (White) = Green + Yellow","msgstr":"Aceleração (Branca) = Verde + Amarela"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (Red and Purple Layered) = Red + Purple","msgstr":"Heroísmo (Vermelha e Roxa em Camadas) = Vermelha + Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (White) = Orange + Red","msgstr":"Heroísmo (Branca) = Laranja + Vermelha"}
+{"msgctxt":"autonote or awards","msgid":"Intellect Boost (White) = Green + Yellow and Green Layered","msgstr":"Aumento de Intelecto (Branca) = Verde + Amarela e Verde em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"Bônus de Sorte (Branca) = Poção em Camadas Vermelha e Roxa + Poção em Camadas Azul e Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"Botas da Sorte (Brancas) = Poção em Camadas Vermelha e Roxa + Poção em Camadas Azul e Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"Poção de Magia (Azul) = Raiz de Phima + Frasco Vazio.  Diferentes reagentes azuis podem ser usados para aumentar o efeito."}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle","msgstr":"Poção de Magia (Azul) = Raiz de Phirna + Frasco Vazio"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"Poção de Magia (Azul) = Raiz de Phirna + Frasco Vazio.  Diferentes reagentes azuis podem ser usados para aumentar o efeito."}
+{"msgctxt":"autonote or awards","msgid":"Might Boost (White) = Purple + Red and Purple Layered","msgstr":"Aumento de Força (Branca) = Roxa + Vermelha e Roxa em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered","msgstr":"Resistência à Mente (Branca) = Poção em Camadas Vermelha e Roxa + Poção em Camadas Azul e Verde"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Orange + Blue and Green Layered","msgstr":"Poção Nociva (Branca) = Laranja + Azul e Verde em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Purple + Yellow and Green Layered","msgstr":"Poção Nociva (Branca) = Roxa + Amarela e Verde em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Personality Boost (White) = Green + Blue and Green Layered","msgstr":"Bônus de Personalidade (Branca) = Verde + Azul e Verde em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity","msgstr":"Poção da Perdição = Remover maldição + Remover medo, Remover maldição + Curar Loucura, Remover medo + Curar Loucura"}
+{"msgctxt":"autonote or awards","msgid":"Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.","msgstr":"Poção dos Deuses = Essência da Força + Endurecer item ou Essência do Intelecto + Pele de Pedra ou Essência da Personalidade + Recarregar item ou Essência da Resistência + Aceleração ou Essência da Precisão + Escudo ou Essência da Velocidade + Heroísmo."}
+{"msgctxt":"autonote or awards","msgid":"Preservation (Blue and Orange Layered) = Blue + Orange","msgstr":"Preservação (Azul e Laranja em Camadas) = Azul + Laranja"}
+{"msgctxt":"autonote or awards","msgid":"Protection (Orange) = Yellow + Red","msgstr":"Proteção (Laranja) = Amarela + Vermelha"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Cure Insanity + Bless","msgstr":"Proteção contra a Magia = Curar Loucura + Benção"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Curse + Water Breathing","msgstr":"Proteção contra a Magia = Remover maldição + Respiração Aquática"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Fear + Preservation","msgstr":"Proteção contra a Magia = Remover medo + Preservação"}
+{"msgctxt":"autonote or awards","msgid":"Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)","msgstr":"Precisão Pura (Preta) = Poção Verde + Aumento de Precisão (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Air Resistance = Essence of Luck + Air Resistance","msgstr":"Resistência Pura ao Ar = Essência da Sorte + Resistência ao Ar"}
+{"msgctxt":"autonote or awards","msgid":"Pure Body Resistance = Essence of Luck + Body Resistance","msgstr":"Resistência Pura a Corpo = Essência da Sorte + Resistência a Corpo"}
+{"msgctxt":"autonote or awards","msgid":"Pure Earth Resistance = Essence of Luck + Earth Resistance","msgstr":"Resistência Pura à Terra = Essência da Sorte + Resistência à Terra"}
+{"msgctxt":"autonote or awards","msgid":"Pure Endurance (Black) = Green Potion + Endurance Boost (White)","msgstr":"Resistência Pura (Preta) = Poção Verde + Aumento de Resistência (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Fire Resistance = Essence of Luck + Fire Resistance","msgstr":"Resistência Pura ao Fogo = Essência da Sorte + Resistência ao Fogo"}
+{"msgctxt":"autonote or awards","msgid":"Pure Intellect (Black) = Orange Potion + Intellect Boost (White)","msgstr":"Intelecto Puro (Preta) = Poção Laranja + Aumento de Intelecto (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)","msgstr":"Sorte Pura (Preta) = Poção em Camadas Amarela e Laranja + Poção Veloz (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Might (Black) = Orange Potion + Might Boost (White)","msgstr":"Força Pura (Preta) = Poção Laranja + Aumento de Força (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Mind Resistance = Essence of Luck + Mind Resistance","msgstr":"Resistência Pura à Mente = Essência da Sorte + Resistência à Mente"}
+{"msgctxt":"autonote or awards","msgid":"Pure Personality (Black) = Purple Potion + Personality Boost (White)","msgstr":"Personalidade Pura (Preta) = Poção Roxa + Bônus de Personalidade (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Speed (Black) = Purple Potion + Speed Boost (White)","msgstr":"Velocidade Pura (Preta) = Poção Roxa + Aumento de Velocidade (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Water Resistance = Essence of Luck + Water Resistance","msgstr":"Resistência Pura à Água = Essência da Sorte + Resistência à Água"}
+{"msgctxt":"autonote or awards","msgid":"Recharge Item (Blue and Green Layered) = Blue + Green","msgstr":"Recarregar Item (Azul e Verde em Camadas) = Azul + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)","msgstr":"Rejuvenescimento (Preta) = Poção em Camadas Azul e Laranja + Restauração Divina (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Extreme Energy + Green","msgstr":"Rejuvenescimento (Preta) = Energia Extrema + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)","msgstr":"Rejuvenescimento (Preta) = Poção em Camadas Vermelha e Verde + Restauração Divina (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)","msgstr":"Rejuvenescimento (Preta) = Poção em Camadas Amarela e Roxa + Restauração Divina (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Remove Curse (Purple and Green Layered) = Purple + Green","msgstr":"Remover maldição (Roxa e Verde em Camadas) = Roxa + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Remove Fear (Orange and Purple Layered) = Orange + Purple","msgstr":"Remover medo (Laranja e Roxa em Camadas) = Laranja + Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Resistance (Green) = Yellow + Blue","msgstr":"Resistência (Verde) = Amarela + Azul"}
+{"msgctxt":"autonote or awards","msgid":"Restoration(White) = Purple + Green","msgstr":"Restauração(Branca) = Roxa + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Shield (Blue and Purple Layered) = Blue + Purple","msgstr":"Escudo (Azul e Roxa em Camadas) = Azul + Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Orange + Red and Purple Layered","msgstr":"Poção Eletrizante (Branca) = Laranja + Vermelha e Roxa em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Purple + Red and Orange Layered","msgstr":"Poção Eletrizante (Branca) = Roxa + Vermelha e Laranja em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)","msgstr":"Poção de Extermínio (Preta) = Poção em Camadas Azul e Roxa + Poção Flamejante (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Speed Boost (White) = Orange + Red and Orange Layered","msgstr":"Aumento de Velocidade (Branca) = Laranja + Vermelha e Laranja em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Stone Skin (White) = Orange + Blue","msgstr":"Pele de pedra (Branca) = Laranja + Azul"}
+{"msgctxt":"autonote or awards","msgid":"Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)","msgstr":"Pedra em Carne (Preta) = Poção em Camadas Vermelha e Roxa + Curar Paralisia (Branca)"}
+{"msgctxt":"autonote or awards","msgid":"Stoneskin (Yellow and Orange Layered) = Yellow + Orange","msgstr":"Pele de Pedra (Amarela e Laranja em Camadas) = Amarela + Laranja"}
+{"msgctxt":"autonote or awards","msgid":"Super Resistance (White) = Green + Blue","msgstr":"Super-resistência (Branca) = Verde + Azul"}
+{"msgctxt":"autonote or awards","msgid":"Supreme Protection (White) = Orange + Green","msgstr":"Proteção Suprema (Branca) = Laranja + Verde"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Green + Blue and Purple Layered","msgstr":"Poção Veloz (Branca) = Verde + Azul e Roxa em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Purple + Blue and Green Layered","msgstr":"Poção Veloz (Branca) = Roxa + Azul e Verde em Camadas"}
+{"msgctxt":"autonote or awards","msgid":"Water Breathing (Yellow and Purple Layered) = Yellow + Purple","msgstr":"Respiração Aquática (Amarela e Roxa em Camadas) = Amarela + Roxa"}
+{"msgctxt":"autonote or awards","msgid":"Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered","msgstr":"Resistência à Água (Branca) = Poção em Camadas Azul e Roxa + Poção em Camadas Amarela e Verde"}
+{"msgctxt":"class","msgid":"Arch Druid","msgstr":"Arquidruida"}
+{"msgctxt":"class","msgid":"Arch Mage","msgstr":"Arquimago"}
+{"msgctxt":"class","msgid":"Archer","msgstr":"Arqueiro"}
+{"msgctxt":"class","msgid":"Assassin","msgstr":"Assassino"}
+{"msgctxt":"class","msgid":"Battle Mage","msgstr":"Mago de batalha"}
+{"msgctxt":"class","msgid":"Black Knight","msgstr":"Cavaleiro Negro"}
+{"msgctxt":"class","msgid":"Bounty Hunter","msgstr":"Caçador de Recompensas"}
+{"msgctxt":"class","msgid":"Cavalier","msgstr":"Cavaleiro"}
+{"msgctxt":"class","msgid":"Champion","msgstr":"Campeão"}
+{"msgctxt":"class","msgid":"Cleric","msgstr":"Clérigo"}
+{"msgctxt":"class","msgid":"Crusader","msgstr":"Cruzado"}
+{"msgctxt":"class","msgid":"Dark Elf","msgstr":"Elfo Sombrio"}
+{"msgctxt":"class","msgid":"Dark Elf Patriarch","msgstr":"Patriarca Elfo Sombrio"}
+{"msgctxt":"class","msgid":"Dragon","msgstr":"Dragão"}
+{"msgctxt":"class","msgid":"Druid","msgstr":"Druida"}
+{"msgctxt":"class","msgid":"Great Druid","msgstr":"Grande druida"}
+{"msgctxt":"class","msgid":"Great Wyrm","msgstr":"Grande Serpe"}
+{"msgctxt":"class","msgid":"Hero","msgstr":"Herói"}
+{"msgctxt":"class","msgid":"High Priest","msgstr":"Sumo sacerdote"}
+{"msgctxt":"class","msgid":"Hunter","msgstr":"Caçador"}
+{"msgctxt":"class","msgid":"Initiate","msgstr":"Iniciado"}
+{"msgctxt":"class","msgid":"Knight","msgstr":"Cavaleiro"}
+{"msgctxt":"class","msgid":"Lich","msgstr":"Lich"}
+{"msgctxt":"class","msgid":"Master","msgstr":"Mestre"}
+{"msgctxt":"class","msgid":"Master Archer","msgstr":"Mestre Arqueiro"}
+{"msgctxt":"class","msgid":"Master Necromancer","msgstr":"Mestre Necromante"}
+{"msgctxt":"class","msgid":"Master Wizard","msgstr":"Mestre Mago"}
+{"msgctxt":"class","msgid":"Minotaur","msgstr":"Minotauro"}
+{"msgctxt":"class","msgid":"Minotaur Lord","msgstr":"Lorde Minotauro"}
+{"msgctxt":"class","msgid":"Monk","msgstr":"Monge"}
+{"msgctxt":"class","msgid":"Necromancer","msgstr":"Necromante"}
+{"msgctxt":"class","msgid":"Ninja","msgstr":"Ninja"}
+{"msgctxt":"class","msgid":"Nosferatu","msgstr":"Nosferatu"}
+{"msgctxt":"class","msgid":"Paladin","msgstr":"Paladino"}
+{"msgctxt":"class","msgid":"Patriarch","msgstr":"Patriarca"}
+{"msgctxt":"class","msgid":"Peasant","msgstr":"Camponês"}
+{"msgctxt":"class","msgid":"Priest","msgstr":"Sacerdote"}
+{"msgctxt":"class","msgid":"Priest of Light","msgstr":"Sacerdote da Luz"}
+{"msgctxt":"class","msgid":"Priest of the Dark","msgstr":"Sacerdote das Trevas"}
+{"msgctxt":"class","msgid":"Priest of the Light","msgstr":"Sacerdote da Luz"}
+{"msgctxt":"class","msgid":"Priest of the Sun","msgstr":"Sacerdote do Sol"}
+{"msgctxt":"class","msgid":"Ranger","msgstr":"Patrulheiro"}
+{"msgctxt":"class","msgid":"Ranger Lord","msgstr":"Lorde dos patrulheiros"}
+{"msgctxt":"class","msgid":"Rogue","msgstr":"Ladino"}
+{"msgctxt":"class","msgid":"Sniper","msgstr":"Atirador de Elite"}
+{"msgctxt":"class","msgid":"Sorcerer","msgstr":"Feiticeiro"}
+{"msgctxt":"class","msgid":"Spy","msgstr":"Espião"}
+{"msgctxt":"class","msgid":"Thief","msgstr":"Ladrão"}
+{"msgctxt":"class","msgid":"Troll","msgstr":"Troll"}
+{"msgctxt":"class","msgid":"Vampire","msgstr":"Vampiro"}
+{"msgctxt":"class","msgid":"Villain","msgstr":"Vilão"}
+{"msgctxt":"class","msgid":"War Troll","msgstr":"Troll de Guerra"}
+{"msgctxt":"class","msgid":"Warlock","msgstr":"Bruxo"}
+{"msgctxt":"class","msgid":"Warrior Mage","msgstr":"Mago Guerreiro"}
+{"msgctxt":"class","msgid":"Wizard","msgstr":"Mago"}
+{"msgctxt":"condition","msgid":"Afraid","msgstr":"Com medo"}
+{"msgctxt":"condition","msgid":"Asleep","msgstr":"Dormindo"}
+{"msgctxt":"condition","msgid":"Cursed","msgstr":"Amaldiçoado"}
+{"msgctxt":"condition","msgid":"Dead","msgstr":"Morto"}
+{"msgctxt":"condition","msgid":"Diseased","msgstr":"Doente"}
+{"msgctxt":"condition","msgid":"Drunk","msgstr":"Bêbado"}
+{"msgctxt":"condition","msgid":"Eradicated","msgstr":"Erradicado"}
+{"msgctxt":"condition","msgid":"Good","msgstr":"Bem"}
+{"msgctxt":"condition","msgid":"Insane","msgstr":"Insano"}
+{"msgctxt":"condition","msgid":"Paralyzed","msgstr":"Paralisado"}
+{"msgctxt":"condition","msgid":"Poison","msgstr":"Envenenado"}
+{"msgctxt":"condition","msgid":"Stoned","msgstr":"Petrificado"}
+{"msgctxt":"condition","msgid":"Unconscious","msgstr":"Inconsciente"}
+{"msgctxt":"condition","msgid":"Weak","msgstr":"Fraco"}
+{"msgctxt":"condition","msgid":"Zombie","msgstr":"Zumbi"}
+{"msgctxt":"items","msgid":"Abbey Normal Golem Head","msgstr":"Cabeça de Golem Normal da Abadia"}
+{"msgctxt":"items","msgid":"Accuracy Boost","msgstr":"Aumento de Precisão"}
+{"msgctxt":"items","msgid":"Accuracy Boost Recipe","msgstr":"Receita de Aumento de Precisão"}
+{"msgctxt":"items","msgid":"Accurate Crossbow","msgstr":"Besta Precisa"}
+{"msgctxt":"items","msgid":"Aegis","msgstr":"Égide"}
+{"msgctxt":"items","msgid":"Air Resistance","msgstr":"Resistência ao Ar"}
+{"msgctxt":"items","msgid":"Air Resistance Recipe","msgstr":"Receita de Resistência ao Ar"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Acid","msgstr":"Varinha de Alicórnio do Ácido"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Blades","msgstr":"Varinha de Lâminas de Alacorn"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Charms","msgstr":"Varinha de Encantos de Alacorn"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Fireballs","msgstr":"Varinha Alacorn de Bolas de Fogo"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Ice","msgstr":"Varinha de Gelo de Alacorn"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Lightning","msgstr":"Varinha Alacorn do Relâmpago"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Swarms","msgstr":"Varinha de Enxames de Alacorn"}
+{"msgctxt":"items","msgid":"Alloyed Shield","msgstr":"Escudo de Liga Metálica"}
+{"msgctxt":"items","msgid":"Almighty Crown","msgstr":"Coroa Onipotente"}
+{"msgctxt":"items","msgid":"Altar Piece","msgstr":"Peça do altar"}
+{"msgctxt":"items","msgid":"Alvar Cloak","msgstr":"Manto de Alvar"}
+{"msgctxt":"items","msgid":"Alvarian Boots","msgstr":"Botas Alvarianas"}
+{"msgctxt":"items","msgid":"Alvarian Leather","msgstr":"Couro Alvariano"}
+{"msgctxt":"items","msgid":"Alvarian Poignard","msgstr":"Punhal Alvariano"}
+{"msgctxt":"items","msgid":"Amber","msgstr":"Âmbar"}
+{"msgctxt":"items","msgid":"Amethyst","msgstr":"Ametista"}
+{"msgctxt":"items","msgid":"Amethyst Ring","msgstr":"Anel de Ametista"}
+{"msgctxt":"items","msgid":"Amuck","msgstr":"Frenesi"}
+{"msgctxt":"items","msgid":"Amythest","msgstr":"Ametista"}
+{"msgctxt":"items","msgid":"Ancient Amulet","msgstr":"Amuleto Antigo"}
+{"msgctxt":"items","msgid":"Angel Statue Painting","msgstr":"Pintura da Estátua de Anjo"}
+{"msgctxt":"items","msgid":"Angel Statuette","msgstr":"Estatueta de Anjo"}
+{"msgctxt":"items","msgid":"Angel's Ring","msgstr":"Anel do Anjo"}
+{"msgctxt":"items","msgid":"Angelic Helm","msgstr":"Elmo Angelical"}
+{"msgctxt":"items","msgid":"Ania Selving","msgstr":"Ania Selving"}
+{"msgctxt":"items","msgid":"Ankh","msgstr":"Ankh"}
+{"msgctxt":"items","msgid":"Anointed Herb Potion","msgstr":"Poção de Ervas Ungidas"}
+{"msgctxt":"items","msgid":"Aphrodite","msgstr":"Afrodite"}
+{"msgctxt":"items","msgid":"Apollo","msgstr":"Apolo"}
+{"msgctxt":"items","msgid":"Apple","msgstr":"Maçã"}
+{"msgctxt":"items","msgid":"Arcane Key","msgstr":"Chave Arcana"}
+{"msgctxt":"items","msgid":"Arcane Wand of Blasting","msgstr":"Varinha Arcana da Explosão"}
+{"msgctxt":"items","msgid":"Arcane Wand of Clouds","msgstr":"Varinha Arcana das Nuvens"}
+{"msgctxt":"items","msgid":"Arcane Wand of Lightning","msgstr":"Varinha Arcana do Relâmpago"}
+{"msgctxt":"items","msgid":"Arcane Wand of Paralyzing","msgstr":"Varinha Arcana da Paralisia"}
+{"msgctxt":"items","msgid":"Arcane Wand of Rocks","msgstr":"Varinha Arcana das Rochas"}
+{"msgctxt":"items","msgid":"Arcane Wand of the Fist","msgstr":"Varinha Arcana do Punho"}
+{"msgctxt":"items","msgid":"Archangel Broadsword","msgstr":"Espada Larga de Arcanjo"}
+{"msgctxt":"items","msgid":"Archangel Wings","msgstr":"Asas de Arcanjo"}
+{"msgctxt":"items","msgid":"Archibald Ironfist Painting","msgstr":"Retrato de Archibald Ironfist"}
+{"msgctxt":"items","msgid":"Arcomage Deck","msgstr":"Baralho de Arcomage"}
+{"msgctxt":"items","msgid":"Ares","msgstr":"Ares"}
+{"msgctxt":"items","msgid":"Armored Boots","msgstr":"Botas Blindadas"}
+{"msgctxt":"items","msgid":"Artemis","msgstr":"Ártemis"}
+{"msgctxt":"items","msgid":"Arthur","msgstr":"Artur"}
+{"msgctxt":"items","msgid":"Artificer's Belt","msgstr":"Cinto do Artífice"}
+{"msgctxt":"items","msgid":"Assassin's Dagger","msgstr":"Adaga do Assassino"}
+{"msgctxt":"items","msgid":"Astral Shield","msgstr":"Escudo Astral"}
+{"msgctxt":"items","msgid":"Athena","msgstr":"Atena"}
+{"msgctxt":"items","msgid":"Atlas","msgstr":"Atlas"}
+{"msgctxt":"items","msgid":"Awaken","msgstr":"Despertar"}
+{"msgctxt":"items","msgid":"Axe of Balthazar","msgstr":"Machado de Balthazar"}
+{"msgctxt":"items","msgid":"Back Door Key","msgstr":"Chave da Porta dos Fundos"}
+{"msgctxt":"items","msgid":"Ball of Dunduck","msgstr":"Bola de Dunduck"}
+{"msgctxt":"items","msgid":"Banded Plate","msgstr":"Armadura de Placas Laminada"}
+{"msgctxt":"items","msgid":"Barbed Club","msgstr":"Clava farpada"}
+{"msgctxt":"items","msgid":"Barbed Trident","msgstr":"Tridente Farpado"}
+{"msgctxt":"items","msgid":"Barrow Key","msgstr":"Chave do Túmulo"}
+{"msgctxt":"items","msgid":"Basic Cryptography","msgstr":"Criptografia Básica"}
+{"msgctxt":"items","msgid":"Bathhouse Key","msgstr":"Chave da Casa de Banhos"}
+{"msgctxt":"items","msgid":"Battle Axe","msgstr":"Machado de Batalha"}
+{"msgctxt":"items","msgid":"Battle Hatchet","msgstr":"Machadinha de Batalha"}
+{"msgctxt":"items","msgid":"Battle Helm","msgstr":"Elmo de batalha"}
+{"msgctxt":"items","msgid":"Battleaxe","msgstr":"Machado de Batalha"}
+{"msgctxt":"items","msgid":"Beaked Halberd","msgstr":"Alabarda de Bico"}
+{"msgctxt":"items","msgid":"Bear Statuette","msgstr":"Estatueta de Urso"}
+{"msgctxt":"items","msgid":"Berserk","msgstr":"Frenesi"}
+{"msgctxt":"items","msgid":"Berserker Belt","msgstr":"Cinto do Berserker"}
+{"msgctxt":"items","msgid":"Bibliotheca Chest Key","msgstr":"Chave do Baú da Bibliotheca"}
+{"msgctxt":"items","msgid":"Big Brass Ring","msgstr":"Grande Anel de Latão"}
+{"msgctxt":"items","msgid":"Big Tapestry","msgstr":"Tapeçaria Grande"}
+{"msgctxt":"items","msgid":"Bill of Sale","msgstr":"Contrato de compra e venda"}
+{"msgctxt":"items","msgid":"Blackmail Letter","msgstr":"Carta de Chantagem"}
+{"msgctxt":"items","msgid":"Blade of Mercy","msgstr":"Lâmina da Misericórdia"}
+{"msgctxt":"items","msgid":"Blaster","msgstr":"Bláster"}
+{"msgctxt":"items","msgid":"Blaster Rifle","msgstr":"Rifle Bláster"}
+{"msgctxt":"items","msgid":"Bless","msgstr":"Benção"}
+{"msgctxt":"items","msgid":"Blessed Ring","msgstr":"Anel Abençoado"}
+{"msgctxt":"items","msgid":"Blood Dagger","msgstr":"Adaga de Sangue"}
+{"msgctxt":"items","msgid":"Blood Drop Crossbow","msgstr":"Besta da Gota de Sangue"}
+{"msgctxt":"items","msgid":"Blood Talisman","msgstr":"Talismã de Sangue"}
+{"msgctxt":"items","msgid":"Blue Quartz","msgstr":"Quartzo azul"}
+{"msgctxt":"items","msgid":"Body Resistance","msgstr":"Resistência a Corpo"}
+{"msgctxt":"items","msgid":"Body Resistance Recipe","msgstr":"Receita de Resistência a Corpo"}
+{"msgctxt":"items","msgid":"Bone","msgstr":"Osso"}
+{"msgctxt":"items","msgid":"Bone of Doom","msgstr":"Osso da Perdição"}
+{"msgctxt":"items","msgid":"Bone Staff","msgstr":"Cajado de Osso"}
+{"msgctxt":"items","msgid":"Brass Charm","msgstr":"Talismã de latão"}
+{"msgctxt":"items","msgid":"Brass Ring","msgstr":"Anel de Latão"}
+{"msgctxt":"items","msgid":"Breaker","msgstr":"Rompedor"}
+{"msgctxt":"items","msgid":"Broadsword","msgstr":"Espada Larga"}
+{"msgctxt":"items","msgid":"Bronze Amulet","msgstr":"Amuleto de Bronze"}
+{"msgctxt":"items","msgid":"Bronze Ring","msgstr":"Anel de bronze"}
+{"msgctxt":"items","msgid":"Bronze Shield","msgstr":"Escudo de Bronze"}
+{"msgctxt":"items","msgid":"Calvary Shield","msgstr":"Escudo de Cavalaria"}
+{"msgctxt":"items","msgid":"Candelabra","msgstr":"Candelabro"}
+{"msgctxt":"items","msgid":"Cannon Design Notes","msgstr":"Anotações do Projeto do Canhão"}
+{"msgctxt":"items","msgid":"Cannonball of Dominion","msgstr":"Bala de Canhão do Domínio"}
+{"msgctxt":"items","msgid":"Captain's Code","msgstr":"Código do Capitão"}
+{"msgctxt":"items","msgid":"Captain's Cutlass","msgstr":"Sabre de Abordagem do Capitão"}
+{"msgctxt":"items","msgid":"Caravaner's Crossbow","msgstr":"Besta do Caravaneiro"}
+{"msgctxt":"items","msgid":"Caravaner's Leather","msgstr":"Couro do Caravaneiro"}
+{"msgctxt":"items","msgid":"Caravaner's Small Shield","msgstr":"Escudo Pequeno do Caravaneiro"}
+{"msgctxt":"items","msgid":"Cardinal Cloak","msgstr":"Capa Cardinalícia"}
+{"msgctxt":"items","msgid":"Case of Soul Jars","msgstr":"Caixa de Jarros de Almas"}
+{"msgctxt":"items","msgid":"Castle Shield","msgstr":"Escudo do Castelo"}
+{"msgctxt":"items","msgid":"Catalyst","msgstr":"Catalisador"}
+{"msgctxt":"items","msgid":"Catherine's Key","msgstr":"Chave de Catherine"}
+{"msgctxt":"items","msgid":"Cavalier Gauntlets","msgstr":"Manoplas de Cavaleiro"}
+{"msgctxt":"items","msgid":"Celestial Shield","msgstr":"Escudo Celestial"}
+{"msgctxt":"items","msgid":"Cell Key","msgstr":"Chave da Cela"}
+{"msgctxt":"items","msgid":"Central Pillar Key","msgstr":"Chave do Pilar Central"}
+{"msgctxt":"items","msgid":"Certificate of Authentication","msgstr":"Certificado de Autenticidade"}
+{"msgctxt":"items","msgid":"Chain Mail","msgstr":"Cota de Malha"}
+{"msgctxt":"items","msgid":"Champion Sword","msgstr":"Espada do Campeão"}
+{"msgctxt":"items","msgid":"Champion's Sword","msgstr":"Espada do Campeão"}
+{"msgctxt":"items","msgid":"Charele","msgstr":"Charele"}
+{"msgctxt":"items","msgid":"Charged connector stone","msgstr":"Pedra de Conexão Carregada"}
+{"msgctxt":"items","msgid":"Chest Key","msgstr":"Chave do Baú"}
+{"msgctxt":"items","msgid":"Chime of Harmony","msgstr":"Carrilhão da Harmonia"}
+{"msgctxt":"items","msgid":"Cipher","msgstr":"Cifra"}
+{"msgctxt":"items","msgid":"Citrine","msgstr":"Citrino"}
+{"msgctxt":"items","msgid":"Clanker's Amulet","msgstr":"Amuleto de Clanker"}
+{"msgctxt":"items","msgid":"Claw Amulet","msgstr":"Amuleto de garra"}
+{"msgctxt":"items","msgid":"Cloak of Baa","msgstr":"Manto de Baa"}
+{"msgctxt":"items","msgid":"Cloak of the Sheep","msgstr":"Manto da Ovelha"}
+{"msgctxt":"items","msgid":"Cloth Hat","msgstr":"Chapéu de Tecido"}
+{"msgctxt":"items","msgid":"Club","msgstr":"Clava"}
+{"msgctxt":"items","msgid":"Cobra Egg","msgstr":"Ovo de Cobra"}
+{"msgctxt":"items","msgid":"Colony Zod Key","msgstr":"Chave da Colônia Zod"}
+{"msgctxt":"items","msgid":"Common Halberd","msgstr":"Alabarda Comum"}
+{"msgctxt":"items","msgid":"Communication Officer's Code","msgstr":"Código do Oficial de Comunicações"}
+{"msgctxt":"items","msgid":"Composite Bow","msgstr":"Arco Composto"}
+{"msgctxt":"items","msgid":"Conan","msgstr":"Conan"}
+{"msgctxt":"items","msgid":"Conflux Key","msgstr":"Chave do Confluxo"}
+{"msgctxt":"items","msgid":"Connector stone","msgstr":"Pedra de Conexão"}
+{"msgctxt":"items","msgid":"Conscript's Helm","msgstr":"Elmo do Conscrito"}
+{"msgctxt":"items","msgid":"Contestant's Shield","msgstr":"Escudo do Competidor"}
+{"msgctxt":"items","msgid":"Control Cube","msgstr":"Cubo de Controle"}
+{"msgctxt":"items","msgid":"Control Undead","msgstr":"Controlar Mortos-Vivos"}
+{"msgctxt":"items","msgid":"Corsair","msgstr":"Corsário"}
+{"msgctxt":"items","msgid":"Crate of Arrowheads","msgstr":"Caixote de Pontas de Flecha"}
+{"msgctxt":"items","msgid":"Crate of Enrothian Wine","msgstr":"Caixote de Vinho Enrothiano"}
+{"msgctxt":"items","msgid":"Crate of Glass Bottles","msgstr":"Caixote de Garrafas de Vidro"}
+{"msgctxt":"items","msgid":"Crate of Griffin Feathers","msgstr":"Caixote de Penas de Grifo"}
+{"msgctxt":"items","msgid":"Crate of Sand","msgstr":"Caixa de Areia"}
+{"msgctxt":"items","msgid":"Crate of Tularean Wood","msgstr":"Caixote de Madeira Tulareana"}
+{"msgctxt":"items","msgid":"Cronos","msgstr":"Cronos"}
+{"msgctxt":"items","msgid":"Crossbow","msgstr":"Besta"}
+{"msgctxt":"items","msgid":"Crown","msgstr":"Coroa"}
+{"msgctxt":"items","msgid":"Crown of Final Dominion","msgstr":"Coroa do Domínio Final"}
+{"msgctxt":"items","msgid":"Crude Axe","msgstr":"Machado Tosco"}
+{"msgctxt":"items","msgid":"Crude Bow","msgstr":"Arco Tosco"}
+{"msgctxt":"items","msgid":"Crude Crossbow","msgstr":"Besta Rudimentar"}
+{"msgctxt":"items","msgid":"Crude Dagger","msgstr":"Adaga Rudimentar"}
+{"msgctxt":"items","msgid":"Crude Leather Armor","msgstr":"Armadura de Couro Rudimentar"}
+{"msgctxt":"items","msgid":"Crude Longbow","msgstr":"Arco Longo Rústico"}
+{"msgctxt":"items","msgid":"Crude Longsword","msgstr":"Espada Longa Rudimentar"}
+{"msgctxt":"items","msgid":"Crude Mace","msgstr":"Maça Rudimentar"}
+{"msgctxt":"items","msgid":"Crude Spear","msgstr":"Lança rudimentar"}
+{"msgctxt":"items","msgid":"Crude Trident","msgstr":"Tridente Rústico"}
+{"msgctxt":"items","msgid":"Cruel Spear","msgstr":"Lança cruel"}
+{"msgctxt":"items","msgid":"Crusader Sword","msgstr":"Espada do Cruzado"}
+{"msgctxt":"items","msgid":"Crusader's Gauntlets","msgstr":"Manoplas do Cruzado"}
+{"msgctxt":"items","msgid":"Crushed Rose Petals","msgstr":"Pétalas de Rosa Trituradas"}
+{"msgctxt":"items","msgid":"Crystal Dagger","msgstr":"Adaga de Cristal"}
+{"msgctxt":"items","msgid":"Crystal of Terrax","msgstr":"Cristal de Terrax"}
+{"msgctxt":"items","msgid":"Crystal Skull","msgstr":"Crânio de Cristal"}
+{"msgctxt":"items","msgid":"Cure Disease","msgstr":"Curar doença"}
+{"msgctxt":"items","msgid":"Cure Insanity","msgstr":"Curar Loucura"}
+{"msgctxt":"items","msgid":"Cure Paralysis","msgstr":"Curar Paralisia"}
+{"msgctxt":"items","msgid":"Cure Paralysis Recipe","msgstr":"Receita de Curar Paralisia"}
+{"msgctxt":"items","msgid":"Cure Poison","msgstr":"Curar envenenamento"}
+{"msgctxt":"items","msgid":"Cure Weakness","msgstr":"Curar Fraqueza"}
+{"msgctxt":"items","msgid":"Cure Wounds","msgstr":"Curar ferimentos"}
+{"msgctxt":"items","msgid":"Cutlass","msgstr":"Sabre de Abordagem"}
+{"msgctxt":"items","msgid":"Cycle of Life","msgstr":"Ciclo da Vida"}
+{"msgctxt":"items","msgid":"Dadeross' Letter to Fellmoon","msgstr":"Carta de Dadeross para Fellmoon"}
+{"msgctxt":"items","msgid":"Dagger","msgstr":"Adaga"}
+{"msgctxt":"items","msgid":"Dagger Wound Oddities","msgstr":"Peculiaridades dos Ferimentos de Adaga"}
+{"msgctxt":"items","msgid":"Dark Containment","msgstr":"Contenção das Trevas"}
+{"msgctxt":"items","msgid":"Dark Elven Bastard Sword","msgstr":"Espada Bastarda dos Elfos Negros"}
+{"msgctxt":"items","msgid":"Dark Elven Longsword","msgstr":"Espada Longa Élfica Sombria"}
+{"msgctxt":"items","msgid":"Dark Grasp","msgstr":"Garra das Trevas"}
+{"msgctxt":"items","msgid":"Dark Hammer","msgstr":"Martelo das Trevas"}
+{"msgctxt":"items","msgid":"Dark Knight Plate","msgstr":"Armadura de Placas do Cavaleiro Negro"}
+{"msgctxt":"items","msgid":"Datura","msgstr":"Datura"}
+{"msgctxt":"items","msgid":"Dazzling Ring","msgstr":"Anel Ofuscante"}
+{"msgctxt":"items","msgid":"Death Head Shield","msgstr":"Escudo da Caveira"}
+{"msgctxt":"items","msgid":"Death Mace","msgstr":"Maça da Morte"}
+{"msgctxt":"items","msgid":"Death's Head Pendant","msgstr":"Pingente da Caveira"}
+{"msgctxt":"items","msgid":"Deck of Fate","msgstr":"Baralho do Destino"}
+{"msgctxt":"items","msgid":"Defender Helm","msgstr":"Elmo do Defensor"}
+{"msgctxt":"items","msgid":"Detect Life","msgstr":"Detectar vida"}
+{"msgctxt":"items","msgid":"Devil Plans","msgstr":"Planos dos diabos"}
+{"msgctxt":"items","msgid":"Devilbone Bow","msgstr":"Arco de Osso Demoníaco"}
+{"msgctxt":"items","msgid":"Diamond","msgstr":"Diamante"}
+{"msgctxt":"items","msgid":"Diary Page","msgstr":"Página de Diário"}
+{"msgctxt":"items","msgid":"Dimension door","msgstr":"Porta Dimensional"}
+{"msgctxt":"items","msgid":"Dire Wolf Pelt","msgstr":"Pele de Lobo Atroz"}
+{"msgctxt":"items","msgid":"Discharge Papers","msgstr":"Documentos de Dispensa"}
+{"msgctxt":"items","msgid":"Disheveled Chain Mail","msgstr":"Cota de Malha Malcuidada"}
+{"msgctxt":"items","msgid":"Divine Boost ","msgstr":"Impulso Divino "}
+{"msgctxt":"items","msgid":"Divine Boost recipe","msgstr":"Receita de Impulso Divino"}
+{"msgctxt":"items","msgid":"Divine Cure","msgstr":"Cura divina"}
+{"msgctxt":"items","msgid":"Divine Cure Recipe","msgstr":"Receita de Cura divina"}
+{"msgctxt":"items","msgid":"Divine Dagger","msgstr":"Adaga Divina"}
+{"msgctxt":"items","msgid":"Divine Magic","msgstr":"Magia Divina"}
+{"msgctxt":"items","msgid":"Divine Power","msgstr":"Poder Divino"}
+{"msgctxt":"items","msgid":"Divine Power Recipe","msgstr":"Receita de Poder Divino"}
+{"msgctxt":"items","msgid":"Divine Protection","msgstr":"Proteção Divina"}
+{"msgctxt":"items","msgid":"Divine Protection recipe","msgstr":"Receita de Proteção Divina"}
+{"msgctxt":"items","msgid":"Divine Restoration","msgstr":"Restauração Divina"}
+{"msgctxt":"items","msgid":"Divine Restoration Recipe","msgstr":"Receita de Restauração Divina"}
+{"msgctxt":"items","msgid":"Divine Transcendence","msgstr":"Transcendência Divina"}
+{"msgctxt":"items","msgid":"Divine Transcendence recipe","msgstr":"Receita de Transcendência Divina"}
+{"msgctxt":"items","msgid":"Doctor's Code","msgstr":"Código do Médico"}
+{"msgctxt":"items","msgid":"Doom's Day Cloak","msgstr":"Manto do Juízo Final"}
+{"msgctxt":"items","msgid":"Dragon Claw","msgstr":"Garra de dragão"}
+{"msgctxt":"items","msgid":"Dragon Egg","msgstr":"Ovo de Dragão"}
+{"msgctxt":"items","msgid":"Dragon Harpoon","msgstr":"Arpão de Dragão"}
+{"msgctxt":"items","msgid":"Dragon Helm","msgstr":"Elmo de dragão"}
+{"msgctxt":"items","msgid":"Dragon Hide Gauntlets","msgstr":"Manoplas de Couro de Dragão"}
+{"msgctxt":"items","msgid":"Dragon Hunter's Shield","msgstr":"Escudo do Caçador de Dragões"}
+{"msgctxt":"items","msgid":"Dragon Leader's Egg","msgstr":"Ovo do Líder dos Dragões"}
+{"msgctxt":"items","msgid":"Dragon Leather","msgstr":"Couro de Dragão"}
+{"msgctxt":"items","msgid":"Dragon Statuette","msgstr":"Estatueta de Dragão"}
+{"msgctxt":"items","msgid":"Dragon Tower Keys","msgstr":"Chaves da Torre do Dragão"}
+{"msgctxt":"items","msgid":"Dragon Turtle Fang","msgstr":"Presa de Tartaruga-Dragão"}
+{"msgctxt":"items","msgid":"Dragon's Eye","msgstr":"Olho do Dragão"}
+{"msgctxt":"items","msgid":"Dragonbane Flower","msgstr":"Flor Mata-Dragões"}
+{"msgctxt":"items","msgid":"Dragoning Plate","msgstr":"Armadura de Placas Dragoning"}
+{"msgctxt":"items","msgid":"Dragonning Blade","msgstr":"Lâmina de Caça a Dragões"}
+{"msgctxt":"items","msgid":"Dragonning Boots","msgstr":"Botas de Caça a Dragões"}
+{"msgctxt":"items","msgid":"Dried Sunfish","msgstr":"Peixe-lua Seco"}
+{"msgctxt":"items","msgid":"Drogg's Helm","msgstr":"Elmo de Drogg"}
+{"msgctxt":"items","msgid":"Druid Circlet of Power","msgstr":"Diadema do Poder do Druida"}
+{"msgctxt":"items","msgid":"Drum of Victory","msgstr":"Tambor da Vitória"}
+{"msgctxt":"items","msgid":"Dueling Long Dagger","msgstr":"Adaga longa de Duelo"}
+{"msgctxt":"items","msgid":"Duelist Blade","msgstr":"Lâmina do Duelista"}
+{"msgctxt":"items","msgid":"Dwarven Axe","msgstr":"Machado dos anões"}
+{"msgctxt":"items","msgid":"Dwarven Battleaxe","msgstr":"Machado de Batalha Anão"}
+{"msgctxt":"items","msgid":"Dwarven Dagger","msgstr":"Adaga dos Anões"}
+{"msgctxt":"items","msgid":"Dwarven Hammer","msgstr":"Martelo dos Anões"}
+{"msgctxt":"items","msgid":"Dwarven Morningstar","msgstr":"Maça-Estrela Anã"}
+{"msgctxt":"items","msgid":"Eagle Statuette","msgstr":"Estatueta de Águia"}
+{"msgctxt":"items","msgid":"Earth Resistance","msgstr":"Resistência à Terra"}
+{"msgctxt":"items","msgid":"Earth Resistance Recipe","msgstr":"Receita de Resistência à Terra"}
+{"msgctxt":"items","msgid":"East Pillar Key","msgstr":"Chave do Pilar Leste"}
+{"msgctxt":"items","msgid":"Ebonest","msgstr":"Ebonest"}
+{"msgctxt":"items","msgid":"Eclipse","msgstr":"Eclipse"}
+{"msgctxt":"items","msgid":"Elderaxe","msgstr":"Machado Ancestral"}
+{"msgctxt":"items","msgid":"Eldritch Shield","msgstr":"Escudo Místico"}
+{"msgctxt":"items","msgid":"Elegant Cloak","msgstr":"Manto Elegante"}
+{"msgctxt":"items","msgid":"Elegant Letter","msgstr":"Carta Elegante"}
+{"msgctxt":"items","msgid":"Elfbane","msgstr":"Ruína dos Elfos"}
+{"msgctxt":"items","msgid":"Elite Halberd","msgstr":"Alabarda de Elite"}
+{"msgctxt":"items","msgid":"Elite Minotaur Axe","msgstr":"Machado de Minotauro de Elite"}
+{"msgctxt":"items","msgid":"Elixir","msgstr":"Elixir"}
+{"msgctxt":"items","msgid":"Elsenrail","msgstr":"Elsenrail"}
+{"msgctxt":"items","msgid":"Elven Bow","msgstr":"Arco Élfico"}
+{"msgctxt":"items","msgid":"Elven Chainmail","msgstr":"Cota de Malha Élfica"}
+{"msgctxt":"items","msgid":"Elven Cloak","msgstr":"Manto élfico"}
+{"msgctxt":"items","msgid":"Elven Long Spear","msgstr":"Lança Longa Élfica"}
+{"msgctxt":"items","msgid":"Elven Longbow","msgstr":"Arco Longo Élfico"}
+{"msgctxt":"items","msgid":"Elven Saber","msgstr":"Sabre élfico"}
+{"msgctxt":"items","msgid":"Elven Spear","msgstr":"Lança élfica"}
+{"msgctxt":"items","msgid":"Elven Warbow","msgstr":"Arco de Guerra Élfico"}
+{"msgctxt":"items","msgid":"Elvish Toadstool","msgstr":"Cogumelo Élfico"}
+{"msgctxt":"items","msgid":"Emerald","msgstr":"Esmeralda"}
+{"msgctxt":"items","msgid":"Emerald Ring","msgstr":"Anel de Esmeralda"}
+{"msgctxt":"items","msgid":"Emerald Staff","msgstr":"Cajado de Esmeralda"}
+{"msgctxt":"items","msgid":"Emperor Thorn's Key","msgstr":"Chave do Imperador Thorn"}
+{"msgctxt":"items","msgid":"Empty Message Scroll","msgstr":"Pergaminho de Mensagem Vazio"}
+{"msgctxt":"items","msgid":"Enchanted Amulet","msgstr":"Amuleto Encantado"}
+{"msgctxt":"items","msgid":"Enchanted Leather","msgstr":"Couro Encantado"}
+{"msgctxt":"items","msgid":"Enchanted Ring","msgstr":"Anel Encantado"}
+{"msgctxt":"items","msgid":"Endurance Boost","msgstr":"Aumento de Resistência"}
+{"msgctxt":"items","msgid":"Endurance Boost Recipe","msgstr":"Receita de Aumento de Resistência"}
+{"msgctxt":"items","msgid":"Enemies List","msgstr":"Lista de Inimigos"}
+{"msgctxt":"items","msgid":"Energy","msgstr":"Energia"}
+{"msgctxt":"items","msgid":"Engineer's Code","msgstr":"Código do Engenheiro"}
+{"msgctxt":"items","msgid":"Enslave","msgstr":"Escravizar"}
+{"msgctxt":"items","msgid":"Erathian Long Dagger","msgstr":"Adaga longa de Erathia"}
+{"msgctxt":"items","msgid":"Erudine Chainmail","msgstr":"Cota de Malha de Erudine"}
+{"msgctxt":"items","msgid":"Erudine-laced ore","msgstr":"Minério Impregnado de Erudine"}
+{"msgctxt":"items","msgid":"Essence of Accuracy","msgstr":"Essência da Precisão"}
+{"msgctxt":"items","msgid":"Essence of Accuracy recipe","msgstr":"Receita de Essência da Precisão"}
+{"msgctxt":"items","msgid":"Essence of Endurance","msgstr":"Essência da Resistência"}
+{"msgctxt":"items","msgid":"Essence of Endurance recipe","msgstr":"Receita de Essência da Resistência"}
+{"msgctxt":"items","msgid":"Essence of Intellect","msgstr":"Essência do Intelecto"}
+{"msgctxt":"items","msgid":"Essence of Intellect recipe","msgstr":"Receita de Essência do Intelecto"}
+{"msgctxt":"items","msgid":"Essence of Luck","msgstr":"Essência da Sorte"}
+{"msgctxt":"items","msgid":"Essence of Luck recipe","msgstr":"Receita de Essência da Sorte"}
+{"msgctxt":"items","msgid":"Essence of Might","msgstr":"Essência da Força"}
+{"msgctxt":"items","msgid":"Essence of Might recipe","msgstr":"Receita de Essência da Força"}
+{"msgctxt":"items","msgid":"Essence of Personality","msgstr":"Essência da Personalidade"}
+{"msgctxt":"items","msgid":"Essence of Personality recipe","msgstr":"Receita de Essência da Personalidade"}
+{"msgctxt":"items","msgid":"Essence of Speed","msgstr":"Essência da Velocidade"}
+{"msgctxt":"items","msgid":"Essence of Speed recipe","msgstr":"Receita de Essência da Velocidade"}
+{"msgctxt":"items","msgid":"Ethereal Ring","msgstr":"Anel Etéreo"}
+{"msgctxt":"items","msgid":"Ethric's Skull","msgstr":"Crânio de Ethric"}
+{"msgctxt":"items","msgid":"Ethric's Staff","msgstr":"Cajado de Ethric"}
+{"msgctxt":"items","msgid":"Excalibur","msgstr":"Excalibur"}
+{"msgctxt":"items","msgid":"Excerpt from a Diary","msgstr":"Trecho de um Diário"}
+{"msgctxt":"items","msgid":"Exquisite Long Dagger","msgstr":"Adaga longa requintada"}
+{"msgctxt":"items","msgid":"Exquisite Ring","msgstr":"Anel Requintado"}
+{"msgctxt":"items","msgid":"Extreme Energy","msgstr":"Energia Extrema"}
+{"msgctxt":"items","msgid":"Eyeball Amulet","msgstr":"Amuleto do Globo Ocular"}
+{"msgctxt":"items","msgid":"Fae Dust","msgstr":"Pó Feérico"}
+{"msgctxt":"items","msgid":"Faerie Key","msgstr":"Chave Feérica"}
+{"msgctxt":"items","msgid":"Faerie Pipes","msgstr":"Flautas Feéricas"}
+{"msgctxt":"items","msgid":"Faerie Ring","msgstr":"Anel das fadas"}
+{"msgctxt":"items","msgid":"Fairy Wand of Fire","msgstr":"Varinha do Fogo Feérica"}
+{"msgctxt":"items","msgid":"Fairy Wand of Harm","msgstr":"Varinha de Ferir Feérica"}
+{"msgctxt":"items","msgid":"Fairy Wand of Ice","msgstr":"Varinha de Fada de Gelo"}
+{"msgctxt":"items","msgid":"Fairy Wand of Lashing","msgstr":"Varinha Feérica do Açoite"}
+{"msgctxt":"items","msgid":"Fairy Wand of Light","msgstr":"Varinha Feérica da Luz"}
+{"msgctxt":"items","msgid":"Fairy Wand of Mind","msgstr":"Varinha da Mente Feérica"}
+{"msgctxt":"items","msgid":"Fairy Wand of Poison","msgstr":"Varinha Feérica do Veneno"}
+{"msgctxt":"items","msgid":"Fairy Wand of Sparks","msgstr":"Varinha Feérica das Faíscas"}
+{"msgctxt":"items","msgid":"Fairy Wand of Swarms","msgstr":"Varinha Feérica dos Enxames"}
+{"msgctxt":"items","msgid":"False Report","msgstr":"Relatório Falso"}
+{"msgctxt":"items","msgid":"False Riverstride Plans","msgstr":"Falsas Plantas do Riverstride"}
+{"msgctxt":"items","msgid":"Fancy Hat","msgstr":"Chapéu Elegante"}
+{"msgctxt":"items","msgid":"Fanged Blade","msgstr":"Lâmina com Presas"}
+{"msgctxt":"items","msgid":"Fate","msgstr":"Destino"}
+{"msgctxt":"items","msgid":"Festival Hat","msgstr":"Chapéu de Festival"}
+{"msgctxt":"items","msgid":"Field Hammer","msgstr":"Martelo de Campanha"}
+{"msgctxt":"items","msgid":"Finality","msgstr":"Desfecho"}
+{"msgctxt":"items","msgid":"Fine Belt","msgstr":"Cinto Refinado"}
+{"msgctxt":"items","msgid":"Fine Chain Mail","msgstr":"Cota de Malha Refinada"}
+{"msgctxt":"items","msgid":"Fine Ring","msgstr":"Anel Refinado"}
+{"msgctxt":"items","msgid":"Fire Amulet","msgstr":"Amuleto de fogo"}
+{"msgctxt":"items","msgid":"Fire Aura","msgstr":"Aura de Fogo"}
+{"msgctxt":"items","msgid":"Fire Resistance","msgstr":"Resistência ao Fogo"}
+{"msgctxt":"items","msgid":"Fire Resistance Recipe","msgstr":"Receita de Resistência ao Fogo"}
+{"msgctxt":"items","msgid":"Fire Spike","msgstr":"Espinho de Fogo"}
+{"msgctxt":"items","msgid":"First Mate's Code","msgstr":"Código do Imediato"}
+{"msgctxt":"items","msgid":"Flail","msgstr":"Mangual"}
+{"msgctxt":"items","msgid":"Flame Door Key","msgstr":"Chave da Porta das Chamas"}
+{"msgctxt":"items","msgid":"Flaming Potion","msgstr":"Poção Flamejante"}
+{"msgctxt":"items","msgid":"Flaming Potion Recipe","msgstr":"Receita de Poção Flamejante"}
+{"msgctxt":"items","msgid":"Flawed Amulets","msgstr":"Amuletos Defeituosos"}
+{"msgctxt":"items","msgid":"Fleetfingers","msgstr":"Dedos Ligeiros"}
+{"msgctxt":"items","msgid":"Floor Tile (w/ moon insignia)","msgstr":"Ladrilho (com insígnia da lua)"}
+{"msgctxt":"items","msgid":"Flower (Rose)","msgstr":"Flor (Rosa)"}
+{"msgctxt":"items","msgid":"Flute","msgstr":"Flauta"}
+{"msgctxt":"items","msgid":"Focal Ring","msgstr":"Anel Focal"}
+{"msgctxt":"items","msgid":"Footman's Axe","msgstr":"Machado do Soldado de Infantaria"}
+{"msgctxt":"items","msgid":"Forge Gauntlets","msgstr":"Manoplas da Forja"}
+{"msgctxt":"items","msgid":"Forged Vouchers","msgstr":"Vales Falsificados"}
+{"msgctxt":"items","msgid":"Foulfang","msgstr":"Presa Pútrida"}
+{"msgctxt":"items","msgid":"Four Leaf Clover","msgstr":"Trevo de Quatro Folhas"}
+{"msgctxt":"items","msgid":"Fragment of Soldier's Diary","msgstr":"Fragmento do Diário de um Soldado"}
+{"msgctxt":"items","msgid":"Freezing Potion","msgstr":"Poção Congelante"}
+{"msgctxt":"items","msgid":"Freezing Potion Recipe","msgstr":"Receita de Poção Congelante"}
+{"msgctxt":"items","msgid":"Full Helm","msgstr":"Elmo Fechado"}
+{"msgctxt":"items","msgid":"Galahad","msgstr":"Galahad"}
+{"msgctxt":"items","msgid":"Garnet","msgstr":"Granada"}
+{"msgctxt":"items","msgid":"Gauntlets","msgstr":"Manoplas"}
+{"msgctxt":"items","msgid":"Gem of Restoration","msgstr":"Gema da Restauração"}
+{"msgctxt":"items","msgid":"Gemstone Ring","msgstr":"Anel de Pedra Preciosa"}
+{"msgctxt":"items","msgid":"Genie Lamp","msgstr":"Lâmpada do Gênio"}
+{"msgctxt":"items","msgid":"Ghost Ring","msgstr":"Anel do Fantasma"}
+{"msgctxt":"items","msgid":"Ghoulsbane","msgstr":"Flagelo dos Carniçais"}
+{"msgctxt":"items","msgid":"Gibbet","msgstr":"Forca"}
+{"msgctxt":"items","msgid":"Gilded Belt","msgstr":"Cinto folheado a ouro"}
+{"msgctxt":"items","msgid":"Glomenmail","msgstr":"Malha de Glomen"}
+{"msgctxt":"items","msgid":"Glomenthal","msgstr":"Glomenthal"}
+{"msgctxt":"items","msgid":"Glorious Cloak","msgstr":"Capa Gloriosa"}
+{"msgctxt":"items","msgid":"Glory Shield","msgstr":"Escudo da Glória"}
+{"msgctxt":"items","msgid":"Goblin Cutlass","msgstr":"Sabre de Abordagem Goblin"}
+{"msgctxt":"items","msgid":"Goblin Scimitar","msgstr":"Cimitarra Goblin"}
+{"msgctxt":"items","msgid":"Goblin Shield","msgstr":"Escudo Goblin"}
+{"msgctxt":"items","msgid":"Goblinwatch Code","msgstr":"Código de Vigia Goblin"}
+{"msgctxt":"items","msgid":"Gold","msgstr":"Ouro"}
+{"msgctxt":"items","msgid":"Gold Ring","msgstr":"Anel de Ouro"}
+{"msgctxt":"items","msgid":"Golden Chain Mail","msgstr":"Cota de Malha Dourada"}
+{"msgctxt":"items","msgid":"Golden Plate Armor","msgstr":"Armadura de Placas Dourada"}
+{"msgctxt":"items","msgid":"Golden Pyramid","msgstr":"Pirâmide Dourada"}
+{"msgctxt":"items","msgid":"Golem chest","msgstr":"Torso do golem"}
+{"msgctxt":"items","msgid":"Golem head","msgstr":"Cabeça de Golem"}
+{"msgctxt":"items","msgid":"Golem left arm","msgstr":"Braço Esquerdo do Golem"}
+{"msgctxt":"items","msgid":"Golem left leg","msgstr":"Perna Esquerda do Golem"}
+{"msgctxt":"items","msgid":"Golem right arm","msgstr":"Braço Direito do Golem"}
+{"msgctxt":"items","msgid":"Golem right leg","msgstr":"Perna Direita do Golem"}
+{"msgctxt":"items","msgid":"Gothic Amulet","msgstr":"Amuleto Gótico"}
+{"msgctxt":"items","msgid":"Governor's Armor","msgstr":"Armadura do Governador"}
+{"msgctxt":"items","msgid":"Graceful Sword","msgstr":"Espada Grácil"}
+{"msgctxt":"items","msgid":"Grand Poleax","msgstr":"Alabarda Grande"}
+{"msgctxt":"items","msgid":"Grand Poleaxe","msgstr":"Alabarda Grande"}
+{"msgctxt":"items","msgid":"Great Sword","msgstr":"Espada grande"}
+{"msgctxt":"items","msgid":"Green Apple","msgstr":"Maçã verde"}
+{"msgctxt":"items","msgid":"Green Garnet","msgstr":"Granada Verde"}
+{"msgctxt":"items","msgid":"Griffin Bow","msgstr":"Arco do grifo"}
+{"msgctxt":"items","msgid":"Grognard's Cutlass","msgstr":"Sabre de Abordagem de Grognard"}
+{"msgctxt":"items","msgid":"Ground Wyvern Horn","msgstr":"Chifre de Serpe Moído"}
+{"msgctxt":"items","msgid":"Gryphonheart's Trumpet","msgstr":"Trombeta de Gryphonheart"}
+{"msgctxt":"items","msgid":"Guardian","msgstr":"Guardião"}
+{"msgctxt":"items","msgid":"Guardian Helm","msgstr":"Elmo do Guardião"}
+{"msgctxt":"items","msgid":"Guild Key","msgstr":"Chave da Guilda"}
+{"msgctxt":"items","msgid":"Guinevere","msgstr":"Guinevere"}
+{"msgctxt":"items","msgid":"Hades","msgstr":"Hades"}
+{"msgctxt":"items","msgid":"Halberd","msgstr":"Alabarda"}
+{"msgctxt":"items","msgid":"Haldar's Remains","msgstr":"Restos Mortais de Haldar"}
+{"msgctxt":"items","msgid":"Hammer","msgstr":"Martelo"}
+{"msgctxt":"items","msgid":"Hammerhands","msgstr":"Mãos de martelo"}
+{"msgctxt":"items","msgid":"Hand Axe","msgstr":"Machado de Mão"}
+{"msgctxt":"items","msgid":"Hands of the Master","msgstr":"Mãos do Mestre"}
+{"msgctxt":"items","msgid":"Harden Item","msgstr":"Endurecer item"}
+{"msgctxt":"items","msgid":"Hardened Leather Boots","msgstr":"Botas de Couro Endurecido"}
+{"msgctxt":"items","msgid":"Hardened Leather Vest","msgstr":"Colete de Couro Endurecido"}
+{"msgctxt":"items","msgid":"Hareck's Leather","msgstr":"Couro de Hareck"}
+{"msgctxt":"items","msgid":"Harp","msgstr":"Harpa"}
+{"msgctxt":"items","msgid":"Harpy Feather","msgstr":"Pena de Harpia"}
+{"msgctxt":"items","msgid":"Haste","msgstr":"Aceleração"}
+{"msgctxt":"items","msgid":"Havoc","msgstr":"Devastação"}
+{"msgctxt":"items","msgid":"Hayfork","msgstr":"Forquilha"}
+{"msgctxt":"items","msgid":"Headsman's Poleaxe","msgstr":"Alabarda do Carrasco"}
+{"msgctxt":"items","msgid":"Headsman's Reaver","msgstr":"Ceifadora do Carrasco"}
+{"msgctxt":"items","msgid":"Heal","msgstr":"Cura"}
+{"msgctxt":"items","msgid":"Heart of Air","msgstr":"Coração do Ar"}
+{"msgctxt":"items","msgid":"Heart of Earth","msgstr":"Coração da Terra"}
+{"msgctxt":"items","msgid":"Heart of Fire","msgstr":"Coração do Fogo"}
+{"msgctxt":"items","msgid":"Heart of the Wood","msgstr":"Coração da Floresta"}
+{"msgctxt":"items","msgid":"Heart of Water","msgstr":"Coração da Água"}
+{"msgctxt":"items","msgid":"Heartwood of Jadame","msgstr":"Cerne de Jadame"}
+{"msgctxt":"items","msgid":"Heavy Crossbow","msgstr":"Besta Pesada"}
+{"msgctxt":"items","msgid":"Heavy Poleax","msgstr":"Alabarda Pesada"}
+{"msgctxt":"items","msgid":"Heavy Poleaxe","msgstr":"Alabarda Pesada"}
+{"msgctxt":"items","msgid":"Hell's Cleaver","msgstr":"Cutelo do Inferno"}
+{"msgctxt":"items","msgid":"Helm","msgstr":"Elmo"}
+{"msgctxt":"items","msgid":"Hera","msgstr":"Hera"}
+{"msgctxt":"items","msgid":"Herald's Boots","msgstr":"Botas do Arauto"}
+{"msgctxt":"items","msgid":"Hercules","msgstr":"Hércules"}
+{"msgctxt":"items","msgid":"Hermes","msgstr":"Hermes"}
+{"msgctxt":"items","msgid":"Hermes' Sandals","msgstr":"Sandálias de Hermes"}
+{"msgctxt":"items","msgid":"Hero's Belt","msgstr":"Cinto do herói"}
+{"msgctxt":"items","msgid":"Heroic Sword","msgstr":"Espada Heroica"}
+{"msgctxt":"items","msgid":"Heroism","msgstr":"Heroísmo"}
+{"msgctxt":"items","msgid":"Herondale's Lost Shield","msgstr":"Escudo Perdido de Herondale"}
+{"msgctxt":"items","msgid":"High Cleric's Key","msgstr":"Chave do Sumo Clérigo"}
+{"msgctxt":"items","msgid":"High Sorcerer's Key","msgstr":"Chave do Feiticeiro Supremo"}
+{"msgctxt":"items","msgid":"History of the Vault of Time","msgstr":"História da Câmara do Tempo"}
+{"msgctxt":"items","msgid":"Hive Sanctum Key","msgstr":"Chave do Santuário da Colmeia"}
+{"msgctxt":"items","msgid":"Holy Hammer","msgstr":"Martelo sagrado"}
+{"msgctxt":"items","msgid":"Horn of Ros","msgstr":"Chifre de Ros"}
+{"msgctxt":"items","msgid":"Horned Helm","msgstr":"Elmo com chifres"}
+{"msgctxt":"items","msgid":"Horseman's Shield","msgstr":"Escudo do Cavaleiro"}
+{"msgctxt":"items","msgid":"Horseshoe","msgstr":"Ferradura"}
+{"msgctxt":"items","msgid":"Hourglass of Time","msgstr":"Ampulheta do Tempo"}
+{"msgctxt":"items","msgid":"Hunting Bow","msgstr":"Arco de caça"}
+{"msgctxt":"items","msgid":"Hunting Crossbow","msgstr":"Besta de Caça"}
+{"msgctxt":"items","msgid":"Huntsman's Cloak","msgstr":"Manto do Caçador"}
+{"msgctxt":"items","msgid":"Ideal Crossbow","msgstr":"Besta Ideal"}
+{"msgctxt":"items","msgid":"Idol of the Snake","msgstr":"Ídolo da Serpente"}
+{"msgctxt":"items","msgid":"Igraine","msgstr":"Igraine"}
+{"msgctxt":"items","msgid":"Immolation","msgstr":"Imolação"}
+{"msgctxt":"items","msgid":"Imperial Leather","msgstr":"Couro Imperial"}
+{"msgctxt":"items","msgid":"Improvised Voulge","msgstr":"Voulge Improvisada"}
+{"msgctxt":"items","msgid":"Infantry Fork","msgstr":"Forquilha de Infantaria"}
+{"msgctxt":"items","msgid":"Infused Metal Rod","msgstr":"Haste de Metal Imbuída"}
+{"msgctxt":"items","msgid":"Intellect Boost","msgstr":"Aumento de Intelecto"}
+{"msgctxt":"items","msgid":"Intellect Boost Recipe","msgstr":"Receita de Aumento de Intelecto"}
+{"msgctxt":"items","msgid":"Invisibility","msgstr":"Invisibilidade"}
+{"msgctxt":"items","msgid":"Iolite","msgstr":"Iolita"}
+{"msgctxt":"items","msgid":"Iron Broadsword","msgstr":"Espada Larga de Ferro"}
+{"msgctxt":"items","msgid":"Iron Core Staff","msgstr":"Cajado com Núcleo de Ferro"}
+{"msgctxt":"items","msgid":"Iron Feather","msgstr":"Pena de Ferro"}
+{"msgctxt":"items","msgid":"Iron-laced ore","msgstr":"Minério com Veios de Ferro"}
+{"msgctxt":"items","msgid":"Jade Amulet","msgstr":"Amuleto de jade"}
+{"msgctxt":"items","msgid":"Jeweled Dagger","msgstr":"Adaga Cravejada de Joias"}
+{"msgctxt":"items","msgid":"Jeweled Egg","msgstr":"Ovo cravejado de joias"}
+{"msgctxt":"items","msgid":"Journal Entry","msgstr":"Registro do Diário"}
+{"msgctxt":"items","msgid":"Journal Entry, 11th December","msgstr":"Registro do Diário, 11 de dezembro"}
+{"msgctxt":"items","msgid":"Journal Entry, 19th September","msgstr":"Registro do Diário, 19 de setembro"}
+{"msgctxt":"items","msgid":"Journal Entry, 23rd April","msgstr":"Registro do Diário, 23 de abril"}
+{"msgctxt":"items","msgid":"Journal Entry, 2nd January","msgstr":"Registro do Diário, 2 de janeiro"}
+{"msgctxt":"items","msgid":"Journal Entry, 30th June","msgstr":"Registro do Diário, 30 de junho"}
+{"msgctxt":"items","msgid":"Journal Excerpt","msgstr":"Trecho de Diário"}
+{"msgctxt":"items","msgid":"Journal Fragment","msgstr":"Fragmento de Diário"}
+{"msgctxt":"items","msgid":"Journal Scrap","msgstr":"Fragmento de Diário"}
+{"msgctxt":"items","msgid":"Journey Staff","msgstr":"Cajado do Viajante"}
+{"msgctxt":"items","msgid":"Judicious Measure","msgstr":"Medida Criteriosa"}
+{"msgctxt":"items","msgid":"Justice","msgstr":"Justiça"}
+{"msgctxt":"items","msgid":"Keen Longsword","msgstr":"Espada Longa Afiada"}
+{"msgctxt":"items","msgid":"Keg of Wine","msgstr":"Barril de vinho"}
+{"msgctxt":"items","msgid":"Kelebrim","msgstr":"Kelebrim"}
+{"msgctxt":"items","msgid":"Kergar-laced ore","msgstr":"Minério Impregnado de Kergar"}
+{"msgctxt":"items","msgid":"Key","msgstr":"Chave"}
+{"msgctxt":"items","msgid":"Key to Gharik's Laboratory","msgstr":"Chave do Laboratório de Gharik"}
+{"msgctxt":"items","msgid":"Key to Goblinwatch","msgstr":"Chave da Vigia Goblin"}
+{"msgctxt":"items","msgid":"Key to Snergle's Chambers","msgstr":"Chave dos Aposentos de Snergle"}
+{"msgctxt":"items","msgid":"Killer Club","msgstr":"Clava assassina"}
+{"msgctxt":"items","msgid":"Kite Shield","msgstr":"Escudo de pipa"}
+{"msgctxt":"items","msgid":"Knight Gauntlets","msgstr":"Manoplas de Cavaleiro"}
+{"msgctxt":"items","msgid":"Knight Statuette","msgstr":"Estatueta de Cavaleiro"}
+{"msgctxt":"items","msgid":"Knight's Boots","msgstr":"Botas do Cavaleiro"}
+{"msgctxt":"items","msgid":"Knightly Broadsword","msgstr":"Espada Larga de Cavaleiro"}
+{"msgctxt":"items","msgid":"Labyrinth Grapple","msgstr":"Arpéu do Labirinto"}
+{"msgctxt":"items","msgid":"Lady Carmine's Dagger","msgstr":"Adaga da Dama Carmine"}
+{"msgctxt":"items","msgid":"Lady's Escort","msgstr":"Escolta da Dama"}
+{"msgctxt":"items","msgid":"Lantern of Light","msgstr":"Lanterna da Luz"}
+{"msgctxt":"items","msgid":"Large Round Crystal","msgstr":"Grande Cristal Redondo"}
+{"msgctxt":"items","msgid":"Last Stage Cuirass","msgstr":"Couraça do Estágio Final"}
+{"msgctxt":"items","msgid":"Leather Armor","msgstr":"Armadura de Couro"}
+{"msgctxt":"items","msgid":"Leather Belt","msgstr":"Cinto de Couro"}
+{"msgctxt":"items","msgid":"Leather Boots","msgstr":"Botas de Couro"}
+{"msgctxt":"items","msgid":"Leather Cloak","msgstr":"Manto de Couro"}
+{"msgctxt":"items","msgid":"Leather Gloves","msgstr":"Luvas de Couro"}
+{"msgctxt":"items","msgid":"Leather Jerkin","msgstr":"Gibão de Couro"}
+{"msgctxt":"items","msgid":"Leather Pouch","msgstr":"Bolsa de Couro"}
+{"msgctxt":"items","msgid":"Letter","msgstr":"Carta"}
+{"msgctxt":"items","msgid":"Letter from Archibald","msgstr":"Carta de Archibald"}
+{"msgctxt":"items","msgid":"Letter from Cedric Druthers","msgstr":"Carta de Cedric Druthers"}
+{"msgctxt":"items","msgid":"Letter from Gavin Magnus","msgstr":"Carta de Gavin Magnus"}
+{"msgctxt":"items","msgid":"Letter from Johann Kerrid to the Faerie King","msgstr":"Carta de Johann Kerrid para o Rei das Fadas"}
+{"msgctxt":"items","msgid":"Letter from Malwick","msgstr":"Carta de Malwick"}
+{"msgctxt":"items","msgid":"Letter from Mr. Stantley","msgstr":"Carta do Sr. Stantley"}
+{"msgctxt":"items","msgid":"Letter from Norbert Thrush to Lord Markham","msgstr":"Carta de Norbert Thrush para Lorde Markham"}
+{"msgctxt":"items","msgid":"Letter from the Dragon Riders","msgstr":"Carta dos Cavaleiros de Dragões"}
+{"msgctxt":"items","msgid":"Letter from the Prince of Thieves","msgstr":"Carta do Príncipe dos Ladrões"}
+{"msgctxt":"items","msgid":"Letter from the Temple of Baa","msgstr":"Carta do Templo de Baa"}
+{"msgctxt":"items","msgid":"Letter from Xenofex","msgstr":"Carta de Xenofex"}
+{"msgctxt":"items","msgid":"Letter from Zenofex","msgstr":"Carta de Zenofex"}
+{"msgctxt":"items","msgid":"Letter to Agar","msgstr":"Carta para Agar"}
+{"msgctxt":"items","msgid":"Letter to Arion Hunter","msgstr":"Carta para Arion Hunter"}
+{"msgctxt":"items","msgid":"Letter to Gharik","msgstr":"Carta para Gharik"}
+{"msgctxt":"items","msgid":"Letter to Hairbaugh","msgstr":"Carta para Hairbaugh"}
+{"msgctxt":"items","msgid":"Letter to Marcus","msgstr":"Carta para Marcus"}
+{"msgctxt":"items","msgid":"Letter to Snergle","msgstr":"Carta para Snergle"}
+{"msgctxt":"items","msgid":"Letter to Terrax","msgstr":"Carta para Terrax"}
+{"msgctxt":"items","msgid":"Letter to the Prince of Thieves","msgstr":"Carta para o Príncipe dos Ladrões"}
+{"msgctxt":"items","msgid":"Lich Jar","msgstr":"Jarro de Lich"}
+{"msgctxt":"items","msgid":"Lieutenant's Cutlass","msgstr":"Sabre de Abordagem do Tenente"}
+{"msgctxt":"items","msgid":"Light Bolt","msgstr":"Seta de Luz"}
+{"msgctxt":"items","msgid":"Light Crossbow","msgstr":"Besta Leve"}
+{"msgctxt":"items","msgid":"Light Poleaxe","msgstr":"Alabarda Leve"}
+{"msgctxt":"items","msgid":"Lightning Crossbow","msgstr":"Besta de Relâmpago"}
+{"msgctxt":"items","msgid":"Lionheart Sword","msgstr":"Espada Coração de Leão"}
+{"msgctxt":"items","msgid":"Lizardman Broadsword","msgstr":"Espada Larga do Homem-Lagarto"}
+{"msgctxt":"items","msgid":"Lizardman Helm","msgstr":"Elmo de Homem-Lagarto"}
+{"msgctxt":"items","msgid":"Lizardman Trident","msgstr":"Tridente do Homem-lagarto"}
+{"msgctxt":"items","msgid":"Lock Pick","msgstr":"Gazua"}
+{"msgctxt":"items","msgid":"Locus Amulet","msgstr":"Amuleto do Locus"}
+{"msgctxt":"items","msgid":"Lodestone","msgstr":"Pedra-ímã"}
+{"msgctxt":"items","msgid":"Log of Eldenbrie","msgstr":"Diário de Eldenbrie"}
+{"msgctxt":"items","msgid":"Long Dagger","msgstr":"Adaga longa"}
+{"msgctxt":"items","msgid":"Longbow","msgstr":"Arco Longo"}
+{"msgctxt":"items","msgid":"Longseeker","msgstr":"Busca-Longe"}
+{"msgctxt":"items","msgid":"Longsword","msgstr":"Espada Longa"}
+{"msgctxt":"items","msgid":"Loose Page","msgstr":"Página Solta"}
+{"msgctxt":"items","msgid":"Lord Kilburn's Shield","msgstr":"Escudo do Lorde Kilburn"}
+{"msgctxt":"items","msgid":"Lost Book of Kehl","msgstr":"Livro Perdido de Kehl"}
+{"msgctxt":"items","msgid":"Lucius","msgstr":"Lúcio"}
+{"msgctxt":"items","msgid":"Luck Boost","msgstr":"Bônus de Sorte"}
+{"msgctxt":"items","msgid":"Luck Boost Recipe","msgstr":"Receita de Bônus de Sorte"}
+{"msgctxt":"items","msgid":"Lucky Hat","msgstr":"Chapéu da Sorte"}
+{"msgctxt":"items","msgid":"Lunar Ring","msgstr":"Anel Lunar"}
+{"msgctxt":"items","msgid":"Lute","msgstr":"Alaúde"}
+{"msgctxt":"items","msgid":"Mace","msgstr":"Maça"}
+{"msgctxt":"items","msgid":"Mace of the Sun","msgstr":"Maça do Sol"}
+{"msgctxt":"items","msgid":"Mage Dagger","msgstr":"Adaga de mago"}
+{"msgctxt":"items","msgid":"Magic Bow","msgstr":"Arco Mágico"}
+{"msgctxt":"items","msgid":"Magic Horseshoe","msgstr":"Ferradura Mágica"}
+{"msgctxt":"items","msgid":"Magic Lamp","msgstr":"Lâmpada Mágica"}
+{"msgctxt":"items","msgid":"Magic Potion","msgstr":"Poção de Magia"}
+{"msgctxt":"items","msgid":"Magical Ritual Notes","msgstr":"Anotações de Ritual Mágico"}
+{"msgctxt":"items","msgid":"Majestic Chain Mail","msgstr":"Cota de Malha Majestosa"}
+{"msgctxt":"items","msgid":"Majestic Shield","msgstr":"Escudo Majestoso"}
+{"msgctxt":"items","msgid":"Map","msgstr":"Mapa"}
+{"msgctxt":"items","msgid":"Map to Evenmorn Island","msgstr":"Mapa da Ilha de Evenmorn"}
+{"msgctxt":"items","msgid":"Mash","msgstr":"Esmaga"}
+{"msgctxt":"items","msgid":"Massive Halberd","msgstr":"Alabarda Maciça"}
+{"msgctxt":"items","msgid":"Massive Hammer","msgstr":"Martelo Maciço"}
+{"msgctxt":"items","msgid":"Master Cutlass","msgstr":"Sabre de Abordagem do Mestre"}
+{"msgctxt":"items","msgid":"Master's Dagger","msgstr":"Adaga do Mestre"}
+{"msgctxt":"items","msgid":"Medusa's Mirror","msgstr":"Espelho da Medusa"}
+{"msgctxt":"items","msgid":"Mekorig's Hammer","msgstr":"Martelo de Mekorig"}
+{"msgctxt":"items","msgid":"Memory Crystal Alpha","msgstr":"Cristal de Memória Alfa"}
+{"msgctxt":"items","msgid":"Memory Crystal Beta","msgstr":"Cristal de Memória Beta"}
+{"msgctxt":"items","msgid":"Memory Crystal Delta","msgstr":"Cristal de Memória Delta"}
+{"msgctxt":"items","msgid":"Memory Crystal Epsilon","msgstr":"Cristal de Memória Épsilon"}
+{"msgctxt":"items","msgid":"Mercenary Belt","msgstr":"Cinto do Mercenário"}
+{"msgctxt":"items","msgid":"Merchantman's Dagger","msgstr":"Adaga do Mercador"}
+{"msgctxt":"items","msgid":"Merchantman's Hat","msgstr":"Chapéu do Mercador"}
+{"msgctxt":"items","msgid":"Mercury","msgstr":"Mercúrio"}
+{"msgctxt":"items","msgid":"Merlin","msgstr":"Merlin"}
+{"msgctxt":"items","msgid":"Message from Erathia","msgstr":"Mensagem de Erathia"}
+{"msgctxt":"items","msgid":"Message from Mr. Stantley","msgstr":"Mensagem do Sr. Stantley"}
+{"msgctxt":"items","msgid":"Metal Shield","msgstr":"Escudo de Metal"}
+{"msgctxt":"items","msgid":"Meteor Fragment","msgstr":"Fragmento de Meteoro"}
+{"msgctxt":"items","msgid":"Meteorite Fragment","msgstr":"Fragmento de Meteorito"}
+{"msgctxt":"items","msgid":"Might Boost","msgstr":"Aumento de Força"}
+{"msgctxt":"items","msgid":"Might Boost Recipe","msgstr":"Receita de Aumento de Força"}
+{"msgctxt":"items","msgid":"Mighty Broadsword","msgstr":"Espada Larga Poderosa"}
+{"msgctxt":"items","msgid":"Mighty Halberd","msgstr":"Alabarda Poderosa"}
+{"msgctxt":"items","msgid":"Mind Resistance","msgstr":"Resistência à Mente"}
+{"msgctxt":"items","msgid":"Mind Resistance Recipe","msgstr":"Receita de Resistência à Mente"}
+{"msgctxt":"items","msgid":"Mind's Eye","msgstr":"Olho da Mente"}
+{"msgctxt":"items","msgid":"Minotaur Axe","msgstr":"Machado de Minotauro"}
+{"msgctxt":"items","msgid":"Minotaur Battleaxe","msgstr":"Machado de Batalha de Minotauro"}
+{"msgctxt":"items","msgid":"Minotaur Battlesword","msgstr":"Espada de Batalha do Minotauro"}
+{"msgctxt":"items","msgid":"Minotaur Campaign Pole-axe","msgstr":"Machado de Haste de Campanha dos Minotauros"}
+{"msgctxt":"items","msgid":"Minotaur Chainmail","msgstr":"Cota de Malha de Minotauro"}
+{"msgctxt":"items","msgid":"Minotaur Gauntlets","msgstr":"Manoplas de Minotauro"}
+{"msgctxt":"items","msgid":"Minotaur Herdsman Axe","msgstr":"Machado do Pastor Minotauro"}
+{"msgctxt":"items","msgid":"Minotaur Plate","msgstr":"Armadura de Placas de Minotauro"}
+{"msgctxt":"items","msgid":"Minotaur War Axe","msgstr":"Machado de Guerra do Minotauro"}
+{"msgctxt":"items","msgid":"Minotaur's Axe","msgstr":"Machado do Minotauro"}
+{"msgctxt":"items","msgid":"Missive from the Archbishop","msgstr":"Missiva do Arcebispo"}
+{"msgctxt":"items","msgid":"Mogred Gauntlets","msgstr":"Manoplas de Mogred"}
+{"msgctxt":"items","msgid":"Mogred Helm","msgstr":"Elmo de Mogred"}
+{"msgctxt":"items","msgid":"Moon Cloak","msgstr":"Manto Lunar"}
+{"msgctxt":"items","msgid":"Moon Temple Cloak","msgstr":"Manto do Templo da Lua"}
+{"msgctxt":"items","msgid":"Moonstone","msgstr":"Pedra da Lua"}
+{"msgctxt":"items","msgid":"Mordred","msgstr":"Mordred"}
+{"msgctxt":"items","msgid":"Morgan","msgstr":"Morgan"}
+{"msgctxt":"items","msgid":"Mushroom","msgstr":"Cogumelo"}
+{"msgctxt":"items","msgid":"Mystic Wand of Death","msgstr":"Varinha Mística da Morte"}
+{"msgctxt":"items","msgid":"Mystic Wand of Distortion","msgstr":"Varinha Mística da Distorção"}
+{"msgctxt":"items","msgid":"Mystic Wand of Implosion","msgstr":"Varinha Mística da Implosão"}
+{"msgctxt":"items","msgid":"Mystic Wand of Incineration","msgstr":"Varinha Mística da Incineração"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrapmetal","msgstr":"Varinha Mística da Metralha metálica"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrinking","msgstr":"Varinha Mística do Encolhimento"}
+{"msgctxt":"items","msgid":"Naga Hide","msgstr":"Pele de Naga"}
+{"msgctxt":"items","msgid":"Name of Message","msgstr":"Nome da Mensagem"}
+{"msgctxt":"items","msgid":"Navigator's Code","msgstr":"Código do Navegador"}
+{"msgctxt":"items","msgid":"Necromancer Cloak","msgstr":"Manto do Necromante"}
+{"msgctxt":"items","msgid":"Necromatic Ring","msgstr":"Anel Necromântico"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Distortion","msgstr":"Varinha Necrótica da Distorção"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Implosion","msgstr":"Varinha Necrótica da Implosão"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Incineration","msgstr":"Varinha Necrótica da Incineração"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrapnel","msgstr":"Varinha Necrótica de Estilhaços"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrinking","msgstr":"Varinha Necrótica do Encolhimento"}
+{"msgctxt":"items","msgid":"Newname Key","msgstr":"Chave de Newname"}
+{"msgctxt":"items","msgid":"Nightshade Brazier","msgstr":"Braseiro de Beladona"}
+{"msgctxt":"items","msgid":"Noble Chain Mail","msgstr":"Cota de Malha Nobre"}
+{"msgctxt":"items","msgid":"Noble Crown","msgstr":"Coroa nobre"}
+{"msgctxt":"items","msgid":"Noble Plate Armor","msgstr":"Armadura de Placas Nobre"}
+{"msgctxt":"items","msgid":"Noblebone Bow","msgstr":"Arco de Osso Nobre"}
+{"msgctxt":"items","msgid":"Notes - Emergency Meeting","msgstr":"Anotações - Reunião de Emergência"}
+{"msgctxt":"items","msgid":"Noxious Potion","msgstr":"Poção Nociva"}
+{"msgctxt":"items","msgid":"Noxious Potion Recipe","msgstr":"Receita de Poção Nociva"}
+{"msgctxt":"items","msgid":"Obsidian","msgstr":"Obsidiana"}
+{"msgctxt":"items","msgid":"Odin","msgstr":"Odin"}
+{"msgctxt":"items","msgid":"Officer's Leather","msgstr":"Couro do Oficial"}
+{"msgctxt":"items","msgid":"Ogre Ear","msgstr":"Orelha de Ogro"}
+{"msgctxt":"items","msgid":"Ogre Fighting Stick","msgstr":"Porrete de Combate do Ogro"}
+{"msgctxt":"items","msgid":"Ogre Key","msgstr":"Chave do Ogro"}
+{"msgctxt":"items","msgid":"Old Halberd","msgstr":"Alabarda velha"}
+{"msgctxt":"items","msgid":"Old Nick","msgstr":"Velho Nick"}
+{"msgctxt":"items","msgid":"Old Scroll","msgstr":"Pergaminho Antigo"}
+{"msgctxt":"items","msgid":"Olympian Shield","msgstr":"Escudo Olímpico"}
+{"msgctxt":"items","msgid":"Orb Staff","msgstr":"Cajado do Orbe"}
+{"msgctxt":"items","msgid":"Orders from Snergle","msgstr":"Ordens de Snergle"}
+{"msgctxt":"items","msgid":"Orders from Steadwick","msgstr":"Ordens de Steadwick"}
+{"msgctxt":"items","msgid":"Orders from the Shadow Guild","msgstr":"Ordens da Guilda das Sombras"}
+{"msgctxt":"items","msgid":"Ornate Trident","msgstr":"Tridente Ornamentado"}
+{"msgctxt":"items","msgid":"Oscillation Overthruster","msgstr":"Ultrapropulsor de Oscilação"}
+{"msgctxt":"items","msgid":"Overlord's Club","msgstr":"Clava do Suserano"}
+{"msgctxt":"items","msgid":"Page from Agar's Journal","msgstr":"Página do Diário de Agar"}
+{"msgctxt":"items","msgid":"Page from Corlagon's Diary","msgstr":"Página do Diário de Corlagon"}
+{"msgctxt":"items","msgid":"Page Torn from a Book","msgstr":"Página Arrancada de um Livro"}
+{"msgctxt":"items","msgid":"Pain Reflection","msgstr":"Reflexão da Dor"}
+{"msgctxt":"items","msgid":"Paladin Boots","msgstr":"Botas de Paladino"}
+{"msgctxt":"items","msgid":"Paladin Gauntlets","msgstr":"Manoplas do Paladino"}
+{"msgctxt":"items","msgid":"Parson's Quill","msgstr":"Pena do Pároco"}
+{"msgctxt":"items","msgid":"Pearl of Purity","msgstr":"Pérola da Pureza"}
+{"msgctxt":"items","msgid":"Pearl of Putrescence","msgstr":"Pérola da Putrescência"}
+{"msgctxt":"items","msgid":"Pearl Ring","msgstr":"Anel de Pérola"}
+{"msgctxt":"items","msgid":"Peasant Hat","msgstr":"Chapéu de camponês"}
+{"msgctxt":"items","msgid":"Pellinore","msgstr":"Pellinore"}
+{"msgctxt":"items","msgid":"Pendragon","msgstr":"Pendragon"}
+{"msgctxt":"items","msgid":"Percival","msgstr":"Percival"}
+{"msgctxt":"items","msgid":"Personality Boost","msgstr":"Bônus de Personalidade"}
+{"msgctxt":"items","msgid":"Personality Boost Recipe","msgstr":"Receita de Bônus de Personalidade"}
+{"msgctxt":"items","msgid":"Phantom Cloak","msgstr":"Manto Fantasma"}
+{"msgctxt":"items","msgid":"Phial of Gog Blood","msgstr":"Frasco de Sangue de Gogue"}
+{"msgctxt":"items","msgid":"Philosopher's Stone","msgstr":"Pedra Filosofal"}
+{"msgctxt":"items","msgid":"Phima Root","msgstr":"Raiz de Phima"}
+{"msgctxt":"items","msgid":"Phirna Root","msgstr":"Raiz de Phirna"}
+{"msgctxt":"items","msgid":"Phoenix Feather","msgstr":"Pena de Fênix"}
+{"msgctxt":"items","msgid":"Phylt-laced ore","msgstr":"Minério Mesclado com Phylt"}
+{"msgctxt":"items","msgid":"Phynaxian Crown","msgstr":"Coroa Phynaxiana"}
+{"msgctxt":"items","msgid":"Phynaxian Helm","msgstr":"Elmo Phynaxiano"}
+{"msgctxt":"items","msgid":"Phynaxian Shield","msgstr":"Escudo Phynaxiano"}
+{"msgctxt":"items","msgid":"Piercing Dagger","msgstr":"Adaga Perfurante"}
+{"msgctxt":"items","msgid":"Pirate Cutlass","msgstr":"Sabre de Abordagem do Pirata"}
+{"msgctxt":"items","msgid":"Pirate Hat","msgstr":"Chapéu de Pirata"}
+{"msgctxt":"items","msgid":"Pirate Leader's Key","msgstr":"Chave do Líder Pirata"}
+{"msgctxt":"items","msgid":"Plate Armor","msgstr":"Armadura de Placas"}
+{"msgctxt":"items","msgid":"Platinum Ring","msgstr":"Anel de Platina"}
+{"msgctxt":"items","msgid":"Poleax","msgstr":"Alabarda"}
+{"msgctxt":"items","msgid":"Poleaxe","msgstr":"Alabarda"}
+{"msgctxt":"items","msgid":"Poppy Pod","msgstr":"Cápsula de Papoula"}
+{"msgctxt":"items","msgid":"Poppysnaps","msgstr":"Estalos de Papoula"}
+{"msgctxt":"items","msgid":"Poseidon","msgstr":"Poseidon"}
+{"msgctxt":"items","msgid":"Potion Bottle","msgstr":"Frasco de Poção"}
+{"msgctxt":"items","msgid":"Potion of Doom ","msgstr":"Poção da Perdição "}
+{"msgctxt":"items","msgid":"Potion of Doom recipe","msgstr":"Receita de Poção da Perdição"}
+{"msgctxt":"items","msgid":"Potion of the Gods ","msgstr":"Poção dos Deuses "}
+{"msgctxt":"items","msgid":"Potion of the Gods recipe","msgstr":"Receita de Poção dos Deuses"}
+{"msgctxt":"items","msgid":"Pouch of Bat Guano","msgstr":"Bolsa de Guano de Morcego"}
+{"msgctxt":"items","msgid":"Power Staff","msgstr":"Cajado do Poder"}
+{"msgctxt":"items","msgid":"Power Stone","msgstr":"Pedra do Poder"}
+{"msgctxt":"items","msgid":"Precious Ring","msgstr":"Anel Precioso"}
+{"msgctxt":"items","msgid":"Precision Bow","msgstr":"Arco da Precisão"}
+{"msgctxt":"items","msgid":"Preservation","msgstr":"Preservação"}
+{"msgctxt":"items","msgid":"Priestly Staff","msgstr":"Cajado Sacerdotal"}
+{"msgctxt":"items","msgid":"Prison Key","msgstr":"Chave da Prisão"}
+{"msgctxt":"items","msgid":"Proclamation","msgstr":"Proclamação"}
+{"msgctxt":"items","msgid":"Prophecies of the Snake","msgstr":"Profecias da Serpente"}
+{"msgctxt":"items","msgid":"Prophecies of the Sun","msgstr":"Profecias do Sol"}
+{"msgctxt":"items","msgid":"Protection","msgstr":"Proteção"}
+{"msgctxt":"items","msgid":"Protection from Magic","msgstr":"Proteção contra a Magia"}
+{"msgctxt":"items","msgid":"Protection from Magic recipe","msgstr":"Receita de Proteção contra a Magia"}
+{"msgctxt":"items","msgid":"Puck","msgstr":"Puck"}
+{"msgctxt":"items","msgid":"Pure Accuracy","msgstr":"Precisão Pura"}
+{"msgctxt":"items","msgid":"Pure Accuracy Recipe","msgstr":"Receita de Precisão Pura"}
+{"msgctxt":"items","msgid":"Pure Air Resistance","msgstr":"Resistência Pura ao Ar"}
+{"msgctxt":"items","msgid":"Pure Air Resistance recipe","msgstr":"Receita de Resistência Pura ao Ar"}
+{"msgctxt":"items","msgid":"Pure Body Resistance","msgstr":"Resistência Pura a Corpo"}
+{"msgctxt":"items","msgid":"Pure Body Resistance recipe","msgstr":"Receita de Resistência Pura a Corpo"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance","msgstr":"Resistência Pura à Terra"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance recipe","msgstr":"Receita de Resistência Pura à Terra"}
+{"msgctxt":"items","msgid":"Pure Endurance","msgstr":"Resistência Pura"}
+{"msgctxt":"items","msgid":"Pure Endurance Recipe","msgstr":"Receita de Resistência Pura"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance","msgstr":"Resistência Pura ao Fogo"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance recipe","msgstr":"Receita de Resistência Pura ao Fogo"}
+{"msgctxt":"items","msgid":"Pure Intellect","msgstr":"Intelecto Puro"}
+{"msgctxt":"items","msgid":"Pure Intellect Recipe","msgstr":"Receita de Intelecto Puro"}
+{"msgctxt":"items","msgid":"Pure Luck","msgstr":"Sorte Pura"}
+{"msgctxt":"items","msgid":"Pure Luck Recipe","msgstr":"Receita da Sorte Pura"}
+{"msgctxt":"items","msgid":"Pure Might","msgstr":"Força Pura"}
+{"msgctxt":"items","msgid":"Pure Might Recipe","msgstr":"Receita de Força Pura"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance","msgstr":"Resistência Pura à Mente"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance recipe","msgstr":"Receita de Resistência Pura à Mente"}
+{"msgctxt":"items","msgid":"Pure Personality","msgstr":"Personalidade Pura"}
+{"msgctxt":"items","msgid":"Pure Personality Recipe","msgstr":"Receita de Personalidade Pura"}
+{"msgctxt":"items","msgid":"Pure Speed","msgstr":"Velocidade Pura"}
+{"msgctxt":"items","msgid":"Pure Speed Recipe","msgstr":"Receita de Velocidade Pura"}
+{"msgctxt":"items","msgid":"Pure Water Resistance","msgstr":"Resistência Pura à Água"}
+{"msgctxt":"items","msgid":"Pure Water Resistance recipe","msgstr":"Receita de Resistência Pura à Água"}
+{"msgctxt":"items","msgid":"Purple Topaz","msgstr":"Topázio Roxo"}
+{"msgctxt":"items","msgid":"Puzzle Box","msgstr":"Caixa de Enigmas"}
+{"msgctxt":"items","msgid":"Quality Steel Chain Mail","msgstr":"Cota de Malha de Aço de Qualidade"}
+{"msgctxt":"items","msgid":"Ranger Boots","msgstr":"Botas de Patrulheiro"}
+{"msgctxt":"items","msgid":"Ranger's Cloak","msgstr":"Capa do Patrulheiro"}
+{"msgctxt":"items","msgid":"Recharge Item","msgstr":"Recarregar Item"}
+{"msgctxt":"items","msgid":"Recurve Bow","msgstr":"Arco recurvo"}
+{"msgctxt":"items","msgid":"Red Apple","msgstr":"Maçã Vermelha"}
+{"msgctxt":"items","msgid":"Regal Crown","msgstr":"Coroa régia"}
+{"msgctxt":"items","msgid":"Regeneration","msgstr":"Regeneração"}
+{"msgctxt":"items","msgid":"Regnan Boots","msgstr":"Botas de Regna"}
+{"msgctxt":"items","msgid":"Regnan Crossbow","msgstr":"Besta de Regna"}
+{"msgctxt":"items","msgid":"Regnan Cutlass","msgstr":"Sabre de Abordagem de Regna"}
+{"msgctxt":"items","msgid":"Regnan Falchion","msgstr":"Alfanje de Regna"}
+{"msgctxt":"items","msgid":"Regnan Fighting Knife","msgstr":"Faca de Combate Regnana"}
+{"msgctxt":"items","msgid":"Regnan Leather","msgstr":"Couro de Regna"}
+{"msgctxt":"items","msgid":"Regnan Tournament Shield","msgstr":"Escudo do Torneio de Regna"}
+{"msgctxt":"items","msgid":"Regnan Trident","msgstr":"Tridente de Regna"}
+{"msgctxt":"items","msgid":"Rejuvenation","msgstr":"Rejuvenescimento"}
+{"msgctxt":"items","msgid":"Rejuvenation Recipe","msgstr":"Receita de Rejuvenescimento"}
+{"msgctxt":"items","msgid":"Remains of a Journal","msgstr":"Restos de um Diário"}
+{"msgctxt":"items","msgid":"Remains of Korbu","msgstr":"Restos Mortais de Korbu"}
+{"msgctxt":"items","msgid":"Remnants of a Letter","msgstr":"Fragmentos de uma Carta"}
+{"msgctxt":"items","msgid":"Remove Curse","msgstr":"Remover maldição"}
+{"msgctxt":"items","msgid":"Remove Fear","msgstr":"Remover medo"}
+{"msgctxt":"items","msgid":"Resistance","msgstr":"Resistência"}
+{"msgctxt":"items","msgid":"Resplendent Chain Mail","msgstr":"Cota de Malha Resplandecente"}
+{"msgctxt":"items","msgid":"Restoration","msgstr":"Restauração"}
+{"msgctxt":"items","msgid":"Reverend Sceptre","msgstr":"Cetro Venerável"}
+{"msgctxt":"items","msgid":"Ring of Fusion","msgstr":"Anel de Fusão"}
+{"msgctxt":"items","msgid":"Ring of Keys","msgstr":"Argola de Chaves"}
+{"msgctxt":"items","msgid":"Ring of Planes","msgstr":"Anel dos Planos"}
+{"msgctxt":"items","msgid":"Ritual of the Void","msgstr":"Ritual do Vazio"}
+{"msgctxt":"items","msgid":"Riverstride Plans","msgstr":"Plantas do Riverstride"}
+{"msgctxt":"items","msgid":"Roland Ironfist Painting","msgstr":"Retrato de Roland Ironfist"}
+{"msgctxt":"items","msgid":"Roland's Journal","msgstr":"Diário de Roland"}
+{"msgctxt":"items","msgid":"Rope","msgstr":"Corda"}
+{"msgctxt":"items","msgid":"Rose","msgstr":"Rosa"}
+{"msgctxt":"items","msgid":"Rose Crystal","msgstr":"Cristal Rosa"}
+{"msgctxt":"items","msgid":"Royal Chain Mail","msgstr":"Cota de Malha Real"}
+{"msgctxt":"items","msgid":"Royal Leather","msgstr":"Couro Real"}
+{"msgctxt":"items","msgid":"Royal Wasp Jelly","msgstr":"Geleia Real de Vespa"}
+{"msgctxt":"items","msgid":"Ruby","msgstr":"Rubi"}
+{"msgctxt":"items","msgid":"Ruby Ring","msgstr":"Anel de Rubi"}
+{"msgctxt":"items","msgid":"Ruby Star Amulet","msgstr":"Amuleto da Estrela de Rubi"}
+{"msgctxt":"items","msgid":"Ruler's Ring","msgstr":"Anel do Soberano"}
+{"msgctxt":"items","msgid":"Rusty Breastplate","msgstr":"Peitoral Enferrujado"}
+{"msgctxt":"items","msgid":"Rusty Cutlass","msgstr":"Sabre de Abordagem Enferrujado"}
+{"msgctxt":"items","msgid":"Rusty Mail Vest","msgstr":"Colete de Malha Enferrujado"}
+{"msgctxt":"items","msgid":"Sacred Chalice","msgstr":"Cálice Sagrado"}
+{"msgctxt":"items","msgid":"Sacred Spear","msgstr":"Lança Sagrada"}
+{"msgctxt":"items","msgid":"Sacrifice","msgstr":"Sacrifício"}
+{"msgctxt":"items","msgid":"Sapphire","msgstr":"Safira"}
+{"msgctxt":"items","msgid":"Sapphire Ring","msgstr":"Anel de Safira"}
+{"msgctxt":"items","msgid":"Sarcophagus of Korbu","msgstr":"Sarcófago de Korbu"}
+{"msgctxt":"items","msgid":"Savage Spear","msgstr":"Lança Selvagem"}
+{"msgctxt":"items","msgid":"Scarab Ring","msgstr":"Anel de escaravelho"}
+{"msgctxt":"items","msgid":"Scavenger hunt.","msgstr":"Caça ao tesouro."}
+{"msgctxt":"items","msgid":"Scepter of Kings","msgstr":"Cetro dos Reis"}
+{"msgctxt":"items","msgid":"Scholar's Cap","msgstr":"Gorro do Erudito"}
+{"msgctxt":"items","msgid":"Scrap from Gharik's Journal","msgstr":"Fragmento do Diário de Gharik"}
+{"msgctxt":"items","msgid":"Scrap of Paper","msgstr":"Pedaço de Papel"}
+{"msgctxt":"items","msgid":"Scroll of Waves","msgstr":"Pergaminho das Ondas"}
+{"msgctxt":"items","msgid":"Sealed Letter 2","msgstr":"Carta Lacrada 2"}
+{"msgctxt":"items","msgid":"Sealed Letter 3","msgstr":"Carta Lacrada 3"}
+{"msgctxt":"items","msgid":"Sealed Letter 4","msgstr":"Carta Lacrada 4"}
+{"msgctxt":"items","msgid":"Sealed Letter 5","msgstr":"Carta Lacrada 5"}
+{"msgctxt":"items","msgid":"Sealed Letter 6","msgstr":"Carta Lacrada 6"}
+{"msgctxt":"items","msgid":"Sealed Letter 7","msgstr":"Carta Lacrada 7"}
+{"msgctxt":"items","msgid":"Seashell","msgstr":"Concha Marinha"}
+{"msgctxt":"items","msgid":"Season's Stole","msgstr":"Estola da Estação"}
+{"msgctxt":"items","msgid":"Secret Door Key","msgstr":"Chave da Porta Secreta"}
+{"msgctxt":"items","msgid":"Serendine's Preservation","msgstr":"Preservação de Serendine"}
+{"msgctxt":"items","msgid":"Serpent Spear","msgstr":"Lança da Serpente"}
+{"msgctxt":"items","msgid":"Serpent Staff","msgstr":"Cajado da Serpente"}
+{"msgctxt":"items","msgid":"Serpent Wand of Blasting","msgstr":"Varinha de Serpente da Explosão"}
+{"msgctxt":"items","msgid":"Serpent Wand of Paralysis","msgstr":"Varinha de Serpente da Paralisia"}
+{"msgctxt":"items","msgid":"Serpent Wand of Rocks","msgstr":"Varinha de Pedras da Serpente"}
+{"msgctxt":"items","msgid":"Serpent Wand of the Fist","msgstr":"Varinha de Serpente do Punho"}
+{"msgctxt":"items","msgid":"Seven League Boots","msgstr":"Botas de Sete Léguas"}
+{"msgctxt":"items","msgid":"Sewer Key","msgstr":"Chave do Esgoto"}
+{"msgctxt":"items","msgid":"Shadow Dagger","msgstr":"Adaga das Sombras"}
+{"msgctxt":"items","msgid":"Shadow Sect Medallion","msgstr":"Medalhão da Seita das Sombras"}
+{"msgctxt":"items","msgid":"Shadow's Mask","msgstr":"Máscara das Sombras"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Ice","msgstr":"Varinha de Gelo do Xamã"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Lashing","msgstr":"Varinha do Açoite do Xamã"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Light","msgstr":"Varinha de Luz do Xamã"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Mind","msgstr":"Varinha da Mente do Xamã"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Swarms","msgstr":"Varinha dos Enxames do Xamã"}
+{"msgctxt":"items","msgid":"Sharktooth Dagger","msgstr":"Adaga Dente-de-Tubarão"}
+{"msgctxt":"items","msgid":"Shield","msgstr":"Escudo"}
+{"msgctxt":"items","msgid":"Shocking Potion","msgstr":"Poção Eletrizante"}
+{"msgctxt":"items","msgid":"Shocking Potion Recipe","msgstr":"Receita de Poção Eletrizante"}
+{"msgctxt":"items","msgid":"Shovel","msgstr":"Pá"}
+{"msgctxt":"items","msgid":"Siertal Chainmail","msgstr":"Cota de Malha de Siertal"}
+{"msgctxt":"items","msgid":"Siertal-laced ore","msgstr":"Minério Impregnado de Siertal"}
+{"msgctxt":"items","msgid":"Signet Ring","msgstr":"Anel-sinete"}
+{"msgctxt":"items","msgid":"Silver Belt","msgstr":"Cinto de prata"}
+{"msgctxt":"items","msgid":"Silver Dust of the Sea","msgstr":"Pó de Prata do Mar"}
+{"msgctxt":"items","msgid":"Silver Mesh Gauntlets","msgstr":"Manoplas de Malha de Prata"}
+{"msgctxt":"items","msgid":"Simple Mace","msgstr":"Maça simples"}
+{"msgctxt":"items","msgid":"Simple Staff","msgstr":"Cajado Simples"}
+{"msgctxt":"items","msgid":"Slaying Potion","msgstr":"Poção de Extermínio"}
+{"msgctxt":"items","msgid":"Slaying Potion Recipe","msgstr":"Receita de Poção de Extermínio"}
+{"msgctxt":"items","msgid":"Sledgehammer","msgstr":"Marreta"}
+{"msgctxt":"items","msgid":"Snake","msgstr":"Serpente"}
+{"msgctxt":"items","msgid":"Snakewood Bow","msgstr":"Arco de Madeira-de-Cobra"}
+{"msgctxt":"items","msgid":"Snergle's Axe","msgstr":"Machado de Snergle"}
+{"msgctxt":"items","msgid":"Soldier's spear","msgstr":"Lança do Soldado"}
+{"msgctxt":"items","msgid":"Souldrinker","msgstr":"Bebe-almas"}
+{"msgctxt":"items","msgid":"Sovereign Belt","msgstr":"Cinto Soberano"}
+{"msgctxt":"items","msgid":"Sparkling Ring","msgstr":"Anel Cintilante"}
+{"msgctxt":"items","msgid":"Spear","msgstr":"Lança"}
+{"msgctxt":"items","msgid":"Speed Boost","msgstr":"Aumento de Velocidade"}
+{"msgctxt":"items","msgid":"Speed Boost Recipe","msgstr":"Receita de Aumento de Velocidade"}
+{"msgctxt":"items","msgid":"Spider Queen's Heart","msgstr":"Coração da Rainha Aranha"}
+{"msgctxt":"items","msgid":"Spiked Club","msgstr":"Clava com espinhos"}
+{"msgctxt":"items","msgid":"Spiked Mace","msgstr":"Maça com espinhos"}
+{"msgctxt":"items","msgid":"Spiral Instructions","msgstr":"Instruções da Espiral"}
+{"msgctxt":"items","msgid":"Spirit Lash","msgstr":"Açoite do Espírito"}
+{"msgctxt":"items","msgid":"Spirit Shield","msgstr":"Escudo Espiritual"}
+{"msgctxt":"items","msgid":"Spiritslayer","msgstr":"Mata-espíritos"}
+{"msgctxt":"items","msgid":"Splendid Plate Armor","msgstr":"Armadura de Placas Esplêndida"}
+{"msgctxt":"items","msgid":"Splitter","msgstr":"Rachador"}
+{"msgctxt":"items","msgid":"Staff","msgstr":"Cajado"}
+{"msgctxt":"items","msgid":"Staff of Elements","msgstr":"Cajado dos Elementos"}
+{"msgctxt":"items","msgid":"Staff of the Swamp","msgstr":"Cajado do Pântano"}
+{"msgctxt":"items","msgid":"Stalt-laced ore","msgstr":"Minério Mesclado com Stalt"}
+{"msgctxt":"items","msgid":"Steel Axe","msgstr":"Machado de Aço"}
+{"msgctxt":"items","msgid":"Steel Belt","msgstr":"Cinto de Aço"}
+{"msgctxt":"items","msgid":"Steel Boots","msgstr":"Botas de aço"}
+{"msgctxt":"items","msgid":"Steel Broadsword","msgstr":"Espada Larga de Aço"}
+{"msgctxt":"items","msgid":"Steel Chain Mail","msgstr":"Cota de Malha de Aço"}
+{"msgctxt":"items","msgid":"Steel Chainmail","msgstr":"Cota de Malha de Aço"}
+{"msgctxt":"items","msgid":"Steel club","msgstr":"Clava de aço"}
+{"msgctxt":"items","msgid":"Steel Gauntlets","msgstr":"Manoplas de Aço"}
+{"msgctxt":"items","msgid":"Steel Helm","msgstr":"Elmo de aço"}
+{"msgctxt":"items","msgid":"Steel Plate Armor","msgstr":"Armadura de Placas de Aço"}
+{"msgctxt":"items","msgid":"Steel Plated Boots","msgstr":"Botas Revestidas de Aço"}
+{"msgctxt":"items","msgid":"Steel Shield","msgstr":"Escudo de Aço"}
+{"msgctxt":"items","msgid":"Steel Spear","msgstr":"Lança de aço"}
+{"msgctxt":"items","msgid":"Stellar Bow","msgstr":"Arco estelar"}
+{"msgctxt":"items","msgid":"Sterling Boots","msgstr":"Botas de Prata de Lei"}
+{"msgctxt":"items","msgid":"Sterling Shield","msgstr":"Escudo de Prata de Lei"}
+{"msgctxt":"items","msgid":"Stone Axe","msgstr":"Machado de Pedra"}
+{"msgctxt":"items","msgid":"Stone Skin","msgstr":"Pele de pedra"}
+{"msgctxt":"items","msgid":"Stone to Flesh","msgstr":"Pedra em Carne"}
+{"msgctxt":"items","msgid":"Stone To Flesh Recipe","msgstr":"Receita de Pedra em Carne"}
+{"msgctxt":"items","msgid":"Stoneskin","msgstr":"Pele de Pedra"}
+{"msgctxt":"items","msgid":"Storage Key","msgstr":"Chave do depósito"}
+{"msgctxt":"items","msgid":"Store Room Key","msgstr":"Chave do Depósito"}
+{"msgctxt":"items","msgid":"Stout Spear","msgstr":"Lança robusta"}
+{"msgctxt":"items","msgid":"Strong Belt","msgstr":"Cinto forte"}
+{"msgctxt":"items","msgid":"Studded Leather","msgstr":"Couro Cravejado"}
+{"msgctxt":"items","msgid":"Sturdy Belt","msgstr":"Cinto resistente"}
+{"msgctxt":"items","msgid":"Sublime Spear","msgstr":"Lança Sublime"}
+{"msgctxt":"items","msgid":"Sulfur","msgstr":"Enxofre"}
+{"msgctxt":"items","msgid":"Summon Elemental","msgstr":"Invocação de Elemental"}
+{"msgctxt":"items","msgid":"Summon Wisp","msgstr":"Invocação de fogo-fátuo"}
+{"msgctxt":"items","msgid":"Sun Amulet","msgstr":"Amuleto do Sol"}
+{"msgctxt":"items","msgid":"Sun Cloak","msgstr":"Manto do Sol"}
+{"msgctxt":"items","msgid":"Sun Hammer","msgstr":"Martelo do Sol"}
+{"msgctxt":"items","msgid":"Sun Opal Ring","msgstr":"Anel de Opala Solar"}
+{"msgctxt":"items","msgid":"Sunray","msgstr":"Raio Solar"}
+{"msgctxt":"items","msgid":"Sunstone","msgstr":"Pedra Solar"}
+{"msgctxt":"items","msgid":"Super Resistance","msgstr":"Super-resistência"}
+{"msgctxt":"items","msgid":"Supreme Axe","msgstr":"Machado supremo"}
+{"msgctxt":"items","msgid":"Supreme Flail","msgstr":"Mangual Supremo"}
+{"msgctxt":"items","msgid":"Supreme Plate","msgstr":"Armadura de Placas Suprema"}
+{"msgctxt":"items","msgid":"Supreme Protection","msgstr":"Proteção Suprema"}
+{"msgctxt":"items","msgid":"Swift Potion","msgstr":"Poção Veloz"}
+{"msgctxt":"items","msgid":"Swift Potion Recipe","msgstr":"Receita de Poção Veloz"}
+{"msgctxt":"items","msgid":"Sword of Whistlebone","msgstr":"Espada de Whistlebone"}
+{"msgctxt":"items","msgid":"Taledon's Helm","msgstr":"Elmo de Taledon"}
+{"msgctxt":"items","msgid":"Tanir's Bell","msgstr":"Sino de Tanir"}
+{"msgctxt":"items","msgid":"Telelocator","msgstr":"Telelocalizador"}
+{"msgctxt":"items","msgid":"Telepathy","msgstr":"Telepatia"}
+{"msgctxt":"items","msgid":"Teleporter Key","msgstr":"Chave do Teletransportador"}
+{"msgctxt":"items","msgid":"Templar's Sword","msgstr":"Espada do Templário"}
+{"msgctxt":"items","msgid":"Temple Gong","msgstr":"Gongo do templo"}
+{"msgctxt":"items","msgid":"Temple in a Bottle","msgstr":"Templo em uma Garrafa"}
+{"msgctxt":"items","msgid":"Temple Mace","msgstr":"Maça do Templo"}
+{"msgctxt":"items","msgid":"Terminus","msgstr":"Terminus"}
+{"msgctxt":"items","msgid":"The DeathBlade","msgstr":"A Lâmina da Morte"}
+{"msgctxt":"items","msgid":"The Letter","msgstr":"A Carta"}
+{"msgctxt":"items","msgid":"The Perfect Bow","msgstr":"O Arco Perfeito"}
+{"msgctxt":"items","msgid":"The Third Eye","msgstr":"O Terceiro Olho"}
+{"msgctxt":"items","msgid":"Thigh Bone","msgstr":"Osso da coxa"}
+{"msgctxt":"items","msgid":"Thor","msgstr":"Thor"}
+{"msgctxt":"items","msgid":"Thornbark","msgstr":"Casca de Espinhos"}
+{"msgctxt":"items","msgid":"Thornbark Club","msgstr":"Clava de Casca de Espinhos"}
+{"msgctxt":"items","msgid":"Thornbark Shield","msgstr":"Escudo de Casca de Espinhos"}
+{"msgctxt":"items","msgid":"Thunder Mace","msgstr":"Maça do Trovão"}
+{"msgctxt":"items","msgid":"Tiger Statuette","msgstr":"Estatueta de Tigre"}
+{"msgctxt":"items","msgid":"Titan's Belt","msgstr":"Cinto do Titã"}
+{"msgctxt":"items","msgid":"Titanic Trident","msgstr":"Tridente Titânico"}
+{"msgctxt":"items","msgid":"Tobersk Brandy","msgstr":"Conhaque de Tobersk"}
+{"msgctxt":"items","msgid":"Tobersk Fruit","msgstr":"Fruta de Tobersk"}
+{"msgctxt":"items","msgid":"Tobersk Pulp","msgstr":"Polpa de Tobersk"}
+{"msgctxt":"items","msgid":"Tooth","msgstr":"Dente"}
+{"msgctxt":"items","msgid":"Topaz","msgstr":"Topázio"}
+{"msgctxt":"items","msgid":"Torn Page","msgstr":"Página Rasgada"}
+{"msgctxt":"items","msgid":"Tournament Bow","msgstr":"Arco de Torneio"}
+{"msgctxt":"items","msgid":"Tower Shield","msgstr":"Escudo de Torre"}
+{"msgctxt":"items","msgid":"Traveler's Cloak","msgstr":"Manto do Viajante"}
+{"msgctxt":"items","msgid":"Traveller's Hat","msgstr":"Chapéu do Viajante"}
+{"msgctxt":"items","msgid":"Treasure Room Key","msgstr":"Chave da Sala do Tesouro"}
+{"msgctxt":"items","msgid":"Trident","msgstr":"Tridente"}
+{"msgctxt":"items","msgid":"Trident of Rulership","msgstr":"Tridente da Soberania"}
+{"msgctxt":"items","msgid":"Triton Trident","msgstr":"Tridente de Tritão"}
+{"msgctxt":"items","msgid":"Troll Gauntlets","msgstr":"Manoplas de Troll"}
+{"msgctxt":"items","msgid":"Trollish Claymore","msgstr":"Claymore dos Trolls"}
+{"msgctxt":"items","msgid":"Trollish Maul","msgstr":"Malho de Troll"}
+{"msgctxt":"items","msgid":"Trollish Shield","msgstr":"Escudo de Troll"}
+{"msgctxt":"items","msgid":"Trollish War Mace","msgstr":"Maça de Guerra dos Trolls"}
+{"msgctxt":"items","msgid":"Trollish War Sword","msgstr":"Espada de Guerra dos Trolls"}
+{"msgctxt":"items","msgid":"True Crossbow","msgstr":"Besta Verdadeira"}
+{"msgctxt":"items","msgid":"Turquoise Amulet","msgstr":"Amuleto de Turquesa"}
+{"msgctxt":"items","msgid":"Twilight","msgstr":"Crepúsculo"}
+{"msgctxt":"items","msgid":"Twilight Kris","msgstr":"Kris do Crepúsculo"}
+{"msgctxt":"items","msgid":"Two-Handed Axe","msgstr":"Machado de Duas Mãos"}
+{"msgctxt":"items","msgid":"Two-Handed Sword","msgstr":"Espada de Duas Mãos"}
+{"msgctxt":"items","msgid":"Ullyses","msgstr":"Ulisses"}
+{"msgctxt":"items","msgid":"Ultimate Boots","msgstr":"Botas Supremas"}
+{"msgctxt":"items","msgid":"Ultimate Gauntlets","msgstr":"Manoplas Supremas"}
+{"msgctxt":"items","msgid":"Unicorn Horn","msgstr":"Chifre de Unicórnio"}
+{"msgctxt":"items","msgid":"Urn of Ashes","msgstr":"Urna de Cinzas"}
+{"msgctxt":"items","msgid":"Valeria","msgstr":"Valéria"}
+{"msgctxt":"items","msgid":"Valuable Ring","msgstr":"Anel Valioso"}
+{"msgctxt":"items","msgid":"Vampire Cloak","msgstr":"Manto de Vampiro"}
+{"msgctxt":"items","msgid":"Vampire's Cape","msgstr":"Capa do Vampiro"}
+{"msgctxt":"items","msgid":"Vampire's Ring","msgstr":"Anel do Vampiro"}
+{"msgctxt":"items","msgid":"Vampiric Weapon","msgstr":"Arma Vampírica"}
+{"msgctxt":"items","msgid":"Vanguard Belt","msgstr":"Cinto da Vanguarda"}
+{"msgctxt":"items","msgid":"VARN Chest Key","msgstr":"Chave do Baú VARN"}
+{"msgctxt":"items","msgid":"Vase","msgstr":"Vaso"}
+{"msgctxt":"items","msgid":"Veteran Shield","msgstr":"Escudo do Veterano"}
+{"msgctxt":"items","msgid":"Vial of Devil Ichor","msgstr":"Frasco de Icor de Diabo"}
+{"msgctxt":"items","msgid":"Vial of Grave Earth","msgstr":"Frasco de Terra de Sepultura"}
+{"msgctxt":"items","msgid":"Vial of Ooze Endoplasm","msgstr":"Frasco de Endoplasma de Gosma"}
+{"msgctxt":"items","msgid":"Vial of Troll Blood","msgstr":"Frasco de Sangue de Troll"}
+{"msgctxt":"items","msgid":"Villain's Blade","msgstr":"Lâmina do Vilão"}
+{"msgctxt":"items","msgid":"Volcano","msgstr":"Vulcão"}
+{"msgctxt":"items","msgid":"Walking Boots","msgstr":"Botas de Caminhada"}
+{"msgctxt":"items","msgid":"Wallace","msgstr":"Wallace"}
+{"msgctxt":"items","msgid":"Wand of Arrows","msgstr":"Varinha de Flechas"}
+{"msgctxt":"items","msgid":"Wand of Cold","msgstr":"Varinha do Frio"}
+{"msgctxt":"items","msgid":"Wand of Fire","msgstr":"Varinha do Fogo"}
+{"msgctxt":"items","msgid":"Wand of Flame","msgstr":"Varinha da Chama"}
+{"msgctxt":"items","msgid":"Wand of Harm","msgstr":"Varinha de Ferir"}
+{"msgctxt":"items","msgid":"Wand of Poison","msgstr":"Varinha do Veneno"}
+{"msgctxt":"items","msgid":"Wand of Sparks","msgstr":"Varinha das Faíscas"}
+{"msgctxt":"items","msgid":"Wand of Static","msgstr":"Varinha de Estática"}
+{"msgctxt":"items","msgid":"Wand of Stunning","msgstr":"Varinha do Atordoamento"}
+{"msgctxt":"items","msgid":"War Axe","msgstr":"Machado de Guerra"}
+{"msgctxt":"items","msgid":"War Hammer","msgstr":"Martelo de guerra"}
+{"msgctxt":"items","msgid":"War Spear","msgstr":"Lança de Guerra"}
+{"msgctxt":"items","msgid":"War Trident","msgstr":"Tridente de Guerra"}
+{"msgctxt":"items","msgid":"Warhammer","msgstr":"Martelo de Guerra"}
+{"msgctxt":"items","msgid":"Warlock's Ring","msgstr":"Anel do Bruxo"}
+{"msgctxt":"items","msgid":"Warlord Belt","msgstr":"Cinturão do Senhor da Guerra"}
+{"msgctxt":"items","msgid":"Warlord's Key","msgstr":"Chave do Senhor da Guerra"}
+{"msgctxt":"items","msgid":"Warrior Sword","msgstr":"Espada de Guerreiro"}
+{"msgctxt":"items","msgid":"Warrior's Poleaxe","msgstr":"Alabarda do Guerreiro"}
+{"msgctxt":"items","msgid":"Wasp Stingers","msgstr":"Ferrões de Vespa"}
+{"msgctxt":"items","msgid":"Wasp Wing","msgstr":"Asa de Vespa"}
+{"msgctxt":"items","msgid":"Water Breathing","msgstr":"Respiração Aquática"}
+{"msgctxt":"items","msgid":"Water Resistance","msgstr":"Resistência à Água"}
+{"msgctxt":"items","msgid":"Water Resistance Recipe","msgstr":"Receita de Resistência à Água"}
+{"msgctxt":"items","msgid":"Water Temple Key","msgstr":"Chave do Templo da Água"}
+{"msgctxt":"items","msgid":"Wealthy Hat","msgstr":"Chapéu de Rico"}
+{"msgctxt":"items","msgid":"Weighted Halberd","msgstr":"Alabarda Pesada"}
+{"msgctxt":"items","msgid":"West Pillar Key","msgstr":"Chave do Pilar Oeste"}
+{"msgctxt":"items","msgid":"Wetsuit","msgstr":"Roupa de Mergulho"}
+{"msgctxt":"items","msgid":"Wheel of Frelandeau","msgstr":"Roda de Frelandeau"}
+{"msgctxt":"items","msgid":"Whisp wrappings","msgstr":"Ataduras de Fogo-Fátuo"}
+{"msgctxt":"items","msgid":"Wicked Mace","msgstr":"Maça Maligna"}
+{"msgctxt":"items","msgid":"Widoweeps Berries","msgstr":"Bagas de Choro-de-Viúva"}
+{"msgctxt":"items","msgid":"Widowsweep Berries","msgstr":"Bagas de Varre-Viúvas"}
+{"msgctxt":"items","msgid":"Will O' Wisp Heart","msgstr":"Coração de Fogo-Fátuo"}
+{"msgctxt":"items","msgid":"William's Tower Key","msgstr":"Chave da Torre de William"}
+{"msgctxt":"items","msgid":"Winged Sandals","msgstr":"Sandálias Aladas"}
+{"msgctxt":"items","msgid":"Witch Ring","msgstr":"Anel de bruxa"}
+{"msgctxt":"items","msgid":"Witch's Amulet","msgstr":"Amuleto da Bruxa"}
+{"msgctxt":"items","msgid":"Witch's Wand of Fire","msgstr":"Varinha de Fogo da Bruxa"}
+{"msgctxt":"items","msgid":"Witch's Wand of Harming","msgstr":"Varinha de Ferir da Bruxa"}
+{"msgctxt":"items","msgid":"Witch's Wand of Poison","msgstr":"Varinha do Veneno da Bruxa"}
+{"msgctxt":"items","msgid":"Witch's Wand of Sparks","msgstr":"Varinha das Faíscas da Bruxa"}
+{"msgctxt":"items","msgid":"Witch's Wand of Stunning","msgstr":"Varinha do Atordoamento da Bruxa"}
+{"msgctxt":"items","msgid":"Wizard Cap","msgstr":"Gorro de Mago"}
+{"msgctxt":"items","msgid":"Wizard Ring","msgstr":"Anel de Mago"}
+{"msgctxt":"items","msgid":"Wizard Staff","msgstr":"Cajado do Mago"}
+{"msgctxt":"items","msgid":"Wizard Wand of Acid","msgstr":"Varinha de Mago do Ácido"}
+{"msgctxt":"items","msgid":"Wizard Wand of Berzerking","msgstr":"Varinha do Frenesi do Mago"}
+{"msgctxt":"items","msgid":"Wizard Wand of Blades","msgstr":"Varinha de Lâminas do Mago"}
+{"msgctxt":"items","msgid":"Wizard Wand of Fireballs","msgstr":"Varinha de Bolas de Fogo do Mago"}
+{"msgctxt":"items","msgid":"Wizard Wand of Lightning","msgstr":"Varinha do Relâmpago do Mago"}
+{"msgctxt":"items","msgid":"Wolf Statuette","msgstr":"Estatueta de Lobo"}
+{"msgctxt":"items","msgid":"Wolf's Eye","msgstr":"Olho do Lobo"}
+{"msgctxt":"items","msgid":"Wonder Mace","msgstr":"Maça das Maravilhas"}
+{"msgctxt":"items","msgid":"Wooden Buckler","msgstr":"Broquel de Madeira"}
+{"msgctxt":"items","msgid":"Wooden Shield","msgstr":"Escudo de Madeira"}
+{"msgctxt":"items","msgid":"Worn Belt","msgstr":"Cinto Gasto"}
+{"msgctxt":"items","msgid":"Wyrm Spitter","msgstr":"Cuspidor de Serpes"}
+{"msgctxt":"items","msgid":"Wyvern Horn","msgstr":"Chifre de Serpe"}
+{"msgctxt":"items","msgid":"Wyvern Leather Belt","msgstr":"Cinto de Couro de Serpe"}
+{"msgctxt":"items","msgid":"Yellow Topaz","msgstr":"Topázio Amarelo"}
+{"msgctxt":"items","msgid":"Yoruba","msgstr":"Iorubá"}
+{"msgctxt":"items","msgid":"Zealot Mace","msgstr":"Maça do Fanático"}
+{"msgctxt":"items","msgid":"Zeus","msgstr":"Zeus"}
+{"msgctxt":"items","msgid":"Zircon","msgstr":"Zircão"}
+{"msgctxt":"items","msgid":"Zokarr IV's Skull","msgstr":"Crânio de Zokarr IV"}
+{"msgctxt":"items","msgid":"Zokarr's Axe","msgstr":"Machado de Zokarr"}
+{"msgctxt":"location","msgid":"Abandoned Pirate Keep","msgstr":"Fortaleza Pirata Abandonada"}
+{"msgctxt":"location","msgid":"Abandoned Temple","msgstr":"Templo Abandonado"}
+{"msgctxt":"location","msgid":"Agar's Laboratory","msgstr":"Laboratório de Agar"}
+{"msgctxt":"location","msgid":"Alvar","msgstr":"Alvar"}
+{"msgctxt":"location","msgid":"Ancient Troll Home","msgstr":"Antigo Lar dos Trolls"}
+{"msgctxt":"location","msgid":"Arena","msgstr":"Arena"}
+{"msgctxt":"location","msgid":"Avlee","msgstr":"Avlee"}
+{"msgctxt":"location","msgid":"Balthazar Lair","msgstr":"Covil de Balthazar"}
+{"msgctxt":"location","msgid":"Barbarian Fortress","msgstr":"Fortaleza dos Bárbaros"}
+{"msgctxt":"location","msgid":"Barrow I","msgstr":"Túmulo I"}
+{"msgctxt":"location","msgid":"Barrow II","msgstr":"Túmulo II"}
+{"msgctxt":"location","msgid":"Barrow III","msgstr":"Túmulo III"}
+{"msgctxt":"location","msgid":"Barrow IV","msgstr":"Túmulo IV"}
+{"msgctxt":"location","msgid":"Barrow IX","msgstr":"Túmulo IX"}
+{"msgctxt":"location","msgid":"Barrow V","msgstr":"Túmulo V"}
+{"msgctxt":"location","msgid":"Barrow VI","msgstr":"Túmulo VI"}
+{"msgctxt":"location","msgid":"Barrow VII","msgstr":"Túmulo VII"}
+{"msgctxt":"location","msgid":"Barrow VIII","msgstr":"Túmulo VIII"}
+{"msgctxt":"location","msgid":"Barrow X","msgstr":"Túmulo X"}
+{"msgctxt":"location","msgid":"Barrow XI","msgstr":"Túmulo XI"}
+{"msgctxt":"location","msgid":"Barrow XII","msgstr":"Túmulo XII"}
+{"msgctxt":"location","msgid":"Barrow XIII","msgstr":"Túmulo XIII"}
+{"msgctxt":"location","msgid":"Barrow XIV","msgstr":"Túmulo XIV"}
+{"msgctxt":"location","msgid":"Barrow XV","msgstr":"Túmulo XV"}
+{"msgctxt":"location","msgid":"Basement of the Breach","msgstr":"Porão da Brecha"}
+{"msgctxt":"location","msgid":"Blackshire","msgstr":"Blackshire"}
+{"msgctxt":"location","msgid":"Bootleg Bay","msgstr":"Baía dos Contrabandistas"}
+{"msgctxt":"location","msgid":"Castle Alamos","msgstr":"Castelo Alamos"}
+{"msgctxt":"location","msgid":"Castle Darkmoor","msgstr":"Castelo Darkmoor"}
+{"msgctxt":"location","msgid":"Castle Gloaming","msgstr":"Castelo Gloaming"}
+{"msgctxt":"location","msgid":"Castle Gryphonheart","msgstr":"Castelo Gryphonheart"}
+{"msgctxt":"location","msgid":"Castle Harmondale","msgstr":"Castelo de Harmondale"}
+{"msgctxt":"location","msgid":"Castle Ironfist","msgstr":"Castelo Ironfist"}
+{"msgctxt":"location","msgid":"Castle Kriegspire","msgstr":"Castelo de Kriegspire"}
+{"msgctxt":"location","msgid":"Castle Lambent","msgstr":"Castelo Lambent"}
+{"msgctxt":"location","msgid":"Castle Navan","msgstr":"Castelo Navan"}
+{"msgctxt":"location","msgid":"Castle of Air","msgstr":"Castelo do Ar"}
+{"msgctxt":"location","msgid":"Castle of Fire","msgstr":"Castelo de Fogo"}
+{"msgctxt":"location","msgid":"Caves of the Dragon Riders","msgstr":"Cavernas dos Cavaleiros de Dragão"}
+{"msgctxt":"location","msgid":"Celeste","msgstr":"Celeste"}
+{"msgctxt":"location","msgid":"Chain of Fire","msgstr":"Corrente de Fogo"}
+{"msgctxt":"location","msgid":"Chapel of Eep","msgstr":"Capela de Eep"}
+{"msgctxt":"location","msgid":"Church of Eep","msgstr":"Igreja de Eep"}
+{"msgctxt":"location","msgid":"Clanker's Laboratory","msgstr":"Laboratório de Clanker"}
+{"msgctxt":"location","msgid":"Colony Zod","msgstr":"Colônia Zod"}
+{"msgctxt":"location","msgid":"Control Center","msgstr":"Centro de Controle"}
+{"msgctxt":"location","msgid":"Corlagon's Estate","msgstr":"Solar de Corlagon"}
+{"msgctxt":"location","msgid":"Cyclops Larder","msgstr":"Despensa dos Ciclopes"}
+{"msgctxt":"location","msgid":"Dagger Wound Island","msgstr":"Ilha da Ferida de Adaga"}
+{"msgctxt":"location","msgid":"Dark Dwarf Compound","msgstr":"Complexo dos Anões Sombrios"}
+{"msgctxt":"location","msgid":"Devil Outpost","msgstr":"Posto Avançado dos Diabos"}
+{"msgctxt":"location","msgid":"Deyja","msgstr":"Deyja"}
+{"msgctxt":"location","msgid":"Dire Wolf Den","msgstr":"Covil do Lobo Atroz"}
+{"msgctxt":"location","msgid":"Dragon Cave","msgstr":"Caverna do Dragão"}
+{"msgctxt":"location","msgid":"Dragon Hunter's Camp","msgstr":"Acampamento do Caçador de Dragões"}
+{"msgctxt":"location","msgid":"Dragon's Lair","msgstr":"Covil do Dragão"}
+{"msgctxt":"location","msgid":"Dragonsand","msgstr":"Areias dos Dragões"}
+{"msgctxt":"location","msgid":"Dragoons' Caverns","msgstr":"Cavernas dos Dragões"}
+{"msgctxt":"location","msgid":"Dragoons' Keep","msgstr":"Fortaleza dos Dragões"}
+{"msgctxt":"location","msgid":"Druid Circle","msgstr":"Círculo dos Druidas"}
+{"msgctxt":"location","msgid":"Eel Infested Waters","msgstr":"Águas Infestadas de Enguias"}
+{"msgctxt":"location","msgid":"Emerald Island","msgstr":"Ilha Esmeralda"}
+{"msgctxt":"location","msgid":"Erathia","msgstr":"Erathia"}
+{"msgctxt":"location","msgid":"Escaton's Crystal","msgstr":"Cristal de Escaton"}
+{"msgctxt":"location","msgid":"Escaton's Palace","msgstr":"Palácio de Escaton"}
+{"msgctxt":"location","msgid":"Evenmorn Island","msgstr":"Ilha de Evenmorn"}
+{"msgctxt":"location","msgid":"Fort Riverstride","msgstr":"Forte Passo do Rio"}
+{"msgctxt":"location","msgid":"Free Haven","msgstr":"Porto Livre"}
+{"msgctxt":"location","msgid":"Free Haven Sewer","msgstr":"Esgoto de Porto Livre"}
+{"msgctxt":"location","msgid":"Frozen Highlands","msgstr":"Terras Altas Congeladas"}
+{"msgctxt":"location","msgid":"Garrote Gorge","msgstr":"Desfiladeiro do Garrote"}
+{"msgctxt":"location","msgid":"Gharik's Forge","msgstr":"Forja de Gharik"}
+{"msgctxt":"location","msgid":"Goblinwatch","msgstr":"Vigia Goblin"}
+{"msgctxt":"location","msgid":"Grand Temple of Eep","msgstr":"Grande Templo de Eep"}
+{"msgctxt":"location","msgid":"Grand Temple of the Moon","msgstr":"Grande Templo da Lua"}
+{"msgctxt":"location","msgid":"Grand Temple of the Sun","msgstr":"Grande Templo do Sol"}
+{"msgctxt":"location","msgid":"Hall of the Fire Lord","msgstr":"Salão do Senhor do Fogo"}
+{"msgctxt":"location","msgid":"Harmondale","msgstr":"Harmondale"}
+{"msgctxt":"location","msgid":"Hermit's Isle","msgstr":"Ilha do Eremita"}
+{"msgctxt":"location","msgid":"Icewind Keep","msgstr":"Fortaleza do Vento Gélido"}
+{"msgctxt":"location","msgid":"Ilsingore's Cave","msgstr":"Caverna de Ilsingore"}
+{"msgctxt":"location","msgid":"Ironsand Desert","msgstr":"Deserto de Ironsand"}
+{"msgctxt":"location","msgid":"Kriegspire","msgstr":"Kriegspire"}
+{"msgctxt":"location","msgid":"Lair of the Wolf","msgstr":"Covil do Lobo"}
+{"msgctxt":"location","msgid":"Lord Markham's Manor","msgstr":"Mansão do Lorde Markham"}
+{"msgctxt":"location","msgid":"Mad Necromancer's Lab","msgstr":"Laboratório do Necromante Louco"}
+{"msgctxt":"location","msgid":"Merchant House of Alvar","msgstr":"Casa Mercante de Alvar"}
+{"msgctxt":"location","msgid":"Mire of the Damned","msgstr":"Pântano dos Condenados"}
+{"msgctxt":"location","msgid":"Misty Islands","msgstr":"Ilhas Nebulosas"}
+{"msgctxt":"location","msgid":"Mount Nighon","msgstr":"Monte Nighon"}
+{"msgctxt":"location","msgid":"Murmurwoods","msgstr":"Bosques Sussurrantes"}
+{"msgctxt":"location","msgid":"Naga Vault","msgstr":"Câmara das Nagas"}
+{"msgctxt":"location","msgid":"Necromancers' Guild","msgstr":"Guilda dos Necromantes"}
+{"msgctxt":"location","msgid":"New Sorpigal","msgstr":"Nova Sorpigal"}
+{"msgctxt":"location","msgid":"New World Computing","msgstr":"New World Computing"}
+{"msgctxt":"location","msgid":"Nighon Tunnels","msgstr":"Túneis de Nighon"}
+{"msgctxt":"location","msgid":"NWC","msgstr":"NWC"}
+{"msgctxt":"location","msgid":"Ogre Fortress","msgstr":"Fortaleza dos Ogros"}
+{"msgctxt":"location","msgid":"Old Loeb's Cave","msgstr":"Caverna do Velho Loeb"}
+{"msgctxt":"location","msgid":"Oracle of Enroth","msgstr":"Oráculo de Enroth"}
+{"msgctxt":"location","msgid":"Paradise Valley","msgstr":"Vale do Paraíso"}
+{"msgctxt":"location","msgid":"Passage Under Regna","msgstr":"Passagem sob Regna"}
+{"msgctxt":"location","msgid":"pending","msgstr":"pendente"}
+{"msgctxt":"location","msgid":"Pirate Outpost","msgstr":"Posto Avançado Pirata"}
+{"msgctxt":"location","msgid":"Pirate Stronghold","msgstr":"Fortaleza dos Piratas"}
+{"msgctxt":"location","msgid":"Plane Between Planes","msgstr":"Plano entre Planos"}
+{"msgctxt":"location","msgid":"Plane of Air","msgstr":"Plano do Ar"}
+{"msgctxt":"location","msgid":"Plane of Earth","msgstr":"Plano da Terra"}
+{"msgctxt":"location","msgid":"Plane of Fire","msgstr":"Plano do Fogo"}
+{"msgctxt":"location","msgid":"Plane of Water","msgstr":"Plano da Água"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Air","msgstr":"Prisão do Senhor do Ar"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Earth","msgstr":"Prisão do Senhor da Terra"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Fire","msgstr":"Prisão do Senhor do Fogo"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Water","msgstr":"Prisão do Senhor da Água"}
+{"msgctxt":"location","msgid":"Ravage Roaming","msgstr":"Terras Devastadas"}
+{"msgctxt":"location","msgid":"Ravenshore","msgstr":"Costa dos Corvos"}
+{"msgctxt":"location","msgid":"Regna","msgstr":"Regna"}
+{"msgctxt":"location","msgid":"Shadow Guild","msgstr":"Guilda das Sombras"}
+{"msgctxt":"location","msgid":"Shadow Guild Hideout","msgstr":"Esconderijo da Guilda das Sombras"}
+{"msgctxt":"location","msgid":"Shadowspire","msgstr":"Agulha Sombria"}
+{"msgctxt":"location","msgid":"Shoals","msgstr":"Baixios"}
+{"msgctxt":"location","msgid":"Silver Cove","msgstr":"Enseada Prateada"}
+{"msgctxt":"location","msgid":"Silver Helm Outpost","msgstr":"Posto Avançado do Elmo de Prata"}
+{"msgctxt":"location","msgid":"Silver Helm Stronghold","msgstr":"Fortaleza do Elmo de Prata"}
+{"msgctxt":"location","msgid":"Small Sub Pen","msgstr":"Pequeno Abrigo de Submarinos"}
+{"msgctxt":"location","msgid":"Smuggler's Cove","msgstr":"Enseada dos Contrabandistas"}
+{"msgctxt":"location","msgid":"Snergle's Caverns","msgstr":"Cavernas de Snergle"}
+{"msgctxt":"location","msgid":"Snergle's Iron Mines","msgstr":"Minas de Ferro de Snergle"}
+{"msgctxt":"location","msgid":"Stone City","msgstr":"Cidade de Pedra"}
+{"msgctxt":"location","msgid":"Superior Temple of Baa","msgstr":"Templo Superior de Baa"}
+{"msgctxt":"location","msgid":"Supreme Temple of Baa","msgstr":"Supremo Templo de Baa"}
+{"msgctxt":"location","msgid":"Sweet Water","msgstr":"Água Doce"}
+{"msgctxt":"location","msgid":"Tatalia","msgstr":"Tatalia"}
+{"msgctxt":"location","msgid":"Temple of Baa","msgstr":"Templo de Baa"}
+{"msgctxt":"location","msgid":"Temple of the Dark","msgstr":"Templo das Trevas"}
+{"msgctxt":"location","msgid":"Temple of the Fist","msgstr":"Templo do Punho"}
+{"msgctxt":"location","msgid":"Temple of the Light","msgstr":"Templo da Luz"}
+{"msgctxt":"location","msgid":"Temple of the Moon","msgstr":"Templo da Lua"}
+{"msgctxt":"location","msgid":"Temple of the Snake","msgstr":"Templo da Serpente"}
+{"msgctxt":"location","msgid":"Temple of the Sun","msgstr":"Templo do Sol"}
+{"msgctxt":"location","msgid":"Temple of Tsantsa","msgstr":"Templo de Tsantsa"}
+{"msgctxt":"location","msgid":"The Arena","msgstr":"A Arena"}
+{"msgctxt":"location","msgid":"The Bandit Caves","msgstr":"As Cavernas dos Bandidos"}
+{"msgctxt":"location","msgid":"The Barrow Downs","msgstr":"As Colinas dos Túmulos"}
+{"msgctxt":"location","msgid":"The Bracada Desert","msgstr":"O Deserto de Bracada"}
+{"msgctxt":"location","msgid":"The Breach","msgstr":"A Brecha"}
+{"msgctxt":"location","msgid":"The Breeding Zone","msgstr":"A Zona de Reprodução"}
+{"msgctxt":"location","msgid":"The Crypt of Korbu","msgstr":"A Cripta de Korbu"}
+{"msgctxt":"location","msgid":"The Dragon Caves","msgstr":"As Cavernas dos Dragões"}
+{"msgctxt":"location","msgid":"The Dragon's Lair","msgstr":"O Covil do Dragão"}
+{"msgctxt":"location","msgid":"The Erathian Sewers","msgstr":"Os Esgotos de Erathia"}
+{"msgctxt":"location","msgid":"The Hall of the Pit","msgstr":"O Salão do Fosso"}
+{"msgctxt":"location","msgid":"The Hall under the Hill","msgstr":"O Salão sob a Colina"}
+{"msgctxt":"location","msgid":"The Haunted Mansion","msgstr":"A Mansão Assombrada"}
+{"msgctxt":"location","msgid":"The Hidden Tomb","msgstr":"A Tumba Oculta"}
+{"msgctxt":"location","msgid":"The Hive","msgstr":"A Colmeia"}
+{"msgctxt":"location","msgid":"The Land of the Giants","msgstr":"A Terra dos Gigantes"}
+{"msgctxt":"location","msgid":"The Lincoln","msgstr":"O Lincoln"}
+{"msgctxt":"location","msgid":"The Maze","msgstr":"O Labirinto"}
+{"msgctxt":"location","msgid":"The Mercenary Guild ","msgstr":"A Guilda dos Mercenários "}
+{"msgctxt":"location","msgid":"The Monolith","msgstr":"O Monólito"}
+{"msgctxt":"location","msgid":"The Pit","msgstr":"O Fosso"}
+{"msgctxt":"location","msgid":"The Red Dwarf Mines","msgstr":"As Minas dos Anões Vermelhos"}
+{"msgctxt":"location","msgid":"The School of Sorcery","msgstr":"A Escola de Feitiçaria"}
+{"msgctxt":"location","msgid":"The Small House","msgstr":"A Casa Pequena"}
+{"msgctxt":"location","msgid":"The Strange Temple","msgstr":"O Templo Estranho"}
+{"msgctxt":"location","msgid":"The Temple of Baa","msgstr":"O Templo de Baa"}
+{"msgctxt":"location","msgid":"The Temple of the Moon","msgstr":"O Templo da Lua"}
+{"msgctxt":"location","msgid":"The Tidewater Caverns","msgstr":"As Cavernas da Maré"}
+{"msgctxt":"location","msgid":"The Titans' Stronghold","msgstr":"A Fortaleza dos Titãs"}
+{"msgctxt":"location","msgid":"The Tularean Caves","msgstr":"As Cavernas Tulareanas"}
+{"msgctxt":"location","msgid":"The Tularean Forest","msgstr":"A Floresta de Tularean"}
+{"msgctxt":"location","msgid":"The Walls of Mist","msgstr":"As Muralhas da Névoa"}
+{"msgctxt":"location","msgid":"The Wine Cellar","msgstr":"A Adega"}
+{"msgctxt":"location","msgid":"Thunderfist Mountain","msgstr":"Montanha Thunderfist"}
+{"msgctxt":"location","msgid":"Tomb of Ethric the Mad","msgstr":"Tumba de Ethric, o Louco"}
+{"msgctxt":"location","msgid":"Tomb of Lord Brinne","msgstr":"Tumba de Lorde Brinne"}
+{"msgctxt":"location","msgid":"Tomb of VARN","msgstr":"Tumba de VARN"}
+{"msgctxt":"location","msgid":"Troll Tomb","msgstr":"Tumba do Troll"}
+{"msgctxt":"location","msgid":"Tunnels to Eeofol","msgstr":"Túneis para Eeofol"}
+{"msgctxt":"location","msgid":"Tutorial","msgstr":"Tutorial"}
+{"msgctxt":"location","msgid":"Uplifted Library","msgstr":"Biblioteca Elevada"}
+{"msgctxt":"location","msgid":"Vampire Crypt","msgstr":"Cripta dos Vampiros"}
+{"msgctxt":"location","msgid":"War Camp","msgstr":"Acampamento de Guerra"}
+{"msgctxt":"location","msgid":"Warlord's Fortress","msgstr":"Fortaleza do Senhor da Guerra"}
+{"msgctxt":"location","msgid":"Wasp Nest","msgstr":"Ninho de Vespas"}
+{"msgctxt":"location","msgid":"Watchtower 6","msgstr":"Torre de Vigia 6"}
+{"msgctxt":"location","msgid":"White Cliff Cave","msgstr":"Caverna do Penhasco Branco"}
+{"msgctxt":"location","msgid":"William Setag's Tower","msgstr":"Torre de William Setag"}
+{"msgctxt":"location","msgid":"Wromthrax's Cave","msgstr":"Caverna de Wromthrax"}
+{"msgctxt":"location","msgid":"Yaardrake's Cave","msgstr":"Caverna de Yaardrake"}
+{"msgctxt":"location","msgid":"Zokarr's Tomb","msgstr":"Tumba de Zokarr"}
+{"msgctxt":"monsters","msgid":"Acidic Ooze","msgstr":"Gosma Ácida"}
+{"msgctxt":"monsters","msgid":"Acolyte of Baa","msgstr":"Acólito de Baa"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Moon","msgstr":"Acólito da Lua"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Sun","msgstr":"Acólito do Sol"}
+{"msgctxt":"monsters","msgid":"Adventurer","msgstr":"Aventureiro"}
+{"msgctxt":"monsters","msgid":"Agar's Abomination","msgstr":"Abominação de Agar"}
+{"msgctxt":"monsters","msgid":"Agar's Monster","msgstr":"Monstro de Agar"}
+{"msgctxt":"monsters","msgid":"Agar's Pet","msgstr":"Mascote de Agar"}
+{"msgctxt":"monsters","msgid":"Air Elemental","msgstr":"Elemental do Ar"}
+{"msgctxt":"monsters","msgid":"Air Hydra","msgstr":"Hidra do Ar"}
+{"msgctxt":"monsters","msgid":"Air Warlock","msgstr":"Bruxo do Ar"}
+{"msgctxt":"monsters","msgid":"Ancient Behemoth","msgstr":"Beemote Ancião"}
+{"msgctxt":"monsters","msgid":"Ancient Wyvern","msgstr":"Wyvern Anciã"}
+{"msgctxt":"monsters","msgid":"Angel","msgstr":"Anjo"}
+{"msgctxt":"monsters","msgid":"Angel Lord","msgstr":"Lorde Anjo"}
+{"msgctxt":"monsters","msgid":"Animalist","msgstr":"Animalista"}
+{"msgctxt":"monsters","msgid":"Apprentice Mage","msgstr":"Mago Aprendiz"}
+{"msgctxt":"monsters","msgid":"Archangel","msgstr":"Arcanjo"}
+{"msgctxt":"monsters","msgid":"Archer","msgstr":"Arqueiro"}
+{"msgctxt":"monsters","msgid":"Archmage","msgstr":"Arquimago"}
+{"msgctxt":"monsters","msgid":"Assassin","msgstr":"Assassino"}
+{"msgctxt":"monsters","msgid":"Assassin Droid","msgstr":"Droide Assassino"}
+{"msgctxt":"monsters","msgid":"Bandit","msgstr":"Bandido"}
+{"msgctxt":"monsters","msgid":"Barrow Wight","msgstr":"Espectro do Túmulo"}
+{"msgctxt":"monsters","msgid":"Basilisk","msgstr":"Basilisco"}
+{"msgctxt":"monsters","msgid":"Bat","msgstr":"Morcego"}
+{"msgctxt":"monsters","msgid":"Behemoth","msgstr":"Beemote"}
+{"msgctxt":"monsters","msgid":"Bestial Animalist","msgstr":"Animalista Bestial"}
+{"msgctxt":"monsters","msgid":"Bestial Lycanthrope","msgstr":"Licantropo Bestial"}
+{"msgctxt":"monsters","msgid":"Bestial Shapeshifter","msgstr":"Metamorfo Bestial"}
+{"msgctxt":"monsters","msgid":"Blaster Guy C","msgstr":"Cara do Bláster C"}
+{"msgctxt":"monsters","msgid":"Blood Sucker","msgstr":"Sanguessuga"}
+{"msgctxt":"monsters","msgid":"Blood Titan","msgstr":"Titã de Sangue"}
+{"msgctxt":"monsters","msgid":"Bloodstone Ooze","msgstr":"Gosma de Pedra-Sangue"}
+{"msgctxt":"monsters","msgid":"Blue Dragon","msgstr":"Dragão Azul"}
+{"msgctxt":"monsters","msgid":"Bone Dragon","msgstr":"Dragão de Osso"}
+{"msgctxt":"monsters","msgid":"Boulder","msgstr":"Pedregulho"}
+{"msgctxt":"monsters","msgid":"Bounty Hunter","msgstr":"Caçador de Recompensas"}
+{"msgctxt":"monsters","msgid":"Bowman","msgstr":"Arqueiro"}
+{"msgctxt":"monsters","msgid":"Brain Sucker","msgstr":"Sugador de Cérebros"}
+{"msgctxt":"monsters","msgid":"Brass Golem","msgstr":"Golem de Latão"}
+{"msgctxt":"monsters","msgid":"Brass Gorgon","msgstr":"Górgona de Latão"}
+{"msgctxt":"monsters","msgid":"Brigand","msgstr":"Salteador"}
+{"msgctxt":"monsters","msgid":"Bronze Golem","msgstr":"Golem de Bronze"}
+{"msgctxt":"monsters","msgid":"Bronze Gorgon","msgstr":"Górgona de Bronze"}
+{"msgctxt":"monsters","msgid":"Buccaneer","msgstr":"Bucaneiro"}
+{"msgctxt":"monsters","msgid":"Burglar","msgstr":"Ladrão"}
+{"msgctxt":"monsters","msgid":"Cactus","msgstr":"Cacto"}
+{"msgctxt":"monsters","msgid":"Cannibal","msgstr":"Canibal"}
+{"msgctxt":"monsters","msgid":"Captain","msgstr":"Capitão"}
+{"msgctxt":"monsters","msgid":"Cat A","msgstr":"Gato A"}
+{"msgctxt":"monsters","msgid":"Cat B","msgstr":"Gato B"}
+{"msgctxt":"monsters","msgid":"Cat C","msgstr":"Gato C"}
+{"msgctxt":"monsters","msgid":"Centaur","msgstr":"Centauro"}
+{"msgctxt":"monsters","msgid":"Centaur Warlord","msgstr":"Senhor da Guerra Centauro"}
+{"msgctxt":"monsters","msgid":"Centaur Warrior","msgstr":"Guerreiro Centauro"}
+{"msgctxt":"monsters","msgid":"Champion of the Sword","msgstr":"Campeão da Espada"}
+{"msgctxt":"monsters","msgid":"Chaos Guardian","msgstr":"Guardião do Caos"}
+{"msgctxt":"monsters","msgid":"Chaos Hydra","msgstr":"Hidra do Caos"}
+{"msgctxt":"monsters","msgid":"Chaos Overlord","msgstr":"Suserano do Caos"}
+{"msgctxt":"monsters","msgid":"Chaos Protector","msgstr":"Protetor do Caos"}
+{"msgctxt":"monsters","msgid":"Charger","msgstr":"Embestidor"}
+{"msgctxt":"monsters","msgid":"Chicken A","msgstr":"Galinha A"}
+{"msgctxt":"monsters","msgid":"Chicken B","msgstr":"Galinha B"}
+{"msgctxt":"monsters","msgid":"Chicken C","msgstr":"Galinha C"}
+{"msgctxt":"monsters","msgid":"Clay Elemental","msgstr":"Elemental de Argila"}
+{"msgctxt":"monsters","msgid":"Cleric of Baa","msgstr":"Clérigo de Baa"}
+{"msgctxt":"monsters","msgid":"Cleric of the Moon","msgstr":"Clérigo da Lua"}
+{"msgctxt":"monsters","msgid":"Cleric of the Sun","msgstr":"Clérigo do Sol"}
+{"msgctxt":"monsters","msgid":"Cobra","msgstr":"Cobra"}
+{"msgctxt":"monsters","msgid":"Colossal Hydra","msgstr":"Hidra Colossal"}
+{"msgctxt":"monsters","msgid":"Common Rat","msgstr":"Rato comum"}
+{"msgctxt":"monsters","msgid":"Conscript","msgstr":"Conscrito"}
+{"msgctxt":"monsters","msgid":"Corbie","msgstr":"Corvo"}
+{"msgctxt":"monsters","msgid":"Corrosive Ooze","msgstr":"Gosma Corrosiva"}
+{"msgctxt":"monsters","msgid":"Corsair","msgstr":"Corsário"}
+{"msgctxt":"monsters","msgid":"Couatl","msgstr":"Couatl"}
+{"msgctxt":"monsters","msgid":"Crusader","msgstr":"Cruzado"}
+{"msgctxt":"monsters","msgid":"Crystal Guardian","msgstr":"Guardião de Cristal"}
+{"msgctxt":"monsters","msgid":"Crystal Sentry","msgstr":"Sentinela de Cristal"}
+{"msgctxt":"monsters","msgid":"Crystal Walker","msgstr":"Andarilho de Cristal"}
+{"msgctxt":"monsters","msgid":"Cuisinart","msgstr":"Cuisinart"}
+{"msgctxt":"monsters","msgid":"Cutpurse","msgstr":"Punguista"}
+{"msgctxt":"monsters","msgid":"Cyclone","msgstr":"Ciclone"}
+{"msgctxt":"monsters","msgid":"Cyclops","msgstr":"Ciclope"}
+{"msgctxt":"monsters","msgid":"Cyclops Hunter","msgstr":"Ciclope Caçador"}
+{"msgctxt":"monsters","msgid":"Cyclops Warrior","msgstr":"Guerreiro Ciclope"}
+{"msgctxt":"monsters","msgid":"Dancing Light","msgstr":"Luz Dançante"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Berserker","msgstr":"Berserker Anão Sombrio"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Grunt","msgstr":"Recruta Anão Sombrio"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Pounder","msgstr":"Esmagador Anão Sombrio"}
+{"msgctxt":"monsters","msgid":"Dark Elf Peasant","msgstr":"Camponês Elfo Sombrio"}
+{"msgctxt":"monsters","msgid":"Dark Elven Crusader","msgstr":"Cruzado Élfico Sombrio"}
+{"msgctxt":"monsters","msgid":"Dark Elven Defender","msgstr":"Defensor Élfico Sombrio"}
+{"msgctxt":"monsters","msgid":"Dark Elven Warrior","msgstr":"Guerreiro Élfico Sombrio"}
+{"msgctxt":"monsters","msgid":"Dark Path Journeyman","msgstr":"Oficial do Caminho das Trevas"}
+{"msgctxt":"monsters","msgid":"Death Knight","msgstr":"Cavaleiro da Morte"}
+{"msgctxt":"monsters","msgid":"Defender of VARN","msgstr":"Defensor de VARN"}
+{"msgctxt":"monsters","msgid":"Demolisher","msgstr":"Demolidor"}
+{"msgctxt":"monsters","msgid":"Demon Queen","msgstr":"Rainha dos Demônios"}
+{"msgctxt":"monsters","msgid":"Devil Captain","msgstr":"Capitão dos Diabos"}
+{"msgctxt":"monsters","msgid":"Devil King","msgstr":"Rei dos Diabos"}
+{"msgctxt":"monsters","msgid":"Devil Master","msgstr":"Demônio Mestre"}
+{"msgctxt":"monsters","msgid":"Devil Spawn","msgstr":"Prole Diabólica"}
+{"msgctxt":"monsters","msgid":"Devil Warrior","msgstr":"Guerreiro Diabólico"}
+{"msgctxt":"monsters","msgid":"Devil Worker","msgstr":"Demônio Operário"}
+{"msgctxt":"monsters","msgid":"Diamond Gargoyle","msgstr":"Gárgula de Diamante"}
+{"msgctxt":"monsters","msgid":"Dire Wolf","msgstr":"Lobo Atroz"}
+{"msgctxt":"monsters","msgid":"Dire Wolf Yearling","msgstr":"Lobo Atroz Jovem"}
+{"msgctxt":"monsters","msgid":"Djinn","msgstr":"Djim"}
+{"msgctxt":"monsters","msgid":"Djinni","msgstr":"Djim"}
+{"msgctxt":"monsters","msgid":"Dog A","msgstr":"Cão A"}
+{"msgctxt":"monsters","msgid":"Dog B","msgstr":"Cão B"}
+{"msgctxt":"monsters","msgid":"Dog C","msgstr":"Cão C"}
+{"msgctxt":"monsters","msgid":"Doom Knight","msgstr":"Cavaleiro da Perdição"}
+{"msgctxt":"monsters","msgid":"Dragon","msgstr":"Dragão"}
+{"msgctxt":"monsters","msgid":"Dragon Flightleader","msgstr":"Líder da Revoada de Dragões"}
+{"msgctxt":"monsters","msgid":"Dragon Hunter","msgstr":"Caçador de Dragões"}
+{"msgctxt":"monsters","msgid":"Dragon Shark","msgstr":"Tubarão-Dragão"}
+{"msgctxt":"monsters","msgid":"Dragon Turtle","msgstr":"Tartaruga-Dragão"}
+{"msgctxt":"monsters","msgid":"Dragonette","msgstr":"Dragonete"}
+{"msgctxt":"monsters","msgid":"Dragonfly","msgstr":"Libélula"}
+{"msgctxt":"monsters","msgid":"Dragonslayer","msgstr":"Matador de Dragões"}
+{"msgctxt":"monsters","msgid":"Druid","msgstr":"Druida"}
+{"msgctxt":"monsters","msgid":"Dust Devil","msgstr":"Demônio de poeira"}
+{"msgctxt":"monsters","msgid":"Dwarf","msgstr":"Anão"}
+{"msgctxt":"monsters","msgid":"Dwarf Lord","msgstr":"Lorde Anão"}
+{"msgctxt":"monsters","msgid":"Dwarf Warrior","msgstr":"Guerreiro Anão"}
+{"msgctxt":"monsters","msgid":"Dwarven Commander","msgstr":"Comandante Anão"}
+{"msgctxt":"monsters","msgid":"Dwarven Lieutenant","msgstr":"Tenente Anão"}
+{"msgctxt":"monsters","msgid":"Dwarven Soldier","msgstr":"Soldado Anão"}
+{"msgctxt":"monsters","msgid":"Earth Elemental","msgstr":"Elemental da Terra"}
+{"msgctxt":"monsters","msgid":"Earth Spirit","msgstr":"Espírito da Terra"}
+{"msgctxt":"monsters","msgid":"Efreet","msgstr":"Efrite"}
+{"msgctxt":"monsters","msgid":"Efreeti Knight","msgstr":"Cavaleiro Efrite"}
+{"msgctxt":"monsters","msgid":"Efreeti Lord","msgstr":"Lorde Efrite"}
+{"msgctxt":"monsters","msgid":"Efreeti Soldier","msgstr":"Soldado Efrite"}
+{"msgctxt":"monsters","msgid":"Elder Basilisk","msgstr":"Basilisco Ancião"}
+{"msgctxt":"monsters","msgid":"Elder Tortoise","msgstr":"Tartaruga Anciã"}
+{"msgctxt":"monsters","msgid":"Elder Vampire","msgstr":"Vampiro Ancião"}
+{"msgctxt":"monsters","msgid":"Elite Archer","msgstr":"Arqueiro de Elite"}
+{"msgctxt":"monsters","msgid":"Elven Archer","msgstr":"Arqueiro Élfico"}
+{"msgctxt":"monsters","msgid":"Elven Defender","msgstr":"Defensor Élfico"}
+{"msgctxt":"monsters","msgid":"Elven Lancer","msgstr":"Lanceiro Élfico"}
+{"msgctxt":"monsters","msgid":"Elven Ranger","msgstr":"Patrulheiro Élfico"}
+{"msgctxt":"monsters","msgid":"Elven Scout","msgstr":"Batedor Élfico"}
+{"msgctxt":"monsters","msgid":"Elven Warrior","msgstr":"Guerreiro Élfico"}
+{"msgctxt":"monsters","msgid":"Ember Gog","msgstr":"Gogue de Brasas"}
+{"msgctxt":"monsters","msgid":"Emerald Dragon","msgstr":"Dragão de Esmeralda"}
+{"msgctxt":"monsters","msgid":"Emerald Ooze","msgstr":"Gosma de Esmeralda"}
+{"msgctxt":"monsters","msgid":"Empress Medusa","msgstr":"Medusa Imperatriz"}
+{"msgctxt":"monsters","msgid":"Energy Drake","msgstr":"Draco de Energia"}
+{"msgctxt":"monsters","msgid":"Enforcer Unit","msgstr":"Unidade Executora"}
+{"msgctxt":"monsters","msgid":"Ether Champion","msgstr":"Campeão do Éter"}
+{"msgctxt":"monsters","msgid":"Ether Knight","msgstr":"Cavaleiro do Éter"}
+{"msgctxt":"monsters","msgid":"Ether Lord","msgstr":"Lorde do Éter"}
+{"msgctxt":"monsters","msgid":"Evil Eye","msgstr":"Olho Maligno"}
+{"msgctxt":"monsters","msgid":"Evil Spirit","msgstr":"Espírito Maligno"}
+{"msgctxt":"monsters","msgid":"Expert Swordsman","msgstr":"Espadachim Especialista"}
+{"msgctxt":"monsters","msgid":"Fanatic of Baa","msgstr":"Fanático de Baa"}
+{"msgctxt":"monsters","msgid":"Fear","msgstr":"Medo"}
+{"msgctxt":"monsters","msgid":"Fighter","msgstr":"Lutador"}
+{"msgctxt":"monsters","msgid":"Fire Archer","msgstr":"Arqueiro de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Beast","msgstr":"Fera de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Bird","msgstr":"Pássaro de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Dragonfly","msgstr":"Libélula de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Elemental","msgstr":"Elemental de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Gog","msgstr":"Gogue de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Hydra","msgstr":"Hidra de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Lizard","msgstr":"Lagarto de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Newt","msgstr":"Tritão de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Rat","msgstr":"Rato de Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Spirit","msgstr":"Espírito do Fogo"}
+{"msgctxt":"monsters","msgid":"Fire Warlock","msgstr":"Bruxo do Fogo"}
+{"msgctxt":"monsters","msgid":"Fish","msgstr":"Peixe"}
+{"msgctxt":"monsters","msgid":"Flame Drake","msgstr":"Draco de Fogo"}
+{"msgctxt":"monsters","msgid":"Floating Eye","msgstr":"Olho Flutuante"}
+{"msgctxt":"monsters","msgid":"Flying Eye","msgstr":"Olho voador"}
+{"msgctxt":"monsters","msgid":"Follower of Baa","msgstr":"Seguidor de Baa"}
+{"msgctxt":"monsters","msgid":"Frost Drake","msgstr":"Draco Gélido"}
+{"msgctxt":"monsters","msgid":"Gazer","msgstr":"Observador"}
+{"msgctxt":"monsters","msgid":"Genie","msgstr":"Gênio"}
+{"msgctxt":"monsters","msgid":"Ghast","msgstr":"Carniçal"}
+{"msgctxt":"monsters","msgid":"Ghost","msgstr":"Fantasma"}
+{"msgctxt":"monsters","msgid":"Ghoul ","msgstr":"Carniçal "}
+{"msgctxt":"monsters","msgid":"Giant Bat","msgstr":"Morcego Gigante"}
+{"msgctxt":"monsters","msgid":"Giant Rat","msgstr":"Rato Gigante"}
+{"msgctxt":"monsters","msgid":"Giant Shark","msgstr":"Tubarão Gigante"}
+{"msgctxt":"monsters","msgid":"Giant Spider","msgstr":"Aranha Gigante"}
+{"msgctxt":"monsters","msgid":"Giant Wyrm","msgstr":"Serpe gigante"}
+{"msgctxt":"monsters","msgid":"Goblin","msgstr":"Goblin"}
+{"msgctxt":"monsters","msgid":"Goblin King","msgstr":"Rei Goblin"}
+{"msgctxt":"monsters","msgid":"Goblin Lord","msgstr":"Lorde Goblin"}
+{"msgctxt":"monsters","msgid":"Goblin Shaman","msgstr":"Xamã Goblin"}
+{"msgctxt":"monsters","msgid":"Gog","msgstr":"Gogue"}
+{"msgctxt":"monsters","msgid":"Gogling","msgstr":"Goguezinho"}
+{"msgctxt":"monsters","msgid":"Gold Dragon","msgstr":"Dragão Dourado"}
+{"msgctxt":"monsters","msgid":"Gold Golem","msgstr":"Golem de Ouro"}
+{"msgctxt":"monsters","msgid":"Gorgon","msgstr":"Górgona"}
+{"msgctxt":"monsters","msgid":"Grand Druid","msgstr":"Druida Supremo"}
+{"msgctxt":"monsters","msgid":"Grand Phoenix","msgstr":"Grande Fênix"}
+{"msgctxt":"monsters","msgid":"Great Druid","msgstr":"Grande druida"}
+{"msgctxt":"monsters","msgid":"Great Wyrm","msgstr":"Grande Serpe"}
+{"msgctxt":"monsters","msgid":"Greater Air Elemental","msgstr":"Elemental do Ar Maior"}
+{"msgctxt":"monsters","msgid":"Greater Earth Elemental","msgstr":"Elemental da Terra Maior"}
+{"msgctxt":"monsters","msgid":"Greater Fire Elemental","msgstr":"Elemental de Fogo Maior"}
+{"msgctxt":"monsters","msgid":"Greater Lich","msgstr":"Lich Maior"}
+{"msgctxt":"monsters","msgid":"Greater Light Elemental","msgstr":"Elemental da Luz Maior"}
+{"msgctxt":"monsters","msgid":"Greater Roc","msgstr":"Roca Maior"}
+{"msgctxt":"monsters","msgid":"Greater Vampire","msgstr":"Vampiro Maior"}
+{"msgctxt":"monsters","msgid":"Greater Water Elemental","msgstr":"Elemental da Água Maior"}
+{"msgctxt":"monsters","msgid":"Greater Wererat","msgstr":"Homem-Rato Maior"}
+{"msgctxt":"monsters","msgid":"Greater Werewolf","msgstr":"Lobisomem Maior"}
+{"msgctxt":"monsters","msgid":"Green Dragon","msgstr":"Dragão Verde"}
+{"msgctxt":"monsters","msgid":"Griffin","msgstr":"Grifo"}
+{"msgctxt":"monsters","msgid":"Guard","msgstr":"Guarda"}
+{"msgctxt":"monsters","msgid":"Guardian of Flame","msgstr":"Guardião da Chama"}
+{"msgctxt":"monsters","msgid":"Guardian of VARN","msgstr":"Guardião de VARN"}
+{"msgctxt":"monsters","msgid":"Harpy","msgstr":"Harpia"}
+{"msgctxt":"monsters","msgid":"Harpy Hag","msgstr":"Harpia Bruxa"}
+{"msgctxt":"monsters","msgid":"Harpy Queen","msgstr":"Rainha Harpia"}
+{"msgctxt":"monsters","msgid":"Harpy Witch","msgstr":"Bruxa Harpia"}
+{"msgctxt":"monsters","msgid":"Hatchling","msgstr":"Filhote"}
+{"msgctxt":"monsters","msgid":"Head Hunter","msgstr":"Caçador de Cabeças"}
+{"msgctxt":"monsters","msgid":"Hobgoblin","msgstr":"Hobgoblin"}
+{"msgctxt":"monsters","msgid":"Horned Wyvern","msgstr":"Viverna Chifruda"}
+{"msgctxt":"monsters","msgid":"Huge Spider","msgstr":"Aranha Enorme"}
+{"msgctxt":"monsters","msgid":"Human Peasant","msgstr":"Camponês Humano"}
+{"msgctxt":"monsters","msgid":"Hunting Griffin","msgstr":"Grifo Caçador"}
+{"msgctxt":"monsters","msgid":"Hydra","msgstr":"Hidra"}
+{"msgctxt":"monsters","msgid":"Inferno Bat","msgstr":"Morcego do Inferno"}
+{"msgctxt":"monsters","msgid":"Initiate","msgstr":"Iniciado"}
+{"msgctxt":"monsters","msgid":"Initiate Monk","msgstr":"Monge Iniciado"}
+{"msgctxt":"monsters","msgid":"Initiate of the Sword","msgstr":"Iniciado da Espada"}
+{"msgctxt":"monsters","msgid":"Iron Gorgon","msgstr":"Górgona de Ferro"}
+{"msgctxt":"monsters","msgid":"Journeyman Mage","msgstr":"Mago Experiente"}
+{"msgctxt":"monsters","msgid":"Juggernaut","msgstr":"Colosso"}
+{"msgctxt":"monsters","msgid":"King Cobra","msgstr":"Cobra-rei"}
+{"msgctxt":"monsters","msgid":"Large Rat","msgstr":"Rato Grande"}
+{"msgctxt":"monsters","msgid":"Lesser Air Elemental","msgstr":"Elemental do Ar Menor"}
+{"msgctxt":"monsters","msgid":"Lesser Earth Elemental","msgstr":"Elemental da Terra Menor"}
+{"msgctxt":"monsters","msgid":"Lesser Fire Elemental","msgstr":"Elemental de Fogo Menor"}
+{"msgctxt":"monsters","msgid":"Lesser Light Elemental","msgstr":"Elemental da Luz Menor"}
+{"msgctxt":"monsters","msgid":"Lesser Water Elemental","msgstr":"Elemental da Água Menor"}
+{"msgctxt":"monsters","msgid":"Lich","msgstr":"Lich"}
+{"msgctxt":"monsters","msgid":"Lich King","msgstr":"Rei Lich"}
+{"msgctxt":"monsters","msgid":"Lieutenant","msgstr":"Tenente"}
+{"msgctxt":"monsters","msgid":"Light Elemental","msgstr":"Elemental da Luz"}
+{"msgctxt":"monsters","msgid":"Lightning Lizard","msgstr":"Lagarto de Relâmpago"}
+{"msgctxt":"monsters","msgid":"Lightning Rat","msgstr":"Rato Relâmpago"}
+{"msgctxt":"monsters","msgid":"Lizard Archer","msgstr":"Arqueiro Lagarto"}
+{"msgctxt":"monsters","msgid":"Lizard Man","msgstr":"Homem-lagarto"}
+{"msgctxt":"monsters","msgid":"Lizard Wizard","msgstr":"Mago Lagarto"}
+{"msgctxt":"monsters","msgid":"Lizardman Captain","msgstr":"Capitão Homem-lagarto"}
+{"msgctxt":"monsters","msgid":"Lizardman Farmer","msgstr":"Agricultor Homem-lagarto"}
+{"msgctxt":"monsters","msgid":"Lizardman Peasant","msgstr":"Camponês Homem-lagarto"}
+{"msgctxt":"monsters","msgid":"Lizardman Sergeant","msgstr":"Sargento Homem-lagarto"}
+{"msgctxt":"monsters","msgid":"Lizardman Soldier","msgstr":"Soldado Homem-lagarto"}
+{"msgctxt":"monsters","msgid":"Lizardman Villager","msgstr":"Aldeão Homem-lagarto"}
+{"msgctxt":"monsters","msgid":"Lycanthrope","msgstr":"Licantropo"}
+{"msgctxt":"monsters","msgid":"Maddening Eye","msgstr":"Olho Enlouquecedor"}
+{"msgctxt":"monsters","msgid":"Mage","msgstr":"Mago"}
+{"msgctxt":"monsters","msgid":"Magician","msgstr":"Mago"}
+{"msgctxt":"monsters","msgid":"Magog","msgstr":"Magogue"}
+{"msgctxt":"monsters","msgid":"Magyar","msgstr":"Magiar"}
+{"msgctxt":"monsters","msgid":"Magyar Matron","msgstr":"Matriarca Magiar"}
+{"msgctxt":"monsters","msgid":"Magyar Soldier","msgstr":"Soldado Magiar"}
+{"msgctxt":"monsters","msgid":"Manticore ","msgstr":"Mantícora "}
+{"msgctxt":"monsters","msgid":"Marble Gargoyle","msgstr":"Gárgula de Mármore"}
+{"msgctxt":"monsters","msgid":"Master","msgstr":"Mestre"}
+{"msgctxt":"monsters","msgid":"Master Archer","msgstr":"Mestre Arqueiro"}
+{"msgctxt":"monsters","msgid":"Master Monk","msgstr":"Monge Mestre"}
+{"msgctxt":"monsters","msgid":"Master Necromancer","msgstr":"Mestre Necromante"}
+{"msgctxt":"monsters","msgid":"Master of the Sword","msgstr":"Mestre da Espada"}
+{"msgctxt":"monsters","msgid":"Master Swordsman","msgstr":"Mestre Espadachim"}
+{"msgctxt":"monsters","msgid":"Master Thief","msgstr":"Mestre Ladrão"}
+{"msgctxt":"monsters","msgid":"Medusa","msgstr":"Medusa"}
+{"msgctxt":"monsters","msgid":"Medusa Enchantress","msgstr":"Medusa Encantadora"}
+{"msgctxt":"monsters","msgid":"Mega-Dragon","msgstr":"Mega-Dragão"}
+{"msgctxt":"monsters","msgid":"Mercenary","msgstr":"Mercenário"}
+{"msgctxt":"monsters","msgid":"Mercenary Captain","msgstr":"Capitão Mercenário"}
+{"msgctxt":"monsters","msgid":"Minicore","msgstr":"Minicore"}
+{"msgctxt":"monsters","msgid":"Minion Vampire","msgstr":"Vampiro Lacaio"}
+{"msgctxt":"monsters","msgid":"Minotaur","msgstr":"Minotauro"}
+{"msgctxt":"monsters","msgid":"Minotaur Battleleader","msgstr":"Líder de Batalha Minotauro"}
+{"msgctxt":"monsters","msgid":"Minotaur Guard","msgstr":"Guarda Minotauro"}
+{"msgctxt":"monsters","msgid":"Minotaur Headsman","msgstr":"Carrasco Minotauro"}
+{"msgctxt":"monsters","msgid":"Minotaur King","msgstr":"Rei Minotauro"}
+{"msgctxt":"monsters","msgid":"Minotaur Lord","msgstr":"Lorde Minotauro"}
+{"msgctxt":"monsters","msgid":"Minotaur Mage","msgstr":"Mago Minotauro"}
+{"msgctxt":"monsters","msgid":"Minotaur Peasant","msgstr":"Camponês Minotauro"}
+{"msgctxt":"monsters","msgid":"Minotaur Warrior","msgstr":"Guerreiro Minotauro"}
+{"msgctxt":"monsters","msgid":"Mist Hawk","msgstr":"Falcão da Névoa"}
+{"msgctxt":"monsters","msgid":"Monk","msgstr":"Monge"}
+{"msgctxt":"monsters","msgid":"Mountain Troll","msgstr":"Troll da Montanha"}
+{"msgctxt":"monsters","msgid":"Mystic of Baa","msgstr":"Místico de Baa"}
+{"msgctxt":"monsters","msgid":"Naga ","msgstr":"Naga "}
+{"msgctxt":"monsters","msgid":"Naga Queen","msgstr":"Rainha Naga"}
+{"msgctxt":"monsters","msgid":"Naga Warrior","msgstr":"Naga Guerreira"}
+{"msgctxt":"monsters","msgid":"Necromancer","msgstr":"Necromante"}
+{"msgctxt":"monsters","msgid":"Nightmare","msgstr":"Pesadelo"}
+{"msgctxt":"monsters","msgid":"Noble Titan","msgstr":"Titã Nobre"}
+{"msgctxt":"monsters","msgid":"Novice Monk","msgstr":"Monge Noviço"}
+{"msgctxt":"monsters","msgid":"Obsidian Gargoyle","msgstr":"Gárgula de Obsidiana"}
+{"msgctxt":"monsters","msgid":"Ogre","msgstr":"Ogro"}
+{"msgctxt":"monsters","msgid":"Ogre Brawler","msgstr":"Ogro Brigão"}
+{"msgctxt":"monsters","msgid":"Ogre Chieftain","msgstr":"Chefe Ogro"}
+{"msgctxt":"monsters","msgid":"Ogre Mage ","msgstr":"Mago Ogro "}
+{"msgctxt":"monsters","msgid":"Ogre Mage Apprentice","msgstr":"Mago Ogro Aprendiz"}
+{"msgctxt":"monsters","msgid":"Ogre Magi","msgstr":"Ogro Mago"}
+{"msgctxt":"monsters","msgid":"Ogre Peasant","msgstr":"Ogro Camponês"}
+{"msgctxt":"monsters","msgid":"Ogre Raider","msgstr":"Ogro Saqueador"}
+{"msgctxt":"monsters","msgid":"Ogre Warleader","msgstr":"Líder de Guerra Ogro"}
+{"msgctxt":"monsters","msgid":"Ogre Warrior","msgstr":"Guerreiro Ogro"}
+{"msgctxt":"monsters","msgid":"Ooze","msgstr":"Gosma"}
+{"msgctxt":"monsters","msgid":"Pack Leader","msgstr":"Líder da Matilha"}
+{"msgctxt":"monsters","msgid":"Patrol Unit","msgstr":"Unidade de Patrulha"}
+{"msgctxt":"monsters","msgid":"Peasant","msgstr":"Camponês"}
+{"msgctxt":"monsters","msgid":"Phoenix","msgstr":"Fênix"}
+{"msgctxt":"monsters","msgid":"Piranha Shark","msgstr":"Tubarão-Piranha"}
+{"msgctxt":"monsters","msgid":"Pirate","msgstr":"Pirata"}
+{"msgctxt":"monsters","msgid":"Pirate Magi","msgstr":"Magos Piratas"}
+{"msgctxt":"monsters","msgid":"Pirate Seer","msgstr":"Vidente Pirata"}
+{"msgctxt":"monsters","msgid":"Pirate Wizard","msgstr":"Mago Pirata"}
+{"msgctxt":"monsters","msgid":"Plane Guardian","msgstr":"Guardião do Plano"}
+{"msgctxt":"monsters","msgid":"Plane Overlord","msgstr":"Suserano do Plano"}
+{"msgctxt":"monsters","msgid":"Plane Protector","msgstr":"Protetor Planar"}
+{"msgctxt":"monsters","msgid":"Power Lich","msgstr":"Lich poderoso"}
+{"msgctxt":"monsters","msgid":"Priest of Baa","msgstr":"Sacerdote de Baa"}
+{"msgctxt":"monsters","msgid":"Priest of the Moon","msgstr":"Sacerdote da Lua"}
+{"msgctxt":"monsters","msgid":"Priest of the Sun","msgstr":"Sacerdote do Sol"}
+{"msgctxt":"monsters","msgid":"Queen Cobra","msgstr":"Cobra-Rainha"}
+{"msgctxt":"monsters","msgid":"Queen Dragonfly","msgstr":"Libélula-Rainha"}
+{"msgctxt":"monsters","msgid":"Queen Medusa","msgstr":"Rainha Medusa"}
+{"msgctxt":"monsters","msgid":"Queen of the Dead","msgstr":"Rainha dos Mortos"}
+{"msgctxt":"monsters","msgid":"Raider","msgstr":"Saqueador"}
+{"msgctxt":"monsters","msgid":"Rat A","msgstr":"Rato A"}
+{"msgctxt":"monsters","msgid":"Rat B","msgstr":"Rato B"}
+{"msgctxt":"monsters","msgid":"Rat C","msgstr":"Rato C"}
+{"msgctxt":"monsters","msgid":"Ratman","msgstr":"Homem-Rato"}
+{"msgctxt":"monsters","msgid":"Raven","msgstr":"Corvo"}
+{"msgctxt":"monsters","msgid":"Reactor","msgstr":"Reator"}
+{"msgctxt":"monsters","msgid":"Red Dragon","msgstr":"Dragão vermelho"}
+{"msgctxt":"monsters","msgid":"Regnan Arbalester","msgstr":"Arbalesteiro de Regna"}
+{"msgctxt":"monsters","msgid":"Regnan Archmage","msgstr":"Arquimago de Regna"}
+{"msgctxt":"monsters","msgid":"Regnan Bandit","msgstr":"Bandido de Regna"}
+{"msgctxt":"monsters","msgid":"Regnan Battlemage","msgstr":"Mago de Batalha de Regna"}
+{"msgctxt":"monsters","msgid":"Regnan Brigadier","msgstr":"Brigadeiro de Regna"}
+{"msgctxt":"monsters","msgid":"Regnan Crossbowman","msgstr":"Besteiro de Regna"}
+{"msgctxt":"monsters","msgid":"Regnan Lieutenant","msgstr":"Tenente de Regna"}
+{"msgctxt":"monsters","msgid":"Regnan Pirate","msgstr":"Pirata de Regna"}
+{"msgctxt":"monsters","msgid":"Regnan Sorcerer","msgstr":"Feiticeiro de Regna"}
+{"msgctxt":"monsters","msgid":"Revenant","msgstr":"Retornado"}
+{"msgctxt":"monsters","msgid":"River Troll","msgstr":"Troll do Rio"}
+{"msgctxt":"monsters","msgid":"Robber","msgstr":"Ladrão"}
+{"msgctxt":"monsters","msgid":"Robert the Wise","msgstr":"Robert, o Sábio"}
+{"msgctxt":"monsters","msgid":"Roc","msgstr":"Roca"}
+{"msgctxt":"monsters","msgid":"Rock Beast","msgstr":"Fera de pedra"}
+{"msgctxt":"monsters","msgid":"Rogue","msgstr":"Ladino"}
+{"msgctxt":"monsters","msgid":"Rook","msgstr":"Torre"}
+{"msgctxt":"monsters","msgid":"Rotted Corpse","msgstr":"Cadáver Apodrecido"}
+{"msgctxt":"monsters","msgid":"Royal Griffin","msgstr":"Grifo Real"}
+{"msgctxt":"monsters","msgid":"Ruby Dragon","msgstr":"Dragão de Rubi"}
+{"msgctxt":"monsters","msgid":"Ruffian","msgstr":"Arruaceiro"}
+{"msgctxt":"monsters","msgid":"Salamander ","msgstr":"Salamandra "}
+{"msgctxt":"monsters","msgid":"Sapphire Dragon","msgstr":"Dragão de Safira"}
+{"msgctxt":"monsters","msgid":"Sapphire Ooze","msgstr":"Gosma de Safira"}
+{"msgctxt":"monsters","msgid":"Scorpicore","msgstr":"Escorpícora"}
+{"msgctxt":"monsters","msgid":"Sea Monster","msgstr":"Monstro Marinho"}
+{"msgctxt":"monsters","msgid":"Sea Serpent","msgstr":"Serpente Marinha"}
+{"msgctxt":"monsters","msgid":"Sea Terror","msgstr":"Terror marinho"}
+{"msgctxt":"monsters","msgid":"Seeker Droid","msgstr":"Droide Buscador"}
+{"msgctxt":"monsters","msgid":"Sentinel Droid","msgstr":"Droide Sentinela"}
+{"msgctxt":"monsters","msgid":"Sentinel of VARN","msgstr":"Sentinela de VARN"}
+{"msgctxt":"monsters","msgid":"Serpentman","msgstr":"Homem-serpente"}
+{"msgctxt":"monsters","msgid":"Serpentman Elder","msgstr":"Homem-serpente Ancião"}
+{"msgctxt":"monsters","msgid":"Serpentman Warrior","msgstr":"Guerreiro Homem-serpente"}
+{"msgctxt":"monsters","msgid":"Shade","msgstr":"Sombra"}
+{"msgctxt":"monsters","msgid":"Shapeshifter","msgstr":"Metamorfo"}
+{"msgctxt":"monsters","msgid":"Skeletal Dragon","msgstr":"Dragão Esquelético"}
+{"msgctxt":"monsters","msgid":"Skeleton","msgstr":"Esqueleto"}
+{"msgctxt":"monsters","msgid":"Skeleton Archer ","msgstr":"Arqueiro Esqueleto "}
+{"msgctxt":"monsters","msgid":"Skeleton Bowman","msgstr":"Esqueleto Arqueiro"}
+{"msgctxt":"monsters","msgid":"Skeleton Hunter","msgstr":"Caçador Esqueleto"}
+{"msgctxt":"monsters","msgid":"Skeleton Knight","msgstr":"Cavaleiro Esqueleto"}
+{"msgctxt":"monsters","msgid":"Skeleton Lord","msgstr":"Lorde Esqueleto"}
+{"msgctxt":"monsters","msgid":"Skeleton Warrior","msgstr":"Guerreiro Esqueleto"}
+{"msgctxt":"monsters","msgid":"Smoke Gog","msgstr":"Gogue de Fumaça"}
+{"msgctxt":"monsters","msgid":"Soldier","msgstr":"Soldado"}
+{"msgctxt":"monsters","msgid":"Soldier of Fortune","msgstr":"Soldado da Fortuna"}
+{"msgctxt":"monsters","msgid":"Sorcerer","msgstr":"Feiticeiro"}
+{"msgctxt":"monsters","msgid":"Soul Sucker","msgstr":"Sugador de Almas"}
+{"msgctxt":"monsters","msgid":"Speaker for the Dead","msgstr":"Porta-Voz dos Mortos"}
+{"msgctxt":"monsters","msgid":"Specter","msgstr":"Espectro"}
+{"msgctxt":"monsters","msgid":"Spider","msgstr":"Aranha"}
+{"msgctxt":"monsters","msgid":"Sprite","msgstr":"Fada"}
+{"msgctxt":"monsters","msgid":"Stone Elemental","msgstr":"Elemental de Pedra"}
+{"msgctxt":"monsters","msgid":"Stone Gargoyle","msgstr":"Gárgula de Pedra"}
+{"msgctxt":"monsters","msgid":"Storm Eagle","msgstr":"Águia da Tempestade"}
+{"msgctxt":"monsters","msgid":"Storm Titan","msgstr":"Titã da Tempestade"}
+{"msgctxt":"monsters","msgid":"Supreme Titan","msgstr":"Titã Supremo"}
+{"msgctxt":"monsters","msgid":"Swamp Troll","msgstr":"Troll do Pântano"}
+{"msgctxt":"monsters","msgid":"Swordsman","msgstr":"Espadachim"}
+{"msgctxt":"monsters","msgid":"Sylph","msgstr":"Sílfide"}
+{"msgctxt":"monsters","msgid":"Tempest","msgstr":"Tempestade"}
+{"msgctxt":"monsters","msgid":"Terminator Unit","msgstr":"Unidade Exterminadora"}
+{"msgctxt":"monsters","msgid":"Terrible Eye","msgstr":"Olho Terrível"}
+{"msgctxt":"monsters","msgid":"Terror","msgstr":"Terror"}
+{"msgctxt":"monsters","msgid":"Thief","msgstr":"Ladrão"}
+{"msgctxt":"monsters","msgid":"Thug","msgstr":"Capanga"}
+{"msgctxt":"monsters","msgid":"Thunder Lizard","msgstr":"Lagarto do Trovão"}
+{"msgctxt":"monsters","msgid":"Thunderbird","msgstr":"Pássaro-Trovão"}
+{"msgctxt":"monsters","msgid":"Titan","msgstr":"Titã"}
+{"msgctxt":"monsters","msgid":"Tolberti","msgstr":"Tolberti"}
+{"msgctxt":"monsters","msgid":"Tree","msgstr":"Árvore"}
+{"msgctxt":"monsters","msgid":"Triton ","msgstr":"Tritão "}
+{"msgctxt":"monsters","msgid":"Triton Crusader","msgstr":"Tritão Cruzado"}
+{"msgctxt":"monsters","msgid":"Triton Warrior","msgstr":"Guerreiro Tritão"}
+{"msgctxt":"monsters","msgid":"Troglodyte Drone","msgstr":"Troglodita Operário"}
+{"msgctxt":"monsters","msgid":"Troglodyte Queen","msgstr":"Rainha Troglodita"}
+{"msgctxt":"monsters","msgid":"Troglodyte Soldier","msgstr":"Soldado Troglodita"}
+{"msgctxt":"monsters","msgid":"Troll Chieftain","msgstr":"Chefe Troll"}
+{"msgctxt":"monsters","msgid":"Troll Clubman","msgstr":"Troll com Clava"}
+{"msgctxt":"monsters","msgid":"Troll Peasant","msgstr":"Camponês Troll"}
+{"msgctxt":"monsters","msgid":"Troll Warrior","msgstr":"Guerreiro Troll"}
+{"msgctxt":"monsters","msgid":"Twister","msgstr":"Tornado"}
+{"msgctxt":"monsters","msgid":"Undead Dragon","msgstr":"Dragão Morto-Vivo"}
+{"msgctxt":"monsters","msgid":"Unicorn","msgstr":"Unicórnio"}
+{"msgctxt":"monsters","msgid":"Unicorn Foal","msgstr":"Potro de Unicórnio"}
+{"msgctxt":"monsters","msgid":"Unicorn Herd Leader","msgstr":"Líder da Manada de Unicórnios"}
+{"msgctxt":"monsters","msgid":"Vampire","msgstr":"Vampiro"}
+{"msgctxt":"monsters","msgid":"Vampire Bat","msgstr":"Morcego Vampiro"}
+{"msgctxt":"monsters","msgid":"Vampire Minion","msgstr":"Lacaio Vampiro"}
+{"msgctxt":"monsters","msgid":"Venemous Spider","msgstr":"Aranha Venenosa"}
+{"msgctxt":"monsters","msgid":"Venomous Hydra","msgstr":"Hidra Venenosa"}
+{"msgctxt":"monsters","msgid":"Veteran","msgstr":"Veterano"}
+{"msgctxt":"monsters","msgid":"Walking Dead","msgstr":"Morto Ambulante"}
+{"msgctxt":"monsters","msgid":"Warden of Fire","msgstr":"Custódio do Fogo"}
+{"msgctxt":"monsters","msgid":"Warlock","msgstr":"Bruxo"}
+{"msgctxt":"monsters","msgid":"Wasp Sentry","msgstr":"Vespa Sentinela"}
+{"msgctxt":"monsters","msgid":"Wasp Warrior","msgstr":"Vespa Guerreira"}
+{"msgctxt":"monsters","msgid":"Wasp Worker","msgstr":"Vespa Operária"}
+{"msgctxt":"monsters","msgid":"Water Beast","msgstr":"Fera Aquática"}
+{"msgctxt":"monsters","msgid":"Water Elemental","msgstr":"Elemental da Água"}
+{"msgctxt":"monsters","msgid":"Water Spirit","msgstr":"Espírito da Água"}
+{"msgctxt":"monsters","msgid":"Water Warlock","msgstr":"Bruxo da Água"}
+{"msgctxt":"monsters","msgid":"Wererat","msgstr":"Homem-Rato"}
+{"msgctxt":"monsters","msgid":"Werewolf","msgstr":"Lobisomem"}
+{"msgctxt":"monsters","msgid":"Widowmaker","msgstr":"Faz-viúvas"}
+{"msgctxt":"monsters","msgid":"Wight","msgstr":"Espectro"}
+{"msgctxt":"monsters","msgid":"Will O' Wisp","msgstr":"Fogo-Fátuo"}
+{"msgctxt":"monsters","msgid":"Winged Serpent","msgstr":"Serpente Alada"}
+{"msgctxt":"monsters","msgid":"Wisp ","msgstr":"Fogo-fátuo "}
+{"msgctxt":"monsters","msgid":"Witch Doctor","msgstr":"Xamã"}
+{"msgctxt":"monsters","msgid":"Wizard","msgstr":"Mago"}
+{"msgctxt":"monsters","msgid":"Wolfman","msgstr":"Homem-Lobo"}
+{"msgctxt":"monsters","msgid":"Wraith","msgstr":"Espectro"}
+{"msgctxt":"monsters","msgid":"Wyrm","msgstr":"Serpe"}
+{"msgctxt":"monsters","msgid":"Wyvern ","msgstr":"Serpe "}
+{"msgctxt":"monsters","msgid":"Young Basilisk","msgstr":"Basilisco Jovem"}
+{"msgctxt":"monsters","msgid":"Young Behemoth","msgstr":"Beemote Jovem"}
+{"msgctxt":"monsters","msgid":"Young Couatl","msgstr":"Couatl Jovem"}
+{"msgctxt":"monsters","msgid":"Young Dragon","msgstr":"Dragão Jovem"}
+{"msgctxt":"monsters","msgid":"Young Dragon Turtle","msgstr":"Tartaruga-Dragão Jovem"}
+{"msgctxt":"monsters","msgid":"Zombie","msgstr":"Zumbi"}
+{"msgctxt":"npcprof","msgid":"Acolyte","msgstr":"Acólito"}
+{"msgctxt":"npcprof","msgid":"Alchemist","msgstr":"Alquimista"}
+{"msgctxt":"npcprof","msgid":"Apothecary","msgstr":"Boticário"}
+{"msgctxt":"npcprof","msgid":"Apprentice","msgstr":"Aprendiz"}
+{"msgctxt":"npcprof","msgid":"Armorer","msgstr":"Armadureiro"}
+{"msgctxt":"npcprof","msgid":"Armorsmith","msgstr":"Ferreiro de armaduras"}
+{"msgctxt":"npcprof","msgid":"Arms Master","msgstr":"Mestre de Armas"}
+{"msgctxt":"npcprof","msgid":"Banker","msgstr":"Banqueiro"}
+{"msgctxt":"npcprof","msgid":"Bard","msgstr":"Bardo"}
+{"msgctxt":"npcprof","msgid":"Barmaid","msgstr":"Taverneira"}
+{"msgctxt":"npcprof","msgid":"Barrister","msgstr":"Advogado"}
+{"msgctxt":"npcprof","msgid":"Beggar","msgstr":"Mendigo"}
+{"msgctxt":"npcprof","msgid":"Blacksmith","msgstr":"Ferreiro"}
+{"msgctxt":"npcprof","msgid":"Brekish One-Fang","msgstr":"Brekish Presa-Única"}
+{"msgctxt":"npcprof","msgid":"Burglar","msgstr":"Ladrão"}
+{"msgctxt":"npcprof","msgid":"Captain","msgstr":"Capitão"}
+{"msgctxt":"npcprof","msgid":"Carpenter","msgstr":"Carpinteiro"}
+{"msgctxt":"npcprof","msgid":"Cartographer","msgstr":"Cartógrafo"}
+{"msgctxt":"npcprof","msgid":"Chaplain","msgstr":"Capelão"}
+{"msgctxt":"npcprof","msgid":"Charles Quixote","msgstr":"Charles Quixote"}
+{"msgctxt":"npcprof","msgid":"Chef","msgstr":"Chef de Cozinha"}
+{"msgctxt":"npcprof","msgid":"Child","msgstr":"Criança"}
+{"msgctxt":"npcprof","msgid":"Chimney Sweep","msgstr":"Limpador de Chaminés"}
+{"msgctxt":"npcprof","msgid":"Clerk","msgstr":"Escrivão"}
+{"msgctxt":"npcprof","msgid":"Cobbler","msgstr":"Sapateiro"}
+{"msgctxt":"npcprof","msgid":"Cook","msgstr":"Cozinheiro"}
+{"msgctxt":"npcprof","msgid":"Cooper","msgstr":"Tanoeiro"}
+{"msgctxt":"npcprof","msgid":"Counselor","msgstr":"Conselheiro"}
+{"msgctxt":"npcprof","msgid":"Diplomat","msgstr":"Diplomata"}
+{"msgctxt":"npcprof","msgid":"Ditch Digger","msgstr":"Cavador de Valas"}
+{"msgctxt":"npcprof","msgid":"Dragon","msgstr":"Dragão"}
+{"msgctxt":"npcprof","msgid":"Duper","msgstr":"Trapaceiro"}
+{"msgctxt":"npcprof","msgid":"Dyson Leland","msgstr":"Dyson Leland"}
+{"msgctxt":"npcprof","msgid":"Enchanter","msgstr":"Encantador"}
+{"msgctxt":"npcprof","msgid":"Escaton","msgstr":"Escaton"}
+{"msgctxt":"npcprof","msgid":"Expert Healer","msgstr":"Curandeiro Especialista"}
+{"msgctxt":"npcprof","msgid":"Explorer","msgstr":"Explorador"}
+{"msgctxt":"npcprof","msgid":"Factor","msgstr":"Agente comercial"}
+{"msgctxt":"npcprof","msgid":"Fallen Wizard","msgstr":"Mago Caído"}
+{"msgctxt":"npcprof","msgid":"Farmer","msgstr":"Agricultor"}
+{"msgctxt":"npcprof","msgid":"Follower of Baa","msgstr":"Seguidor de Baa"}
+{"msgctxt":"npcprof","msgid":"Fool","msgstr":"Bobo"}
+{"msgctxt":"npcprof","msgid":"Gambler","msgstr":"Apostador"}
+{"msgctxt":"npcprof","msgid":"Gate Master","msgstr":"Mestre dos Portais"}
+{"msgctxt":"npcprof","msgid":"Guard","msgstr":"Guarda"}
+{"msgctxt":"npcprof","msgid":"Guide","msgstr":"Guia"}
+{"msgctxt":"npcprof","msgid":"Guildmaster","msgstr":"Mestre da Guilda"}
+{"msgctxt":"npcprof","msgid":"Gypsy","msgstr":"Cigano"}
+{"msgctxt":"npcprof","msgid":"Healer","msgstr":"Curandeiro"}
+{"msgctxt":"npcprof","msgid":"Herbalist","msgstr":"Herbalista"}
+{"msgctxt":"npcprof","msgid":"Horseman","msgstr":"Cavaleiro"}
+{"msgctxt":"npcprof","msgid":"Hunter","msgstr":"Caçador"}
+{"msgctxt":"npcprof","msgid":"Initiate","msgstr":"Iniciado"}
+{"msgctxt":"npcprof","msgid":"Innkeep","msgstr":"Estalajadeiro"}
+{"msgctxt":"npcprof","msgid":"Instructor","msgstr":"Instrutor"}
+{"msgctxt":"npcprof","msgid":"Jester","msgstr":"Bobo da Corte"}
+{"msgctxt":"npcprof","msgid":"Laborer","msgstr":"Trabalhador"}
+{"msgctxt":"npcprof","msgid":"Locksmith","msgstr":"Chaveiro"}
+{"msgctxt":"npcprof","msgid":"Magician","msgstr":"Mago"}
+{"msgctxt":"npcprof","msgid":"Master Healer","msgstr":"Mestre Curandeiro"}
+{"msgctxt":"npcprof","msgid":"Merchant","msgstr":"Mercador"}
+{"msgctxt":"npcprof","msgid":"Miller","msgstr":"Moleiro"}
+{"msgctxt":"npcprof","msgid":"Missionary","msgstr":"Missionário"}
+{"msgctxt":"npcprof","msgid":"Monk","msgstr":"Monge"}
+{"msgctxt":"npcprof","msgid":"Mystic","msgstr":"Místico"}
+{"msgctxt":"npcprof","msgid":"Navigator","msgstr":"Navegador"}
+{"msgctxt":"npcprof","msgid":"Negotiator","msgstr":"Negociador"}
+{"msgctxt":"npcprof","msgid":"Noble","msgstr":"Nobre"}
+{"msgctxt":"npcprof","msgid":"Overdune","msgstr":"Overdune"}
+{"msgctxt":"npcprof","msgid":"Pathfinder","msgstr":"Desbravador"}
+{"msgctxt":"npcprof","msgid":"Peasant","msgstr":"Camponês"}
+{"msgctxt":"npcprof","msgid":"Piper","msgstr":"Flautista"}
+{"msgctxt":"npcprof","msgid":"Pirate","msgstr":"Pirata"}
+{"msgctxt":"npcprof","msgid":"Porter","msgstr":"Carregador"}
+{"msgctxt":"npcprof","msgid":"Potter","msgstr":"Oleiro"}
+{"msgctxt":"npcprof","msgid":"Prelate","msgstr":"Prelado"}
+{"msgctxt":"npcprof","msgid":"Psychic","msgstr":"Vidente"}
+{"msgctxt":"npcprof","msgid":"Quarter Master","msgstr":"Intendente"}
+{"msgctxt":"npcprof","msgid":"Rustler","msgstr":"Ladrão de Gado"}
+{"msgctxt":"npcprof","msgid":"Sage","msgstr":"Sábio"}
+{"msgctxt":"npcprof","msgid":"Sailor","msgstr":"Marinheiro"}
+{"msgctxt":"npcprof","msgid":"Sandro","msgstr":"Sandro"}
+{"msgctxt":"npcprof","msgid":"Scholar","msgstr":"Erudito"}
+{"msgctxt":"npcprof","msgid":"Scout","msgstr":"Batedor"}
+{"msgctxt":"npcprof","msgid":"Scribe","msgstr":"Escriba"}
+{"msgctxt":"npcprof","msgid":"Serf","msgstr":"Servo"}
+{"msgctxt":"npcprof","msgid":"Shopkeeper","msgstr":"Lojista"}
+{"msgctxt":"npcprof","msgid":"Smith","msgstr":"Ferreiro"}
+{"msgctxt":"npcprof","msgid":"Smuggler","msgstr":"Contrabandista"}
+{"msgctxt":"npcprof","msgid":"Spell Master","msgstr":"Mestre dos Feitiços"}
+{"msgctxt":"npcprof","msgid":"Squire","msgstr":"Escudeiro"}
+{"msgctxt":"npcprof","msgid":"Stablemaster","msgstr":"Mestre de Estábulo"}
+{"msgctxt":"npcprof","msgid":"Stone Cutter","msgstr":"Cortador de Pedra"}
+{"msgctxt":"npcprof","msgid":"Tailor","msgstr":"Alfaiate"}
+{"msgctxt":"npcprof","msgid":"Teacher","msgstr":"Professor"}
+{"msgctxt":"npcprof","msgid":"Tinker","msgstr":"Funileiro"}
+{"msgctxt":"npcprof","msgid":"Tracker","msgstr":"Rastreador"}
+{"msgctxt":"npcprof","msgid":"Trader","msgstr":"Comerciante"}
+{"msgctxt":"npcprof","msgid":"Trapper","msgstr":"Armadilheiro"}
+{"msgctxt":"npcprof","msgid":"Water Master","msgstr":"Mestre da Água"}
+{"msgctxt":"npcprof","msgid":"Weapons Master","msgstr":"Mestre de Armas"}
+{"msgctxt":"npcprof","msgid":"Weaver","msgstr":"Tecelão"}
+{"msgctxt":"npcprof","msgid":"Wererat Smuggler","msgstr":"Contrabandista Homem-Rato"}
+{"msgctxt":"npcprof","msgid":"Wind Master","msgstr":"Mestre dos Ventos"}
+{"msgctxt":"reputation","msgid":"Angelic","msgstr":"Angelical"}
+{"msgctxt":"reputation","msgid":"Average","msgstr":"Mediana"}
+{"msgctxt":"reputation","msgid":"Bad","msgstr":"Má"}
+{"msgctxt":"reputation","msgid":"Despicable","msgstr":"Desprezível"}
+{"msgctxt":"reputation","msgid":"Glorious","msgstr":"Gloriosa"}
+{"msgctxt":"reputation","msgid":"Honorable","msgstr":"Honrosa"}
+{"msgctxt":"reputation","msgid":"Monstrous","msgstr":"Monstruosa"}
+{"msgctxt":"reputation","msgid":"Neutral","msgstr":"Neutra"}
+{"msgctxt":"reputation","msgid":"Notorious","msgstr":"Notória"}
+{"msgctxt":"reputation","msgid":"Respectable","msgstr":"Respeitável"}
+{"msgctxt":"reputation","msgid":"Saintly","msgstr":"Santa"}
+{"msgctxt":"reputation","msgid":"Vile","msgstr":"Vil"}
+{"msgctxt":"skilldes","msgid":"Air","msgstr":"Ar"}
+{"msgctxt":"skilldes","msgid":"Air Magic","msgstr":"Magia do Ar"}
+{"msgctxt":"skilldes","msgid":"Alchemy","msgstr":"Alquimia"}
+{"msgctxt":"skilldes","msgid":"Armsmaster","msgstr":"Mestre de armas"}
+{"msgctxt":"skilldes","msgid":"Axe","msgstr":"Machado"}
+{"msgctxt":"skilldes","msgid":"Blaster","msgstr":"Bláster"}
+{"msgctxt":"skilldes","msgid":"Body","msgstr":"Corpo"}
+{"msgctxt":"skilldes","msgid":"Body Building","msgstr":"Musculação"}
+{"msgctxt":"skilldes","msgid":"Body Magic","msgstr":"Magia do Corpo"}
+{"msgctxt":"skilldes","msgid":"Bodybuilding","msgstr":"Fortalecimento do Corpo"}
+{"msgctxt":"skilldes","msgid":"Bow","msgstr":"Arco"}
+{"msgctxt":"skilldes","msgid":"Chain","msgstr":"Cota de Malha"}
+{"msgctxt":"skilldes","msgid":"Dagger","msgstr":"Adaga"}
+{"msgctxt":"skilldes","msgid":"Dark","msgstr":"Trevas"}
+{"msgctxt":"skilldes","msgid":"Dark Elf Ability","msgstr":"Habilidade de Elfo Sombrio"}
+{"msgctxt":"skilldes","msgid":"Dark Magic","msgstr":"Magia das Trevas"}
+{"msgctxt":"skilldes","msgid":"Diplomacy","msgstr":"Diplomacia"}
+{"msgctxt":"skilldes","msgid":"Disarm Trap","msgstr":"Desarmar Armadilhas"}
+{"msgctxt":"skilldes","msgid":"Disarm Traps","msgstr":"Desarmar Armadilhas"}
+{"msgctxt":"skilldes","msgid":"Dodging","msgstr":"Esquiva"}
+{"msgctxt":"skilldes","msgid":"Dragon Ability","msgstr":"Habilidade de Dragão"}
+{"msgctxt":"skilldes","msgid":"Earth","msgstr":"Terra"}
+{"msgctxt":"skilldes","msgid":"Earth Magic","msgstr":"Magia da Terra"}
+{"msgctxt":"skilldes","msgid":"Fire","msgstr":"Fogo"}
+{"msgctxt":"skilldes","msgid":"Fire Magic","msgstr":"Magia do Fogo"}
+{"msgctxt":"skilldes","msgid":"Identify","msgstr":"Identificar"}
+{"msgctxt":"skilldes","msgid":"Identify Item","msgstr":"Identificar Item"}
+{"msgctxt":"skilldes","msgid":"Identify Monster","msgstr":"Identificar Monstro"}
+{"msgctxt":"skilldes","msgid":"Learning","msgstr":"Aprendizado"}
+{"msgctxt":"skilldes","msgid":"Leather","msgstr":"Couro"}
+{"msgctxt":"skilldes","msgid":"Light","msgstr":"Luz"}
+{"msgctxt":"skilldes","msgid":"Light Magic","msgstr":"Magia da Luz"}
+{"msgctxt":"skilldes","msgid":"Mace","msgstr":"Maça"}
+{"msgctxt":"skilldes","msgid":"Meditation","msgstr":"Meditação"}
+{"msgctxt":"skilldes","msgid":"Merchant","msgstr":"Comércio"}
+{"msgctxt":"skilldes","msgid":"Mind","msgstr":"Mente"}
+{"msgctxt":"skilldes","msgid":"Mind Magic","msgstr":"Magia da Mente"}
+{"msgctxt":"skilldes","msgid":"Perception","msgstr":"Percepção"}
+{"msgctxt":"skilldes","msgid":"Plate","msgstr":"Armadura de Placas"}
+{"msgctxt":"skilldes","msgid":"Regeneration","msgstr":"Regeneração"}
+{"msgctxt":"skilldes","msgid":"Repair","msgstr":"Reparo"}
+{"msgctxt":"skilldes","msgid":"Repair Item","msgstr":"Reparo de Item"}
+{"msgctxt":"skilldes","msgid":"Shield","msgstr":"Escudo"}
+{"msgctxt":"skilldes","msgid":"Spear","msgstr":"Lança"}
+{"msgctxt":"skilldes","msgid":"Spirit","msgstr":"Espírito"}
+{"msgctxt":"skilldes","msgid":"Spirit Magic","msgstr":"Magia do Espírito"}
+{"msgctxt":"skilldes","msgid":"Staff","msgstr":"Cajado"}
+{"msgctxt":"skilldes","msgid":"Stealing","msgstr":"Furto"}
+{"msgctxt":"skilldes","msgid":"Sword","msgstr":"Espada"}
+{"msgctxt":"skilldes","msgid":"Thievery","msgstr":"Ladinagem"}
+{"msgctxt":"skilldes","msgid":"Unarmed","msgstr":"Combate Desarmado"}
+{"msgctxt":"skilldes","msgid":"Vampire Ability","msgstr":"Habilidade de Vampiro"}
+{"msgctxt":"skilldes","msgid":"Water","msgstr":"Água"}
+{"msgctxt":"skilldes","msgid":"Water Magic","msgstr":"Magia da Água"}
+{"msgctxt":"spcitems","msgid":"Antique","msgstr":"Antigo"}
+{"msgctxt":"spcitems","msgid":"Assassins'","msgstr":"dos Assassinos"}
+{"msgctxt":"spcitems","msgid":"Barbarians'","msgstr":"dos Bárbaros"}
+{"msgctxt":"spcitems","msgid":"Demon Slayer","msgstr":"Matador de Demônios"}
+{"msgctxt":"spcitems","msgid":"Demon Slaying","msgstr":"Extermínio de Demônios"}
+{"msgctxt":"spcitems","msgid":"Dragon Slayer","msgstr":"Matador de Dragões"}
+{"msgctxt":"spcitems","msgid":"Dragon Slaying","msgstr":"Extermínio de Dragões"}
+{"msgctxt":"spcitems","msgid":"Elemental Slaying","msgstr":"Extermínio de Elementais"}
+{"msgctxt":"spcitems","msgid":"Elf Slaying","msgstr":"Extermínio de Elfos"}
+{"msgctxt":"spcitems","msgid":"Monks'","msgstr":"dos Monges"}
+{"msgctxt":"spcitems","msgid":"of Acid","msgstr":"do Ácido"}
+{"msgctxt":"spcitems","msgid":"of Air Magic","msgstr":"da Magia do Ar"}
+{"msgctxt":"spcitems","msgid":"of Alarms","msgstr":"dos Alarmes"}
+{"msgctxt":"spcitems","msgid":"of Antidotes","msgstr":"dos Antídotos"}
+{"msgctxt":"spcitems","msgid":"of Body Magic","msgstr":"da Magia do Corpo"}
+{"msgctxt":"spcitems","msgid":"of Carnage","msgstr":"da Carnificina"}
+{"msgctxt":"spcitems","msgid":"of Cold","msgstr":"do Frio"}
+{"msgctxt":"spcitems","msgid":"of Dark Magic","msgstr":"da Magia das Trevas"}
+{"msgctxt":"spcitems","msgid":"of Darkness","msgstr":"das Trevas"}
+{"msgctxt":"spcitems","msgid":"Of David","msgstr":"de Davi"}
+{"msgctxt":"spcitems","msgid":"of Doom","msgstr":"da Perdição"}
+{"msgctxt":"spcitems","msgid":"of Earth","msgstr":"da Terra"}
+{"msgctxt":"spcitems","msgid":"of Earth Magic","msgstr":"da Magia da Terra"}
+{"msgctxt":"spcitems","msgid":"of Feather Falling","msgstr":"da Queda de Pluma"}
+{"msgctxt":"spcitems","msgid":"of Fire","msgstr":"do Fogo"}
+{"msgctxt":"spcitems","msgid":"of Fire Magic","msgstr":"da Magia do Fogo"}
+{"msgctxt":"spcitems","msgid":"of Flame","msgstr":"da Chama"}
+{"msgctxt":"spcitems","msgid":"of Force","msgstr":"da Força"}
+{"msgctxt":"spcitems","msgid":"of Freedom","msgstr":"da Liberdade"}
+{"msgctxt":"spcitems","msgid":"of Frost","msgstr":"do Gelo"}
+{"msgctxt":"spcitems","msgid":"of Ice","msgstr":"de Gelo"}
+{"msgctxt":"spcitems","msgid":"of Identifying","msgstr":"da Identificação"}
+{"msgctxt":"spcitems","msgid":"of Immunity","msgstr":"da Imunidade"}
+{"msgctxt":"spcitems","msgid":"of Infernos","msgstr":"dos Infernos"}
+{"msgctxt":"spcitems","msgid":"of Life","msgstr":"da Vida"}
+{"msgctxt":"spcitems","msgid":"of Light Magic","msgstr":"da Magia da Luz"}
+{"msgctxt":"spcitems","msgid":"of Lightning","msgstr":"do Relâmpago"}
+{"msgctxt":"spcitems","msgid":"of Mana","msgstr":"da Mana"}
+{"msgctxt":"spcitems","msgid":"of Mind Magic","msgstr":"da Magia da Mente"}
+{"msgctxt":"spcitems","msgid":"of Plenty","msgstr":"da Abundância"}
+{"msgctxt":"spcitems","msgid":"of Poison","msgstr":"do Veneno"}
+{"msgctxt":"spcitems","msgid":"of Power","msgstr":"do Poder"}
+{"msgctxt":"spcitems","msgid":"of Protection","msgstr":"da Proteção"}
+{"msgctxt":"spcitems","msgid":"of Recovery","msgstr":"da Recuperação"}
+{"msgctxt":"spcitems","msgid":"of Regeneration","msgstr":"da Regeneração"}
+{"msgctxt":"spcitems","msgid":"of Sanity","msgstr":"da Sanidade"}
+{"msgctxt":"spcitems","msgid":"of Shielding","msgstr":"do Escudo"}
+{"msgctxt":"spcitems","msgid":"of Sparks","msgstr":"das Faíscas"}
+{"msgctxt":"spcitems","msgid":"of Spirit Magic","msgstr":"da Magia do Espírito"}
+{"msgctxt":"spcitems","msgid":"of Swiftness","msgstr":"da Rapidez"}
+{"msgctxt":"spcitems","msgid":"of The Dragon","msgstr":"do Dragão"}
+{"msgctxt":"spcitems","msgid":"of The Eclipse","msgstr":"do Eclipse"}
+{"msgctxt":"spcitems","msgid":"of The Gods","msgstr":"dos Deuses"}
+{"msgctxt":"spcitems","msgid":"of The Golem","msgstr":"do Golem"}
+{"msgctxt":"spcitems","msgid":"of The Medusa","msgstr":"da Medusa"}
+{"msgctxt":"spcitems","msgid":"of The Moon","msgstr":"da Lua"}
+{"msgctxt":"spcitems","msgid":"of the Ocean","msgstr":"do Oceano"}
+{"msgctxt":"spcitems","msgid":"of The Phoenix","msgstr":"da Fênix"}
+{"msgctxt":"spcitems","msgid":"of The Sky","msgstr":"do Céu"}
+{"msgctxt":"spcitems","msgid":"of The Stars","msgstr":"das Estrelas"}
+{"msgctxt":"spcitems","msgid":"of the Storm","msgstr":"da Tempestade"}
+{"msgctxt":"spcitems","msgid":"of The Sun","msgstr":"do Sol"}
+{"msgctxt":"spcitems","msgid":"of The Troll","msgstr":"do Troll"}
+{"msgctxt":"spcitems","msgid":"of The Unicorn","msgstr":"do Unicórnio"}
+{"msgctxt":"spcitems","msgid":"of Thievery","msgstr":"da Ladinagem"}
+{"msgctxt":"spcitems","msgid":"of Thunderbolts","msgstr":"dos Raios"}
+{"msgctxt":"spcitems","msgid":"of Venom","msgstr":"do Veneno"}
+{"msgctxt":"spcitems","msgid":"of Water Magic","msgstr":"da Magia da Água"}
+{"msgctxt":"spcitems","msgid":"of Water Walking","msgstr":"do Caminhar sobre a Água"}
+{"msgctxt":"spcitems","msgid":"Ogre Slaying","msgstr":"Matador de Ogros"}
+{"msgctxt":"spcitems","msgid":"Rogues","msgstr":"Ladinos"}
+{"msgctxt":"spcitems","msgid":"Rogues'","msgstr":"dos Ladinos"}
+{"msgctxt":"spcitems","msgid":"Swift","msgstr":"Veloz"}
+{"msgctxt":"spcitems","msgid":"Thieves'","msgstr":"dos Ladrões"}
+{"msgctxt":"spcitems","msgid":"Undead Slaying","msgstr":"Extermínio de Mortos-Vivos"}
+{"msgctxt":"spcitems","msgid":"Vampiric","msgstr":"Vampírico"}
+{"msgctxt":"spcitems","msgid":"Warriors","msgstr":"dos Guerreiros"}
+{"msgctxt":"spcitems","msgid":"Warriors'","msgstr":"dos Guerreiros"}
+{"msgctxt":"spcitems","msgid":"Wizards","msgstr":"dos Magos"}
+{"msgctxt":"spcitems","msgid":"Wizards'","msgstr":"dos Magos"}
+{"msgctxt":"spellgroupshort","msgid":"Air","msgstr":"Ar"}
+{"msgctxt":"spellgroupshort","msgid":"Body","msgstr":"Corpo"}
+{"msgctxt":"spellgroupshort","msgid":"Cold","msgstr":"Frio"}
+{"msgctxt":"spellgroupshort","msgid":"Dark","msgstr":"Trevas"}
+{"msgctxt":"spellgroupshort","msgid":"Earth","msgstr":"Terra"}
+{"msgctxt":"spellgroupshort","msgid":"Electricity","msgstr":"Eletricidade"}
+{"msgctxt":"spellgroupshort","msgid":"Fire","msgstr":"Fogo"}
+{"msgctxt":"spellgroupshort","msgid":"Light","msgstr":"Luz"}
+{"msgctxt":"spellgroupshort","msgid":"Mind","msgstr":"Mente"}
+{"msgctxt":"spellgroupshort","msgid":"Spirit","msgstr":"Espírito"}
+{"msgctxt":"spellgroupshort","msgid":"Water","msgstr":"Água"}
+{"msgctxt":"spells","msgid":"Acid Burst","msgstr":"Explosão ácida"}
+{"msgctxt":"spells","msgid":"Air Res","msgstr":"Res. ao Ar"}
+{"msgctxt":"spells","msgid":"Air Resist","msgstr":"Res. ao Ar"}
+{"msgctxt":"spells","msgid":"Air Resistance","msgstr":"Resistência ao Ar"}
+{"msgctxt":"spells","msgid":"Armageddon","msgstr":"Armagedom"}
+{"msgctxt":"spells","msgid":"Awaken","msgstr":"Despertar"}
+{"msgctxt":"spells","msgid":"Berserk","msgstr":"Frenesi"}
+{"msgctxt":"spells","msgid":"Blades","msgstr":"Lâminas"}
+{"msgctxt":"spells","msgid":"Bless","msgstr":"Benção"}
+{"msgctxt":"spells","msgid":"Blind","msgstr":"Cegueira"}
+{"msgctxt":"spells","msgid":"Body Res","msgstr":"Res. a Corpo"}
+{"msgctxt":"spells","msgid":"Body Resist","msgstr":"Resistência a Corpo"}
+{"msgctxt":"spells","msgid":"Body Resistance","msgstr":"Resistência a Corpo"}
+{"msgctxt":"spells","msgid":"Buffet","msgstr":"Rajada"}
+{"msgctxt":"spells","msgid":"Charm","msgstr":"Encanto"}
+{"msgctxt":"spells","msgid":"Cntrl Undead","msgstr":"Controlar Mortos-Vivos"}
+{"msgctxt":"spells","msgid":"Cold Beam","msgstr":"Feixe de Frio"}
+{"msgctxt":"spells","msgid":"Control Undead","msgstr":"Controlar Mortos-Vivos"}
+{"msgctxt":"spells","msgid":"Create Food","msgstr":"Criar Comida"}
+{"msgctxt":"spells","msgid":"Cure Disease","msgstr":"Curar doença"}
+{"msgctxt":"spells","msgid":"Cure Insane","msgstr":"Curar Insanidade"}
+{"msgctxt":"spells","msgid":"Cure Insanity","msgstr":"Curar Loucura"}
+{"msgctxt":"spells","msgid":"Cure Paralysis","msgstr":"Curar Paralisia"}
+{"msgctxt":"spells","msgid":"Cure Plyze","msgstr":"Curar paralisia"}
+{"msgctxt":"spells","msgid":"Cure Poison","msgstr":"Curar envenenamento"}
+{"msgctxt":"spells","msgid":"Cure Weak","msgstr":"Curar Fraqueza"}
+{"msgctxt":"spells","msgid":"Cure Weakness","msgstr":"Curar Fraqueza"}
+{"msgctxt":"spells","msgid":"Cure Wound","msgstr":"Curar ferimento"}
+{"msgctxt":"spells","msgid":"Cure Wounds","msgstr":"Curar ferimentos"}
+{"msgctxt":"spells","msgid":"Dark Contain","msgstr":"Contenção das Trevas"}
+{"msgctxt":"spells","msgid":"Dark Containment","msgstr":"Contenção das Trevas"}
+{"msgctxt":"spells","msgid":"Dark Grasp","msgstr":"Garra das Trevas"}
+{"msgctxt":"spells","msgid":"Darkfire","msgstr":"Fogo das Trevas"}
+{"msgctxt":"spells","msgid":"Darkfire Bolt","msgstr":"Seta de Fogo das Trevas"}
+{"msgctxt":"spells","msgid":"Day -o- Gods","msgstr":"Dia dos Deuses"}
+{"msgctxt":"spells","msgid":"Day of Prot","msgstr":"Dia da Proteção"}
+{"msgctxt":"spells","msgid":"Day of Protection","msgstr":"Dia da Proteção"}
+{"msgctxt":"spells","msgid":"Day of the Gods","msgstr":"Dia dos Deuses"}
+{"msgctxt":"spells","msgid":"Deadly Swarm","msgstr":"Enxame Mortal"}
+{"msgctxt":"spells","msgid":"Death Blossom","msgstr":"Flor da Morte"}
+{"msgctxt":"spells","msgid":"Death Blsm","msgstr":"Flor da morte"}
+{"msgctxt":"spells","msgid":"Dest Undead","msgstr":"Destruir mortos-vivos"}
+{"msgctxt":"spells","msgid":"Destroy Undead","msgstr":"Destruir Mortos-Vivos"}
+{"msgctxt":"spells","msgid":"Detect Life","msgstr":"Detectar vida"}
+{"msgctxt":"spells","msgid":"Dispel Magic","msgstr":"Dissipar Magia"}
+{"msgctxt":"spells","msgid":"Divine Inter","msgstr":"Intervenção Divina"}
+{"msgctxt":"spells","msgid":"Divine Intervention","msgstr":"Intervenção Divina"}
+{"msgctxt":"spells","msgid":"Drag Breath","msgstr":"Sopro do Dragão"}
+{"msgctxt":"spells","msgid":"Dragon Breath","msgstr":"Sopro do Dragão"}
+{"msgctxt":"spells","msgid":"Earth Res","msgstr":"Res. à Terra"}
+{"msgctxt":"spells","msgid":"Earth Resist","msgstr":"Res. à Terra"}
+{"msgctxt":"spells","msgid":"Earth Resistance","msgstr":"Resistência à Terra"}
+{"msgctxt":"spells","msgid":"Enchant Item","msgstr":"Encantar Item"}
+{"msgctxt":"spells","msgid":"Enslave","msgstr":"Escravizar"}
+{"msgctxt":"spells","msgid":"Fate","msgstr":"Destino"}
+{"msgctxt":"spells","msgid":"Fear","msgstr":"Medo"}
+{"msgctxt":"spells","msgid":"Feather Fall","msgstr":"Queda de Pluma"}
+{"msgctxt":"spells","msgid":"Feeblemind","msgstr":"Debilidade mental"}
+{"msgctxt":"spells","msgid":"Finger Death","msgstr":"Dedo da Morte"}
+{"msgctxt":"spells","msgid":"Finger of Death","msgstr":"Dedo da Morte"}
+{"msgctxt":"spells","msgid":"Fire Aura","msgstr":"Aura de Fogo"}
+{"msgctxt":"spells","msgid":"Fire Blast","msgstr":"Rajada de Fogo"}
+{"msgctxt":"spells","msgid":"Fire Bolt","msgstr":"Seta de Fogo"}
+{"msgctxt":"spells","msgid":"Fire Res","msgstr":"Res. a Fogo"}
+{"msgctxt":"spells","msgid":"Fire Resistance","msgstr":"Resistência ao Fogo"}
+{"msgctxt":"spells","msgid":"Fire Spike","msgstr":"Espinho de Fogo"}
+{"msgctxt":"spells","msgid":"Fireball","msgstr":"Bola de Fogo"}
+{"msgctxt":"spells","msgid":"First Aid","msgstr":"Primeiros Socorros"}
+{"msgctxt":"spells","msgid":"Flame Arrow","msgstr":"Flecha flamejante"}
+{"msgctxt":"spells","msgid":"Flame Blast","msgstr":"Explosão flamejante"}
+{"msgctxt":"spells","msgid":"Flight","msgstr":"Voo"}
+{"msgctxt":"spells","msgid":"Fly","msgstr":"Voo"}
+{"msgctxt":"spells","msgid":"Flying Fist","msgstr":"Punho voador"}
+{"msgctxt":"spells","msgid":"Glamour","msgstr":"Encanto"}
+{"msgctxt":"spells","msgid":"Gldn Touch","msgstr":"Toque dourado"}
+{"msgctxt":"spells","msgid":"Golden Touch","msgstr":"Toque Dourado"}
+{"msgctxt":"spells","msgid":"Guard Angel","msgstr":"Anjo guardião"}
+{"msgctxt":"spells","msgid":"Guardian Angel","msgstr":"Anjo Guardião"}
+{"msgctxt":"spells","msgid":"Hammerhand","msgstr":"Mão de martelo"}
+{"msgctxt":"spells","msgid":"Hammerhands","msgstr":"Mãos de martelo"}
+{"msgctxt":"spells","msgid":"Harm","msgstr":"Ferir"}
+{"msgctxt":"spells","msgid":"Haste","msgstr":"Aceleração"}
+{"msgctxt":"spells","msgid":"Heal","msgstr":"Cura"}
+{"msgctxt":"spells","msgid":"Healing","msgstr":"Cura"}
+{"msgctxt":"spells","msgid":"Healing Touch","msgstr":"Toque de Cura"}
+{"msgctxt":"spells","msgid":"Heroism","msgstr":"Heroísmo"}
+{"msgctxt":"spells","msgid":"Hour of Power","msgstr":"Hora do Poder"}
+{"msgctxt":"spells","msgid":"Hour Power","msgstr":"Hora do Poder"}
+{"msgctxt":"spells","msgid":"Ice Blast","msgstr":"Explosão de Gelo"}
+{"msgctxt":"spells","msgid":"Ice Bolt","msgstr":"Dardo de Gelo"}
+{"msgctxt":"spells","msgid":"Immolation","msgstr":"Imolação"}
+{"msgctxt":"spells","msgid":"Implosion","msgstr":"Implosão"}
+{"msgctxt":"spells","msgid":"Incinerate","msgstr":"Incinerar"}
+{"msgctxt":"spells","msgid":"Inferno","msgstr":"Inferno"}
+{"msgctxt":"spells","msgid":"Invisibility","msgstr":"Invisibilidade"}
+{"msgctxt":"spells","msgid":"Jump","msgstr":"Salto"}
+{"msgctxt":"spells","msgid":"Levitate","msgstr":"Levitação"}
+{"msgctxt":"spells","msgid":"Lifedrain","msgstr":"Drenar Vida"}
+{"msgctxt":"spells","msgid":"Light Bolt","msgstr":"Seta de Luz"}
+{"msgctxt":"spells","msgid":"Lightning","msgstr":"Relâmpago"}
+{"msgctxt":"spells","msgid":"Lightning Bolt","msgstr":"Relâmpago"}
+{"msgctxt":"spells","msgid":"Lloyd's","msgstr":"de Lloyd"}
+{"msgctxt":"spells","msgid":"Lloyd's Beacon","msgstr":"Farol de Lloyd"}
+{"msgctxt":"spells","msgid":"Lucky Day","msgstr":"Dia de Sorte"}
+{"msgctxt":"spells","msgid":"Magic Arrow","msgstr":"Flecha mágica"}
+{"msgctxt":"spells","msgid":"Mass Curse","msgstr":"Maldição em massa"}
+{"msgctxt":"spells","msgid":"Mass Distort","msgstr":"Distorção em Massa"}
+{"msgctxt":"spells","msgid":"Mass Distortion","msgstr":"Distorção em Massa"}
+{"msgctxt":"spells","msgid":"Mass Fear","msgstr":"Medo em Massa"}
+{"msgctxt":"spells","msgid":"Meditation","msgstr":"Meditação"}
+{"msgctxt":"spells","msgid":"Meteor Shower","msgstr":"Chuva de Meteoros"}
+{"msgctxt":"spells","msgid":"Meteor Shwr","msgstr":"Chuva de meteoros"}
+{"msgctxt":"spells","msgid":"Mind Blast","msgstr":"Explosão da Mente"}
+{"msgctxt":"spells","msgid":"Mind Res","msgstr":"Res. à Mente"}
+{"msgctxt":"spells","msgid":"Mind Resist","msgstr":"Resistência à Mente"}
+{"msgctxt":"spells","msgid":"Mind Resistance","msgstr":"Resistência à Mente"}
+{"msgctxt":"spells","msgid":"Mistform","msgstr":"Forma de Névoa"}
+{"msgctxt":"spells","msgid":"Moon Ray","msgstr":"Raio Lunar"}
+{"msgctxt":"spells","msgid":"Pain Reflect","msgstr":"Reflexão da Dor"}
+{"msgctxt":"spells","msgid":"Pain Reflection","msgstr":"Reflexão da Dor"}
+{"msgctxt":"spells","msgid":"Paralyze","msgstr":"Paralisar"}
+{"msgctxt":"spells","msgid":"Poison Spr","msgstr":"Jato de Veneno"}
+{"msgctxt":"spells","msgid":"Poison Spray","msgstr":"Jato de Veneno"}
+{"msgctxt":"spells","msgid":"Power","msgstr":"Poder"}
+{"msgctxt":"spells","msgid":"Power Cure","msgstr":"Cura poderosa"}
+{"msgctxt":"spells","msgid":"Precision","msgstr":"Precisão"}
+{"msgctxt":"spells","msgid":"Preservation","msgstr":"Preservação"}
+{"msgctxt":"spells","msgid":"Pris Light","msgstr":"Luz prismática"}
+{"msgctxt":"spells","msgid":"Prismatic Light","msgstr":"Luz Prismática"}
+{"msgctxt":"spells","msgid":"Prot Cold","msgstr":"Prot. contra Frio"}
+{"msgctxt":"spells","msgid":"Prot Elec","msgstr":"Prot. contra Eletricidade"}
+{"msgctxt":"spells","msgid":"Prot Fire","msgstr":"Prot. contra Fogo"}
+{"msgctxt":"spells","msgid":"Prot Magic","msgstr":"Prot. contra magia"}
+{"msgctxt":"spells","msgid":"Prot Poison","msgstr":"Proteção contra veneno"}
+{"msgctxt":"spells","msgid":"Protection from Cold","msgstr":"Proteção contra o Frio"}
+{"msgctxt":"spells","msgid":"Protection from Electricity","msgstr":"Proteção contra a Eletricidade"}
+{"msgctxt":"spells","msgid":"Protection from Fire","msgstr":"Proteção contra o Fogo"}
+{"msgctxt":"spells","msgid":"Protection from Magic","msgstr":"Proteção contra a Magia"}
+{"msgctxt":"spells","msgid":"Protection from Poison","msgstr":"Proteção contra Veneno"}
+{"msgctxt":"spells","msgid":"Psy - Shock","msgstr":"Choque psíquico"}
+{"msgctxt":"spells","msgid":"Psychic Shock","msgstr":"Choque Psíquico"}
+{"msgctxt":"spells","msgid":"Raise Dead","msgstr":"Ressuscitar mortos"}
+{"msgctxt":"spells","msgid":"Reanimate","msgstr":"Reanimar"}
+{"msgctxt":"spells","msgid":"Recharge","msgstr":"Recarregar"}
+{"msgctxt":"spells","msgid":"Recharge Item","msgstr":"Recarregar Item"}
+{"msgctxt":"spells","msgid":"Regeneration","msgstr":"Regeneração"}
+{"msgctxt":"spells","msgid":"Remove Curse","msgstr":"Remover maldição"}
+{"msgctxt":"spells","msgid":"Remove Fear","msgstr":"Remover medo"}
+{"msgctxt":"spells","msgid":"Resurrection","msgstr":"Ressurreição"}
+{"msgctxt":"spells","msgid":"Ring of Fire","msgstr":"Anel de Fogo"}
+{"msgctxt":"spells","msgid":"Rmv. Curse","msgstr":"Remover maldição"}
+{"msgctxt":"spells","msgid":"Rock Blast","msgstr":"Explosão de rocha"}
+{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"Sacrifício"}
+{"msgctxt":"spells","msgid":"Shared Life","msgstr":"Vida compartilhada"}
+{"msgctxt":"spells","msgid":"Shield","msgstr":"Escudo"}
+{"msgctxt":"spells","msgid":"Shrapmetal","msgstr":"Metralha metálica"}
+{"msgctxt":"spells","msgid":"Shrink Ray","msgstr":"Raio encolhedor"}
+{"msgctxt":"spells","msgid":"Shrinking Ray","msgstr":"Raio Redutor"}
+{"msgctxt":"spells","msgid":"Slow","msgstr":"Lentidão"}
+{"msgctxt":"spells","msgid":"Souldrinker","msgstr":"Bebe-almas"}
+{"msgctxt":"spells","msgid":"Sparks","msgstr":"Faíscas"}
+{"msgctxt":"spells","msgid":"Speed","msgstr":"Velocidade"}
+{"msgctxt":"spells","msgid":"Spirit Arrow","msgstr":"Flecha Espiritual"}
+{"msgctxt":"spells","msgid":"Spirit Lash","msgstr":"Açoite do Espírito"}
+{"msgctxt":"spells","msgid":"Starburst","msgstr":"Explosão Estelar"}
+{"msgctxt":"spells","msgid":"Static Charge","msgstr":"Carga Estática"}
+{"msgctxt":"spells","msgid":"Static Chrg","msgstr":"Carga estática"}
+{"msgctxt":"spells","msgid":"Stone - Flesh","msgstr":"Pedra - Carne"}
+{"msgctxt":"spells","msgid":"Stone Skin","msgstr":"Pele de pedra"}
+{"msgctxt":"spells","msgid":"Stone to Flesh","msgstr":"Pedra em Carne"}
+{"msgctxt":"spells","msgid":"Stoneskin","msgstr":"Pele de Pedra"}
+{"msgctxt":"spells","msgid":"Stun","msgstr":"Atordoamento"}
+{"msgctxt":"spells","msgid":"Summon","msgstr":"Invocação"}
+{"msgctxt":"spells","msgid":"Summon Elemental","msgstr":"Invocação de Elemental"}
+{"msgctxt":"spells","msgid":"Summon Wisp","msgstr":"Invocação de fogo-fátuo"}
+{"msgctxt":"spells","msgid":"Sun Ray","msgstr":"Raio Solar"}
+{"msgctxt":"spells","msgid":"Sunray","msgstr":"Raio Solar"}
+{"msgctxt":"spells","msgid":"Swarm","msgstr":"Enxame"}
+{"msgctxt":"spells","msgid":"Telekinesis","msgstr":"Telecinese"}
+{"msgctxt":"spells","msgid":"Telepathy","msgstr":"Telepatia"}
+{"msgctxt":"spells","msgid":"Torch Light","msgstr":"Luz de tocha"}
+{"msgctxt":"spells","msgid":"Town Portal","msgstr":"Portal da cidade"}
+{"msgctxt":"spells","msgid":"Toxic Cloud","msgstr":"Nuvem tóxica"}
+{"msgctxt":"spells","msgid":"Travel Boon","msgstr":"Dádiva da viagem"}
+{"msgctxt":"spells","msgid":"Travelers' Boon","msgstr":"Dádiva dos Viajantes"}
+{"msgctxt":"spells","msgid":"Turn - Stone","msgstr":"Transformar em Pedra"}
+{"msgctxt":"spells","msgid":"Turn to Stone","msgstr":"Transformar em Pedra"}
+{"msgctxt":"spells","msgid":"Turn Undead","msgstr":"Expulsar mortos-vivos"}
+{"msgctxt":"spells","msgid":"Vamp Weap","msgstr":"Arma Vampírica"}
+{"msgctxt":"spells","msgid":"Vampiric Weapon","msgstr":"Arma Vampírica"}
+{"msgctxt":"spells","msgid":"Water Res","msgstr":"Res. à Água"}
+{"msgctxt":"spells","msgid":"Water Resist","msgstr":"Resistência à Água"}
+{"msgctxt":"spells","msgid":"Water Resistance","msgstr":"Resistência à Água"}
+{"msgctxt":"spells","msgid":"Water Walk","msgstr":"Caminhar sobre a água"}
+{"msgctxt":"spells","msgid":"Wing Buffet","msgstr":"Rajada de asas"}
+{"msgctxt":"spells","msgid":"Wizard Eye","msgstr":"Olho do mago"}
+{"msgctxt":"spells vampire","msgid":"Charm","msgstr":"Encanto"}
+{"msgctxt":"stats","msgid":"AC","msgstr":"CA"}
+{"msgctxt":"stats","msgid":"Accuracy","msgstr":"Precisão"}
+{"msgctxt":"stats","msgid":"Age","msgstr":"Idade"}
+{"msgctxt":"stats","msgid":"Air","msgstr":"Ar"}
+{"msgctxt":"stats","msgid":"Armor Class","msgstr":"Classe de Armadura"}
+{"msgctxt":"stats","msgid":"Attack","msgstr":"Ataque"}
+{"msgctxt":"stats","msgid":"Attack Bonus","msgstr":"Bônus de Ataque"}
+{"msgctxt":"stats","msgid":"Attack Damage","msgstr":"Dano de Ataque"}
+{"msgctxt":"stats","msgid":"Body","msgstr":"Corpo"}
+{"msgctxt":"stats","msgid":"Class","msgstr":"Classe"}
+{"msgctxt":"stats","msgid":"Cold","msgstr":"Frio"}
+{"msgctxt":"stats","msgid":"Cond","msgstr":"Cond."}
+{"msgctxt":"stats","msgid":"Condition","msgstr":"Condição"}
+{"msgctxt":"stats","msgid":"Dmg","msgstr":"Dano"}
+{"msgctxt":"stats","msgid":"Earth","msgstr":"Terra"}
+{"msgctxt":"stats","msgid":"Electricity","msgstr":"Eletricidade"}
+{"msgctxt":"stats","msgid":"Endurance","msgstr":"Resistência"}
+{"msgctxt":"stats","msgid":"Exp.","msgstr":"Exp."}
+{"msgctxt":"stats","msgid":"Experience","msgstr":"Experiência"}
+{"msgctxt":"stats","msgid":"Fame","msgstr":"Fama"}
+{"msgctxt":"stats","msgid":"Fire","msgstr":"Fogo"}
+{"msgctxt":"stats","msgid":"Hit Points","msgstr":"Pontos de vida"}
+{"msgctxt":"stats","msgid":"HP","msgstr":"PV"}
+{"msgctxt":"stats","msgid":"Intellect","msgstr":"Intelecto"}
+{"msgctxt":"stats","msgid":"Level","msgstr":"Nível"}
+{"msgctxt":"stats","msgid":"Luck","msgstr":"Sorte"}
+{"msgctxt":"stats","msgid":"Magic","msgstr":"Magia"}
+{"msgctxt":"stats","msgid":"Might","msgstr":"Força"}
+{"msgctxt":"stats","msgid":"Mind","msgstr":"Mente"}
+{"msgctxt":"stats","msgid":"Name","msgstr":"Nome"}
+{"msgctxt":"stats","msgid":"Personality","msgstr":"Personalidade"}
+{"msgctxt":"stats","msgid":"Points","msgstr":"Pontos"}
+{"msgctxt":"stats","msgid":"Poison","msgstr":"Veneno"}
+{"msgctxt":"stats","msgid":"QSpell","msgstr":"Magia Rápida"}
+{"msgctxt":"stats","msgid":"Quick Spell","msgstr":"Magia rápida"}
+{"msgctxt":"stats","msgid":"Reputation","msgstr":"Reputação"}
+{"msgctxt":"stats","msgid":"Shoot Bonus","msgstr":"Bônus de tiro"}
+{"msgctxt":"stats","msgid":"Shoot Damage","msgstr":"Dano de Disparo"}
+{"msgctxt":"stats","msgid":"Skill Points","msgstr":"Pontos de Habilidade"}
+{"msgctxt":"stats","msgid":"Skills","msgstr":"Habilidades"}
+{"msgctxt":"stats","msgid":"SP","msgstr":"PM"}
+{"msgctxt":"stats","msgid":"Speed","msgstr":"Velocidade"}
+{"msgctxt":"stats","msgid":"Spell Points","msgstr":"Pontos de Magia"}
+{"msgctxt":"stats","msgid":"Water","msgstr":"Água"}
+{"msgctxt":"stditems","msgid":"of Air Resistance","msgstr":"da Resistência ao Ar"}
+{"msgctxt":"stditems","msgid":"of Alchemy","msgstr":"da Alquimia"}
+{"msgctxt":"stditems","msgid":"of Arms","msgstr":"das Armas"}
+{"msgctxt":"stditems","msgid":"of Body Resistance","msgstr":"da Resistência a Corpo"}
+{"msgctxt":"stditems","msgid":"of Charm","msgstr":"do Encanto"}
+{"msgctxt":"stditems","msgid":"of Cold Resistance","msgstr":"da Resistência ao Frio"}
+{"msgctxt":"stditems","msgid":"of Defense","msgstr":"da Defesa"}
+{"msgctxt":"stditems","msgid":"of Disarming","msgstr":"do Desarme"}
+{"msgctxt":"stditems","msgid":"of Dodging","msgstr":"da Esquiva"}
+{"msgctxt":"stditems","msgid":"of Earth Resistance","msgstr":"da Resistência à Terra"}
+{"msgctxt":"stditems","msgid":"of Elec Resistance","msgstr":"da Resistência à Eletricidade"}
+{"msgctxt":"stditems","msgid":"of Fire Resistance","msgstr":"da Resistência ao Fogo"}
+{"msgctxt":"stditems","msgid":"of great Might","msgstr":"de grande Força"}
+{"msgctxt":"stditems","msgid":"of Health","msgstr":"da Saúde"}
+{"msgctxt":"stditems","msgid":"of Items","msgstr":"dos Itens"}
+{"msgctxt":"stditems","msgid":"of Luck","msgstr":"da Sorte"}
+{"msgctxt":"stditems","msgid":"of Magic","msgstr":"da Magia"}
+{"msgctxt":"stditems","msgid":"of Might","msgstr":"da Força"}
+{"msgctxt":"stditems","msgid":"of Mind Resistance","msgstr":"da Resistência à Mente"}
+{"msgctxt":"stditems","msgid":"of Monsters","msgstr":"dos Monstros"}
+{"msgctxt":"stditems","msgid":"of Poison Resistance","msgstr":"da Resistência ao Veneno"}
+{"msgctxt":"stditems","msgid":"of Precision","msgstr":"da Precisão"}
+{"msgctxt":"stditems","msgid":"of Speed","msgstr":"da Velocidade"}
+{"msgctxt":"stditems","msgid":"of Stealing","msgstr":"do Furto"}
+{"msgctxt":"stditems","msgid":"of the Fist","msgstr":"do Punho"}
+{"msgctxt":"stditems","msgid":"of Thought","msgstr":"do Pensamento"}
+{"msgctxt":"stditems","msgid":"of Vigor","msgstr":"do Vigor"}
+{"msgctxt":"stditems","msgid":"of Water Resistance","msgstr":"da Resistência à Água"}

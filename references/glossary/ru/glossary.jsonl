@@ -1,0 +1,2431 @@
+{"msgctxt":"autonote or awards","msgid":"Accuracy Boost (White) = Orange + Yellow and Orange Layered","msgstr":"Повышение меткости (белое) = оранжевое + слоистое жёлто-оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered","msgstr":"Сопротивление воздуху (белое) = зелье с красным и оранжевым слоями + зелье с синим и фиолетовым слоями"}
+{"msgctxt":"autonote or awards","msgid":"Awaken (Green) = Yellow + Blue","msgstr":"Пробуждение (зелёное) = жёлтое + синее"}
+{"msgctxt":"autonote or awards","msgid":"Bless (Red and Green Layered) = Red + Green","msgstr":"Благословение (слоистое красно-зелёное) = красное + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Bless (White) = Purple + Blue","msgstr":"Благословение (белое) = фиолетовое + синее"}
+{"msgctxt":"autonote or awards","msgid":"Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered","msgstr":"Сопротивление магии Тела (белое) = зелье с синим и зелёным слоями + зелье с жёлтым и оранжевым слоями"}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"Катализатор (серый) = грибы + пустая бутылка.  Для усиления эффекта можно использовать разные серые реагенты."}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"Катализатор (серый) = грибы + пустая бутылка.  Для усиления эффекта можно использовать разные серые реагенты."}
+{"msgctxt":"autonote or awards","msgid":"Cure Disease (Orange) = Yellow + Red","msgstr":"Излечение болезни (оранжевое) = жёлтое + красное"}
+{"msgctxt":"autonote or awards","msgid":"Cure Insanity (Orange and Green Layered) = Orange + Green","msgstr":"Исцеление безумия (слоистое оранжево-зелёное) = оранжевое + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Green + Yellow and Orange Layered","msgstr":"Снятие паралича (белое) = зелёное + слоистое жёлто-оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Orange + Yellow and Green Layered","msgstr":"Снятие паралича (белое) = оранжевое + слоистое жёлто-зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Cure Poison (Purple) = Blue + Red","msgstr":"Лечение отравления (фиолетовое) = синее + красное"}
+{"msgctxt":"autonote or awards","msgid":"Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.","msgstr":"Исцеление слабости (жёлтое) = Попписнапс + пустая бутылка.  Для усиления эффекта можно использовать разные жёлтые реагенты."}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle","msgstr":"Лечение ран (красное) = Ягоды «Вдовьи слёзы» + пустая бутылка"}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.","msgstr":"Лечение ран (красное) = Ягоды «Вдовьи слёзы» + пустая бутылка.  Для усиления эффекта можно использовать разные красные реагенты."}
+{"msgctxt":"autonote or awards","msgid":"Divine Boost = Divine Power + Any attribute boost potion.","msgstr":"Божественное усиление = Божественная сила + любое зелье повышения характеристики."}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (Black) = Restoration + Orange","msgstr":"Божественное исцеление (чёрное) = Восстановление + оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered","msgstr":"Божественное исцеление (белое) = зелье с красным и оранжевым слоями + зелье с жёлтым и оранжевым слоями"}
+{"msgctxt":"autonote or awards","msgid":"Divine Magic (Black) = Super Resistance + Green","msgstr":"Божественная магия (чёрное) = Сверхсопротивление + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (Black) = Extreme Energy + Purple","msgstr":"Божественная сила (чёрное) = Предельная энергия + фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (White) = Blue and Green Layered + Yellow and Green Layered","msgstr":"Божественная сила (белое) = зелье с синим и зелёным слоями + зелье с жёлтым и зелёным слоями"}
+{"msgctxt":"autonote or awards","msgid":"Divine Protection = Divine Cure + Any resistance potion.","msgstr":"Божественная защита = Божественное исцеление + любое зелье сопротивления."}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered","msgstr":"Божественное восстановление (белое) = зелье с синим и фиолетовым слоями + зелье с жёлтым и оранжевым слоями"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered","msgstr":"Божественное восстановление (белое) = зелье с красным и оранжевым слоями + зелье с синим и зелёным слоями"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered","msgstr":"Божественное восстановление (белое) = зелье с красным и фиолетовым слоями + зелье с жёлтым и зелёным слоями"}
+{"msgctxt":"autonote or awards","msgid":"Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)","msgstr":"Божественное преображение = Божественное восстановление + Исцеление безумия (или Снятие страха, или Снятие проклятия)"}
+{"msgctxt":"autonote or awards","msgid":"Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered","msgstr":"Сопротивление Земле (белое) = зелье с красным и фиолетовым слоями + зелье с жёлтым и оранжевым слоями"}
+{"msgctxt":"autonote or awards","msgid":"Endurance Boost (White) = Purple + Blue and Purple Layered","msgstr":"Повышение выносливости (белое) = фиолетовое + слоистое сине-фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Energy (Yellow) = Poppysnaps + Empty Bottle","msgstr":"Энергия (жёлтое) = Попписнапс + пустая бутылка"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy (Black) = Bless + Yellow","msgstr":"Эссенция меткости (чёрное) = Благословение + жёлтое"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy = Cure Insanity + Stoneskin","msgstr":"Эссенция меткости = Исцеление безумия + Каменная кожа"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance (Black) = Supreme Protection + Yellow","msgstr":"Эссенция выносливости (чёрное) = Высшая защита + жёлтое"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance = Remove Curse + Recharge Item","msgstr":"Эссенция выносливости = Снятие проклятия + Перезарядка предмета"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect (Black) = Stone Skin + Blue","msgstr":"Эссенция интеллекта (чёрное) = Каменная кожа + синее"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect = Remove Curse + Shield ","msgstr":"Эссенция интеллекта = Снятие проклятия + Щит "}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck (Black) = Super Resistance + Purple","msgstr":"Эссенция удачи (чёрное) = Сверхсопротивление + фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin","msgstr":"Эссенция удачи = Ускорение + Героизм, Перезарядка предмета + Щит, Укрепление предмета + Каменная кожа"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might (Black) = Heroism + Red","msgstr":"Эссенция силы (чёрное) = Героизм + красное"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might = Remove Fear + Heroism","msgstr":"Эссенция силы = Снятие страха + Героизм"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality (Black) = Restoration + Blue","msgstr":"Эссенция личности (чёрное) = Восстановление + синее"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality = Remove Fear + Haste","msgstr":"Эссенция личности = Снятие страха + Ускорение"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed (Black) = Haste + Red","msgstr":"Эссенция скорости (чёрное) = Ускорение + красное"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed = Cure Insanity + Harden Item","msgstr":"Эссенция скорости = Исцеление безумия + Укрепление предмета"}
+{"msgctxt":"autonote or awards","msgid":"Extreme Energy (White) = Orange + Yellow","msgstr":"Предельная энергия (белое) = оранжевое + жёлтое"}
+{"msgctxt":"autonote or awards","msgid":"Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered","msgstr":"Сопротивление огню (белое) = зелье с красным и оранжевым слоями + зелье с жёлтым и зелёным слоями"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Green + Red and Orange Layered","msgstr":"Пылающее зелье (белое) = зелёное + слоистое красно-оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Purple + Yellow and Orange Layered","msgstr":"Пылающее зелье (белое) = фиолетовое + слоистое жёлто-оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Green + Red and Purple Layered","msgstr":"Замораживающее зелье (белое) = зелёное + слоистое красно-фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Orange + Blue and Purple Layered","msgstr":"Замораживающее зелье (белое) = оранжевое + слоистое сине-фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Harden Item (Yellow and Green Layered) = Yellow + Green","msgstr":"Укрепление предмета (слоистое жёлто-зелёное) = жёлтое + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Haste (Red and Orange Layered) = Red + Orange","msgstr":"Ускорение (слоистое красно-оранжевое) = красное + оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Haste (White) = Green + Yellow","msgstr":"Ускорение (белое) = зелёное + жёлтое"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (Red and Purple Layered) = Red + Purple","msgstr":"Героизм (слоистое красно-фиолетовое) = красное + фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (White) = Orange + Red","msgstr":"Героизм (белое) = оранжевое + красное"}
+{"msgctxt":"autonote or awards","msgid":"Intellect Boost (White) = Green + Yellow and Green Layered","msgstr":"Повышение интеллекта (белое) = зелёное + слоистое жёлто-зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"Повышение удачи (белое) = зелье с красным и фиолетовым слоями + зелье с синим и фиолетовым слоями"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"Сапоги удачи (белые) = зелье с красным и фиолетовым слоями + зелье с синим и фиолетовым слоями"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"Магическое зелье (синее) = Корень фимы + пустая бутылка.  Для усиления эффекта можно использовать разные синие реагенты."}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle","msgstr":"Магическое зелье (синее) = Корень фирны + пустая бутылка"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"Магическое зелье (синее) = Корень фирны + пустая бутылка.  Для усиления эффекта можно использовать разные синие реагенты."}
+{"msgctxt":"autonote or awards","msgid":"Might Boost (White) = Purple + Red and Purple Layered","msgstr":"Повышение силы (белое) = фиолетовое + слоистое красно-фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered","msgstr":"Сопротивление магии Разума (белое) = зелье с красным и фиолетовым слоями + зелье с синим и зелёным слоями"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Orange + Blue and Green Layered","msgstr":"Ядовитое зелье (белое) = оранжевое + слоистое сине-зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Purple + Yellow and Green Layered","msgstr":"Ядовитое зелье (белое) = фиолетовое + слоистое жёлто-зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Personality Boost (White) = Green + Blue and Green Layered","msgstr":"Повышение личности (белое) = зелёное + слоистое сине-зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity","msgstr":"Зелье Рока = Снятие проклятия + Снятие страха, Снятие проклятия + Исцеление безумия, Снятие страха + Исцеление безумия"}
+{"msgctxt":"autonote or awards","msgid":"Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.","msgstr":"Зелье Богов = Эссенция силы + Укрепление предмета или Эссенция интеллекта + Каменная кожа или Эссенция личности + Перезарядка предмета или Эссенция выносливости + Ускорение или Эссенция меткости + Щит или Эссенция скорости + Героизм."}
+{"msgctxt":"autonote or awards","msgid":"Preservation (Blue and Orange Layered) = Blue + Orange","msgstr":"Сохранение (слоистое сине-оранжевое) = синее + оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Protection (Orange) = Yellow + Red","msgstr":"Защита (оранжевое) = жёлтое + красное"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Cure Insanity + Bless","msgstr":"Защита от магии = Исцеление безумия + Благословение"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Curse + Water Breathing","msgstr":"Защита от магии = Снятие проклятия + Дыхание под водой"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Fear + Preservation","msgstr":"Защита от магии = Снятие страха + Сохранение"}
+{"msgctxt":"autonote or awards","msgid":"Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)","msgstr":"Чистая меткость (чёрное) = зелёное зелье + Повышение меткости (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Air Resistance = Essence of Luck + Air Resistance","msgstr":"Чистое сопротивление воздуху = Эссенция удачи + Сопротивление воздуху"}
+{"msgctxt":"autonote or awards","msgid":"Pure Body Resistance = Essence of Luck + Body Resistance","msgstr":"Чистое сопротивление магии Тела = Эссенция удачи + Сопротивление магии Тела"}
+{"msgctxt":"autonote or awards","msgid":"Pure Earth Resistance = Essence of Luck + Earth Resistance","msgstr":"Чистое сопротивление Земле = Эссенция удачи + Сопротивление Земле"}
+{"msgctxt":"autonote or awards","msgid":"Pure Endurance (Black) = Green Potion + Endurance Boost (White)","msgstr":"Чистая выносливость (чёрное) = зелёное зелье + Повышение выносливости (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Fire Resistance = Essence of Luck + Fire Resistance","msgstr":"Чистое сопротивление огню = Эссенция удачи + Сопротивление огню"}
+{"msgctxt":"autonote or awards","msgid":"Pure Intellect (Black) = Orange Potion + Intellect Boost (White)","msgstr":"Чистый интеллект (чёрное) = оранжевое зелье + Повышение интеллекта (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)","msgstr":"Чистая удача (чёрное) = зелье с жёлтым и оранжевым слоями + Зелье скорости (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Might (Black) = Orange Potion + Might Boost (White)","msgstr":"Чистая сила (чёрное) = оранжевое зелье + Повышение силы (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Mind Resistance = Essence of Luck + Mind Resistance","msgstr":"Чистое сопротивление магии Разума = Эссенция удачи + Сопротивление магии Разума"}
+{"msgctxt":"autonote or awards","msgid":"Pure Personality (Black) = Purple Potion + Personality Boost (White)","msgstr":"Чистая личность (чёрное) = фиолетовое зелье + Повышение личности (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Speed (Black) = Purple Potion + Speed Boost (White)","msgstr":"Чистая скорость (чёрное) = фиолетовое зелье + Повышение скорости (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Water Resistance = Essence of Luck + Water Resistance","msgstr":"Чистое сопротивление Воде = Эссенция удачи + Сопротивление Воде"}
+{"msgctxt":"autonote or awards","msgid":"Recharge Item (Blue and Green Layered) = Blue + Green","msgstr":"Перезарядка предмета (слоистое сине-зелёное) = синее + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)","msgstr":"Омоложение (чёрное) = зелье с синим и оранжевым слоями + Божественное восстановление (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Extreme Energy + Green","msgstr":"Омоложение (чёрное) = Предельная энергия + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)","msgstr":"Омоложение (чёрное) = зелье с красным и зелёным слоями + Божественное восстановление (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)","msgstr":"Омоложение (чёрное) = зелье с жёлтым и фиолетовым слоями + Божественное восстановление (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Remove Curse (Purple and Green Layered) = Purple + Green","msgstr":"Снятие проклятия (слоистое фиолетово-зелёное) = фиолетовое + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Remove Fear (Orange and Purple Layered) = Orange + Purple","msgstr":"Снятие страха (слоистое оранжево-фиолетовое) = оранжевое + фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Resistance (Green) = Yellow + Blue","msgstr":"Сопротивление (зелёное) = жёлтое + синее"}
+{"msgctxt":"autonote or awards","msgid":"Restoration(White) = Purple + Green","msgstr":"Восстановление(белое) = фиолетовое + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Shield (Blue and Purple Layered) = Blue + Purple","msgstr":"Щит (слоистое сине-фиолетовое) = синее + фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Orange + Red and Purple Layered","msgstr":"Электризующее зелье (белое) = оранжевое + слоистое красно-фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Purple + Red and Orange Layered","msgstr":"Электризующее зелье (белое) = фиолетовое + слоистое красно-оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)","msgstr":"Смертоносное зелье (чёрное) = зелье с синим и фиолетовым слоями + Пылающее зелье (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Speed Boost (White) = Orange + Red and Orange Layered","msgstr":"Повышение скорости (белое) = оранжевое + слоистое красно-оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Stone Skin (White) = Orange + Blue","msgstr":"Каменная кожа (белое) = оранжевое + синее"}
+{"msgctxt":"autonote or awards","msgid":"Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)","msgstr":"Камень в плоть (чёрное) = зелье с красным и фиолетовым слоями + Снятие паралича (белое)"}
+{"msgctxt":"autonote or awards","msgid":"Stoneskin (Yellow and Orange Layered) = Yellow + Orange","msgstr":"Каменная кожа (слоистое жёлто-оранжевое) = жёлтое + оранжевое"}
+{"msgctxt":"autonote or awards","msgid":"Super Resistance (White) = Green + Blue","msgstr":"Сверхсопротивление (белое) = зелёное + синее"}
+{"msgctxt":"autonote or awards","msgid":"Supreme Protection (White) = Orange + Green","msgstr":"Высшая защита (белое) = оранжевое + зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Green + Blue and Purple Layered","msgstr":"Зелье скорости (белое) = зелёное + слоистое сине-фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Purple + Blue and Green Layered","msgstr":"Зелье скорости (белое) = фиолетовое + слоистое сине-зелёное"}
+{"msgctxt":"autonote or awards","msgid":"Water Breathing (Yellow and Purple Layered) = Yellow + Purple","msgstr":"Дыхание под водой (слоистое жёлто-фиолетовое) = жёлтое + фиолетовое"}
+{"msgctxt":"autonote or awards","msgid":"Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered","msgstr":"Сопротивление Воде (белое) = зелье с синим и фиолетовым слоями + зелье с жёлтым и зелёным слоями"}
+{"msgctxt":"class","msgid":"Arch Druid","msgstr":"Архидруид"}
+{"msgctxt":"class","msgid":"Arch Mage","msgstr":"Архимаг"}
+{"msgctxt":"class","msgid":"Archer","msgstr":"Лучник"}
+{"msgctxt":"class","msgid":"Assassin","msgstr":"Ассасин"}
+{"msgctxt":"class","msgid":"Battle Mage","msgstr":"Боевой маг"}
+{"msgctxt":"class","msgid":"Black Knight","msgstr":"Тёмный рыцарь"}
+{"msgctxt":"class","msgid":"Bounty Hunter","msgstr":"Охотник за головами"}
+{"msgctxt":"class","msgid":"Cavalier","msgstr":"Кавалер"}
+{"msgctxt":"class","msgid":"Champion","msgstr":"Чемпион"}
+{"msgctxt":"class","msgid":"Cleric","msgstr":"Клирик"}
+{"msgctxt":"class","msgid":"Crusader","msgstr":"Крестоносец"}
+{"msgctxt":"class","msgid":"Dark Elf","msgstr":"Тёмный эльф"}
+{"msgctxt":"class","msgid":"Dark Elf Patriarch","msgstr":"Патриарх тёмных эльфов"}
+{"msgctxt":"class","msgid":"Dragon","msgstr":"Дракон"}
+{"msgctxt":"class","msgid":"Druid","msgstr":"Друид"}
+{"msgctxt":"class","msgid":"Great Druid","msgstr":"Великий друид"}
+{"msgctxt":"class","msgid":"Great Wyrm","msgstr":"Великий змий"}
+{"msgctxt":"class","msgid":"Hero","msgstr":"Герой"}
+{"msgctxt":"class","msgid":"High Priest","msgstr":"Верховный священник"}
+{"msgctxt":"class","msgid":"Hunter","msgstr":"Охотник"}
+{"msgctxt":"class","msgid":"Initiate","msgstr":"Посвящённый"}
+{"msgctxt":"class","msgid":"Knight","msgstr":"Рыцарь"}
+{"msgctxt":"class","msgid":"Lich","msgstr":"Лич"}
+{"msgctxt":"class","msgid":"Master","msgstr":"Мастер"}
+{"msgctxt":"class","msgid":"Master Archer","msgstr":"Мастер-лучник"}
+{"msgctxt":"class","msgid":"Master Necromancer","msgstr":"Мастер-некромант"}
+{"msgctxt":"class","msgid":"Master Wizard","msgstr":"Мастер-волшебник"}
+{"msgctxt":"class","msgid":"Minotaur","msgstr":"Минотавр"}
+{"msgctxt":"class","msgid":"Minotaur Lord","msgstr":"Минотавр-лорд"}
+{"msgctxt":"class","msgid":"Monk","msgstr":"Монах"}
+{"msgctxt":"class","msgid":"Necromancer","msgstr":"Некромант"}
+{"msgctxt":"class","msgid":"Ninja","msgstr":"Ниндзя"}
+{"msgctxt":"class","msgid":"Nosferatu","msgstr":"Носферату"}
+{"msgctxt":"class","msgid":"Paladin","msgstr":"Паладин"}
+{"msgctxt":"class","msgid":"Patriarch","msgstr":"Патриарх"}
+{"msgctxt":"class","msgid":"Peasant","msgstr":"Крестьянин"}
+{"msgctxt":"class","msgid":"Priest","msgstr":"Священник"}
+{"msgctxt":"class","msgid":"Priest of Light","msgstr":"Священник Света"}
+{"msgctxt":"class","msgid":"Priest of the Dark","msgstr":"Священник Тьмы"}
+{"msgctxt":"class","msgid":"Priest of the Light","msgstr":"Священник Света"}
+{"msgctxt":"class","msgid":"Priest of the Sun","msgstr":"Священник Солнца"}
+{"msgctxt":"class","msgid":"Ranger","msgstr":"Рейнджер"}
+{"msgctxt":"class","msgid":"Ranger Lord","msgstr":"Лорд-рейнджер"}
+{"msgctxt":"class","msgid":"Rogue","msgstr":"Плут"}
+{"msgctxt":"class","msgid":"Sniper","msgstr":"Снайпер"}
+{"msgctxt":"class","msgid":"Sorcerer","msgstr":"Чародей"}
+{"msgctxt":"class","msgid":"Spy","msgstr":"Шпион"}
+{"msgctxt":"class","msgid":"Thief","msgstr":"Вор"}
+{"msgctxt":"class","msgid":"Troll","msgstr":"Тролль"}
+{"msgctxt":"class","msgid":"Vampire","msgstr":"Вампир"}
+{"msgctxt":"class","msgid":"Villain","msgstr":"Злодей"}
+{"msgctxt":"class","msgid":"War Troll","msgstr":"Боевой тролль"}
+{"msgctxt":"class","msgid":"Warlock","msgstr":"Чернокнижник"}
+{"msgctxt":"class","msgid":"Warrior Mage","msgstr":"Воин-маг"}
+{"msgctxt":"class","msgid":"Wizard","msgstr":"Волшебник"}
+{"msgctxt":"condition","msgid":"Afraid","msgstr":"Напуган(а)"}
+{"msgctxt":"condition","msgid":"Asleep","msgstr":"Спит"}
+{"msgctxt":"condition","msgid":"Cursed","msgstr":"Проклятие"}
+{"msgctxt":"condition","msgid":"Dead","msgstr":"Мёртв(а)"}
+{"msgctxt":"condition","msgid":"Diseased","msgstr":"Болезнь"}
+{"msgctxt":"condition","msgid":"Drunk","msgstr":"Пьян(а)"}
+{"msgctxt":"condition","msgid":"Eradicated","msgstr":"Уничтожен(а)"}
+{"msgctxt":"condition","msgid":"Good","msgstr":"Здоров(а)"}
+{"msgctxt":"condition","msgid":"Insane","msgstr":"Безумие"}
+{"msgctxt":"condition","msgid":"Paralyzed","msgstr":"Парализован(а)"}
+{"msgctxt":"condition","msgid":"Poison","msgstr":"Отравление"}
+{"msgctxt":"condition","msgid":"Stoned","msgstr":"Окаменение"}
+{"msgctxt":"condition","msgid":"Unconscious","msgstr":"Без сознания"}
+{"msgctxt":"condition","msgid":"Weak","msgstr":"Слаб(а)"}
+{"msgctxt":"condition","msgid":"Zombie","msgstr":"Зомби"}
+{"msgctxt":"items","msgid":"Abbey Normal Golem Head","msgstr":"Обычная голова голема Эбби"}
+{"msgctxt":"items","msgid":"Accuracy Boost","msgstr":"Повышение меткости"}
+{"msgctxt":"items","msgid":"Accuracy Boost Recipe","msgstr":"Рецепт «Повышение меткости»"}
+{"msgctxt":"items","msgid":"Accurate Crossbow","msgstr":"Точный арбалет"}
+{"msgctxt":"items","msgid":"Aegis","msgstr":"Эгида"}
+{"msgctxt":"items","msgid":"Air Resistance","msgstr":"Сопротивление воздуху"}
+{"msgctxt":"items","msgid":"Air Resistance Recipe","msgstr":"Рецепт «Сопротивление воздуху»"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Acid","msgstr":"Алакорновый жезл кислоты"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Blades","msgstr":"Алакорновый жезл Лезвий"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Charms","msgstr":"Алакорновый жезл Очарований"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Fireballs","msgstr":"Алакорновый жезл огненных шаров"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Ice","msgstr":"Жезл льда алакорна"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Lightning","msgstr":"Алакорновый жезл молнии"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Swarms","msgstr":"Алакорновый жезл Роя"}
+{"msgctxt":"items","msgid":"Alloyed Shield","msgstr":"Легированный щит"}
+{"msgctxt":"items","msgid":"Almighty Crown","msgstr":"Корона всемогущества"}
+{"msgctxt":"items","msgid":"Altar Piece","msgstr":"Часть алтаря"}
+{"msgctxt":"items","msgid":"Alvar Cloak","msgstr":"Плащ Альвара"}
+{"msgctxt":"items","msgid":"Alvarian Boots","msgstr":"Альварские сапоги"}
+{"msgctxt":"items","msgid":"Alvarian Leather","msgstr":"Альварские кожаные доспехи"}
+{"msgctxt":"items","msgid":"Alvarian Poignard","msgstr":"Альварский кинжал"}
+{"msgctxt":"items","msgid":"Amber","msgstr":"Янтарь"}
+{"msgctxt":"items","msgid":"Amethyst","msgstr":"Аметист"}
+{"msgctxt":"items","msgid":"Amethyst Ring","msgstr":"Кольцо с аметистом"}
+{"msgctxt":"items","msgid":"Amuck","msgstr":"Амок"}
+{"msgctxt":"items","msgid":"Amythest","msgstr":"Аметист"}
+{"msgctxt":"items","msgid":"Ancient Amulet","msgstr":"Древний амулет"}
+{"msgctxt":"items","msgid":"Angel Statue Painting","msgstr":"Картина «Статуя ангела»"}
+{"msgctxt":"items","msgid":"Angel Statuette","msgstr":"Статуэтка ангела"}
+{"msgctxt":"items","msgid":"Angel's Ring","msgstr":"Кольцо ангела"}
+{"msgctxt":"items","msgid":"Angelic Helm","msgstr":"Ангельский шлем"}
+{"msgctxt":"items","msgid":"Ania Selving","msgstr":"Ания Селвинг"}
+{"msgctxt":"items","msgid":"Ankh","msgstr":"Анх"}
+{"msgctxt":"items","msgid":"Anointed Herb Potion","msgstr":"Зелье из освящённых трав"}
+{"msgctxt":"items","msgid":"Aphrodite","msgstr":"Афродита"}
+{"msgctxt":"items","msgid":"Apollo","msgstr":"Аполлон"}
+{"msgctxt":"items","msgid":"Apple","msgstr":"Яблоко"}
+{"msgctxt":"items","msgid":"Arcane Key","msgstr":"Чародейский ключ"}
+{"msgctxt":"items","msgid":"Arcane Wand of Blasting","msgstr":"Чародейский жезл взрыва"}
+{"msgctxt":"items","msgid":"Arcane Wand of Clouds","msgstr":"Чародейский жезл Облаков"}
+{"msgctxt":"items","msgid":"Arcane Wand of Lightning","msgstr":"Чародейский жезл молнии"}
+{"msgctxt":"items","msgid":"Arcane Wand of Paralyzing","msgstr":"Чародейский жезл паралича"}
+{"msgctxt":"items","msgid":"Arcane Wand of Rocks","msgstr":"Чародейский жезл камнепада"}
+{"msgctxt":"items","msgid":"Arcane Wand of the Fist","msgstr":"Чародейский жезл Кулака"}
+{"msgctxt":"items","msgid":"Archangel Broadsword","msgstr":"Палаш архангела"}
+{"msgctxt":"items","msgid":"Archangel Wings","msgstr":"Крылья архангела"}
+{"msgctxt":"items","msgid":"Archibald Ironfist Painting","msgstr":"Портрет Арчибальда Айронфиста"}
+{"msgctxt":"items","msgid":"Arcomage Deck","msgstr":"Колода «Аркомага»"}
+{"msgctxt":"items","msgid":"Ares","msgstr":"Арес"}
+{"msgctxt":"items","msgid":"Armored Boots","msgstr":"Бронированные сапоги"}
+{"msgctxt":"items","msgid":"Artemis","msgstr":"Артемида"}
+{"msgctxt":"items","msgid":"Arthur","msgstr":"Артур"}
+{"msgctxt":"items","msgid":"Artificer's Belt","msgstr":"Пояс артефактора"}
+{"msgctxt":"items","msgid":"Assassin's Dagger","msgstr":"Кинжал ассасина"}
+{"msgctxt":"items","msgid":"Astral Shield","msgstr":"Астральный щит"}
+{"msgctxt":"items","msgid":"Athena","msgstr":"Афина"}
+{"msgctxt":"items","msgid":"Atlas","msgstr":"Атлас"}
+{"msgctxt":"items","msgid":"Awaken","msgstr":"Пробуждение"}
+{"msgctxt":"items","msgid":"Axe of Balthazar","msgstr":"Топор Бальтазара"}
+{"msgctxt":"items","msgid":"Back Door Key","msgstr":"Ключ от задней двери"}
+{"msgctxt":"items","msgid":"Ball of Dunduck","msgstr":"Головка сыра «Дандак»"}
+{"msgctxt":"items","msgid":"Banded Plate","msgstr":"Наборные латы"}
+{"msgctxt":"items","msgid":"Barbed Club","msgstr":"Дубинка с зазубринами"}
+{"msgctxt":"items","msgid":"Barbed Trident","msgstr":"Шипастый трезубец"}
+{"msgctxt":"items","msgid":"Barrow Key","msgstr":"Ключ от кургана"}
+{"msgctxt":"items","msgid":"Basic Cryptography","msgstr":"Основы криптографии"}
+{"msgctxt":"items","msgid":"Bathhouse Key","msgstr":"Ключ от бани"}
+{"msgctxt":"items","msgid":"Battle Axe","msgstr":"Боевой топор"}
+{"msgctxt":"items","msgid":"Battle Hatchet","msgstr":"Боевой топорик"}
+{"msgctxt":"items","msgid":"Battle Helm","msgstr":"Боевой шлем"}
+{"msgctxt":"items","msgid":"Battleaxe","msgstr":"Боевой топор"}
+{"msgctxt":"items","msgid":"Beaked Halberd","msgstr":"Алебарда с клювом"}
+{"msgctxt":"items","msgid":"Bear Statuette","msgstr":"Статуэтка медведя"}
+{"msgctxt":"items","msgid":"Berserk","msgstr":"Берсерк"}
+{"msgctxt":"items","msgid":"Berserker Belt","msgstr":"Пояс берсерка"}
+{"msgctxt":"items","msgid":"Bibliotheca Chest Key","msgstr":"Ключ от сундука Библиотеки"}
+{"msgctxt":"items","msgid":"Big Brass Ring","msgstr":"Большое латунное кольцо"}
+{"msgctxt":"items","msgid":"Big Tapestry","msgstr":"Большой гобелен"}
+{"msgctxt":"items","msgid":"Bill of Sale","msgstr":"Купчая"}
+{"msgctxt":"items","msgid":"Blackmail Letter","msgstr":"Шантажное письмо"}
+{"msgctxt":"items","msgid":"Blade of Mercy","msgstr":"Клинок милосердия"}
+{"msgctxt":"items","msgid":"Blaster","msgstr":"Бластер"}
+{"msgctxt":"items","msgid":"Blaster Rifle","msgstr":"Бластерная винтовка"}
+{"msgctxt":"items","msgid":"Bless","msgstr":"Благословение"}
+{"msgctxt":"items","msgid":"Blessed Ring","msgstr":"Благословенное кольцо"}
+{"msgctxt":"items","msgid":"Blood Dagger","msgstr":"Кровавый кинжал"}
+{"msgctxt":"items","msgid":"Blood Drop Crossbow","msgstr":"Арбалет «Капля крови»"}
+{"msgctxt":"items","msgid":"Blood Talisman","msgstr":"Кровавый талисман"}
+{"msgctxt":"items","msgid":"Blue Quartz","msgstr":"Голубой кварц"}
+{"msgctxt":"items","msgid":"Body Resistance","msgstr":"Сопротивление магии Тела"}
+{"msgctxt":"items","msgid":"Body Resistance Recipe","msgstr":"Рецепт «Сопротивление магии Тела»"}
+{"msgctxt":"items","msgid":"Bone","msgstr":"Кость"}
+{"msgctxt":"items","msgid":"Bone of Doom","msgstr":"Кость Рока"}
+{"msgctxt":"items","msgid":"Bone Staff","msgstr":"Костяной посох"}
+{"msgctxt":"items","msgid":"Brass Charm","msgstr":"Латунная подвеска"}
+{"msgctxt":"items","msgid":"Brass Ring","msgstr":"Латунное кольцо"}
+{"msgctxt":"items","msgid":"Breaker","msgstr":"Сокрушитель"}
+{"msgctxt":"items","msgid":"Broadsword","msgstr":"Палаш"}
+{"msgctxt":"items","msgid":"Bronze Amulet","msgstr":"Бронзовый амулет"}
+{"msgctxt":"items","msgid":"Bronze Ring","msgstr":"Бронзовое кольцо"}
+{"msgctxt":"items","msgid":"Bronze Shield","msgstr":"Бронзовый щит"}
+{"msgctxt":"items","msgid":"Calvary Shield","msgstr":"Кавалерийский щит"}
+{"msgctxt":"items","msgid":"Candelabra","msgstr":"Канделябр"}
+{"msgctxt":"items","msgid":"Cannon Design Notes","msgstr":"Заметки о конструкции пушки"}
+{"msgctxt":"items","msgid":"Cannonball of Dominion","msgstr":"Пушечное ядро Владычества"}
+{"msgctxt":"items","msgid":"Captain's Code","msgstr":"Кодекс капитана"}
+{"msgctxt":"items","msgid":"Captain's Cutlass","msgstr":"Абордажная сабля капитана"}
+{"msgctxt":"items","msgid":"Caravaner's Crossbow","msgstr":"Арбалет караванщика"}
+{"msgctxt":"items","msgid":"Caravaner's Leather","msgstr":"Кожаные доспехи караванщика"}
+{"msgctxt":"items","msgid":"Caravaner's Small Shield","msgstr":"Малый щит караванщика"}
+{"msgctxt":"items","msgid":"Cardinal Cloak","msgstr":"Плащ кардинала"}
+{"msgctxt":"items","msgid":"Case of Soul Jars","msgstr":"Ящик с сосудами душ"}
+{"msgctxt":"items","msgid":"Castle Shield","msgstr":"Крепостной щит"}
+{"msgctxt":"items","msgid":"Catalyst","msgstr":"Катализатор"}
+{"msgctxt":"items","msgid":"Catherine's Key","msgstr":"Ключ Катерины"}
+{"msgctxt":"items","msgid":"Cavalier Gauntlets","msgstr":"Латные рукавицы кавалера"}
+{"msgctxt":"items","msgid":"Celestial Shield","msgstr":"Небесный щит"}
+{"msgctxt":"items","msgid":"Cell Key","msgstr":"Ключ от камеры"}
+{"msgctxt":"items","msgid":"Central Pillar Key","msgstr":"Ключ от центрального столпа"}
+{"msgctxt":"items","msgid":"Certificate of Authentication","msgstr":"Сертификат подлинности"}
+{"msgctxt":"items","msgid":"Chain Mail","msgstr":"Кольчуга"}
+{"msgctxt":"items","msgid":"Champion Sword","msgstr":"Меч чемпиона"}
+{"msgctxt":"items","msgid":"Champion's Sword","msgstr":"Меч чемпиона"}
+{"msgctxt":"items","msgid":"Charele","msgstr":"Чарель"}
+{"msgctxt":"items","msgid":"Charged connector stone","msgstr":"Заряженный связующий камень"}
+{"msgctxt":"items","msgid":"Chest Key","msgstr":"Ключ от сундука"}
+{"msgctxt":"items","msgid":"Chime of Harmony","msgstr":"Колокольчик гармонии"}
+{"msgctxt":"items","msgid":"Cipher","msgstr":"Шифр"}
+{"msgctxt":"items","msgid":"Citrine","msgstr":"Цитрин"}
+{"msgctxt":"items","msgid":"Clanker's Amulet","msgstr":"Амулет Кланкера"}
+{"msgctxt":"items","msgid":"Claw Amulet","msgstr":"Амулет с когтем"}
+{"msgctxt":"items","msgid":"Cloak of Baa","msgstr":"Плащ Баа"}
+{"msgctxt":"items","msgid":"Cloak of the Sheep","msgstr":"Овечий плащ"}
+{"msgctxt":"items","msgid":"Cloth Hat","msgstr":"Матерчатая шапка"}
+{"msgctxt":"items","msgid":"Club","msgstr":"Дубинка"}
+{"msgctxt":"items","msgid":"Cobra Egg","msgstr":"Яйцо кобры"}
+{"msgctxt":"items","msgid":"Colony Zod Key","msgstr":"Ключ от Колонии Зод"}
+{"msgctxt":"items","msgid":"Common Halberd","msgstr":"Обычная алебарда"}
+{"msgctxt":"items","msgid":"Communication Officer's Code","msgstr":"Код офицера связи"}
+{"msgctxt":"items","msgid":"Composite Bow","msgstr":"Составной лук"}
+{"msgctxt":"items","msgid":"Conan","msgstr":"Конан"}
+{"msgctxt":"items","msgid":"Conflux Key","msgstr":"Ключ Сопряжения"}
+{"msgctxt":"items","msgid":"Connector stone","msgstr":"Связующий камень"}
+{"msgctxt":"items","msgid":"Conscript's Helm","msgstr":"Шлем призывника"}
+{"msgctxt":"items","msgid":"Contestant's Shield","msgstr":"Щит участника состязаний"}
+{"msgctxt":"items","msgid":"Control Cube","msgstr":"Куб управления"}
+{"msgctxt":"items","msgid":"Control Undead","msgstr":"Контроль над нежитью"}
+{"msgctxt":"items","msgid":"Corsair","msgstr":"Корсар"}
+{"msgctxt":"items","msgid":"Crate of Arrowheads","msgstr":"Ящик с наконечниками стрел"}
+{"msgctxt":"items","msgid":"Crate of Enrothian Wine","msgstr":"Ящик с энротским вином"}
+{"msgctxt":"items","msgid":"Crate of Glass Bottles","msgstr":"Ящик со стеклянными бутылками"}
+{"msgctxt":"items","msgid":"Crate of Griffin Feathers","msgstr":"Ящик с перьями грифона"}
+{"msgctxt":"items","msgid":"Crate of Sand","msgstr":"Ящик с песком"}
+{"msgctxt":"items","msgid":"Crate of Tularean Wood","msgstr":"Ящик с тулареанской древесиной"}
+{"msgctxt":"items","msgid":"Cronos","msgstr":"Кронос"}
+{"msgctxt":"items","msgid":"Crossbow","msgstr":"Арбалет"}
+{"msgctxt":"items","msgid":"Crown","msgstr":"Корона"}
+{"msgctxt":"items","msgid":"Crown of Final Dominion","msgstr":"Корона абсолютного владычества"}
+{"msgctxt":"items","msgid":"Crude Axe","msgstr":"Грубый топор"}
+{"msgctxt":"items","msgid":"Crude Bow","msgstr":"Грубый лук"}
+{"msgctxt":"items","msgid":"Crude Crossbow","msgstr":"Грубый арбалет"}
+{"msgctxt":"items","msgid":"Crude Dagger","msgstr":"Грубый кинжал"}
+{"msgctxt":"items","msgid":"Crude Leather Armor","msgstr":"Грубые кожаные доспехи"}
+{"msgctxt":"items","msgid":"Crude Longbow","msgstr":"Грубый длинный лук"}
+{"msgctxt":"items","msgid":"Crude Longsword","msgstr":"Длинный меч грубой работы"}
+{"msgctxt":"items","msgid":"Crude Mace","msgstr":"Грубая булава"}
+{"msgctxt":"items","msgid":"Crude Spear","msgstr":"Грубое копьё"}
+{"msgctxt":"items","msgid":"Crude Trident","msgstr":"Грубый трезубец"}
+{"msgctxt":"items","msgid":"Cruel Spear","msgstr":"Жестокое копьё"}
+{"msgctxt":"items","msgid":"Crusader Sword","msgstr":"Меч крестоносца"}
+{"msgctxt":"items","msgid":"Crusader's Gauntlets","msgstr":"Латные рукавицы крестоносца"}
+{"msgctxt":"items","msgid":"Crushed Rose Petals","msgstr":"Измельчённые лепестки розы"}
+{"msgctxt":"items","msgid":"Crystal Dagger","msgstr":"Кристальный кинжал"}
+{"msgctxt":"items","msgid":"Crystal of Terrax","msgstr":"Кристалл Терракса"}
+{"msgctxt":"items","msgid":"Crystal Skull","msgstr":"Хрустальный череп"}
+{"msgctxt":"items","msgid":"Cure Disease","msgstr":"Излечение болезни"}
+{"msgctxt":"items","msgid":"Cure Insanity","msgstr":"Исцеление безумия"}
+{"msgctxt":"items","msgid":"Cure Paralysis","msgstr":"Снятие паралича"}
+{"msgctxt":"items","msgid":"Cure Paralysis Recipe","msgstr":"Рецепт «Снятие паралича»"}
+{"msgctxt":"items","msgid":"Cure Poison","msgstr":"Лечение отравления"}
+{"msgctxt":"items","msgid":"Cure Weakness","msgstr":"Исцеление слабости"}
+{"msgctxt":"items","msgid":"Cure Wounds","msgstr":"Лечение ран"}
+{"msgctxt":"items","msgid":"Cutlass","msgstr":"Абордажная сабля"}
+{"msgctxt":"items","msgid":"Cycle of Life","msgstr":"Круговорот жизни"}
+{"msgctxt":"items","msgid":"Dadeross' Letter to Fellmoon","msgstr":"Письмо Дадеросса Феллмуну"}
+{"msgctxt":"items","msgid":"Dagger","msgstr":"Кинжал"}
+{"msgctxt":"items","msgid":"Dagger Wound Oddities","msgstr":"Диковинки Кинжальной Раны"}
+{"msgctxt":"items","msgid":"Dark Containment","msgstr":"Тёмное заточение"}
+{"msgctxt":"items","msgid":"Dark Elven Bastard Sword","msgstr":"Полуторный меч тёмных эльфов"}
+{"msgctxt":"items","msgid":"Dark Elven Longsword","msgstr":"Длинный меч тёмных эльфов"}
+{"msgctxt":"items","msgid":"Dark Grasp","msgstr":"Хватка Тьмы"}
+{"msgctxt":"items","msgid":"Dark Hammer","msgstr":"Молот тьмы"}
+{"msgctxt":"items","msgid":"Dark Knight Plate","msgstr":"Латы тёмного рыцаря"}
+{"msgctxt":"items","msgid":"Datura","msgstr":"Дурман"}
+{"msgctxt":"items","msgid":"Dazzling Ring","msgstr":"Ослепительное кольцо"}
+{"msgctxt":"items","msgid":"Death Head Shield","msgstr":"Щит с черепом"}
+{"msgctxt":"items","msgid":"Death Mace","msgstr":"Булава смерти"}
+{"msgctxt":"items","msgid":"Death's Head Pendant","msgstr":"Кулон «Голова смерти»"}
+{"msgctxt":"items","msgid":"Deck of Fate","msgstr":"Колода судьбы"}
+{"msgctxt":"items","msgid":"Defender Helm","msgstr":"Шлем защитника"}
+{"msgctxt":"items","msgid":"Detect Life","msgstr":"Обнаружение жизни"}
+{"msgctxt":"items","msgid":"Devil Plans","msgstr":"Планы дьяволов"}
+{"msgctxt":"items","msgid":"Devilbone Bow","msgstr":"Лук из дьявольской кости"}
+{"msgctxt":"items","msgid":"Diamond","msgstr":"Алмаз"}
+{"msgctxt":"items","msgid":"Diary Page","msgstr":"Страница дневника"}
+{"msgctxt":"items","msgid":"Dimension door","msgstr":"Дверь измерений"}
+{"msgctxt":"items","msgid":"Dire Wolf Pelt","msgstr":"Шкура лютого волка"}
+{"msgctxt":"items","msgid":"Discharge Papers","msgstr":"Документы об увольнении"}
+{"msgctxt":"items","msgid":"Disheveled Chain Mail","msgstr":"Потрёпанная кольчуга"}
+{"msgctxt":"items","msgid":"Divine Boost ","msgstr":"Божественное усиление "}
+{"msgctxt":"items","msgid":"Divine Boost recipe","msgstr":"Рецепт Божественного усиления"}
+{"msgctxt":"items","msgid":"Divine Cure","msgstr":"Божественное исцеление"}
+{"msgctxt":"items","msgid":"Divine Cure Recipe","msgstr":"Рецепт Божественного исцеления"}
+{"msgctxt":"items","msgid":"Divine Dagger","msgstr":"Божественный кинжал"}
+{"msgctxt":"items","msgid":"Divine Magic","msgstr":"Божественная магия"}
+{"msgctxt":"items","msgid":"Divine Power","msgstr":"Божественная сила"}
+{"msgctxt":"items","msgid":"Divine Power Recipe","msgstr":"Рецепт Божественной силы"}
+{"msgctxt":"items","msgid":"Divine Protection","msgstr":"Божественная защита"}
+{"msgctxt":"items","msgid":"Divine Protection recipe","msgstr":"Рецепт «Божественная защита»"}
+{"msgctxt":"items","msgid":"Divine Restoration","msgstr":"Божественное восстановление"}
+{"msgctxt":"items","msgid":"Divine Restoration Recipe","msgstr":"Рецепт «Божественное восстановление»"}
+{"msgctxt":"items","msgid":"Divine Transcendence","msgstr":"Божественное преображение"}
+{"msgctxt":"items","msgid":"Divine Transcendence recipe","msgstr":"Рецепт «Божественное преображение»"}
+{"msgctxt":"items","msgid":"Doctor's Code","msgstr":"Кодекс врача"}
+{"msgctxt":"items","msgid":"Doom's Day Cloak","msgstr":"Плащ Судного дня"}
+{"msgctxt":"items","msgid":"Dragon Claw","msgstr":"Коготь дракона"}
+{"msgctxt":"items","msgid":"Dragon Egg","msgstr":"Яйцо дракона"}
+{"msgctxt":"items","msgid":"Dragon Harpoon","msgstr":"Драконий гарпун"}
+{"msgctxt":"items","msgid":"Dragon Helm","msgstr":"Шлем дракона"}
+{"msgctxt":"items","msgid":"Dragon Hide Gauntlets","msgstr":"Латные рукавицы из драконьей кожи"}
+{"msgctxt":"items","msgid":"Dragon Hunter's Shield","msgstr":"Щит охотника на драконов"}
+{"msgctxt":"items","msgid":"Dragon Leader's Egg","msgstr":"Яйцо предводителя драконов"}
+{"msgctxt":"items","msgid":"Dragon Leather","msgstr":"Кожа дракона"}
+{"msgctxt":"items","msgid":"Dragon Statuette","msgstr":"Статуэтка дракона"}
+{"msgctxt":"items","msgid":"Dragon Tower Keys","msgstr":"Ключи от Драконьей башни"}
+{"msgctxt":"items","msgid":"Dragon Turtle Fang","msgstr":"Клык драконьей черепахи"}
+{"msgctxt":"items","msgid":"Dragon's Eye","msgstr":"Глаз дракона"}
+{"msgctxt":"items","msgid":"Dragonbane Flower","msgstr":"Цветок «Погибель драконов»"}
+{"msgctxt":"items","msgid":"Dragoning Plate","msgstr":"Драконьи латы"}
+{"msgctxt":"items","msgid":"Dragonning Blade","msgstr":"Драконий клинок"}
+{"msgctxt":"items","msgid":"Dragonning Boots","msgstr":"Драконьи сапоги"}
+{"msgctxt":"items","msgid":"Dried Sunfish","msgstr":"Сушёная солнечная рыба"}
+{"msgctxt":"items","msgid":"Drogg's Helm","msgstr":"Шлем Дрогга"}
+{"msgctxt":"items","msgid":"Druid Circlet of Power","msgstr":"Друидский венец Силы"}
+{"msgctxt":"items","msgid":"Drum of Victory","msgstr":"Барабан Победы"}
+{"msgctxt":"items","msgid":"Dueling Long Dagger","msgstr":"Дуэльный длинный кинжал"}
+{"msgctxt":"items","msgid":"Duelist Blade","msgstr":"Клинок дуэлянта"}
+{"msgctxt":"items","msgid":"Dwarven Axe","msgstr":"Гномий топор"}
+{"msgctxt":"items","msgid":"Dwarven Battleaxe","msgstr":"Гномий боевой топор"}
+{"msgctxt":"items","msgid":"Dwarven Dagger","msgstr":"Гномий кинжал"}
+{"msgctxt":"items","msgid":"Dwarven Hammer","msgstr":"Гномий молот"}
+{"msgctxt":"items","msgid":"Dwarven Morningstar","msgstr":"Гномья утренняя звезда"}
+{"msgctxt":"items","msgid":"Eagle Statuette","msgstr":"Статуэтка орла"}
+{"msgctxt":"items","msgid":"Earth Resistance","msgstr":"Сопротивление Земле"}
+{"msgctxt":"items","msgid":"Earth Resistance Recipe","msgstr":"Рецепт «Сопротивление Земле»"}
+{"msgctxt":"items","msgid":"East Pillar Key","msgstr":"Ключ восточного столпа"}
+{"msgctxt":"items","msgid":"Ebonest","msgstr":"Эбонест"}
+{"msgctxt":"items","msgid":"Eclipse","msgstr":"Затмение"}
+{"msgctxt":"items","msgid":"Elderaxe","msgstr":"Секира древних"}
+{"msgctxt":"items","msgid":"Eldritch Shield","msgstr":"Мистический щит"}
+{"msgctxt":"items","msgid":"Elegant Cloak","msgstr":"Элегантный плащ"}
+{"msgctxt":"items","msgid":"Elegant Letter","msgstr":"Изысканное письмо"}
+{"msgctxt":"items","msgid":"Elfbane","msgstr":"Гибель эльфов"}
+{"msgctxt":"items","msgid":"Elite Halberd","msgstr":"Элитная алебарда"}
+{"msgctxt":"items","msgid":"Elite Minotaur Axe","msgstr":"Элитный топор минотавра"}
+{"msgctxt":"items","msgid":"Elixir","msgstr":"Эликсир"}
+{"msgctxt":"items","msgid":"Elsenrail","msgstr":"Элсенрейл"}
+{"msgctxt":"items","msgid":"Elven Bow","msgstr":"Эльфийский лук"}
+{"msgctxt":"items","msgid":"Elven Chainmail","msgstr":"Эльфийская кольчуга"}
+{"msgctxt":"items","msgid":"Elven Cloak","msgstr":"Эльфийский плащ"}
+{"msgctxt":"items","msgid":"Elven Long Spear","msgstr":"Эльфийское длинное копьё"}
+{"msgctxt":"items","msgid":"Elven Longbow","msgstr":"Эльфийский длинный лук"}
+{"msgctxt":"items","msgid":"Elven Saber","msgstr":"Эльфийская сабля"}
+{"msgctxt":"items","msgid":"Elven Spear","msgstr":"Эльфийское копьё"}
+{"msgctxt":"items","msgid":"Elven Warbow","msgstr":"Эльфийский боевой лук"}
+{"msgctxt":"items","msgid":"Elvish Toadstool","msgstr":"Эльфийская поганка"}
+{"msgctxt":"items","msgid":"Emerald","msgstr":"Изумруд"}
+{"msgctxt":"items","msgid":"Emerald Ring","msgstr":"Изумрудное кольцо"}
+{"msgctxt":"items","msgid":"Emerald Staff","msgstr":"Изумрудный посох"}
+{"msgctxt":"items","msgid":"Emperor Thorn's Key","msgstr":"Ключ императора Торна"}
+{"msgctxt":"items","msgid":"Empty Message Scroll","msgstr":"Пустой свиток для послания"}
+{"msgctxt":"items","msgid":"Enchanted Amulet","msgstr":"Заколдованный амулет"}
+{"msgctxt":"items","msgid":"Enchanted Leather","msgstr":"Зачарованные кожаные доспехи"}
+{"msgctxt":"items","msgid":"Enchanted Ring","msgstr":"Зачарованное кольцо"}
+{"msgctxt":"items","msgid":"Endurance Boost","msgstr":"Повышение выносливости"}
+{"msgctxt":"items","msgid":"Endurance Boost Recipe","msgstr":"Рецепт «Повышение выносливости»"}
+{"msgctxt":"items","msgid":"Enemies List","msgstr":"Список врагов"}
+{"msgctxt":"items","msgid":"Energy","msgstr":"Энергия"}
+{"msgctxt":"items","msgid":"Engineer's Code","msgstr":"Код инженера"}
+{"msgctxt":"items","msgid":"Enslave","msgstr":"Порабощение"}
+{"msgctxt":"items","msgid":"Erathian Long Dagger","msgstr":"Эрафийский длинный кинжал"}
+{"msgctxt":"items","msgid":"Erudine Chainmail","msgstr":"Кольчуга из эрудина"}
+{"msgctxt":"items","msgid":"Erudine-laced ore","msgstr":"Руда с примесью эрудина"}
+{"msgctxt":"items","msgid":"Essence of Accuracy","msgstr":"Эссенция меткости"}
+{"msgctxt":"items","msgid":"Essence of Accuracy recipe","msgstr":"Рецепт «Эссенция меткости»"}
+{"msgctxt":"items","msgid":"Essence of Endurance","msgstr":"Эссенция выносливости"}
+{"msgctxt":"items","msgid":"Essence of Endurance recipe","msgstr":"Рецепт «Эссенция выносливости»"}
+{"msgctxt":"items","msgid":"Essence of Intellect","msgstr":"Эссенция интеллекта"}
+{"msgctxt":"items","msgid":"Essence of Intellect recipe","msgstr":"Рецепт «Эссенция интеллекта»"}
+{"msgctxt":"items","msgid":"Essence of Luck","msgstr":"Эссенция удачи"}
+{"msgctxt":"items","msgid":"Essence of Luck recipe","msgstr":"Рецепт «Эссенция удачи»"}
+{"msgctxt":"items","msgid":"Essence of Might","msgstr":"Эссенция силы"}
+{"msgctxt":"items","msgid":"Essence of Might recipe","msgstr":"Рецепт «Эссенция силы»"}
+{"msgctxt":"items","msgid":"Essence of Personality","msgstr":"Эссенция личности"}
+{"msgctxt":"items","msgid":"Essence of Personality recipe","msgstr":"Рецепт «Эссенция личности»"}
+{"msgctxt":"items","msgid":"Essence of Speed","msgstr":"Эссенция скорости"}
+{"msgctxt":"items","msgid":"Essence of Speed recipe","msgstr":"Рецепт «Эссенция скорости»"}
+{"msgctxt":"items","msgid":"Ethereal Ring","msgstr":"Эфирное кольцо"}
+{"msgctxt":"items","msgid":"Ethric's Skull","msgstr":"Череп Этрика"}
+{"msgctxt":"items","msgid":"Ethric's Staff","msgstr":"Посох Этрика"}
+{"msgctxt":"items","msgid":"Excalibur","msgstr":"Экскалибур"}
+{"msgctxt":"items","msgid":"Excerpt from a Diary","msgstr":"Отрывок из дневника"}
+{"msgctxt":"items","msgid":"Exquisite Long Dagger","msgstr":"Изысканный длинный кинжал"}
+{"msgctxt":"items","msgid":"Exquisite Ring","msgstr":"Изысканное кольцо"}
+{"msgctxt":"items","msgid":"Extreme Energy","msgstr":"Предельная энергия"}
+{"msgctxt":"items","msgid":"Eyeball Amulet","msgstr":"Амулет с глазом"}
+{"msgctxt":"items","msgid":"Fae Dust","msgstr":"Пыль фей"}
+{"msgctxt":"items","msgid":"Faerie Key","msgstr":"Ключ феи"}
+{"msgctxt":"items","msgid":"Faerie Pipes","msgstr":"Свирель фей"}
+{"msgctxt":"items","msgid":"Faerie Ring","msgstr":"Кольцо фей"}
+{"msgctxt":"items","msgid":"Fairy Wand of Fire","msgstr":"Фейский жезл Огня"}
+{"msgctxt":"items","msgid":"Fairy Wand of Harm","msgstr":"Фейский жезл Вреда"}
+{"msgctxt":"items","msgid":"Fairy Wand of Ice","msgstr":"Фейский жезл льда"}
+{"msgctxt":"items","msgid":"Fairy Wand of Lashing","msgstr":"Жезл феи Бичевания"}
+{"msgctxt":"items","msgid":"Fairy Wand of Light","msgstr":"Фейский жезл Света"}
+{"msgctxt":"items","msgid":"Fairy Wand of Mind","msgstr":"Фейский жезл Разума"}
+{"msgctxt":"items","msgid":"Fairy Wand of Poison","msgstr":"Фейский жезл яда"}
+{"msgctxt":"items","msgid":"Fairy Wand of Sparks","msgstr":"Фейский жезл искр"}
+{"msgctxt":"items","msgid":"Fairy Wand of Swarms","msgstr":"Фейский жезл роя"}
+{"msgctxt":"items","msgid":"False Report","msgstr":"Ложное донесение"}
+{"msgctxt":"items","msgid":"False Riverstride Plans","msgstr":"Поддельные чертежи Риверстрайда"}
+{"msgctxt":"items","msgid":"Fancy Hat","msgstr":"Нарядная шляпа"}
+{"msgctxt":"items","msgid":"Fanged Blade","msgstr":"Клыкастый клинок"}
+{"msgctxt":"items","msgid":"Fate","msgstr":"Судьба"}
+{"msgctxt":"items","msgid":"Festival Hat","msgstr":"Праздничная шляпа"}
+{"msgctxt":"items","msgid":"Field Hammer","msgstr":"Полевой молот"}
+{"msgctxt":"items","msgid":"Finality","msgstr":"Конец всему"}
+{"msgctxt":"items","msgid":"Fine Belt","msgstr":"Добротный пояс"}
+{"msgctxt":"items","msgid":"Fine Chain Mail","msgstr":"Добротная кольчуга"}
+{"msgctxt":"items","msgid":"Fine Ring","msgstr":"Изысканное кольцо"}
+{"msgctxt":"items","msgid":"Fire Amulet","msgstr":"Амулет огня"}
+{"msgctxt":"items","msgid":"Fire Aura","msgstr":"Огненная аура"}
+{"msgctxt":"items","msgid":"Fire Resistance","msgstr":"Сопротивление огню"}
+{"msgctxt":"items","msgid":"Fire Resistance Recipe","msgstr":"Рецепт «Сопротивление огню»"}
+{"msgctxt":"items","msgid":"Fire Spike","msgstr":"Огненный шип"}
+{"msgctxt":"items","msgid":"First Mate's Code","msgstr":"Кодекс старшего помощника капитана"}
+{"msgctxt":"items","msgid":"Flail","msgstr":"Цеп"}
+{"msgctxt":"items","msgid":"Flame Door Key","msgstr":"Ключ от огненной двери"}
+{"msgctxt":"items","msgid":"Flaming Potion","msgstr":"Пылающее зелье"}
+{"msgctxt":"items","msgid":"Flaming Potion Recipe","msgstr":"Рецепт «Пылающее зелье»"}
+{"msgctxt":"items","msgid":"Flawed Amulets","msgstr":"Амулеты с изъяном"}
+{"msgctxt":"items","msgid":"Fleetfingers","msgstr":"Быстрые пальцы"}
+{"msgctxt":"items","msgid":"Floor Tile (w/ moon insignia)","msgstr":"Напольная плитка (с эмблемой луны)"}
+{"msgctxt":"items","msgid":"Flower (Rose)","msgstr":"Цветок (роза)"}
+{"msgctxt":"items","msgid":"Flute","msgstr":"Флейта"}
+{"msgctxt":"items","msgid":"Focal Ring","msgstr":"Фокусирующее кольцо"}
+{"msgctxt":"items","msgid":"Footman's Axe","msgstr":"Топор пехотинца"}
+{"msgctxt":"items","msgid":"Forge Gauntlets","msgstr":"Кузнечные латные рукавицы"}
+{"msgctxt":"items","msgid":"Forged Vouchers","msgstr":"Поддельные расписки"}
+{"msgctxt":"items","msgid":"Foulfang","msgstr":"Гнилой клык"}
+{"msgctxt":"items","msgid":"Four Leaf Clover","msgstr":"Четырёхлистный клевер"}
+{"msgctxt":"items","msgid":"Fragment of Soldier's Diary","msgstr":"Фрагмент солдатского дневника"}
+{"msgctxt":"items","msgid":"Freezing Potion","msgstr":"Замораживающее зелье"}
+{"msgctxt":"items","msgid":"Freezing Potion Recipe","msgstr":"Рецепт «Замораживающее зелье»"}
+{"msgctxt":"items","msgid":"Full Helm","msgstr":"Закрытый шлем"}
+{"msgctxt":"items","msgid":"Galahad","msgstr":"Галахад"}
+{"msgctxt":"items","msgid":"Garnet","msgstr":"Гранат"}
+{"msgctxt":"items","msgid":"Gauntlets","msgstr":"Латные рукавицы"}
+{"msgctxt":"items","msgid":"Gem of Restoration","msgstr":"Самоцвет восстановления"}
+{"msgctxt":"items","msgid":"Gemstone Ring","msgstr":"Кольцо с самоцветом"}
+{"msgctxt":"items","msgid":"Genie Lamp","msgstr":"Лампа джинна"}
+{"msgctxt":"items","msgid":"Ghost Ring","msgstr":"Кольцо призрака"}
+{"msgctxt":"items","msgid":"Ghoulsbane","msgstr":"Погибель гулей"}
+{"msgctxt":"items","msgid":"Gibbet","msgstr":"Виселица"}
+{"msgctxt":"items","msgid":"Gilded Belt","msgstr":"Позолоченный пояс"}
+{"msgctxt":"items","msgid":"Glomenmail","msgstr":"Гломенмейл"}
+{"msgctxt":"items","msgid":"Glomenthal","msgstr":"Гломенталь"}
+{"msgctxt":"items","msgid":"Glorious Cloak","msgstr":"Прославленный плащ"}
+{"msgctxt":"items","msgid":"Glory Shield","msgstr":"Щит славы"}
+{"msgctxt":"items","msgid":"Goblin Cutlass","msgstr":"Гоблинская абордажная сабля"}
+{"msgctxt":"items","msgid":"Goblin Scimitar","msgstr":"Гоблинская сабля"}
+{"msgctxt":"items","msgid":"Goblin Shield","msgstr":"Гоблинский щит"}
+{"msgctxt":"items","msgid":"Goblinwatch Code","msgstr":"Код Гоблинской заставы"}
+{"msgctxt":"items","msgid":"Gold","msgstr":"Золото"}
+{"msgctxt":"items","msgid":"Gold Ring","msgstr":"Золотое кольцо"}
+{"msgctxt":"items","msgid":"Golden Chain Mail","msgstr":"Золотая кольчуга"}
+{"msgctxt":"items","msgid":"Golden Plate Armor","msgstr":"Золотые латы"}
+{"msgctxt":"items","msgid":"Golden Pyramid","msgstr":"Золотая пирамида"}
+{"msgctxt":"items","msgid":"Golem chest","msgstr":"Торс голема"}
+{"msgctxt":"items","msgid":"Golem head","msgstr":"Голова голема"}
+{"msgctxt":"items","msgid":"Golem left arm","msgstr":"Левая рука голема"}
+{"msgctxt":"items","msgid":"Golem left leg","msgstr":"Левая нога голема"}
+{"msgctxt":"items","msgid":"Golem right arm","msgstr":"Правая рука голема"}
+{"msgctxt":"items","msgid":"Golem right leg","msgstr":"Правая нога голема"}
+{"msgctxt":"items","msgid":"Gothic Amulet","msgstr":"Готический амулет"}
+{"msgctxt":"items","msgid":"Governor's Armor","msgstr":"Доспех губернатора"}
+{"msgctxt":"items","msgid":"Graceful Sword","msgstr":"Изящный меч"}
+{"msgctxt":"items","msgid":"Grand Poleax","msgstr":"Большая секира"}
+{"msgctxt":"items","msgid":"Grand Poleaxe","msgstr":"Большая секира"}
+{"msgctxt":"items","msgid":"Great Sword","msgstr":"Двуручный меч"}
+{"msgctxt":"items","msgid":"Green Apple","msgstr":"Зелёное яблоко"}
+{"msgctxt":"items","msgid":"Green Garnet","msgstr":"Зелёный гранат"}
+{"msgctxt":"items","msgid":"Griffin Bow","msgstr":"Лук грифона"}
+{"msgctxt":"items","msgid":"Grognard's Cutlass","msgstr":"Абордажная сабля Грогнарда"}
+{"msgctxt":"items","msgid":"Ground Wyvern Horn","msgstr":"Измельчённый рог виверны"}
+{"msgctxt":"items","msgid":"Gryphonheart's Trumpet","msgstr":"Труба Грифонхарта"}
+{"msgctxt":"items","msgid":"Guardian","msgstr":"Страж"}
+{"msgctxt":"items","msgid":"Guardian Helm","msgstr":"Шлем стража"}
+{"msgctxt":"items","msgid":"Guild Key","msgstr":"Ключ гильдии"}
+{"msgctxt":"items","msgid":"Guinevere","msgstr":"Гвиневра"}
+{"msgctxt":"items","msgid":"Hades","msgstr":"Аид"}
+{"msgctxt":"items","msgid":"Halberd","msgstr":"Алебарда"}
+{"msgctxt":"items","msgid":"Haldar's Remains","msgstr":"Прах Халдара"}
+{"msgctxt":"items","msgid":"Hammer","msgstr":"Молот"}
+{"msgctxt":"items","msgid":"Hammerhands","msgstr":"Руки-молоты"}
+{"msgctxt":"items","msgid":"Hand Axe","msgstr":"Ручной топор"}
+{"msgctxt":"items","msgid":"Hands of the Master","msgstr":"Руки Мастера"}
+{"msgctxt":"items","msgid":"Harden Item","msgstr":"Укрепление предмета"}
+{"msgctxt":"items","msgid":"Hardened Leather Boots","msgstr":"Укреплённые кожаные сапоги"}
+{"msgctxt":"items","msgid":"Hardened Leather Vest","msgstr":"Укреплённый кожаный жилет"}
+{"msgctxt":"items","msgid":"Hareck's Leather","msgstr":"Кожаные доспехи Харека"}
+{"msgctxt":"items","msgid":"Harp","msgstr":"Арфа"}
+{"msgctxt":"items","msgid":"Harpy Feather","msgstr":"Перо гарпии"}
+{"msgctxt":"items","msgid":"Haste","msgstr":"Ускорение"}
+{"msgctxt":"items","msgid":"Havoc","msgstr":"Опустошитель"}
+{"msgctxt":"items","msgid":"Hayfork","msgstr":"Вилы"}
+{"msgctxt":"items","msgid":"Headsman's Poleaxe","msgstr":"Секира палача"}
+{"msgctxt":"items","msgid":"Headsman's Reaver","msgstr":"Секира палача"}
+{"msgctxt":"items","msgid":"Heal","msgstr":"Исцеление"}
+{"msgctxt":"items","msgid":"Heart of Air","msgstr":"Сердце Воздуха"}
+{"msgctxt":"items","msgid":"Heart of Earth","msgstr":"Сердце Земли"}
+{"msgctxt":"items","msgid":"Heart of Fire","msgstr":"Сердце Огня"}
+{"msgctxt":"items","msgid":"Heart of the Wood","msgstr":"Сердце леса"}
+{"msgctxt":"items","msgid":"Heart of Water","msgstr":"Сердце Воды"}
+{"msgctxt":"items","msgid":"Heartwood of Jadame","msgstr":"Сердцевина Джадама"}
+{"msgctxt":"items","msgid":"Heavy Crossbow","msgstr":"Тяжёлый арбалет"}
+{"msgctxt":"items","msgid":"Heavy Poleax","msgstr":"Тяжёлая секира"}
+{"msgctxt":"items","msgid":"Heavy Poleaxe","msgstr":"Тяжёлая секира"}
+{"msgctxt":"items","msgid":"Hell's Cleaver","msgstr":"Адский тесак"}
+{"msgctxt":"items","msgid":"Helm","msgstr":"Шлем"}
+{"msgctxt":"items","msgid":"Hera","msgstr":"Гера"}
+{"msgctxt":"items","msgid":"Herald's Boots","msgstr":"Сапоги герольда"}
+{"msgctxt":"items","msgid":"Hercules","msgstr":"Геракл"}
+{"msgctxt":"items","msgid":"Hermes","msgstr":"Гермес"}
+{"msgctxt":"items","msgid":"Hermes' Sandals","msgstr":"Сандалии Гермеса"}
+{"msgctxt":"items","msgid":"Hero's Belt","msgstr":"Пояс героя"}
+{"msgctxt":"items","msgid":"Heroic Sword","msgstr":"Героический меч"}
+{"msgctxt":"items","msgid":"Heroism","msgstr":"Героизм"}
+{"msgctxt":"items","msgid":"Herondale's Lost Shield","msgstr":"Утерянный щит Херондейла"}
+{"msgctxt":"items","msgid":"High Cleric's Key","msgstr":"Ключ верховного клирика"}
+{"msgctxt":"items","msgid":"High Sorcerer's Key","msgstr":"Ключ верховного чародея"}
+{"msgctxt":"items","msgid":"History of the Vault of Time","msgstr":"История Хранилища Времени"}
+{"msgctxt":"items","msgid":"Hive Sanctum Key","msgstr":"Ключ от святилища Улья"}
+{"msgctxt":"items","msgid":"Holy Hammer","msgstr":"Священный молот"}
+{"msgctxt":"items","msgid":"Horn of Ros","msgstr":"Рог Роса"}
+{"msgctxt":"items","msgid":"Horned Helm","msgstr":"Рогатый шлем"}
+{"msgctxt":"items","msgid":"Horseman's Shield","msgstr":"Щит всадника"}
+{"msgctxt":"items","msgid":"Horseshoe","msgstr":"Подкова"}
+{"msgctxt":"items","msgid":"Hourglass of Time","msgstr":"Песочные часы времени"}
+{"msgctxt":"items","msgid":"Hunting Bow","msgstr":"Охотничий лук"}
+{"msgctxt":"items","msgid":"Hunting Crossbow","msgstr":"Охотничий арбалет"}
+{"msgctxt":"items","msgid":"Huntsman's Cloak","msgstr":"Плащ охотника"}
+{"msgctxt":"items","msgid":"Ideal Crossbow","msgstr":"Идеальный арбалет"}
+{"msgctxt":"items","msgid":"Idol of the Snake","msgstr":"Идол змеи"}
+{"msgctxt":"items","msgid":"Igraine","msgstr":"Игрейна"}
+{"msgctxt":"items","msgid":"Immolation","msgstr":"Всесожжение"}
+{"msgctxt":"items","msgid":"Imperial Leather","msgstr":"Имперские кожаные доспехи"}
+{"msgctxt":"items","msgid":"Improvised Voulge","msgstr":"Самодельный вульж"}
+{"msgctxt":"items","msgid":"Infantry Fork","msgstr":"Пехотная рогатина"}
+{"msgctxt":"items","msgid":"Infused Metal Rod","msgstr":"Заряженный металлический стержень"}
+{"msgctxt":"items","msgid":"Intellect Boost","msgstr":"Повышение интеллекта"}
+{"msgctxt":"items","msgid":"Intellect Boost Recipe","msgstr":"Рецепт «Повышение интеллекта»"}
+{"msgctxt":"items","msgid":"Invisibility","msgstr":"Невидимость"}
+{"msgctxt":"items","msgid":"Iolite","msgstr":"Иолит"}
+{"msgctxt":"items","msgid":"Iron Broadsword","msgstr":"Железный палаш"}
+{"msgctxt":"items","msgid":"Iron Core Staff","msgstr":"Посох с железной сердцевиной"}
+{"msgctxt":"items","msgid":"Iron Feather","msgstr":"Железное перо"}
+{"msgctxt":"items","msgid":"Iron-laced ore","msgstr":"Руда с примесью железа"}
+{"msgctxt":"items","msgid":"Jade Amulet","msgstr":"Нефритовый амулет"}
+{"msgctxt":"items","msgid":"Jeweled Dagger","msgstr":"Кинжал с самоцветами"}
+{"msgctxt":"items","msgid":"Jeweled Egg","msgstr":"Яйцо с самоцветами"}
+{"msgctxt":"items","msgid":"Journal Entry","msgstr":"Запись в дневнике"}
+{"msgctxt":"items","msgid":"Journal Entry, 11th December","msgstr":"Запись в дневнике от 11 декабря"}
+{"msgctxt":"items","msgid":"Journal Entry, 19th September","msgstr":"Запись в дневнике от 19 сентября"}
+{"msgctxt":"items","msgid":"Journal Entry, 23rd April","msgstr":"Запись в дневнике от 23 апреля"}
+{"msgctxt":"items","msgid":"Journal Entry, 2nd January","msgstr":"Запись в дневнике от 2 января"}
+{"msgctxt":"items","msgid":"Journal Entry, 30th June","msgstr":"Запись в дневнике от 30 июня"}
+{"msgctxt":"items","msgid":"Journal Excerpt","msgstr":"Отрывок из дневника"}
+{"msgctxt":"items","msgid":"Journal Fragment","msgstr":"Фрагмент дневника"}
+{"msgctxt":"items","msgid":"Journal Scrap","msgstr":"Обрывок дневника"}
+{"msgctxt":"items","msgid":"Journey Staff","msgstr":"Посох путника"}
+{"msgctxt":"items","msgid":"Judicious Measure","msgstr":"Мера благоразумия"}
+{"msgctxt":"items","msgid":"Justice","msgstr":"Справедливость"}
+{"msgctxt":"items","msgid":"Keen Longsword","msgstr":"Острый длинный меч"}
+{"msgctxt":"items","msgid":"Keg of Wine","msgstr":"Бочонок вина"}
+{"msgctxt":"items","msgid":"Kelebrim","msgstr":"Келебрим"}
+{"msgctxt":"items","msgid":"Kergar-laced ore","msgstr":"Руда с примесью кергара"}
+{"msgctxt":"items","msgid":"Key","msgstr":"Ключ"}
+{"msgctxt":"items","msgid":"Key to Gharik's Laboratory","msgstr":"Ключ от лаборатории Гарика"}
+{"msgctxt":"items","msgid":"Key to Goblinwatch","msgstr":"Ключ от Гоблинской заставы"}
+{"msgctxt":"items","msgid":"Key to Snergle's Chambers","msgstr":"Ключ от покоев Снергла"}
+{"msgctxt":"items","msgid":"Killer Club","msgstr":"Смертоносная дубинка"}
+{"msgctxt":"items","msgid":"Kite Shield","msgstr":"Каплевидный щит"}
+{"msgctxt":"items","msgid":"Knight Gauntlets","msgstr":"Рыцарские латные рукавицы"}
+{"msgctxt":"items","msgid":"Knight Statuette","msgstr":"Статуэтка рыцаря"}
+{"msgctxt":"items","msgid":"Knight's Boots","msgstr":"Сапоги рыцаря"}
+{"msgctxt":"items","msgid":"Knightly Broadsword","msgstr":"Рыцарский палаш"}
+{"msgctxt":"items","msgid":"Labyrinth Grapple","msgstr":"Лабиринтный крюк"}
+{"msgctxt":"items","msgid":"Lady Carmine's Dagger","msgstr":"Кинжал леди Кармин"}
+{"msgctxt":"items","msgid":"Lady's Escort","msgstr":"Спутник леди"}
+{"msgctxt":"items","msgid":"Lantern of Light","msgstr":"Фонарь света"}
+{"msgctxt":"items","msgid":"Large Round Crystal","msgstr":"Большой круглый кристалл"}
+{"msgctxt":"items","msgid":"Last Stage Cuirass","msgstr":"Кираса последнего этапа"}
+{"msgctxt":"items","msgid":"Leather Armor","msgstr":"Кожаные доспехи"}
+{"msgctxt":"items","msgid":"Leather Belt","msgstr":"Кожаный пояс"}
+{"msgctxt":"items","msgid":"Leather Boots","msgstr":"Кожаные сапоги"}
+{"msgctxt":"items","msgid":"Leather Cloak","msgstr":"Кожаный плащ"}
+{"msgctxt":"items","msgid":"Leather Gloves","msgstr":"Кожаные перчатки"}
+{"msgctxt":"items","msgid":"Leather Jerkin","msgstr":"Кожаный колет"}
+{"msgctxt":"items","msgid":"Leather Pouch","msgstr":"Кожаный мешочек"}
+{"msgctxt":"items","msgid":"Letter","msgstr":"Письмо"}
+{"msgctxt":"items","msgid":"Letter from Archibald","msgstr":"Письмо от Арчибальда"}
+{"msgctxt":"items","msgid":"Letter from Cedric Druthers","msgstr":"Письмо Седрика Дразерса"}
+{"msgctxt":"items","msgid":"Letter from Gavin Magnus","msgstr":"Письмо Гэвина Магнуса"}
+{"msgctxt":"items","msgid":"Letter from Johann Kerrid to the Faerie King","msgstr":"Письмо Иоганна Керрида королю фей"}
+{"msgctxt":"items","msgid":"Letter from Malwick","msgstr":"Письмо от Мальвика"}
+{"msgctxt":"items","msgid":"Letter from Mr. Stantley","msgstr":"Письмо господина Стэнтли"}
+{"msgctxt":"items","msgid":"Letter from Norbert Thrush to Lord Markham","msgstr":"Письмо Норберта Траша лорду Маркэму"}
+{"msgctxt":"items","msgid":"Letter from the Dragon Riders","msgstr":"Письмо от драконьих всадников"}
+{"msgctxt":"items","msgid":"Letter from the Prince of Thieves","msgstr":"Письмо от принца воров"}
+{"msgctxt":"items","msgid":"Letter from the Temple of Baa","msgstr":"Письмо из Храма Баа"}
+{"msgctxt":"items","msgid":"Letter from Xenofex","msgstr":"Письмо от Ксенофекса"}
+{"msgctxt":"items","msgid":"Letter from Zenofex","msgstr":"Письмо от Ксенофекса"}
+{"msgctxt":"items","msgid":"Letter to Agar","msgstr":"Письмо Агару"}
+{"msgctxt":"items","msgid":"Letter to Arion Hunter","msgstr":"Письмо Ариону Хантеру"}
+{"msgctxt":"items","msgid":"Letter to Gharik","msgstr":"Письмо Гарику"}
+{"msgctxt":"items","msgid":"Letter to Hairbaugh","msgstr":"Письмо Хейрбау"}
+{"msgctxt":"items","msgid":"Letter to Marcus","msgstr":"Письмо Маркусу"}
+{"msgctxt":"items","msgid":"Letter to Snergle","msgstr":"Письмо Снерглу"}
+{"msgctxt":"items","msgid":"Letter to Terrax","msgstr":"Письмо Терраксу"}
+{"msgctxt":"items","msgid":"Letter to the Prince of Thieves","msgstr":"Письмо принцу воров"}
+{"msgctxt":"items","msgid":"Lich Jar","msgstr":"Сосуд лича"}
+{"msgctxt":"items","msgid":"Lieutenant's Cutlass","msgstr":"Абордажная сабля лейтенанта"}
+{"msgctxt":"items","msgid":"Light Bolt","msgstr":"Стрела Света"}
+{"msgctxt":"items","msgid":"Light Crossbow","msgstr":"Лёгкий арбалет"}
+{"msgctxt":"items","msgid":"Light Poleaxe","msgstr":"Лёгкая секира"}
+{"msgctxt":"items","msgid":"Lightning Crossbow","msgstr":"Арбалет молний"}
+{"msgctxt":"items","msgid":"Lionheart Sword","msgstr":"Меч Львиное Сердце"}
+{"msgctxt":"items","msgid":"Lizardman Broadsword","msgstr":"Палаш ящеролюда"}
+{"msgctxt":"items","msgid":"Lizardman Helm","msgstr":"Шлем ящеролюда"}
+{"msgctxt":"items","msgid":"Lizardman Trident","msgstr":"Трезубец ящеролюда"}
+{"msgctxt":"items","msgid":"Lock Pick","msgstr":"Отмычка"}
+{"msgctxt":"items","msgid":"Locus Amulet","msgstr":"Амулет Локуса"}
+{"msgctxt":"items","msgid":"Lodestone","msgstr":"Магнитный камень"}
+{"msgctxt":"items","msgid":"Log of Eldenbrie","msgstr":"Кусок сыра «Элденбри»"}
+{"msgctxt":"items","msgid":"Long Dagger","msgstr":"Длинный кинжал"}
+{"msgctxt":"items","msgid":"Longbow","msgstr":"Длинный лук"}
+{"msgctxt":"items","msgid":"Longseeker","msgstr":"Дальнобой"}
+{"msgctxt":"items","msgid":"Longsword","msgstr":"Длинный меч"}
+{"msgctxt":"items","msgid":"Loose Page","msgstr":"Отдельная страница"}
+{"msgctxt":"items","msgid":"Lord Kilburn's Shield","msgstr":"Щит лорда Килбурна"}
+{"msgctxt":"items","msgid":"Lost Book of Kehl","msgstr":"Утраченная книга Келя"}
+{"msgctxt":"items","msgid":"Lucius","msgstr":"Луций"}
+{"msgctxt":"items","msgid":"Luck Boost","msgstr":"Повышение удачи"}
+{"msgctxt":"items","msgid":"Luck Boost Recipe","msgstr":"Рецепт повышения удачи"}
+{"msgctxt":"items","msgid":"Lucky Hat","msgstr":"Шляпа удачи"}
+{"msgctxt":"items","msgid":"Lunar Ring","msgstr":"Лунное кольцо"}
+{"msgctxt":"items","msgid":"Lute","msgstr":"Лютня"}
+{"msgctxt":"items","msgid":"Mace","msgstr":"Булава"}
+{"msgctxt":"items","msgid":"Mace of the Sun","msgstr":"Булава (Солнца)"}
+{"msgctxt":"items","msgid":"Mage Dagger","msgstr":"Кинжал мага"}
+{"msgctxt":"items","msgid":"Magic Bow","msgstr":"Магический лук"}
+{"msgctxt":"items","msgid":"Magic Horseshoe","msgstr":"Волшебная подкова"}
+{"msgctxt":"items","msgid":"Magic Lamp","msgstr":"Волшебная лампа"}
+{"msgctxt":"items","msgid":"Magic Potion","msgstr":"Магическое зелье"}
+{"msgctxt":"items","msgid":"Magical Ritual Notes","msgstr":"Записи о магических ритуалах"}
+{"msgctxt":"items","msgid":"Majestic Chain Mail","msgstr":"Величественная кольчуга"}
+{"msgctxt":"items","msgid":"Majestic Shield","msgstr":"Величественный щит"}
+{"msgctxt":"items","msgid":"Map","msgstr":"Карта"}
+{"msgctxt":"items","msgid":"Map to Evenmorn Island","msgstr":"Карта острова Эвенморн"}
+{"msgctxt":"items","msgid":"Mash","msgstr":"Месиво"}
+{"msgctxt":"items","msgid":"Massive Halberd","msgstr":"Массивная алебарда"}
+{"msgctxt":"items","msgid":"Massive Hammer","msgstr":"Массивный молот"}
+{"msgctxt":"items","msgid":"Master Cutlass","msgstr":"Абордажная сабля мастера"}
+{"msgctxt":"items","msgid":"Master's Dagger","msgstr":"Кинжал мастера"}
+{"msgctxt":"items","msgid":"Medusa's Mirror","msgstr":"Зеркало Медузы"}
+{"msgctxt":"items","msgid":"Mekorig's Hammer","msgstr":"Молот Мекорига"}
+{"msgctxt":"items","msgid":"Memory Crystal Alpha","msgstr":"Кристалл памяти «Альфа»"}
+{"msgctxt":"items","msgid":"Memory Crystal Beta","msgstr":"Кристалл памяти «Бета»"}
+{"msgctxt":"items","msgid":"Memory Crystal Delta","msgstr":"Кристалл памяти «Дельта»"}
+{"msgctxt":"items","msgid":"Memory Crystal Epsilon","msgstr":"Кристалл памяти Эпсилон"}
+{"msgctxt":"items","msgid":"Mercenary Belt","msgstr":"Пояс наёмника"}
+{"msgctxt":"items","msgid":"Merchantman's Dagger","msgstr":"Кинжал купца"}
+{"msgctxt":"items","msgid":"Merchantman's Hat","msgstr":"Шляпа купца"}
+{"msgctxt":"items","msgid":"Mercury","msgstr":"Ртуть"}
+{"msgctxt":"items","msgid":"Merlin","msgstr":"Мерлин"}
+{"msgctxt":"items","msgid":"Message from Erathia","msgstr":"Послание из Эрафии"}
+{"msgctxt":"items","msgid":"Message from Mr. Stantley","msgstr":"Сообщение господина Стэнтли"}
+{"msgctxt":"items","msgid":"Metal Shield","msgstr":"Металлический щит"}
+{"msgctxt":"items","msgid":"Meteor Fragment","msgstr":"Фрагмент метеорита"}
+{"msgctxt":"items","msgid":"Meteorite Fragment","msgstr":"Осколок метеорита"}
+{"msgctxt":"items","msgid":"Might Boost","msgstr":"Повышение силы"}
+{"msgctxt":"items","msgid":"Might Boost Recipe","msgstr":"Рецепт повышения силы"}
+{"msgctxt":"items","msgid":"Mighty Broadsword","msgstr":"Могучий палаш"}
+{"msgctxt":"items","msgid":"Mighty Halberd","msgstr":"Могучая алебарда"}
+{"msgctxt":"items","msgid":"Mind Resistance","msgstr":"Сопротивление магии Разума"}
+{"msgctxt":"items","msgid":"Mind Resistance Recipe","msgstr":"Рецепт «Сопротивление магии Разума»"}
+{"msgctxt":"items","msgid":"Mind's Eye","msgstr":"Око Разума"}
+{"msgctxt":"items","msgid":"Minotaur Axe","msgstr":"Топор минотавра"}
+{"msgctxt":"items","msgid":"Minotaur Battleaxe","msgstr":"Боевой топор минотавра"}
+{"msgctxt":"items","msgid":"Minotaur Battlesword","msgstr":"Боевой меч минотавра"}
+{"msgctxt":"items","msgid":"Minotaur Campaign Pole-axe","msgstr":"Походная алебарда минотавров"}
+{"msgctxt":"items","msgid":"Minotaur Chainmail","msgstr":"Кольчуга минотавра"}
+{"msgctxt":"items","msgid":"Minotaur Gauntlets","msgstr":"Латные рукавицы минотавра"}
+{"msgctxt":"items","msgid":"Minotaur Herdsman Axe","msgstr":"Топор минотавра-пастуха"}
+{"msgctxt":"items","msgid":"Minotaur Plate","msgstr":"Латы минотавра"}
+{"msgctxt":"items","msgid":"Minotaur War Axe","msgstr":"Боевой топор минотавра"}
+{"msgctxt":"items","msgid":"Minotaur's Axe","msgstr":"Топор минотавра"}
+{"msgctxt":"items","msgid":"Missive from the Archbishop","msgstr":"Послание архиепископа"}
+{"msgctxt":"items","msgid":"Mogred Gauntlets","msgstr":"Латные рукавицы из могреда"}
+{"msgctxt":"items","msgid":"Mogred Helm","msgstr":"Шлем Могреда"}
+{"msgctxt":"items","msgid":"Moon Cloak","msgstr":"Лунный плащ"}
+{"msgctxt":"items","msgid":"Moon Temple Cloak","msgstr":"Плащ Храма Луны"}
+{"msgctxt":"items","msgid":"Moonstone","msgstr":"Лунный камень"}
+{"msgctxt":"items","msgid":"Mordred","msgstr":"Мордред"}
+{"msgctxt":"items","msgid":"Morgan","msgstr":"Моргана"}
+{"msgctxt":"items","msgid":"Mushroom","msgstr":"Гриб"}
+{"msgctxt":"items","msgid":"Mystic Wand of Death","msgstr":"Мистический жезл смерти"}
+{"msgctxt":"items","msgid":"Mystic Wand of Distortion","msgstr":"Мистический жезл искажения"}
+{"msgctxt":"items","msgid":"Mystic Wand of Implosion","msgstr":"Мистический жезл имплозии"}
+{"msgctxt":"items","msgid":"Mystic Wand of Incineration","msgstr":"Мистический жезл испепеления"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrapmetal","msgstr":"Мистический жезл осколков металла"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrinking","msgstr":"Мистический жезл уменьшения"}
+{"msgctxt":"items","msgid":"Naga Hide","msgstr":"Шкура наги"}
+{"msgctxt":"items","msgid":"Name of Message","msgstr":"Название сообщения"}
+{"msgctxt":"items","msgid":"Navigator's Code","msgstr":"Кодекс штурмана"}
+{"msgctxt":"items","msgid":"Necromancer Cloak","msgstr":"Плащ некроманта"}
+{"msgctxt":"items","msgid":"Necromatic Ring","msgstr":"Некромантское кольцо"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Distortion","msgstr":"Некротический жезл искажения"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Implosion","msgstr":"Некротический жезл имплозии"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Incineration","msgstr":"Некротический жезл испепеления"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrapnel","msgstr":"Некротический жезл шрапнели"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrinking","msgstr":"Некротический жезл уменьшения"}
+{"msgctxt":"items","msgid":"Newname Key","msgstr":"Ключ «Новое имя»"}
+{"msgctxt":"items","msgid":"Nightshade Brazier","msgstr":"Жаровня с паслёном"}
+{"msgctxt":"items","msgid":"Noble Chain Mail","msgstr":"Дворянская кольчуга"}
+{"msgctxt":"items","msgid":"Noble Crown","msgstr":"Корона дворянина"}
+{"msgctxt":"items","msgid":"Noble Plate Armor","msgstr":"Латы дворянина"}
+{"msgctxt":"items","msgid":"Noblebone Bow","msgstr":"Лук из благородной кости"}
+{"msgctxt":"items","msgid":"Notes - Emergency Meeting","msgstr":"Записи об экстренном совещании"}
+{"msgctxt":"items","msgid":"Noxious Potion","msgstr":"Ядовитое зелье"}
+{"msgctxt":"items","msgid":"Noxious Potion Recipe","msgstr":"Рецепт «Ядовитое зелье»"}
+{"msgctxt":"items","msgid":"Obsidian","msgstr":"Обсидиан"}
+{"msgctxt":"items","msgid":"Odin","msgstr":"Один"}
+{"msgctxt":"items","msgid":"Officer's Leather","msgstr":"Кожаные доспехи офицера"}
+{"msgctxt":"items","msgid":"Ogre Ear","msgstr":"Ухо огра"}
+{"msgctxt":"items","msgid":"Ogre Fighting Stick","msgstr":"Боевая дубина огров"}
+{"msgctxt":"items","msgid":"Ogre Key","msgstr":"Ключ огра"}
+{"msgctxt":"items","msgid":"Old Halberd","msgstr":"Старая алебарда"}
+{"msgctxt":"items","msgid":"Old Nick","msgstr":"Старый Ник"}
+{"msgctxt":"items","msgid":"Old Scroll","msgstr":"Старый свиток"}
+{"msgctxt":"items","msgid":"Olympian Shield","msgstr":"Олимпийский щит"}
+{"msgctxt":"items","msgid":"Orb Staff","msgstr":"Посох со сферой"}
+{"msgctxt":"items","msgid":"Orders from Snergle","msgstr":"Приказы Снергла"}
+{"msgctxt":"items","msgid":"Orders from Steadwick","msgstr":"Приказы из Стедвика"}
+{"msgctxt":"items","msgid":"Orders from the Shadow Guild","msgstr":"Приказы Гильдии Тени"}
+{"msgctxt":"items","msgid":"Ornate Trident","msgstr":"Богато украшенный трезубец"}
+{"msgctxt":"items","msgid":"Oscillation Overthruster","msgstr":"Осцилляционный сверхускоритель"}
+{"msgctxt":"items","msgid":"Overlord's Club","msgstr":"Дубинка владыки"}
+{"msgctxt":"items","msgid":"Page from Agar's Journal","msgstr":"Страница из дневника Агара"}
+{"msgctxt":"items","msgid":"Page from Corlagon's Diary","msgstr":"Страница из дневника Корлагона"}
+{"msgctxt":"items","msgid":"Page Torn from a Book","msgstr":"Страница, вырванная из книги"}
+{"msgctxt":"items","msgid":"Pain Reflection","msgstr":"Отражение боли"}
+{"msgctxt":"items","msgid":"Paladin Boots","msgstr":"Сапоги паладина"}
+{"msgctxt":"items","msgid":"Paladin Gauntlets","msgstr":"Латные рукавицы паладина"}
+{"msgctxt":"items","msgid":"Parson's Quill","msgstr":"Перо священника"}
+{"msgctxt":"items","msgid":"Pearl of Purity","msgstr":"Жемчужина чистоты"}
+{"msgctxt":"items","msgid":"Pearl of Putrescence","msgstr":"Жемчужина гниения"}
+{"msgctxt":"items","msgid":"Pearl Ring","msgstr":"Кольцо с жемчужиной"}
+{"msgctxt":"items","msgid":"Peasant Hat","msgstr":"Шляпа крестьянина"}
+{"msgctxt":"items","msgid":"Pellinore","msgstr":"Пеллинор"}
+{"msgctxt":"items","msgid":"Pendragon","msgstr":"Пендрагон"}
+{"msgctxt":"items","msgid":"Percival","msgstr":"Персиваль"}
+{"msgctxt":"items","msgid":"Personality Boost","msgstr":"Повышение личности"}
+{"msgctxt":"items","msgid":"Personality Boost Recipe","msgstr":"Рецепт «Повышение личности»"}
+{"msgctxt":"items","msgid":"Phantom Cloak","msgstr":"Призрачный плащ"}
+{"msgctxt":"items","msgid":"Phial of Gog Blood","msgstr":"Склянка с кровью гога"}
+{"msgctxt":"items","msgid":"Philosopher's Stone","msgstr":"Философский камень"}
+{"msgctxt":"items","msgid":"Phima Root","msgstr":"Корень фимы"}
+{"msgctxt":"items","msgid":"Phirna Root","msgstr":"Корень фирны"}
+{"msgctxt":"items","msgid":"Phoenix Feather","msgstr":"Перо феникса"}
+{"msgctxt":"items","msgid":"Phylt-laced ore","msgstr":"Руда с примесью филта"}
+{"msgctxt":"items","msgid":"Phynaxian Crown","msgstr":"Финаксийская корона"}
+{"msgctxt":"items","msgid":"Phynaxian Helm","msgstr":"Финаксийский шлем"}
+{"msgctxt":"items","msgid":"Phynaxian Shield","msgstr":"Финаксийский щит"}
+{"msgctxt":"items","msgid":"Piercing Dagger","msgstr":"Пронзающий кинжал"}
+{"msgctxt":"items","msgid":"Pirate Cutlass","msgstr":"Пиратская абордажная сабля"}
+{"msgctxt":"items","msgid":"Pirate Hat","msgstr":"Пиратская шляпа"}
+{"msgctxt":"items","msgid":"Pirate Leader's Key","msgstr":"Ключ главаря пиратов"}
+{"msgctxt":"items","msgid":"Plate Armor","msgstr":"Латы"}
+{"msgctxt":"items","msgid":"Platinum Ring","msgstr":"Платиновое кольцо"}
+{"msgctxt":"items","msgid":"Poleax","msgstr":"Секира"}
+{"msgctxt":"items","msgid":"Poleaxe","msgstr":"Секира"}
+{"msgctxt":"items","msgid":"Poppy Pod","msgstr":"Маковая коробочка"}
+{"msgctxt":"items","msgid":"Poppysnaps","msgstr":"Попписнапс"}
+{"msgctxt":"items","msgid":"Poseidon","msgstr":"Посейдон"}
+{"msgctxt":"items","msgid":"Potion Bottle","msgstr":"Флакон для зелья"}
+{"msgctxt":"items","msgid":"Potion of Doom ","msgstr":"Зелье Рока "}
+{"msgctxt":"items","msgid":"Potion of Doom recipe","msgstr":"Рецепт «Зелье Рока»"}
+{"msgctxt":"items","msgid":"Potion of the Gods ","msgstr":"Зелье Богов "}
+{"msgctxt":"items","msgid":"Potion of the Gods recipe","msgstr":"Рецепт «Зелье Богов»"}
+{"msgctxt":"items","msgid":"Pouch of Bat Guano","msgstr":"Мешочек с помётом летучих мышей"}
+{"msgctxt":"items","msgid":"Power Staff","msgstr":"Посох силы"}
+{"msgctxt":"items","msgid":"Power Stone","msgstr":"Камень силы"}
+{"msgctxt":"items","msgid":"Precious Ring","msgstr":"Драгоценное кольцо"}
+{"msgctxt":"items","msgid":"Precision Bow","msgstr":"Лук меткости"}
+{"msgctxt":"items","msgid":"Preservation","msgstr":"Сохранение"}
+{"msgctxt":"items","msgid":"Priestly Staff","msgstr":"Посох священника"}
+{"msgctxt":"items","msgid":"Prison Key","msgstr":"Ключ от тюрьмы"}
+{"msgctxt":"items","msgid":"Proclamation","msgstr":"Прокламация"}
+{"msgctxt":"items","msgid":"Prophecies of the Snake","msgstr":"Пророчества Змеи"}
+{"msgctxt":"items","msgid":"Prophecies of the Sun","msgstr":"Пророчества Солнца"}
+{"msgctxt":"items","msgid":"Protection","msgstr":"Защита"}
+{"msgctxt":"items","msgid":"Protection from Magic","msgstr":"Защита от магии"}
+{"msgctxt":"items","msgid":"Protection from Magic recipe","msgstr":"Рецепт «Защита от магии»"}
+{"msgctxt":"items","msgid":"Puck","msgstr":"Пак"}
+{"msgctxt":"items","msgid":"Pure Accuracy","msgstr":"Чистая меткость"}
+{"msgctxt":"items","msgid":"Pure Accuracy Recipe","msgstr":"Рецепт чистой меткости"}
+{"msgctxt":"items","msgid":"Pure Air Resistance","msgstr":"Чистое сопротивление воздуху"}
+{"msgctxt":"items","msgid":"Pure Air Resistance recipe","msgstr":"Рецепт «Чистое сопротивление воздуху»"}
+{"msgctxt":"items","msgid":"Pure Body Resistance","msgstr":"Чистое сопротивление магии Тела"}
+{"msgctxt":"items","msgid":"Pure Body Resistance recipe","msgstr":"Рецепт «Чистое сопротивление магии Тела»"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance","msgstr":"Чистое сопротивление Земле"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance recipe","msgstr":"Рецепт «Чистое сопротивление Земле»"}
+{"msgctxt":"items","msgid":"Pure Endurance","msgstr":"Чистая выносливость"}
+{"msgctxt":"items","msgid":"Pure Endurance Recipe","msgstr":"Рецепт «Чистая выносливость»"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance","msgstr":"Чистое сопротивление огню"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance recipe","msgstr":"Рецепт «Чистое сопротивление огню»"}
+{"msgctxt":"items","msgid":"Pure Intellect","msgstr":"Чистый интеллект"}
+{"msgctxt":"items","msgid":"Pure Intellect Recipe","msgstr":"Рецепт «Чистый интеллект»"}
+{"msgctxt":"items","msgid":"Pure Luck","msgstr":"Чистая удача"}
+{"msgctxt":"items","msgid":"Pure Luck Recipe","msgstr":"Рецепт чистой удачи"}
+{"msgctxt":"items","msgid":"Pure Might","msgstr":"Чистая сила"}
+{"msgctxt":"items","msgid":"Pure Might Recipe","msgstr":"Рецепт чистой силы"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance","msgstr":"Чистое сопротивление магии Разума"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance recipe","msgstr":"Рецепт «Чистое сопротивление магии Разума»"}
+{"msgctxt":"items","msgid":"Pure Personality","msgstr":"Чистая личность"}
+{"msgctxt":"items","msgid":"Pure Personality Recipe","msgstr":"Рецепт «Чистая личность»"}
+{"msgctxt":"items","msgid":"Pure Speed","msgstr":"Чистая скорость"}
+{"msgctxt":"items","msgid":"Pure Speed Recipe","msgstr":"Рецепт чистой скорости"}
+{"msgctxt":"items","msgid":"Pure Water Resistance","msgstr":"Чистое сопротивление Воде"}
+{"msgctxt":"items","msgid":"Pure Water Resistance recipe","msgstr":"Рецепт «Чистое сопротивление Воде»"}
+{"msgctxt":"items","msgid":"Purple Topaz","msgstr":"Фиолетовый топаз"}
+{"msgctxt":"items","msgid":"Puzzle Box","msgstr":"Ларец-головоломка"}
+{"msgctxt":"items","msgid":"Quality Steel Chain Mail","msgstr":"Высококачественная стальная кольчуга"}
+{"msgctxt":"items","msgid":"Ranger Boots","msgstr":"Сапоги рейнджера"}
+{"msgctxt":"items","msgid":"Ranger's Cloak","msgstr":"Плащ рейнджера"}
+{"msgctxt":"items","msgid":"Recharge Item","msgstr":"Перезарядка предмета"}
+{"msgctxt":"items","msgid":"Recurve Bow","msgstr":"Рекурсивный лук"}
+{"msgctxt":"items","msgid":"Red Apple","msgstr":"Красное яблоко"}
+{"msgctxt":"items","msgid":"Regal Crown","msgstr":"Королевская корона"}
+{"msgctxt":"items","msgid":"Regeneration","msgstr":"Регенерация"}
+{"msgctxt":"items","msgid":"Regnan Boots","msgstr":"Регнанские сапоги"}
+{"msgctxt":"items","msgid":"Regnan Crossbow","msgstr":"Регнанский арбалет"}
+{"msgctxt":"items","msgid":"Regnan Cutlass","msgstr":"Регнанская абордажная сабля"}
+{"msgctxt":"items","msgid":"Regnan Falchion","msgstr":"Регнанский фальшион"}
+{"msgctxt":"items","msgid":"Regnan Fighting Knife","msgstr":"Регнанский боевой нож"}
+{"msgctxt":"items","msgid":"Regnan Leather","msgstr":"Регнанские кожаные доспехи"}
+{"msgctxt":"items","msgid":"Regnan Tournament Shield","msgstr":"Регнанский турнирный щит"}
+{"msgctxt":"items","msgid":"Regnan Trident","msgstr":"Регнанский трезубец"}
+{"msgctxt":"items","msgid":"Rejuvenation","msgstr":"Омоложение"}
+{"msgctxt":"items","msgid":"Rejuvenation Recipe","msgstr":"Рецепт омоложения"}
+{"msgctxt":"items","msgid":"Remains of a Journal","msgstr":"Обрывки дневника"}
+{"msgctxt":"items","msgid":"Remains of Korbu","msgstr":"Останки Корбу"}
+{"msgctxt":"items","msgid":"Remnants of a Letter","msgstr":"Обрывки письма"}
+{"msgctxt":"items","msgid":"Remove Curse","msgstr":"Снятие проклятия"}
+{"msgctxt":"items","msgid":"Remove Fear","msgstr":"Снятие страха"}
+{"msgctxt":"items","msgid":"Resistance","msgstr":"Сопротивление"}
+{"msgctxt":"items","msgid":"Resplendent Chain Mail","msgstr":"Великолепная кольчуга"}
+{"msgctxt":"items","msgid":"Restoration","msgstr":"Восстановление"}
+{"msgctxt":"items","msgid":"Reverend Sceptre","msgstr":"Священный скипетр"}
+{"msgctxt":"items","msgid":"Ring of Fusion","msgstr":"Кольцо слияния"}
+{"msgctxt":"items","msgid":"Ring of Keys","msgstr":"Связка ключей"}
+{"msgctxt":"items","msgid":"Ring of Planes","msgstr":"Кольцо планов бытия"}
+{"msgctxt":"items","msgid":"Ritual of the Void","msgstr":"Ритуал Пустоты"}
+{"msgctxt":"items","msgid":"Riverstride Plans","msgstr":"Чертежи Риверстрайда"}
+{"msgctxt":"items","msgid":"Roland Ironfist Painting","msgstr":"Портрет Роланда Айронфиста"}
+{"msgctxt":"items","msgid":"Roland's Journal","msgstr":"Дневник Роланда"}
+{"msgctxt":"items","msgid":"Rope","msgstr":"Верёвка"}
+{"msgctxt":"items","msgid":"Rose","msgstr":"Роза"}
+{"msgctxt":"items","msgid":"Rose Crystal","msgstr":"Розовый кристалл"}
+{"msgctxt":"items","msgid":"Royal Chain Mail","msgstr":"Королевская кольчуга"}
+{"msgctxt":"items","msgid":"Royal Leather","msgstr":"Королевские кожаные доспехи"}
+{"msgctxt":"items","msgid":"Royal Wasp Jelly","msgstr":"Желе королевской осы"}
+{"msgctxt":"items","msgid":"Ruby","msgstr":"Рубин"}
+{"msgctxt":"items","msgid":"Ruby Ring","msgstr":"Кольцо с рубином"}
+{"msgctxt":"items","msgid":"Ruby Star Amulet","msgstr":"Амулет «Рубиновая звезда»"}
+{"msgctxt":"items","msgid":"Ruler's Ring","msgstr":"Кольцо правителя"}
+{"msgctxt":"items","msgid":"Rusty Breastplate","msgstr":"Ржавый нагрудник"}
+{"msgctxt":"items","msgid":"Rusty Cutlass","msgstr":"Ржавая абордажная сабля"}
+{"msgctxt":"items","msgid":"Rusty Mail Vest","msgstr":"Ржавый кольчужный жилет"}
+{"msgctxt":"items","msgid":"Sacred Chalice","msgstr":"Священная чаша"}
+{"msgctxt":"items","msgid":"Sacred Spear","msgstr":"Священное копьё"}
+{"msgctxt":"items","msgid":"Sacrifice","msgstr":"Жертвоприношение"}
+{"msgctxt":"items","msgid":"Sapphire","msgstr":"Сапфир"}
+{"msgctxt":"items","msgid":"Sapphire Ring","msgstr":"Кольцо с сапфиром"}
+{"msgctxt":"items","msgid":"Sarcophagus of Korbu","msgstr":"Саркофаг Корбу"}
+{"msgctxt":"items","msgid":"Savage Spear","msgstr":"Копьё дикаря"}
+{"msgctxt":"items","msgid":"Scarab Ring","msgstr":"Кольцо со скарабеем"}
+{"msgctxt":"items","msgid":"Scavenger hunt.","msgstr":"Охота за сокровищами."}
+{"msgctxt":"items","msgid":"Scepter of Kings","msgstr":"Скипетр королей"}
+{"msgctxt":"items","msgid":"Scholar's Cap","msgstr":"Колпак учёного"}
+{"msgctxt":"items","msgid":"Scrap from Gharik's Journal","msgstr":"Обрывок из дневника Гарика"}
+{"msgctxt":"items","msgid":"Scrap of Paper","msgstr":"Клочок бумаги"}
+{"msgctxt":"items","msgid":"Scroll of Waves","msgstr":"Свиток волн"}
+{"msgctxt":"items","msgid":"Sealed Letter 2","msgstr":"Запечатанное письмо 2"}
+{"msgctxt":"items","msgid":"Sealed Letter 3","msgstr":"Запечатанное письмо 3"}
+{"msgctxt":"items","msgid":"Sealed Letter 4","msgstr":"Запечатанное письмо 4"}
+{"msgctxt":"items","msgid":"Sealed Letter 5","msgstr":"Запечатанное письмо 5"}
+{"msgctxt":"items","msgid":"Sealed Letter 6","msgstr":"Запечатанное письмо 6"}
+{"msgctxt":"items","msgid":"Sealed Letter 7","msgstr":"Запечатанное письмо 7"}
+{"msgctxt":"items","msgid":"Seashell","msgstr":"Морская раковина"}
+{"msgctxt":"items","msgid":"Season's Stole","msgstr":"Епитрахиль времён года"}
+{"msgctxt":"items","msgid":"Secret Door Key","msgstr":"Ключ от потайной двери"}
+{"msgctxt":"items","msgid":"Serendine's Preservation","msgstr":"Сохранение Серендина"}
+{"msgctxt":"items","msgid":"Serpent Spear","msgstr":"Змеиное копьё"}
+{"msgctxt":"items","msgid":"Serpent Staff","msgstr":"Змеиный посох"}
+{"msgctxt":"items","msgid":"Serpent Wand of Blasting","msgstr":"Змеиный жезл взрыва"}
+{"msgctxt":"items","msgid":"Serpent Wand of Paralysis","msgstr":"Змеиный жезл паралича"}
+{"msgctxt":"items","msgid":"Serpent Wand of Rocks","msgstr":"Змеиный жезл Камней"}
+{"msgctxt":"items","msgid":"Serpent Wand of the Fist","msgstr":"Змеиный жезл Кулака"}
+{"msgctxt":"items","msgid":"Seven League Boots","msgstr":"Сапоги-скороходы"}
+{"msgctxt":"items","msgid":"Sewer Key","msgstr":"Ключ от канализации"}
+{"msgctxt":"items","msgid":"Shadow Dagger","msgstr":"Теневой кинжал"}
+{"msgctxt":"items","msgid":"Shadow Sect Medallion","msgstr":"Медальон секты Тени"}
+{"msgctxt":"items","msgid":"Shadow's Mask","msgstr":"Маска Тени"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Ice","msgstr":"Шаманский жезл льда"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Lashing","msgstr":"Шаманский жезл плети"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Light","msgstr":"Шаманский жезл Света"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Mind","msgstr":"Шаманский жезл Разума"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Swarms","msgstr":"Шаманский жезл роя"}
+{"msgctxt":"items","msgid":"Sharktooth Dagger","msgstr":"Кинжал «Акулий зуб»"}
+{"msgctxt":"items","msgid":"Shield","msgstr":"Щит"}
+{"msgctxt":"items","msgid":"Shocking Potion","msgstr":"Электризующее зелье"}
+{"msgctxt":"items","msgid":"Shocking Potion Recipe","msgstr":"Рецепт «Электризующее зелье»"}
+{"msgctxt":"items","msgid":"Shovel","msgstr":"Лопата"}
+{"msgctxt":"items","msgid":"Siertal Chainmail","msgstr":"Кольчуга из сьертала"}
+{"msgctxt":"items","msgid":"Siertal-laced ore","msgstr":"Руда с примесью сьертала"}
+{"msgctxt":"items","msgid":"Signet Ring","msgstr":"Перстень-печатка"}
+{"msgctxt":"items","msgid":"Silver Belt","msgstr":"Серебряный пояс"}
+{"msgctxt":"items","msgid":"Silver Dust of the Sea","msgstr":"Серебряная пыль Моря"}
+{"msgctxt":"items","msgid":"Silver Mesh Gauntlets","msgstr":"Латные рукавицы из серебряной сетки"}
+{"msgctxt":"items","msgid":"Simple Mace","msgstr":"Простая булава"}
+{"msgctxt":"items","msgid":"Simple Staff","msgstr":"Простой посох"}
+{"msgctxt":"items","msgid":"Slaying Potion","msgstr":"Смертоносное зелье"}
+{"msgctxt":"items","msgid":"Slaying Potion Recipe","msgstr":"Рецепт «Смертоносное зелье»"}
+{"msgctxt":"items","msgid":"Sledgehammer","msgstr":"Кувалда"}
+{"msgctxt":"items","msgid":"Snake","msgstr":"Змея"}
+{"msgctxt":"items","msgid":"Snakewood Bow","msgstr":"Лук из змеиного дерева"}
+{"msgctxt":"items","msgid":"Snergle's Axe","msgstr":"Топор Снергла"}
+{"msgctxt":"items","msgid":"Soldier's spear","msgstr":"Копьё солдата"}
+{"msgctxt":"items","msgid":"Souldrinker","msgstr":"Пожиратель душ"}
+{"msgctxt":"items","msgid":"Sovereign Belt","msgstr":"Пояс властелина"}
+{"msgctxt":"items","msgid":"Sparkling Ring","msgstr":"Сверкающее кольцо"}
+{"msgctxt":"items","msgid":"Spear","msgstr":"Копьё"}
+{"msgctxt":"items","msgid":"Speed Boost","msgstr":"Повышение скорости"}
+{"msgctxt":"items","msgid":"Speed Boost Recipe","msgstr":"Рецепт повышения скорости"}
+{"msgctxt":"items","msgid":"Spider Queen's Heart","msgstr":"Сердце царицы пауков"}
+{"msgctxt":"items","msgid":"Spiked Club","msgstr":"Шипастая дубинка"}
+{"msgctxt":"items","msgid":"Spiked Mace","msgstr":"Шипастая булава"}
+{"msgctxt":"items","msgid":"Spiral Instructions","msgstr":"Инструкции к Спирали"}
+{"msgctxt":"items","msgid":"Spirit Lash","msgstr":"Плеть духа"}
+{"msgctxt":"items","msgid":"Spirit Shield","msgstr":"Щит духа"}
+{"msgctxt":"items","msgid":"Spiritslayer","msgstr":"Убийца духов"}
+{"msgctxt":"items","msgid":"Splendid Plate Armor","msgstr":"Роскошные латы"}
+{"msgctxt":"items","msgid":"Splitter","msgstr":"Колун"}
+{"msgctxt":"items","msgid":"Staff","msgstr":"Посох"}
+{"msgctxt":"items","msgid":"Staff of Elements","msgstr":"Посох стихий"}
+{"msgctxt":"items","msgid":"Staff of the Swamp","msgstr":"Посох болот"}
+{"msgctxt":"items","msgid":"Stalt-laced ore","msgstr":"Руда с примесью сталта"}
+{"msgctxt":"items","msgid":"Steel Axe","msgstr":"Стальной топор"}
+{"msgctxt":"items","msgid":"Steel Belt","msgstr":"Стальной пояс"}
+{"msgctxt":"items","msgid":"Steel Boots","msgstr":"Стальные сапоги"}
+{"msgctxt":"items","msgid":"Steel Broadsword","msgstr":"Стальной палаш"}
+{"msgctxt":"items","msgid":"Steel Chain Mail","msgstr":"Стальная кольчуга"}
+{"msgctxt":"items","msgid":"Steel Chainmail","msgstr":"Стальная кольчуга"}
+{"msgctxt":"items","msgid":"Steel club","msgstr":"Стальная дубинка"}
+{"msgctxt":"items","msgid":"Steel Gauntlets","msgstr":"Стальные латные рукавицы"}
+{"msgctxt":"items","msgid":"Steel Helm","msgstr":"Стальной шлем"}
+{"msgctxt":"items","msgid":"Steel Plate Armor","msgstr":"Стальные латы"}
+{"msgctxt":"items","msgid":"Steel Plated Boots","msgstr":"Сапоги со стальными накладками"}
+{"msgctxt":"items","msgid":"Steel Shield","msgstr":"Стальной щит"}
+{"msgctxt":"items","msgid":"Steel Spear","msgstr":"Стальное копьё"}
+{"msgctxt":"items","msgid":"Stellar Bow","msgstr":"Звёздный лук"}
+{"msgctxt":"items","msgid":"Sterling Boots","msgstr":"Серебряные сапоги"}
+{"msgctxt":"items","msgid":"Sterling Shield","msgstr":"Безупречный щит"}
+{"msgctxt":"items","msgid":"Stone Axe","msgstr":"Каменный топор"}
+{"msgctxt":"items","msgid":"Stone Skin","msgstr":"Каменная кожа"}
+{"msgctxt":"items","msgid":"Stone to Flesh","msgstr":"Камень в плоть"}
+{"msgctxt":"items","msgid":"Stone To Flesh Recipe","msgstr":"Рецепт «Камень в плоть»"}
+{"msgctxt":"items","msgid":"Stoneskin","msgstr":"Каменная кожа"}
+{"msgctxt":"items","msgid":"Storage Key","msgstr":"Ключ от склада"}
+{"msgctxt":"items","msgid":"Store Room Key","msgstr":"Ключ от кладовой"}
+{"msgctxt":"items","msgid":"Stout Spear","msgstr":"Крепкое копьё"}
+{"msgctxt":"items","msgid":"Strong Belt","msgstr":"Крепкий пояс"}
+{"msgctxt":"items","msgid":"Studded Leather","msgstr":"Клёпаные кожаные доспехи"}
+{"msgctxt":"items","msgid":"Sturdy Belt","msgstr":"Прочный пояс"}
+{"msgctxt":"items","msgid":"Sublime Spear","msgstr":"Величественное копьё"}
+{"msgctxt":"items","msgid":"Sulfur","msgstr":"Сера"}
+{"msgctxt":"items","msgid":"Summon Elemental","msgstr":"Призыв элементаля"}
+{"msgctxt":"items","msgid":"Summon Wisp","msgstr":"Призыв блуждающего огонька"}
+{"msgctxt":"items","msgid":"Sun Amulet","msgstr":"Амулет Солнца"}
+{"msgctxt":"items","msgid":"Sun Cloak","msgstr":"Солнечный плащ"}
+{"msgctxt":"items","msgid":"Sun Hammer","msgstr":"Молот Солнца"}
+{"msgctxt":"items","msgid":"Sun Opal Ring","msgstr":"Кольцо с солнечным опалом"}
+{"msgctxt":"items","msgid":"Sunray","msgstr":"Солнечный луч"}
+{"msgctxt":"items","msgid":"Sunstone","msgstr":"Солнечный камень"}
+{"msgctxt":"items","msgid":"Super Resistance","msgstr":"Сверхсопротивление"}
+{"msgctxt":"items","msgid":"Supreme Axe","msgstr":"Непревзойдённый топор"}
+{"msgctxt":"items","msgid":"Supreme Flail","msgstr":"Непревзойдённый цеп"}
+{"msgctxt":"items","msgid":"Supreme Plate","msgstr":"Непревзойдённые латы"}
+{"msgctxt":"items","msgid":"Supreme Protection","msgstr":"Высшая защита"}
+{"msgctxt":"items","msgid":"Swift Potion","msgstr":"Зелье скорости"}
+{"msgctxt":"items","msgid":"Swift Potion Recipe","msgstr":"Рецепт зелья скорости"}
+{"msgctxt":"items","msgid":"Sword of Whistlebone","msgstr":"Меч Вистлбона"}
+{"msgctxt":"items","msgid":"Taledon's Helm","msgstr":"Шлем Таледона"}
+{"msgctxt":"items","msgid":"Tanir's Bell","msgstr":"Колокол Танира"}
+{"msgctxt":"items","msgid":"Telelocator","msgstr":"Телелокатор"}
+{"msgctxt":"items","msgid":"Telepathy","msgstr":"Телепатия"}
+{"msgctxt":"items","msgid":"Teleporter Key","msgstr":"Ключ от телепорта"}
+{"msgctxt":"items","msgid":"Templar's Sword","msgstr":"Меч храмовника"}
+{"msgctxt":"items","msgid":"Temple Gong","msgstr":"Храмовый гонг"}
+{"msgctxt":"items","msgid":"Temple in a Bottle","msgstr":"Храм в бутылке"}
+{"msgctxt":"items","msgid":"Temple Mace","msgstr":"Храмовая булава"}
+{"msgctxt":"items","msgid":"Terminus","msgstr":"Терминус"}
+{"msgctxt":"items","msgid":"The DeathBlade","msgstr":"Клинок Смерти"}
+{"msgctxt":"items","msgid":"The Letter","msgstr":"Письмо"}
+{"msgctxt":"items","msgid":"The Perfect Bow","msgstr":"Совершенный лук"}
+{"msgctxt":"items","msgid":"The Third Eye","msgstr":"Третий глаз"}
+{"msgctxt":"items","msgid":"Thigh Bone","msgstr":"Бедренная кость"}
+{"msgctxt":"items","msgid":"Thor","msgstr":"Тор"}
+{"msgctxt":"items","msgid":"Thornbark","msgstr":"Терновая кора"}
+{"msgctxt":"items","msgid":"Thornbark Club","msgstr":"Дубинка из терновой коры"}
+{"msgctxt":"items","msgid":"Thornbark Shield","msgstr":"Щит из терновой коры"}
+{"msgctxt":"items","msgid":"Thunder Mace","msgstr":"Громовая булава"}
+{"msgctxt":"items","msgid":"Tiger Statuette","msgstr":"Статуэтка тигра"}
+{"msgctxt":"items","msgid":"Titan's Belt","msgstr":"Пояс титана"}
+{"msgctxt":"items","msgid":"Titanic Trident","msgstr":"Титанический трезубец"}
+{"msgctxt":"items","msgid":"Tobersk Brandy","msgstr":"Тоберское бренди"}
+{"msgctxt":"items","msgid":"Tobersk Fruit","msgstr":"Плод тоберска"}
+{"msgctxt":"items","msgid":"Tobersk Pulp","msgstr":"Мякоть тоберска"}
+{"msgctxt":"items","msgid":"Tooth","msgstr":"Зуб"}
+{"msgctxt":"items","msgid":"Topaz","msgstr":"Топаз"}
+{"msgctxt":"items","msgid":"Torn Page","msgstr":"Вырванная страница"}
+{"msgctxt":"items","msgid":"Tournament Bow","msgstr":"Турнирный лук"}
+{"msgctxt":"items","msgid":"Tower Shield","msgstr":"Башенный щит"}
+{"msgctxt":"items","msgid":"Traveler's Cloak","msgstr":"Плащ путника"}
+{"msgctxt":"items","msgid":"Traveller's Hat","msgstr":"Шляпа путешественника"}
+{"msgctxt":"items","msgid":"Treasure Room Key","msgstr":"Ключ от сокровищницы"}
+{"msgctxt":"items","msgid":"Trident","msgstr":"Трезубец"}
+{"msgctxt":"items","msgid":"Trident of Rulership","msgstr":"Трезубец Владычества"}
+{"msgctxt":"items","msgid":"Triton Trident","msgstr":"Трезубец тритона"}
+{"msgctxt":"items","msgid":"Troll Gauntlets","msgstr":"Тролльские латные рукавицы"}
+{"msgctxt":"items","msgid":"Trollish Claymore","msgstr":"Троллий клеймор"}
+{"msgctxt":"items","msgid":"Trollish Maul","msgstr":"Троллья кувалда"}
+{"msgctxt":"items","msgid":"Trollish Shield","msgstr":"Тролльский щит"}
+{"msgctxt":"items","msgid":"Trollish War Mace","msgstr":"Троллья боевая булава"}
+{"msgctxt":"items","msgid":"Trollish War Sword","msgstr":"Боевой меч тролля"}
+{"msgctxt":"items","msgid":"True Crossbow","msgstr":"Верный арбалет"}
+{"msgctxt":"items","msgid":"Turquoise Amulet","msgstr":"Бирюзовый амулет"}
+{"msgctxt":"items","msgid":"Twilight","msgstr":"Сумрак"}
+{"msgctxt":"items","msgid":"Twilight Kris","msgstr":"Крис Сумрака"}
+{"msgctxt":"items","msgid":"Two-Handed Axe","msgstr":"Двуручный топор"}
+{"msgctxt":"items","msgid":"Two-Handed Sword","msgstr":"Двуручный меч"}
+{"msgctxt":"items","msgid":"Ullyses","msgstr":"Улисс"}
+{"msgctxt":"items","msgid":"Ultimate Boots","msgstr":"Непревзойдённые сапоги"}
+{"msgctxt":"items","msgid":"Ultimate Gauntlets","msgstr":"Совершенные латные рукавицы"}
+{"msgctxt":"items","msgid":"Unicorn Horn","msgstr":"Рог единорога"}
+{"msgctxt":"items","msgid":"Urn of Ashes","msgstr":"Урна с прахом"}
+{"msgctxt":"items","msgid":"Valeria","msgstr":"Валерия"}
+{"msgctxt":"items","msgid":"Valuable Ring","msgstr":"Ценное кольцо"}
+{"msgctxt":"items","msgid":"Vampire Cloak","msgstr":"Плащ вампира"}
+{"msgctxt":"items","msgid":"Vampire's Cape","msgstr":"Накидка вампира"}
+{"msgctxt":"items","msgid":"Vampire's Ring","msgstr":"Кольцо вампира"}
+{"msgctxt":"items","msgid":"Vampiric Weapon","msgstr":"Оружие вампира"}
+{"msgctxt":"items","msgid":"Vanguard Belt","msgstr":"Пояс авангарда"}
+{"msgctxt":"items","msgid":"VARN Chest Key","msgstr":"Ключ от сундука ВАРН"}
+{"msgctxt":"items","msgid":"Vase","msgstr":"Ваза"}
+{"msgctxt":"items","msgid":"Veteran Shield","msgstr":"Щит ветерана"}
+{"msgctxt":"items","msgid":"Vial of Devil Ichor","msgstr":"Флакон с ихором дьявола"}
+{"msgctxt":"items","msgid":"Vial of Grave Earth","msgstr":"Флакон с могильной землёй"}
+{"msgctxt":"items","msgid":"Vial of Ooze Endoplasm","msgstr":"Склянка с эндоплазмой слизи"}
+{"msgctxt":"items","msgid":"Vial of Troll Blood","msgstr":"Флакон с кровью тролля"}
+{"msgctxt":"items","msgid":"Villain's Blade","msgstr":"Клинок злодея"}
+{"msgctxt":"items","msgid":"Volcano","msgstr":"Вулкан"}
+{"msgctxt":"items","msgid":"Walking Boots","msgstr":"Походные сапоги"}
+{"msgctxt":"items","msgid":"Wallace","msgstr":"Уоллес"}
+{"msgctxt":"items","msgid":"Wand of Arrows","msgstr":"Жезл стрел"}
+{"msgctxt":"items","msgid":"Wand of Cold","msgstr":"Жезл Холода"}
+{"msgctxt":"items","msgid":"Wand of Fire","msgstr":"Жезл Огня"}
+{"msgctxt":"items","msgid":"Wand of Flame","msgstr":"Жезл пламени"}
+{"msgctxt":"items","msgid":"Wand of Harm","msgstr":"Жезл Вреда"}
+{"msgctxt":"items","msgid":"Wand of Poison","msgstr":"Жезл яда"}
+{"msgctxt":"items","msgid":"Wand of Sparks","msgstr":"Жезл искр"}
+{"msgctxt":"items","msgid":"Wand of Static","msgstr":"Жезл статического разряда"}
+{"msgctxt":"items","msgid":"Wand of Stunning","msgstr":"Жезл оглушения"}
+{"msgctxt":"items","msgid":"War Axe","msgstr":"Боевой топор"}
+{"msgctxt":"items","msgid":"War Hammer","msgstr":"Боевой молот"}
+{"msgctxt":"items","msgid":"War Spear","msgstr":"Боевое копьё"}
+{"msgctxt":"items","msgid":"War Trident","msgstr":"Боевой трезубец"}
+{"msgctxt":"items","msgid":"Warhammer","msgstr":"Боевой молот"}
+{"msgctxt":"items","msgid":"Warlock's Ring","msgstr":"Кольцо чернокнижника"}
+{"msgctxt":"items","msgid":"Warlord Belt","msgstr":"Пояс полководца"}
+{"msgctxt":"items","msgid":"Warlord's Key","msgstr":"Ключ полководца"}
+{"msgctxt":"items","msgid":"Warrior Sword","msgstr":"Меч воина"}
+{"msgctxt":"items","msgid":"Warrior's Poleaxe","msgstr":"Секира воина"}
+{"msgctxt":"items","msgid":"Wasp Stingers","msgstr":"Осиные жала"}
+{"msgctxt":"items","msgid":"Wasp Wing","msgstr":"Крыло осы"}
+{"msgctxt":"items","msgid":"Water Breathing","msgstr":"Дыхание под водой"}
+{"msgctxt":"items","msgid":"Water Resistance","msgstr":"Сопротивление Воде"}
+{"msgctxt":"items","msgid":"Water Resistance Recipe","msgstr":"Рецепт «Сопротивление Воде»"}
+{"msgctxt":"items","msgid":"Water Temple Key","msgstr":"Ключ от храма Воды"}
+{"msgctxt":"items","msgid":"Wealthy Hat","msgstr":"Роскошная шляпа"}
+{"msgctxt":"items","msgid":"Weighted Halberd","msgstr":"Утяжелённая алебарда"}
+{"msgctxt":"items","msgid":"West Pillar Key","msgstr":"Ключ от западного столпа"}
+{"msgctxt":"items","msgid":"Wetsuit","msgstr":"Гидрокостюм"}
+{"msgctxt":"items","msgid":"Wheel of Frelandeau","msgstr":"Головка сыра «Фреландо»"}
+{"msgctxt":"items","msgid":"Whisp wrappings","msgstr":"Обмотки Виспа"}
+{"msgctxt":"items","msgid":"Wicked Mace","msgstr":"Зловещая булава"}
+{"msgctxt":"items","msgid":"Widoweeps Berries","msgstr":"Ягоды «Вдовьи слёзы»"}
+{"msgctxt":"items","msgid":"Widowsweep Berries","msgstr":"Ягоды вдовьей метлы"}
+{"msgctxt":"items","msgid":"Will O' Wisp Heart","msgstr":"Сердце блуждающего огонька"}
+{"msgctxt":"items","msgid":"William's Tower Key","msgstr":"Ключ от башни Уильяма"}
+{"msgctxt":"items","msgid":"Winged Sandals","msgstr":"Крылатые сандалии"}
+{"msgctxt":"items","msgid":"Witch Ring","msgstr":"Кольцо ведьмы"}
+{"msgctxt":"items","msgid":"Witch's Amulet","msgstr":"Амулет ведьмы"}
+{"msgctxt":"items","msgid":"Witch's Wand of Fire","msgstr":"Ведьмин жезл Огня"}
+{"msgctxt":"items","msgid":"Witch's Wand of Harming","msgstr":"Ведьмин жезл вреда"}
+{"msgctxt":"items","msgid":"Witch's Wand of Poison","msgstr":"Ведьмин жезл яда"}
+{"msgctxt":"items","msgid":"Witch's Wand of Sparks","msgstr":"Ведьмин жезл искр"}
+{"msgctxt":"items","msgid":"Witch's Wand of Stunning","msgstr":"Ведьмин жезл оглушения"}
+{"msgctxt":"items","msgid":"Wizard Cap","msgstr":"Колпак волшебника"}
+{"msgctxt":"items","msgid":"Wizard Ring","msgstr":"Кольцо волшебника"}
+{"msgctxt":"items","msgid":"Wizard Staff","msgstr":"Посох Волшебника"}
+{"msgctxt":"items","msgid":"Wizard Wand of Acid","msgstr":"Волшебный жезл кислоты"}
+{"msgctxt":"items","msgid":"Wizard Wand of Berzerking","msgstr":"Волшебный жезл берсерка"}
+{"msgctxt":"items","msgid":"Wizard Wand of Blades","msgstr":"Жезл волшебника Лезвий"}
+{"msgctxt":"items","msgid":"Wizard Wand of Fireballs","msgstr":"Волшебный жезл огненных шаров"}
+{"msgctxt":"items","msgid":"Wizard Wand of Lightning","msgstr":"Волшебный жезл молнии"}
+{"msgctxt":"items","msgid":"Wolf Statuette","msgstr":"Статуэтка волка"}
+{"msgctxt":"items","msgid":"Wolf's Eye","msgstr":"Волчий глаз"}
+{"msgctxt":"items","msgid":"Wonder Mace","msgstr":"Булава чудес"}
+{"msgctxt":"items","msgid":"Wooden Buckler","msgstr":"Деревянный баклер"}
+{"msgctxt":"items","msgid":"Wooden Shield","msgstr":"Деревянный щит"}
+{"msgctxt":"items","msgid":"Worn Belt","msgstr":"Изношенный пояс"}
+{"msgctxt":"items","msgid":"Wyrm Spitter","msgstr":"Плевок змия"}
+{"msgctxt":"items","msgid":"Wyvern Horn","msgstr":"Рог виверны"}
+{"msgctxt":"items","msgid":"Wyvern Leather Belt","msgstr":"Кожаный пояс из шкуры виверны"}
+{"msgctxt":"items","msgid":"Yellow Topaz","msgstr":"Жёлтый топаз"}
+{"msgctxt":"items","msgid":"Yoruba","msgstr":"Йоруба"}
+{"msgctxt":"items","msgid":"Zealot Mace","msgstr":"Булава фанатика"}
+{"msgctxt":"items","msgid":"Zeus","msgstr":"Зевс"}
+{"msgctxt":"items","msgid":"Zircon","msgstr":"Циркон"}
+{"msgctxt":"items","msgid":"Zokarr IV's Skull","msgstr":"Череп Зокарра IV"}
+{"msgctxt":"items","msgid":"Zokarr's Axe","msgstr":"Топор Зокарра"}
+{"msgctxt":"location","msgid":"Abandoned Pirate Keep","msgstr":"Заброшенная пиратская крепость"}
+{"msgctxt":"location","msgid":"Abandoned Temple","msgstr":"Заброшенный храм"}
+{"msgctxt":"location","msgid":"Agar's Laboratory","msgstr":"Лаборатория Агара"}
+{"msgctxt":"location","msgid":"Alvar","msgstr":"Альвар"}
+{"msgctxt":"location","msgid":"Ancient Troll Home","msgstr":"Древнее жилище троллей"}
+{"msgctxt":"location","msgid":"Arena","msgstr":"Арена"}
+{"msgctxt":"location","msgid":"Avlee","msgstr":"Авли"}
+{"msgctxt":"location","msgid":"Balthazar Lair","msgstr":"Логово Бальтазара"}
+{"msgctxt":"location","msgid":"Barbarian Fortress","msgstr":"Крепость варваров"}
+{"msgctxt":"location","msgid":"Barrow I","msgstr":"Курган I"}
+{"msgctxt":"location","msgid":"Barrow II","msgstr":"Курган II"}
+{"msgctxt":"location","msgid":"Barrow III","msgstr":"Курган III"}
+{"msgctxt":"location","msgid":"Barrow IV","msgstr":"Курган IV"}
+{"msgctxt":"location","msgid":"Barrow IX","msgstr":"Курган IX"}
+{"msgctxt":"location","msgid":"Barrow V","msgstr":"Курган V"}
+{"msgctxt":"location","msgid":"Barrow VI","msgstr":"Курган VI"}
+{"msgctxt":"location","msgid":"Barrow VII","msgstr":"Курган VII"}
+{"msgctxt":"location","msgid":"Barrow VIII","msgstr":"Курган VIII"}
+{"msgctxt":"location","msgid":"Barrow X","msgstr":"Курган X"}
+{"msgctxt":"location","msgid":"Barrow XI","msgstr":"Курган XI"}
+{"msgctxt":"location","msgid":"Barrow XII","msgstr":"Курган XII"}
+{"msgctxt":"location","msgid":"Barrow XIII","msgstr":"Курган XIII"}
+{"msgctxt":"location","msgid":"Barrow XIV","msgstr":"Курган XIV"}
+{"msgctxt":"location","msgid":"Barrow XV","msgstr":"Курган XV"}
+{"msgctxt":"location","msgid":"Basement of the Breach","msgstr":"Подвал Разлома"}
+{"msgctxt":"location","msgid":"Blackshire","msgstr":"Блэкшир"}
+{"msgctxt":"location","msgid":"Bootleg Bay","msgstr":"Бухта Контрабандистов"}
+{"msgctxt":"location","msgid":"Castle Alamos","msgstr":"Замок Аламос"}
+{"msgctxt":"location","msgid":"Castle Darkmoor","msgstr":"Замок Даркмур"}
+{"msgctxt":"location","msgid":"Castle Gloaming","msgstr":"Сумеречный замок"}
+{"msgctxt":"location","msgid":"Castle Gryphonheart","msgstr":"Замок Грифонхарт"}
+{"msgctxt":"location","msgid":"Castle Harmondale","msgstr":"Замок Хармондейл"}
+{"msgctxt":"location","msgid":"Castle Ironfist","msgstr":"Замок Айронфист"}
+{"msgctxt":"location","msgid":"Castle Kriegspire","msgstr":"Замок Кригспайр"}
+{"msgctxt":"location","msgid":"Castle Lambent","msgstr":"Сияющий замок"}
+{"msgctxt":"location","msgid":"Castle Navan","msgstr":"Замок Наван"}
+{"msgctxt":"location","msgid":"Castle of Air","msgstr":"Замок Воздуха"}
+{"msgctxt":"location","msgid":"Castle of Fire","msgstr":"Замок Огня"}
+{"msgctxt":"location","msgid":"Caves of the Dragon Riders","msgstr":"Пещеры наездников драконов"}
+{"msgctxt":"location","msgid":"Celeste","msgstr":"Селеста"}
+{"msgctxt":"location","msgid":"Chain of Fire","msgstr":"Цепь Огня"}
+{"msgctxt":"location","msgid":"Chapel of Eep","msgstr":"Часовня Иипа"}
+{"msgctxt":"location","msgid":"Church of Eep","msgstr":"Церковь Иипа"}
+{"msgctxt":"location","msgid":"Clanker's Laboratory","msgstr":"Лаборатория Кланкера"}
+{"msgctxt":"location","msgid":"Colony Zod","msgstr":"Колония Зод"}
+{"msgctxt":"location","msgid":"Control Center","msgstr":"Центр управления"}
+{"msgctxt":"location","msgid":"Corlagon's Estate","msgstr":"Поместье Корлагона"}
+{"msgctxt":"location","msgid":"Cyclops Larder","msgstr":"Кладовая циклопов"}
+{"msgctxt":"location","msgid":"Dagger Wound Island","msgstr":"Остров Кинжальной Раны"}
+{"msgctxt":"location","msgid":"Dark Dwarf Compound","msgstr":"Поселение тёмных гномов"}
+{"msgctxt":"location","msgid":"Devil Outpost","msgstr":"Застава дьяволов"}
+{"msgctxt":"location","msgid":"Deyja","msgstr":"Дейя"}
+{"msgctxt":"location","msgid":"Dire Wolf Den","msgstr":"Логово лютых волков"}
+{"msgctxt":"location","msgid":"Dragon Cave","msgstr":"Драконья пещера"}
+{"msgctxt":"location","msgid":"Dragon Hunter's Camp","msgstr":"Лагерь охотника на драконов"}
+{"msgctxt":"location","msgid":"Dragon's Lair","msgstr":"Логово дракона"}
+{"msgctxt":"location","msgid":"Dragonsand","msgstr":"Драконсэнд"}
+{"msgctxt":"location","msgid":"Dragoons' Caverns","msgstr":"Пещеры драгунов"}
+{"msgctxt":"location","msgid":"Dragoons' Keep","msgstr":"Крепость драгунов"}
+{"msgctxt":"location","msgid":"Druid Circle","msgstr":"Круг друидов"}
+{"msgctxt":"location","msgid":"Eel Infested Waters","msgstr":"Воды, кишащие угрями"}
+{"msgctxt":"location","msgid":"Emerald Island","msgstr":"Изумрудный остров"}
+{"msgctxt":"location","msgid":"Erathia","msgstr":"Эрафия"}
+{"msgctxt":"location","msgid":"Escaton's Crystal","msgstr":"Кристалл Эскатона"}
+{"msgctxt":"location","msgid":"Escaton's Palace","msgstr":"Дворец Эскатона"}
+{"msgctxt":"location","msgid":"Evenmorn Island","msgstr":"Остров Эвенморн"}
+{"msgctxt":"location","msgid":"Fort Riverstride","msgstr":"Форт Риверстрайд"}
+{"msgctxt":"location","msgid":"Free Haven","msgstr":"Свободная Гавань"}
+{"msgctxt":"location","msgid":"Free Haven Sewer","msgstr":"Канализация Свободной Гавани"}
+{"msgctxt":"location","msgid":"Frozen Highlands","msgstr":"Ледяное нагорье"}
+{"msgctxt":"location","msgid":"Garrote Gorge","msgstr":"Ущелье Гарроты"}
+{"msgctxt":"location","msgid":"Gharik's Forge","msgstr":"Кузница Гарика"}
+{"msgctxt":"location","msgid":"Goblinwatch","msgstr":"Гоблинская застава"}
+{"msgctxt":"location","msgid":"Grand Temple of Eep","msgstr":"Великий храм Иипа"}
+{"msgctxt":"location","msgid":"Grand Temple of the Moon","msgstr":"Великий храм Луны"}
+{"msgctxt":"location","msgid":"Grand Temple of the Sun","msgstr":"Великий храм Солнца"}
+{"msgctxt":"location","msgid":"Hall of the Fire Lord","msgstr":"Чертог Владыки Огня"}
+{"msgctxt":"location","msgid":"Harmondale","msgstr":"Хармондейл"}
+{"msgctxt":"location","msgid":"Hermit's Isle","msgstr":"Остров отшельника"}
+{"msgctxt":"location","msgid":"Icewind Keep","msgstr":"Крепость Ледяного Ветра"}
+{"msgctxt":"location","msgid":"Ilsingore's Cave","msgstr":"Пещера Ильсингора"}
+{"msgctxt":"location","msgid":"Ironsand Desert","msgstr":"Пустыня Железных Песков"}
+{"msgctxt":"location","msgid":"Kriegspire","msgstr":"Кригспайр"}
+{"msgctxt":"location","msgid":"Lair of the Wolf","msgstr":"Волчье логово"}
+{"msgctxt":"location","msgid":"Lord Markham's Manor","msgstr":"Поместье лорда Мархэма"}
+{"msgctxt":"location","msgid":"Mad Necromancer's Lab","msgstr":"Лаборатория безумного некроманта"}
+{"msgctxt":"location","msgid":"Merchant House of Alvar","msgstr":"Купеческий дом Альвара"}
+{"msgctxt":"location","msgid":"Mire of the Damned","msgstr":"Трясина проклятых"}
+{"msgctxt":"location","msgid":"Misty Islands","msgstr":"Туманные острова"}
+{"msgctxt":"location","msgid":"Mount Nighon","msgstr":"Гора Нигон"}
+{"msgctxt":"location","msgid":"Murmurwoods","msgstr":"Шепчущие леса"}
+{"msgctxt":"location","msgid":"Naga Vault","msgstr":"Хранилище наг"}
+{"msgctxt":"location","msgid":"Necromancers' Guild","msgstr":"Гильдия некромантов"}
+{"msgctxt":"location","msgid":"New Sorpigal","msgstr":"Нью-Сорпигаль"}
+{"msgctxt":"location","msgid":"New World Computing","msgstr":"Нью Уорлд Компьютинг"}
+{"msgctxt":"location","msgid":"Nighon Tunnels","msgstr":"Туннели Нигона"}
+{"msgctxt":"location","msgid":"NWC","msgstr":"NWC"}
+{"msgctxt":"location","msgid":"Ogre Fortress","msgstr":"Крепость огров"}
+{"msgctxt":"location","msgid":"Old Loeb's Cave","msgstr":"Пещера старого Лоэба"}
+{"msgctxt":"location","msgid":"Oracle of Enroth","msgstr":"Оракул Энрота"}
+{"msgctxt":"location","msgid":"Paradise Valley","msgstr":"Райская долина"}
+{"msgctxt":"location","msgid":"Passage Under Regna","msgstr":"Проход под Регной"}
+{"msgctxt":"location","msgid":"pending","msgstr":"не определено"}
+{"msgctxt":"location","msgid":"Pirate Outpost","msgstr":"Пиратский аванпост"}
+{"msgctxt":"location","msgid":"Pirate Stronghold","msgstr":"Пиратская твердыня"}
+{"msgctxt":"location","msgid":"Plane Between Planes","msgstr":"План между планами"}
+{"msgctxt":"location","msgid":"Plane of Air","msgstr":"План Воздуха"}
+{"msgctxt":"location","msgid":"Plane of Earth","msgstr":"План Земли"}
+{"msgctxt":"location","msgid":"Plane of Fire","msgstr":"План Огня"}
+{"msgctxt":"location","msgid":"Plane of Water","msgstr":"План Воды"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Air","msgstr":"Тюрьма Повелителя Воздуха"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Earth","msgstr":"Тюрьма Повелителя Земли"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Fire","msgstr":"Тюрьма Повелителя Огня"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Water","msgstr":"Тюрьма Повелителя Воды"}
+{"msgctxt":"location","msgid":"Ravage Roaming","msgstr":"Дикие просторы"}
+{"msgctxt":"location","msgid":"Ravenshore","msgstr":"Воронов Берег"}
+{"msgctxt":"location","msgid":"Regna","msgstr":"Регна"}
+{"msgctxt":"location","msgid":"Shadow Guild","msgstr":"Гильдия Тени"}
+{"msgctxt":"location","msgid":"Shadow Guild Hideout","msgstr":"Убежище Гильдии Тени"}
+{"msgctxt":"location","msgid":"Shadowspire","msgstr":"Шпиль Теней"}
+{"msgctxt":"location","msgid":"Shoals","msgstr":"Отмели"}
+{"msgctxt":"location","msgid":"Silver Cove","msgstr":"Серебряная бухта"}
+{"msgctxt":"location","msgid":"Silver Helm Outpost","msgstr":"Форпост Серебряного Шлема"}
+{"msgctxt":"location","msgid":"Silver Helm Stronghold","msgstr":"Крепость Серебряного Шлема"}
+{"msgctxt":"location","msgid":"Small Sub Pen","msgstr":"Малый док для подлодок"}
+{"msgctxt":"location","msgid":"Smuggler's Cove","msgstr":"Бухта контрабандистов"}
+{"msgctxt":"location","msgid":"Snergle's Caverns","msgstr":"Пещеры Снергла"}
+{"msgctxt":"location","msgid":"Snergle's Iron Mines","msgstr":"Железные копи Снергла"}
+{"msgctxt":"location","msgid":"Stone City","msgstr":"Каменный город"}
+{"msgctxt":"location","msgid":"Superior Temple of Baa","msgstr":"Высший храм Баа"}
+{"msgctxt":"location","msgid":"Supreme Temple of Baa","msgstr":"Верховный храм Баа"}
+{"msgctxt":"location","msgid":"Sweet Water","msgstr":"Сладкая Вода"}
+{"msgctxt":"location","msgid":"Tatalia","msgstr":"Таталия"}
+{"msgctxt":"location","msgid":"Temple of Baa","msgstr":"Храм Баа"}
+{"msgctxt":"location","msgid":"Temple of the Dark","msgstr":"Храм Тьмы"}
+{"msgctxt":"location","msgid":"Temple of the Fist","msgstr":"Храм Кулака"}
+{"msgctxt":"location","msgid":"Temple of the Light","msgstr":"Храм Света"}
+{"msgctxt":"location","msgid":"Temple of the Moon","msgstr":"Храм Луны"}
+{"msgctxt":"location","msgid":"Temple of the Snake","msgstr":"Храм Змеи"}
+{"msgctxt":"location","msgid":"Temple of the Sun","msgstr":"Храм Солнца"}
+{"msgctxt":"location","msgid":"Temple of Tsantsa","msgstr":"Храм Цанцы"}
+{"msgctxt":"location","msgid":"The Arena","msgstr":"Арена"}
+{"msgctxt":"location","msgid":"The Bandit Caves","msgstr":"Пещеры бандитов"}
+{"msgctxt":"location","msgid":"The Barrow Downs","msgstr":"Курганы"}
+{"msgctxt":"location","msgid":"The Bracada Desert","msgstr":"Пустыня Бракада"}
+{"msgctxt":"location","msgid":"The Breach","msgstr":"Разлом"}
+{"msgctxt":"location","msgid":"The Breeding Zone","msgstr":"Зона размножения"}
+{"msgctxt":"location","msgid":"The Crypt of Korbu","msgstr":"Склеп Корбу"}
+{"msgctxt":"location","msgid":"The Dragon Caves","msgstr":"Драконьи пещеры"}
+{"msgctxt":"location","msgid":"The Dragon's Lair","msgstr":"Логово дракона"}
+{"msgctxt":"location","msgid":"The Erathian Sewers","msgstr":"Эрафийская канализация"}
+{"msgctxt":"location","msgid":"The Hall of the Pit","msgstr":"Зал Бездны"}
+{"msgctxt":"location","msgid":"The Hall under the Hill","msgstr":"Чертог под холмом"}
+{"msgctxt":"location","msgid":"The Haunted Mansion","msgstr":"Особняк с привидениями"}
+{"msgctxt":"location","msgid":"The Hidden Tomb","msgstr":"Тайная гробница"}
+{"msgctxt":"location","msgid":"The Hive","msgstr":"Улей"}
+{"msgctxt":"location","msgid":"The Land of the Giants","msgstr":"Земля гигантов"}
+{"msgctxt":"location","msgid":"The Lincoln","msgstr":"Линкольн"}
+{"msgctxt":"location","msgid":"The Maze","msgstr":"Лабиринт"}
+{"msgctxt":"location","msgid":"The Mercenary Guild ","msgstr":"Гильдия наёмников "}
+{"msgctxt":"location","msgid":"The Monolith","msgstr":"Монолит"}
+{"msgctxt":"location","msgid":"The Pit","msgstr":"Бездна"}
+{"msgctxt":"location","msgid":"The Red Dwarf Mines","msgstr":"Копи красных гномов"}
+{"msgctxt":"location","msgid":"The School of Sorcery","msgstr":"Школа чародейства"}
+{"msgctxt":"location","msgid":"The Small House","msgstr":"Маленький дом"}
+{"msgctxt":"location","msgid":"The Strange Temple","msgstr":"Странный храм"}
+{"msgctxt":"location","msgid":"The Temple of Baa","msgstr":"Храм Баа"}
+{"msgctxt":"location","msgid":"The Temple of the Moon","msgstr":"Храм Луны"}
+{"msgctxt":"location","msgid":"The Tidewater Caverns","msgstr":"Приливные пещеры"}
+{"msgctxt":"location","msgid":"The Titans' Stronghold","msgstr":"Крепость титанов"}
+{"msgctxt":"location","msgid":"The Tularean Caves","msgstr":"Тулареанские пещеры"}
+{"msgctxt":"location","msgid":"The Tularean Forest","msgstr":"Тулареанский лес"}
+{"msgctxt":"location","msgid":"The Walls of Mist","msgstr":"Стены тумана"}
+{"msgctxt":"location","msgid":"The Wine Cellar","msgstr":"Винный погреб"}
+{"msgctxt":"location","msgid":"Thunderfist Mountain","msgstr":"Гора Громового Кулака"}
+{"msgctxt":"location","msgid":"Tomb of Ethric the Mad","msgstr":"Гробница Этрика Безумного"}
+{"msgctxt":"location","msgid":"Tomb of Lord Brinne","msgstr":"Гробница лорда Бринна"}
+{"msgctxt":"location","msgid":"Tomb of VARN","msgstr":"Гробница ВАРН"}
+{"msgctxt":"location","msgid":"Troll Tomb","msgstr":"Гробница троллей"}
+{"msgctxt":"location","msgid":"Tunnels to Eeofol","msgstr":"Туннели в Эофол"}
+{"msgctxt":"location","msgid":"Tutorial","msgstr":"Обучение"}
+{"msgctxt":"location","msgid":"Uplifted Library","msgstr":"Вознесённая библиотека"}
+{"msgctxt":"location","msgid":"Vampire Crypt","msgstr":"Склеп вампиров"}
+{"msgctxt":"location","msgid":"War Camp","msgstr":"Военный лагерь"}
+{"msgctxt":"location","msgid":"Warlord's Fortress","msgstr":"Крепость полководца"}
+{"msgctxt":"location","msgid":"Wasp Nest","msgstr":"Осиное гнездо"}
+{"msgctxt":"location","msgid":"Watchtower 6","msgstr":"Сторожевая башня 6"}
+{"msgctxt":"location","msgid":"White Cliff Cave","msgstr":"Пещера Белого утёса"}
+{"msgctxt":"location","msgid":"William Setag's Tower","msgstr":"Башня Уильяма Сетага"}
+{"msgctxt":"location","msgid":"Wromthrax's Cave","msgstr":"Пещера Ромтракса"}
+{"msgctxt":"location","msgid":"Yaardrake's Cave","msgstr":"Пещера Ярдрейка"}
+{"msgctxt":"location","msgid":"Zokarr's Tomb","msgstr":"Гробница Зокарра"}
+{"msgctxt":"monsters","msgid":"Acidic Ooze","msgstr":"Кислотная слизь"}
+{"msgctxt":"monsters","msgid":"Acolyte of Baa","msgstr":"Послушник Баа"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Moon","msgstr":"Послушник Луны"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Sun","msgstr":"Послушник Солнца"}
+{"msgctxt":"monsters","msgid":"Adventurer","msgstr":"Искатель приключений"}
+{"msgctxt":"monsters","msgid":"Agar's Abomination","msgstr":"Мерзость Агара"}
+{"msgctxt":"monsters","msgid":"Agar's Monster","msgstr":"Чудовище Агара"}
+{"msgctxt":"monsters","msgid":"Agar's Pet","msgstr":"Любимец Агара"}
+{"msgctxt":"monsters","msgid":"Air Elemental","msgstr":"Воздушный элементаль"}
+{"msgctxt":"monsters","msgid":"Air Hydra","msgstr":"Воздушная гидра"}
+{"msgctxt":"monsters","msgid":"Air Warlock","msgstr":"Чернокнижник воздуха"}
+{"msgctxt":"monsters","msgid":"Ancient Behemoth","msgstr":"Древнее чудище"}
+{"msgctxt":"monsters","msgid":"Ancient Wyvern","msgstr":"Древняя виверна"}
+{"msgctxt":"monsters","msgid":"Angel","msgstr":"Ангел"}
+{"msgctxt":"monsters","msgid":"Angel Lord","msgstr":"Владыка ангелов"}
+{"msgctxt":"monsters","msgid":"Animalist","msgstr":"Тотемист"}
+{"msgctxt":"monsters","msgid":"Apprentice Mage","msgstr":"Маг-подмастерье"}
+{"msgctxt":"monsters","msgid":"Archangel","msgstr":"Архангел"}
+{"msgctxt":"monsters","msgid":"Archer","msgstr":"Лучник"}
+{"msgctxt":"monsters","msgid":"Archmage","msgstr":"Архимаг"}
+{"msgctxt":"monsters","msgid":"Assassin","msgstr":"Ассасин"}
+{"msgctxt":"monsters","msgid":"Assassin Droid","msgstr":"Дроид-ассасин"}
+{"msgctxt":"monsters","msgid":"Bandit","msgstr":"Бандит"}
+{"msgctxt":"monsters","msgid":"Barrow Wight","msgstr":"Курганное умертвие"}
+{"msgctxt":"monsters","msgid":"Basilisk","msgstr":"Василиск"}
+{"msgctxt":"monsters","msgid":"Bat","msgstr":"Летучая мышь"}
+{"msgctxt":"monsters","msgid":"Behemoth","msgstr":"Чудище"}
+{"msgctxt":"monsters","msgid":"Bestial Animalist","msgstr":"Звериный тотемист"}
+{"msgctxt":"monsters","msgid":"Bestial Lycanthrope","msgstr":"Звероподобный ликантроп"}
+{"msgctxt":"monsters","msgid":"Bestial Shapeshifter","msgstr":"Звероподобный перевёртыш"}
+{"msgctxt":"monsters","msgid":"Blaster Guy C","msgstr":"Боец с бластером C"}
+{"msgctxt":"monsters","msgid":"Blood Sucker","msgstr":"Кровосос"}
+{"msgctxt":"monsters","msgid":"Blood Titan","msgstr":"Кровавый титан"}
+{"msgctxt":"monsters","msgid":"Bloodstone Ooze","msgstr":"Слизь кровавого камня"}
+{"msgctxt":"monsters","msgid":"Blue Dragon","msgstr":"Синий дракон"}
+{"msgctxt":"monsters","msgid":"Bone Dragon","msgstr":"Костяной дракон"}
+{"msgctxt":"monsters","msgid":"Boulder","msgstr":"Валун"}
+{"msgctxt":"monsters","msgid":"Bounty Hunter","msgstr":"Охотник за головами"}
+{"msgctxt":"monsters","msgid":"Bowman","msgstr":"Стрелок"}
+{"msgctxt":"monsters","msgid":"Brain Sucker","msgstr":"Мозгосос"}
+{"msgctxt":"monsters","msgid":"Brass Golem","msgstr":"Латунный голем"}
+{"msgctxt":"monsters","msgid":"Brass Gorgon","msgstr":"Латунная горгона"}
+{"msgctxt":"monsters","msgid":"Brigand","msgstr":"Разбойник"}
+{"msgctxt":"monsters","msgid":"Bronze Golem","msgstr":"Бронзовый голем"}
+{"msgctxt":"monsters","msgid":"Bronze Gorgon","msgstr":"Бронзовая горгона"}
+{"msgctxt":"monsters","msgid":"Buccaneer","msgstr":"Буканьер"}
+{"msgctxt":"monsters","msgid":"Burglar","msgstr":"Взломщик"}
+{"msgctxt":"monsters","msgid":"Cactus","msgstr":"Кактус"}
+{"msgctxt":"monsters","msgid":"Cannibal","msgstr":"Людоед"}
+{"msgctxt":"monsters","msgid":"Captain","msgstr":"Капитан"}
+{"msgctxt":"monsters","msgid":"Cat A","msgstr":"Кошка A"}
+{"msgctxt":"monsters","msgid":"Cat B","msgstr":"Кошка B"}
+{"msgctxt":"monsters","msgid":"Cat C","msgstr":"Кошка C"}
+{"msgctxt":"monsters","msgid":"Centaur","msgstr":"Кентавр"}
+{"msgctxt":"monsters","msgid":"Centaur Warlord","msgstr":"Кентавр-военачальник"}
+{"msgctxt":"monsters","msgid":"Centaur Warrior","msgstr":"Кентавр-воин"}
+{"msgctxt":"monsters","msgid":"Champion of the Sword","msgstr":"Чемпион Меча"}
+{"msgctxt":"monsters","msgid":"Chaos Guardian","msgstr":"Страж Хаоса"}
+{"msgctxt":"monsters","msgid":"Chaos Hydra","msgstr":"Гидра хаоса"}
+{"msgctxt":"monsters","msgid":"Chaos Overlord","msgstr":"Повелитель Хаоса"}
+{"msgctxt":"monsters","msgid":"Chaos Protector","msgstr":"Защитник Хаоса"}
+{"msgctxt":"monsters","msgid":"Charger","msgstr":"Боевой конь"}
+{"msgctxt":"monsters","msgid":"Chicken A","msgstr":"Курица"}
+{"msgctxt":"monsters","msgid":"Chicken B","msgstr":"Курица"}
+{"msgctxt":"monsters","msgid":"Chicken C","msgstr":"Курица"}
+{"msgctxt":"monsters","msgid":"Clay Elemental","msgstr":"Глиняный элементаль"}
+{"msgctxt":"monsters","msgid":"Cleric of Baa","msgstr":"Клирик Баа"}
+{"msgctxt":"monsters","msgid":"Cleric of the Moon","msgstr":"Клирик Луны"}
+{"msgctxt":"monsters","msgid":"Cleric of the Sun","msgstr":"Клирик Солнца"}
+{"msgctxt":"monsters","msgid":"Cobra","msgstr":"Кобра"}
+{"msgctxt":"monsters","msgid":"Colossal Hydra","msgstr":"Исполинская гидра"}
+{"msgctxt":"monsters","msgid":"Common Rat","msgstr":"Обычная крыса"}
+{"msgctxt":"monsters","msgid":"Conscript","msgstr":"Призывник"}
+{"msgctxt":"monsters","msgid":"Corbie","msgstr":"Грач"}
+{"msgctxt":"monsters","msgid":"Corrosive Ooze","msgstr":"Едкая слизь"}
+{"msgctxt":"monsters","msgid":"Corsair","msgstr":"Корсар"}
+{"msgctxt":"monsters","msgid":"Couatl","msgstr":"Коатль"}
+{"msgctxt":"monsters","msgid":"Crusader","msgstr":"Крестоносец"}
+{"msgctxt":"monsters","msgid":"Crystal Guardian","msgstr":"Кристальный страж"}
+{"msgctxt":"monsters","msgid":"Crystal Sentry","msgstr":"Кристальный часовой"}
+{"msgctxt":"monsters","msgid":"Crystal Walker","msgstr":"Кристальный странник"}
+{"msgctxt":"monsters","msgid":"Cuisinart","msgstr":"Мясорубка"}
+{"msgctxt":"monsters","msgid":"Cutpurse","msgstr":"Карманник"}
+{"msgctxt":"monsters","msgid":"Cyclone","msgstr":"Циклон"}
+{"msgctxt":"monsters","msgid":"Cyclops","msgstr":"Циклоп"}
+{"msgctxt":"monsters","msgid":"Cyclops Hunter","msgstr":"Циклоп-охотник"}
+{"msgctxt":"monsters","msgid":"Cyclops Warrior","msgstr":"Циклоп-воин"}
+{"msgctxt":"monsters","msgid":"Dancing Light","msgstr":"Танцующий свет"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Berserker","msgstr":"Тёмный гном-берсерк"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Grunt","msgstr":"Тёмный гном-пехотинец"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Pounder","msgstr":"Тёмный гном-молотобоец"}
+{"msgctxt":"monsters","msgid":"Dark Elf Peasant","msgstr":"Тёмный эльф-крестьянин"}
+{"msgctxt":"monsters","msgid":"Dark Elven Crusader","msgstr":"Тёмный эльф-крестоносец"}
+{"msgctxt":"monsters","msgid":"Dark Elven Defender","msgstr":"Тёмный эльф-защитник"}
+{"msgctxt":"monsters","msgid":"Dark Elven Warrior","msgstr":"Тёмный эльф-воин"}
+{"msgctxt":"monsters","msgid":"Dark Path Journeyman","msgstr":"Подмастерье Пути Тьмы"}
+{"msgctxt":"monsters","msgid":"Death Knight","msgstr":"Рыцарь смерти"}
+{"msgctxt":"monsters","msgid":"Defender of VARN","msgstr":"Защитник ВАРН"}
+{"msgctxt":"monsters","msgid":"Demolisher","msgstr":"Разрушитель"}
+{"msgctxt":"monsters","msgid":"Demon Queen","msgstr":"Королева демонов"}
+{"msgctxt":"monsters","msgid":"Devil Captain","msgstr":"Капитан дьяволов"}
+{"msgctxt":"monsters","msgid":"Devil King","msgstr":"Король дьяволов"}
+{"msgctxt":"monsters","msgid":"Devil Master","msgstr":"Владыка дьяволов"}
+{"msgctxt":"monsters","msgid":"Devil Spawn","msgstr":"Порождение дьявола"}
+{"msgctxt":"monsters","msgid":"Devil Warrior","msgstr":"Дьявол-воин"}
+{"msgctxt":"monsters","msgid":"Devil Worker","msgstr":"Дьявол-работник"}
+{"msgctxt":"monsters","msgid":"Diamond Gargoyle","msgstr":"Алмазная горгулья"}
+{"msgctxt":"monsters","msgid":"Dire Wolf","msgstr":"Лютый волк"}
+{"msgctxt":"monsters","msgid":"Dire Wolf Yearling","msgstr":"Годовалый лютый волк"}
+{"msgctxt":"monsters","msgid":"Djinn","msgstr":"Джинн"}
+{"msgctxt":"monsters","msgid":"Djinni","msgstr":"Джинн"}
+{"msgctxt":"monsters","msgid":"Dog A","msgstr":"Собака A"}
+{"msgctxt":"monsters","msgid":"Dog B","msgstr":"Собака B"}
+{"msgctxt":"monsters","msgid":"Dog C","msgstr":"Собака C"}
+{"msgctxt":"monsters","msgid":"Doom Knight","msgstr":"Рыцарь погибели"}
+{"msgctxt":"monsters","msgid":"Dragon","msgstr":"Дракон"}
+{"msgctxt":"monsters","msgid":"Dragon Flightleader","msgstr":"Предводитель драконьей стаи"}
+{"msgctxt":"monsters","msgid":"Dragon Hunter","msgstr":"Охотник на драконов"}
+{"msgctxt":"monsters","msgid":"Dragon Shark","msgstr":"Драконья акула"}
+{"msgctxt":"monsters","msgid":"Dragon Turtle","msgstr":"Драконья черепаха"}
+{"msgctxt":"monsters","msgid":"Dragonette","msgstr":"Дракончик"}
+{"msgctxt":"monsters","msgid":"Dragonfly","msgstr":"Стрекоза"}
+{"msgctxt":"monsters","msgid":"Dragonslayer","msgstr":"Драконоборец"}
+{"msgctxt":"monsters","msgid":"Druid","msgstr":"Друид"}
+{"msgctxt":"monsters","msgid":"Dust Devil","msgstr":"Пыльный вихрь"}
+{"msgctxt":"monsters","msgid":"Dwarf","msgstr":"Гном"}
+{"msgctxt":"monsters","msgid":"Dwarf Lord","msgstr":"Владыка гномов"}
+{"msgctxt":"monsters","msgid":"Dwarf Warrior","msgstr":"Гном-воин"}
+{"msgctxt":"monsters","msgid":"Dwarven Commander","msgstr":"Гном-командир"}
+{"msgctxt":"monsters","msgid":"Dwarven Lieutenant","msgstr":"Гном-лейтенант"}
+{"msgctxt":"monsters","msgid":"Dwarven Soldier","msgstr":"Гном-солдат"}
+{"msgctxt":"monsters","msgid":"Earth Elemental","msgstr":"Элементаль земли"}
+{"msgctxt":"monsters","msgid":"Earth Spirit","msgstr":"Дух Земли"}
+{"msgctxt":"monsters","msgid":"Efreet","msgstr":"Ифрит"}
+{"msgctxt":"monsters","msgid":"Efreeti Knight","msgstr":"Рыцарь-ифрит"}
+{"msgctxt":"monsters","msgid":"Efreeti Lord","msgstr":"Повелитель ифритов"}
+{"msgctxt":"monsters","msgid":"Efreeti Soldier","msgstr":"Ифрит-солдат"}
+{"msgctxt":"monsters","msgid":"Elder Basilisk","msgstr":"Старший василиск"}
+{"msgctxt":"monsters","msgid":"Elder Tortoise","msgstr":"Старшая черепаха"}
+{"msgctxt":"monsters","msgid":"Elder Vampire","msgstr":"Древний вампир"}
+{"msgctxt":"monsters","msgid":"Elite Archer","msgstr":"Элитный лучник"}
+{"msgctxt":"monsters","msgid":"Elven Archer","msgstr":"Эльфийский лучник"}
+{"msgctxt":"monsters","msgid":"Elven Defender","msgstr":"Эльф-защитник"}
+{"msgctxt":"monsters","msgid":"Elven Lancer","msgstr":"Эльфийский копейщик"}
+{"msgctxt":"monsters","msgid":"Elven Ranger","msgstr":"Эльфийский рейнджер"}
+{"msgctxt":"monsters","msgid":"Elven Scout","msgstr":"Эльф-разведчик"}
+{"msgctxt":"monsters","msgid":"Elven Warrior","msgstr":"Эльф-воин"}
+{"msgctxt":"monsters","msgid":"Ember Gog","msgstr":"Тлеющий гог"}
+{"msgctxt":"monsters","msgid":"Emerald Dragon","msgstr":"Изумрудный дракон"}
+{"msgctxt":"monsters","msgid":"Emerald Ooze","msgstr":"Изумрудная слизь"}
+{"msgctxt":"monsters","msgid":"Empress Medusa","msgstr":"Медуза-императрица"}
+{"msgctxt":"monsters","msgid":"Energy Drake","msgstr":"Энергетический дрейк"}
+{"msgctxt":"monsters","msgid":"Enforcer Unit","msgstr":"Робот-каратель"}
+{"msgctxt":"monsters","msgid":"Ether Champion","msgstr":"Эфирный чемпион"}
+{"msgctxt":"monsters","msgid":"Ether Knight","msgstr":"Эфирный рыцарь"}
+{"msgctxt":"monsters","msgid":"Ether Lord","msgstr":"Владыка эфира"}
+{"msgctxt":"monsters","msgid":"Evil Eye","msgstr":"Злобный глаз"}
+{"msgctxt":"monsters","msgid":"Evil Spirit","msgstr":"Злой дух"}
+{"msgctxt":"monsters","msgid":"Expert Swordsman","msgstr":"Мечник-эксперт"}
+{"msgctxt":"monsters","msgid":"Fanatic of Baa","msgstr":"Фанатик Баа"}
+{"msgctxt":"monsters","msgid":"Fear","msgstr":"Страх"}
+{"msgctxt":"monsters","msgid":"Fighter","msgstr":"Боец"}
+{"msgctxt":"monsters","msgid":"Fire Archer","msgstr":"Огненный лучник"}
+{"msgctxt":"monsters","msgid":"Fire Beast","msgstr":"Огненный зверь"}
+{"msgctxt":"monsters","msgid":"Fire Bird","msgstr":"Огненная птица"}
+{"msgctxt":"monsters","msgid":"Fire Dragonfly","msgstr":"Огненная стрекоза"}
+{"msgctxt":"monsters","msgid":"Fire Elemental","msgstr":"Огненный элементаль"}
+{"msgctxt":"monsters","msgid":"Fire Gog","msgstr":"Огненный гог"}
+{"msgctxt":"monsters","msgid":"Fire Hydra","msgstr":"Огненная гидра"}
+{"msgctxt":"monsters","msgid":"Fire Lizard","msgstr":"Огненный ящер"}
+{"msgctxt":"monsters","msgid":"Fire Newt","msgstr":"Огненный тритон"}
+{"msgctxt":"monsters","msgid":"Fire Rat","msgstr":"Огненная крыса"}
+{"msgctxt":"monsters","msgid":"Fire Spirit","msgstr":"Огненный дух"}
+{"msgctxt":"monsters","msgid":"Fire Warlock","msgstr":"Чернокнижник Огня"}
+{"msgctxt":"monsters","msgid":"Fish","msgstr":"Рыба"}
+{"msgctxt":"monsters","msgid":"Flame Drake","msgstr":"Пламенный дракон"}
+{"msgctxt":"monsters","msgid":"Floating Eye","msgstr":"Парящий глаз"}
+{"msgctxt":"monsters","msgid":"Flying Eye","msgstr":"Летающий глаз"}
+{"msgctxt":"monsters","msgid":"Follower of Baa","msgstr":"Последователь Баа"}
+{"msgctxt":"monsters","msgid":"Frost Drake","msgstr":"Ледяной дракон"}
+{"msgctxt":"monsters","msgid":"Gazer","msgstr":"Глазище"}
+{"msgctxt":"monsters","msgid":"Genie","msgstr":"Джинн"}
+{"msgctxt":"monsters","msgid":"Ghast","msgstr":"Гаст"}
+{"msgctxt":"monsters","msgid":"Ghost","msgstr":"Призрак"}
+{"msgctxt":"monsters","msgid":"Ghoul ","msgstr":"Гуль "}
+{"msgctxt":"monsters","msgid":"Giant Bat","msgstr":"Гигантская летучая мышь"}
+{"msgctxt":"monsters","msgid":"Giant Rat","msgstr":"Гигантская крыса"}
+{"msgctxt":"monsters","msgid":"Giant Shark","msgstr":"Гигантская акула"}
+{"msgctxt":"monsters","msgid":"Giant Spider","msgstr":"Гигантский паук"}
+{"msgctxt":"monsters","msgid":"Giant Wyrm","msgstr":"Гигантский змий"}
+{"msgctxt":"monsters","msgid":"Goblin","msgstr":"Гоблин"}
+{"msgctxt":"monsters","msgid":"Goblin King","msgstr":"Король гоблинов"}
+{"msgctxt":"monsters","msgid":"Goblin Lord","msgstr":"Властелин гоблинов"}
+{"msgctxt":"monsters","msgid":"Goblin Shaman","msgstr":"Гоблин-шаман"}
+{"msgctxt":"monsters","msgid":"Gog","msgstr":"Гог"}
+{"msgctxt":"monsters","msgid":"Gogling","msgstr":"Гоглинг"}
+{"msgctxt":"monsters","msgid":"Gold Dragon","msgstr":"Золотой дракон"}
+{"msgctxt":"monsters","msgid":"Gold Golem","msgstr":"Золотой голем"}
+{"msgctxt":"monsters","msgid":"Gorgon","msgstr":"Горгона"}
+{"msgctxt":"monsters","msgid":"Grand Druid","msgstr":"Верховный друид"}
+{"msgctxt":"monsters","msgid":"Grand Phoenix","msgstr":"Великий феникс"}
+{"msgctxt":"monsters","msgid":"Great Druid","msgstr":"Великий друид"}
+{"msgctxt":"monsters","msgid":"Great Wyrm","msgstr":"Великий змий"}
+{"msgctxt":"monsters","msgid":"Greater Air Elemental","msgstr":"Высший воздушный элементаль"}
+{"msgctxt":"monsters","msgid":"Greater Earth Elemental","msgstr":"Великий элементаль земли"}
+{"msgctxt":"monsters","msgid":"Greater Fire Elemental","msgstr":"Великий огненный элементаль"}
+{"msgctxt":"monsters","msgid":"Greater Lich","msgstr":"Высший лич"}
+{"msgctxt":"monsters","msgid":"Greater Light Elemental","msgstr":"Великий элементаль Света"}
+{"msgctxt":"monsters","msgid":"Greater Roc","msgstr":"Великий рух"}
+{"msgctxt":"monsters","msgid":"Greater Vampire","msgstr":"Высший вампир"}
+{"msgctxt":"monsters","msgid":"Greater Water Elemental","msgstr":"Великий водный элементаль"}
+{"msgctxt":"monsters","msgid":"Greater Wererat","msgstr":"Высший крысолак"}
+{"msgctxt":"monsters","msgid":"Greater Werewolf","msgstr":"Высший оборотень"}
+{"msgctxt":"monsters","msgid":"Green Dragon","msgstr":"Зелёный дракон"}
+{"msgctxt":"monsters","msgid":"Griffin","msgstr":"Грифон"}
+{"msgctxt":"monsters","msgid":"Guard","msgstr":"Стражник"}
+{"msgctxt":"monsters","msgid":"Guardian of Flame","msgstr":"Страж Пламени"}
+{"msgctxt":"monsters","msgid":"Guardian of VARN","msgstr":"Страж ВАРН"}
+{"msgctxt":"monsters","msgid":"Harpy","msgstr":"Гарпия"}
+{"msgctxt":"monsters","msgid":"Harpy Hag","msgstr":"Гарпия-ведьма"}
+{"msgctxt":"monsters","msgid":"Harpy Queen","msgstr":"Королева гарпий"}
+{"msgctxt":"monsters","msgid":"Harpy Witch","msgstr":"Гарпия-ведьма"}
+{"msgctxt":"monsters","msgid":"Hatchling","msgstr":"Детёныш дракона"}
+{"msgctxt":"monsters","msgid":"Head Hunter","msgstr":"Охотник за головами"}
+{"msgctxt":"monsters","msgid":"Hobgoblin","msgstr":"Хобгоблин"}
+{"msgctxt":"monsters","msgid":"Horned Wyvern","msgstr":"Рогатая виверна"}
+{"msgctxt":"monsters","msgid":"Huge Spider","msgstr":"Огромный паук"}
+{"msgctxt":"monsters","msgid":"Human Peasant","msgstr":"Крестьянин-человек"}
+{"msgctxt":"monsters","msgid":"Hunting Griffin","msgstr":"Грифон-охотник"}
+{"msgctxt":"monsters","msgid":"Hydra","msgstr":"Гидра"}
+{"msgctxt":"monsters","msgid":"Inferno Bat","msgstr":"Летучая мышь Инферно"}
+{"msgctxt":"monsters","msgid":"Initiate","msgstr":"Посвящённый"}
+{"msgctxt":"monsters","msgid":"Initiate Monk","msgstr":"Монах-посвящённый"}
+{"msgctxt":"monsters","msgid":"Initiate of the Sword","msgstr":"Посвящённый Меча"}
+{"msgctxt":"monsters","msgid":"Iron Gorgon","msgstr":"Железная горгона"}
+{"msgctxt":"monsters","msgid":"Journeyman Mage","msgstr":"Опытный маг"}
+{"msgctxt":"monsters","msgid":"Juggernaut","msgstr":"Джаггернаут"}
+{"msgctxt":"monsters","msgid":"King Cobra","msgstr":"Королевская кобра"}
+{"msgctxt":"monsters","msgid":"Large Rat","msgstr":"Большая крыса"}
+{"msgctxt":"monsters","msgid":"Lesser Air Elemental","msgstr":"Малый воздушный элементаль"}
+{"msgctxt":"monsters","msgid":"Lesser Earth Elemental","msgstr":"Малый элементаль земли"}
+{"msgctxt":"monsters","msgid":"Lesser Fire Elemental","msgstr":"Малый огненный элементаль"}
+{"msgctxt":"monsters","msgid":"Lesser Light Elemental","msgstr":"Малый элементаль Света"}
+{"msgctxt":"monsters","msgid":"Lesser Water Elemental","msgstr":"Малый водный элементаль"}
+{"msgctxt":"monsters","msgid":"Lich","msgstr":"Лич"}
+{"msgctxt":"monsters","msgid":"Lich King","msgstr":"Король личей"}
+{"msgctxt":"monsters","msgid":"Lieutenant","msgstr":"Лейтенант"}
+{"msgctxt":"monsters","msgid":"Light Elemental","msgstr":"Элементаль Света"}
+{"msgctxt":"monsters","msgid":"Lightning Lizard","msgstr":"Грозовой ящер"}
+{"msgctxt":"monsters","msgid":"Lightning Rat","msgstr":"Крыса-молния"}
+{"msgctxt":"monsters","msgid":"Lizard Archer","msgstr":"Ящер-лучник"}
+{"msgctxt":"monsters","msgid":"Lizard Man","msgstr":"Человек-ящер"}
+{"msgctxt":"monsters","msgid":"Lizard Wizard","msgstr":"Ящер-волшебник"}
+{"msgctxt":"monsters","msgid":"Lizardman Captain","msgstr":"Ящеролюд-капитан"}
+{"msgctxt":"monsters","msgid":"Lizardman Farmer","msgstr":"Ящеролюд-фермер"}
+{"msgctxt":"monsters","msgid":"Lizardman Peasant","msgstr":"Ящеролюд-крестьянин"}
+{"msgctxt":"monsters","msgid":"Lizardman Sergeant","msgstr":"Ящеролюд-сержант"}
+{"msgctxt":"monsters","msgid":"Lizardman Soldier","msgstr":"Ящеролюд-солдат"}
+{"msgctxt":"monsters","msgid":"Lizardman Villager","msgstr":"Ящеролюд-поселянин"}
+{"msgctxt":"monsters","msgid":"Lycanthrope","msgstr":"Ликантроп"}
+{"msgctxt":"monsters","msgid":"Maddening Eye","msgstr":"Око безумия"}
+{"msgctxt":"monsters","msgid":"Mage","msgstr":"Маг"}
+{"msgctxt":"monsters","msgid":"Magician","msgstr":"Кудесник"}
+{"msgctxt":"monsters","msgid":"Magog","msgstr":"Магог"}
+{"msgctxt":"monsters","msgid":"Magyar","msgstr":"Мадьярка"}
+{"msgctxt":"monsters","msgid":"Magyar Matron","msgstr":"Матрона мадьярок"}
+{"msgctxt":"monsters","msgid":"Magyar Soldier","msgstr":"Мадьярка-солдат"}
+{"msgctxt":"monsters","msgid":"Manticore ","msgstr":"Мантикора "}
+{"msgctxt":"monsters","msgid":"Marble Gargoyle","msgstr":"Мраморная горгулья"}
+{"msgctxt":"monsters","msgid":"Master","msgstr":"Мастер"}
+{"msgctxt":"monsters","msgid":"Master Archer","msgstr":"Мастер-лучник"}
+{"msgctxt":"monsters","msgid":"Master Monk","msgstr":"Монах-мастер"}
+{"msgctxt":"monsters","msgid":"Master Necromancer","msgstr":"Мастер-некромант"}
+{"msgctxt":"monsters","msgid":"Master of the Sword","msgstr":"Мастер меча"}
+{"msgctxt":"monsters","msgid":"Master Swordsman","msgstr":"Мечник-мастер"}
+{"msgctxt":"monsters","msgid":"Master Thief","msgstr":"Вор-мастер"}
+{"msgctxt":"monsters","msgid":"Medusa","msgstr":"Медуза"}
+{"msgctxt":"monsters","msgid":"Medusa Enchantress","msgstr":"Медуза-чародейка"}
+{"msgctxt":"monsters","msgid":"Mega-Dragon","msgstr":"Мегадракон"}
+{"msgctxt":"monsters","msgid":"Mercenary","msgstr":"Наёмник"}
+{"msgctxt":"monsters","msgid":"Mercenary Captain","msgstr":"Капитан наёмников"}
+{"msgctxt":"monsters","msgid":"Minicore","msgstr":"Миникора"}
+{"msgctxt":"monsters","msgid":"Minion Vampire","msgstr":"Вампир-прислужник"}
+{"msgctxt":"monsters","msgid":"Minotaur","msgstr":"Минотавр"}
+{"msgctxt":"monsters","msgid":"Minotaur Battleleader","msgstr":"Минотавр-военачальник"}
+{"msgctxt":"monsters","msgid":"Minotaur Guard","msgstr":"Минотавр-стражник"}
+{"msgctxt":"monsters","msgid":"Minotaur Headsman","msgstr":"Минотавр-палач"}
+{"msgctxt":"monsters","msgid":"Minotaur King","msgstr":"Король минотавров"}
+{"msgctxt":"monsters","msgid":"Minotaur Lord","msgstr":"Минотавр-лорд"}
+{"msgctxt":"monsters","msgid":"Minotaur Mage","msgstr":"Минотавр-маг"}
+{"msgctxt":"monsters","msgid":"Minotaur Peasant","msgstr":"Минотавр-крестьянин"}
+{"msgctxt":"monsters","msgid":"Minotaur Warrior","msgstr":"Минотавр-воин"}
+{"msgctxt":"monsters","msgid":"Mist Hawk","msgstr":"Туманный ястреб"}
+{"msgctxt":"monsters","msgid":"Monk","msgstr":"Монах"}
+{"msgctxt":"monsters","msgid":"Mountain Troll","msgstr":"Горный тролль"}
+{"msgctxt":"monsters","msgid":"Mystic of Baa","msgstr":"Мистик Баа"}
+{"msgctxt":"monsters","msgid":"Naga ","msgstr":"Нага "}
+{"msgctxt":"monsters","msgid":"Naga Queen","msgstr":"Королева наг"}
+{"msgctxt":"monsters","msgid":"Naga Warrior","msgstr":"Нага-воин"}
+{"msgctxt":"monsters","msgid":"Necromancer","msgstr":"Некромант"}
+{"msgctxt":"monsters","msgid":"Nightmare","msgstr":"Кошмар"}
+{"msgctxt":"monsters","msgid":"Noble Titan","msgstr":"Благородный титан"}
+{"msgctxt":"monsters","msgid":"Novice Monk","msgstr":"Монах-послушник"}
+{"msgctxt":"monsters","msgid":"Obsidian Gargoyle","msgstr":"Обсидиановая горгулья"}
+{"msgctxt":"monsters","msgid":"Ogre","msgstr":"Огр"}
+{"msgctxt":"monsters","msgid":"Ogre Brawler","msgstr":"Огр-драчун"}
+{"msgctxt":"monsters","msgid":"Ogre Chieftain","msgstr":"Вождь огров"}
+{"msgctxt":"monsters","msgid":"Ogre Mage ","msgstr":"Огр-маг "}
+{"msgctxt":"monsters","msgid":"Ogre Mage Apprentice","msgstr":"Подмастерье огра-мага"}
+{"msgctxt":"monsters","msgid":"Ogre Magi","msgstr":"Огр-маг"}
+{"msgctxt":"monsters","msgid":"Ogre Peasant","msgstr":"Огр-крестьянин"}
+{"msgctxt":"monsters","msgid":"Ogre Raider","msgstr":"Огр-налётчик"}
+{"msgctxt":"monsters","msgid":"Ogre Warleader","msgstr":"Военачальник огров"}
+{"msgctxt":"monsters","msgid":"Ogre Warrior","msgstr":"Огр-воин"}
+{"msgctxt":"monsters","msgid":"Ooze","msgstr":"Слизь"}
+{"msgctxt":"monsters","msgid":"Pack Leader","msgstr":"Вожак стаи"}
+{"msgctxt":"monsters","msgid":"Patrol Unit","msgstr":"Патрульный робот"}
+{"msgctxt":"monsters","msgid":"Peasant","msgstr":"Крестьянин"}
+{"msgctxt":"monsters","msgid":"Phoenix","msgstr":"Феникс"}
+{"msgctxt":"monsters","msgid":"Piranha Shark","msgstr":"Акула-пиранья"}
+{"msgctxt":"monsters","msgid":"Pirate","msgstr":"Пират"}
+{"msgctxt":"monsters","msgid":"Pirate Magi","msgstr":"Пират-маг"}
+{"msgctxt":"monsters","msgid":"Pirate Seer","msgstr":"Пират-провидец"}
+{"msgctxt":"monsters","msgid":"Pirate Wizard","msgstr":"Пират-волшебник"}
+{"msgctxt":"monsters","msgid":"Plane Guardian","msgstr":"Страж плана"}
+{"msgctxt":"monsters","msgid":"Plane Overlord","msgstr":"Повелитель плана"}
+{"msgctxt":"monsters","msgid":"Plane Protector","msgstr":"Защитник плана"}
+{"msgctxt":"monsters","msgid":"Power Lich","msgstr":"Могучий лич"}
+{"msgctxt":"monsters","msgid":"Priest of Baa","msgstr":"Священник Баа"}
+{"msgctxt":"monsters","msgid":"Priest of the Moon","msgstr":"Священник Луны"}
+{"msgctxt":"monsters","msgid":"Priest of the Sun","msgstr":"Священник Солнца"}
+{"msgctxt":"monsters","msgid":"Queen Cobra","msgstr":"Королевская кобра"}
+{"msgctxt":"monsters","msgid":"Queen Dragonfly","msgstr":"Королева стрекоз"}
+{"msgctxt":"monsters","msgid":"Queen Medusa","msgstr":"Королева медуз"}
+{"msgctxt":"monsters","msgid":"Queen of the Dead","msgstr":"Королева мёртвых"}
+{"msgctxt":"monsters","msgid":"Raider","msgstr":"Налётчик"}
+{"msgctxt":"monsters","msgid":"Rat A","msgstr":"Крыса A"}
+{"msgctxt":"monsters","msgid":"Rat B","msgstr":"Крыса B"}
+{"msgctxt":"monsters","msgid":"Rat C","msgstr":"Крыса C"}
+{"msgctxt":"monsters","msgid":"Ratman","msgstr":"Крысолюд"}
+{"msgctxt":"monsters","msgid":"Raven","msgstr":"Ворон"}
+{"msgctxt":"monsters","msgid":"Reactor","msgstr":"Реактор"}
+{"msgctxt":"monsters","msgid":"Red Dragon","msgstr":"Красный дракон"}
+{"msgctxt":"monsters","msgid":"Regnan Arbalester","msgstr":"Регнанский арбалетчик"}
+{"msgctxt":"monsters","msgid":"Regnan Archmage","msgstr":"Регнанский архимаг"}
+{"msgctxt":"monsters","msgid":"Regnan Bandit","msgstr":"Регнанский бандит"}
+{"msgctxt":"monsters","msgid":"Regnan Battlemage","msgstr":"Регнанский боевой маг"}
+{"msgctxt":"monsters","msgid":"Regnan Brigadier","msgstr":"Регнанский бригадир"}
+{"msgctxt":"monsters","msgid":"Regnan Crossbowman","msgstr":"Регнанский стрелок из арбалета"}
+{"msgctxt":"monsters","msgid":"Regnan Lieutenant","msgstr":"Регнанский лейтенант"}
+{"msgctxt":"monsters","msgid":"Regnan Pirate","msgstr":"Регнанский пират"}
+{"msgctxt":"monsters","msgid":"Regnan Sorcerer","msgstr":"Регнанский чародей"}
+{"msgctxt":"monsters","msgid":"Revenant","msgstr":"Ревенант"}
+{"msgctxt":"monsters","msgid":"River Troll","msgstr":"Речной тролль"}
+{"msgctxt":"monsters","msgid":"Robber","msgstr":"Грабитель"}
+{"msgctxt":"monsters","msgid":"Robert the Wise","msgstr":"Роберт Мудрый"}
+{"msgctxt":"monsters","msgid":"Roc","msgstr":"Рух"}
+{"msgctxt":"monsters","msgid":"Rock Beast","msgstr":"Каменный зверь"}
+{"msgctxt":"monsters","msgid":"Rogue","msgstr":"Плут"}
+{"msgctxt":"monsters","msgid":"Rook","msgstr":"Грач"}
+{"msgctxt":"monsters","msgid":"Rotted Corpse","msgstr":"Гнилой труп"}
+{"msgctxt":"monsters","msgid":"Royal Griffin","msgstr":"Королевский грифон"}
+{"msgctxt":"monsters","msgid":"Ruby Dragon","msgstr":"Рубиновый дракон"}
+{"msgctxt":"monsters","msgid":"Ruffian","msgstr":"Головорез"}
+{"msgctxt":"monsters","msgid":"Salamander ","msgstr":"Саламандра "}
+{"msgctxt":"monsters","msgid":"Sapphire Dragon","msgstr":"Сапфировый дракон"}
+{"msgctxt":"monsters","msgid":"Sapphire Ooze","msgstr":"Сапфировая слизь"}
+{"msgctxt":"monsters","msgid":"Scorpicore","msgstr":"Скорпикора"}
+{"msgctxt":"monsters","msgid":"Sea Monster","msgstr":"Морское чудовище"}
+{"msgctxt":"monsters","msgid":"Sea Serpent","msgstr":"Морской змей"}
+{"msgctxt":"monsters","msgid":"Sea Terror","msgstr":"Морской ужас"}
+{"msgctxt":"monsters","msgid":"Seeker Droid","msgstr":"Дроид-искатель"}
+{"msgctxt":"monsters","msgid":"Sentinel Droid","msgstr":"Дроид-часовой"}
+{"msgctxt":"monsters","msgid":"Sentinel of VARN","msgstr":"Часовой ВАРН"}
+{"msgctxt":"monsters","msgid":"Serpentman","msgstr":"Змеечеловек"}
+{"msgctxt":"monsters","msgid":"Serpentman Elder","msgstr":"Змеечеловек-старейшина"}
+{"msgctxt":"monsters","msgid":"Serpentman Warrior","msgstr":"Змеечеловек-воин"}
+{"msgctxt":"monsters","msgid":"Shade","msgstr":"Тень"}
+{"msgctxt":"monsters","msgid":"Shapeshifter","msgstr":"Перевёртыш"}
+{"msgctxt":"monsters","msgid":"Skeletal Dragon","msgstr":"Дракон-скелет"}
+{"msgctxt":"monsters","msgid":"Skeleton","msgstr":"Скелет"}
+{"msgctxt":"monsters","msgid":"Skeleton Archer ","msgstr":"Скелет-лучник "}
+{"msgctxt":"monsters","msgid":"Skeleton Bowman","msgstr":"Скелет-стрелок"}
+{"msgctxt":"monsters","msgid":"Skeleton Hunter","msgstr":"Скелет-охотник"}
+{"msgctxt":"monsters","msgid":"Skeleton Knight","msgstr":"Скелет-рыцарь"}
+{"msgctxt":"monsters","msgid":"Skeleton Lord","msgstr":"Скелет-лорд"}
+{"msgctxt":"monsters","msgid":"Skeleton Warrior","msgstr":"Скелет-воин"}
+{"msgctxt":"monsters","msgid":"Smoke Gog","msgstr":"Дымный гог"}
+{"msgctxt":"monsters","msgid":"Soldier","msgstr":"Солдат"}
+{"msgctxt":"monsters","msgid":"Soldier of Fortune","msgstr":"Солдат удачи"}
+{"msgctxt":"monsters","msgid":"Sorcerer","msgstr":"Чародей"}
+{"msgctxt":"monsters","msgid":"Soul Sucker","msgstr":"Пожиратель душ"}
+{"msgctxt":"monsters","msgid":"Speaker for the Dead","msgstr":"Глашатай мёртвых"}
+{"msgctxt":"monsters","msgid":"Specter","msgstr":"Призрак"}
+{"msgctxt":"monsters","msgid":"Spider","msgstr":"Паук"}
+{"msgctxt":"monsters","msgid":"Sprite","msgstr":"Спрайт"}
+{"msgctxt":"monsters","msgid":"Stone Elemental","msgstr":"Каменный элементаль"}
+{"msgctxt":"monsters","msgid":"Stone Gargoyle","msgstr":"Каменная горгулья"}
+{"msgctxt":"monsters","msgid":"Storm Eagle","msgstr":"Грозовой орёл"}
+{"msgctxt":"monsters","msgid":"Storm Titan","msgstr":"Грозовой титан"}
+{"msgctxt":"monsters","msgid":"Supreme Titan","msgstr":"Верховный титан"}
+{"msgctxt":"monsters","msgid":"Swamp Troll","msgstr":"Болотный тролль"}
+{"msgctxt":"monsters","msgid":"Swordsman","msgstr":"Мечник"}
+{"msgctxt":"monsters","msgid":"Sylph","msgstr":"Сильфида"}
+{"msgctxt":"monsters","msgid":"Tempest","msgstr":"Буря"}
+{"msgctxt":"monsters","msgid":"Terminator Unit","msgstr":"Робот-терминатор"}
+{"msgctxt":"monsters","msgid":"Terrible Eye","msgstr":"Ужасный глаз"}
+{"msgctxt":"monsters","msgid":"Terror","msgstr":"Ужас"}
+{"msgctxt":"monsters","msgid":"Thief","msgstr":"Вор"}
+{"msgctxt":"monsters","msgid":"Thug","msgstr":"Головорез"}
+{"msgctxt":"monsters","msgid":"Thunder Lizard","msgstr":"Громовой ящер"}
+{"msgctxt":"monsters","msgid":"Thunderbird","msgstr":"Громовая птица"}
+{"msgctxt":"monsters","msgid":"Titan","msgstr":"Титан"}
+{"msgctxt":"monsters","msgid":"Tolberti","msgstr":"Толберти"}
+{"msgctxt":"monsters","msgid":"Tree","msgstr":"Дерево"}
+{"msgctxt":"monsters","msgid":"Triton ","msgstr":"Тритон "}
+{"msgctxt":"monsters","msgid":"Triton Crusader","msgstr":"Тритон-крестоносец"}
+{"msgctxt":"monsters","msgid":"Triton Warrior","msgstr":"Тритон-воин"}
+{"msgctxt":"monsters","msgid":"Troglodyte Drone","msgstr":"Троглодит-рабочий"}
+{"msgctxt":"monsters","msgid":"Troglodyte Queen","msgstr":"Королева троглодитов"}
+{"msgctxt":"monsters","msgid":"Troglodyte Soldier","msgstr":"Троглодит-солдат"}
+{"msgctxt":"monsters","msgid":"Troll Chieftain","msgstr":"Вождь троллей"}
+{"msgctxt":"monsters","msgid":"Troll Clubman","msgstr":"Тролль с дубинкой"}
+{"msgctxt":"monsters","msgid":"Troll Peasant","msgstr":"Тролль-крестьянин"}
+{"msgctxt":"monsters","msgid":"Troll Warrior","msgstr":"Тролль-воин"}
+{"msgctxt":"monsters","msgid":"Twister","msgstr":"Смерч"}
+{"msgctxt":"monsters","msgid":"Undead Dragon","msgstr":"Дракон-нежить"}
+{"msgctxt":"monsters","msgid":"Unicorn","msgstr":"Единорог"}
+{"msgctxt":"monsters","msgid":"Unicorn Foal","msgstr":"Жеребёнок единорога"}
+{"msgctxt":"monsters","msgid":"Unicorn Herd Leader","msgstr":"Вожак стада единорогов"}
+{"msgctxt":"monsters","msgid":"Vampire","msgstr":"Вампир"}
+{"msgctxt":"monsters","msgid":"Vampire Bat","msgstr":"Летучая мышь-вампир"}
+{"msgctxt":"monsters","msgid":"Vampire Minion","msgstr":"Прислужник вампира"}
+{"msgctxt":"monsters","msgid":"Venemous Spider","msgstr":"Ядовитый паук"}
+{"msgctxt":"monsters","msgid":"Venomous Hydra","msgstr":"Ядовитая гидра"}
+{"msgctxt":"monsters","msgid":"Veteran","msgstr":"Ветеран"}
+{"msgctxt":"monsters","msgid":"Walking Dead","msgstr":"Ходячий мертвец"}
+{"msgctxt":"monsters","msgid":"Warden of Fire","msgstr":"Хранитель Огня"}
+{"msgctxt":"monsters","msgid":"Warlock","msgstr":"Чернокнижник"}
+{"msgctxt":"monsters","msgid":"Wasp Sentry","msgstr":"Оса-страж"}
+{"msgctxt":"monsters","msgid":"Wasp Warrior","msgstr":"Оса-воин"}
+{"msgctxt":"monsters","msgid":"Wasp Worker","msgstr":"Рабочая оса"}
+{"msgctxt":"monsters","msgid":"Water Beast","msgstr":"Водное чудовище"}
+{"msgctxt":"monsters","msgid":"Water Elemental","msgstr":"Водный элементаль"}
+{"msgctxt":"monsters","msgid":"Water Spirit","msgstr":"Дух Воды"}
+{"msgctxt":"monsters","msgid":"Water Warlock","msgstr":"Чернокнижник Воды"}
+{"msgctxt":"monsters","msgid":"Wererat","msgstr":"Крысолак"}
+{"msgctxt":"monsters","msgid":"Werewolf","msgstr":"Оборотень"}
+{"msgctxt":"monsters","msgid":"Widowmaker","msgstr":"Чёрная вдова"}
+{"msgctxt":"monsters","msgid":"Wight","msgstr":"Умертвие"}
+{"msgctxt":"monsters","msgid":"Will O' Wisp","msgstr":"Блуждающий огонёк"}
+{"msgctxt":"monsters","msgid":"Winged Serpent","msgstr":"Крылатый змей"}
+{"msgctxt":"monsters","msgid":"Wisp ","msgstr":"Огонёк "}
+{"msgctxt":"monsters","msgid":"Witch Doctor","msgstr":"Шаман"}
+{"msgctxt":"monsters","msgid":"Wizard","msgstr":"Волшебник"}
+{"msgctxt":"monsters","msgid":"Wolfman","msgstr":"Человек-волк"}
+{"msgctxt":"monsters","msgid":"Wraith","msgstr":"Призрак"}
+{"msgctxt":"monsters","msgid":"Wyrm","msgstr":"Змий"}
+{"msgctxt":"monsters","msgid":"Wyvern ","msgstr":"Виверна "}
+{"msgctxt":"monsters","msgid":"Young Basilisk","msgstr":"Молодой василиск"}
+{"msgctxt":"monsters","msgid":"Young Behemoth","msgstr":"Молодое чудище"}
+{"msgctxt":"monsters","msgid":"Young Couatl","msgstr":"Молодой коатль"}
+{"msgctxt":"monsters","msgid":"Young Dragon","msgstr":"Молодой дракон"}
+{"msgctxt":"monsters","msgid":"Young Dragon Turtle","msgstr":"Молодая драконья черепаха"}
+{"msgctxt":"monsters","msgid":"Zombie","msgstr":"Зомби"}
+{"msgctxt":"npcprof","msgid":"Acolyte","msgstr":"Послушник"}
+{"msgctxt":"npcprof","msgid":"Alchemist","msgstr":"Алхимик"}
+{"msgctxt":"npcprof","msgid":"Apothecary","msgstr":"Аптекарь"}
+{"msgctxt":"npcprof","msgid":"Apprentice","msgstr":"Подмастерье"}
+{"msgctxt":"npcprof","msgid":"Armorer","msgstr":"Бронник"}
+{"msgctxt":"npcprof","msgid":"Armorsmith","msgstr":"Доспешник"}
+{"msgctxt":"npcprof","msgid":"Arms Master","msgstr":"Мастер оружия"}
+{"msgctxt":"npcprof","msgid":"Banker","msgstr":"Банкир"}
+{"msgctxt":"npcprof","msgid":"Bard","msgstr":"Бард"}
+{"msgctxt":"npcprof","msgid":"Barmaid","msgstr":"Трактирная служанка"}
+{"msgctxt":"npcprof","msgid":"Barrister","msgstr":"Адвокат"}
+{"msgctxt":"npcprof","msgid":"Beggar","msgstr":"Нищий"}
+{"msgctxt":"npcprof","msgid":"Blacksmith","msgstr":"Кузнец"}
+{"msgctxt":"npcprof","msgid":"Brekish One-Fang","msgstr":"Брекиш Одноклык"}
+{"msgctxt":"npcprof","msgid":"Burglar","msgstr":"Взломщик"}
+{"msgctxt":"npcprof","msgid":"Captain","msgstr":"Капитан"}
+{"msgctxt":"npcprof","msgid":"Carpenter","msgstr":"Плотник"}
+{"msgctxt":"npcprof","msgid":"Cartographer","msgstr":"Картограф"}
+{"msgctxt":"npcprof","msgid":"Chaplain","msgstr":"Капеллан"}
+{"msgctxt":"npcprof","msgid":"Charles Quixote","msgstr":"Чарльз Кихот"}
+{"msgctxt":"npcprof","msgid":"Chef","msgstr":"Шеф-повар"}
+{"msgctxt":"npcprof","msgid":"Child","msgstr":"Ребёнок"}
+{"msgctxt":"npcprof","msgid":"Chimney Sweep","msgstr":"Трубочист"}
+{"msgctxt":"npcprof","msgid":"Clerk","msgstr":"Писарь"}
+{"msgctxt":"npcprof","msgid":"Cobbler","msgstr":"Сапожник"}
+{"msgctxt":"npcprof","msgid":"Cook","msgstr":"Повар"}
+{"msgctxt":"npcprof","msgid":"Cooper","msgstr":"Бондарь"}
+{"msgctxt":"npcprof","msgid":"Counselor","msgstr":"Советник"}
+{"msgctxt":"npcprof","msgid":"Diplomat","msgstr":"Дипломат"}
+{"msgctxt":"npcprof","msgid":"Ditch Digger","msgstr":"Землекоп"}
+{"msgctxt":"npcprof","msgid":"Dragon","msgstr":"Дракон"}
+{"msgctxt":"npcprof","msgid":"Duper","msgstr":"Мошенник"}
+{"msgctxt":"npcprof","msgid":"Dyson Leland","msgstr":"Дайсон Лиланд"}
+{"msgctxt":"npcprof","msgid":"Enchanter","msgstr":"Заклинатель"}
+{"msgctxt":"npcprof","msgid":"Escaton","msgstr":"Эскатон"}
+{"msgctxt":"npcprof","msgid":"Expert Healer","msgstr":"Целитель-эксперт"}
+{"msgctxt":"npcprof","msgid":"Explorer","msgstr":"Исследователь"}
+{"msgctxt":"npcprof","msgid":"Factor","msgstr":"Агент"}
+{"msgctxt":"npcprof","msgid":"Fallen Wizard","msgstr":"Падший волшебник"}
+{"msgctxt":"npcprof","msgid":"Farmer","msgstr":"Фермер"}
+{"msgctxt":"npcprof","msgid":"Follower of Baa","msgstr":"Последователь Баа"}
+{"msgctxt":"npcprof","msgid":"Fool","msgstr":"Шут"}
+{"msgctxt":"npcprof","msgid":"Gambler","msgstr":"Игрок"}
+{"msgctxt":"npcprof","msgid":"Gate Master","msgstr":"Мастер врат"}
+{"msgctxt":"npcprof","msgid":"Guard","msgstr":"Стражник"}
+{"msgctxt":"npcprof","msgid":"Guide","msgstr":"Проводник"}
+{"msgctxt":"npcprof","msgid":"Guildmaster","msgstr":"Глава гильдии"}
+{"msgctxt":"npcprof","msgid":"Gypsy","msgstr":"Цыган"}
+{"msgctxt":"npcprof","msgid":"Healer","msgstr":"Целитель"}
+{"msgctxt":"npcprof","msgid":"Herbalist","msgstr":"Травник"}
+{"msgctxt":"npcprof","msgid":"Horseman","msgstr":"Всадник"}
+{"msgctxt":"npcprof","msgid":"Hunter","msgstr":"Охотник"}
+{"msgctxt":"npcprof","msgid":"Initiate","msgstr":"Посвящённый"}
+{"msgctxt":"npcprof","msgid":"Innkeep","msgstr":"Трактирщик"}
+{"msgctxt":"npcprof","msgid":"Instructor","msgstr":"Наставник"}
+{"msgctxt":"npcprof","msgid":"Jester","msgstr":"Шут"}
+{"msgctxt":"npcprof","msgid":"Laborer","msgstr":"Рабочий"}
+{"msgctxt":"npcprof","msgid":"Locksmith","msgstr":"Слесарь"}
+{"msgctxt":"npcprof","msgid":"Magician","msgstr":"Кудесник"}
+{"msgctxt":"npcprof","msgid":"Master Healer","msgstr":"Мастер-целитель"}
+{"msgctxt":"npcprof","msgid":"Merchant","msgstr":"Купец"}
+{"msgctxt":"npcprof","msgid":"Miller","msgstr":"Мельник"}
+{"msgctxt":"npcprof","msgid":"Missionary","msgstr":"Миссионер"}
+{"msgctxt":"npcprof","msgid":"Monk","msgstr":"Монах"}
+{"msgctxt":"npcprof","msgid":"Mystic","msgstr":"Мистик"}
+{"msgctxt":"npcprof","msgid":"Navigator","msgstr":"Штурман"}
+{"msgctxt":"npcprof","msgid":"Negotiator","msgstr":"Переговорщик"}
+{"msgctxt":"npcprof","msgid":"Noble","msgstr":"Дворянин"}
+{"msgctxt":"npcprof","msgid":"Overdune","msgstr":"Овердюн"}
+{"msgctxt":"npcprof","msgid":"Pathfinder","msgstr":"Следопыт"}
+{"msgctxt":"npcprof","msgid":"Peasant","msgstr":"Крестьянин"}
+{"msgctxt":"npcprof","msgid":"Piper","msgstr":"Дудочник"}
+{"msgctxt":"npcprof","msgid":"Pirate","msgstr":"Пират"}
+{"msgctxt":"npcprof","msgid":"Porter","msgstr":"Носильщик"}
+{"msgctxt":"npcprof","msgid":"Potter","msgstr":"Гончар"}
+{"msgctxt":"npcprof","msgid":"Prelate","msgstr":"Прелат"}
+{"msgctxt":"npcprof","msgid":"Psychic","msgstr":"Экстрасенс"}
+{"msgctxt":"npcprof","msgid":"Quarter Master","msgstr":"Квартирмейстер"}
+{"msgctxt":"npcprof","msgid":"Rustler","msgstr":"Скотокрад"}
+{"msgctxt":"npcprof","msgid":"Sage","msgstr":"Мудрец"}
+{"msgctxt":"npcprof","msgid":"Sailor","msgstr":"Моряк"}
+{"msgctxt":"npcprof","msgid":"Sandro","msgstr":"Сандро"}
+{"msgctxt":"npcprof","msgid":"Scholar","msgstr":"Учёный"}
+{"msgctxt":"npcprof","msgid":"Scout","msgstr":"Разведчик"}
+{"msgctxt":"npcprof","msgid":"Scribe","msgstr":"Писец"}
+{"msgctxt":"npcprof","msgid":"Serf","msgstr":"Крепостной"}
+{"msgctxt":"npcprof","msgid":"Shopkeeper","msgstr":"Лавочник"}
+{"msgctxt":"npcprof","msgid":"Smith","msgstr":"Кузнец"}
+{"msgctxt":"npcprof","msgid":"Smuggler","msgstr":"Контрабандист"}
+{"msgctxt":"npcprof","msgid":"Spell Master","msgstr":"Мастер заклинаний"}
+{"msgctxt":"npcprof","msgid":"Squire","msgstr":"Оруженосец"}
+{"msgctxt":"npcprof","msgid":"Stablemaster","msgstr":"Конюший"}
+{"msgctxt":"npcprof","msgid":"Stone Cutter","msgstr":"Каменотёс"}
+{"msgctxt":"npcprof","msgid":"Tailor","msgstr":"Портной"}
+{"msgctxt":"npcprof","msgid":"Teacher","msgstr":"Учитель"}
+{"msgctxt":"npcprof","msgid":"Tinker","msgstr":"Лудильщик"}
+{"msgctxt":"npcprof","msgid":"Tracker","msgstr":"Следопыт"}
+{"msgctxt":"npcprof","msgid":"Trader","msgstr":"Торговец"}
+{"msgctxt":"npcprof","msgid":"Trapper","msgstr":"Зверолов"}
+{"msgctxt":"npcprof","msgid":"Water Master","msgstr":"Мастер Воды"}
+{"msgctxt":"npcprof","msgid":"Weapons Master","msgstr":"Мастер оружия"}
+{"msgctxt":"npcprof","msgid":"Weaver","msgstr":"Ткач"}
+{"msgctxt":"npcprof","msgid":"Wererat Smuggler","msgstr":"Крысолак-контрабандист"}
+{"msgctxt":"npcprof","msgid":"Wind Master","msgstr":"Мастер ветра"}
+{"msgctxt":"reputation","msgid":"Angelic","msgstr":"Ангельская"}
+{"msgctxt":"reputation","msgid":"Average","msgstr":"Средняя"}
+{"msgctxt":"reputation","msgid":"Bad","msgstr":"Плохая"}
+{"msgctxt":"reputation","msgid":"Despicable","msgstr":"Презренный"}
+{"msgctxt":"reputation","msgid":"Glorious","msgstr":"Прославленный"}
+{"msgctxt":"reputation","msgid":"Honorable","msgstr":"Почётный"}
+{"msgctxt":"reputation","msgid":"Monstrous","msgstr":"Чудовищный"}
+{"msgctxt":"reputation","msgid":"Neutral","msgstr":"Нейтральная"}
+{"msgctxt":"reputation","msgid":"Notorious","msgstr":"Печально известный"}
+{"msgctxt":"reputation","msgid":"Respectable","msgstr":"Уважаемый"}
+{"msgctxt":"reputation","msgid":"Saintly","msgstr":"Святая"}
+{"msgctxt":"reputation","msgid":"Vile","msgstr":"Гнусная"}
+{"msgctxt":"skilldes","msgid":"Air","msgstr":"Воздух"}
+{"msgctxt":"skilldes","msgid":"Air Magic","msgstr":"Магия Воздуха"}
+{"msgctxt":"skilldes","msgid":"Alchemy","msgstr":"Алхимия"}
+{"msgctxt":"skilldes","msgid":"Armsmaster","msgstr":"Владение оружием"}
+{"msgctxt":"skilldes","msgid":"Axe","msgstr":"Топор"}
+{"msgctxt":"skilldes","msgid":"Blaster","msgstr":"Бластер"}
+{"msgctxt":"skilldes","msgid":"Body","msgstr":"Тело"}
+{"msgctxt":"skilldes","msgid":"Body Building","msgstr":"Атлетизм"}
+{"msgctxt":"skilldes","msgid":"Body Magic","msgstr":"Магия Тела"}
+{"msgctxt":"skilldes","msgid":"Bodybuilding","msgstr":"Бодибилдинг"}
+{"msgctxt":"skilldes","msgid":"Bow","msgstr":"Лук"}
+{"msgctxt":"skilldes","msgid":"Chain","msgstr":"Кольчуга"}
+{"msgctxt":"skilldes","msgid":"Dagger","msgstr":"Кинжал"}
+{"msgctxt":"skilldes","msgid":"Dark","msgstr":"Тьма"}
+{"msgctxt":"skilldes","msgid":"Dark Elf Ability","msgstr":"Способность тёмного эльфа"}
+{"msgctxt":"skilldes","msgid":"Dark Magic","msgstr":"Магия Тьмы"}
+{"msgctxt":"skilldes","msgid":"Diplomacy","msgstr":"Дипломатия"}
+{"msgctxt":"skilldes","msgid":"Disarm Trap","msgstr":"Обезвреживание ловушек"}
+{"msgctxt":"skilldes","msgid":"Disarm Traps","msgstr":"Обезвреживание ловушек"}
+{"msgctxt":"skilldes","msgid":"Dodging","msgstr":"Уклонение"}
+{"msgctxt":"skilldes","msgid":"Dragon Ability","msgstr":"Способность дракона"}
+{"msgctxt":"skilldes","msgid":"Earth","msgstr":"Земля"}
+{"msgctxt":"skilldes","msgid":"Earth Magic","msgstr":"Магия Земли"}
+{"msgctxt":"skilldes","msgid":"Fire","msgstr":"Огонь"}
+{"msgctxt":"skilldes","msgid":"Fire Magic","msgstr":"Магия Огня"}
+{"msgctxt":"skilldes","msgid":"Identify","msgstr":"Опознать"}
+{"msgctxt":"skilldes","msgid":"Identify Item","msgstr":"Опознание предмета"}
+{"msgctxt":"skilldes","msgid":"Identify Monster","msgstr":"Опознание монстров"}
+{"msgctxt":"skilldes","msgid":"Learning","msgstr":"Обучение"}
+{"msgctxt":"skilldes","msgid":"Leather","msgstr":"Кожаные доспехи"}
+{"msgctxt":"skilldes","msgid":"Light","msgstr":"Свет"}
+{"msgctxt":"skilldes","msgid":"Light Magic","msgstr":"Магия Света"}
+{"msgctxt":"skilldes","msgid":"Mace","msgstr":"Булава"}
+{"msgctxt":"skilldes","msgid":"Meditation","msgstr":"Медитация"}
+{"msgctxt":"skilldes","msgid":"Merchant","msgstr":"Торговля"}
+{"msgctxt":"skilldes","msgid":"Mind","msgstr":"Разум"}
+{"msgctxt":"skilldes","msgid":"Mind Magic","msgstr":"Магия Разума"}
+{"msgctxt":"skilldes","msgid":"Perception","msgstr":"Восприятие"}
+{"msgctxt":"skilldes","msgid":"Plate","msgstr":"Латы"}
+{"msgctxt":"skilldes","msgid":"Regeneration","msgstr":"Регенерация"}
+{"msgctxt":"skilldes","msgid":"Repair","msgstr":"Починка"}
+{"msgctxt":"skilldes","msgid":"Repair Item","msgstr":"Починка предметов"}
+{"msgctxt":"skilldes","msgid":"Shield","msgstr":"Щит"}
+{"msgctxt":"skilldes","msgid":"Spear","msgstr":"Копьё"}
+{"msgctxt":"skilldes","msgid":"Spirit","msgstr":"Дух"}
+{"msgctxt":"skilldes","msgid":"Spirit Magic","msgstr":"Магия Духа"}
+{"msgctxt":"skilldes","msgid":"Staff","msgstr":"Посох"}
+{"msgctxt":"skilldes","msgid":"Stealing","msgstr":"Воровство"}
+{"msgctxt":"skilldes","msgid":"Sword","msgstr":"Меч"}
+{"msgctxt":"skilldes","msgid":"Thievery","msgstr":"Воровство"}
+{"msgctxt":"skilldes","msgid":"Unarmed","msgstr":"Рукопашный бой"}
+{"msgctxt":"skilldes","msgid":"Vampire Ability","msgstr":"Способность вампира"}
+{"msgctxt":"skilldes","msgid":"Water","msgstr":"Вода"}
+{"msgctxt":"skilldes","msgid":"Water Magic","msgstr":"Магия Воды"}
+{"msgctxt":"spcitems","msgid":"Antique","msgstr":"Старинный"}
+{"msgctxt":"spcitems","msgid":"Assassins'","msgstr":"(Ассасинов)"}
+{"msgctxt":"spcitems","msgid":"Barbarians'","msgstr":"Варварский"}
+{"msgctxt":"spcitems","msgid":"Demon Slayer","msgstr":"Убийца демонов"}
+{"msgctxt":"spcitems","msgid":"Demon Slaying","msgstr":"Истребление демонов"}
+{"msgctxt":"spcitems","msgid":"Dragon Slayer","msgstr":"Убийца драконов"}
+{"msgctxt":"spcitems","msgid":"Dragon Slaying","msgstr":"(\"Погибель драконов\")"}
+{"msgctxt":"spcitems","msgid":"Elemental Slaying","msgstr":"Истребление элементалей"}
+{"msgctxt":"spcitems","msgid":"Elf Slaying","msgstr":"Истребления эльфов"}
+{"msgctxt":"spcitems","msgid":"Monks'","msgstr":"Монахов"}
+{"msgctxt":"spcitems","msgid":"of Acid","msgstr":"кислоты"}
+{"msgctxt":"spcitems","msgid":"of Air Magic","msgstr":"Магии Воздуха"}
+{"msgctxt":"spcitems","msgid":"of Alarms","msgstr":"(Чуткого сна)"}
+{"msgctxt":"spcitems","msgid":"of Antidotes","msgstr":"Противоядия"}
+{"msgctxt":"spcitems","msgid":"of Body Magic","msgstr":"(Магии Тела)"}
+{"msgctxt":"spcitems","msgid":"of Carnage","msgstr":"(Резни)"}
+{"msgctxt":"spcitems","msgid":"of Cold","msgstr":"Холода"}
+{"msgctxt":"spcitems","msgid":"of Dark Magic","msgstr":"(Магии Тьмы)"}
+{"msgctxt":"spcitems","msgid":"of Darkness","msgstr":"Тьмы"}
+{"msgctxt":"spcitems","msgid":"Of David","msgstr":"Давида"}
+{"msgctxt":"spcitems","msgid":"of Doom","msgstr":"Рока"}
+{"msgctxt":"spcitems","msgid":"of Earth","msgstr":"Земли"}
+{"msgctxt":"spcitems","msgid":"of Earth Magic","msgstr":"(Магии Земли)"}
+{"msgctxt":"spcitems","msgid":"of Feather Falling","msgstr":"(Падения пёрышком)"}
+{"msgctxt":"spcitems","msgid":"of Fire","msgstr":"Огня"}
+{"msgctxt":"spcitems","msgid":"of Fire Magic","msgstr":"(Магии Огня)"}
+{"msgctxt":"spcitems","msgid":"of Flame","msgstr":"Пламени"}
+{"msgctxt":"spcitems","msgid":"of Force","msgstr":"(Силы)"}
+{"msgctxt":"spcitems","msgid":"of Freedom","msgstr":"(Свободы)"}
+{"msgctxt":"spcitems","msgid":"of Frost","msgstr":"(Мороза)"}
+{"msgctxt":"spcitems","msgid":"of Ice","msgstr":"льда"}
+{"msgctxt":"spcitems","msgid":"of Identifying","msgstr":"(Опознания)"}
+{"msgctxt":"spcitems","msgid":"of Immunity","msgstr":"Невосприимчивости"}
+{"msgctxt":"spcitems","msgid":"of Infernos","msgstr":"Инферно"}
+{"msgctxt":"spcitems","msgid":"of Life","msgstr":"Жизни"}
+{"msgctxt":"spcitems","msgid":"of Light Magic","msgstr":"(Магии Света)"}
+{"msgctxt":"spcitems","msgid":"of Lightning","msgstr":"Молнии"}
+{"msgctxt":"spcitems","msgid":"of Mana","msgstr":"Маны"}
+{"msgctxt":"spcitems","msgid":"of Mind Magic","msgstr":"(Магии Разума)"}
+{"msgctxt":"spcitems","msgid":"of Plenty","msgstr":"(Изобилия)"}
+{"msgctxt":"spcitems","msgid":"of Poison","msgstr":"(Яда)"}
+{"msgctxt":"spcitems","msgid":"of Power","msgstr":"(Силы)"}
+{"msgctxt":"spcitems","msgid":"of Protection","msgstr":"(Защиты)"}
+{"msgctxt":"spcitems","msgid":"of Recovery","msgstr":"Восстановления"}
+{"msgctxt":"spcitems","msgid":"of Regeneration","msgstr":"Регенерации"}
+{"msgctxt":"spcitems","msgid":"of Sanity","msgstr":"(Ясного разума)"}
+{"msgctxt":"spcitems","msgid":"of Shielding","msgstr":"Защиты"}
+{"msgctxt":"spcitems","msgid":"of Sparks","msgstr":"(Искр)"}
+{"msgctxt":"spcitems","msgid":"of Spirit Magic","msgstr":"Магии Духа"}
+{"msgctxt":"spcitems","msgid":"of Swiftness","msgstr":"Скорости"}
+{"msgctxt":"spcitems","msgid":"of The Dragon","msgstr":"(Дракона)"}
+{"msgctxt":"spcitems","msgid":"of The Eclipse","msgstr":"(Затмения)"}
+{"msgctxt":"spcitems","msgid":"of The Gods","msgstr":"Богов"}
+{"msgctxt":"spcitems","msgid":"of The Golem","msgstr":"Голема"}
+{"msgctxt":"spcitems","msgid":"of The Medusa","msgstr":"(Медузы)"}
+{"msgctxt":"spcitems","msgid":"of The Moon","msgstr":"Луны"}
+{"msgctxt":"spcitems","msgid":"of the Ocean","msgstr":"Океана"}
+{"msgctxt":"spcitems","msgid":"of The Phoenix","msgstr":"(Феникса)"}
+{"msgctxt":"spcitems","msgid":"of The Sky","msgstr":"(Неба)"}
+{"msgctxt":"spcitems","msgid":"of The Stars","msgstr":"Звёзд"}
+{"msgctxt":"spcitems","msgid":"of the Storm","msgstr":"Бури"}
+{"msgctxt":"spcitems","msgid":"of The Sun","msgstr":"(Солнца)"}
+{"msgctxt":"spcitems","msgid":"of The Troll","msgstr":"Тролля"}
+{"msgctxt":"spcitems","msgid":"of The Unicorn","msgstr":"(Единорога)"}
+{"msgctxt":"spcitems","msgid":"of Thievery","msgstr":"Воровства"}
+{"msgctxt":"spcitems","msgid":"of Thunderbolts","msgstr":"Молний"}
+{"msgctxt":"spcitems","msgid":"of Venom","msgstr":"(Яда)"}
+{"msgctxt":"spcitems","msgid":"of Water Magic","msgstr":"(Магии Воды)"}
+{"msgctxt":"spcitems","msgid":"of Water Walking","msgstr":"(Хождения по воде)"}
+{"msgctxt":"spcitems","msgid":"Ogre Slaying","msgstr":"Истребление огров"}
+{"msgctxt":"spcitems","msgid":"Rogues","msgstr":"Плутов"}
+{"msgctxt":"spcitems","msgid":"Rogues'","msgstr":"Плутов"}
+{"msgctxt":"spcitems","msgid":"Swift","msgstr":"(Скорости)"}
+{"msgctxt":"spcitems","msgid":"Thieves'","msgstr":"Воров"}
+{"msgctxt":"spcitems","msgid":"Undead Slaying","msgstr":"(\"Погибель нежити\")"}
+{"msgctxt":"spcitems","msgid":"Vampiric","msgstr":"Вампира"}
+{"msgctxt":"spcitems","msgid":"Warriors","msgstr":"Воинов"}
+{"msgctxt":"spcitems","msgid":"Warriors'","msgstr":"(Воинов)"}
+{"msgctxt":"spcitems","msgid":"Wizards","msgstr":"Волшебников"}
+{"msgctxt":"spcitems","msgid":"Wizards'","msgstr":"Волшебников"}
+{"msgctxt":"spellgroupshort","msgid":"Air","msgstr":"Воздух"}
+{"msgctxt":"spellgroupshort","msgid":"Body","msgstr":"Тело"}
+{"msgctxt":"spellgroupshort","msgid":"Cold","msgstr":"Холод"}
+{"msgctxt":"spellgroupshort","msgid":"Dark","msgstr":"Тьма"}
+{"msgctxt":"spellgroupshort","msgid":"Earth","msgstr":"Земля"}
+{"msgctxt":"spellgroupshort","msgid":"Electricity","msgstr":"Электричество"}
+{"msgctxt":"spellgroupshort","msgid":"Fire","msgstr":"Огонь"}
+{"msgctxt":"spellgroupshort","msgid":"Light","msgstr":"Свет"}
+{"msgctxt":"spellgroupshort","msgid":"Mind","msgstr":"Разум"}
+{"msgctxt":"spellgroupshort","msgid":"Spirit","msgstr":"Дух"}
+{"msgctxt":"spellgroupshort","msgid":"Water","msgstr":"Вода"}
+{"msgctxt":"spells","msgid":"Acid Burst","msgstr":"Кислотный выброс"}
+{"msgctxt":"spells","msgid":"Air Res","msgstr":"Защита от воздуха"}
+{"msgctxt":"spells","msgid":"Air Resist","msgstr":"Защита от воздуха"}
+{"msgctxt":"spells","msgid":"Air Resistance","msgstr":"Сопротивление воздуху"}
+{"msgctxt":"spells","msgid":"Armageddon","msgstr":"Армагеддон"}
+{"msgctxt":"spells","msgid":"Awaken","msgstr":"Пробуждение"}
+{"msgctxt":"spells","msgid":"Berserk","msgstr":"Берсерк"}
+{"msgctxt":"spells","msgid":"Blades","msgstr":"Лезвия"}
+{"msgctxt":"spells","msgid":"Bless","msgstr":"Благословение"}
+{"msgctxt":"spells","msgid":"Blind","msgstr":"Ослепление"}
+{"msgctxt":"spells","msgid":"Body Res","msgstr":"Защита от магии Тела"}
+{"msgctxt":"spells","msgid":"Body Resist","msgstr":"Защита от магии Тела"}
+{"msgctxt":"spells","msgid":"Body Resistance","msgstr":"Защита от магии Тела"}
+{"msgctxt":"spells","msgid":"Buffet","msgstr":"Удар крыльями"}
+{"msgctxt":"spells","msgid":"Charm","msgstr":"Очарование"}
+{"msgctxt":"spells","msgid":"Cntrl Undead","msgstr":"Управление нежитью"}
+{"msgctxt":"spells","msgid":"Cold Beam","msgstr":"Луч холода"}
+{"msgctxt":"spells","msgid":"Control Undead","msgstr":"Контроль над нежитью"}
+{"msgctxt":"spells","msgid":"Create Food","msgstr":"Сотворение пищи"}
+{"msgctxt":"spells","msgid":"Cure Disease","msgstr":"Излечение болезни"}
+{"msgctxt":"spells","msgid":"Cure Insane","msgstr":"Лечение безумия"}
+{"msgctxt":"spells","msgid":"Cure Insanity","msgstr":"Исцеление безумия"}
+{"msgctxt":"spells","msgid":"Cure Paralysis","msgstr":"Снятие паралича"}
+{"msgctxt":"spells","msgid":"Cure Plyze","msgstr":"Лечение паралича"}
+{"msgctxt":"spells","msgid":"Cure Poison","msgstr":"Лечение отравления"}
+{"msgctxt":"spells","msgid":"Cure Weak","msgstr":"Исцеление слабости"}
+{"msgctxt":"spells","msgid":"Cure Weakness","msgstr":"Исцеление слабости"}
+{"msgctxt":"spells","msgid":"Cure Wound","msgstr":"Лечение ран"}
+{"msgctxt":"spells","msgid":"Cure Wounds","msgstr":"Лечение ран"}
+{"msgctxt":"spells","msgid":"Dark Contain","msgstr":"Тёмное заточение"}
+{"msgctxt":"spells","msgid":"Dark Containment","msgstr":"Тёмное заточение"}
+{"msgctxt":"spells","msgid":"Dark Grasp","msgstr":"Хватка Тьмы"}
+{"msgctxt":"spells","msgid":"Darkfire","msgstr":"Тёмный огонь"}
+{"msgctxt":"spells","msgid":"Darkfire Bolt","msgstr":"Стрела тёмного огня"}
+{"msgctxt":"spells","msgid":"Day -o- Gods","msgstr":"День богов"}
+{"msgctxt":"spells","msgid":"Day of Prot","msgstr":"День защиты"}
+{"msgctxt":"spells","msgid":"Day of Protection","msgstr":"День защиты"}
+{"msgctxt":"spells","msgid":"Day of the Gods","msgstr":"День богов"}
+{"msgctxt":"spells","msgid":"Deadly Swarm","msgstr":"Смертоносный рой"}
+{"msgctxt":"spells","msgid":"Death Blossom","msgstr":"Цветок смерти"}
+{"msgctxt":"spells","msgid":"Death Blsm","msgstr":"Цветок смерти"}
+{"msgctxt":"spells","msgid":"Dest Undead","msgstr":"Уничтожение нежити"}
+{"msgctxt":"spells","msgid":"Destroy Undead","msgstr":"Уничтожение нежити"}
+{"msgctxt":"spells","msgid":"Detect Life","msgstr":"Обнаружение жизни"}
+{"msgctxt":"spells","msgid":"Dispel Magic","msgstr":"Рассеивание магии"}
+{"msgctxt":"spells","msgid":"Divine Inter","msgstr":"Божественное вмешательство"}
+{"msgctxt":"spells","msgid":"Divine Intervention","msgstr":"Божественное вмешательство"}
+{"msgctxt":"spells","msgid":"Drag Breath","msgstr":"Дыхание дракона"}
+{"msgctxt":"spells","msgid":"Dragon Breath","msgstr":"Дыхание дракона"}
+{"msgctxt":"spells","msgid":"Earth Res","msgstr":"Сопротивление Земле"}
+{"msgctxt":"spells","msgid":"Earth Resist","msgstr":"Сопротивление Земле"}
+{"msgctxt":"spells","msgid":"Earth Resistance","msgstr":"Сопротивление Земле"}
+{"msgctxt":"spells","msgid":"Enchant Item","msgstr":"Зачарование предмета"}
+{"msgctxt":"spells","msgid":"Enslave","msgstr":"Порабощение"}
+{"msgctxt":"spells","msgid":"Fate","msgstr":"Судьба"}
+{"msgctxt":"spells","msgid":"Fear","msgstr":"Страх"}
+{"msgctxt":"spells","msgid":"Feather Fall","msgstr":"Падение пёрышком"}
+{"msgctxt":"spells","msgid":"Feeblemind","msgstr":"Слабоумие"}
+{"msgctxt":"spells","msgid":"Finger Death","msgstr":"Перст смерти"}
+{"msgctxt":"spells","msgid":"Finger of Death","msgstr":"Перст смерти"}
+{"msgctxt":"spells","msgid":"Fire Aura","msgstr":"Огненная аура"}
+{"msgctxt":"spells","msgid":"Fire Blast","msgstr":"Огненный взрыв"}
+{"msgctxt":"spells","msgid":"Fire Bolt","msgstr":"Огненная стрела"}
+{"msgctxt":"spells","msgid":"Fire Res","msgstr":"Защита от огня"}
+{"msgctxt":"spells","msgid":"Fire Resistance","msgstr":"Защита от огня"}
+{"msgctxt":"spells","msgid":"Fire Spike","msgstr":"Огненный шип"}
+{"msgctxt":"spells","msgid":"Fireball","msgstr":"Огненный шар"}
+{"msgctxt":"spells","msgid":"First Aid","msgstr":"Первая помощь"}
+{"msgctxt":"spells","msgid":"Flame Arrow","msgstr":"Огненная стрела"}
+{"msgctxt":"spells","msgid":"Flame Blast","msgstr":"Взрыв пламени"}
+{"msgctxt":"spells","msgid":"Flight","msgstr":"Полёт"}
+{"msgctxt":"spells","msgid":"Fly","msgstr":"Полёт"}
+{"msgctxt":"spells","msgid":"Flying Fist","msgstr":"Летящий кулак"}
+{"msgctxt":"spells","msgid":"Glamour","msgstr":"Обаяние"}
+{"msgctxt":"spells","msgid":"Gldn Touch","msgstr":"Золотое касание"}
+{"msgctxt":"spells","msgid":"Golden Touch","msgstr":"Золотое касание"}
+{"msgctxt":"spells","msgid":"Guard Angel","msgstr":"Ангел-хранитель"}
+{"msgctxt":"spells","msgid":"Guardian Angel","msgstr":"Ангел-хранитель"}
+{"msgctxt":"spells","msgid":"Hammerhand","msgstr":"Руки-молоты"}
+{"msgctxt":"spells","msgid":"Hammerhands","msgstr":"Руки-молоты"}
+{"msgctxt":"spells","msgid":"Harm","msgstr":"Вред"}
+{"msgctxt":"spells","msgid":"Haste","msgstr":"Ускорение"}
+{"msgctxt":"spells","msgid":"Heal","msgstr":"Исцеление"}
+{"msgctxt":"spells","msgid":"Healing","msgstr":"Исцеление"}
+{"msgctxt":"spells","msgid":"Healing Touch","msgstr":"Прикосновение исцеления"}
+{"msgctxt":"spells","msgid":"Heroism","msgstr":"Героизм"}
+{"msgctxt":"spells","msgid":"Hour of Power","msgstr":"Час силы"}
+{"msgctxt":"spells","msgid":"Hour Power","msgstr":"Час силы"}
+{"msgctxt":"spells","msgid":"Ice Blast","msgstr":"Ледяной взрыв"}
+{"msgctxt":"spells","msgid":"Ice Bolt","msgstr":"Ледяная стрела"}
+{"msgctxt":"spells","msgid":"Immolation","msgstr":"Всесожжение"}
+{"msgctxt":"spells","msgid":"Implosion","msgstr":"Имплозия"}
+{"msgctxt":"spells","msgid":"Incinerate","msgstr":"Испепеление"}
+{"msgctxt":"spells","msgid":"Inferno","msgstr":"Инферно"}
+{"msgctxt":"spells","msgid":"Invisibility","msgstr":"Невидимость"}
+{"msgctxt":"spells","msgid":"Jump","msgstr":"Прыжок"}
+{"msgctxt":"spells","msgid":"Levitate","msgstr":"Левитация"}
+{"msgctxt":"spells","msgid":"Lifedrain","msgstr":"Похищение жизни"}
+{"msgctxt":"spells","msgid":"Light Bolt","msgstr":"Стрела Света"}
+{"msgctxt":"spells","msgid":"Lightning","msgstr":"Молния"}
+{"msgctxt":"spells","msgid":"Lightning Bolt","msgstr":"Молния"}
+{"msgctxt":"spells","msgid":"Lloyd's","msgstr":"Маяк Ллойда"}
+{"msgctxt":"spells","msgid":"Lloyd's Beacon","msgstr":"Маяк Ллойда"}
+{"msgctxt":"spells","msgid":"Lucky Day","msgstr":"Счастливый день"}
+{"msgctxt":"spells","msgid":"Magic Arrow","msgstr":"Магическая стрела"}
+{"msgctxt":"spells","msgid":"Mass Curse","msgstr":"Массовое проклятие"}
+{"msgctxt":"spells","msgid":"Mass Distort","msgstr":"Искажение массы"}
+{"msgctxt":"spells","msgid":"Mass Distortion","msgstr":"Искажение массы"}
+{"msgctxt":"spells","msgid":"Mass Fear","msgstr":"Всеобщий страх"}
+{"msgctxt":"spells","msgid":"Meditation","msgstr":"Медитация"}
+{"msgctxt":"spells","msgid":"Meteor Shower","msgstr":"Метеоритный дождь"}
+{"msgctxt":"spells","msgid":"Meteor Shwr","msgstr":"Метеоритный дождь"}
+{"msgctxt":"spells","msgid":"Mind Blast","msgstr":"Удар разума"}
+{"msgctxt":"spells","msgid":"Mind Res","msgstr":"Защита от магии Разума"}
+{"msgctxt":"spells","msgid":"Mind Resist","msgstr":"Защита от магии Разума"}
+{"msgctxt":"spells","msgid":"Mind Resistance","msgstr":"Защита от магии Разума"}
+{"msgctxt":"spells","msgid":"Mistform","msgstr":"Превращение в туман"}
+{"msgctxt":"spells","msgid":"Moon Ray","msgstr":"Лунный луч"}
+{"msgctxt":"spells","msgid":"Pain Reflect","msgstr":"Отражение боли"}
+{"msgctxt":"spells","msgid":"Pain Reflection","msgstr":"Отражение боли"}
+{"msgctxt":"spells","msgid":"Paralyze","msgstr":"Паралич"}
+{"msgctxt":"spells","msgid":"Poison Spr","msgstr":"Ядовитые брызги"}
+{"msgctxt":"spells","msgid":"Poison Spray","msgstr":"Ядовитые брызги"}
+{"msgctxt":"spells","msgid":"Power","msgstr":"Сила"}
+{"msgctxt":"spells","msgid":"Power Cure","msgstr":"Мощное исцеление"}
+{"msgctxt":"spells","msgid":"Precision","msgstr":"Меткость"}
+{"msgctxt":"spells","msgid":"Preservation","msgstr":"Сохранение"}
+{"msgctxt":"spells","msgid":"Pris Light","msgstr":"Призматический свет"}
+{"msgctxt":"spells","msgid":"Prismatic Light","msgstr":"Призматический свет"}
+{"msgctxt":"spells","msgid":"Prot Cold","msgstr":"Защита от холода"}
+{"msgctxt":"spells","msgid":"Prot Elec","msgstr":"Защита от электричества"}
+{"msgctxt":"spells","msgid":"Prot Fire","msgstr":"Защита от огня"}
+{"msgctxt":"spells","msgid":"Prot Magic","msgstr":"Защита от магии"}
+{"msgctxt":"spells","msgid":"Prot Poison","msgstr":"Защита от яда"}
+{"msgctxt":"spells","msgid":"Protection from Cold","msgstr":"Защита от холода"}
+{"msgctxt":"spells","msgid":"Protection from Electricity","msgstr":"Защита от электричества"}
+{"msgctxt":"spells","msgid":"Protection from Fire","msgstr":"Защита от огня"}
+{"msgctxt":"spells","msgid":"Protection from Magic","msgstr":"Защита от магии"}
+{"msgctxt":"spells","msgid":"Protection from Poison","msgstr":"Защита от яда"}
+{"msgctxt":"spells","msgid":"Psy - Shock","msgstr":"Психический шок"}
+{"msgctxt":"spells","msgid":"Psychic Shock","msgstr":"Психический шок"}
+{"msgctxt":"spells","msgid":"Raise Dead","msgstr":"Оживление"}
+{"msgctxt":"spells","msgid":"Reanimate","msgstr":"Оживление мёртвых"}
+{"msgctxt":"spells","msgid":"Recharge","msgstr":"Перезарядка"}
+{"msgctxt":"spells","msgid":"Recharge Item","msgstr":"Перезарядка предмета"}
+{"msgctxt":"spells","msgid":"Regeneration","msgstr":"Регенерация"}
+{"msgctxt":"spells","msgid":"Remove Curse","msgstr":"Снятие проклятия"}
+{"msgctxt":"spells","msgid":"Remove Fear","msgstr":"Снятие страха"}
+{"msgctxt":"spells","msgid":"Resurrection","msgstr":"Воскрешение"}
+{"msgctxt":"spells","msgid":"Ring of Fire","msgstr":"Кольцо огня"}
+{"msgctxt":"spells","msgid":"Rmv. Curse","msgstr":"Снятие проклятия"}
+{"msgctxt":"spells","msgid":"Rock Blast","msgstr":"Каменный взрыв"}
+{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"Жертвоприношение"}
+{"msgctxt":"spells","msgid":"Shared Life","msgstr":"Общая жизнь"}
+{"msgctxt":"spells","msgid":"Shield","msgstr":"Щит"}
+{"msgctxt":"spells","msgid":"Shrapmetal","msgstr":"Осколки металла"}
+{"msgctxt":"spells","msgid":"Shrink Ray","msgstr":"Уменьшающий луч"}
+{"msgctxt":"spells","msgid":"Shrinking Ray","msgstr":"Уменьшающий луч"}
+{"msgctxt":"spells","msgid":"Slow","msgstr":"Замедление"}
+{"msgctxt":"spells","msgid":"Souldrinker","msgstr":"Пожиратель душ"}
+{"msgctxt":"spells","msgid":"Sparks","msgstr":"Искры"}
+{"msgctxt":"spells","msgid":"Speed","msgstr":"Скорость"}
+{"msgctxt":"spells","msgid":"Spirit Arrow","msgstr":"Стрела духа"}
+{"msgctxt":"spells","msgid":"Spirit Lash","msgstr":"Плеть духа"}
+{"msgctxt":"spells","msgid":"Starburst","msgstr":"Звёздный взрыв"}
+{"msgctxt":"spells","msgid":"Static Charge","msgstr":"Статический заряд"}
+{"msgctxt":"spells","msgid":"Static Chrg","msgstr":"Статический заряд"}
+{"msgctxt":"spells","msgid":"Stone - Flesh","msgstr":"Камень - плоть"}
+{"msgctxt":"spells","msgid":"Stone Skin","msgstr":"Каменная кожа"}
+{"msgctxt":"spells","msgid":"Stone to Flesh","msgstr":"Камень в плоть"}
+{"msgctxt":"spells","msgid":"Stoneskin","msgstr":"Каменная кожа"}
+{"msgctxt":"spells","msgid":"Stun","msgstr":"Оглушение"}
+{"msgctxt":"spells","msgid":"Summon","msgstr":"Призыв"}
+{"msgctxt":"spells","msgid":"Summon Elemental","msgstr":"Призыв элементаля"}
+{"msgctxt":"spells","msgid":"Summon Wisp","msgstr":"Призыв блуждающего огонька"}
+{"msgctxt":"spells","msgid":"Sun Ray","msgstr":"Солнечный луч"}
+{"msgctxt":"spells","msgid":"Sunray","msgstr":"Солнечный луч"}
+{"msgctxt":"spells","msgid":"Swarm","msgstr":"Рой"}
+{"msgctxt":"spells","msgid":"Telekinesis","msgstr":"Телекинез"}
+{"msgctxt":"spells","msgid":"Telepathy","msgstr":"Телепатия"}
+{"msgctxt":"spells","msgid":"Torch Light","msgstr":"Свет факела"}
+{"msgctxt":"spells","msgid":"Town Portal","msgstr":"Городской портал"}
+{"msgctxt":"spells","msgid":"Toxic Cloud","msgstr":"Ядовитое облако"}
+{"msgctxt":"spells","msgid":"Travel Boon","msgstr":"Дар путника"}
+{"msgctxt":"spells","msgid":"Travelers' Boon","msgstr":"Дар путников"}
+{"msgctxt":"spells","msgid":"Turn - Stone","msgstr":"Окаменение"}
+{"msgctxt":"spells","msgid":"Turn to Stone","msgstr":"Окаменение"}
+{"msgctxt":"spells","msgid":"Turn Undead","msgstr":"Изгнание нежити"}
+{"msgctxt":"spells","msgid":"Vamp Weap","msgstr":"Вампирическое оружие"}
+{"msgctxt":"spells","msgid":"Vampiric Weapon","msgstr":"Оружие вампира"}
+{"msgctxt":"spells","msgid":"Water Res","msgstr":"Сопротивление Воде"}
+{"msgctxt":"spells","msgid":"Water Resist","msgstr":"Сопротивление Воде"}
+{"msgctxt":"spells","msgid":"Water Resistance","msgstr":"Сопротивление Воде"}
+{"msgctxt":"spells","msgid":"Water Walk","msgstr":"Хождение по воде"}
+{"msgctxt":"spells","msgid":"Wing Buffet","msgstr":"Удар крыльями"}
+{"msgctxt":"spells","msgid":"Wizard Eye","msgstr":"Глаз волшебника"}
+{"msgctxt":"spells vampire","msgid":"Charm","msgstr":"Очарование"}
+{"msgctxt":"stats","msgid":"AC","msgstr":"КБ"}
+{"msgctxt":"stats","msgid":"Accuracy","msgstr":"Меткость"}
+{"msgctxt":"stats","msgid":"Age","msgstr":"Возраст"}
+{"msgctxt":"stats","msgid":"Air","msgstr":"Воздух"}
+{"msgctxt":"stats","msgid":"Armor Class","msgstr":"Класс брони"}
+{"msgctxt":"stats","msgid":"Attack","msgstr":"Атака"}
+{"msgctxt":"stats","msgid":"Attack Bonus","msgstr":"Бонус к атаке"}
+{"msgctxt":"stats","msgid":"Attack Damage","msgstr":"Урон от атаки"}
+{"msgctxt":"stats","msgid":"Body","msgstr":"Тело"}
+{"msgctxt":"stats","msgid":"Class","msgstr":"Класс"}
+{"msgctxt":"stats","msgid":"Cold","msgstr":"Холод"}
+{"msgctxt":"stats","msgid":"Cond","msgstr":"Сост."}
+{"msgctxt":"stats","msgid":"Condition","msgstr":"Состояние"}
+{"msgctxt":"stats","msgid":"Dmg","msgstr":"Урон"}
+{"msgctxt":"stats","msgid":"Earth","msgstr":"Земля"}
+{"msgctxt":"stats","msgid":"Electricity","msgstr":"Электричество"}
+{"msgctxt":"stats","msgid":"Endurance","msgstr":"Выносливость"}
+{"msgctxt":"stats","msgid":"Exp.","msgstr":"Опыт"}
+{"msgctxt":"stats","msgid":"Experience","msgstr":"Опыт"}
+{"msgctxt":"stats","msgid":"Fame","msgstr":"Слава"}
+{"msgctxt":"stats","msgid":"Fire","msgstr":"Огонь"}
+{"msgctxt":"stats","msgid":"Hit Points","msgstr":"Очки здоровья"}
+{"msgctxt":"stats","msgid":"HP","msgstr":"ПЗ"}
+{"msgctxt":"stats","msgid":"Intellect","msgstr":"Интеллект"}
+{"msgctxt":"stats","msgid":"Level","msgstr":"Уров."}
+{"msgctxt":"stats","msgid":"Luck","msgstr":"Удача"}
+{"msgctxt":"stats","msgid":"Magic","msgstr":"Магия"}
+{"msgctxt":"stats","msgid":"Might","msgstr":"Сила"}
+{"msgctxt":"stats","msgid":"Mind","msgstr":"Разум"}
+{"msgctxt":"stats","msgid":"Name","msgstr":"Имя"}
+{"msgctxt":"stats","msgid":"Personality","msgstr":"Личность"}
+{"msgctxt":"stats","msgid":"Points","msgstr":"Очки"}
+{"msgctxt":"stats","msgid":"Poison","msgstr":"Яд"}
+{"msgctxt":"stats","msgid":"QSpell","msgstr":"Быстрое заклинание"}
+{"msgctxt":"stats","msgid":"Quick Spell","msgstr":"Быстрое заклинание"}
+{"msgctxt":"stats","msgid":"Reputation","msgstr":"Репутация"}
+{"msgctxt":"stats","msgid":"Shoot Bonus","msgstr":"Бонус к стрельбе"}
+{"msgctxt":"stats","msgid":"Shoot Damage","msgstr":"Урон от стрельбы"}
+{"msgctxt":"stats","msgid":"Skill Points","msgstr":"Очки навыков"}
+{"msgctxt":"stats","msgid":"Skills","msgstr":"Умения"}
+{"msgctxt":"stats","msgid":"SP","msgstr":"Мана"}
+{"msgctxt":"stats","msgid":"Speed","msgstr":"Скорость"}
+{"msgctxt":"stats","msgid":"Spell Points","msgstr":"Очки маны"}
+{"msgctxt":"stats","msgid":"Water","msgstr":"Вода"}
+{"msgctxt":"stditems","msgid":"of Air Resistance","msgstr":"(Сопротивления воздуху)"}
+{"msgctxt":"stditems","msgid":"of Alchemy","msgstr":"алхимии"}
+{"msgctxt":"stditems","msgid":"of Arms","msgstr":"Оружейника"}
+{"msgctxt":"stditems","msgid":"of Body Resistance","msgstr":"(Сопротивления магии Тела)"}
+{"msgctxt":"stditems","msgid":"of Charm","msgstr":"(Очарования)"}
+{"msgctxt":"stditems","msgid":"of Cold Resistance","msgstr":"(Сопротивления холоду)"}
+{"msgctxt":"stditems","msgid":"of Defense","msgstr":"защиты"}
+{"msgctxt":"stditems","msgid":"of Disarming","msgstr":"Обезвреживания"}
+{"msgctxt":"stditems","msgid":"of Dodging","msgstr":"уклонения"}
+{"msgctxt":"stditems","msgid":"of Earth Resistance","msgstr":"(Сопротивления Земле)"}
+{"msgctxt":"stditems","msgid":"of Elec Resistance","msgstr":"(Сопротивления электричеству)"}
+{"msgctxt":"stditems","msgid":"of Fire Resistance","msgstr":"(Сопротивления огню)"}
+{"msgctxt":"stditems","msgid":"of great Might","msgstr":"(великой Силы)"}
+{"msgctxt":"stditems","msgid":"of Health","msgstr":"(Здоровья)"}
+{"msgctxt":"stditems","msgid":"of Items","msgstr":"(Опознания предметов)"}
+{"msgctxt":"stditems","msgid":"of Luck","msgstr":"Удачи"}
+{"msgctxt":"stditems","msgid":"of Magic","msgstr":"(Магии)"}
+{"msgctxt":"stditems","msgid":"of Might","msgstr":"(Силы)"}
+{"msgctxt":"stditems","msgid":"of Mind Resistance","msgstr":"(Сопротивления магии Разума)"}
+{"msgctxt":"stditems","msgid":"of Monsters","msgstr":"(Монстров)"}
+{"msgctxt":"stditems","msgid":"of Poison Resistance","msgstr":"сопротивления яду"}
+{"msgctxt":"stditems","msgid":"of Precision","msgstr":"Меткости"}
+{"msgctxt":"stditems","msgid":"of Speed","msgstr":"(Скорости)"}
+{"msgctxt":"stditems","msgid":"of Stealing","msgstr":"(Воровства)"}
+{"msgctxt":"stditems","msgid":"of the Fist","msgstr":"(Кулака)"}
+{"msgctxt":"stditems","msgid":"of Thought","msgstr":"мысли"}
+{"msgctxt":"stditems","msgid":"of Vigor","msgstr":"(Живучести)"}
+{"msgctxt":"stditems","msgid":"of Water Resistance","msgstr":"(Сопротивления Воде)"}

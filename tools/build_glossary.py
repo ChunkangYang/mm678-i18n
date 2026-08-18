@@ -2,9 +2,10 @@
 #
 #   references/glossary/glossary-terms.tsv   curated, language-neutral term
 #                                            selection (msgctxt <TAB> English)
-#   references/glossary/<lang>/glossary.tsv  generated: context, English, and
-#                                            the language's CURRENT po
-#                                            translation
+#   references/glossary/<lang>/glossary.jsonl  generated: one JSON object per
+#                                              term, containing context,
+#                                              English, and the language's
+#                                              CURRENT po translation
 #
 # The po is the single store of translations, so glossary translations are
 # always looked up there at build time - a glossary can never go stale.
@@ -12,6 +13,7 @@
 #
 #   python tools/build_glossary.py [lang ...]     default: all languages
 #                                                 with a translated po
+import json
 import re
 import sys
 from pathlib import Path
@@ -47,12 +49,13 @@ def buildIndexes(po):
 		# obsolete entries included: a term retired upstream still has its
 		# last known translation there
 		key = (e.msgctxt, e.msgid)
+		value = (e.msgid, e.msgstr)
 		if e.obsolete:
-			exact.setdefault(key, e.msgstr)
-			norm.setdefault((e.msgctxt, normWs(e.msgid)), e.msgstr)
+			exact.setdefault(key, value)
+			norm.setdefault((e.msgctxt, normWs(e.msgid)), value)
 		else:
-			exact[key] = e.msgstr
-			norm[(e.msgctxt, normWs(e.msgid))] = e.msgstr
+			exact[key] = value
+			norm[(e.msgctxt, normWs(e.msgid))] = value
 		byEn.setdefault(normWs(e.msgid), set()).add((e.msgid, e.msgstr))
 		byLower.setdefault(normWs(e.msgid).lower(), set()).add((e.msgid, e.msgstr))
 	return exact, norm, byEn, byLower
@@ -70,32 +73,28 @@ def buildFor(lang, report):
 	outDir.mkdir(parents = True, exist_ok = True)
 	rows, missing = [], 0
 	for ctx, en in loadTerms():
-		tr = exact.get((ctx, en))
-		if tr is None:
-			tr = norm.get((ctx, normWs(en)))
-		if tr is None: # any context, but only when unambiguous
+		match = exact.get((ctx, en))
+		if match is None:
+			match = norm.get((ctx, normWs(en)))
+		if match is None: # any context, but only when unambiguous
 			cands = byEn.get(normWs(en), set())
 			if len(cands) == 1:
-				tr = next(iter(cands))[1]
-		if tr is None: # case drift: take the po's live casing for English too
+				match = next(iter(cands))
+		if match is None: # case drift: take the po's live casing for English too
 			cands = byLower.get(normWs(en).lower(), set())
 			if len(cands) == 1:
-				en, tr = next(iter(cands))
-		if tr is None:
-			tr = ''
+				match = next(iter(cands))
+		if match is None:
+			match = (en, '')
 			missing += 1
 			report.append('%s MISSING [%s] %s' % (lang, ctx, en))
-		rows.append('%s\t%s\t%s' % (ctx, en, tr))
+		en, tr = match
+		rows.append({'msgctxt': ctx, 'msgid': en, 'msgstr': tr})
 
-	head = [
-		'# GENERATED - do not edit translations here. Regenerate with:',
-		'#   python tools/build_glossary.py',
-		'# Term selection lives in references/glossary/glossary-terms.tsv;',
-		'# the translations are looked up in translations/%s/.../mm678.po.' % lang,
-		'# Columns: msgctxt <TAB> English <TAB> %s' % lang,
-	]
-	out = outDir / 'glossary.tsv'
-	out.write_text('\n'.join(head + rows) + '\n', encoding = 'utf-8', newline = '\n')
+	out = outDir / 'glossary.jsonl'
+	out.write_text('\n'.join(
+		json.dumps(row, ensure_ascii = False, separators = (',', ':'))
+		for row in rows) + '\n', encoding = 'utf-8', newline = '\n')
 	print('%s: %d terms -> %s (%d without translation)'
 		% (lang, len(rows), out.relative_to(REPO), missing))
 

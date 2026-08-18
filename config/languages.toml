@@ -38,9 +38,17 @@ i18n_version = "2026-08-16"
 encoding = "cp1252"
 i18n_version = "2026-08-16"
 
+[languages.pt_BR]
+encoding = "cp1252"
+i18n_version = "2026-08-17"
+
 [languages.ru]
 encoding = "cp1251"
 i18n_version = "2026-08-16"
+
+[languages.uk]
+encoding = "cp1251"
+i18n_version = "2026-08-17"
 
 [languages.cs]
 encoding = "cp1250"

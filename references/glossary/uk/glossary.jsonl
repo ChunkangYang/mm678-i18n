@@ -1,0 +1,2431 @@
+{"msgctxt":"autonote or awards","msgid":"Accuracy Boost (White) = Orange + Yellow and Orange Layered","msgstr":"Підвищення влучності (біле) = помаранчеве + жовто-помаранчеве шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered","msgstr":"Опір повітрю (біле) = Червоно-помаранчеве шарувате зілля + Синьо-фіолетове шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Awaken (Green) = Yellow + Blue","msgstr":"Пробудження (зелене) = жовте + синє"}
+{"msgctxt":"autonote or awards","msgid":"Bless (Red and Green Layered) = Red + Green","msgstr":"Благословення (червоно-зелене шарувате) = червоне + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Bless (White) = Purple + Blue","msgstr":"Благословення (біле) = фіолетове + синє"}
+{"msgctxt":"autonote or awards","msgid":"Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered","msgstr":"Опір Тілу (біле) = Синьо-зелене шарувате зілля + Жовто-помаранчеве шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"Каталізатор (сірий) = Гриби + порожня пляшка.  Для посилення ефекту можна використовувати різні сірі реагенти."}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"Каталізатор (сірий) = Гриби + порожня пляшка.  Для посилення ефекту можна використовувати різні сірі реагенти."}
+{"msgctxt":"autonote or awards","msgid":"Cure Disease (Orange) = Yellow + Red","msgstr":"Вилікувати хворобу (помаранчеве) = жовте + червоне"}
+{"msgctxt":"autonote or awards","msgid":"Cure Insanity (Orange and Green Layered) = Orange + Green","msgstr":"Зцілення божевілля (помаранчево-зелене шарувате) = помаранчеве + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Green + Yellow and Orange Layered","msgstr":"Зцілення від паралічу (біле) = зелене + жовто-помаранчеве шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Orange + Yellow and Green Layered","msgstr":"Зцілення від паралічу (біле) = помаранчеве + жовто-зелене шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Cure Poison (Purple) = Blue + Red","msgstr":"Вилікувати отруєння (фіолетове) = синє + червоне"}
+{"msgctxt":"autonote or awards","msgid":"Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.","msgstr":"Зцілення слабкості (жовте) = Макові тріскунці + порожня пляшка.  Для посилення ефекту можна використовувати різні жовті реагенти."}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle","msgstr":"Зцілити рани (червоне) = Ягоди вдовиних сліз + порожня пляшка"}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.","msgstr":"Зцілити рани (червоне) = Ягоди вдовиних сліз + порожня пляшка.  Для посилення ефекту можна використовувати різні червоні реагенти."}
+{"msgctxt":"autonote or awards","msgid":"Divine Boost = Divine Power + Any attribute boost potion.","msgstr":"Божественне підсилення = Божественна сила + будь-яке зілля посилення характеристики."}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (Black) = Restoration + Orange","msgstr":"Божественне зцілення (чорне) = Відновлення + помаранчеве"}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered","msgstr":"Божественне зцілення (біле) = Червоно-помаранчеве шарувате зілля + Жовто-помаранчеве шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Divine Magic (Black) = Super Resistance + Green","msgstr":"Божественна магія (чорна) = Надзвичайний опір + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (Black) = Extreme Energy + Purple","msgstr":"Божественна сила (чорна) = Надзвичайна енергія + фіолетове"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (White) = Blue and Green Layered + Yellow and Green Layered","msgstr":"Божественна сила (біле) = Синьо-зелене шарувате зілля + Жовто-зелене шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Divine Protection = Divine Cure + Any resistance potion.","msgstr":"Божественний захист = Божественне зцілення + будь-яке зілля опору."}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered","msgstr":"Божественне відновлення (біле) = Синьо-фіолетове шарувате зілля + Жовто-помаранчеве шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered","msgstr":"Божественне відновлення (біле) = Червоно-помаранчеве шарувате зілля + Синьо-зелене шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered","msgstr":"Божественне відновлення (біле) = Червоно-фіолетове шарувате зілля + Жовто-зелене шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)","msgstr":"Божественне піднесення = Божественне відновлення + Зцілення божевілля (або Зняти страх, або Зняти прокляття)"}
+{"msgctxt":"autonote or awards","msgid":"Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered","msgstr":"Опір землі (біле) = Червоно-фіолетове шарувате зілля + Жовто-помаранчеве шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Endurance Boost (White) = Purple + Blue and Purple Layered","msgstr":"Підвищення витривалості (біле) = фіолетове + синьо-фіолетове шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Energy (Yellow) = Poppysnaps + Empty Bottle","msgstr":"Енергія (жовта) = Макові тріскунці + порожня пляшка"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy (Black) = Bless + Yellow","msgstr":"Есенція влучності (чорна) = Благословення + жовте"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy = Cure Insanity + Stoneskin","msgstr":"Есенція влучності = Зцілення божевілля + Кам’яна шкіра"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance (Black) = Supreme Protection + Yellow","msgstr":"Есенція витривалості (чорна) = Найвищий захист + жовте"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance = Remove Curse + Recharge Item","msgstr":"Есенція витривалості = Зняти прокляття + Перезарядження предмета"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect (Black) = Stone Skin + Blue","msgstr":"Есенція інтелекту (чорна) = Кам’яна шкіра + синє"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect = Remove Curse + Shield ","msgstr":"Есенція інтелекту = Зняти прокляття + Щит "}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck (Black) = Super Resistance + Purple","msgstr":"Есенція удачі (чорна) = Надзвичайний опір + фіолетове"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin","msgstr":"Есенція удачі = Прискорення + Героїзм, Перезарядження предмета + Щит, Загартувати предмет + Кам’яна шкіра"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might (Black) = Heroism + Red","msgstr":"Есенція Моці (чорна) = Героїзм + червоне"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might = Remove Fear + Heroism","msgstr":"Есенція Моці = Зняти страх + Героїзм"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality (Black) = Restoration + Blue","msgstr":"Есенція особистості (чорна) = Відновлення + синє"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality = Remove Fear + Haste","msgstr":"Есенція особистості = Зняти страх + Прискорення"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed (Black) = Haste + Red","msgstr":"Есенція Швидкості (чорна) = Прискорення + червоне"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed = Cure Insanity + Harden Item","msgstr":"Есенція Швидкості = Зцілення божевілля + Загартувати предмет"}
+{"msgctxt":"autonote or awards","msgid":"Extreme Energy (White) = Orange + Yellow","msgstr":"Надзвичайна енергія (біла) = помаранчеве + жовте"}
+{"msgctxt":"autonote or awards","msgid":"Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered","msgstr":"Опір вогню (біле) = Червоно-помаранчеве шарувате зілля + Жовто-зелене шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Green + Red and Orange Layered","msgstr":"Полум’яне зілля (біле) = зелене + червоно-помаранчеве шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Purple + Yellow and Orange Layered","msgstr":"Полум’яне зілля (біле) = фіолетове + жовто-помаранчеве шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Green + Red and Purple Layered","msgstr":"Зілля заморожування (біле) = зелене + червоно-фіолетове шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Orange + Blue and Purple Layered","msgstr":"Зілля заморожування (біле) = помаранчеве + синьо-фіолетове шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Harden Item (Yellow and Green Layered) = Yellow + Green","msgstr":"Загартувати предмет (жовто-зелене шарувате) = жовте + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Haste (Red and Orange Layered) = Red + Orange","msgstr":"Прискорення (червоно-помаранчеве шарувате) = червоне + помаранчеве"}
+{"msgctxt":"autonote or awards","msgid":"Haste (White) = Green + Yellow","msgstr":"Прискорення (біле) = зелене + жовте"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (Red and Purple Layered) = Red + Purple","msgstr":"Героїзм (червоно-фіолетовий шаруватий) = червоне + фіолетове"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (White) = Orange + Red","msgstr":"Героїзм (білий) = помаранчеве + червоне"}
+{"msgctxt":"autonote or awards","msgid":"Intellect Boost (White) = Green + Yellow and Green Layered","msgstr":"Підсилення інтелекту (біле) = зелене + жовто-зелене шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"Посилення удачі (біле) = Червоно-фіолетове шарувате зілля + Синьо-фіолетове шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"Посилення удачі (біле) = Червоно-фіолетове шарувате зілля + Синьо-фіолетове шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"Зілля магії (синє) = Корінь Фіми + порожня пляшка.  Для посилення ефекту можна використовувати різні сині реагенти."}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle","msgstr":"Зілля магії (синє) = Корінь Фірни + порожня пляшка"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"Зілля магії (синє) = Корінь Фірни + порожня пляшка.  Для посилення ефекту можна використовувати різні сині реагенти."}
+{"msgctxt":"autonote or awards","msgid":"Might Boost (White) = Purple + Red and Purple Layered","msgstr":"Посилення міці (біле) = фіолетове + червоно-фіолетове шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered","msgstr":"Опір розуму (біле) = Червоно-фіолетове шарувате зілля + Синьо-зелене шарувате зілля"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Orange + Blue and Green Layered","msgstr":"Отруйне зілля (біле) = помаранчеве + синьо-зелене шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Purple + Yellow and Green Layered","msgstr":"Отруйне зілля (біле) = фіолетове + жовто-зелене шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Personality Boost (White) = Green + Blue and Green Layered","msgstr":"Посилення особистості (біле) = зелене + синьо-зелене шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity","msgstr":"Зілля Приречення = Зняти прокляття + Зняти страх, Зняти прокляття + Зцілення божевілля, Зняти страх + Зцілення божевілля"}
+{"msgctxt":"autonote or awards","msgid":"Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.","msgstr":"Зілля Богів = Есенція моці + Загартувати предмет або Есенція інтелекту + Кам’яна шкіра або Есенція особистості + Перезарядження предмета або Есенція витривалості + Прискорення або Есенція влучності + Щит або Есенція Швидкості + Героїзм."}
+{"msgctxt":"autonote or awards","msgid":"Preservation (Blue and Orange Layered) = Blue + Orange","msgstr":"Збереження (синьо-помаранчеве шарувате) = синє + помаранчеве"}
+{"msgctxt":"autonote or awards","msgid":"Protection (Orange) = Yellow + Red","msgstr":"Захист (помаранчевий) = жовте + червоне"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Cure Insanity + Bless","msgstr":"Захист від магії = Зцілення божевілля + Благословення"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Curse + Water Breathing","msgstr":"Захист від магії = Зняти прокляття + Дихання під водою"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Fear + Preservation","msgstr":"Захист від магії = Зняти страх + Збереження"}
+{"msgctxt":"autonote or awards","msgid":"Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)","msgstr":"Чиста влучність (чорна) = зелене зілля + Підвищення влучності (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Air Resistance = Essence of Luck + Air Resistance","msgstr":"Чистий опір повітрю = Есенція удачі + Опір повітрю"}
+{"msgctxt":"autonote or awards","msgid":"Pure Body Resistance = Essence of Luck + Body Resistance","msgstr":"Чистий опір Тілу = Есенція удачі + Опір Тілу"}
+{"msgctxt":"autonote or awards","msgid":"Pure Earth Resistance = Essence of Luck + Earth Resistance","msgstr":"Чистий опір землі = Есенція удачі + Опір землі"}
+{"msgctxt":"autonote or awards","msgid":"Pure Endurance (Black) = Green Potion + Endurance Boost (White)","msgstr":"Чиста витривалість (чорна) = зелене зілля + Підвищення витривалості (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Fire Resistance = Essence of Luck + Fire Resistance","msgstr":"Чистий опір вогню = Есенція удачі + Опір вогню"}
+{"msgctxt":"autonote or awards","msgid":"Pure Intellect (Black) = Orange Potion + Intellect Boost (White)","msgstr":"Чистий інтелект (чорний) = помаранчеве зілля + Підсилення інтелекту (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)","msgstr":"Чиста удача (чорне) = Жовто-помаранчеве шарувате зілля + Швидке зілля (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Might (Black) = Orange Potion + Might Boost (White)","msgstr":"Чиста міць (чорна) = помаранчеве зілля + Посилення міці (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Mind Resistance = Essence of Luck + Mind Resistance","msgstr":"Чистий опір розуму = Есенція удачі + Опір розуму"}
+{"msgctxt":"autonote or awards","msgid":"Pure Personality (Black) = Purple Potion + Personality Boost (White)","msgstr":"Чиста особистість (чорне) = Фіолетове зілля + Посилення особистості (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Speed (Black) = Purple Potion + Speed Boost (White)","msgstr":"Чиста швидкість (чорна) = фіолетове зілля + Посилення швидкості (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Water Resistance = Essence of Luck + Water Resistance","msgstr":"Чистий опір воді = Есенція удачі + Опір воді"}
+{"msgctxt":"autonote or awards","msgid":"Recharge Item (Blue and Green Layered) = Blue + Green","msgstr":"Перезарядження предмета (синьо-зелене шарувате) = синє + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)","msgstr":"Омолодження (чорне) = Синьо-помаранчеве шарувате зілля + Божественне відновлення (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Extreme Energy + Green","msgstr":"Омолодження (чорне) = Надзвичайна енергія + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)","msgstr":"Омолодження (чорне) = Червоно-зелене шарувате зілля + Божественне відновлення (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)","msgstr":"Омолодження (чорне) = Жовто-фіолетове шарувате зілля + Божественне відновлення (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Remove Curse (Purple and Green Layered) = Purple + Green","msgstr":"Зняти прокляття (фіолетово-зелене шарувате) = фіолетове + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Remove Fear (Orange and Purple Layered) = Orange + Purple","msgstr":"Зняти страх (помаранчево-фіолетове шарувате) = помаранчеве + фіолетове"}
+{"msgctxt":"autonote or awards","msgid":"Resistance (Green) = Yellow + Blue","msgstr":"Опір (зелений) = жовте + синє"}
+{"msgctxt":"autonote or awards","msgid":"Restoration(White) = Purple + Green","msgstr":"Відновлення(біле) = фіолетове + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Shield (Blue and Purple Layered) = Blue + Purple","msgstr":"Щит (синьо-фіолетовий шаруватий) = синє + фіолетове"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Orange + Red and Purple Layered","msgstr":"Зілля електричного розряду (біле) = помаранчеве + червоно-фіолетове шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Purple + Red and Orange Layered","msgstr":"Зілля електричного розряду (біле) = фіолетове + червоно-помаранчеве шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)","msgstr":"Зілля винищення (чорне) = Синьо-фіолетове шарувате зілля + Полум’яне зілля (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Speed Boost (White) = Orange + Red and Orange Layered","msgstr":"Посилення швидкості (біле) = помаранчеве + червоно-помаранчеве шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Stone Skin (White) = Orange + Blue","msgstr":"Кам’яна шкіра (біла) = помаранчеве + синє"}
+{"msgctxt":"autonote or awards","msgid":"Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)","msgstr":"Камінь у плоть (чорне) = Червоно-фіолетове шарувате зілля + Зцілення від паралічу (біле)"}
+{"msgctxt":"autonote or awards","msgid":"Stoneskin (Yellow and Orange Layered) = Yellow + Orange","msgstr":"Кам’яна шкіра (жовто-помаранчева шарувата) = жовте + помаранчеве"}
+{"msgctxt":"autonote or awards","msgid":"Super Resistance (White) = Green + Blue","msgstr":"Надзвичайний опір (білий) = зелене + синє"}
+{"msgctxt":"autonote or awards","msgid":"Supreme Protection (White) = Orange + Green","msgstr":"Найвищий захист (білий) = помаранчеве + зелене"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Green + Blue and Purple Layered","msgstr":"Швидке зілля (біле) = зелене + синьо-фіолетове шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Purple + Blue and Green Layered","msgstr":"Швидке зілля (біле) = фіолетове + синьо-зелене шарувате"}
+{"msgctxt":"autonote or awards","msgid":"Water Breathing (Yellow and Purple Layered) = Yellow + Purple","msgstr":"Дихання під водою (жовто-фіолетове шарувате) = жовте + фіолетове"}
+{"msgctxt":"autonote or awards","msgid":"Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered","msgstr":"Опір воді (біле) = Синьо-фіолетове шарувате зілля + Жовто-зелене шарувате зілля"}
+{"msgctxt":"class","msgid":"Arch Druid","msgstr":"Архідруїд"}
+{"msgctxt":"class","msgid":"Arch Mage","msgstr":"Архімаг"}
+{"msgctxt":"class","msgid":"Archer","msgstr":"Лучник"}
+{"msgctxt":"class","msgid":"Assassin","msgstr":"Асасин"}
+{"msgctxt":"class","msgid":"Battle Mage","msgstr":"Бойовий маг"}
+{"msgctxt":"class","msgid":"Black Knight","msgstr":"Чорний лицар"}
+{"msgctxt":"class","msgid":"Bounty Hunter","msgstr":"Мисливець за головами"}
+{"msgctxt":"class","msgid":"Cavalier","msgstr":"Кавалер"}
+{"msgctxt":"class","msgid":"Champion","msgstr":"Чемпіон"}
+{"msgctxt":"class","msgid":"Cleric","msgstr":"Клірик"}
+{"msgctxt":"class","msgid":"Crusader","msgstr":"Хрестоносець"}
+{"msgctxt":"class","msgid":"Dark Elf","msgstr":"Темний ельф"}
+{"msgctxt":"class","msgid":"Dark Elf Patriarch","msgstr":"Темний ельф-патріарх"}
+{"msgctxt":"class","msgid":"Dragon","msgstr":"Дракон"}
+{"msgctxt":"class","msgid":"Druid","msgstr":"Друїд"}
+{"msgctxt":"class","msgid":"Great Druid","msgstr":"Великий друїд"}
+{"msgctxt":"class","msgid":"Great Wyrm","msgstr":"Великий Змій"}
+{"msgctxt":"class","msgid":"Hero","msgstr":"Герой"}
+{"msgctxt":"class","msgid":"High Priest","msgstr":"Верховний жрець"}
+{"msgctxt":"class","msgid":"Hunter","msgstr":"Мисливець"}
+{"msgctxt":"class","msgid":"Initiate","msgstr":"Посвячений"}
+{"msgctxt":"class","msgid":"Knight","msgstr":"Лицар"}
+{"msgctxt":"class","msgid":"Lich","msgstr":"Ліч"}
+{"msgctxt":"class","msgid":"Master","msgstr":"Майстер"}
+{"msgctxt":"class","msgid":"Master Archer","msgstr":"Майстер-лучник"}
+{"msgctxt":"class","msgid":"Master Necromancer","msgstr":"Майстер-некромант"}
+{"msgctxt":"class","msgid":"Master Wizard","msgstr":"Майстер-чарівник"}
+{"msgctxt":"class","msgid":"Minotaur","msgstr":"Мінотавр"}
+{"msgctxt":"class","msgid":"Minotaur Lord","msgstr":"Мінотавр-лорд"}
+{"msgctxt":"class","msgid":"Monk","msgstr":"Монах"}
+{"msgctxt":"class","msgid":"Necromancer","msgstr":"Некромант"}
+{"msgctxt":"class","msgid":"Ninja","msgstr":"Ніндзя"}
+{"msgctxt":"class","msgid":"Nosferatu","msgstr":"Носферату"}
+{"msgctxt":"class","msgid":"Paladin","msgstr":"Паладин"}
+{"msgctxt":"class","msgid":"Patriarch","msgstr":"Патріарх"}
+{"msgctxt":"class","msgid":"Peasant","msgstr":"Селянин"}
+{"msgctxt":"class","msgid":"Priest","msgstr":"Жрець"}
+{"msgctxt":"class","msgid":"Priest of Light","msgstr":"Жрець Світла"}
+{"msgctxt":"class","msgid":"Priest of the Dark","msgstr":"Жрець темряви"}
+{"msgctxt":"class","msgid":"Priest of the Light","msgstr":"Жрець світла"}
+{"msgctxt":"class","msgid":"Priest of the Sun","msgstr":"Жрець сонця"}
+{"msgctxt":"class","msgid":"Ranger","msgstr":"Слідопит"}
+{"msgctxt":"class","msgid":"Ranger Lord","msgstr":"Володар слідопитів"}
+{"msgctxt":"class","msgid":"Rogue","msgstr":"Пройдисвіт"}
+{"msgctxt":"class","msgid":"Sniper","msgstr":"Снайпер"}
+{"msgctxt":"class","msgid":"Sorcerer","msgstr":"Чаклун"}
+{"msgctxt":"class","msgid":"Spy","msgstr":"Шпигун"}
+{"msgctxt":"class","msgid":"Thief","msgstr":"Злодій"}
+{"msgctxt":"class","msgid":"Troll","msgstr":"Троль"}
+{"msgctxt":"class","msgid":"Vampire","msgstr":"Вампір"}
+{"msgctxt":"class","msgid":"Villain","msgstr":"Лиходій"}
+{"msgctxt":"class","msgid":"War Troll","msgstr":"Бойовий Троль"}
+{"msgctxt":"class","msgid":"Warlock","msgstr":"Чаклун"}
+{"msgctxt":"class","msgid":"Warrior Mage","msgstr":"Бойовий маг"}
+{"msgctxt":"class","msgid":"Wizard","msgstr":"Чарівник"}
+{"msgctxt":"condition","msgid":"Afraid","msgstr":"Боїться"}
+{"msgctxt":"condition","msgid":"Asleep","msgstr":"Спить"}
+{"msgctxt":"condition","msgid":"Cursed","msgstr":"Проклятий"}
+{"msgctxt":"condition","msgid":"Dead","msgstr":"Мертвий"}
+{"msgctxt":"condition","msgid":"Diseased","msgstr":"Хворий"}
+{"msgctxt":"condition","msgid":"Drunk","msgstr":"П’яний"}
+{"msgctxt":"condition","msgid":"Eradicated","msgstr":"Знищений"}
+{"msgctxt":"condition","msgid":"Good","msgstr":"У нормі"}
+{"msgctxt":"condition","msgid":"Insane","msgstr":"Божевільний"}
+{"msgctxt":"condition","msgid":"Paralyzed","msgstr":"Паралізований"}
+{"msgctxt":"condition","msgid":"Poison","msgstr":"Отруєний"}
+{"msgctxt":"condition","msgid":"Stoned","msgstr":"Скам'янілий"}
+{"msgctxt":"condition","msgid":"Unconscious","msgstr":"Непритомний"}
+{"msgctxt":"condition","msgid":"Weak","msgstr":"Слабкий"}
+{"msgctxt":"condition","msgid":"Zombie","msgstr":"Зомбі"}
+{"msgctxt":"items","msgid":"Abbey Normal Golem Head","msgstr":"Звичайна голова голема з абатства"}
+{"msgctxt":"items","msgid":"Accuracy Boost","msgstr":"Підвищення влучності"}
+{"msgctxt":"items","msgid":"Accuracy Boost Recipe","msgstr":"Рецепт підвищення влучності"}
+{"msgctxt":"items","msgid":"Accurate Crossbow","msgstr":"Влучний арбалет"}
+{"msgctxt":"items","msgid":"Aegis","msgstr":"Егіда"}
+{"msgctxt":"items","msgid":"Air Resistance","msgstr":"Опір повітрю"}
+{"msgctxt":"items","msgid":"Air Resistance Recipe","msgstr":"Рецепт опору повітрю"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Acid","msgstr":"Алакорновий жезл кислоти"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Blades","msgstr":"Алакорновий жезл Лез"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Charms","msgstr":"Алакорновий жезл Зачарувань"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Fireballs","msgstr":"Алакорновий жезл вогняних куль"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Ice","msgstr":"Алакорновий жезл Льоду"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Lightning","msgstr":"Алакорновий жезл Блискавки"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Swarms","msgstr":"Алакорновий жезл Роїв"}
+{"msgctxt":"items","msgid":"Alloyed Shield","msgstr":"Щит зі сплаву"}
+{"msgctxt":"items","msgid":"Almighty Crown","msgstr":"Всемогутня корона"}
+{"msgctxt":"items","msgid":"Altar Piece","msgstr":"Частина вівтаря"}
+{"msgctxt":"items","msgid":"Alvar Cloak","msgstr":"Плащ Алвара"}
+{"msgctxt":"items","msgid":"Alvarian Boots","msgstr":"Алварські чоботи"}
+{"msgctxt":"items","msgid":"Alvarian Leather","msgstr":"Алварські шкіряні обладунки"}
+{"msgctxt":"items","msgid":"Alvarian Poignard","msgstr":"Алварський кинджал"}
+{"msgctxt":"items","msgid":"Amber","msgstr":"Бурштин"}
+{"msgctxt":"items","msgid":"Amethyst","msgstr":"Аметист"}
+{"msgctxt":"items","msgid":"Amethyst Ring","msgstr":"Аметистовий перстень"}
+{"msgctxt":"items","msgid":"Amuck","msgstr":"Шаленство"}
+{"msgctxt":"items","msgid":"Amythest","msgstr":"Аметист"}
+{"msgctxt":"items","msgid":"Ancient Amulet","msgstr":"Стародавній амулет"}
+{"msgctxt":"items","msgid":"Angel Statue Painting","msgstr":"Картина зі статуєю янгола"}
+{"msgctxt":"items","msgid":"Angel Statuette","msgstr":"Статуетка янгола"}
+{"msgctxt":"items","msgid":"Angel's Ring","msgstr":"Перстень янгола"}
+{"msgctxt":"items","msgid":"Angelic Helm","msgstr":"Янгольський шолом"}
+{"msgctxt":"items","msgid":"Ania Selving","msgstr":"Анія Селвінг"}
+{"msgctxt":"items","msgid":"Ankh","msgstr":"Анх"}
+{"msgctxt":"items","msgid":"Anointed Herb Potion","msgstr":"Зілля з освячених трав"}
+{"msgctxt":"items","msgid":"Aphrodite","msgstr":"Афродіта"}
+{"msgctxt":"items","msgid":"Apollo","msgstr":"Аполлон"}
+{"msgctxt":"items","msgid":"Apple","msgstr":"Яблуко"}
+{"msgctxt":"items","msgid":"Arcane Key","msgstr":"Ключ таємної магії"}
+{"msgctxt":"items","msgid":"Arcane Wand of Blasting","msgstr":"Арканний жезл вибуху"}
+{"msgctxt":"items","msgid":"Arcane Wand of Clouds","msgstr":"Містичний жезл Хмар"}
+{"msgctxt":"items","msgid":"Arcane Wand of Lightning","msgstr":"Арканний жезл Блискавки"}
+{"msgctxt":"items","msgid":"Arcane Wand of Paralyzing","msgstr":"Арканний жезл паралічу"}
+{"msgctxt":"items","msgid":"Arcane Wand of Rocks","msgstr":"Чародійний жезл каменів"}
+{"msgctxt":"items","msgid":"Arcane Wand of the Fist","msgstr":"Арканний жезл Кулака"}
+{"msgctxt":"items","msgid":"Archangel Broadsword","msgstr":"Архангельський палаш"}
+{"msgctxt":"items","msgid":"Archangel Wings","msgstr":"Крила архангела"}
+{"msgctxt":"items","msgid":"Archibald Ironfist Painting","msgstr":"Портрет Арчібальда Айронфіста"}
+{"msgctxt":"items","msgid":"Arcomage Deck","msgstr":"Колода Аркомага"}
+{"msgctxt":"items","msgid":"Ares","msgstr":"Арес"}
+{"msgctxt":"items","msgid":"Armored Boots","msgstr":"Броньовані чоботи"}
+{"msgctxt":"items","msgid":"Artemis","msgstr":"Артеміда"}
+{"msgctxt":"items","msgid":"Arthur","msgstr":"Артур"}
+{"msgctxt":"items","msgid":"Artificer's Belt","msgstr":"Пояс артефактора"}
+{"msgctxt":"items","msgid":"Assassin's Dagger","msgstr":"Кинджал асасина"}
+{"msgctxt":"items","msgid":"Astral Shield","msgstr":"Астральний щит"}
+{"msgctxt":"items","msgid":"Athena","msgstr":"Афіна"}
+{"msgctxt":"items","msgid":"Atlas","msgstr":"Атлас"}
+{"msgctxt":"items","msgid":"Awaken","msgstr":"Пробудження"}
+{"msgctxt":"items","msgid":"Axe of Balthazar","msgstr":"Сокира Бальтазара"}
+{"msgctxt":"items","msgid":"Back Door Key","msgstr":"Ключ від задніх дверей"}
+{"msgctxt":"items","msgid":"Ball of Dunduck","msgstr":"Куля Дандака"}
+{"msgctxt":"items","msgid":"Banded Plate","msgstr":"Смугасті лати"}
+{"msgctxt":"items","msgid":"Barbed Club","msgstr":"Зазубрена дубина"}
+{"msgctxt":"items","msgid":"Barbed Trident","msgstr":"Шипастий тризуб"}
+{"msgctxt":"items","msgid":"Barrow Key","msgstr":"Ключ кургану"}
+{"msgctxt":"items","msgid":"Basic Cryptography","msgstr":"Основи криптографії"}
+{"msgctxt":"items","msgid":"Bathhouse Key","msgstr":"Ключ від лазні"}
+{"msgctxt":"items","msgid":"Battle Axe","msgstr":"Бойова сокира"}
+{"msgctxt":"items","msgid":"Battle Hatchet","msgstr":"Бойова сокирка"}
+{"msgctxt":"items","msgid":"Battle Helm","msgstr":"Бойовий шолом"}
+{"msgctxt":"items","msgid":"Battleaxe","msgstr":"Бойова сокира"}
+{"msgctxt":"items","msgid":"Beaked Halberd","msgstr":"Дзьобата алебарда"}
+{"msgctxt":"items","msgid":"Bear Statuette","msgstr":"Статуетка ведмедя"}
+{"msgctxt":"items","msgid":"Berserk","msgstr":"Шаленство"}
+{"msgctxt":"items","msgid":"Berserker Belt","msgstr":"Пояс берсерка"}
+{"msgctxt":"items","msgid":"Bibliotheca Chest Key","msgstr":"Ключ від скрині Бібліотеки"}
+{"msgctxt":"items","msgid":"Big Brass Ring","msgstr":"Велике латунне кільце"}
+{"msgctxt":"items","msgid":"Big Tapestry","msgstr":"Великий гобелен"}
+{"msgctxt":"items","msgid":"Bill of Sale","msgstr":"Купча"}
+{"msgctxt":"items","msgid":"Blackmail Letter","msgstr":"Лист із шантажем"}
+{"msgctxt":"items","msgid":"Blade of Mercy","msgstr":"Клинок милосердя"}
+{"msgctxt":"items","msgid":"Blaster","msgstr":"Бластер"}
+{"msgctxt":"items","msgid":"Blaster Rifle","msgstr":"Бластерна гвинтівка"}
+{"msgctxt":"items","msgid":"Bless","msgstr":"Благословення"}
+{"msgctxt":"items","msgid":"Blessed Ring","msgstr":"Благословенний перстень"}
+{"msgctxt":"items","msgid":"Blood Dagger","msgstr":"Кривавий кинджал"}
+{"msgctxt":"items","msgid":"Blood Drop Crossbow","msgstr":"Арбалет «Крапля крові»"}
+{"msgctxt":"items","msgid":"Blood Talisman","msgstr":"Талісман крові"}
+{"msgctxt":"items","msgid":"Blue Quartz","msgstr":"Синій кварц"}
+{"msgctxt":"items","msgid":"Body Resistance","msgstr":"Опір Тілу"}
+{"msgctxt":"items","msgid":"Body Resistance Recipe","msgstr":"Рецепт опору Тілу"}
+{"msgctxt":"items","msgid":"Bone","msgstr":"Кістка"}
+{"msgctxt":"items","msgid":"Bone of Doom","msgstr":"Кістка Приречення"}
+{"msgctxt":"items","msgid":"Bone Staff","msgstr":"Кістяний посох"}
+{"msgctxt":"items","msgid":"Brass Charm","msgstr":"Латунний талісман"}
+{"msgctxt":"items","msgid":"Brass Ring","msgstr":"Латунне кільце"}
+{"msgctxt":"items","msgid":"Breaker","msgstr":"Руйнівник"}
+{"msgctxt":"items","msgid":"Broadsword","msgstr":"Палаш"}
+{"msgctxt":"items","msgid":"Bronze Amulet","msgstr":"Бронзовий амулет"}
+{"msgctxt":"items","msgid":"Bronze Ring","msgstr":"Бронзовий перстень"}
+{"msgctxt":"items","msgid":"Bronze Shield","msgstr":"Бронзовий щит"}
+{"msgctxt":"items","msgid":"Calvary Shield","msgstr":"Кавалерійський щит"}
+{"msgctxt":"items","msgid":"Candelabra","msgstr":"Канделябр"}
+{"msgctxt":"items","msgid":"Cannon Design Notes","msgstr":"Нотатки про будову гармати"}
+{"msgctxt":"items","msgid":"Cannonball of Dominion","msgstr":"Гарматне ядро Панування"}
+{"msgctxt":"items","msgid":"Captain's Code","msgstr":"Кодекс капітана"}
+{"msgctxt":"items","msgid":"Captain's Cutlass","msgstr":"Абордажна шабля капітана"}
+{"msgctxt":"items","msgid":"Caravaner's Crossbow","msgstr":"Арбалет караванника"}
+{"msgctxt":"items","msgid":"Caravaner's Leather","msgstr":"Шкіряні обладунки караванника"}
+{"msgctxt":"items","msgid":"Caravaner's Small Shield","msgstr":"Малий щит караванника"}
+{"msgctxt":"items","msgid":"Cardinal Cloak","msgstr":"Кардинальський плащ"}
+{"msgctxt":"items","msgid":"Case of Soul Jars","msgstr":"Скринька з посудинами душ"}
+{"msgctxt":"items","msgid":"Castle Shield","msgstr":"Замковий щит"}
+{"msgctxt":"items","msgid":"Catalyst","msgstr":"Каталізатор"}
+{"msgctxt":"items","msgid":"Catherine's Key","msgstr":"Ключ Кетрін"}
+{"msgctxt":"items","msgid":"Cavalier Gauntlets","msgstr":"Латні рукавиці кавалера"}
+{"msgctxt":"items","msgid":"Celestial Shield","msgstr":"Небесний щит"}
+{"msgctxt":"items","msgid":"Cell Key","msgstr":"Ключ від камери"}
+{"msgctxt":"items","msgid":"Central Pillar Key","msgstr":"Ключ від центральної колони"}
+{"msgctxt":"items","msgid":"Certificate of Authentication","msgstr":"Сертифікат справжності"}
+{"msgctxt":"items","msgid":"Chain Mail","msgstr":"Кольчуга"}
+{"msgctxt":"items","msgid":"Champion Sword","msgstr":"Меч чемпіона"}
+{"msgctxt":"items","msgid":"Champion's Sword","msgstr":"Меч чемпіона"}
+{"msgctxt":"items","msgid":"Charele","msgstr":"Шарель"}
+{"msgctxt":"items","msgid":"Charged connector stone","msgstr":"Заряджений камінь-з'єднувач"}
+{"msgctxt":"items","msgid":"Chest Key","msgstr":"Ключ від скрині"}
+{"msgctxt":"items","msgid":"Chime of Harmony","msgstr":"Дзвін гармонії"}
+{"msgctxt":"items","msgid":"Cipher","msgstr":"Шифр"}
+{"msgctxt":"items","msgid":"Citrine","msgstr":"Цитрин"}
+{"msgctxt":"items","msgid":"Clanker's Amulet","msgstr":"Амулет Кланкера"}
+{"msgctxt":"items","msgid":"Claw Amulet","msgstr":"Амулет із кігтем"}
+{"msgctxt":"items","msgid":"Cloak of Baa","msgstr":"Плащ Баа"}
+{"msgctxt":"items","msgid":"Cloak of the Sheep","msgstr":"Плащ вівці"}
+{"msgctxt":"items","msgid":"Cloth Hat","msgstr":"Тканинний капелюх"}
+{"msgctxt":"items","msgid":"Club","msgstr":"Дубина"}
+{"msgctxt":"items","msgid":"Cobra Egg","msgstr":"Яйце кобри"}
+{"msgctxt":"items","msgid":"Colony Zod Key","msgstr":"Ключ від Колонії Зод"}
+{"msgctxt":"items","msgid":"Common Halberd","msgstr":"Звичайна алебарда"}
+{"msgctxt":"items","msgid":"Communication Officer's Code","msgstr":"Код офіцера зв’язку"}
+{"msgctxt":"items","msgid":"Composite Bow","msgstr":"Композитний лук"}
+{"msgctxt":"items","msgid":"Conan","msgstr":"Конан"}
+{"msgctxt":"items","msgid":"Conflux Key","msgstr":"Ключ Конфлюксу"}
+{"msgctxt":"items","msgid":"Connector stone","msgstr":"Камінь-з'єднувач"}
+{"msgctxt":"items","msgid":"Conscript's Helm","msgstr":"Шолом новобранця"}
+{"msgctxt":"items","msgid":"Contestant's Shield","msgstr":"Щит змагальника"}
+{"msgctxt":"items","msgid":"Control Cube","msgstr":"Куб керування"}
+{"msgctxt":"items","msgid":"Control Undead","msgstr":"Контроль над нежиттю"}
+{"msgctxt":"items","msgid":"Corsair","msgstr":"Корсар"}
+{"msgctxt":"items","msgid":"Crate of Arrowheads","msgstr":"Ящик наконечників для стріл"}
+{"msgctxt":"items","msgid":"Crate of Enrothian Wine","msgstr":"Ящик енротського вина"}
+{"msgctxt":"items","msgid":"Crate of Glass Bottles","msgstr":"Ящик зі скляними пляшками"}
+{"msgctxt":"items","msgid":"Crate of Griffin Feathers","msgstr":"Ящик пір’я грифона"}
+{"msgctxt":"items","msgid":"Crate of Sand","msgstr":"Ящик піску"}
+{"msgctxt":"items","msgid":"Crate of Tularean Wood","msgstr":"Ящик із тулареанською деревиною"}
+{"msgctxt":"items","msgid":"Cronos","msgstr":"Кронос"}
+{"msgctxt":"items","msgid":"Crossbow","msgstr":"Арбалет"}
+{"msgctxt":"items","msgid":"Crown","msgstr":"Корона"}
+{"msgctxt":"items","msgid":"Crown of Final Dominion","msgstr":"Корона остаточного панування"}
+{"msgctxt":"items","msgid":"Crude Axe","msgstr":"Груба сокира"}
+{"msgctxt":"items","msgid":"Crude Bow","msgstr":"Грубий лук"}
+{"msgctxt":"items","msgid":"Crude Crossbow","msgstr":"Примітивний арбалет"}
+{"msgctxt":"items","msgid":"Crude Dagger","msgstr":"Грубий кинджал"}
+{"msgctxt":"items","msgid":"Crude Leather Armor","msgstr":"Грубі шкіряні обладунки"}
+{"msgctxt":"items","msgid":"Crude Longbow","msgstr":"Грубий довгий лук"}
+{"msgctxt":"items","msgid":"Crude Longsword","msgstr":"Грубо викуваний довгий меч"}
+{"msgctxt":"items","msgid":"Crude Mace","msgstr":"Груба булава"}
+{"msgctxt":"items","msgid":"Crude Spear","msgstr":"Примітивний спис"}
+{"msgctxt":"items","msgid":"Crude Trident","msgstr":"Грубий тризуб"}
+{"msgctxt":"items","msgid":"Cruel Spear","msgstr":"Жорстокий спис"}
+{"msgctxt":"items","msgid":"Crusader Sword","msgstr":"Меч хрестоносця"}
+{"msgctxt":"items","msgid":"Crusader's Gauntlets","msgstr":"Латні рукавиці хрестоносця"}
+{"msgctxt":"items","msgid":"Crushed Rose Petals","msgstr":"Подрібнені пелюстки троянди"}
+{"msgctxt":"items","msgid":"Crystal Dagger","msgstr":"Кришталевий кинджал"}
+{"msgctxt":"items","msgid":"Crystal of Terrax","msgstr":"Кристал Терракса"}
+{"msgctxt":"items","msgid":"Crystal Skull","msgstr":"Кришталевий череп"}
+{"msgctxt":"items","msgid":"Cure Disease","msgstr":"Вилікувати хворобу"}
+{"msgctxt":"items","msgid":"Cure Insanity","msgstr":"Зцілення божевілля"}
+{"msgctxt":"items","msgid":"Cure Paralysis","msgstr":"Зцілення від паралічу"}
+{"msgctxt":"items","msgid":"Cure Paralysis Recipe","msgstr":"Рецепт зцілення від паралічу"}
+{"msgctxt":"items","msgid":"Cure Poison","msgstr":"Вилікувати отруєння"}
+{"msgctxt":"items","msgid":"Cure Weakness","msgstr":"Зцілення слабкості"}
+{"msgctxt":"items","msgid":"Cure Wounds","msgstr":"Зцілити рани"}
+{"msgctxt":"items","msgid":"Cutlass","msgstr":"Абордажна шабля"}
+{"msgctxt":"items","msgid":"Cycle of Life","msgstr":"Цикл життя"}
+{"msgctxt":"items","msgid":"Dadeross' Letter to Fellmoon","msgstr":"Лист Дадеросса до Феллмуна"}
+{"msgctxt":"items","msgid":"Dagger","msgstr":"Кинджал"}
+{"msgctxt":"items","msgid":"Dagger Wound Oddities","msgstr":"Особливості кинджальних ран"}
+{"msgctxt":"items","msgid":"Dark Containment","msgstr":"Вмістилище Темряви"}
+{"msgctxt":"items","msgid":"Dark Elven Bastard Sword","msgstr":"Темноельфійський півтораручний меч"}
+{"msgctxt":"items","msgid":"Dark Elven Longsword","msgstr":"Темноельфійський довгий меч"}
+{"msgctxt":"items","msgid":"Dark Grasp","msgstr":"Лещата темряви"}
+{"msgctxt":"items","msgid":"Dark Hammer","msgstr":"Молот темряви"}
+{"msgctxt":"items","msgid":"Dark Knight Plate","msgstr":"Лати темного лицаря"}
+{"msgctxt":"items","msgid":"Datura","msgstr":"Дурман"}
+{"msgctxt":"items","msgid":"Dazzling Ring","msgstr":"Сліпучий перстень"}
+{"msgctxt":"items","msgid":"Death Head Shield","msgstr":"Щит із черепом"}
+{"msgctxt":"items","msgid":"Death Mace","msgstr":"Булава смерті"}
+{"msgctxt":"items","msgid":"Death's Head Pendant","msgstr":"Підвіска «Мертва голова»"}
+{"msgctxt":"items","msgid":"Deck of Fate","msgstr":"Колода долі"}
+{"msgctxt":"items","msgid":"Defender Helm","msgstr":"Шолом захисника"}
+{"msgctxt":"items","msgid":"Detect Life","msgstr":"Виявити життя"}
+{"msgctxt":"items","msgid":"Devil Plans","msgstr":"Плани дияволів"}
+{"msgctxt":"items","msgid":"Devilbone Bow","msgstr":"Лук із диявольської кістки"}
+{"msgctxt":"items","msgid":"Diamond","msgstr":"Діамант"}
+{"msgctxt":"items","msgid":"Diary Page","msgstr":"Сторінка щоденника"}
+{"msgctxt":"items","msgid":"Dimension door","msgstr":"Міжпросторові двері"}
+{"msgctxt":"items","msgid":"Dire Wolf Pelt","msgstr":"Шкура лютого вовка"}
+{"msgctxt":"items","msgid":"Discharge Papers","msgstr":"Документи про звільнення зі служби"}
+{"msgctxt":"items","msgid":"Disheveled Chain Mail","msgstr":"Пошарпана кольчуга"}
+{"msgctxt":"items","msgid":"Divine Boost ","msgstr":"Божественне підсилення "}
+{"msgctxt":"items","msgid":"Divine Boost recipe","msgstr":"Рецепт «Божественне підсилення»"}
+{"msgctxt":"items","msgid":"Divine Cure","msgstr":"Божественне зцілення"}
+{"msgctxt":"items","msgid":"Divine Cure Recipe","msgstr":"Рецепт божественного зцілення"}
+{"msgctxt":"items","msgid":"Divine Dagger","msgstr":"Божественний кинджал"}
+{"msgctxt":"items","msgid":"Divine Magic","msgstr":"Божественна магія"}
+{"msgctxt":"items","msgid":"Divine Power","msgstr":"Божественна сила"}
+{"msgctxt":"items","msgid":"Divine Power Recipe","msgstr":"Рецепт «Божественна сила»"}
+{"msgctxt":"items","msgid":"Divine Protection","msgstr":"Божественний захист"}
+{"msgctxt":"items","msgid":"Divine Protection recipe","msgstr":"Рецепт Божественного захисту"}
+{"msgctxt":"items","msgid":"Divine Restoration","msgstr":"Божественне відновлення"}
+{"msgctxt":"items","msgid":"Divine Restoration Recipe","msgstr":"Рецепт Божественного відновлення"}
+{"msgctxt":"items","msgid":"Divine Transcendence","msgstr":"Божественне піднесення"}
+{"msgctxt":"items","msgid":"Divine Transcendence recipe","msgstr":"Рецепт Божественного піднесення"}
+{"msgctxt":"items","msgid":"Doctor's Code","msgstr":"Кодекс лікаря"}
+{"msgctxt":"items","msgid":"Doom's Day Cloak","msgstr":"Плащ Судного дня"}
+{"msgctxt":"items","msgid":"Dragon Claw","msgstr":"Кіготь дракона"}
+{"msgctxt":"items","msgid":"Dragon Egg","msgstr":"Яйце дракона"}
+{"msgctxt":"items","msgid":"Dragon Harpoon","msgstr":"Гарпун дракона"}
+{"msgctxt":"items","msgid":"Dragon Helm","msgstr":"Шолом дракона"}
+{"msgctxt":"items","msgid":"Dragon Hide Gauntlets","msgstr":"Латні рукавиці з драконячої шкіри"}
+{"msgctxt":"items","msgid":"Dragon Hunter's Shield","msgstr":"Щит Мисливця на драконів"}
+{"msgctxt":"items","msgid":"Dragon Leader's Egg","msgstr":"Яйце ватажка драконів"}
+{"msgctxt":"items","msgid":"Dragon Leather","msgstr":"Драконяча шкіра"}
+{"msgctxt":"items","msgid":"Dragon Statuette","msgstr":"Статуетка дракона"}
+{"msgctxt":"items","msgid":"Dragon Tower Keys","msgstr":"Ключі від Драконячих веж"}
+{"msgctxt":"items","msgid":"Dragon Turtle Fang","msgstr":"Ікло драконової черепахи"}
+{"msgctxt":"items","msgid":"Dragon's Eye","msgstr":"Око дракона"}
+{"msgctxt":"items","msgid":"Dragonbane Flower","msgstr":"Квітка драконобою"}
+{"msgctxt":"items","msgid":"Dragoning Plate","msgstr":"Драконячі лати"}
+{"msgctxt":"items","msgid":"Dragonning Blade","msgstr":"Клинок драконоборця"}
+{"msgctxt":"items","msgid":"Dragonning Boots","msgstr":"Чоботи драконоборця"}
+{"msgctxt":"items","msgid":"Dried Sunfish","msgstr":"Сушена риба-місяць"}
+{"msgctxt":"items","msgid":"Drogg's Helm","msgstr":"Шолом Дроґґа"}
+{"msgctxt":"items","msgid":"Druid Circlet of Power","msgstr":"Друїдський обруч Сили"}
+{"msgctxt":"items","msgid":"Drum of Victory","msgstr":"Барабан перемоги"}
+{"msgctxt":"items","msgid":"Dueling Long Dagger","msgstr":"Дуельний довгий кинджал"}
+{"msgctxt":"items","msgid":"Duelist Blade","msgstr":"Клинок дуелянта"}
+{"msgctxt":"items","msgid":"Dwarven Axe","msgstr":"Сокира дворфів"}
+{"msgctxt":"items","msgid":"Dwarven Battleaxe","msgstr":"Дворфійська бойова сокира"}
+{"msgctxt":"items","msgid":"Dwarven Dagger","msgstr":"Дворфський кинджал"}
+{"msgctxt":"items","msgid":"Dwarven Hammer","msgstr":"Дворфський молот"}
+{"msgctxt":"items","msgid":"Dwarven Morningstar","msgstr":"Дворфський моргенштерн"}
+{"msgctxt":"items","msgid":"Eagle Statuette","msgstr":"Статуетка орла"}
+{"msgctxt":"items","msgid":"Earth Resistance","msgstr":"Опір землі"}
+{"msgctxt":"items","msgid":"Earth Resistance Recipe","msgstr":"Рецепт опору землі"}
+{"msgctxt":"items","msgid":"East Pillar Key","msgstr":"Ключ східної колони"}
+{"msgctxt":"items","msgid":"Ebonest","msgstr":"Ебонест"}
+{"msgctxt":"items","msgid":"Eclipse","msgstr":"Затемнення"}
+{"msgctxt":"items","msgid":"Elderaxe","msgstr":"Прадавня Сокира"}
+{"msgctxt":"items","msgid":"Eldritch Shield","msgstr":"Чародійний щит"}
+{"msgctxt":"items","msgid":"Elegant Cloak","msgstr":"Елегантний плащ"}
+{"msgctxt":"items","msgid":"Elegant Letter","msgstr":"Вишуканий лист"}
+{"msgctxt":"items","msgid":"Elfbane","msgstr":"Згуба ельфів"}
+{"msgctxt":"items","msgid":"Elite Halberd","msgstr":"Елітна алебарда"}
+{"msgctxt":"items","msgid":"Elite Minotaur Axe","msgstr":"Елітна сокира мінотавра"}
+{"msgctxt":"items","msgid":"Elixir","msgstr":"Еліксир"}
+{"msgctxt":"items","msgid":"Elsenrail","msgstr":"Елсенрейл"}
+{"msgctxt":"items","msgid":"Elven Bow","msgstr":"Ельфійський лук"}
+{"msgctxt":"items","msgid":"Elven Chainmail","msgstr":"Ельфійська кольчуга"}
+{"msgctxt":"items","msgid":"Elven Cloak","msgstr":"Ельфійський плащ"}
+{"msgctxt":"items","msgid":"Elven Long Spear","msgstr":"Ельфійський довгий спис"}
+{"msgctxt":"items","msgid":"Elven Longbow","msgstr":"Ельфійський довгий лук"}
+{"msgctxt":"items","msgid":"Elven Saber","msgstr":"Ельфійська шабля"}
+{"msgctxt":"items","msgid":"Elven Spear","msgstr":"Ельфійський спис"}
+{"msgctxt":"items","msgid":"Elven Warbow","msgstr":"Ельфійський бойовий лук"}
+{"msgctxt":"items","msgid":"Elvish Toadstool","msgstr":"Ельфійська поганка"}
+{"msgctxt":"items","msgid":"Emerald","msgstr":"Смарагд"}
+{"msgctxt":"items","msgid":"Emerald Ring","msgstr":"Перстень зі смарагдом"}
+{"msgctxt":"items","msgid":"Emerald Staff","msgstr":"Смарагдовий посох"}
+{"msgctxt":"items","msgid":"Emperor Thorn's Key","msgstr":"Ключ імператора Торна"}
+{"msgctxt":"items","msgid":"Empty Message Scroll","msgstr":"Порожній сувій для послання"}
+{"msgctxt":"items","msgid":"Enchanted Amulet","msgstr":"Зачарований амулет"}
+{"msgctxt":"items","msgid":"Enchanted Leather","msgstr":"Зачаровані шкіряні обладунки"}
+{"msgctxt":"items","msgid":"Enchanted Ring","msgstr":"Зачароване кільце"}
+{"msgctxt":"items","msgid":"Endurance Boost","msgstr":"Підвищення витривалості"}
+{"msgctxt":"items","msgid":"Endurance Boost Recipe","msgstr":"Рецепт підвищення витривалості"}
+{"msgctxt":"items","msgid":"Enemies List","msgstr":"Список ворогів"}
+{"msgctxt":"items","msgid":"Energy","msgstr":"Енергія"}
+{"msgctxt":"items","msgid":"Engineer's Code","msgstr":"Код інженера"}
+{"msgctxt":"items","msgid":"Enslave","msgstr":"Поневолення"}
+{"msgctxt":"items","msgid":"Erathian Long Dagger","msgstr":"Ератійський довгий кинджал"}
+{"msgctxt":"items","msgid":"Erudine Chainmail","msgstr":"Ерудинова кольчуга"}
+{"msgctxt":"items","msgid":"Erudine-laced ore","msgstr":"Руда з домішкою ерудину"}
+{"msgctxt":"items","msgid":"Essence of Accuracy","msgstr":"Есенція влучності"}
+{"msgctxt":"items","msgid":"Essence of Accuracy recipe","msgstr":"Рецепт Есенції влучності"}
+{"msgctxt":"items","msgid":"Essence of Endurance","msgstr":"Есенція витривалості"}
+{"msgctxt":"items","msgid":"Essence of Endurance recipe","msgstr":"Рецепт Есенції витривалості"}
+{"msgctxt":"items","msgid":"Essence of Intellect","msgstr":"Есенція інтелекту"}
+{"msgctxt":"items","msgid":"Essence of Intellect recipe","msgstr":"Рецепт Есенції інтелекту"}
+{"msgctxt":"items","msgid":"Essence of Luck","msgstr":"Есенція удачі"}
+{"msgctxt":"items","msgid":"Essence of Luck recipe","msgstr":"Рецепт есенції удачі"}
+{"msgctxt":"items","msgid":"Essence of Might","msgstr":"Есенція Моці"}
+{"msgctxt":"items","msgid":"Essence of Might recipe","msgstr":"Рецепт Есенції Моці"}
+{"msgctxt":"items","msgid":"Essence of Personality","msgstr":"Есенція особистості"}
+{"msgctxt":"items","msgid":"Essence of Personality recipe","msgstr":"Рецепт есенції особистості"}
+{"msgctxt":"items","msgid":"Essence of Speed","msgstr":"Есенція Швидкості"}
+{"msgctxt":"items","msgid":"Essence of Speed recipe","msgstr":"Рецепт Есенції Швидкості"}
+{"msgctxt":"items","msgid":"Ethereal Ring","msgstr":"Ефірний перстень"}
+{"msgctxt":"items","msgid":"Ethric's Skull","msgstr":"Череп Етріка"}
+{"msgctxt":"items","msgid":"Ethric's Staff","msgstr":"Посох Етріка"}
+{"msgctxt":"items","msgid":"Excalibur","msgstr":"Екскалібур"}
+{"msgctxt":"items","msgid":"Excerpt from a Diary","msgstr":"Уривок зі щоденника"}
+{"msgctxt":"items","msgid":"Exquisite Long Dagger","msgstr":"Вишуканий довгий кинджал"}
+{"msgctxt":"items","msgid":"Exquisite Ring","msgstr":"Вишукане кільце"}
+{"msgctxt":"items","msgid":"Extreme Energy","msgstr":"Надзвичайна енергія"}
+{"msgctxt":"items","msgid":"Eyeball Amulet","msgstr":"Амулет з очним яблуком"}
+{"msgctxt":"items","msgid":"Fae Dust","msgstr":"Пил Фей"}
+{"msgctxt":"items","msgid":"Faerie Key","msgstr":"Ключ феї"}
+{"msgctxt":"items","msgid":"Faerie Pipes","msgstr":"Сопілки фей"}
+{"msgctxt":"items","msgid":"Faerie Ring","msgstr":"Перстень фей"}
+{"msgctxt":"items","msgid":"Fairy Wand of Fire","msgstr":"Фейський жезл Вогню"}
+{"msgctxt":"items","msgid":"Fairy Wand of Harm","msgstr":"Фейський жезл Ураження"}
+{"msgctxt":"items","msgid":"Fairy Wand of Ice","msgstr":"Фейська паличка Льоду"}
+{"msgctxt":"items","msgid":"Fairy Wand of Lashing","msgstr":"Фейський жезл Шмагання"}
+{"msgctxt":"items","msgid":"Fairy Wand of Light","msgstr":"Фейський жезл світла"}
+{"msgctxt":"items","msgid":"Fairy Wand of Mind","msgstr":"Фейський жезл Розуму"}
+{"msgctxt":"items","msgid":"Fairy Wand of Poison","msgstr":"Фейський жезл отрути"}
+{"msgctxt":"items","msgid":"Fairy Wand of Sparks","msgstr":"Фейський жезл іскор"}
+{"msgctxt":"items","msgid":"Fairy Wand of Swarms","msgstr":"Фейський жезл роїв"}
+{"msgctxt":"items","msgid":"False Report","msgstr":"Фальшивий звіт"}
+{"msgctxt":"items","msgid":"False Riverstride Plans","msgstr":"Фальшиві плани Ріверстрайду"}
+{"msgctxt":"items","msgid":"Fancy Hat","msgstr":"Ошатний капелюх"}
+{"msgctxt":"items","msgid":"Fanged Blade","msgstr":"Іклисте лезо"}
+{"msgctxt":"items","msgid":"Fate","msgstr":"Доля"}
+{"msgctxt":"items","msgid":"Festival Hat","msgstr":"Святковий капелюх"}
+{"msgctxt":"items","msgid":"Field Hammer","msgstr":"Польовий молот"}
+{"msgctxt":"items","msgid":"Finality","msgstr":"Кінець"}
+{"msgctxt":"items","msgid":"Fine Belt","msgstr":"Вишуканий пояс"}
+{"msgctxt":"items","msgid":"Fine Chain Mail","msgstr":"Добротна кольчуга"}
+{"msgctxt":"items","msgid":"Fine Ring","msgstr":"Вишуканий перстень"}
+{"msgctxt":"items","msgid":"Fire Amulet","msgstr":"Амулет вогню"}
+{"msgctxt":"items","msgid":"Fire Aura","msgstr":"Аура вогню"}
+{"msgctxt":"items","msgid":"Fire Resistance","msgstr":"Опір вогню"}
+{"msgctxt":"items","msgid":"Fire Resistance Recipe","msgstr":"Рецепт опору вогню"}
+{"msgctxt":"items","msgid":"Fire Spike","msgstr":"Вогняний шип"}
+{"msgctxt":"items","msgid":"First Mate's Code","msgstr":"Код старшого помічника"}
+{"msgctxt":"items","msgid":"Flail","msgstr":"Ціп"}
+{"msgctxt":"items","msgid":"Flame Door Key","msgstr":"Ключ від Вогняних дверей"}
+{"msgctxt":"items","msgid":"Flaming Potion","msgstr":"Полум’яне зілля"}
+{"msgctxt":"items","msgid":"Flaming Potion Recipe","msgstr":"Рецепт полум’яного зілля"}
+{"msgctxt":"items","msgid":"Flawed Amulets","msgstr":"Амулети з вадами"}
+{"msgctxt":"items","msgid":"Fleetfingers","msgstr":"Спритні пальці"}
+{"msgctxt":"items","msgid":"Floor Tile (w/ moon insignia)","msgstr":"Підлогова плитка (з місячною емблемою)"}
+{"msgctxt":"items","msgid":"Flower (Rose)","msgstr":"Квітка (Троянда)"}
+{"msgctxt":"items","msgid":"Flute","msgstr":"Флейта"}
+{"msgctxt":"items","msgid":"Focal Ring","msgstr":"Фокусне кільце"}
+{"msgctxt":"items","msgid":"Footman's Axe","msgstr":"Сокира піхотинця"}
+{"msgctxt":"items","msgid":"Forge Gauntlets","msgstr":"Ковальські латні рукавиці"}
+{"msgctxt":"items","msgid":"Forged Vouchers","msgstr":"Підроблені ваучери"}
+{"msgctxt":"items","msgid":"Foulfang","msgstr":"Гниле Ікло"}
+{"msgctxt":"items","msgid":"Four Leaf Clover","msgstr":"Чотирилисник"}
+{"msgctxt":"items","msgid":"Fragment of Soldier's Diary","msgstr":"Уривок зі щоденника солдата"}
+{"msgctxt":"items","msgid":"Freezing Potion","msgstr":"Зілля заморожування"}
+{"msgctxt":"items","msgid":"Freezing Potion Recipe","msgstr":"Рецепт зілля заморожування"}
+{"msgctxt":"items","msgid":"Full Helm","msgstr":"Закритий шолом"}
+{"msgctxt":"items","msgid":"Galahad","msgstr":"Ґалахад"}
+{"msgctxt":"items","msgid":"Garnet","msgstr":"Гранат"}
+{"msgctxt":"items","msgid":"Gauntlets","msgstr":"Латні рукавиці"}
+{"msgctxt":"items","msgid":"Gem of Restoration","msgstr":"Самоцвіт відновлення"}
+{"msgctxt":"items","msgid":"Gemstone Ring","msgstr":"Перстень із самоцвітом"}
+{"msgctxt":"items","msgid":"Genie Lamp","msgstr":"Лампа джина"}
+{"msgctxt":"items","msgid":"Ghost Ring","msgstr":"Кільце привида"}
+{"msgctxt":"items","msgid":"Ghoulsbane","msgstr":"Згуба упирів"}
+{"msgctxt":"items","msgid":"Gibbet","msgstr":"Шибениця"}
+{"msgctxt":"items","msgid":"Gilded Belt","msgstr":"Позолочений пояс"}
+{"msgctxt":"items","msgid":"Glomenmail","msgstr":"Кольчуга Ґломена"}
+{"msgctxt":"items","msgid":"Glomenthal","msgstr":"Ґломенталь"}
+{"msgctxt":"items","msgid":"Glorious Cloak","msgstr":"Славетна накидка"}
+{"msgctxt":"items","msgid":"Glory Shield","msgstr":"Щит слави"}
+{"msgctxt":"items","msgid":"Goblin Cutlass","msgstr":"Абордажна шабля гобліна"}
+{"msgctxt":"items","msgid":"Goblin Scimitar","msgstr":"Гоблінський ятаган"}
+{"msgctxt":"items","msgid":"Goblin Shield","msgstr":"Гоблінський щит"}
+{"msgctxt":"items","msgid":"Goblinwatch Code","msgstr":"Код Гоблінської варти"}
+{"msgctxt":"items","msgid":"Gold","msgstr":"Золото"}
+{"msgctxt":"items","msgid":"Gold Ring","msgstr":"Золотий перстень"}
+{"msgctxt":"items","msgid":"Golden Chain Mail","msgstr":"Золота кольчуга"}
+{"msgctxt":"items","msgid":"Golden Plate Armor","msgstr":"Золоті лати"}
+{"msgctxt":"items","msgid":"Golden Pyramid","msgstr":"Золота піраміда"}
+{"msgctxt":"items","msgid":"Golem chest","msgstr":"Торс голема"}
+{"msgctxt":"items","msgid":"Golem head","msgstr":"Голова голема"}
+{"msgctxt":"items","msgid":"Golem left arm","msgstr":"Ліва рука голема"}
+{"msgctxt":"items","msgid":"Golem left leg","msgstr":"Ліва нога голема"}
+{"msgctxt":"items","msgid":"Golem right arm","msgstr":"Права рука голема"}
+{"msgctxt":"items","msgid":"Golem right leg","msgstr":"Права нога голема"}
+{"msgctxt":"items","msgid":"Gothic Amulet","msgstr":"Готичний амулет"}
+{"msgctxt":"items","msgid":"Governor's Armor","msgstr":"Обладунок губернатора"}
+{"msgctxt":"items","msgid":"Graceful Sword","msgstr":"Витончений меч"}
+{"msgctxt":"items","msgid":"Grand Poleax","msgstr":"Велика алебарда"}
+{"msgctxt":"items","msgid":"Grand Poleaxe","msgstr":"Велика алебарда"}
+{"msgctxt":"items","msgid":"Great Sword","msgstr":"Великий меч"}
+{"msgctxt":"items","msgid":"Green Apple","msgstr":"Зелене яблуко"}
+{"msgctxt":"items","msgid":"Green Garnet","msgstr":"Зелений гранат"}
+{"msgctxt":"items","msgid":"Griffin Bow","msgstr":"Лук грифона"}
+{"msgctxt":"items","msgid":"Grognard's Cutlass","msgstr":"Абордажна шабля Ґроґнара"}
+{"msgctxt":"items","msgid":"Ground Wyvern Horn","msgstr":"Мелений ріг виверни"}
+{"msgctxt":"items","msgid":"Gryphonheart's Trumpet","msgstr":"Сурма Ґрифонгарта"}
+{"msgctxt":"items","msgid":"Guardian","msgstr":"Охоронець"}
+{"msgctxt":"items","msgid":"Guardian Helm","msgstr":"Шолом охоронця"}
+{"msgctxt":"items","msgid":"Guild Key","msgstr":"Ключ гільдії"}
+{"msgctxt":"items","msgid":"Guinevere","msgstr":"Ґвіневера"}
+{"msgctxt":"items","msgid":"Hades","msgstr":"Аїд"}
+{"msgctxt":"items","msgid":"Halberd","msgstr":"Алебарда"}
+{"msgctxt":"items","msgid":"Haldar's Remains","msgstr":"Останки Галдара"}
+{"msgctxt":"items","msgid":"Hammer","msgstr":"Молот"}
+{"msgctxt":"items","msgid":"Hammerhands","msgstr":"Руки-молоти"}
+{"msgctxt":"items","msgid":"Hand Axe","msgstr":"Ручна Сокира"}
+{"msgctxt":"items","msgid":"Hands of the Master","msgstr":"Руки Майстра"}
+{"msgctxt":"items","msgid":"Harden Item","msgstr":"Загартувати предмет"}
+{"msgctxt":"items","msgid":"Hardened Leather Boots","msgstr":"Загартовані шкіряні чоботи"}
+{"msgctxt":"items","msgid":"Hardened Leather Vest","msgstr":"Жилет із загартованої шкіри"}
+{"msgctxt":"items","msgid":"Hareck's Leather","msgstr":"Шкіряні обладунки Гарека"}
+{"msgctxt":"items","msgid":"Harp","msgstr":"Арфа"}
+{"msgctxt":"items","msgid":"Harpy Feather","msgstr":"Перо гарпії"}
+{"msgctxt":"items","msgid":"Haste","msgstr":"Прискорення"}
+{"msgctxt":"items","msgid":"Havoc","msgstr":"Спустошення"}
+{"msgctxt":"items","msgid":"Hayfork","msgstr":"Вила"}
+{"msgctxt":"items","msgid":"Headsman's Poleaxe","msgstr":"Алебарда ката"}
+{"msgctxt":"items","msgid":"Headsman's Reaver","msgstr":"Сікач ката"}
+{"msgctxt":"items","msgid":"Heal","msgstr":"Зцілення"}
+{"msgctxt":"items","msgid":"Heart of Air","msgstr":"Серце повітря"}
+{"msgctxt":"items","msgid":"Heart of Earth","msgstr":"Серце Землі"}
+{"msgctxt":"items","msgid":"Heart of Fire","msgstr":"Серце Вогню"}
+{"msgctxt":"items","msgid":"Heart of the Wood","msgstr":"Серце лісу"}
+{"msgctxt":"items","msgid":"Heart of Water","msgstr":"Серце Води"}
+{"msgctxt":"items","msgid":"Heartwood of Jadame","msgstr":"Серцевина Джадаму"}
+{"msgctxt":"items","msgid":"Heavy Crossbow","msgstr":"Важкий арбалет"}
+{"msgctxt":"items","msgid":"Heavy Poleax","msgstr":"Важка алебарда"}
+{"msgctxt":"items","msgid":"Heavy Poleaxe","msgstr":"Важка алебарда"}
+{"msgctxt":"items","msgid":"Hell's Cleaver","msgstr":"Сікач пекла"}
+{"msgctxt":"items","msgid":"Helm","msgstr":"Шолом"}
+{"msgctxt":"items","msgid":"Hera","msgstr":"Гера"}
+{"msgctxt":"items","msgid":"Herald's Boots","msgstr":"Чоботи герольда"}
+{"msgctxt":"items","msgid":"Hercules","msgstr":"Геркулес"}
+{"msgctxt":"items","msgid":"Hermes","msgstr":"Гермес"}
+{"msgctxt":"items","msgid":"Hermes' Sandals","msgstr":"Сандалі Гермеса"}
+{"msgctxt":"items","msgid":"Hero's Belt","msgstr":"Пояс героя"}
+{"msgctxt":"items","msgid":"Heroic Sword","msgstr":"Геройський меч"}
+{"msgctxt":"items","msgid":"Heroism","msgstr":"Героїзм"}
+{"msgctxt":"items","msgid":"Herondale's Lost Shield","msgstr":"Втрачений щит Герондейла"}
+{"msgctxt":"items","msgid":"High Cleric's Key","msgstr":"Ключ верховного клірика"}
+{"msgctxt":"items","msgid":"High Sorcerer's Key","msgstr":"Ключ верховного чаклуна"}
+{"msgctxt":"items","msgid":"History of the Vault of Time","msgstr":"Історія Сховища Часу"}
+{"msgctxt":"items","msgid":"Hive Sanctum Key","msgstr":"Ключ від святилища Вулика"}
+{"msgctxt":"items","msgid":"Holy Hammer","msgstr":"Священний молот"}
+{"msgctxt":"items","msgid":"Horn of Ros","msgstr":"Ріг Роса"}
+{"msgctxt":"items","msgid":"Horned Helm","msgstr":"Рогатий шолом"}
+{"msgctxt":"items","msgid":"Horseman's Shield","msgstr":"Щит вершника"}
+{"msgctxt":"items","msgid":"Horseshoe","msgstr":"Підкова"}
+{"msgctxt":"items","msgid":"Hourglass of Time","msgstr":"Пісковий годинник часу"}
+{"msgctxt":"items","msgid":"Hunting Bow","msgstr":"Мисливський лук"}
+{"msgctxt":"items","msgid":"Hunting Crossbow","msgstr":"Мисливський арбалет"}
+{"msgctxt":"items","msgid":"Huntsman's Cloak","msgstr":"Плащ мисливця"}
+{"msgctxt":"items","msgid":"Ideal Crossbow","msgstr":"Ідеальний арбалет"}
+{"msgctxt":"items","msgid":"Idol of the Snake","msgstr":"Ідол змії"}
+{"msgctxt":"items","msgid":"Igraine","msgstr":"Іґрейна"}
+{"msgctxt":"items","msgid":"Immolation","msgstr":"Жертвоспалення"}
+{"msgctxt":"items","msgid":"Imperial Leather","msgstr":"Імперські шкіряні обладунки"}
+{"msgctxt":"items","msgid":"Improvised Voulge","msgstr":"Саморобний вульж"}
+{"msgctxt":"items","msgid":"Infantry Fork","msgstr":"Піхотні вила"}
+{"msgctxt":"items","msgid":"Infused Metal Rod","msgstr":"Заряджений металевий стрижень"}
+{"msgctxt":"items","msgid":"Intellect Boost","msgstr":"Підсилення інтелекту"}
+{"msgctxt":"items","msgid":"Intellect Boost Recipe","msgstr":"Рецепт підсилення інтелекту"}
+{"msgctxt":"items","msgid":"Invisibility","msgstr":"Невидимість"}
+{"msgctxt":"items","msgid":"Iolite","msgstr":"Іоліт"}
+{"msgctxt":"items","msgid":"Iron Broadsword","msgstr":"Залізний палаш"}
+{"msgctxt":"items","msgid":"Iron Core Staff","msgstr":"Посох із залізним осердям"}
+{"msgctxt":"items","msgid":"Iron Feather","msgstr":"Залізне перо"}
+{"msgctxt":"items","msgid":"Iron-laced ore","msgstr":"Руда із залізними прожилками"}
+{"msgctxt":"items","msgid":"Jade Amulet","msgstr":"Нефритовий амулет"}
+{"msgctxt":"items","msgid":"Jeweled Dagger","msgstr":"Кинджал із самоцвітами"}
+{"msgctxt":"items","msgid":"Jeweled Egg","msgstr":"Яйце, оздоблене коштовностями"}
+{"msgctxt":"items","msgid":"Journal Entry","msgstr":"Запис у щоденнику"}
+{"msgctxt":"items","msgid":"Journal Entry, 11th December","msgstr":"Запис у щоденнику, 11 грудня"}
+{"msgctxt":"items","msgid":"Journal Entry, 19th September","msgstr":"Запис у щоденнику, 19 вересня"}
+{"msgctxt":"items","msgid":"Journal Entry, 23rd April","msgstr":"Запис у щоденнику, 23 квітня"}
+{"msgctxt":"items","msgid":"Journal Entry, 2nd January","msgstr":"Запис у щоденнику, 2 січня"}
+{"msgctxt":"items","msgid":"Journal Entry, 30th June","msgstr":"Запис у щоденнику, 30 червня"}
+{"msgctxt":"items","msgid":"Journal Excerpt","msgstr":"Уривок із щоденника"}
+{"msgctxt":"items","msgid":"Journal Fragment","msgstr":"Уривок щоденника"}
+{"msgctxt":"items","msgid":"Journal Scrap","msgstr":"Уривок зі щоденника"}
+{"msgctxt":"items","msgid":"Journey Staff","msgstr":"Посох мандрівника"}
+{"msgctxt":"items","msgid":"Judicious Measure","msgstr":"Справедлива міра"}
+{"msgctxt":"items","msgid":"Justice","msgstr":"Справедливість"}
+{"msgctxt":"items","msgid":"Keen Longsword","msgstr":"Гострий довгий меч"}
+{"msgctxt":"items","msgid":"Keg of Wine","msgstr":"Барильце вина"}
+{"msgctxt":"items","msgid":"Kelebrim","msgstr":"Келебрім"}
+{"msgctxt":"items","msgid":"Kergar-laced ore","msgstr":"Руда з домішками керґару"}
+{"msgctxt":"items","msgid":"Key","msgstr":"Ключ"}
+{"msgctxt":"items","msgid":"Key to Gharik's Laboratory","msgstr":"Ключ від лабораторії Ґаріка"}
+{"msgctxt":"items","msgid":"Key to Goblinwatch","msgstr":"Ключ від Гоблінської варти"}
+{"msgctxt":"items","msgid":"Key to Snergle's Chambers","msgstr":"Ключ від покоїв Снерґла"}
+{"msgctxt":"items","msgid":"Killer Club","msgstr":"Убивча дубина"}
+{"msgctxt":"items","msgid":"Kite Shield","msgstr":"Краплеподібний щит"}
+{"msgctxt":"items","msgid":"Knight Gauntlets","msgstr":"Лицарські латні рукавиці"}
+{"msgctxt":"items","msgid":"Knight Statuette","msgstr":"Статуетка лицаря"}
+{"msgctxt":"items","msgid":"Knight's Boots","msgstr":"Чоботи лицаря"}
+{"msgctxt":"items","msgid":"Knightly Broadsword","msgstr":"Лицарський палаш"}
+{"msgctxt":"items","msgid":"Labyrinth Grapple","msgstr":"Лабіринтовий гак"}
+{"msgctxt":"items","msgid":"Lady Carmine's Dagger","msgstr":"Кинджал леді Кармін"}
+{"msgctxt":"items","msgid":"Lady's Escort","msgstr":"Супровід пані"}
+{"msgctxt":"items","msgid":"Lantern of Light","msgstr":"Ліхтар Світла"}
+{"msgctxt":"items","msgid":"Large Round Crystal","msgstr":"Великий круглий кристал"}
+{"msgctxt":"items","msgid":"Last Stage Cuirass","msgstr":"Кіраса останнього етапу"}
+{"msgctxt":"items","msgid":"Leather Armor","msgstr":"Шкіряні обладунки"}
+{"msgctxt":"items","msgid":"Leather Belt","msgstr":"Шкіряний пояс"}
+{"msgctxt":"items","msgid":"Leather Boots","msgstr":"Шкіряні чоботи"}
+{"msgctxt":"items","msgid":"Leather Cloak","msgstr":"Шкіряний плащ"}
+{"msgctxt":"items","msgid":"Leather Gloves","msgstr":"Шкіряні рукавички"}
+{"msgctxt":"items","msgid":"Leather Jerkin","msgstr":"Шкіряний колет"}
+{"msgctxt":"items","msgid":"Leather Pouch","msgstr":"Шкіряний мішечок"}
+{"msgctxt":"items","msgid":"Letter","msgstr":"Лист"}
+{"msgctxt":"items","msgid":"Letter from Archibald","msgstr":"Лист від Арчібальда"}
+{"msgctxt":"items","msgid":"Letter from Cedric Druthers","msgstr":"Лист від Седріка Друтерса"}
+{"msgctxt":"items","msgid":"Letter from Gavin Magnus","msgstr":"Лист від Ґевіна Маґнуса"}
+{"msgctxt":"items","msgid":"Letter from Johann Kerrid to the Faerie King","msgstr":"Лист Йоганна Керріда до короля фей"}
+{"msgctxt":"items","msgid":"Letter from Malwick","msgstr":"Лист від Малвіка"}
+{"msgctxt":"items","msgid":"Letter from Mr. Stantley","msgstr":"Лист від пана Стентлі"}
+{"msgctxt":"items","msgid":"Letter from Norbert Thrush to Lord Markham","msgstr":"Лист Норберта Траша до лорда Маркема"}
+{"msgctxt":"items","msgid":"Letter from the Dragon Riders","msgstr":"Лист від Вершників Драконів"}
+{"msgctxt":"items","msgid":"Letter from the Prince of Thieves","msgstr":"Лист від Принца Злодіїв"}
+{"msgctxt":"items","msgid":"Letter from the Temple of Baa","msgstr":"Лист із Храму Баа"}
+{"msgctxt":"items","msgid":"Letter from Xenofex","msgstr":"Лист від Ксенофекса"}
+{"msgctxt":"items","msgid":"Letter from Zenofex","msgstr":"Лист від Зенофекса"}
+{"msgctxt":"items","msgid":"Letter to Agar","msgstr":"Лист до Аґара"}
+{"msgctxt":"items","msgid":"Letter to Arion Hunter","msgstr":"Лист Аріону Гантеру"}
+{"msgctxt":"items","msgid":"Letter to Gharik","msgstr":"Лист до Ґаріка"}
+{"msgctxt":"items","msgid":"Letter to Hairbaugh","msgstr":"Лист до Гейрбо"}
+{"msgctxt":"items","msgid":"Letter to Marcus","msgstr":"Лист до Маркуса"}
+{"msgctxt":"items","msgid":"Letter to Snergle","msgstr":"Лист до Снерґла"}
+{"msgctxt":"items","msgid":"Letter to Terrax","msgstr":"Лист до Терракса"}
+{"msgctxt":"items","msgid":"Letter to the Prince of Thieves","msgstr":"Лист до Принца Злодіїв"}
+{"msgctxt":"items","msgid":"Lich Jar","msgstr":"Глек Ліча"}
+{"msgctxt":"items","msgid":"Lieutenant's Cutlass","msgstr":"Абордажна шабля лейтенанта"}
+{"msgctxt":"items","msgid":"Light Bolt","msgstr":"Стріла світла"}
+{"msgctxt":"items","msgid":"Light Crossbow","msgstr":"Легкий арбалет"}
+{"msgctxt":"items","msgid":"Light Poleaxe","msgstr":"Легка алебарда"}
+{"msgctxt":"items","msgid":"Lightning Crossbow","msgstr":"Арбалет блискавки"}
+{"msgctxt":"items","msgid":"Lionheart Sword","msgstr":"Меч «Левове Серце»"}
+{"msgctxt":"items","msgid":"Lizardman Broadsword","msgstr":"Палаш ящеролюда"}
+{"msgctxt":"items","msgid":"Lizardman Helm","msgstr":"Шолом ящеролюда"}
+{"msgctxt":"items","msgid":"Lizardman Trident","msgstr":"Тризуб ящеролюда"}
+{"msgctxt":"items","msgid":"Lock Pick","msgstr":"Відмичка"}
+{"msgctxt":"items","msgid":"Locus Amulet","msgstr":"Амулет Локуса"}
+{"msgctxt":"items","msgid":"Lodestone","msgstr":"Магнітний камінь"}
+{"msgctxt":"items","msgid":"Log of Eldenbrie","msgstr":"Брусок елденбрі"}
+{"msgctxt":"items","msgid":"Long Dagger","msgstr":"Довгий кинджал"}
+{"msgctxt":"items","msgid":"Longbow","msgstr":"Довгий лук"}
+{"msgctxt":"items","msgid":"Longseeker","msgstr":"Далекошукач"}
+{"msgctxt":"items","msgid":"Longsword","msgstr":"Довгий меч"}
+{"msgctxt":"items","msgid":"Loose Page","msgstr":"Вирвана сторінка"}
+{"msgctxt":"items","msgid":"Lord Kilburn's Shield","msgstr":"Щит лорда Кілберна"}
+{"msgctxt":"items","msgid":"Lost Book of Kehl","msgstr":"Загублена книга Кела"}
+{"msgctxt":"items","msgid":"Lucius","msgstr":"Луцій"}
+{"msgctxt":"items","msgid":"Luck Boost","msgstr":"Посилення удачі"}
+{"msgctxt":"items","msgid":"Luck Boost Recipe","msgstr":"Рецепт посилення удачі"}
+{"msgctxt":"items","msgid":"Lucky Hat","msgstr":"Щасливий капелюх"}
+{"msgctxt":"items","msgid":"Lunar Ring","msgstr":"Місячне кільце"}
+{"msgctxt":"items","msgid":"Lute","msgstr":"Лютня"}
+{"msgctxt":"items","msgid":"Mace","msgstr":"Булава"}
+{"msgctxt":"items","msgid":"Mace of the Sun","msgstr":"Булава сонця"}
+{"msgctxt":"items","msgid":"Mage Dagger","msgstr":"Кинджал мага"}
+{"msgctxt":"items","msgid":"Magic Bow","msgstr":"Магічний лук"}
+{"msgctxt":"items","msgid":"Magic Horseshoe","msgstr":"Магічна підкова"}
+{"msgctxt":"items","msgid":"Magic Lamp","msgstr":"Магічна лампа"}
+{"msgctxt":"items","msgid":"Magic Potion","msgstr":"Зілля магії"}
+{"msgctxt":"items","msgid":"Magical Ritual Notes","msgstr":"Нотатки про магічний ритуал"}
+{"msgctxt":"items","msgid":"Majestic Chain Mail","msgstr":"Велична кольчуга"}
+{"msgctxt":"items","msgid":"Majestic Shield","msgstr":"Величний щит"}
+{"msgctxt":"items","msgid":"Map","msgstr":"Мапа"}
+{"msgctxt":"items","msgid":"Map to Evenmorn Island","msgstr":"Мапа острова Івенморн"}
+{"msgctxt":"items","msgid":"Mash","msgstr":"Трощило"}
+{"msgctxt":"items","msgid":"Massive Halberd","msgstr":"Масивна алебарда"}
+{"msgctxt":"items","msgid":"Massive Hammer","msgstr":"Масивний молот"}
+{"msgctxt":"items","msgid":"Master Cutlass","msgstr":"Абордажна шабля майстра"}
+{"msgctxt":"items","msgid":"Master's Dagger","msgstr":"Кинджал майстра"}
+{"msgctxt":"items","msgid":"Medusa's Mirror","msgstr":"Дзеркало Медузи"}
+{"msgctxt":"items","msgid":"Mekorig's Hammer","msgstr":"Молот Мекоріґа"}
+{"msgctxt":"items","msgid":"Memory Crystal Alpha","msgstr":"Кристал пам’яті «Альфа»"}
+{"msgctxt":"items","msgid":"Memory Crystal Beta","msgstr":"Кристал пам’яті «Бета»"}
+{"msgctxt":"items","msgid":"Memory Crystal Delta","msgstr":"Кристал пам’яті «Дельта»"}
+{"msgctxt":"items","msgid":"Memory Crystal Epsilon","msgstr":"Кристал пам’яті Епсилон"}
+{"msgctxt":"items","msgid":"Mercenary Belt","msgstr":"Пояс найманця"}
+{"msgctxt":"items","msgid":"Merchantman's Dagger","msgstr":"Кинджал торговця"}
+{"msgctxt":"items","msgid":"Merchantman's Hat","msgstr":"Капелюх купця-мореплавця"}
+{"msgctxt":"items","msgid":"Mercury","msgstr":"Меркурій"}
+{"msgctxt":"items","msgid":"Merlin","msgstr":"Мерлін"}
+{"msgctxt":"items","msgid":"Message from Erathia","msgstr":"Послання з Ератії"}
+{"msgctxt":"items","msgid":"Message from Mr. Stantley","msgstr":"Послання від пана Стентлі"}
+{"msgctxt":"items","msgid":"Metal Shield","msgstr":"Металевий щит"}
+{"msgctxt":"items","msgid":"Meteor Fragment","msgstr":"Уламок метеорита"}
+{"msgctxt":"items","msgid":"Meteorite Fragment","msgstr":"Уламок метеорита"}
+{"msgctxt":"items","msgid":"Might Boost","msgstr":"Посилення міці"}
+{"msgctxt":"items","msgid":"Might Boost Recipe","msgstr":"Рецепт посилення міці"}
+{"msgctxt":"items","msgid":"Mighty Broadsword","msgstr":"Могутній палаш"}
+{"msgctxt":"items","msgid":"Mighty Halberd","msgstr":"Могутня алебарда"}
+{"msgctxt":"items","msgid":"Mind Resistance","msgstr":"Опір розуму"}
+{"msgctxt":"items","msgid":"Mind Resistance Recipe","msgstr":"Рецепт опору розуму"}
+{"msgctxt":"items","msgid":"Mind's Eye","msgstr":"Око розуму"}
+{"msgctxt":"items","msgid":"Minotaur Axe","msgstr":"Сокира мінотавра"}
+{"msgctxt":"items","msgid":"Minotaur Battleaxe","msgstr":"Бойова сокира мінотавра"}
+{"msgctxt":"items","msgid":"Minotaur Battlesword","msgstr":"Бойовий меч мінотавра"}
+{"msgctxt":"items","msgid":"Minotaur Campaign Pole-axe","msgstr":"Похідна алебарда мінотавра"}
+{"msgctxt":"items","msgid":"Minotaur Chainmail","msgstr":"Кольчуга мінотавра"}
+{"msgctxt":"items","msgid":"Minotaur Gauntlets","msgstr":"Латні рукавиці мінотавра"}
+{"msgctxt":"items","msgid":"Minotaur Herdsman Axe","msgstr":"Сокира мінотавра-пастуха"}
+{"msgctxt":"items","msgid":"Minotaur Plate","msgstr":"Лати мінотавра"}
+{"msgctxt":"items","msgid":"Minotaur War Axe","msgstr":"Бойова сокира мінотавра"}
+{"msgctxt":"items","msgid":"Minotaur's Axe","msgstr":"Сокира мінотавра"}
+{"msgctxt":"items","msgid":"Missive from the Archbishop","msgstr":"Послання від архієпископа"}
+{"msgctxt":"items","msgid":"Mogred Gauntlets","msgstr":"Моґредові латні рукавиці"}
+{"msgctxt":"items","msgid":"Mogred Helm","msgstr":"Шолом Могреда"}
+{"msgctxt":"items","msgid":"Moon Cloak","msgstr":"Місячний плащ"}
+{"msgctxt":"items","msgid":"Moon Temple Cloak","msgstr":"Плащ Храму Місяця"}
+{"msgctxt":"items","msgid":"Moonstone","msgstr":"Місячний камінь"}
+{"msgctxt":"items","msgid":"Mordred","msgstr":"Мордред"}
+{"msgctxt":"items","msgid":"Morgan","msgstr":"Морган"}
+{"msgctxt":"items","msgid":"Mushroom","msgstr":"Гриб"}
+{"msgctxt":"items","msgid":"Mystic Wand of Death","msgstr":"Містичний жезл смерті"}
+{"msgctxt":"items","msgid":"Mystic Wand of Distortion","msgstr":"Містичний жезл викривлення"}
+{"msgctxt":"items","msgid":"Mystic Wand of Implosion","msgstr":"Містичний жезл імплозії"}
+{"msgctxt":"items","msgid":"Mystic Wand of Incineration","msgstr":"Містичний жезл спопеління"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrapmetal","msgstr":"Містичний жезл металевої шрапнелі"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrinking","msgstr":"Містичний жезл зменшення"}
+{"msgctxt":"items","msgid":"Naga Hide","msgstr":"Шкура наги"}
+{"msgctxt":"items","msgid":"Name of Message","msgstr":"Назва повідомлення"}
+{"msgctxt":"items","msgid":"Navigator's Code","msgstr":"Код штурмана"}
+{"msgctxt":"items","msgid":"Necromancer Cloak","msgstr":"Плащ некроманта"}
+{"msgctxt":"items","msgid":"Necromatic Ring","msgstr":"Некромантичний перстень"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Distortion","msgstr":"Некротичний жезл викривлення"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Implosion","msgstr":"Некротичний жезл імплозії"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Incineration","msgstr":"Некротичний жезл спопеління"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrapnel","msgstr":"Некротичний жезл шрапнелі"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrinking","msgstr":"Некротичний жезл зменшення"}
+{"msgctxt":"items","msgid":"Newname Key","msgstr":"Ключ Ньюнейма"}
+{"msgctxt":"items","msgid":"Nightshade Brazier","msgstr":"Жаровня з пасльоном"}
+{"msgctxt":"items","msgid":"Noble Chain Mail","msgstr":"Кольчуга вельможі"}
+{"msgctxt":"items","msgid":"Noble Crown","msgstr":"Корона вельможі"}
+{"msgctxt":"items","msgid":"Noble Plate Armor","msgstr":"Шляхетні лати"}
+{"msgctxt":"items","msgid":"Noblebone Bow","msgstr":"Лук зі шляхетної кістки"}
+{"msgctxt":"items","msgid":"Notes - Emergency Meeting","msgstr":"Нотатки - термінова нарада"}
+{"msgctxt":"items","msgid":"Noxious Potion","msgstr":"Отруйне зілля"}
+{"msgctxt":"items","msgid":"Noxious Potion Recipe","msgstr":"Рецепт отруйного зілля"}
+{"msgctxt":"items","msgid":"Obsidian","msgstr":"Обсидіан"}
+{"msgctxt":"items","msgid":"Odin","msgstr":"Одін"}
+{"msgctxt":"items","msgid":"Officer's Leather","msgstr":"Шкіряні обладунки офіцера"}
+{"msgctxt":"items","msgid":"Ogre Ear","msgstr":"Вухо Огра"}
+{"msgctxt":"items","msgid":"Ogre Fighting Stick","msgstr":"Бойова палиця огра"}
+{"msgctxt":"items","msgid":"Ogre Key","msgstr":"Ключ Огра"}
+{"msgctxt":"items","msgid":"Old Halberd","msgstr":"Стара алебарда"}
+{"msgctxt":"items","msgid":"Old Nick","msgstr":"Старий Нік"}
+{"msgctxt":"items","msgid":"Old Scroll","msgstr":"Старий сувій"}
+{"msgctxt":"items","msgid":"Olympian Shield","msgstr":"Олімпійський щит"}
+{"msgctxt":"items","msgid":"Orb Staff","msgstr":"Посох зі сферою"}
+{"msgctxt":"items","msgid":"Orders from Snergle","msgstr":"Накази від Снерґла"}
+{"msgctxt":"items","msgid":"Orders from Steadwick","msgstr":"Накази зі Стедвіка"}
+{"msgctxt":"items","msgid":"Orders from the Shadow Guild","msgstr":"Накази від Гільдії Тіней"}
+{"msgctxt":"items","msgid":"Ornate Trident","msgstr":"Оздоблений тризуб"}
+{"msgctxt":"items","msgid":"Oscillation Overthruster","msgstr":"Осциляційний надприскорювач"}
+{"msgctxt":"items","msgid":"Overlord's Club","msgstr":"Дубина володаря"}
+{"msgctxt":"items","msgid":"Page from Agar's Journal","msgstr":"Сторінка зі щоденника Аґара"}
+{"msgctxt":"items","msgid":"Page from Corlagon's Diary","msgstr":"Сторінка зі щоденника Корлаґона"}
+{"msgctxt":"items","msgid":"Page Torn from a Book","msgstr":"Сторінка, вирвана з книги"}
+{"msgctxt":"items","msgid":"Pain Reflection","msgstr":"Відбиття болю"}
+{"msgctxt":"items","msgid":"Paladin Boots","msgstr":"Чоботи паладина"}
+{"msgctxt":"items","msgid":"Paladin Gauntlets","msgstr":"Латні рукавиці паладина"}
+{"msgctxt":"items","msgid":"Parson's Quill","msgstr":"Перо священника"}
+{"msgctxt":"items","msgid":"Pearl of Purity","msgstr":"Перлина чистоти"}
+{"msgctxt":"items","msgid":"Pearl of Putrescence","msgstr":"Перлина гниття"}
+{"msgctxt":"items","msgid":"Pearl Ring","msgstr":"Перлове кільце"}
+{"msgctxt":"items","msgid":"Peasant Hat","msgstr":"Капелюх селянина"}
+{"msgctxt":"items","msgid":"Pellinore","msgstr":"Пеллінор"}
+{"msgctxt":"items","msgid":"Pendragon","msgstr":"Пендрагон"}
+{"msgctxt":"items","msgid":"Percival","msgstr":"Персіваль"}
+{"msgctxt":"items","msgid":"Personality Boost","msgstr":"Посилення особистості"}
+{"msgctxt":"items","msgid":"Personality Boost Recipe","msgstr":"Рецепт Посилення особистості"}
+{"msgctxt":"items","msgid":"Phantom Cloak","msgstr":"Примарний плащ"}
+{"msgctxt":"items","msgid":"Phial of Gog Blood","msgstr":"Фіал крові Ґоґа"}
+{"msgctxt":"items","msgid":"Philosopher's Stone","msgstr":"Філософський камінь"}
+{"msgctxt":"items","msgid":"Phima Root","msgstr":"Корінь Фіми"}
+{"msgctxt":"items","msgid":"Phirna Root","msgstr":"Корінь Фірни"}
+{"msgctxt":"items","msgid":"Phoenix Feather","msgstr":"Перо фенікса"}
+{"msgctxt":"items","msgid":"Phylt-laced ore","msgstr":"Руда з домішками філту"}
+{"msgctxt":"items","msgid":"Phynaxian Crown","msgstr":"Фінаксійська корона"}
+{"msgctxt":"items","msgid":"Phynaxian Helm","msgstr":"Фінаксійський шолом"}
+{"msgctxt":"items","msgid":"Phynaxian Shield","msgstr":"Фінаксійський щит"}
+{"msgctxt":"items","msgid":"Piercing Dagger","msgstr":"Пронизливий кинджал"}
+{"msgctxt":"items","msgid":"Pirate Cutlass","msgstr":"Абордажна шабля пірата"}
+{"msgctxt":"items","msgid":"Pirate Hat","msgstr":"Капелюх пірата"}
+{"msgctxt":"items","msgid":"Pirate Leader's Key","msgstr":"Ключ ватажка піратів"}
+{"msgctxt":"items","msgid":"Plate Armor","msgstr":"Лати"}
+{"msgctxt":"items","msgid":"Platinum Ring","msgstr":"Платиновий перстень"}
+{"msgctxt":"items","msgid":"Poleax","msgstr":"Алебарда"}
+{"msgctxt":"items","msgid":"Poleaxe","msgstr":"Алебарда"}
+{"msgctxt":"items","msgid":"Poppy Pod","msgstr":"Макова коробочка"}
+{"msgctxt":"items","msgid":"Poppysnaps","msgstr":"Макові тріскунці"}
+{"msgctxt":"items","msgid":"Poseidon","msgstr":"Посейдон"}
+{"msgctxt":"items","msgid":"Potion Bottle","msgstr":"Пляшечка зілля"}
+{"msgctxt":"items","msgid":"Potion of Doom ","msgstr":"Зілля Приречення "}
+{"msgctxt":"items","msgid":"Potion of Doom recipe","msgstr":"Рецепт зілля Приречення"}
+{"msgctxt":"items","msgid":"Potion of the Gods ","msgstr":"Зілля Богів "}
+{"msgctxt":"items","msgid":"Potion of the Gods recipe","msgstr":"Рецепт Зілля Богів"}
+{"msgctxt":"items","msgid":"Pouch of Bat Guano","msgstr":"Торбинка гуано кажанів"}
+{"msgctxt":"items","msgid":"Power Staff","msgstr":"Посох сили"}
+{"msgctxt":"items","msgid":"Power Stone","msgstr":"Камінь сили"}
+{"msgctxt":"items","msgid":"Precious Ring","msgstr":"Коштовний перстень"}
+{"msgctxt":"items","msgid":"Precision Bow","msgstr":"Лук влучності"}
+{"msgctxt":"items","msgid":"Preservation","msgstr":"Збереження"}
+{"msgctxt":"items","msgid":"Priestly Staff","msgstr":"Жрецький посох"}
+{"msgctxt":"items","msgid":"Prison Key","msgstr":"Ключ від в’язниці"}
+{"msgctxt":"items","msgid":"Proclamation","msgstr":"Прокламація"}
+{"msgctxt":"items","msgid":"Prophecies of the Snake","msgstr":"Пророцтва Змії"}
+{"msgctxt":"items","msgid":"Prophecies of the Sun","msgstr":"Пророцтва Сонця"}
+{"msgctxt":"items","msgid":"Protection","msgstr":"Захист"}
+{"msgctxt":"items","msgid":"Protection from Magic","msgstr":"Захист від магії"}
+{"msgctxt":"items","msgid":"Protection from Magic recipe","msgstr":"Рецепт захисту від магії"}
+{"msgctxt":"items","msgid":"Puck","msgstr":"Пак"}
+{"msgctxt":"items","msgid":"Pure Accuracy","msgstr":"Чиста влучність"}
+{"msgctxt":"items","msgid":"Pure Accuracy Recipe","msgstr":"Рецепт «Чиста влучність»"}
+{"msgctxt":"items","msgid":"Pure Air Resistance","msgstr":"Чистий опір повітрю"}
+{"msgctxt":"items","msgid":"Pure Air Resistance recipe","msgstr":"Рецепт Чистого опору повітрю"}
+{"msgctxt":"items","msgid":"Pure Body Resistance","msgstr":"Чистий опір Тілу"}
+{"msgctxt":"items","msgid":"Pure Body Resistance recipe","msgstr":"Рецепт Чистого опору Тілу"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance","msgstr":"Чистий опір землі"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance recipe","msgstr":"Рецепт чистого опору землі"}
+{"msgctxt":"items","msgid":"Pure Endurance","msgstr":"Чиста витривалість"}
+{"msgctxt":"items","msgid":"Pure Endurance Recipe","msgstr":"Рецепт чистої витривалості"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance","msgstr":"Чистий опір вогню"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance recipe","msgstr":"Рецепт Чистого опору вогню"}
+{"msgctxt":"items","msgid":"Pure Intellect","msgstr":"Чистий інтелект"}
+{"msgctxt":"items","msgid":"Pure Intellect Recipe","msgstr":"Рецепт чистого інтелекту"}
+{"msgctxt":"items","msgid":"Pure Luck","msgstr":"Чиста удача"}
+{"msgctxt":"items","msgid":"Pure Luck Recipe","msgstr":"Рецепт Чистої удачі"}
+{"msgctxt":"items","msgid":"Pure Might","msgstr":"Чиста міць"}
+{"msgctxt":"items","msgid":"Pure Might Recipe","msgstr":"Рецепт чистої міці"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance","msgstr":"Чистий опір розуму"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance recipe","msgstr":"Рецепт Чистого опору розуму"}
+{"msgctxt":"items","msgid":"Pure Personality","msgstr":"Чиста особистість"}
+{"msgctxt":"items","msgid":"Pure Personality Recipe","msgstr":"Рецепт Чистої особистості"}
+{"msgctxt":"items","msgid":"Pure Speed","msgstr":"Чиста швидкість"}
+{"msgctxt":"items","msgid":"Pure Speed Recipe","msgstr":"Рецепт чистої швидкості"}
+{"msgctxt":"items","msgid":"Pure Water Resistance","msgstr":"Чистий опір воді"}
+{"msgctxt":"items","msgid":"Pure Water Resistance recipe","msgstr":"Рецепт чистого опору воді"}
+{"msgctxt":"items","msgid":"Purple Topaz","msgstr":"Пурпуровий топаз"}
+{"msgctxt":"items","msgid":"Puzzle Box","msgstr":"Скринька-головоломка"}
+{"msgctxt":"items","msgid":"Quality Steel Chain Mail","msgstr":"Якісна сталева кольчуга"}
+{"msgctxt":"items","msgid":"Ranger Boots","msgstr":"Чоботи слідопита"}
+{"msgctxt":"items","msgid":"Ranger's Cloak","msgstr":"Плащ слідопита"}
+{"msgctxt":"items","msgid":"Recharge Item","msgstr":"Перезарядження предмета"}
+{"msgctxt":"items","msgid":"Recurve Bow","msgstr":"Рекурсивний лук"}
+{"msgctxt":"items","msgid":"Red Apple","msgstr":"Червоне яблуко"}
+{"msgctxt":"items","msgid":"Regal Crown","msgstr":"Королівська корона"}
+{"msgctxt":"items","msgid":"Regeneration","msgstr":"Регенерація"}
+{"msgctxt":"items","msgid":"Regnan Boots","msgstr":"Регнанські чоботи"}
+{"msgctxt":"items","msgid":"Regnan Crossbow","msgstr":"Регнанський арбалет"}
+{"msgctxt":"items","msgid":"Regnan Cutlass","msgstr":"Регнанська абордажна шабля"}
+{"msgctxt":"items","msgid":"Regnan Falchion","msgstr":"Регнанський фальшіон"}
+{"msgctxt":"items","msgid":"Regnan Fighting Knife","msgstr":"Регнанський бойовий ніж"}
+{"msgctxt":"items","msgid":"Regnan Leather","msgstr":"Регнанська шкіра"}
+{"msgctxt":"items","msgid":"Regnan Tournament Shield","msgstr":"Регнанський турнірний щит"}
+{"msgctxt":"items","msgid":"Regnan Trident","msgstr":"Регнанський тризуб"}
+{"msgctxt":"items","msgid":"Rejuvenation","msgstr":"Омолодження"}
+{"msgctxt":"items","msgid":"Rejuvenation Recipe","msgstr":"Рецепт «Омолодження»"}
+{"msgctxt":"items","msgid":"Remains of a Journal","msgstr":"Залишки щоденника"}
+{"msgctxt":"items","msgid":"Remains of Korbu","msgstr":"Останки Корбу"}
+{"msgctxt":"items","msgid":"Remnants of a Letter","msgstr":"Уривки листа"}
+{"msgctxt":"items","msgid":"Remove Curse","msgstr":"Зняти прокляття"}
+{"msgctxt":"items","msgid":"Remove Fear","msgstr":"Зняти страх"}
+{"msgctxt":"items","msgid":"Resistance","msgstr":"Опір"}
+{"msgctxt":"items","msgid":"Resplendent Chain Mail","msgstr":"Осяйна кольчуга"}
+{"msgctxt":"items","msgid":"Restoration","msgstr":"Відновлення"}
+{"msgctxt":"items","msgid":"Reverend Sceptre","msgstr":"Жрецький скіпетр"}
+{"msgctxt":"items","msgid":"Ring of Fusion","msgstr":"Кільце злиття"}
+{"msgctxt":"items","msgid":"Ring of Keys","msgstr":"В'язка ключів"}
+{"msgctxt":"items","msgid":"Ring of Planes","msgstr":"Кільце планів"}
+{"msgctxt":"items","msgid":"Ritual of the Void","msgstr":"Ритуал Порожнечі"}
+{"msgctxt":"items","msgid":"Riverstride Plans","msgstr":"Плани Ріверстрайду"}
+{"msgctxt":"items","msgid":"Roland Ironfist Painting","msgstr":"Портрет Роланда Айронфіста"}
+{"msgctxt":"items","msgid":"Roland's Journal","msgstr":"Щоденник Роланда"}
+{"msgctxt":"items","msgid":"Rope","msgstr":"Мотузка"}
+{"msgctxt":"items","msgid":"Rose","msgstr":"Троянда"}
+{"msgctxt":"items","msgid":"Rose Crystal","msgstr":"Трояндовий кристал"}
+{"msgctxt":"items","msgid":"Royal Chain Mail","msgstr":"Королівська кольчуга"}
+{"msgctxt":"items","msgid":"Royal Leather","msgstr":"Королівські шкіряні обладунки"}
+{"msgctxt":"items","msgid":"Royal Wasp Jelly","msgstr":"Осине маточне молочко"}
+{"msgctxt":"items","msgid":"Ruby","msgstr":"Рубін"}
+{"msgctxt":"items","msgid":"Ruby Ring","msgstr":"Перстень com рубіном"}
+{"msgctxt":"items","msgid":"Ruby Star Amulet","msgstr":"Амулет «Рубінова зірка»"}
+{"msgctxt":"items","msgid":"Ruler's Ring","msgstr":"Перстень правителя"}
+{"msgctxt":"items","msgid":"Rusty Breastplate","msgstr":"Іржавий нагрудник"}
+{"msgctxt":"items","msgid":"Rusty Cutlass","msgstr":"Іржава абордажна шабля"}
+{"msgctxt":"items","msgid":"Rusty Mail Vest","msgstr":"Іржавий кольчужний жилет"}
+{"msgctxt":"items","msgid":"Sacred Chalice","msgstr":"Священна чаша"}
+{"msgctxt":"items","msgid":"Sacred Spear","msgstr":"Священний спис"}
+{"msgctxt":"items","msgid":"Sacrifice","msgstr":"Жертвоприношення"}
+{"msgctxt":"items","msgid":"Sapphire","msgstr":"Сапфір"}
+{"msgctxt":"items","msgid":"Sapphire Ring","msgstr":"Сапфіровий перстень"}
+{"msgctxt":"items","msgid":"Sarcophagus of Korbu","msgstr":"Саркофаг Корбу"}
+{"msgctxt":"items","msgid":"Savage Spear","msgstr":"Лютий спис"}
+{"msgctxt":"items","msgid":"Scarab Ring","msgstr":"Перстень зі скарабеєм"}
+{"msgctxt":"items","msgid":"Scavenger hunt.","msgstr":"Полювання за скарбами."}
+{"msgctxt":"items","msgid":"Scepter of Kings","msgstr":"Скіпетр королів"}
+{"msgctxt":"items","msgid":"Scholar's Cap","msgstr":"Шапка вченого"}
+{"msgctxt":"items","msgid":"Scrap from Gharik's Journal","msgstr":"Клаптик зі щоденника Ґаріка"}
+{"msgctxt":"items","msgid":"Scrap of Paper","msgstr":"Клаптик паперу"}
+{"msgctxt":"items","msgid":"Scroll of Waves","msgstr":"Сувій хвиль"}
+{"msgctxt":"items","msgid":"Sealed Letter 2","msgstr":"Запечатаний лист 2"}
+{"msgctxt":"items","msgid":"Sealed Letter 3","msgstr":"Запечатаний лист 3"}
+{"msgctxt":"items","msgid":"Sealed Letter 4","msgstr":"Запечатаний лист 4"}
+{"msgctxt":"items","msgid":"Sealed Letter 5","msgstr":"Запечатаний лист 5"}
+{"msgctxt":"items","msgid":"Sealed Letter 6","msgstr":"Запечатаний лист 6"}
+{"msgctxt":"items","msgid":"Sealed Letter 7","msgstr":"Запечатаний лист 7"}
+{"msgctxt":"items","msgid":"Seashell","msgstr":"Морська Мушля"}
+{"msgctxt":"items","msgid":"Season's Stole","msgstr":"Стола пори року"}
+{"msgctxt":"items","msgid":"Secret Door Key","msgstr":"Ключ від таємних дверей"}
+{"msgctxt":"items","msgid":"Serendine's Preservation","msgstr":"Збереження Серендіни"}
+{"msgctxt":"items","msgid":"Serpent Spear","msgstr":"Зміїний спис"}
+{"msgctxt":"items","msgid":"Serpent Staff","msgstr":"Зміїний посох"}
+{"msgctxt":"items","msgid":"Serpent Wand of Blasting","msgstr":"Зміїний жезл вибуху"}
+{"msgctxt":"items","msgid":"Serpent Wand of Paralysis","msgstr":"Зміїний жезл паралічу"}
+{"msgctxt":"items","msgid":"Serpent Wand of Rocks","msgstr":"Зміїний жезл Каменів"}
+{"msgctxt":"items","msgid":"Serpent Wand of the Fist","msgstr":"Зміїний жезл Кулака"}
+{"msgctxt":"items","msgid":"Seven League Boots","msgstr":"Семимильні чоботи"}
+{"msgctxt":"items","msgid":"Sewer Key","msgstr":"Ключ від каналізації"}
+{"msgctxt":"items","msgid":"Shadow Dagger","msgstr":"Кинджал тіні"}
+{"msgctxt":"items","msgid":"Shadow Sect Medallion","msgstr":"Медальйон Секти Тіней"}
+{"msgctxt":"items","msgid":"Shadow's Mask","msgstr":"Маска тіні"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Ice","msgstr":"Шаманський жезл Льоду"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Lashing","msgstr":"Шаманський жезл шмагання"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Light","msgstr":"Шаманський жезл Світла"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Mind","msgstr":"Шаманський жезл Розуму"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Swarms","msgstr":"Шаманський жезл роїв"}
+{"msgctxt":"items","msgid":"Sharktooth Dagger","msgstr":"Кинджал з акулячого зуба"}
+{"msgctxt":"items","msgid":"Shield","msgstr":"Щит"}
+{"msgctxt":"items","msgid":"Shocking Potion","msgstr":"Зілля електричного розряду"}
+{"msgctxt":"items","msgid":"Shocking Potion Recipe","msgstr":"Рецепт зілля електричного розряду"}
+{"msgctxt":"items","msgid":"Shovel","msgstr":"Лопата"}
+{"msgctxt":"items","msgid":"Siertal Chainmail","msgstr":"Сіерталова кольчуга"}
+{"msgctxt":"items","msgid":"Siertal-laced ore","msgstr":"Руда з домішкою сіерталу"}
+{"msgctxt":"items","msgid":"Signet Ring","msgstr":"Перстень-печатка"}
+{"msgctxt":"items","msgid":"Silver Belt","msgstr":"Срібний пояс"}
+{"msgctxt":"items","msgid":"Silver Dust of the Sea","msgstr":"Срібний пил моря"}
+{"msgctxt":"items","msgid":"Silver Mesh Gauntlets","msgstr":"Латні рукавиці зі срібної сітки"}
+{"msgctxt":"items","msgid":"Simple Mace","msgstr":"Проста булава"}
+{"msgctxt":"items","msgid":"Simple Staff","msgstr":"Простий посох"}
+{"msgctxt":"items","msgid":"Slaying Potion","msgstr":"Зілля винищення"}
+{"msgctxt":"items","msgid":"Slaying Potion Recipe","msgstr":"Рецепт зілля винищення"}
+{"msgctxt":"items","msgid":"Sledgehammer","msgstr":"Кувалда"}
+{"msgctxt":"items","msgid":"Snake","msgstr":"Змія"}
+{"msgctxt":"items","msgid":"Snakewood Bow","msgstr":"Лук зі зміїного дерева"}
+{"msgctxt":"items","msgid":"Snergle's Axe","msgstr":"Сокира Снерґла"}
+{"msgctxt":"items","msgid":"Soldier's spear","msgstr":"Спис солдата"}
+{"msgctxt":"items","msgid":"Souldrinker","msgstr":"Душопивця"}
+{"msgctxt":"items","msgid":"Sovereign Belt","msgstr":"Пояс володаря"}
+{"msgctxt":"items","msgid":"Sparkling Ring","msgstr":"Іскристе кільце"}
+{"msgctxt":"items","msgid":"Spear","msgstr":"Спис"}
+{"msgctxt":"items","msgid":"Speed Boost","msgstr":"Посилення швидкості"}
+{"msgctxt":"items","msgid":"Speed Boost Recipe","msgstr":"Рецепт посилення швидкості"}
+{"msgctxt":"items","msgid":"Spider Queen's Heart","msgstr":"Серце Королеви павуків"}
+{"msgctxt":"items","msgid":"Spiked Club","msgstr":"Шипована дубина"}
+{"msgctxt":"items","msgid":"Spiked Mace","msgstr":"Шипована булава"}
+{"msgctxt":"items","msgid":"Spiral Instructions","msgstr":"Інструкції до спіралі"}
+{"msgctxt":"items","msgid":"Spirit Lash","msgstr":"Батіг духу"}
+{"msgctxt":"items","msgid":"Spirit Shield","msgstr":"Щит духу"}
+{"msgctxt":"items","msgid":"Spiritslayer","msgstr":"Духоборець"}
+{"msgctxt":"items","msgid":"Splendid Plate Armor","msgstr":"Розкішні лати"}
+{"msgctxt":"items","msgid":"Splitter","msgstr":"Розсікач"}
+{"msgctxt":"items","msgid":"Staff","msgstr":"Посох"}
+{"msgctxt":"items","msgid":"Staff of Elements","msgstr":"Посох стихій"}
+{"msgctxt":"items","msgid":"Staff of the Swamp","msgstr":"Посох болота"}
+{"msgctxt":"items","msgid":"Stalt-laced ore","msgstr":"Руда з домішками сталту"}
+{"msgctxt":"items","msgid":"Steel Axe","msgstr":"Сталева сокира"}
+{"msgctxt":"items","msgid":"Steel Belt","msgstr":"Сталевий пояс"}
+{"msgctxt":"items","msgid":"Steel Boots","msgstr":"Сталеві чоботи"}
+{"msgctxt":"items","msgid":"Steel Broadsword","msgstr":"Сталевий палаш"}
+{"msgctxt":"items","msgid":"Steel Chain Mail","msgstr":"Сталева кольчуга"}
+{"msgctxt":"items","msgid":"Steel Chainmail","msgstr":"Сталева кольчуга"}
+{"msgctxt":"items","msgid":"Steel club","msgstr":"Сталева дубина"}
+{"msgctxt":"items","msgid":"Steel Gauntlets","msgstr":"Сталеві латні рукавиці"}
+{"msgctxt":"items","msgid":"Steel Helm","msgstr":"Сталевий шолом"}
+{"msgctxt":"items","msgid":"Steel Plate Armor","msgstr":"Сталеві лати"}
+{"msgctxt":"items","msgid":"Steel Plated Boots","msgstr":"Чоботи зі сталевими пластинами"}
+{"msgctxt":"items","msgid":"Steel Shield","msgstr":"Сталевий щит"}
+{"msgctxt":"items","msgid":"Steel Spear","msgstr":"Сталевий спис"}
+{"msgctxt":"items","msgid":"Stellar Bow","msgstr":"Зоряний лук"}
+{"msgctxt":"items","msgid":"Sterling Boots","msgstr":"Чоботи зі стерлінгового срібла"}
+{"msgctxt":"items","msgid":"Sterling Shield","msgstr":"Срібний щит"}
+{"msgctxt":"items","msgid":"Stone Axe","msgstr":"Кам’яна сокира"}
+{"msgctxt":"items","msgid":"Stone Skin","msgstr":"Кам’яна шкіра"}
+{"msgctxt":"items","msgid":"Stone to Flesh","msgstr":"Камінь у плоть"}
+{"msgctxt":"items","msgid":"Stone To Flesh Recipe","msgstr":"Рецепт «Камінь у плоть»"}
+{"msgctxt":"items","msgid":"Stoneskin","msgstr":"Кам’яна шкіра"}
+{"msgctxt":"items","msgid":"Storage Key","msgstr":"Ключ від сховища"}
+{"msgctxt":"items","msgid":"Store Room Key","msgstr":"Ключ від комори"}
+{"msgctxt":"items","msgid":"Stout Spear","msgstr":"Міцний спис"}
+{"msgctxt":"items","msgid":"Strong Belt","msgstr":"Пояс сили"}
+{"msgctxt":"items","msgid":"Studded Leather","msgstr":"Клепані шкіряні обладунки"}
+{"msgctxt":"items","msgid":"Sturdy Belt","msgstr":"Надійний пояс"}
+{"msgctxt":"items","msgid":"Sublime Spear","msgstr":"Піднесений спис"}
+{"msgctxt":"items","msgid":"Sulfur","msgstr":"Сірка"}
+{"msgctxt":"items","msgid":"Summon Elemental","msgstr":"Прикликання елементаля"}
+{"msgctxt":"items","msgid":"Summon Wisp","msgstr":"Прикликання блукаючого вогника"}
+{"msgctxt":"items","msgid":"Sun Amulet","msgstr":"Амулет сонця"}
+{"msgctxt":"items","msgid":"Sun Cloak","msgstr":"Плащ сонця"}
+{"msgctxt":"items","msgid":"Sun Hammer","msgstr":"Молот сонця"}
+{"msgctxt":"items","msgid":"Sun Opal Ring","msgstr":"Перстень із сонячним опалом"}
+{"msgctxt":"items","msgid":"Sunray","msgstr":"Сонячний промінь"}
+{"msgctxt":"items","msgid":"Sunstone","msgstr":"Сонячний Камінь"}
+{"msgctxt":"items","msgid":"Super Resistance","msgstr":"Надзвичайний опір"}
+{"msgctxt":"items","msgid":"Supreme Axe","msgstr":"Неперевершена сокира"}
+{"msgctxt":"items","msgid":"Supreme Flail","msgstr":"Верховний ціп"}
+{"msgctxt":"items","msgid":"Supreme Plate","msgstr":"Верховні лати"}
+{"msgctxt":"items","msgid":"Supreme Protection","msgstr":"Найвищий захист"}
+{"msgctxt":"items","msgid":"Swift Potion","msgstr":"Швидке зілля"}
+{"msgctxt":"items","msgid":"Swift Potion Recipe","msgstr":"Рецепт «Швидке зілля»"}
+{"msgctxt":"items","msgid":"Sword of Whistlebone","msgstr":"Меч Вістлбоуна"}
+{"msgctxt":"items","msgid":"Taledon's Helm","msgstr":"Шолом Таледона"}
+{"msgctxt":"items","msgid":"Tanir's Bell","msgstr":"Дзвін Таніра"}
+{"msgctxt":"items","msgid":"Telelocator","msgstr":"Телелокатор"}
+{"msgctxt":"items","msgid":"Telepathy","msgstr":"Телепатія"}
+{"msgctxt":"items","msgid":"Teleporter Key","msgstr":"Ключ від телепорта"}
+{"msgctxt":"items","msgid":"Templar's Sword","msgstr":"Меч тамплієра"}
+{"msgctxt":"items","msgid":"Temple Gong","msgstr":"Храмовий гонг"}
+{"msgctxt":"items","msgid":"Temple in a Bottle","msgstr":"Храм у пляшці"}
+{"msgctxt":"items","msgid":"Temple Mace","msgstr":"Храмова булава"}
+{"msgctxt":"items","msgid":"Terminus","msgstr":"Термінус"}
+{"msgctxt":"items","msgid":"The DeathBlade","msgstr":"Клинок Смерті"}
+{"msgctxt":"items","msgid":"The Letter","msgstr":"Лист"}
+{"msgctxt":"items","msgid":"The Perfect Bow","msgstr":"Досконалий лук"}
+{"msgctxt":"items","msgid":"The Third Eye","msgstr":"Третє око"}
+{"msgctxt":"items","msgid":"Thigh Bone","msgstr":"Стегнова кістка"}
+{"msgctxt":"items","msgid":"Thor","msgstr":"Тор"}
+{"msgctxt":"items","msgid":"Thornbark","msgstr":"Тернова кора"}
+{"msgctxt":"items","msgid":"Thornbark Club","msgstr":"Дубина з тернової кори"}
+{"msgctxt":"items","msgid":"Thornbark Shield","msgstr":"Щит із тернової кори"}
+{"msgctxt":"items","msgid":"Thunder Mace","msgstr":"Громова булава"}
+{"msgctxt":"items","msgid":"Tiger Statuette","msgstr":"Статуетка тигра"}
+{"msgctxt":"items","msgid":"Titan's Belt","msgstr":"Пояс титана"}
+{"msgctxt":"items","msgid":"Titanic Trident","msgstr":"Титанічний тризуб"}
+{"msgctxt":"items","msgid":"Tobersk Brandy","msgstr":"Бренді «Тоберськ»"}
+{"msgctxt":"items","msgid":"Tobersk Fruit","msgstr":"Плід із Тоберська"}
+{"msgctxt":"items","msgid":"Tobersk Pulp","msgstr":"М'якоть тоберску"}
+{"msgctxt":"items","msgid":"Tooth","msgstr":"Зуб"}
+{"msgctxt":"items","msgid":"Topaz","msgstr":"Топаз"}
+{"msgctxt":"items","msgid":"Torn Page","msgstr":"Порвана сторінка"}
+{"msgctxt":"items","msgid":"Tournament Bow","msgstr":"Турнірний лук"}
+{"msgctxt":"items","msgid":"Tower Shield","msgstr":"Баштовий щит"}
+{"msgctxt":"items","msgid":"Traveler's Cloak","msgstr":"Плащ мандрівника"}
+{"msgctxt":"items","msgid":"Traveller's Hat","msgstr":"Капелюх мандрівника"}
+{"msgctxt":"items","msgid":"Treasure Room Key","msgstr":"Ключ від скарбниці"}
+{"msgctxt":"items","msgid":"Trident","msgstr":"Тризуб"}
+{"msgctxt":"items","msgid":"Trident of Rulership","msgstr":"Тризуб Панування"}
+{"msgctxt":"items","msgid":"Triton Trident","msgstr":"Тризуб тритона"}
+{"msgctxt":"items","msgid":"Troll Gauntlets","msgstr":"Латні рукавиці троля"}
+{"msgctxt":"items","msgid":"Trollish Claymore","msgstr":"Тролівський клеймор"}
+{"msgctxt":"items","msgid":"Trollish Maul","msgstr":"Тролячий молот"}
+{"msgctxt":"items","msgid":"Trollish Shield","msgstr":"Тролячий щит"}
+{"msgctxt":"items","msgid":"Trollish War Mace","msgstr":"Тролівська бойова булава"}
+{"msgctxt":"items","msgid":"Trollish War Sword","msgstr":"Трольський бойовий меч"}
+{"msgctxt":"items","msgid":"True Crossbow","msgstr":"Істинний арбалет"}
+{"msgctxt":"items","msgid":"Turquoise Amulet","msgstr":"Бірюзовий амулет"}
+{"msgctxt":"items","msgid":"Twilight","msgstr":"Сутінки"}
+{"msgctxt":"items","msgid":"Twilight Kris","msgstr":"Кріс сутінків"}
+{"msgctxt":"items","msgid":"Two-Handed Axe","msgstr":"Дворучна сокира"}
+{"msgctxt":"items","msgid":"Two-Handed Sword","msgstr":"Дворучний меч"}
+{"msgctxt":"items","msgid":"Ullyses","msgstr":"Улісс"}
+{"msgctxt":"items","msgid":"Ultimate Boots","msgstr":"Неперевершені чоботи"}
+{"msgctxt":"items","msgid":"Ultimate Gauntlets","msgstr":"Неперевершені латні рукавиці"}
+{"msgctxt":"items","msgid":"Unicorn Horn","msgstr":"Ріг єдинорога"}
+{"msgctxt":"items","msgid":"Urn of Ashes","msgstr":"Урна з прахом"}
+{"msgctxt":"items","msgid":"Valeria","msgstr":"Валерія"}
+{"msgctxt":"items","msgid":"Valuable Ring","msgstr":"Цінний перстень"}
+{"msgctxt":"items","msgid":"Vampire Cloak","msgstr":"Плащ вампіра"}
+{"msgctxt":"items","msgid":"Vampire's Cape","msgstr":"Плащ вампіра"}
+{"msgctxt":"items","msgid":"Vampire's Ring","msgstr":"Кільце вампіра"}
+{"msgctxt":"items","msgid":"Vampiric Weapon","msgstr":"Вампірська зброя"}
+{"msgctxt":"items","msgid":"Vanguard Belt","msgstr":"Пояс авангарду"}
+{"msgctxt":"items","msgid":"VARN Chest Key","msgstr":"Ключ від скрині VARN"}
+{"msgctxt":"items","msgid":"Vase","msgstr":"Ваза"}
+{"msgctxt":"items","msgid":"Veteran Shield","msgstr":"Щит ветерана"}
+{"msgctxt":"items","msgid":"Vial of Devil Ichor","msgstr":"Флакон диявольського іхору"}
+{"msgctxt":"items","msgid":"Vial of Grave Earth","msgstr":"Флакон могильної землі"}
+{"msgctxt":"items","msgid":"Vial of Ooze Endoplasm","msgstr":"Флакон ендоплазми слизу"}
+{"msgctxt":"items","msgid":"Vial of Troll Blood","msgstr":"Флакон крові троля"}
+{"msgctxt":"items","msgid":"Villain's Blade","msgstr":"Клинок лиходія"}
+{"msgctxt":"items","msgid":"Volcano","msgstr":"Вулкан"}
+{"msgctxt":"items","msgid":"Walking Boots","msgstr":"Чоботи для ходьби"}
+{"msgctxt":"items","msgid":"Wallace","msgstr":"Воллес"}
+{"msgctxt":"items","msgid":"Wand of Arrows","msgstr":"Жезл стріл"}
+{"msgctxt":"items","msgid":"Wand of Cold","msgstr":"Жезл Холоду"}
+{"msgctxt":"items","msgid":"Wand of Fire","msgstr":"Жезл Вогню"}
+{"msgctxt":"items","msgid":"Wand of Flame","msgstr":"Жезл Полум'я"}
+{"msgctxt":"items","msgid":"Wand of Harm","msgstr":"Жезл Ураження"}
+{"msgctxt":"items","msgid":"Wand of Poison","msgstr":"Жезл отрути"}
+{"msgctxt":"items","msgid":"Wand of Sparks","msgstr":"Жезл іскор"}
+{"msgctxt":"items","msgid":"Wand of Static","msgstr":"Жезл статичного розряду"}
+{"msgctxt":"items","msgid":"Wand of Stunning","msgstr":"Жезл оглушення"}
+{"msgctxt":"items","msgid":"War Axe","msgstr":"Бойова сокира"}
+{"msgctxt":"items","msgid":"War Hammer","msgstr":"Бойовий молот"}
+{"msgctxt":"items","msgid":"War Spear","msgstr":"Бойовий спис"}
+{"msgctxt":"items","msgid":"War Trident","msgstr":"Бойовий тризуб"}
+{"msgctxt":"items","msgid":"Warhammer","msgstr":"Бойовий молот"}
+{"msgctxt":"items","msgid":"Warlock's Ring","msgstr":"Перстень чаклуна"}
+{"msgctxt":"items","msgid":"Warlord Belt","msgstr":"Пояс Воєначальника"}
+{"msgctxt":"items","msgid":"Warlord's Key","msgstr":"Ключ воєначальника"}
+{"msgctxt":"items","msgid":"Warrior Sword","msgstr":"Меч воїна"}
+{"msgctxt":"items","msgid":"Warrior's Poleaxe","msgstr":"Алебарда воїна"}
+{"msgctxt":"items","msgid":"Wasp Stingers","msgstr":"Жала ос"}
+{"msgctxt":"items","msgid":"Wasp Wing","msgstr":"Крило оси"}
+{"msgctxt":"items","msgid":"Water Breathing","msgstr":"Дихання під водою"}
+{"msgctxt":"items","msgid":"Water Resistance","msgstr":"Опір воді"}
+{"msgctxt":"items","msgid":"Water Resistance Recipe","msgstr":"Рецепт опору воді"}
+{"msgctxt":"items","msgid":"Water Temple Key","msgstr":"Ключ від Храму Води"}
+{"msgctxt":"items","msgid":"Wealthy Hat","msgstr":"Капелюх багатія"}
+{"msgctxt":"items","msgid":"Weighted Halberd","msgstr":"Обтяжена алебарда"}
+{"msgctxt":"items","msgid":"West Pillar Key","msgstr":"Ключ від західної колони"}
+{"msgctxt":"items","msgid":"Wetsuit","msgstr":"Гідрокостюм"}
+{"msgctxt":"items","msgid":"Wheel of Frelandeau","msgstr":"Колесо Фреландо"}
+{"msgctxt":"items","msgid":"Whisp wrappings","msgstr":"Обмотки блукаючого вогника"}
+{"msgctxt":"items","msgid":"Wicked Mace","msgstr":"Зловісна булава"}
+{"msgctxt":"items","msgid":"Widoweeps Berries","msgstr":"Ягоди вдовиних сліз"}
+{"msgctxt":"items","msgid":"Widowsweep Berries","msgstr":"Ягоди вдовиного плачу"}
+{"msgctxt":"items","msgid":"Will O' Wisp Heart","msgstr":"Серце Блукаючого Вогника"}
+{"msgctxt":"items","msgid":"William's Tower Key","msgstr":"Ключ від вежі Вільяма"}
+{"msgctxt":"items","msgid":"Winged Sandals","msgstr":"Крилаті сандалі"}
+{"msgctxt":"items","msgid":"Witch Ring","msgstr":"Перстень відьми"}
+{"msgctxt":"items","msgid":"Witch's Amulet","msgstr":"Амулет відьми"}
+{"msgctxt":"items","msgid":"Witch's Wand of Fire","msgstr":"Відьомський жезл Вогню"}
+{"msgctxt":"items","msgid":"Witch's Wand of Harming","msgstr":"Відьомський жезл ураження"}
+{"msgctxt":"items","msgid":"Witch's Wand of Poison","msgstr":"Відьомський жезл отрути"}
+{"msgctxt":"items","msgid":"Witch's Wand of Sparks","msgstr":"Відьомський жезл іскор"}
+{"msgctxt":"items","msgid":"Witch's Wand of Stunning","msgstr":"Відьомський жезл оглушення"}
+{"msgctxt":"items","msgid":"Wizard Cap","msgstr":"Ковпак Чарівника"}
+{"msgctxt":"items","msgid":"Wizard Ring","msgstr":"Перстень чарівника"}
+{"msgctxt":"items","msgid":"Wizard Staff","msgstr":"Посох Чарівника"}
+{"msgctxt":"items","msgid":"Wizard Wand of Acid","msgstr":"Чарівницький жезл кислоти"}
+{"msgctxt":"items","msgid":"Wizard Wand of Berzerking","msgstr":"Чарівницький жезл оскаженіння"}
+{"msgctxt":"items","msgid":"Wizard Wand of Blades","msgstr":"Жезл чарівника Лез"}
+{"msgctxt":"items","msgid":"Wizard Wand of Fireballs","msgstr":"Чарівницький жезл вогняних куль"}
+{"msgctxt":"items","msgid":"Wizard Wand of Lightning","msgstr":"Чарівницький жезл Блискавки"}
+{"msgctxt":"items","msgid":"Wolf Statuette","msgstr":"Статуетка вовка"}
+{"msgctxt":"items","msgid":"Wolf's Eye","msgstr":"Вовче око"}
+{"msgctxt":"items","msgid":"Wonder Mace","msgstr":"Булава чудес"}
+{"msgctxt":"items","msgid":"Wooden Buckler","msgstr":"Дерев'яний баклер"}
+{"msgctxt":"items","msgid":"Wooden Shield","msgstr":"Дерев’яний щит"}
+{"msgctxt":"items","msgid":"Worn Belt","msgstr":"Зношений пояс"}
+{"msgctxt":"items","msgid":"Wyrm Spitter","msgstr":"Плювач Зміїв"}
+{"msgctxt":"items","msgid":"Wyvern Horn","msgstr":"Ріг виверни"}
+{"msgctxt":"items","msgid":"Wyvern Leather Belt","msgstr":"Шкіряний пояс зі шкіри виверни"}
+{"msgctxt":"items","msgid":"Yellow Topaz","msgstr":"Жовтий Топаз"}
+{"msgctxt":"items","msgid":"Yoruba","msgstr":"Йоруба"}
+{"msgctxt":"items","msgid":"Zealot Mace","msgstr":"Булава фанатика"}
+{"msgctxt":"items","msgid":"Zeus","msgstr":"Зевс"}
+{"msgctxt":"items","msgid":"Zircon","msgstr":"Циркон"}
+{"msgctxt":"items","msgid":"Zokarr IV's Skull","msgstr":"Череп Зокарра IV"}
+{"msgctxt":"items","msgid":"Zokarr's Axe","msgstr":"Сокира Зокарра"}
+{"msgctxt":"location","msgid":"Abandoned Pirate Keep","msgstr":"Покинута піратська фортеця"}
+{"msgctxt":"location","msgid":"Abandoned Temple","msgstr":"Покинутий храм"}
+{"msgctxt":"location","msgid":"Agar's Laboratory","msgstr":"Лабораторія Аґара"}
+{"msgctxt":"location","msgid":"Alvar","msgstr":"Алвар"}
+{"msgctxt":"location","msgid":"Ancient Troll Home","msgstr":"Стародавня оселя тролів"}
+{"msgctxt":"location","msgid":"Arena","msgstr":"Арена"}
+{"msgctxt":"location","msgid":"Avlee","msgstr":"Авлі"}
+{"msgctxt":"location","msgid":"Balthazar Lair","msgstr":"Лігво Бальтазара"}
+{"msgctxt":"location","msgid":"Barbarian Fortress","msgstr":"Фортеця варварів"}
+{"msgctxt":"location","msgid":"Barrow I","msgstr":"Курган I"}
+{"msgctxt":"location","msgid":"Barrow II","msgstr":"Курган II"}
+{"msgctxt":"location","msgid":"Barrow III","msgstr":"Курган III"}
+{"msgctxt":"location","msgid":"Barrow IV","msgstr":"Курган IV"}
+{"msgctxt":"location","msgid":"Barrow IX","msgstr":"Курган IX"}
+{"msgctxt":"location","msgid":"Barrow V","msgstr":"Курган V"}
+{"msgctxt":"location","msgid":"Barrow VI","msgstr":"Курган VI"}
+{"msgctxt":"location","msgid":"Barrow VII","msgstr":"Курган VII"}
+{"msgctxt":"location","msgid":"Barrow VIII","msgstr":"Курган VIII"}
+{"msgctxt":"location","msgid":"Barrow X","msgstr":"Курган X"}
+{"msgctxt":"location","msgid":"Barrow XI","msgstr":"Курган XI"}
+{"msgctxt":"location","msgid":"Barrow XII","msgstr":"Курган XII"}
+{"msgctxt":"location","msgid":"Barrow XIII","msgstr":"Курган XIII"}
+{"msgctxt":"location","msgid":"Barrow XIV","msgstr":"Курган XIV"}
+{"msgctxt":"location","msgid":"Barrow XV","msgstr":"Курган XV"}
+{"msgctxt":"location","msgid":"Basement of the Breach","msgstr":"Підвал Розлому"}
+{"msgctxt":"location","msgid":"Blackshire","msgstr":"Блекшир"}
+{"msgctxt":"location","msgid":"Bootleg Bay","msgstr":"Бухта контрабандистів"}
+{"msgctxt":"location","msgid":"Castle Alamos","msgstr":"Замок Аламос"}
+{"msgctxt":"location","msgid":"Castle Darkmoor","msgstr":"Замок Даркмур"}
+{"msgctxt":"location","msgid":"Castle Gloaming","msgstr":"Замок Глоумінг"}
+{"msgctxt":"location","msgid":"Castle Gryphonheart","msgstr":"Замок Ґрифонгарт"}
+{"msgctxt":"location","msgid":"Castle Harmondale","msgstr":"Замок Гармондейл"}
+{"msgctxt":"location","msgid":"Castle Ironfist","msgstr":"Замок Айронфіст"}
+{"msgctxt":"location","msgid":"Castle Kriegspire","msgstr":"Замок Кріґспайр"}
+{"msgctxt":"location","msgid":"Castle Lambent","msgstr":"Сяйливий замок"}
+{"msgctxt":"location","msgid":"Castle Navan","msgstr":"Замок Наван"}
+{"msgctxt":"location","msgid":"Castle of Air","msgstr":"Замок Повітря"}
+{"msgctxt":"location","msgid":"Castle of Fire","msgstr":"Замок Вогню"}
+{"msgctxt":"location","msgid":"Caves of the Dragon Riders","msgstr":"Печери вершників на драконах"}
+{"msgctxt":"location","msgid":"Celeste","msgstr":"Селеста"}
+{"msgctxt":"location","msgid":"Chain of Fire","msgstr":"Ланцюг Вогню"}
+{"msgctxt":"location","msgid":"Chapel of Eep","msgstr":"Каплиця Іпа"}
+{"msgctxt":"location","msgid":"Church of Eep","msgstr":"Церква Іпа"}
+{"msgctxt":"location","msgid":"Clanker's Laboratory","msgstr":"Лабораторія Кланкера"}
+{"msgctxt":"location","msgid":"Colony Zod","msgstr":"Колонія Зод"}
+{"msgctxt":"location","msgid":"Control Center","msgstr":"Центр керування"}
+{"msgctxt":"location","msgid":"Corlagon's Estate","msgstr":"Маєток Корлаґона"}
+{"msgctxt":"location","msgid":"Cyclops Larder","msgstr":"Комора циклопів"}
+{"msgctxt":"location","msgid":"Dagger Wound Island","msgstr":"Острів Кинджальної Рани"}
+{"msgctxt":"location","msgid":"Dark Dwarf Compound","msgstr":"Поселення темних дворфів"}
+{"msgctxt":"location","msgid":"Devil Outpost","msgstr":"Форпост дияволів"}
+{"msgctxt":"location","msgid":"Deyja","msgstr":"Дейджа"}
+{"msgctxt":"location","msgid":"Dire Wolf Den","msgstr":"Лігво лютого вовка"}
+{"msgctxt":"location","msgid":"Dragon Cave","msgstr":"Печера дракона"}
+{"msgctxt":"location","msgid":"Dragon Hunter's Camp","msgstr":"Табір Мисливця на драконів"}
+{"msgctxt":"location","msgid":"Dragon's Lair","msgstr":"Лігво дракона"}
+{"msgctxt":"location","msgid":"Dragonsand","msgstr":"Піски Драконів"}
+{"msgctxt":"location","msgid":"Dragoons' Caverns","msgstr":"Печери драгунів"}
+{"msgctxt":"location","msgid":"Dragoons' Keep","msgstr":"Фортеця драгунів"}
+{"msgctxt":"location","msgid":"Druid Circle","msgstr":"Коло Друїдів"}
+{"msgctxt":"location","msgid":"Eel Infested Waters","msgstr":"Води, що кишать вуграми"}
+{"msgctxt":"location","msgid":"Emerald Island","msgstr":"Смарагдовий острів"}
+{"msgctxt":"location","msgid":"Erathia","msgstr":"Ератія"}
+{"msgctxt":"location","msgid":"Escaton's Crystal","msgstr":"Кристал Ескатона"}
+{"msgctxt":"location","msgid":"Escaton's Palace","msgstr":"Палац Ескатона"}
+{"msgctxt":"location","msgid":"Evenmorn Island","msgstr":"Острів Івенморн"}
+{"msgctxt":"location","msgid":"Fort Riverstride","msgstr":"Форт Ріверстрайд"}
+{"msgctxt":"location","msgid":"Free Haven","msgstr":"Вільна Гавань"}
+{"msgctxt":"location","msgid":"Free Haven Sewer","msgstr":"Каналізація Вільної Гавані"}
+{"msgctxt":"location","msgid":"Frozen Highlands","msgstr":"Крижане високогір’я"}
+{"msgctxt":"location","msgid":"Garrote Gorge","msgstr":"Ущелина Гаррота"}
+{"msgctxt":"location","msgid":"Gharik's Forge","msgstr":"Кузня Ґаріка"}
+{"msgctxt":"location","msgid":"Goblinwatch","msgstr":"Гоблінська варта"}
+{"msgctxt":"location","msgid":"Grand Temple of Eep","msgstr":"Великий храм Іпа"}
+{"msgctxt":"location","msgid":"Grand Temple of the Moon","msgstr":"Великий храм Місяця"}
+{"msgctxt":"location","msgid":"Grand Temple of the Sun","msgstr":"Великий храм сонця"}
+{"msgctxt":"location","msgid":"Hall of the Fire Lord","msgstr":"Зала Володаря Вогню"}
+{"msgctxt":"location","msgid":"Harmondale","msgstr":"Гармондейл"}
+{"msgctxt":"location","msgid":"Hermit's Isle","msgstr":"Острів відлюдника"}
+{"msgctxt":"location","msgid":"Icewind Keep","msgstr":"Фортеця Крижаного Вітру"}
+{"msgctxt":"location","msgid":"Ilsingore's Cave","msgstr":"Печера Ілсінґора"}
+{"msgctxt":"location","msgid":"Ironsand Desert","msgstr":"Пустеля Айронсенд"}
+{"msgctxt":"location","msgid":"Kriegspire","msgstr":"Кріґспайр"}
+{"msgctxt":"location","msgid":"Lair of the Wolf","msgstr":"Лігво Вовка"}
+{"msgctxt":"location","msgid":"Lord Markham's Manor","msgstr":"Маєток лорда Маркема"}
+{"msgctxt":"location","msgid":"Mad Necromancer's Lab","msgstr":"Лабораторія Божевільного Некроманта"}
+{"msgctxt":"location","msgid":"Merchant House of Alvar","msgstr":"Торговий дім Алвара"}
+{"msgctxt":"location","msgid":"Mire of the Damned","msgstr":"Трясовина проклятих"}
+{"msgctxt":"location","msgid":"Misty Islands","msgstr":"Туманні острови"}
+{"msgctxt":"location","msgid":"Mount Nighon","msgstr":"Гора Найгон"}
+{"msgctxt":"location","msgid":"Murmurwoods","msgstr":"Ліси Шепоту"}
+{"msgctxt":"location","msgid":"Naga Vault","msgstr":"Сховище наг"}
+{"msgctxt":"location","msgid":"Necromancers' Guild","msgstr":"Гільдія некромантів"}
+{"msgctxt":"location","msgid":"New Sorpigal","msgstr":"Новий Сорпігал"}
+{"msgctxt":"location","msgid":"New World Computing","msgstr":"Нью Ворлд Комп’ютінґ"}
+{"msgctxt":"location","msgid":"Nighon Tunnels","msgstr":"Тунелі Ніґона"}
+{"msgctxt":"location","msgid":"NWC","msgstr":"NWC"}
+{"msgctxt":"location","msgid":"Ogre Fortress","msgstr":"Фортеця огрів"}
+{"msgctxt":"location","msgid":"Old Loeb's Cave","msgstr":"Печера Старого Лоеба"}
+{"msgctxt":"location","msgid":"Oracle of Enroth","msgstr":"Оракул Енроту"}
+{"msgctxt":"location","msgid":"Paradise Valley","msgstr":"Райська долина"}
+{"msgctxt":"location","msgid":"Passage Under Regna","msgstr":"Прохід під Регною"}
+{"msgctxt":"location","msgid":"pending","msgstr":"очікується"}
+{"msgctxt":"location","msgid":"Pirate Outpost","msgstr":"Піратська застава"}
+{"msgctxt":"location","msgid":"Pirate Stronghold","msgstr":"Піратська твердиня"}
+{"msgctxt":"location","msgid":"Plane Between Planes","msgstr":"План Між Планами"}
+{"msgctxt":"location","msgid":"Plane of Air","msgstr":"План Повітря"}
+{"msgctxt":"location","msgid":"Plane of Earth","msgstr":"План Землі"}
+{"msgctxt":"location","msgid":"Plane of Fire","msgstr":"План Вогню"}
+{"msgctxt":"location","msgid":"Plane of Water","msgstr":"План Води"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Air","msgstr":"В’язниця Володаря Повітря"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Earth","msgstr":"В’язниця Володаря Землі"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Fire","msgstr":"В’язниця Володаря Вогню"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Water","msgstr":"В’язниця Володаря Води"}
+{"msgctxt":"location","msgid":"Ravage Roaming","msgstr":"Мандрівна пустка"}
+{"msgctxt":"location","msgid":"Ravenshore","msgstr":"Вороняче Узбережжя"}
+{"msgctxt":"location","msgid":"Regna","msgstr":"Регна"}
+{"msgctxt":"location","msgid":"Shadow Guild","msgstr":"Гільдія Тіней"}
+{"msgctxt":"location","msgid":"Shadow Guild Hideout","msgstr":"Сховок Гільдії Тіней"}
+{"msgctxt":"location","msgid":"Shadowspire","msgstr":"Тіньовий Шпиль"}
+{"msgctxt":"location","msgid":"Shoals","msgstr":"Мілини"}
+{"msgctxt":"location","msgid":"Silver Cove","msgstr":"Срібна Бухта"}
+{"msgctxt":"location","msgid":"Silver Helm Outpost","msgstr":"Застава Срібного Шолома"}
+{"msgctxt":"location","msgid":"Silver Helm Stronghold","msgstr":"Твердиня Срібного Шолома"}
+{"msgctxt":"location","msgid":"Small Sub Pen","msgstr":"Мале укриття для субмарин"}
+{"msgctxt":"location","msgid":"Smuggler's Cove","msgstr":"Бухта контрабандистів"}
+{"msgctxt":"location","msgid":"Snergle's Caverns","msgstr":"Печери Снерґла"}
+{"msgctxt":"location","msgid":"Snergle's Iron Mines","msgstr":"Залізні копальні Снерґла"}
+{"msgctxt":"location","msgid":"Stone City","msgstr":"Кам’яне Місто"}
+{"msgctxt":"location","msgid":"Superior Temple of Baa","msgstr":"Вищий храм Баа"}
+{"msgctxt":"location","msgid":"Supreme Temple of Baa","msgstr":"Верховний Храм Баа"}
+{"msgctxt":"location","msgid":"Sweet Water","msgstr":"Солодка Вода"}
+{"msgctxt":"location","msgid":"Tatalia","msgstr":"Таталія"}
+{"msgctxt":"location","msgid":"Temple of Baa","msgstr":"Храм Баа"}
+{"msgctxt":"location","msgid":"Temple of the Dark","msgstr":"Храм темряви"}
+{"msgctxt":"location","msgid":"Temple of the Fist","msgstr":"Храм Кулака"}
+{"msgctxt":"location","msgid":"Temple of the Light","msgstr":"Храм Світла"}
+{"msgctxt":"location","msgid":"Temple of the Moon","msgstr":"Храм Місяця"}
+{"msgctxt":"location","msgid":"Temple of the Snake","msgstr":"Храм Змії"}
+{"msgctxt":"location","msgid":"Temple of the Sun","msgstr":"Храм сонця"}
+{"msgctxt":"location","msgid":"Temple of Tsantsa","msgstr":"Храм Цанци"}
+{"msgctxt":"location","msgid":"The Arena","msgstr":"Арена"}
+{"msgctxt":"location","msgid":"The Bandit Caves","msgstr":"Бандитські печери"}
+{"msgctxt":"location","msgid":"The Barrow Downs","msgstr":"Курганні пагорби"}
+{"msgctxt":"location","msgid":"The Bracada Desert","msgstr":"Пустеля Бракада"}
+{"msgctxt":"location","msgid":"The Breach","msgstr":"Розлом"}
+{"msgctxt":"location","msgid":"The Breeding Zone","msgstr":"Зона розмноження"}
+{"msgctxt":"location","msgid":"The Crypt of Korbu","msgstr":"Склеп Корбу"}
+{"msgctxt":"location","msgid":"The Dragon Caves","msgstr":"Печери драконів"}
+{"msgctxt":"location","msgid":"The Dragon's Lair","msgstr":"Лігво дракона"}
+{"msgctxt":"location","msgid":"The Erathian Sewers","msgstr":"Ератійська каналізація"}
+{"msgctxt":"location","msgid":"The Hall of the Pit","msgstr":"Зала Провалля"}
+{"msgctxt":"location","msgid":"The Hall under the Hill","msgstr":"Зала під пагорбом"}
+{"msgctxt":"location","msgid":"The Haunted Mansion","msgstr":"Маєток із привидами"}
+{"msgctxt":"location","msgid":"The Hidden Tomb","msgstr":"Прихована гробниця"}
+{"msgctxt":"location","msgid":"The Hive","msgstr":"Вулик"}
+{"msgctxt":"location","msgid":"The Land of the Giants","msgstr":"Земля велетнів"}
+{"msgctxt":"location","msgid":"The Lincoln","msgstr":"Лінкольн"}
+{"msgctxt":"location","msgid":"The Maze","msgstr":"Лабіринт"}
+{"msgctxt":"location","msgid":"The Mercenary Guild ","msgstr":"Гільдія Найманців "}
+{"msgctxt":"location","msgid":"The Monolith","msgstr":"Моноліт"}
+{"msgctxt":"location","msgid":"The Pit","msgstr":"Провалля"}
+{"msgctxt":"location","msgid":"The Red Dwarf Mines","msgstr":"Копальні червоних дворфів"}
+{"msgctxt":"location","msgid":"The School of Sorcery","msgstr":"Школа Чарівництва"}
+{"msgctxt":"location","msgid":"The Small House","msgstr":"Маленький будинок"}
+{"msgctxt":"location","msgid":"The Strange Temple","msgstr":"Дивний храм"}
+{"msgctxt":"location","msgid":"The Temple of Baa","msgstr":"Храм Баа"}
+{"msgctxt":"location","msgid":"The Temple of the Moon","msgstr":"Храм Місяця"}
+{"msgctxt":"location","msgid":"The Tidewater Caverns","msgstr":"Печери Припливних Вод"}
+{"msgctxt":"location","msgid":"The Titans' Stronghold","msgstr":"Твердиня титанів"}
+{"msgctxt":"location","msgid":"The Tularean Caves","msgstr":"Тулареанські печери"}
+{"msgctxt":"location","msgid":"The Tularean Forest","msgstr":"Тулареанський ліс"}
+{"msgctxt":"location","msgid":"The Walls of Mist","msgstr":"Стіни туману"}
+{"msgctxt":"location","msgid":"The Wine Cellar","msgstr":"Винний льох"}
+{"msgctxt":"location","msgid":"Thunderfist Mountain","msgstr":"Гора Громовий Кулак"}
+{"msgctxt":"location","msgid":"Tomb of Ethric the Mad","msgstr":"Гробниця Етріка Божевільного"}
+{"msgctxt":"location","msgid":"Tomb of Lord Brinne","msgstr":"Гробниця лорда Брінна"}
+{"msgctxt":"location","msgid":"Tomb of VARN","msgstr":"Гробниця VARN"}
+{"msgctxt":"location","msgid":"Troll Tomb","msgstr":"Гробниця Троля"}
+{"msgctxt":"location","msgid":"Tunnels to Eeofol","msgstr":"Тунелі до Еофолу"}
+{"msgctxt":"location","msgid":"Tutorial","msgstr":"Навчання"}
+{"msgctxt":"location","msgid":"Uplifted Library","msgstr":"Піднесена бібліотека"}
+{"msgctxt":"location","msgid":"Vampire Crypt","msgstr":"Склеп вампірів"}
+{"msgctxt":"location","msgid":"War Camp","msgstr":"Військовий Табір"}
+{"msgctxt":"location","msgid":"Warlord's Fortress","msgstr":"Фортеця воєначальника"}
+{"msgctxt":"location","msgid":"Wasp Nest","msgstr":"Осине гніздо"}
+{"msgctxt":"location","msgid":"Watchtower 6","msgstr":"Сторожова Вежа 6"}
+{"msgctxt":"location","msgid":"White Cliff Cave","msgstr":"Печера Білої Скелі"}
+{"msgctxt":"location","msgid":"William Setag's Tower","msgstr":"Вежа Вільяма Сетаґа"}
+{"msgctxt":"location","msgid":"Wromthrax's Cave","msgstr":"Печера Вромтракса"}
+{"msgctxt":"location","msgid":"Yaardrake's Cave","msgstr":"Печера Яардрейка"}
+{"msgctxt":"location","msgid":"Zokarr's Tomb","msgstr":"Гробниця Зокарра"}
+{"msgctxt":"monsters","msgid":"Acidic Ooze","msgstr":"Кислотний слиз"}
+{"msgctxt":"monsters","msgid":"Acolyte of Baa","msgstr":"Послушник Баа"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Moon","msgstr":"Послушник Місяця"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Sun","msgstr":"Послушник сонця"}
+{"msgctxt":"monsters","msgid":"Adventurer","msgstr":"Шукач пригод"}
+{"msgctxt":"monsters","msgid":"Agar's Abomination","msgstr":"Потвора Аґара"}
+{"msgctxt":"monsters","msgid":"Agar's Monster","msgstr":"Монстр Аґара"}
+{"msgctxt":"monsters","msgid":"Agar's Pet","msgstr":"Улюбленець Агара"}
+{"msgctxt":"monsters","msgid":"Air Elemental","msgstr":"Повітряний елементаль"}
+{"msgctxt":"monsters","msgid":"Air Hydra","msgstr":"Повітряна гідра"}
+{"msgctxt":"monsters","msgid":"Air Warlock","msgstr":"Чаклун повітря"}
+{"msgctxt":"monsters","msgid":"Ancient Behemoth","msgstr":"Прадавній бегемот"}
+{"msgctxt":"monsters","msgid":"Ancient Wyvern","msgstr":"Стародавня виверна"}
+{"msgctxt":"monsters","msgid":"Angel","msgstr":"Янгол"}
+{"msgctxt":"monsters","msgid":"Angel Lord","msgstr":"Лорд-Янгол"}
+{"msgctxt":"monsters","msgid":"Animalist","msgstr":"Анімаліст"}
+{"msgctxt":"monsters","msgid":"Apprentice Mage","msgstr":"Маг-учень"}
+{"msgctxt":"monsters","msgid":"Archangel","msgstr":"Архангел"}
+{"msgctxt":"monsters","msgid":"Archer","msgstr":"Лучник"}
+{"msgctxt":"monsters","msgid":"Archmage","msgstr":"Архімаг"}
+{"msgctxt":"monsters","msgid":"Assassin","msgstr":"Асасин"}
+{"msgctxt":"monsters","msgid":"Assassin Droid","msgstr":"Дроїд-асасин"}
+{"msgctxt":"monsters","msgid":"Bandit","msgstr":"Бандит"}
+{"msgctxt":"monsters","msgid":"Barrow Wight","msgstr":"Курганний Мрець"}
+{"msgctxt":"monsters","msgid":"Basilisk","msgstr":"Василіск"}
+{"msgctxt":"monsters","msgid":"Bat","msgstr":"Кажан"}
+{"msgctxt":"monsters","msgid":"Behemoth","msgstr":"Бегемот"}
+{"msgctxt":"monsters","msgid":"Bestial Animalist","msgstr":"Звірячий анімаліст"}
+{"msgctxt":"monsters","msgid":"Bestial Lycanthrope","msgstr":"Звіроподібний лікантроп"}
+{"msgctxt":"monsters","msgid":"Bestial Shapeshifter","msgstr":"Звіроподібний перевертень"}
+{"msgctxt":"monsters","msgid":"Blaster Guy C","msgstr":"Хлопець із бластером C"}
+{"msgctxt":"monsters","msgid":"Blood Sucker","msgstr":"Кровосос"}
+{"msgctxt":"monsters","msgid":"Blood Titan","msgstr":"Кривавий титан"}
+{"msgctxt":"monsters","msgid":"Bloodstone Ooze","msgstr":"Кривавиковий слиз"}
+{"msgctxt":"monsters","msgid":"Blue Dragon","msgstr":"Синій дракон"}
+{"msgctxt":"monsters","msgid":"Bone Dragon","msgstr":"Кістяний дракон"}
+{"msgctxt":"monsters","msgid":"Boulder","msgstr":"Валун"}
+{"msgctxt":"monsters","msgid":"Bounty Hunter","msgstr":"Мисливець за головами"}
+{"msgctxt":"monsters","msgid":"Bowman","msgstr":"Лучник"}
+{"msgctxt":"monsters","msgid":"Brain Sucker","msgstr":"Мозкосос"}
+{"msgctxt":"monsters","msgid":"Brass Golem","msgstr":"Латунний голем"}
+{"msgctxt":"monsters","msgid":"Brass Gorgon","msgstr":"Латунна Горгона"}
+{"msgctxt":"monsters","msgid":"Brigand","msgstr":"Розбійник"}
+{"msgctxt":"monsters","msgid":"Bronze Golem","msgstr":"Бронзовий Голем"}
+{"msgctxt":"monsters","msgid":"Bronze Gorgon","msgstr":"Бронзова горгона"}
+{"msgctxt":"monsters","msgid":"Buccaneer","msgstr":"Буканьєр"}
+{"msgctxt":"monsters","msgid":"Burglar","msgstr":"Крадій"}
+{"msgctxt":"monsters","msgid":"Cactus","msgstr":"Кактус"}
+{"msgctxt":"monsters","msgid":"Cannibal","msgstr":"Канібал"}
+{"msgctxt":"monsters","msgid":"Captain","msgstr":"Капітан"}
+{"msgctxt":"monsters","msgid":"Cat A","msgstr":"Кіт A"}
+{"msgctxt":"monsters","msgid":"Cat B","msgstr":"Кіт B"}
+{"msgctxt":"monsters","msgid":"Cat C","msgstr":"Кіт C"}
+{"msgctxt":"monsters","msgid":"Centaur","msgstr":"Кентавр"}
+{"msgctxt":"monsters","msgid":"Centaur Warlord","msgstr":"Кентавр-воєначальник"}
+{"msgctxt":"monsters","msgid":"Centaur Warrior","msgstr":"Кентавр-воїн"}
+{"msgctxt":"monsters","msgid":"Champion of the Sword","msgstr":"Чемпіон Меча"}
+{"msgctxt":"monsters","msgid":"Chaos Guardian","msgstr":"Охоронець хаосу"}
+{"msgctxt":"monsters","msgid":"Chaos Hydra","msgstr":"Гідра хаосу"}
+{"msgctxt":"monsters","msgid":"Chaos Overlord","msgstr":"Володар хаосу"}
+{"msgctxt":"monsters","msgid":"Chaos Protector","msgstr":"Захисник хаосу"}
+{"msgctxt":"monsters","msgid":"Charger","msgstr":"Навальник"}
+{"msgctxt":"monsters","msgid":"Chicken A","msgstr":"Курка A"}
+{"msgctxt":"monsters","msgid":"Chicken B","msgstr":"Курка B"}
+{"msgctxt":"monsters","msgid":"Chicken C","msgstr":"Курка C"}
+{"msgctxt":"monsters","msgid":"Clay Elemental","msgstr":"Глиняний елементаль"}
+{"msgctxt":"monsters","msgid":"Cleric of Baa","msgstr":"Клірик Баа"}
+{"msgctxt":"monsters","msgid":"Cleric of the Moon","msgstr":"Клірик місяця"}
+{"msgctxt":"monsters","msgid":"Cleric of the Sun","msgstr":"Клірик сонця"}
+{"msgctxt":"monsters","msgid":"Cobra","msgstr":"Кобра"}
+{"msgctxt":"monsters","msgid":"Colossal Hydra","msgstr":"Колосальна гідра"}
+{"msgctxt":"monsters","msgid":"Common Rat","msgstr":"Звичайний щур"}
+{"msgctxt":"monsters","msgid":"Conscript","msgstr":"Новобранець"}
+{"msgctxt":"monsters","msgid":"Corbie","msgstr":"Ворон"}
+{"msgctxt":"monsters","msgid":"Corrosive Ooze","msgstr":"Їдкий слиз"}
+{"msgctxt":"monsters","msgid":"Corsair","msgstr":"Корсар"}
+{"msgctxt":"monsters","msgid":"Couatl","msgstr":"Коатль"}
+{"msgctxt":"monsters","msgid":"Crusader","msgstr":"Хрестоносець"}
+{"msgctxt":"monsters","msgid":"Crystal Guardian","msgstr":"Кришталевий охоронець"}
+{"msgctxt":"monsters","msgid":"Crystal Sentry","msgstr":"Кришталевий вартовий"}
+{"msgctxt":"monsters","msgid":"Crystal Walker","msgstr":"Кришталевий блукач"}
+{"msgctxt":"monsters","msgid":"Cuisinart","msgstr":"Квізінарт"}
+{"msgctxt":"monsters","msgid":"Cutpurse","msgstr":"Кишенькар"}
+{"msgctxt":"monsters","msgid":"Cyclone","msgstr":"Циклон"}
+{"msgctxt":"monsters","msgid":"Cyclops","msgstr":"Циклоп"}
+{"msgctxt":"monsters","msgid":"Cyclops Hunter","msgstr":"Циклоп-мисливець"}
+{"msgctxt":"monsters","msgid":"Cyclops Warrior","msgstr":"Циклоп-воїн"}
+{"msgctxt":"monsters","msgid":"Dancing Light","msgstr":"Танок світла"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Berserker","msgstr":"Темний дворф-берсерк"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Grunt","msgstr":"Темний дворф-піхотинець"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Pounder","msgstr":"Темний дворф-громила"}
+{"msgctxt":"monsters","msgid":"Dark Elf Peasant","msgstr":"Темний ельф-селянин"}
+{"msgctxt":"monsters","msgid":"Dark Elven Crusader","msgstr":"Темноельфійський хрестоносець"}
+{"msgctxt":"monsters","msgid":"Dark Elven Defender","msgstr":"Темноельфійський захисник"}
+{"msgctxt":"monsters","msgid":"Dark Elven Warrior","msgstr":"Воїн темних ельфів"}
+{"msgctxt":"monsters","msgid":"Dark Path Journeyman","msgstr":"Підмайстер Шляху Темряви"}
+{"msgctxt":"monsters","msgid":"Death Knight","msgstr":"Лицар Смерті"}
+{"msgctxt":"monsters","msgid":"Defender of VARN","msgstr":"Захисник ВАРН"}
+{"msgctxt":"monsters","msgid":"Demolisher","msgstr":"Руйнівник"}
+{"msgctxt":"monsters","msgid":"Demon Queen","msgstr":"Королева демонів"}
+{"msgctxt":"monsters","msgid":"Devil Captain","msgstr":"Капітан дияволів"}
+{"msgctxt":"monsters","msgid":"Devil King","msgstr":"Король дияволів"}
+{"msgctxt":"monsters","msgid":"Devil Master","msgstr":"Диявол-Майстер"}
+{"msgctxt":"monsters","msgid":"Devil Spawn","msgstr":"Диявольське поріддя"}
+{"msgctxt":"monsters","msgid":"Devil Warrior","msgstr":"Диявольський воїн"}
+{"msgctxt":"monsters","msgid":"Devil Worker","msgstr":"Диявол-Робітник"}
+{"msgctxt":"monsters","msgid":"Diamond Gargoyle","msgstr":"Діамантова гаргулья"}
+{"msgctxt":"monsters","msgid":"Dire Wolf","msgstr":"Лютий вовк"}
+{"msgctxt":"monsters","msgid":"Dire Wolf Yearling","msgstr":"Молодий лютий вовк"}
+{"msgctxt":"monsters","msgid":"Djinn","msgstr":"Джин"}
+{"msgctxt":"monsters","msgid":"Djinni","msgstr":"Джин"}
+{"msgctxt":"monsters","msgid":"Dog A","msgstr":"Пес A"}
+{"msgctxt":"monsters","msgid":"Dog B","msgstr":"Пес B"}
+{"msgctxt":"monsters","msgid":"Dog C","msgstr":"Пес C"}
+{"msgctxt":"monsters","msgid":"Doom Knight","msgstr":"Лицар приреченості"}
+{"msgctxt":"monsters","msgid":"Dragon","msgstr":"Дракон"}
+{"msgctxt":"monsters","msgid":"Dragon Flightleader","msgstr":"Ватажок драконячої зграї"}
+{"msgctxt":"monsters","msgid":"Dragon Hunter","msgstr":"Мисливець на драконів"}
+{"msgctxt":"monsters","msgid":"Dragon Shark","msgstr":"Драконяча Акула"}
+{"msgctxt":"monsters","msgid":"Dragon Turtle","msgstr":"Драконова черепаха"}
+{"msgctxt":"monsters","msgid":"Dragonette","msgstr":"Дракончик"}
+{"msgctxt":"monsters","msgid":"Dragonfly","msgstr":"Бабка"}
+{"msgctxt":"monsters","msgid":"Dragonslayer","msgstr":"Драконоборець"}
+{"msgctxt":"monsters","msgid":"Druid","msgstr":"Друїд"}
+{"msgctxt":"monsters","msgid":"Dust Devil","msgstr":"Пиловий диявол"}
+{"msgctxt":"monsters","msgid":"Dwarf","msgstr":"Дворф"}
+{"msgctxt":"monsters","msgid":"Dwarf Lord","msgstr":"Лорд-Дворф"}
+{"msgctxt":"monsters","msgid":"Dwarf Warrior","msgstr":"Дворф-воїн"}
+{"msgctxt":"monsters","msgid":"Dwarven Commander","msgstr":"Дворфійський командир"}
+{"msgctxt":"monsters","msgid":"Dwarven Lieutenant","msgstr":"Дворфійський лейтенант"}
+{"msgctxt":"monsters","msgid":"Dwarven Soldier","msgstr":"Дворф-солдат"}
+{"msgctxt":"monsters","msgid":"Earth Elemental","msgstr":"Елементаль землі"}
+{"msgctxt":"monsters","msgid":"Earth Spirit","msgstr":"Дух Землі"}
+{"msgctxt":"monsters","msgid":"Efreet","msgstr":"Іфрит"}
+{"msgctxt":"monsters","msgid":"Efreeti Knight","msgstr":"Іфрит-лицар"}
+{"msgctxt":"monsters","msgid":"Efreeti Lord","msgstr":"Повелитель Іфритів"}
+{"msgctxt":"monsters","msgid":"Efreeti Soldier","msgstr":"Солдат-іфрит"}
+{"msgctxt":"monsters","msgid":"Elder Basilisk","msgstr":"Старий василіск"}
+{"msgctxt":"monsters","msgid":"Elder Tortoise","msgstr":"Стара черепаха"}
+{"msgctxt":"monsters","msgid":"Elder Vampire","msgstr":"Стародавній вампір"}
+{"msgctxt":"monsters","msgid":"Elite Archer","msgstr":"Елітний Лучник"}
+{"msgctxt":"monsters","msgid":"Elven Archer","msgstr":"Ельфійський Лучник"}
+{"msgctxt":"monsters","msgid":"Elven Defender","msgstr":"Ельфійський захисник"}
+{"msgctxt":"monsters","msgid":"Elven Lancer","msgstr":"Ельфійський Списоносець"}
+{"msgctxt":"monsters","msgid":"Elven Ranger","msgstr":"Ельфійський Слідопит"}
+{"msgctxt":"monsters","msgid":"Elven Scout","msgstr":"Ельфійський розвідник"}
+{"msgctxt":"monsters","msgid":"Elven Warrior","msgstr":"Ельфійський воїн"}
+{"msgctxt":"monsters","msgid":"Ember Gog","msgstr":"Жаристий Ґоґ"}
+{"msgctxt":"monsters","msgid":"Emerald Dragon","msgstr":"Смарагдовий дракон"}
+{"msgctxt":"monsters","msgid":"Emerald Ooze","msgstr":"Смарагдовий Слиз"}
+{"msgctxt":"monsters","msgid":"Empress Medusa","msgstr":"Медуза-імператриця"}
+{"msgctxt":"monsters","msgid":"Energy Drake","msgstr":"Дрейк Енергії"}
+{"msgctxt":"monsters","msgid":"Enforcer Unit","msgstr":"Каральний підрозділ"}
+{"msgctxt":"monsters","msgid":"Ether Champion","msgstr":"Ефірний чемпіон"}
+{"msgctxt":"monsters","msgid":"Ether Knight","msgstr":"Лицар Ефіру"}
+{"msgctxt":"monsters","msgid":"Ether Lord","msgstr":"Лорд Ефіру"}
+{"msgctxt":"monsters","msgid":"Evil Eye","msgstr":"Лихе Око"}
+{"msgctxt":"monsters","msgid":"Evil Spirit","msgstr":"Злий дух"}
+{"msgctxt":"monsters","msgid":"Expert Swordsman","msgstr":"Досвідчений мечник"}
+{"msgctxt":"monsters","msgid":"Fanatic of Baa","msgstr":"Фанатик Баа"}
+{"msgctxt":"monsters","msgid":"Fear","msgstr":"Страх"}
+{"msgctxt":"monsters","msgid":"Fighter","msgstr":"Боєць"}
+{"msgctxt":"monsters","msgid":"Fire Archer","msgstr":"Вогняний лучник"}
+{"msgctxt":"monsters","msgid":"Fire Beast","msgstr":"Вогняний звір"}
+{"msgctxt":"monsters","msgid":"Fire Bird","msgstr":"Вогняний птах"}
+{"msgctxt":"monsters","msgid":"Fire Dragonfly","msgstr":"Вогняна бабка"}
+{"msgctxt":"monsters","msgid":"Fire Elemental","msgstr":"Вогняний елементаль"}
+{"msgctxt":"monsters","msgid":"Fire Gog","msgstr":"Вогняний Ґоґ"}
+{"msgctxt":"monsters","msgid":"Fire Hydra","msgstr":"Вогняна Гідра"}
+{"msgctxt":"monsters","msgid":"Fire Lizard","msgstr":"Вогняна ящірка"}
+{"msgctxt":"monsters","msgid":"Fire Newt","msgstr":"Вогняний тритон"}
+{"msgctxt":"monsters","msgid":"Fire Rat","msgstr":"Вогняний Щур"}
+{"msgctxt":"monsters","msgid":"Fire Spirit","msgstr":"Дух вогню"}
+{"msgctxt":"monsters","msgid":"Fire Warlock","msgstr":"Чаклун Вогню"}
+{"msgctxt":"monsters","msgid":"Fish","msgstr":"Риба"}
+{"msgctxt":"monsters","msgid":"Flame Drake","msgstr":"Вогняний дрейк"}
+{"msgctxt":"monsters","msgid":"Floating Eye","msgstr":"Летюче Око"}
+{"msgctxt":"monsters","msgid":"Flying Eye","msgstr":"Летюче око"}
+{"msgctxt":"monsters","msgid":"Follower of Baa","msgstr":"Послідовник Баа"}
+{"msgctxt":"monsters","msgid":"Frost Drake","msgstr":"Крижаний дрейк"}
+{"msgctxt":"monsters","msgid":"Gazer","msgstr":"Споглядач"}
+{"msgctxt":"monsters","msgid":"Genie","msgstr":"Джин"}
+{"msgctxt":"monsters","msgid":"Ghast","msgstr":"Упир"}
+{"msgctxt":"monsters","msgid":"Ghost","msgstr":"Привид"}
+{"msgctxt":"monsters","msgid":"Ghoul ","msgstr":"Гуль "}
+{"msgctxt":"monsters","msgid":"Giant Bat","msgstr":"Гігантський кажан"}
+{"msgctxt":"monsters","msgid":"Giant Rat","msgstr":"Гігантський щур"}
+{"msgctxt":"monsters","msgid":"Giant Shark","msgstr":"Гігантська акула"}
+{"msgctxt":"monsters","msgid":"Giant Spider","msgstr":"Гігантський Павук"}
+{"msgctxt":"monsters","msgid":"Giant Wyrm","msgstr":"Гігантський Змій"}
+{"msgctxt":"monsters","msgid":"Goblin","msgstr":"Гоблін"}
+{"msgctxt":"monsters","msgid":"Goblin King","msgstr":"Король гоблінів"}
+{"msgctxt":"monsters","msgid":"Goblin Lord","msgstr":"Володар гоблінів"}
+{"msgctxt":"monsters","msgid":"Goblin Shaman","msgstr":"Гоблін-шаман"}
+{"msgctxt":"monsters","msgid":"Gog","msgstr":"Ґоґ"}
+{"msgctxt":"monsters","msgid":"Gogling","msgstr":"Ґоґеня"}
+{"msgctxt":"monsters","msgid":"Gold Dragon","msgstr":"Золотий дракон"}
+{"msgctxt":"monsters","msgid":"Gold Golem","msgstr":"Золотий голем"}
+{"msgctxt":"monsters","msgid":"Gorgon","msgstr":"Горгона"}
+{"msgctxt":"monsters","msgid":"Grand Druid","msgstr":"Верховний друїд"}
+{"msgctxt":"monsters","msgid":"Grand Phoenix","msgstr":"Великий фенікс"}
+{"msgctxt":"monsters","msgid":"Great Druid","msgstr":"Великий друїд"}
+{"msgctxt":"monsters","msgid":"Great Wyrm","msgstr":"Великий Змій"}
+{"msgctxt":"monsters","msgid":"Greater Air Elemental","msgstr":"Великий повітряний елементаль"}
+{"msgctxt":"monsters","msgid":"Greater Earth Elemental","msgstr":"Великий елементаль землі"}
+{"msgctxt":"monsters","msgid":"Greater Fire Elemental","msgstr":"Великий вогняний елементаль"}
+{"msgctxt":"monsters","msgid":"Greater Lich","msgstr":"Старший Ліч"}
+{"msgctxt":"monsters","msgid":"Greater Light Elemental","msgstr":"Великий елементаль світла"}
+{"msgctxt":"monsters","msgid":"Greater Roc","msgstr":"Великий рух"}
+{"msgctxt":"monsters","msgid":"Greater Vampire","msgstr":"Вищий вампір"}
+{"msgctxt":"monsters","msgid":"Greater Water Elemental","msgstr":"Великий елементаль води"}
+{"msgctxt":"monsters","msgid":"Greater Wererat","msgstr":"Вищий щуролюд"}
+{"msgctxt":"monsters","msgid":"Greater Werewolf","msgstr":"Старший перевертень"}
+{"msgctxt":"monsters","msgid":"Green Dragon","msgstr":"Зелений Дракон"}
+{"msgctxt":"monsters","msgid":"Griffin","msgstr":"Грифон"}
+{"msgctxt":"monsters","msgid":"Guard","msgstr":"Вартовий"}
+{"msgctxt":"monsters","msgid":"Guardian of Flame","msgstr":"Охоронець полум'я"}
+{"msgctxt":"monsters","msgid":"Guardian of VARN","msgstr":"Охоронець ВАРН"}
+{"msgctxt":"monsters","msgid":"Harpy","msgstr":"Гарпія"}
+{"msgctxt":"monsters","msgid":"Harpy Hag","msgstr":"Гарпія-відьма"}
+{"msgctxt":"monsters","msgid":"Harpy Queen","msgstr":"Королева гарпій"}
+{"msgctxt":"monsters","msgid":"Harpy Witch","msgstr":"Гарпія-відьма"}
+{"msgctxt":"monsters","msgid":"Hatchling","msgstr":"Маля"}
+{"msgctxt":"monsters","msgid":"Head Hunter","msgstr":"Мисливець за головами"}
+{"msgctxt":"monsters","msgid":"Hobgoblin","msgstr":"Гобґоблін"}
+{"msgctxt":"monsters","msgid":"Horned Wyvern","msgstr":"Рогата виверна"}
+{"msgctxt":"monsters","msgid":"Huge Spider","msgstr":"Величезний павук"}
+{"msgctxt":"monsters","msgid":"Human Peasant","msgstr":"Селянин-людина"}
+{"msgctxt":"monsters","msgid":"Hunting Griffin","msgstr":"Грифон-мисливець"}
+{"msgctxt":"monsters","msgid":"Hydra","msgstr":"Гідра"}
+{"msgctxt":"monsters","msgid":"Inferno Bat","msgstr":"Кажан із Пекла"}
+{"msgctxt":"monsters","msgid":"Initiate","msgstr":"Посвячений"}
+{"msgctxt":"monsters","msgid":"Initiate Monk","msgstr":"Монах-посвячений"}
+{"msgctxt":"monsters","msgid":"Initiate of the Sword","msgstr":"Посвячений Меча"}
+{"msgctxt":"monsters","msgid":"Iron Gorgon","msgstr":"Залізна горгона"}
+{"msgctxt":"monsters","msgid":"Journeyman Mage","msgstr":"Маг-підмайстер"}
+{"msgctxt":"monsters","msgid":"Juggernaut","msgstr":"Нищівник"}
+{"msgctxt":"monsters","msgid":"King Cobra","msgstr":"Королівська Кобра"}
+{"msgctxt":"monsters","msgid":"Large Rat","msgstr":"Великий щур"}
+{"msgctxt":"monsters","msgid":"Lesser Air Elemental","msgstr":"Малий повітряний елементаль"}
+{"msgctxt":"monsters","msgid":"Lesser Earth Elemental","msgstr":"Малий елементаль землі"}
+{"msgctxt":"monsters","msgid":"Lesser Fire Elemental","msgstr":"Малий вогняний елементаль"}
+{"msgctxt":"monsters","msgid":"Lesser Light Elemental","msgstr":"Малий елементаль світла"}
+{"msgctxt":"monsters","msgid":"Lesser Water Elemental","msgstr":"Малий елементаль води"}
+{"msgctxt":"monsters","msgid":"Lich","msgstr":"Ліч"}
+{"msgctxt":"monsters","msgid":"Lich King","msgstr":"Король Ліч"}
+{"msgctxt":"monsters","msgid":"Lieutenant","msgstr":"Лейтенант"}
+{"msgctxt":"monsters","msgid":"Light Elemental","msgstr":"Елементаль світла"}
+{"msgctxt":"monsters","msgid":"Lightning Lizard","msgstr":"Блискавичний ящір"}
+{"msgctxt":"monsters","msgid":"Lightning Rat","msgstr":"Блискавичний пацюк"}
+{"msgctxt":"monsters","msgid":"Lizard Archer","msgstr":"Ящір-лучник"}
+{"msgctxt":"monsters","msgid":"Lizard Man","msgstr":"Людина-ящір"}
+{"msgctxt":"monsters","msgid":"Lizard Wizard","msgstr":"Ящір-чарівник"}
+{"msgctxt":"monsters","msgid":"Lizardman Captain","msgstr":"Ящіролюд-капітан"}
+{"msgctxt":"monsters","msgid":"Lizardman Farmer","msgstr":"Ящеролюд-фермер"}
+{"msgctxt":"monsters","msgid":"Lizardman Peasant","msgstr":"Ящіролюд-селянин"}
+{"msgctxt":"monsters","msgid":"Lizardman Sergeant","msgstr":"Ящіролюд-сержант"}
+{"msgctxt":"monsters","msgid":"Lizardman Soldier","msgstr":"Ящіролюд-солдат"}
+{"msgctxt":"monsters","msgid":"Lizardman Villager","msgstr":"Ящіролюд-поселянин"}
+{"msgctxt":"monsters","msgid":"Lycanthrope","msgstr":"Лікантроп"}
+{"msgctxt":"monsters","msgid":"Maddening Eye","msgstr":"Око божевілля"}
+{"msgctxt":"monsters","msgid":"Mage","msgstr":"Маг"}
+{"msgctxt":"monsters","msgid":"Magician","msgstr":"Маг"}
+{"msgctxt":"monsters","msgid":"Magog","msgstr":"Маґоґ"}
+{"msgctxt":"monsters","msgid":"Magyar","msgstr":"Мадяр"}
+{"msgctxt":"monsters","msgid":"Magyar Matron","msgstr":"Мадярська матрона"}
+{"msgctxt":"monsters","msgid":"Magyar Soldier","msgstr":"Мадярський солдат"}
+{"msgctxt":"monsters","msgid":"Manticore ","msgstr":"Мантикора "}
+{"msgctxt":"monsters","msgid":"Marble Gargoyle","msgstr":"Мармурова гаргулья"}
+{"msgctxt":"monsters","msgid":"Master","msgstr":"Майстер"}
+{"msgctxt":"monsters","msgid":"Master Archer","msgstr":"Майстер-лучник"}
+{"msgctxt":"monsters","msgid":"Master Monk","msgstr":"Монах-майстер"}
+{"msgctxt":"monsters","msgid":"Master Necromancer","msgstr":"Майстер-некромант"}
+{"msgctxt":"monsters","msgid":"Master of the Sword","msgstr":"Майстер меча"}
+{"msgctxt":"monsters","msgid":"Master Swordsman","msgstr":"Майстер-мечник"}
+{"msgctxt":"monsters","msgid":"Master Thief","msgstr":"Майстер-Злодій"}
+{"msgctxt":"monsters","msgid":"Medusa","msgstr":"Медуза"}
+{"msgctxt":"monsters","msgid":"Medusa Enchantress","msgstr":"Медуза-чарівниця"}
+{"msgctxt":"monsters","msgid":"Mega-Dragon","msgstr":"Мега-дракон"}
+{"msgctxt":"monsters","msgid":"Mercenary","msgstr":"Найманець"}
+{"msgctxt":"monsters","msgid":"Mercenary Captain","msgstr":"Капітан найманців"}
+{"msgctxt":"monsters","msgid":"Minicore","msgstr":"Мінікор"}
+{"msgctxt":"monsters","msgid":"Minion Vampire","msgstr":"Вампір-прислужник"}
+{"msgctxt":"monsters","msgid":"Minotaur","msgstr":"Мінотавр"}
+{"msgctxt":"monsters","msgid":"Minotaur Battleleader","msgstr":"Бойовий ватажок мінотаврів"}
+{"msgctxt":"monsters","msgid":"Minotaur Guard","msgstr":"Мінотавр-вартовий"}
+{"msgctxt":"monsters","msgid":"Minotaur Headsman","msgstr":"Мінотавр-кат"}
+{"msgctxt":"monsters","msgid":"Minotaur King","msgstr":"Мінотавр-король"}
+{"msgctxt":"monsters","msgid":"Minotaur Lord","msgstr":"Мінотавр-лорд"}
+{"msgctxt":"monsters","msgid":"Minotaur Mage","msgstr":"Мінотавр-маг"}
+{"msgctxt":"monsters","msgid":"Minotaur Peasant","msgstr":"Мінотавр-селянин"}
+{"msgctxt":"monsters","msgid":"Minotaur Warrior","msgstr":"Мінотавр-воїн"}
+{"msgctxt":"monsters","msgid":"Mist Hawk","msgstr":"Яструб імли"}
+{"msgctxt":"monsters","msgid":"Monk","msgstr":"Монах"}
+{"msgctxt":"monsters","msgid":"Mountain Troll","msgstr":"Гірський троль"}
+{"msgctxt":"monsters","msgid":"Mystic of Baa","msgstr":"Містик Баа"}
+{"msgctxt":"monsters","msgid":"Naga ","msgstr":"Нага "}
+{"msgctxt":"monsters","msgid":"Naga Queen","msgstr":"Королева Нага"}
+{"msgctxt":"monsters","msgid":"Naga Warrior","msgstr":"Нага Воїн"}
+{"msgctxt":"monsters","msgid":"Necromancer","msgstr":"Некромант"}
+{"msgctxt":"monsters","msgid":"Nightmare","msgstr":"Нічний жах"}
+{"msgctxt":"monsters","msgid":"Noble Titan","msgstr":"Титан-вельможа"}
+{"msgctxt":"monsters","msgid":"Novice Monk","msgstr":"Монах-початківець"}
+{"msgctxt":"monsters","msgid":"Obsidian Gargoyle","msgstr":"Обсидіанова гаргулья"}
+{"msgctxt":"monsters","msgid":"Ogre","msgstr":"Огр"}
+{"msgctxt":"monsters","msgid":"Ogre Brawler","msgstr":"Огр-Забіяка"}
+{"msgctxt":"monsters","msgid":"Ogre Chieftain","msgstr":"Вождь огрів"}
+{"msgctxt":"monsters","msgid":"Ogre Mage ","msgstr":"Маг-Огр "}
+{"msgctxt":"monsters","msgid":"Ogre Mage Apprentice","msgstr":"Учень мага-огра"}
+{"msgctxt":"monsters","msgid":"Ogre Magi","msgstr":"Огр-маг"}
+{"msgctxt":"monsters","msgid":"Ogre Peasant","msgstr":"Огр-Селянин"}
+{"msgctxt":"monsters","msgid":"Ogre Raider","msgstr":"Огр-набігник"}
+{"msgctxt":"monsters","msgid":"Ogre Warleader","msgstr":"Воєначальник огрів"}
+{"msgctxt":"monsters","msgid":"Ogre Warrior","msgstr":"Огр-Воїн"}
+{"msgctxt":"monsters","msgid":"Ooze","msgstr":"Слиз"}
+{"msgctxt":"monsters","msgid":"Pack Leader","msgstr":"Ватажок зграї"}
+{"msgctxt":"monsters","msgid":"Patrol Unit","msgstr":"Патрульна одиниця"}
+{"msgctxt":"monsters","msgid":"Peasant","msgstr":"Селянин"}
+{"msgctxt":"monsters","msgid":"Phoenix","msgstr":"Фенікс"}
+{"msgctxt":"monsters","msgid":"Piranha Shark","msgstr":"Акула-піранья"}
+{"msgctxt":"monsters","msgid":"Pirate","msgstr":"Пірат"}
+{"msgctxt":"monsters","msgid":"Pirate Magi","msgstr":"Пірати-маги"}
+{"msgctxt":"monsters","msgid":"Pirate Seer","msgstr":"Пірат-віщун"}
+{"msgctxt":"monsters","msgid":"Pirate Wizard","msgstr":"Пірат-чарівник"}
+{"msgctxt":"monsters","msgid":"Plane Guardian","msgstr":"Охоронець плану"}
+{"msgctxt":"monsters","msgid":"Plane Overlord","msgstr":"Володар плану"}
+{"msgctxt":"monsters","msgid":"Plane Protector","msgstr":"Захисник плану буття"}
+{"msgctxt":"monsters","msgid":"Power Lich","msgstr":"Могутній Ліч"}
+{"msgctxt":"monsters","msgid":"Priest of Baa","msgstr":"Жрець Баа"}
+{"msgctxt":"monsters","msgid":"Priest of the Moon","msgstr":"Жрець місяця"}
+{"msgctxt":"monsters","msgid":"Priest of the Sun","msgstr":"Жрець сонця"}
+{"msgctxt":"monsters","msgid":"Queen Cobra","msgstr":"Кобра-королева"}
+{"msgctxt":"monsters","msgid":"Queen Dragonfly","msgstr":"Бабка-королева"}
+{"msgctxt":"monsters","msgid":"Queen Medusa","msgstr":"Королева Медуза"}
+{"msgctxt":"monsters","msgid":"Queen of the Dead","msgstr":"Королева мертвих"}
+{"msgctxt":"monsters","msgid":"Raider","msgstr":"Набігник"}
+{"msgctxt":"monsters","msgid":"Rat A","msgstr":"Щур A"}
+{"msgctxt":"monsters","msgid":"Rat B","msgstr":"Щур B"}
+{"msgctxt":"monsters","msgid":"Rat C","msgstr":"Щур C"}
+{"msgctxt":"monsters","msgid":"Ratman","msgstr":"Щуролюд"}
+{"msgctxt":"monsters","msgid":"Raven","msgstr":"Крук"}
+{"msgctxt":"monsters","msgid":"Reactor","msgstr":"Реактор"}
+{"msgctxt":"monsters","msgid":"Red Dragon","msgstr":"Червоний Дракон"}
+{"msgctxt":"monsters","msgid":"Regnan Arbalester","msgstr":"Регнанський важкий арбалетник"}
+{"msgctxt":"monsters","msgid":"Regnan Archmage","msgstr":"Регнанський архімаг"}
+{"msgctxt":"monsters","msgid":"Regnan Bandit","msgstr":"Регнанський бандит"}
+{"msgctxt":"monsters","msgid":"Regnan Battlemage","msgstr":"Регнанський бойовий маг"}
+{"msgctxt":"monsters","msgid":"Regnan Brigadier","msgstr":"Регнанський бригадир"}
+{"msgctxt":"monsters","msgid":"Regnan Crossbowman","msgstr":"Регнанський арбалетник"}
+{"msgctxt":"monsters","msgid":"Regnan Lieutenant","msgstr":"Регнанський лейтенант"}
+{"msgctxt":"monsters","msgid":"Regnan Pirate","msgstr":"Регнанський пірат"}
+{"msgctxt":"monsters","msgid":"Regnan Sorcerer","msgstr":"Регнанський чаклун"}
+{"msgctxt":"monsters","msgid":"Revenant","msgstr":"Ревенант"}
+{"msgctxt":"monsters","msgid":"River Troll","msgstr":"Річковий троль"}
+{"msgctxt":"monsters","msgid":"Robber","msgstr":"Грабіжник"}
+{"msgctxt":"monsters","msgid":"Robert the Wise","msgstr":"Роберт Мудрий"}
+{"msgctxt":"monsters","msgid":"Roc","msgstr":"Рух"}
+{"msgctxt":"monsters","msgid":"Rock Beast","msgstr":"Кам’яний звір"}
+{"msgctxt":"monsters","msgid":"Rogue","msgstr":"Пройдисвіт"}
+{"msgctxt":"monsters","msgid":"Rook","msgstr":"Тура"}
+{"msgctxt":"monsters","msgid":"Rotted Corpse","msgstr":"Гнилий труп"}
+{"msgctxt":"monsters","msgid":"Royal Griffin","msgstr":"Королівський грифон"}
+{"msgctxt":"monsters","msgid":"Ruby Dragon","msgstr":"Рубіновий дракон"}
+{"msgctxt":"monsters","msgid":"Ruffian","msgstr":"Головоріз"}
+{"msgctxt":"monsters","msgid":"Salamander ","msgstr":"Саламандра "}
+{"msgctxt":"monsters","msgid":"Sapphire Dragon","msgstr":"Сапфіровий дракон"}
+{"msgctxt":"monsters","msgid":"Sapphire Ooze","msgstr":"Сапфіровий слиз"}
+{"msgctxt":"monsters","msgid":"Scorpicore","msgstr":"Скорпікора"}
+{"msgctxt":"monsters","msgid":"Sea Monster","msgstr":"Морське чудовисько"}
+{"msgctxt":"monsters","msgid":"Sea Serpent","msgstr":"Морський змій"}
+{"msgctxt":"monsters","msgid":"Sea Terror","msgstr":"Морський Жах"}
+{"msgctxt":"monsters","msgid":"Seeker Droid","msgstr":"Дроїд-Шукач"}
+{"msgctxt":"monsters","msgid":"Sentinel Droid","msgstr":"Дроїд-вартовий"}
+{"msgctxt":"monsters","msgid":"Sentinel of VARN","msgstr":"Вартовий ВАРН"}
+{"msgctxt":"monsters","msgid":"Serpentman","msgstr":"Змієлюд"}
+{"msgctxt":"monsters","msgid":"Serpentman Elder","msgstr":"Змієлюд-старійшина"}
+{"msgctxt":"monsters","msgid":"Serpentman Warrior","msgstr":"Змієлюд-воїн"}
+{"msgctxt":"monsters","msgid":"Shade","msgstr":"Тінь"}
+{"msgctxt":"monsters","msgid":"Shapeshifter","msgstr":"Перевертень"}
+{"msgctxt":"monsters","msgid":"Skeletal Dragon","msgstr":"Дракон-скелет"}
+{"msgctxt":"monsters","msgid":"Skeleton","msgstr":"Скелет"}
+{"msgctxt":"monsters","msgid":"Skeleton Archer ","msgstr":"Скелет-лучник "}
+{"msgctxt":"monsters","msgid":"Skeleton Bowman","msgstr":"Скелет-лучник"}
+{"msgctxt":"monsters","msgid":"Skeleton Hunter","msgstr":"Скелет-мисливець"}
+{"msgctxt":"monsters","msgid":"Skeleton Knight","msgstr":"Скелет-лицар"}
+{"msgctxt":"monsters","msgid":"Skeleton Lord","msgstr":"Скелет-лорд"}
+{"msgctxt":"monsters","msgid":"Skeleton Warrior","msgstr":"Скелет-воїн"}
+{"msgctxt":"monsters","msgid":"Smoke Gog","msgstr":"Димний Ґоґ"}
+{"msgctxt":"monsters","msgid":"Soldier","msgstr":"Солдат"}
+{"msgctxt":"monsters","msgid":"Soldier of Fortune","msgstr":"Вояк удачі"}
+{"msgctxt":"monsters","msgid":"Sorcerer","msgstr":"Чаклун"}
+{"msgctxt":"monsters","msgid":"Soul Sucker","msgstr":"Пожирач душ"}
+{"msgctxt":"monsters","msgid":"Speaker for the Dead","msgstr":"Речник мертвих"}
+{"msgctxt":"monsters","msgid":"Specter","msgstr":"Привид"}
+{"msgctxt":"monsters","msgid":"Spider","msgstr":"Павук"}
+{"msgctxt":"monsters","msgid":"Sprite","msgstr":"Фея"}
+{"msgctxt":"monsters","msgid":"Stone Elemental","msgstr":"Елементаль каменю"}
+{"msgctxt":"monsters","msgid":"Stone Gargoyle","msgstr":"Кам'яна гаргулья"}
+{"msgctxt":"monsters","msgid":"Storm Eagle","msgstr":"Грозовий орел"}
+{"msgctxt":"monsters","msgid":"Storm Titan","msgstr":"Грозовий титан"}
+{"msgctxt":"monsters","msgid":"Supreme Titan","msgstr":"Верховний титан"}
+{"msgctxt":"monsters","msgid":"Swamp Troll","msgstr":"Болотяний троль"}
+{"msgctxt":"monsters","msgid":"Swordsman","msgstr":"Мечник"}
+{"msgctxt":"monsters","msgid":"Sylph","msgstr":"Сильфіда"}
+{"msgctxt":"monsters","msgid":"Tempest","msgstr":"Буревій"}
+{"msgctxt":"monsters","msgid":"Terminator Unit","msgstr":"Бойова одиниця «Термінатор»"}
+{"msgctxt":"monsters","msgid":"Terrible Eye","msgstr":"Жахливе Око"}
+{"msgctxt":"monsters","msgid":"Terror","msgstr":"Жах"}
+{"msgctxt":"monsters","msgid":"Thief","msgstr":"Злодій"}
+{"msgctxt":"monsters","msgid":"Thug","msgstr":"Головоріз"}
+{"msgctxt":"monsters","msgid":"Thunder Lizard","msgstr":"Громова ящірка"}
+{"msgctxt":"monsters","msgid":"Thunderbird","msgstr":"Громовий птах"}
+{"msgctxt":"monsters","msgid":"Titan","msgstr":"Титан"}
+{"msgctxt":"monsters","msgid":"Tolberti","msgstr":"Толберті"}
+{"msgctxt":"monsters","msgid":"Tree","msgstr":"Дерево"}
+{"msgctxt":"monsters","msgid":"Triton ","msgstr":"Тритон "}
+{"msgctxt":"monsters","msgid":"Triton Crusader","msgstr":"Тритон-хрестоносець"}
+{"msgctxt":"monsters","msgid":"Triton Warrior","msgstr":"Тритон-воїн"}
+{"msgctxt":"monsters","msgid":"Troglodyte Drone","msgstr":"Троглодит-трутень"}
+{"msgctxt":"monsters","msgid":"Troglodyte Queen","msgstr":"Королева троглодитів"}
+{"msgctxt":"monsters","msgid":"Troglodyte Soldier","msgstr":"Троглодит-солдат"}
+{"msgctxt":"monsters","msgid":"Troll Chieftain","msgstr":"Вождь тролів"}
+{"msgctxt":"monsters","msgid":"Troll Clubman","msgstr":"Троль із дубиною"}
+{"msgctxt":"monsters","msgid":"Troll Peasant","msgstr":"Троль-селянин"}
+{"msgctxt":"monsters","msgid":"Troll Warrior","msgstr":"Троль-воїн"}
+{"msgctxt":"monsters","msgid":"Twister","msgstr":"Смерч"}
+{"msgctxt":"monsters","msgid":"Undead Dragon","msgstr":"Дракон-нежить"}
+{"msgctxt":"monsters","msgid":"Unicorn","msgstr":"Єдиноріг"}
+{"msgctxt":"monsters","msgid":"Unicorn Foal","msgstr":"Лоша Єдинорога"}
+{"msgctxt":"monsters","msgid":"Unicorn Herd Leader","msgstr":"Ватажок табуна єдинорогів"}
+{"msgctxt":"monsters","msgid":"Vampire","msgstr":"Вампір"}
+{"msgctxt":"monsters","msgid":"Vampire Bat","msgstr":"Кажан-вампір"}
+{"msgctxt":"monsters","msgid":"Vampire Minion","msgstr":"Прислужник вампіра"}
+{"msgctxt":"monsters","msgid":"Venemous Spider","msgstr":"Отруйний павук"}
+{"msgctxt":"monsters","msgid":"Venomous Hydra","msgstr":"Отруйна гідра"}
+{"msgctxt":"monsters","msgid":"Veteran","msgstr":"Ветеран"}
+{"msgctxt":"monsters","msgid":"Walking Dead","msgstr":"Ходячий Мертвий"}
+{"msgctxt":"monsters","msgid":"Warden of Fire","msgstr":"Вартовий Вогню"}
+{"msgctxt":"monsters","msgid":"Warlock","msgstr":"Чаклун"}
+{"msgctxt":"monsters","msgid":"Wasp Sentry","msgstr":"Оса-вартова"}
+{"msgctxt":"monsters","msgid":"Wasp Warrior","msgstr":"Оса-Воїн"}
+{"msgctxt":"monsters","msgid":"Wasp Worker","msgstr":"Робоча оса"}
+{"msgctxt":"monsters","msgid":"Water Beast","msgstr":"Водяний звір"}
+{"msgctxt":"monsters","msgid":"Water Elemental","msgstr":"Елементаль води"}
+{"msgctxt":"monsters","msgid":"Water Spirit","msgstr":"Дух Води"}
+{"msgctxt":"monsters","msgid":"Water Warlock","msgstr":"Чаклун Води"}
+{"msgctxt":"monsters","msgid":"Wererat","msgstr":"Щуролюд"}
+{"msgctxt":"monsters","msgid":"Werewolf","msgstr":"Перевертень"}
+{"msgctxt":"monsters","msgid":"Widowmaker","msgstr":"Вдовотворець"}
+{"msgctxt":"monsters","msgid":"Wight","msgstr":"Мрець"}
+{"msgctxt":"monsters","msgid":"Will O' Wisp","msgstr":"Блукаючий Вогник"}
+{"msgctxt":"monsters","msgid":"Winged Serpent","msgstr":"Крилатий змій"}
+{"msgctxt":"monsters","msgid":"Wisp ","msgstr":"Блукаючий вогник "}
+{"msgctxt":"monsters","msgid":"Witch Doctor","msgstr":"Шаман"}
+{"msgctxt":"monsters","msgid":"Wizard","msgstr":"Чарівник"}
+{"msgctxt":"monsters","msgid":"Wolfman","msgstr":"Вовкулака"}
+{"msgctxt":"monsters","msgid":"Wraith","msgstr":"Примара"}
+{"msgctxt":"monsters","msgid":"Wyrm","msgstr":"Змій"}
+{"msgctxt":"monsters","msgid":"Wyvern ","msgstr":"Виверна "}
+{"msgctxt":"monsters","msgid":"Young Basilisk","msgstr":"Молодий василіск"}
+{"msgctxt":"monsters","msgid":"Young Behemoth","msgstr":"Молодий бегемот"}
+{"msgctxt":"monsters","msgid":"Young Couatl","msgstr":"Молодий Коатль"}
+{"msgctxt":"monsters","msgid":"Young Dragon","msgstr":"Молодий Дракон"}
+{"msgctxt":"monsters","msgid":"Young Dragon Turtle","msgstr":"Молода драконова черепаха"}
+{"msgctxt":"monsters","msgid":"Zombie","msgstr":"Зомбі"}
+{"msgctxt":"npcprof","msgid":"Acolyte","msgstr":"Послушник"}
+{"msgctxt":"npcprof","msgid":"Alchemist","msgstr":"Алхімік"}
+{"msgctxt":"npcprof","msgid":"Apothecary","msgstr":"Аптекар"}
+{"msgctxt":"npcprof","msgid":"Apprentice","msgstr":"Учень"}
+{"msgctxt":"npcprof","msgid":"Armorer","msgstr":"Зброяр"}
+{"msgctxt":"npcprof","msgid":"Armorsmith","msgstr":"Коваль обладунків"}
+{"msgctxt":"npcprof","msgid":"Arms Master","msgstr":"Майстер зброї"}
+{"msgctxt":"npcprof","msgid":"Banker","msgstr":"Банкір"}
+{"msgctxt":"npcprof","msgid":"Bard","msgstr":"Бард"}
+{"msgctxt":"npcprof","msgid":"Barmaid","msgstr":"Шинкарка"}
+{"msgctxt":"npcprof","msgid":"Barrister","msgstr":"Адвокат"}
+{"msgctxt":"npcprof","msgid":"Beggar","msgstr":"Жебрак"}
+{"msgctxt":"npcprof","msgid":"Blacksmith","msgstr":"Коваль"}
+{"msgctxt":"npcprof","msgid":"Brekish One-Fang","msgstr":"Брекіш Одноіклий"}
+{"msgctxt":"npcprof","msgid":"Burglar","msgstr":"Крадій"}
+{"msgctxt":"npcprof","msgid":"Captain","msgstr":"Капітан"}
+{"msgctxt":"npcprof","msgid":"Carpenter","msgstr":"Тесля"}
+{"msgctxt":"npcprof","msgid":"Cartographer","msgstr":"Картограф"}
+{"msgctxt":"npcprof","msgid":"Chaplain","msgstr":"Капелан"}
+{"msgctxt":"npcprof","msgid":"Charles Quixote","msgstr":"Чарльз Кіхот"}
+{"msgctxt":"npcprof","msgid":"Chef","msgstr":"Шеф-кухар"}
+{"msgctxt":"npcprof","msgid":"Child","msgstr":"Дитина"}
+{"msgctxt":"npcprof","msgid":"Chimney Sweep","msgstr":"Сажотрус"}
+{"msgctxt":"npcprof","msgid":"Clerk","msgstr":"Писар"}
+{"msgctxt":"npcprof","msgid":"Cobbler","msgstr":"Швець"}
+{"msgctxt":"npcprof","msgid":"Cook","msgstr":"Кухар"}
+{"msgctxt":"npcprof","msgid":"Cooper","msgstr":"Бондар"}
+{"msgctxt":"npcprof","msgid":"Counselor","msgstr":"Радник"}
+{"msgctxt":"npcprof","msgid":"Diplomat","msgstr":"Дипломат"}
+{"msgctxt":"npcprof","msgid":"Ditch Digger","msgstr":"Копач Канав"}
+{"msgctxt":"npcprof","msgid":"Dragon","msgstr":"Дракон"}
+{"msgctxt":"npcprof","msgid":"Duper","msgstr":"Шахрай"}
+{"msgctxt":"npcprof","msgid":"Dyson Leland","msgstr":"Дайсон Ліланд"}
+{"msgctxt":"npcprof","msgid":"Enchanter","msgstr":"Заклинач"}
+{"msgctxt":"npcprof","msgid":"Escaton","msgstr":"Ескатон"}
+{"msgctxt":"npcprof","msgid":"Expert Healer","msgstr":"Цілитель-експерт"}
+{"msgctxt":"npcprof","msgid":"Explorer","msgstr":"Дослідник"}
+{"msgctxt":"npcprof","msgid":"Factor","msgstr":"Торговий агент"}
+{"msgctxt":"npcprof","msgid":"Fallen Wizard","msgstr":"Занепалий чарівник"}
+{"msgctxt":"npcprof","msgid":"Farmer","msgstr":"Фермер"}
+{"msgctxt":"npcprof","msgid":"Follower of Baa","msgstr":"Послідовник Баа"}
+{"msgctxt":"npcprof","msgid":"Fool","msgstr":"Блазень"}
+{"msgctxt":"npcprof","msgid":"Gambler","msgstr":"Азартний гравець"}
+{"msgctxt":"npcprof","msgid":"Gate Master","msgstr":"Майстер порталів"}
+{"msgctxt":"npcprof","msgid":"Guard","msgstr":"Вартовий"}
+{"msgctxt":"npcprof","msgid":"Guide","msgstr":"Провідник"}
+{"msgctxt":"npcprof","msgid":"Guildmaster","msgstr":"Голова гільдії"}
+{"msgctxt":"npcprof","msgid":"Gypsy","msgstr":"Ром"}
+{"msgctxt":"npcprof","msgid":"Healer","msgstr":"Цілитель"}
+{"msgctxt":"npcprof","msgid":"Herbalist","msgstr":"Травник"}
+{"msgctxt":"npcprof","msgid":"Horseman","msgstr":"Вершник"}
+{"msgctxt":"npcprof","msgid":"Hunter","msgstr":"Мисливець"}
+{"msgctxt":"npcprof","msgid":"Initiate","msgstr":"Посвячений"}
+{"msgctxt":"npcprof","msgid":"Innkeep","msgstr":"Корчмар"}
+{"msgctxt":"npcprof","msgid":"Instructor","msgstr":"Інструктор"}
+{"msgctxt":"npcprof","msgid":"Jester","msgstr":"Блазень"}
+{"msgctxt":"npcprof","msgid":"Laborer","msgstr":"Робітник"}
+{"msgctxt":"npcprof","msgid":"Locksmith","msgstr":"Майстер замків"}
+{"msgctxt":"npcprof","msgid":"Magician","msgstr":"Маг"}
+{"msgctxt":"npcprof","msgid":"Master Healer","msgstr":"Майстер-цілитель"}
+{"msgctxt":"npcprof","msgid":"Merchant","msgstr":"Торговець"}
+{"msgctxt":"npcprof","msgid":"Miller","msgstr":"Мельник"}
+{"msgctxt":"npcprof","msgid":"Missionary","msgstr":"Місіонер"}
+{"msgctxt":"npcprof","msgid":"Monk","msgstr":"Монах"}
+{"msgctxt":"npcprof","msgid":"Mystic","msgstr":"Містик"}
+{"msgctxt":"npcprof","msgid":"Navigator","msgstr":"Штурман"}
+{"msgctxt":"npcprof","msgid":"Negotiator","msgstr":"Перемовник"}
+{"msgctxt":"npcprof","msgid":"Noble","msgstr":"Вельможа"}
+{"msgctxt":"npcprof","msgid":"Overdune","msgstr":"Овердюн"}
+{"msgctxt":"npcprof","msgid":"Pathfinder","msgstr":"Слідопит"}
+{"msgctxt":"npcprof","msgid":"Peasant","msgstr":"Селянин"}
+{"msgctxt":"npcprof","msgid":"Piper","msgstr":"Сопілкар"}
+{"msgctxt":"npcprof","msgid":"Pirate","msgstr":"Пірат"}
+{"msgctxt":"npcprof","msgid":"Porter","msgstr":"Носильник"}
+{"msgctxt":"npcprof","msgid":"Potter","msgstr":"Гончар"}
+{"msgctxt":"npcprof","msgid":"Prelate","msgstr":"Прелат"}
+{"msgctxt":"npcprof","msgid":"Psychic","msgstr":"Ясновидець"}
+{"msgctxt":"npcprof","msgid":"Quarter Master","msgstr":"Квартирмейстер"}
+{"msgctxt":"npcprof","msgid":"Rustler","msgstr":"Конокрад"}
+{"msgctxt":"npcprof","msgid":"Sage","msgstr":"Мудрець"}
+{"msgctxt":"npcprof","msgid":"Sailor","msgstr":"Моряк"}
+{"msgctxt":"npcprof","msgid":"Sandro","msgstr":"Сандро"}
+{"msgctxt":"npcprof","msgid":"Scholar","msgstr":"Учений"}
+{"msgctxt":"npcprof","msgid":"Scout","msgstr":"Розвідник"}
+{"msgctxt":"npcprof","msgid":"Scribe","msgstr":"Писар"}
+{"msgctxt":"npcprof","msgid":"Serf","msgstr":"Кріпак"}
+{"msgctxt":"npcprof","msgid":"Shopkeeper","msgstr":"Крамар"}
+{"msgctxt":"npcprof","msgid":"Smith","msgstr":"Коваль"}
+{"msgctxt":"npcprof","msgid":"Smuggler","msgstr":"Контрабандист"}
+{"msgctxt":"npcprof","msgid":"Spell Master","msgstr":"Майстер Заклять"}
+{"msgctxt":"npcprof","msgid":"Squire","msgstr":"Зброєносець"}
+{"msgctxt":"npcprof","msgid":"Stablemaster","msgstr":"Стайничий"}
+{"msgctxt":"npcprof","msgid":"Stone Cutter","msgstr":"Каменяр"}
+{"msgctxt":"npcprof","msgid":"Tailor","msgstr":"Кравець"}
+{"msgctxt":"npcprof","msgid":"Teacher","msgstr":"Учитель"}
+{"msgctxt":"npcprof","msgid":"Tinker","msgstr":"Лудильник"}
+{"msgctxt":"npcprof","msgid":"Tracker","msgstr":"Слідопит"}
+{"msgctxt":"npcprof","msgid":"Trader","msgstr":"Торговець"}
+{"msgctxt":"npcprof","msgid":"Trapper","msgstr":"Ловець"}
+{"msgctxt":"npcprof","msgid":"Water Master","msgstr":"Майстер Води"}
+{"msgctxt":"npcprof","msgid":"Weapons Master","msgstr":"Майстер зброї"}
+{"msgctxt":"npcprof","msgid":"Weaver","msgstr":"Ткач"}
+{"msgctxt":"npcprof","msgid":"Wererat Smuggler","msgstr":"Щуролюд-контрабандист"}
+{"msgctxt":"npcprof","msgid":"Wind Master","msgstr":"Майстер вітру"}
+{"msgctxt":"reputation","msgid":"Angelic","msgstr":"Янгольська"}
+{"msgctxt":"reputation","msgid":"Average","msgstr":"Середня"}
+{"msgctxt":"reputation","msgid":"Bad","msgstr":"Погана"}
+{"msgctxt":"reputation","msgid":"Despicable","msgstr":"Мерзенний"}
+{"msgctxt":"reputation","msgid":"Glorious","msgstr":"Славетна"}
+{"msgctxt":"reputation","msgid":"Honorable","msgstr":"Почесна"}
+{"msgctxt":"reputation","msgid":"Monstrous","msgstr":"Жахлива"}
+{"msgctxt":"reputation","msgid":"Neutral","msgstr":"Нейтральна"}
+{"msgctxt":"reputation","msgid":"Notorious","msgstr":"Сумнозвісна"}
+{"msgctxt":"reputation","msgid":"Respectable","msgstr":"Шанований"}
+{"msgctxt":"reputation","msgid":"Saintly","msgstr":"Свята"}
+{"msgctxt":"reputation","msgid":"Vile","msgstr":"Мерзенна"}
+{"msgctxt":"skilldes","msgid":"Air","msgstr":"Повітря"}
+{"msgctxt":"skilldes","msgid":"Air Magic","msgstr":"Магія повітря"}
+{"msgctxt":"skilldes","msgid":"Alchemy","msgstr":"Алхімія"}
+{"msgctxt":"skilldes","msgid":"Armsmaster","msgstr":"Майстер зброї"}
+{"msgctxt":"skilldes","msgid":"Axe","msgstr":"Сокира"}
+{"msgctxt":"skilldes","msgid":"Blaster","msgstr":"Бластер"}
+{"msgctxt":"skilldes","msgid":"Body","msgstr":"Тіло"}
+{"msgctxt":"skilldes","msgid":"Body Building","msgstr":"Розвиток тіла"}
+{"msgctxt":"skilldes","msgid":"Body Magic","msgstr":"Магія Тіла"}
+{"msgctxt":"skilldes","msgid":"Bodybuilding","msgstr":"Зміцнення Тіла"}
+{"msgctxt":"skilldes","msgid":"Bow","msgstr":"Лук"}
+{"msgctxt":"skilldes","msgid":"Chain","msgstr":"Кольчуга"}
+{"msgctxt":"skilldes","msgid":"Dagger","msgstr":"Кинджал"}
+{"msgctxt":"skilldes","msgid":"Dark","msgstr":"Темрява"}
+{"msgctxt":"skilldes","msgid":"Dark Elf Ability","msgstr":"Здібність темного ельфа"}
+{"msgctxt":"skilldes","msgid":"Dark Magic","msgstr":"Магія Темряви"}
+{"msgctxt":"skilldes","msgid":"Diplomacy","msgstr":"Дипломатія"}
+{"msgctxt":"skilldes","msgid":"Disarm Trap","msgstr":"Знешкодження пасток"}
+{"msgctxt":"skilldes","msgid":"Disarm Traps","msgstr":"Знешкодження пасток"}
+{"msgctxt":"skilldes","msgid":"Dodging","msgstr":"Ухиляння"}
+{"msgctxt":"skilldes","msgid":"Dragon Ability","msgstr":"Здібність дракона"}
+{"msgctxt":"skilldes","msgid":"Earth","msgstr":"Земля"}
+{"msgctxt":"skilldes","msgid":"Earth Magic","msgstr":"Магія Землі"}
+{"msgctxt":"skilldes","msgid":"Fire","msgstr":"Вогонь"}
+{"msgctxt":"skilldes","msgid":"Fire Magic","msgstr":"Магія Вогню"}
+{"msgctxt":"skilldes","msgid":"Identify","msgstr":"Розпізнати"}
+{"msgctxt":"skilldes","msgid":"Identify Item","msgstr":"Розпізнати предмет"}
+{"msgctxt":"skilldes","msgid":"Identify Monster","msgstr":"Розпізнати монстра"}
+{"msgctxt":"skilldes","msgid":"Learning","msgstr":"Навчання"}
+{"msgctxt":"skilldes","msgid":"Leather","msgstr":"Шкіряні обладунки"}
+{"msgctxt":"skilldes","msgid":"Light","msgstr":"Світло"}
+{"msgctxt":"skilldes","msgid":"Light Magic","msgstr":"Магія Світла"}
+{"msgctxt":"skilldes","msgid":"Mace","msgstr":"Булава"}
+{"msgctxt":"skilldes","msgid":"Meditation","msgstr":"Медитація"}
+{"msgctxt":"skilldes","msgid":"Merchant","msgstr":"Торгівля"}
+{"msgctxt":"skilldes","msgid":"Mind","msgstr":"Розум"}
+{"msgctxt":"skilldes","msgid":"Mind Magic","msgstr":"Магія Розуму"}
+{"msgctxt":"skilldes","msgid":"Perception","msgstr":"Сприйняття"}
+{"msgctxt":"skilldes","msgid":"Plate","msgstr":"Лати"}
+{"msgctxt":"skilldes","msgid":"Regeneration","msgstr":"Регенерація"}
+{"msgctxt":"skilldes","msgid":"Repair","msgstr":"Ремонт"}
+{"msgctxt":"skilldes","msgid":"Repair Item","msgstr":"Ремонт предмета"}
+{"msgctxt":"skilldes","msgid":"Shield","msgstr":"Щит"}
+{"msgctxt":"skilldes","msgid":"Spear","msgstr":"Спис"}
+{"msgctxt":"skilldes","msgid":"Spirit","msgstr":"Дух"}
+{"msgctxt":"skilldes","msgid":"Spirit Magic","msgstr":"Магія Духу"}
+{"msgctxt":"skilldes","msgid":"Staff","msgstr":"Посох"}
+{"msgctxt":"skilldes","msgid":"Stealing","msgstr":"Крадіжка"}
+{"msgctxt":"skilldes","msgid":"Sword","msgstr":"Меч"}
+{"msgctxt":"skilldes","msgid":"Thievery","msgstr":"Злодійство"}
+{"msgctxt":"skilldes","msgid":"Unarmed","msgstr":"Рукопашний бій"}
+{"msgctxt":"skilldes","msgid":"Vampire Ability","msgstr":"Вампірська здібність"}
+{"msgctxt":"skilldes","msgid":"Water","msgstr":"Вода"}
+{"msgctxt":"skilldes","msgid":"Water Magic","msgstr":"Магія Води"}
+{"msgctxt":"spcitems","msgid":"Antique","msgstr":"Стародавній"}
+{"msgctxt":"spcitems","msgid":"Assassins'","msgstr":"Асасинів"}
+{"msgctxt":"spcitems","msgid":"Barbarians'","msgstr":"Варварів"}
+{"msgctxt":"spcitems","msgid":"Demon Slayer","msgstr":"Винищувач Демонів"}
+{"msgctxt":"spcitems","msgid":"Demon Slaying","msgstr":"Винищення демонів"}
+{"msgctxt":"spcitems","msgid":"Dragon Slayer","msgstr":"Драконоборець"}
+{"msgctxt":"spcitems","msgid":"Dragon Slaying","msgstr":"Винищення драконів"}
+{"msgctxt":"spcitems","msgid":"Elemental Slaying","msgstr":"Винищення елементалів"}
+{"msgctxt":"spcitems","msgid":"Elf Slaying","msgstr":"Винищення ельфів"}
+{"msgctxt":"spcitems","msgid":"Monks'","msgstr":"Монахів"}
+{"msgctxt":"spcitems","msgid":"of Acid","msgstr":"кислоти"}
+{"msgctxt":"spcitems","msgid":"of Air Magic","msgstr":"Магії Повітря"}
+{"msgctxt":"spcitems","msgid":"of Alarms","msgstr":"Тривог"}
+{"msgctxt":"spcitems","msgid":"of Antidotes","msgstr":"Протиотрут"}
+{"msgctxt":"spcitems","msgid":"of Body Magic","msgstr":"Магії Тіла"}
+{"msgctxt":"spcitems","msgid":"of Carnage","msgstr":"різанини"}
+{"msgctxt":"spcitems","msgid":"of Cold","msgstr":"Холоду"}
+{"msgctxt":"spcitems","msgid":"of Dark Magic","msgstr":"Магії Темряви"}
+{"msgctxt":"spcitems","msgid":"of Darkness","msgstr":"Темряви"}
+{"msgctxt":"spcitems","msgid":"Of David","msgstr":"Давида"}
+{"msgctxt":"spcitems","msgid":"of Doom","msgstr":"Приречення"}
+{"msgctxt":"spcitems","msgid":"of Earth","msgstr":"Землі"}
+{"msgctxt":"spcitems","msgid":"of Earth Magic","msgstr":"Магії Землі"}
+{"msgctxt":"spcitems","msgid":"of Feather Falling","msgstr":"Падіння Пір'їни"}
+{"msgctxt":"spcitems","msgid":"of Fire","msgstr":"Вогню"}
+{"msgctxt":"spcitems","msgid":"of Fire Magic","msgstr":"Магії Вогню"}
+{"msgctxt":"spcitems","msgid":"of Flame","msgstr":"Полум'я"}
+{"msgctxt":"spcitems","msgid":"of Force","msgstr":"Сили"}
+{"msgctxt":"spcitems","msgid":"of Freedom","msgstr":"свободи"}
+{"msgctxt":"spcitems","msgid":"of Frost","msgstr":"Морозу"}
+{"msgctxt":"spcitems","msgid":"of Ice","msgstr":"Льоду"}
+{"msgctxt":"spcitems","msgid":"of Identifying","msgstr":"Розпізнавання"}
+{"msgctxt":"spcitems","msgid":"of Immunity","msgstr":"Імунітету"}
+{"msgctxt":"spcitems","msgid":"of Infernos","msgstr":"Пекел"}
+{"msgctxt":"spcitems","msgid":"of Life","msgstr":"Життя"}
+{"msgctxt":"spcitems","msgid":"of Light Magic","msgstr":"Магії Світла"}
+{"msgctxt":"spcitems","msgid":"of Lightning","msgstr":"Блискавки"}
+{"msgctxt":"spcitems","msgid":"of Mana","msgstr":"Мани"}
+{"msgctxt":"spcitems","msgid":"of Mind Magic","msgstr":"Магії Розуму"}
+{"msgctxt":"spcitems","msgid":"of Plenty","msgstr":"Достатку"}
+{"msgctxt":"spcitems","msgid":"of Poison","msgstr":"Отрути"}
+{"msgctxt":"spcitems","msgid":"of Power","msgstr":"Сили"}
+{"msgctxt":"spcitems","msgid":"of Protection","msgstr":"Захисту"}
+{"msgctxt":"spcitems","msgid":"of Recovery","msgstr":"Відновлення"}
+{"msgctxt":"spcitems","msgid":"of Regeneration","msgstr":"Регенерації"}
+{"msgctxt":"spcitems","msgid":"of Sanity","msgstr":"Розсудливості"}
+{"msgctxt":"spcitems","msgid":"of Shielding","msgstr":"Щита"}
+{"msgctxt":"spcitems","msgid":"of Sparks","msgstr":"Іскор"}
+{"msgctxt":"spcitems","msgid":"of Spirit Magic","msgstr":"Магії Духу"}
+{"msgctxt":"spcitems","msgid":"of Swiftness","msgstr":"Швидкості"}
+{"msgctxt":"spcitems","msgid":"of The Dragon","msgstr":"Дракона"}
+{"msgctxt":"spcitems","msgid":"of The Eclipse","msgstr":"Затемнення"}
+{"msgctxt":"spcitems","msgid":"of The Gods","msgstr":"Богів"}
+{"msgctxt":"spcitems","msgid":"of The Golem","msgstr":"Голема"}
+{"msgctxt":"spcitems","msgid":"of The Medusa","msgstr":"Медузи"}
+{"msgctxt":"spcitems","msgid":"of The Moon","msgstr":"Місяця"}
+{"msgctxt":"spcitems","msgid":"of the Ocean","msgstr":"Океану"}
+{"msgctxt":"spcitems","msgid":"of The Phoenix","msgstr":"Фенікса"}
+{"msgctxt":"spcitems","msgid":"of The Sky","msgstr":"неба"}
+{"msgctxt":"spcitems","msgid":"of The Stars","msgstr":"Зірок"}
+{"msgctxt":"spcitems","msgid":"of the Storm","msgstr":"Бурі"}
+{"msgctxt":"spcitems","msgid":"of The Sun","msgstr":"сонця"}
+{"msgctxt":"spcitems","msgid":"of The Troll","msgstr":"Троля"}
+{"msgctxt":"spcitems","msgid":"of The Unicorn","msgstr":"Єдинорога"}
+{"msgctxt":"spcitems","msgid":"of Thievery","msgstr":"Злодійства"}
+{"msgctxt":"spcitems","msgid":"of Thunderbolts","msgstr":"Блискавок"}
+{"msgctxt":"spcitems","msgid":"of Venom","msgstr":"Отрути"}
+{"msgctxt":"spcitems","msgid":"of Water Magic","msgstr":"Магії Води"}
+{"msgctxt":"spcitems","msgid":"of Water Walking","msgstr":"ходіння по воді"}
+{"msgctxt":"spcitems","msgid":"Ogre Slaying","msgstr":"Винищувач Огрів"}
+{"msgctxt":"spcitems","msgid":"Rogues","msgstr":"Пройдисвіти"}
+{"msgctxt":"spcitems","msgid":"Rogues'","msgstr":"Пройдисвітів"}
+{"msgctxt":"spcitems","msgid":"Swift","msgstr":"Швидкий"}
+{"msgctxt":"spcitems","msgid":"Thieves'","msgstr":"Злодіїв"}
+{"msgctxt":"spcitems","msgid":"Undead Slaying","msgstr":"Винищення нежиті"}
+{"msgctxt":"spcitems","msgid":"Vampiric","msgstr":"Вампірський"}
+{"msgctxt":"spcitems","msgid":"Warriors","msgstr":"Воїнів"}
+{"msgctxt":"spcitems","msgid":"Warriors'","msgstr":"Воїнів"}
+{"msgctxt":"spcitems","msgid":"Wizards","msgstr":"Чарівників"}
+{"msgctxt":"spcitems","msgid":"Wizards'","msgstr":"Чарівників"}
+{"msgctxt":"spellgroupshort","msgid":"Air","msgstr":"Повітря"}
+{"msgctxt":"spellgroupshort","msgid":"Body","msgstr":"Тіло"}
+{"msgctxt":"spellgroupshort","msgid":"Cold","msgstr":"Холод"}
+{"msgctxt":"spellgroupshort","msgid":"Dark","msgstr":"Темрява"}
+{"msgctxt":"spellgroupshort","msgid":"Earth","msgstr":"Земля"}
+{"msgctxt":"spellgroupshort","msgid":"Electricity","msgstr":"Електрика"}
+{"msgctxt":"spellgroupshort","msgid":"Fire","msgstr":"Вогонь"}
+{"msgctxt":"spellgroupshort","msgid":"Light","msgstr":"Світло"}
+{"msgctxt":"spellgroupshort","msgid":"Mind","msgstr":"Розум"}
+{"msgctxt":"spellgroupshort","msgid":"Spirit","msgstr":"Дух"}
+{"msgctxt":"spellgroupshort","msgid":"Water","msgstr":"Вода"}
+{"msgctxt":"spells","msgid":"Acid Burst","msgstr":"Кислотний сплеск"}
+{"msgctxt":"spells","msgid":"Air Res","msgstr":"Опір повітрю"}
+{"msgctxt":"spells","msgid":"Air Resist","msgstr":"Опір повітрю"}
+{"msgctxt":"spells","msgid":"Air Resistance","msgstr":"Опір повітрю"}
+{"msgctxt":"spells","msgid":"Armageddon","msgstr":"Армагеддон"}
+{"msgctxt":"spells","msgid":"Awaken","msgstr":"Пробудження"}
+{"msgctxt":"spells","msgid":"Berserk","msgstr":"Шаленство"}
+{"msgctxt":"spells","msgid":"Blades","msgstr":"Леза"}
+{"msgctxt":"spells","msgid":"Bless","msgstr":"Благословення"}
+{"msgctxt":"spells","msgid":"Blind","msgstr":"Сліпота"}
+{"msgctxt":"spells","msgid":"Body Res","msgstr":"Опір Тілу"}
+{"msgctxt":"spells","msgid":"Body Resist","msgstr":"Опір Тілу"}
+{"msgctxt":"spells","msgid":"Body Resistance","msgstr":"Опір Тілу"}
+{"msgctxt":"spells","msgid":"Buffet","msgstr":"Порив"}
+{"msgctxt":"spells","msgid":"Charm","msgstr":"Зачарування"}
+{"msgctxt":"spells","msgid":"Cntrl Undead","msgstr":"Контроль Нежиті"}
+{"msgctxt":"spells","msgid":"Cold Beam","msgstr":"Промінь холоду"}
+{"msgctxt":"spells","msgid":"Control Undead","msgstr":"Контроль над нежиттю"}
+{"msgctxt":"spells","msgid":"Create Food","msgstr":"Створити їжу"}
+{"msgctxt":"spells","msgid":"Cure Disease","msgstr":"Вилікувати хворобу"}
+{"msgctxt":"spells","msgid":"Cure Insane","msgstr":"Вилікувати божевілля"}
+{"msgctxt":"spells","msgid":"Cure Insanity","msgstr":"Зцілення божевілля"}
+{"msgctxt":"spells","msgid":"Cure Paralysis","msgstr":"Зцілення від паралічу"}
+{"msgctxt":"spells","msgid":"Cure Plyze","msgstr":"Усунути параліч"}
+{"msgctxt":"spells","msgid":"Cure Poison","msgstr":"Вилікувати отруєння"}
+{"msgctxt":"spells","msgid":"Cure Weak","msgstr":"Зцілення слабкості"}
+{"msgctxt":"spells","msgid":"Cure Weakness","msgstr":"Зцілення слабкості"}
+{"msgctxt":"spells","msgid":"Cure Wound","msgstr":"Зцілити рану"}
+{"msgctxt":"spells","msgid":"Cure Wounds","msgstr":"Зцілити рани"}
+{"msgctxt":"spells","msgid":"Dark Contain","msgstr":"Вмістилище Темряви"}
+{"msgctxt":"spells","msgid":"Dark Containment","msgstr":"Вмістилище Темряви"}
+{"msgctxt":"spells","msgid":"Dark Grasp","msgstr":"Лещата темряви"}
+{"msgctxt":"spells","msgid":"Darkfire","msgstr":"Вогонь Темряви"}
+{"msgctxt":"spells","msgid":"Darkfire Bolt","msgstr":"Стріла Вогню Темряви"}
+{"msgctxt":"spells","msgid":"Day -o- Gods","msgstr":"День Богів"}
+{"msgctxt":"spells","msgid":"Day of Prot","msgstr":"День захисту"}
+{"msgctxt":"spells","msgid":"Day of Protection","msgstr":"День захисту"}
+{"msgctxt":"spells","msgid":"Day of the Gods","msgstr":"День Богів"}
+{"msgctxt":"spells","msgid":"Deadly Swarm","msgstr":"Смертоносний Рій"}
+{"msgctxt":"spells","msgid":"Death Blossom","msgstr":"Квітка смерті"}
+{"msgctxt":"spells","msgid":"Death Blsm","msgstr":"Цвіт смерті"}
+{"msgctxt":"spells","msgid":"Dest Undead","msgstr":"Знищити нежить"}
+{"msgctxt":"spells","msgid":"Destroy Undead","msgstr":"Знищення нежиті"}
+{"msgctxt":"spells","msgid":"Detect Life","msgstr":"Виявити життя"}
+{"msgctxt":"spells","msgid":"Dispel Magic","msgstr":"Розвіяти Магію"}
+{"msgctxt":"spells","msgid":"Divine Inter","msgstr":"Божественне Втручання"}
+{"msgctxt":"spells","msgid":"Divine Intervention","msgstr":"Божественне Втручання"}
+{"msgctxt":"spells","msgid":"Drag Breath","msgstr":"Подих дракона"}
+{"msgctxt":"spells","msgid":"Dragon Breath","msgstr":"Подих дракона"}
+{"msgctxt":"spells","msgid":"Earth Res","msgstr":"Опір землі"}
+{"msgctxt":"spells","msgid":"Earth Resist","msgstr":"Опір землі"}
+{"msgctxt":"spells","msgid":"Earth Resistance","msgstr":"Опір землі"}
+{"msgctxt":"spells","msgid":"Enchant Item","msgstr":"Зачарувати Предмет"}
+{"msgctxt":"spells","msgid":"Enslave","msgstr":"Поневолення"}
+{"msgctxt":"spells","msgid":"Fate","msgstr":"Доля"}
+{"msgctxt":"spells","msgid":"Fear","msgstr":"Страх"}
+{"msgctxt":"spells","msgid":"Feather Fall","msgstr":"Падіння Пір'їни"}
+{"msgctxt":"spells","msgid":"Feeblemind","msgstr":"Ослаблення розуму"}
+{"msgctxt":"spells","msgid":"Finger Death","msgstr":"Палець Смерті"}
+{"msgctxt":"spells","msgid":"Finger of Death","msgstr":"Перст Смерті"}
+{"msgctxt":"spells","msgid":"Fire Aura","msgstr":"Аура вогню"}
+{"msgctxt":"spells","msgid":"Fire Blast","msgstr":"Вогняний вибух"}
+{"msgctxt":"spells","msgid":"Fire Bolt","msgstr":"Вогняна стріла"}
+{"msgctxt":"spells","msgid":"Fire Res","msgstr":"Опір Вогню"}
+{"msgctxt":"spells","msgid":"Fire Resistance","msgstr":"Опір Вогню"}
+{"msgctxt":"spells","msgid":"Fire Spike","msgstr":"Вогняний шип"}
+{"msgctxt":"spells","msgid":"Fireball","msgstr":"Вогняна куля"}
+{"msgctxt":"spells","msgid":"First Aid","msgstr":"Перша допомога"}
+{"msgctxt":"spells","msgid":"Flame Arrow","msgstr":"Полум'яна стріла"}
+{"msgctxt":"spells","msgid":"Flame Blast","msgstr":"Вибух полум'я"}
+{"msgctxt":"spells","msgid":"Flight","msgstr":"Політ"}
+{"msgctxt":"spells","msgid":"Fly","msgstr":"Політ"}
+{"msgctxt":"spells","msgid":"Flying Fist","msgstr":"Летючий кулак"}
+{"msgctxt":"spells","msgid":"Glamour","msgstr":"Чари"}
+{"msgctxt":"spells","msgid":"Gldn Touch","msgstr":"Золотий дотик"}
+{"msgctxt":"spells","msgid":"Golden Touch","msgstr":"Золотий Дотик"}
+{"msgctxt":"spells","msgid":"Guard Angel","msgstr":"Янгол-охоронець"}
+{"msgctxt":"spells","msgid":"Guardian Angel","msgstr":"Янгол-охоронець"}
+{"msgctxt":"spells","msgid":"Hammerhand","msgstr":"Рука-молот"}
+{"msgctxt":"spells","msgid":"Hammerhands","msgstr":"Руки-молоти"}
+{"msgctxt":"spells","msgid":"Harm","msgstr":"Ураження"}
+{"msgctxt":"spells","msgid":"Haste","msgstr":"Прискорення"}
+{"msgctxt":"spells","msgid":"Heal","msgstr":"Зцілення"}
+{"msgctxt":"spells","msgid":"Healing","msgstr":"Зцілення"}
+{"msgctxt":"spells","msgid":"Healing Touch","msgstr":"Дотик зцілення"}
+{"msgctxt":"spells","msgid":"Heroism","msgstr":"Героїзм"}
+{"msgctxt":"spells","msgid":"Hour of Power","msgstr":"Година Сили"}
+{"msgctxt":"spells","msgid":"Hour Power","msgstr":"Година Сили"}
+{"msgctxt":"spells","msgid":"Ice Blast","msgstr":"Крижаний вибух"}
+{"msgctxt":"spells","msgid":"Ice Bolt","msgstr":"Крижана стріла"}
+{"msgctxt":"spells","msgid":"Immolation","msgstr":"Жертвоспалення"}
+{"msgctxt":"spells","msgid":"Implosion","msgstr":"Імплозія"}
+{"msgctxt":"spells","msgid":"Incinerate","msgstr":"Спопелити"}
+{"msgctxt":"spells","msgid":"Inferno","msgstr":"Пекло"}
+{"msgctxt":"spells","msgid":"Invisibility","msgstr":"Невидимість"}
+{"msgctxt":"spells","msgid":"Jump","msgstr":"Стрибок"}
+{"msgctxt":"spells","msgid":"Levitate","msgstr":"Левітація"}
+{"msgctxt":"spells","msgid":"Lifedrain","msgstr":"Висмоктування життя"}
+{"msgctxt":"spells","msgid":"Light Bolt","msgstr":"Стріла світла"}
+{"msgctxt":"spells","msgid":"Lightning","msgstr":"Блискавка"}
+{"msgctxt":"spells","msgid":"Lightning Bolt","msgstr":"Удар блискавки"}
+{"msgctxt":"spells","msgid":"Lloyd's","msgstr":"Ллойда"}
+{"msgctxt":"spells","msgid":"Lloyd's Beacon","msgstr":"Маяк Ллойда"}
+{"msgctxt":"spells","msgid":"Lucky Day","msgstr":"Щасливий день"}
+{"msgctxt":"spells","msgid":"Magic Arrow","msgstr":"Магічна стріла"}
+{"msgctxt":"spells","msgid":"Mass Curse","msgstr":"Масове прокляття"}
+{"msgctxt":"spells","msgid":"Mass Distort","msgstr":"Масове Спотворення"}
+{"msgctxt":"spells","msgid":"Mass Distortion","msgstr":"Масове Спотворення"}
+{"msgctxt":"spells","msgid":"Mass Fear","msgstr":"Масовий страх"}
+{"msgctxt":"spells","msgid":"Meditation","msgstr":"Медитація"}
+{"msgctxt":"spells","msgid":"Meteor Shower","msgstr":"Метеоритний дощ"}
+{"msgctxt":"spells","msgid":"Meteor Shwr","msgstr":"Метеоритний дощ"}
+{"msgctxt":"spells","msgid":"Mind Blast","msgstr":"Вибух Розуму"}
+{"msgctxt":"spells","msgid":"Mind Res","msgstr":"Опір Розуму"}
+{"msgctxt":"spells","msgid":"Mind Resist","msgstr":"Опір Розуму"}
+{"msgctxt":"spells","msgid":"Mind Resistance","msgstr":"Опір Розуму"}
+{"msgctxt":"spells","msgid":"Mistform","msgstr":"Туманна подоба"}
+{"msgctxt":"spells","msgid":"Moon Ray","msgstr":"Місячний промінь"}
+{"msgctxt":"spells","msgid":"Pain Reflect","msgstr":"Відбиття Болю"}
+{"msgctxt":"spells","msgid":"Pain Reflection","msgstr":"Відбиття Болю"}
+{"msgctxt":"spells","msgid":"Paralyze","msgstr":"Параліч"}
+{"msgctxt":"spells","msgid":"Poison Spr","msgstr":"Отруйні бризки"}
+{"msgctxt":"spells","msgid":"Poison Spray","msgstr":"Отруйні бризки"}
+{"msgctxt":"spells","msgid":"Power","msgstr":"Сила"}
+{"msgctxt":"spells","msgid":"Power Cure","msgstr":"Могутнє зцілення"}
+{"msgctxt":"spells","msgid":"Precision","msgstr":"Влучність"}
+{"msgctxt":"spells","msgid":"Preservation","msgstr":"Збереження"}
+{"msgctxt":"spells","msgid":"Pris Light","msgstr":"Призматичне світло"}
+{"msgctxt":"spells","msgid":"Prismatic Light","msgstr":"Призматичне Світло"}
+{"msgctxt":"spells","msgid":"Prot Cold","msgstr":"Захист від холоду"}
+{"msgctxt":"spells","msgid":"Prot Elec","msgstr":"Захист від електрики"}
+{"msgctxt":"spells","msgid":"Prot Fire","msgstr":"Захист від вогню"}
+{"msgctxt":"spells","msgid":"Prot Magic","msgstr":"Захист від магії"}
+{"msgctxt":"spells","msgid":"Prot Poison","msgstr":"Захист від отрути"}
+{"msgctxt":"spells","msgid":"Protection from Cold","msgstr":"Захист від холоду"}
+{"msgctxt":"spells","msgid":"Protection from Electricity","msgstr":"Захист від електрики"}
+{"msgctxt":"spells","msgid":"Protection from Fire","msgstr":"Захист від вогню"}
+{"msgctxt":"spells","msgid":"Protection from Magic","msgstr":"Захист від магії"}
+{"msgctxt":"spells","msgid":"Protection from Poison","msgstr":"Захист від отрути"}
+{"msgctxt":"spells","msgid":"Psy - Shock","msgstr":"Психічний шок"}
+{"msgctxt":"spells","msgid":"Psychic Shock","msgstr":"Психічний удар"}
+{"msgctxt":"spells","msgid":"Raise Dead","msgstr":"Воскресити мертвих"}
+{"msgctxt":"spells","msgid":"Reanimate","msgstr":"Оживлення"}
+{"msgctxt":"spells","msgid":"Recharge","msgstr":"Перезарядження"}
+{"msgctxt":"spells","msgid":"Recharge Item","msgstr":"Перезарядження предмета"}
+{"msgctxt":"spells","msgid":"Regeneration","msgstr":"Регенерація"}
+{"msgctxt":"spells","msgid":"Remove Curse","msgstr":"Зняти прокляття"}
+{"msgctxt":"spells","msgid":"Remove Fear","msgstr":"Зняти страх"}
+{"msgctxt":"spells","msgid":"Resurrection","msgstr":"Воскресіння"}
+{"msgctxt":"spells","msgid":"Ring of Fire","msgstr":"Вогняне кільце"}
+{"msgctxt":"spells","msgid":"Rmv. Curse","msgstr":"Зняти прокляття"}
+{"msgctxt":"spells","msgid":"Rock Blast","msgstr":"Кам’яний вибух"}
+{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"Жертвоприношення"}
+{"msgctxt":"spells","msgid":"Shared Life","msgstr":"Спільне життя"}
+{"msgctxt":"spells","msgid":"Shield","msgstr":"Щит"}
+{"msgctxt":"spells","msgid":"Shrapmetal","msgstr":"Металева шрапнель"}
+{"msgctxt":"spells","msgid":"Shrink Ray","msgstr":"Промінь зменшення"}
+{"msgctxt":"spells","msgid":"Shrinking Ray","msgstr":"Промінь зменшення"}
+{"msgctxt":"spells","msgid":"Slow","msgstr":"Уповільнення"}
+{"msgctxt":"spells","msgid":"Souldrinker","msgstr":"Душопивця"}
+{"msgctxt":"spells","msgid":"Sparks","msgstr":"Іскри"}
+{"msgctxt":"spells","msgid":"Speed","msgstr":"Швидкість"}
+{"msgctxt":"spells","msgid":"Spirit Arrow","msgstr":"Стріла духу"}
+{"msgctxt":"spells","msgid":"Spirit Lash","msgstr":"Батіг духу"}
+{"msgctxt":"spells","msgid":"Starburst","msgstr":"Зоряний вибух"}
+{"msgctxt":"spells","msgid":"Static Charge","msgstr":"Статичний заряд"}
+{"msgctxt":"spells","msgid":"Static Chrg","msgstr":"Статичний заряд"}
+{"msgctxt":"spells","msgid":"Stone - Flesh","msgstr":"Камінь - Плоть"}
+{"msgctxt":"spells","msgid":"Stone Skin","msgstr":"Кам’яна шкіра"}
+{"msgctxt":"spells","msgid":"Stone to Flesh","msgstr":"Камінь у плоть"}
+{"msgctxt":"spells","msgid":"Stoneskin","msgstr":"Кам’яна шкіра"}
+{"msgctxt":"spells","msgid":"Stun","msgstr":"Оглушення"}
+{"msgctxt":"spells","msgid":"Summon","msgstr":"Прикликання"}
+{"msgctxt":"spells","msgid":"Summon Elemental","msgstr":"Прикликання елементаля"}
+{"msgctxt":"spells","msgid":"Summon Wisp","msgstr":"Прикликання блукаючого вогника"}
+{"msgctxt":"spells","msgid":"Sun Ray","msgstr":"Сонячний промінь"}
+{"msgctxt":"spells","msgid":"Sunray","msgstr":"Сонячний промінь"}
+{"msgctxt":"spells","msgid":"Swarm","msgstr":"Рій"}
+{"msgctxt":"spells","msgid":"Telekinesis","msgstr":"Телекінез"}
+{"msgctxt":"spells","msgid":"Telepathy","msgstr":"Телепатія"}
+{"msgctxt":"spells","msgid":"Torch Light","msgstr":"Світло смолоскипа"}
+{"msgctxt":"spells","msgid":"Town Portal","msgstr":"Міський портал"}
+{"msgctxt":"spells","msgid":"Toxic Cloud","msgstr":"Отруйна хмара"}
+{"msgctxt":"spells","msgid":"Travel Boon","msgstr":"Дар мандрів"}
+{"msgctxt":"spells","msgid":"Travelers' Boon","msgstr":"Дар мандрівників"}
+{"msgctxt":"spells","msgid":"Turn - Stone","msgstr":"Перетворення на камінь"}
+{"msgctxt":"spells","msgid":"Turn to Stone","msgstr":"Перетворення на камінь"}
+{"msgctxt":"spells","msgid":"Turn Undead","msgstr":"Вигнати нежить"}
+{"msgctxt":"spells","msgid":"Vamp Weap","msgstr":"Вампірична зброя"}
+{"msgctxt":"spells","msgid":"Vampiric Weapon","msgstr":"Вампірська зброя"}
+{"msgctxt":"spells","msgid":"Water Res","msgstr":"Опір воді"}
+{"msgctxt":"spells","msgid":"Water Resist","msgstr":"Опір воді"}
+{"msgctxt":"spells","msgid":"Water Resistance","msgstr":"Опір воді"}
+{"msgctxt":"spells","msgid":"Water Walk","msgstr":"Ходіння по воді"}
+{"msgctxt":"spells","msgid":"Wing Buffet","msgstr":"Порив крил"}
+{"msgctxt":"spells","msgid":"Wizard Eye","msgstr":"Око чарівника"}
+{"msgctxt":"spells vampire","msgid":"Charm","msgstr":"Зачарування"}
+{"msgctxt":"stats","msgid":"AC","msgstr":"КБ"}
+{"msgctxt":"stats","msgid":"Accuracy","msgstr":"Влучність"}
+{"msgctxt":"stats","msgid":"Age","msgstr":"Вік"}
+{"msgctxt":"stats","msgid":"Air","msgstr":"Повітря"}
+{"msgctxt":"stats","msgid":"Armor Class","msgstr":"Клас обладунків"}
+{"msgctxt":"stats","msgid":"Attack","msgstr":"Атака"}
+{"msgctxt":"stats","msgid":"Attack Bonus","msgstr":"Бонус атаки"}
+{"msgctxt":"stats","msgid":"Attack Damage","msgstr":"Шкода від атаки"}
+{"msgctxt":"stats","msgid":"Body","msgstr":"Тіло"}
+{"msgctxt":"stats","msgid":"Class","msgstr":"Клас"}
+{"msgctxt":"stats","msgid":"Cold","msgstr":"Холод"}
+{"msgctxt":"stats","msgid":"Cond","msgstr":"Стан"}
+{"msgctxt":"stats","msgid":"Condition","msgstr":"Стан"}
+{"msgctxt":"stats","msgid":"Dmg","msgstr":"Шкода"}
+{"msgctxt":"stats","msgid":"Earth","msgstr":"Земля"}
+{"msgctxt":"stats","msgid":"Electricity","msgstr":"Електрика"}
+{"msgctxt":"stats","msgid":"Endurance","msgstr":"Витривалість"}
+{"msgctxt":"stats","msgid":"Exp.","msgstr":"Досв."}
+{"msgctxt":"stats","msgid":"Experience","msgstr":"Досвід"}
+{"msgctxt":"stats","msgid":"Fame","msgstr":"Слава"}
+{"msgctxt":"stats","msgid":"Fire","msgstr":"Вогонь"}
+{"msgctxt":"stats","msgid":"Hit Points","msgstr":"Очки здоров’я"}
+{"msgctxt":"stats","msgid":"HP","msgstr":"ОЗ"}
+{"msgctxt":"stats","msgid":"Intellect","msgstr":"Інтелект"}
+{"msgctxt":"stats","msgid":"Level","msgstr":"Рівень"}
+{"msgctxt":"stats","msgid":"Luck","msgstr":"Удача"}
+{"msgctxt":"stats","msgid":"Magic","msgstr":"Магія"}
+{"msgctxt":"stats","msgid":"Might","msgstr":"Міць"}
+{"msgctxt":"stats","msgid":"Mind","msgstr":"Розум"}
+{"msgctxt":"stats","msgid":"Name","msgstr":"Ім’я"}
+{"msgctxt":"stats","msgid":"Personality","msgstr":"Особистість"}
+{"msgctxt":"stats","msgid":"Points","msgstr":"Очки"}
+{"msgctxt":"stats","msgid":"Poison","msgstr":"Отрута"}
+{"msgctxt":"stats","msgid":"QSpell","msgstr":"Швидке закляття"}
+{"msgctxt":"stats","msgid":"Quick Spell","msgstr":"Швидке закляття"}
+{"msgctxt":"stats","msgid":"Reputation","msgstr":"Репутація"}
+{"msgctxt":"stats","msgid":"Shoot Bonus","msgstr":"Бонус до стрільби"}
+{"msgctxt":"stats","msgid":"Shoot Damage","msgstr":"Шкода від пострілу"}
+{"msgctxt":"stats","msgid":"Skill Points","msgstr":"Очки навичок"}
+{"msgctxt":"stats","msgid":"Skills","msgstr":"Навички"}
+{"msgctxt":"stats","msgid":"SP","msgstr":"ОМ"}
+{"msgctxt":"stats","msgid":"Speed","msgstr":"Швидкість"}
+{"msgctxt":"stats","msgid":"Spell Points","msgstr":"Очки магії"}
+{"msgctxt":"stats","msgid":"Water","msgstr":"Вода"}
+{"msgctxt":"stditems","msgid":"of Air Resistance","msgstr":"Опору повітрю"}
+{"msgctxt":"stditems","msgid":"of Alchemy","msgstr":"Алхімії"}
+{"msgctxt":"stditems","msgid":"of Arms","msgstr":"Зброї"}
+{"msgctxt":"stditems","msgid":"of Body Resistance","msgstr":"Опору Тілу"}
+{"msgctxt":"stditems","msgid":"of Charm","msgstr":"Зачарування"}
+{"msgctxt":"stditems","msgid":"of Cold Resistance","msgstr":"Опору холоду"}
+{"msgctxt":"stditems","msgid":"of Defense","msgstr":"Захисту"}
+{"msgctxt":"stditems","msgid":"of Disarming","msgstr":"Знешкодження пасток"}
+{"msgctxt":"stditems","msgid":"of Dodging","msgstr":"Ухиляння"}
+{"msgctxt":"stditems","msgid":"of Earth Resistance","msgstr":"Опору землі"}
+{"msgctxt":"stditems","msgid":"of Elec Resistance","msgstr":"Опору електриці"}
+{"msgctxt":"stditems","msgid":"of Fire Resistance","msgstr":"Опору вогню"}
+{"msgctxt":"stditems","msgid":"of great Might","msgstr":"великої Міці"}
+{"msgctxt":"stditems","msgid":"of Health","msgstr":"Здоров’я"}
+{"msgctxt":"stditems","msgid":"of Items","msgstr":"Предметів"}
+{"msgctxt":"stditems","msgid":"of Luck","msgstr":"Удачі"}
+{"msgctxt":"stditems","msgid":"of Magic","msgstr":"Магії"}
+{"msgctxt":"stditems","msgid":"of Might","msgstr":"Моці"}
+{"msgctxt":"stditems","msgid":"of Mind Resistance","msgstr":"Опору розуму"}
+{"msgctxt":"stditems","msgid":"of Monsters","msgstr":"Монстрів"}
+{"msgctxt":"stditems","msgid":"of Poison Resistance","msgstr":"Опору отруті"}
+{"msgctxt":"stditems","msgid":"of Precision","msgstr":"Влучності"}
+{"msgctxt":"stditems","msgid":"of Speed","msgstr":"Швидкості"}
+{"msgctxt":"stditems","msgid":"of Stealing","msgstr":"Крадіжки"}
+{"msgctxt":"stditems","msgid":"of the Fist","msgstr":"Кулака"}
+{"msgctxt":"stditems","msgid":"of Thought","msgstr":"Думки"}
+{"msgctxt":"stditems","msgid":"of Vigor","msgstr":"Снаги"}
+{"msgctxt":"stditems","msgid":"of Water Resistance","msgstr":"Опору воді"}

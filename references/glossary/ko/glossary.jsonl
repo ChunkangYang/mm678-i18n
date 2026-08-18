@@ -1,0 +1,2431 @@
+{"msgctxt":"autonote or awards","msgid":"Accuracy Boost (White) = Orange + Yellow and Orange Layered","msgstr":"정확도 상승 (흰색) = 주황 + 노랑과 주황이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered","msgstr":"바람 저항력 (하양) = 빨강과 주황이 층을 이룬 물약 + 파랑과 보라가 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Awaken (Green) = Yellow + Blue","msgstr":"각성 (초록) = 노랑 + 파랑"}
+{"msgctxt":"autonote or awards","msgid":"Bless (Red and Green Layered) = Red + Green","msgstr":"축복 (빨강과 초록이 층을 이룸) = 빨강 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Bless (White) = Purple + Blue","msgstr":"축복 (흰색) = 보라 + 파랑"}
+{"msgctxt":"autonote or awards","msgid":"Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered","msgstr":"육체 저항력 (하양) = 파랑과 초록이 층을 이룬 물약 + 노랑과 주황이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"촉매 (회색) = 버섯 + 빈 병.  다른 회색 시약을 사용하면 효과가 더 강해진다."}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"촉매 (회색) = 버섯 + 빈 병.  다른 회색 시약을 사용하면 효과가 더 강해진다."}
+{"msgctxt":"autonote or awards","msgid":"Cure Disease (Orange) = Yellow + Red","msgstr":"질병 치료 (주황) = 노랑 + 빨강"}
+{"msgctxt":"autonote or awards","msgid":"Cure Insanity (Orange and Green Layered) = Orange + Green","msgstr":"광기 치료 (주황과 초록이 층을 이룸) = 주황 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Green + Yellow and Orange Layered","msgstr":"마비 치료 (흰색) = 초록 + 노랑과 주황이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Orange + Yellow and Green Layered","msgstr":"마비 치료 (흰색) = 주황 + 노랑과 초록이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Cure Poison (Purple) = Blue + Red","msgstr":"중독 치료 (보라) = 파랑 + 빨강"}
+{"msgctxt":"autonote or awards","msgid":"Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.","msgstr":"쇠약 치료 (노랑) = 파피스냅스 + 빈 병.  다른 노란색 시약을 사용하면 효과가 더 강해진다."}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle","msgstr":"상처 치료 (빨강) = 위도윕스 열매 + 빈 병"}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.","msgstr":"상처 치료 (빨강) = 위도윕스 열매 + 빈 병.  다른 빨간색 시약을 사용하면 효과가 더 강해진다."}
+{"msgctxt":"autonote or awards","msgid":"Divine Boost = Divine Power + Any attribute boost potion.","msgstr":"신성한 강화 = 신성한 힘 + 능력치 강화 물약 아무거나."}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (Black) = Restoration + Orange","msgstr":"신성한 치료 (검은색) = 회복 + 주황"}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered","msgstr":"신성한 치료 (하양) = 빨강과 주황이 층을 이룬 물약 + 노랑과 주황이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Divine Magic (Black) = Super Resistance + Green","msgstr":"신성 마법 (검은색) = 초강력 저항력 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (Black) = Extreme Energy + Purple","msgstr":"신성한 힘 (검은색) = 극한의 에너지 + 보라"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (White) = Blue and Green Layered + Yellow and Green Layered","msgstr":"신성한 힘 (하양) = 파랑과 초록이 층을 이룬 물약 + 노랑과 초록이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Divine Protection = Divine Cure + Any resistance potion.","msgstr":"신성한 방어 = 신성한 치료 + 저항력 물약 아무거나."}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered","msgstr":"신성한 회복 (하양) = 파랑과 보라가 층을 이룬 물약 + 노랑과 주황이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered","msgstr":"신성한 회복 (하양) = 빨강과 주황이 층을 이룬 물약 + 파랑과 초록이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered","msgstr":"신성한 회복 (하양) = 빨강과 보라가 층을 이룬 물약 + 노랑과 초록이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)","msgstr":"신성한 초월 = 신성한 회복 + 광기 치료 (또는 공포 제거, 또는 저주 제거)"}
+{"msgctxt":"autonote or awards","msgid":"Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered","msgstr":"대지 저항력 (하양) = 빨강과 보라가 층을 이룬 물약 + 노랑과 주황이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Endurance Boost (White) = Purple + Blue and Purple Layered","msgstr":"지구력 상승 (흰색) = 보라 + 파랑과 보라가 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Energy (Yellow) = Poppysnaps + Empty Bottle","msgstr":"에너지 (노랑) = 파피스냅스 + 빈 병"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy (Black) = Bless + Yellow","msgstr":"정확도의 정수 (검은색) = 축복 + 노랑"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy = Cure Insanity + Stoneskin","msgstr":"정확도의 정수 = 광기 치료 + 돌가죽"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance (Black) = Supreme Protection + Yellow","msgstr":"지구력의 정수 (검은색) = 궁극의 방어 + 노랑"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance = Remove Curse + Recharge Item","msgstr":"지구력의 정수 = 저주 제거 + 아이템 충전"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect (Black) = Stone Skin + Blue","msgstr":"지성의 정수 (검은색) = 돌 피부 + 파랑"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect = Remove Curse + Shield ","msgstr":"지성의 정수 = 저주 제거 + 방패 "}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck (Black) = Super Resistance + Purple","msgstr":"행운의 정수 (검은색) = 초강력 저항력 + 보라"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin","msgstr":"행운의 정수 = 가속 + 영웅심, 아이템 충전 + 방패, 아이템 강화 + 돌가죽"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might (Black) = Heroism + Red","msgstr":"힘의 정수 (검은색) = 영웅심 + 빨강"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might = Remove Fear + Heroism","msgstr":"힘의 정수 = 공포 제거 + 영웅심"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality (Black) = Restoration + Blue","msgstr":"인격의 정수 (검은색) = 회복 + 파랑"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality = Remove Fear + Haste","msgstr":"인격의 정수 = 공포 제거 + 가속"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed (Black) = Haste + Red","msgstr":"속도의 정수 (검은색) = 가속 + 빨강"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed = Cure Insanity + Harden Item","msgstr":"속도의 정수 = 광기 치료 + 아이템 강화"}
+{"msgctxt":"autonote or awards","msgid":"Extreme Energy (White) = Orange + Yellow","msgstr":"극한의 에너지 (흰색) = 주황 + 노랑"}
+{"msgctxt":"autonote or awards","msgid":"Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered","msgstr":"불 저항력 (하양) = 빨강과 주황이 층을 이룬 물약 + 노랑과 초록이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Green + Red and Orange Layered","msgstr":"화염 물약 (흰색) = 초록 + 빨강과 주황이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Purple + Yellow and Orange Layered","msgstr":"화염 물약 (흰색) = 보라 + 노랑과 주황이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Green + Red and Purple Layered","msgstr":"빙결 물약 (흰색) = 초록 + 빨강과 보라가 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Orange + Blue and Purple Layered","msgstr":"빙결 물약 (흰색) = 주황 + 파랑과 보라가 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Harden Item (Yellow and Green Layered) = Yellow + Green","msgstr":"아이템 강화 (노랑과 초록이 층을 이룸) = 노랑 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Haste (Red and Orange Layered) = Red + Orange","msgstr":"가속 (빨강과 주황이 층을 이룸) = 빨강 + 주황"}
+{"msgctxt":"autonote or awards","msgid":"Haste (White) = Green + Yellow","msgstr":"가속 (흰색) = 초록 + 노랑"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (Red and Purple Layered) = Red + Purple","msgstr":"영웅심 (빨강과 보라가 층을 이룸) = 빨강 + 보라"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (White) = Orange + Red","msgstr":"영웅심 (흰색) = 주황 + 빨강"}
+{"msgctxt":"autonote or awards","msgid":"Intellect Boost (White) = Green + Yellow and Green Layered","msgstr":"지성 강화 (흰색) = 초록 + 노랑과 초록이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"행운 강화 (하양) = 빨강과 보라가 층을 이룬 물약 + 파랑과 보라가 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"행운의 장화 (하양) = 빨강과 보라가 층을 이룬 물약 + 파랑과 보라가 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"마법 물약 (파랑) = 피마 뿌리 + 빈 병.  다른 파란색 시약을 사용하면 효과가 더 강해진다."}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle","msgstr":"마법 물약 (파랑) = 피르나 뿌리 + 빈 병"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"마법 물약 (파랑) = 피르나 뿌리 + 빈 병.  다른 파란색 시약을 사용하면 효과가 더 강해진다."}
+{"msgctxt":"autonote or awards","msgid":"Might Boost (White) = Purple + Red and Purple Layered","msgstr":"힘 강화 (흰색) = 보라 + 빨강과 보라가 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered","msgstr":"정신 저항력 (하양) = 빨강과 보라가 층을 이룬 물약 + 파랑과 초록이 층을 이룬 물약"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Orange + Blue and Green Layered","msgstr":"유독성 물약 (흰색) = 주황 + 파랑과 초록이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Purple + Yellow and Green Layered","msgstr":"유독성 물약 (흰색) = 보라 + 노랑과 초록이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Personality Boost (White) = Green + Blue and Green Layered","msgstr":"인격 강화 (흰색) = 초록 + 파랑과 초록이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity","msgstr":"파멸의 물약 = 저주 제거 + 공포 제거, 저주 제거 + 광기 치료, 공포 제거 + 광기 치료"}
+{"msgctxt":"autonote or awards","msgid":"Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.","msgstr":"신들의 물약 = 힘의 정수 + 아이템 강화 또는 지성의 정수 + 돌가죽 또는 인격의 정수 + 아이템 충전 또는 지구력의 정수 + 가속 또는 정확도의 정수 + 방패 또는 속도의 정수 + 영웅심."}
+{"msgctxt":"autonote or awards","msgid":"Preservation (Blue and Orange Layered) = Blue + Orange","msgstr":"생명 보존 (파랑과 주황이 층을 이룸) = 파랑 + 주황"}
+{"msgctxt":"autonote or awards","msgid":"Protection (Orange) = Yellow + Red","msgstr":"방어 (주황) = 노랑 + 빨강"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Cure Insanity + Bless","msgstr":"마법 보호 = 광기 치료 + 축복"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Curse + Water Breathing","msgstr":"마법 보호 = 저주 제거 + 수중 호흡"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Fear + Preservation","msgstr":"마법 보호 = 공포 제거 + 생명 보존"}
+{"msgctxt":"autonote or awards","msgid":"Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)","msgstr":"순수한 정확도 (검은색) = 초록색 물약 + 정확도 상승 (흰색)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Air Resistance = Essence of Luck + Air Resistance","msgstr":"순수한 바람 저항력 = 행운의 정수 + 바람 저항력"}
+{"msgctxt":"autonote or awards","msgid":"Pure Body Resistance = Essence of Luck + Body Resistance","msgstr":"순수한 육체 저항력 = 행운의 정수 + 육체 저항력"}
+{"msgctxt":"autonote or awards","msgid":"Pure Earth Resistance = Essence of Luck + Earth Resistance","msgstr":"순수한 대지 저항력 = 행운의 정수 + 대지 저항력"}
+{"msgctxt":"autonote or awards","msgid":"Pure Endurance (Black) = Green Potion + Endurance Boost (White)","msgstr":"순수한 지구력 (검은색) = 초록색 물약 + 지구력 상승 (흰색)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Fire Resistance = Essence of Luck + Fire Resistance","msgstr":"순수한 불 저항력 = 행운의 정수 + 불 저항력"}
+{"msgctxt":"autonote or awards","msgid":"Pure Intellect (Black) = Orange Potion + Intellect Boost (White)","msgstr":"순수한 지성 (검은색) = 주황색 물약 + 지성 강화 (흰색)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)","msgstr":"순수한 행운 (검정) = 노랑과 주황이 층을 이룬 물약 + 신속 물약 (하양)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Might (Black) = Orange Potion + Might Boost (White)","msgstr":"순수한 힘 (검은색) = 주황색 물약 + 힘 강화 (흰색)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Mind Resistance = Essence of Luck + Mind Resistance","msgstr":"순수한 정신 저항력 = 행운의 정수 + 정신 저항력"}
+{"msgctxt":"autonote or awards","msgid":"Pure Personality (Black) = Purple Potion + Personality Boost (White)","msgstr":"순수한 인격 (검정) = 보라색 물약 + 인격 강화 (하양)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Speed (Black) = Purple Potion + Speed Boost (White)","msgstr":"순수한 속도 (검은색) = 보라색 물약 + 속도 강화 (흰색)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Water Resistance = Essence of Luck + Water Resistance","msgstr":"순수한 물 저항력 = 행운의 정수 + 물 저항력"}
+{"msgctxt":"autonote or awards","msgid":"Recharge Item (Blue and Green Layered) = Blue + Green","msgstr":"아이템 충전 (파랑과 초록이 층을 이룸) = 파랑 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)","msgstr":"회춘 (검정) = 파랑과 주황이 층을 이룬 물약 + 신성한 회복 (하양)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Extreme Energy + Green","msgstr":"회춘 (검은색) = 극한의 에너지 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)","msgstr":"회춘 (검정) = 빨강과 초록이 층을 이룬 물약 + 신성한 회복 (하양)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)","msgstr":"회춘 (검정) = 노랑과 보라가 층을 이룬 물약 + 신성한 회복 (하양)"}
+{"msgctxt":"autonote or awards","msgid":"Remove Curse (Purple and Green Layered) = Purple + Green","msgstr":"저주 제거 (보라와 초록이 층을 이룸) = 보라 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Remove Fear (Orange and Purple Layered) = Orange + Purple","msgstr":"공포 제거 (주황과 보라가 층을 이룸) = 주황 + 보라"}
+{"msgctxt":"autonote or awards","msgid":"Resistance (Green) = Yellow + Blue","msgstr":"저항력 (초록) = 노랑 + 파랑"}
+{"msgctxt":"autonote or awards","msgid":"Restoration(White) = Purple + Green","msgstr":"회복(흰색) = 보라 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Shield (Blue and Purple Layered) = Blue + Purple","msgstr":"방패 (파랑과 보라가 층을 이룸) = 파랑 + 보라"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Orange + Red and Purple Layered","msgstr":"전격 물약 (흰색) = 주황 + 빨강과 보라가 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Purple + Red and Orange Layered","msgstr":"전격 물약 (흰색) = 보라 + 빨강과 주황이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)","msgstr":"살육의 물약 (검정) = 파랑과 보라가 층을 이룬 물약 + 화염 물약 (하양)"}
+{"msgctxt":"autonote or awards","msgid":"Speed Boost (White) = Orange + Red and Orange Layered","msgstr":"속도 강화 (흰색) = 주황 + 빨강과 주황이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Stone Skin (White) = Orange + Blue","msgstr":"돌 피부 (흰색) = 주황 + 파랑"}
+{"msgctxt":"autonote or awards","msgid":"Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)","msgstr":"석화 해제 (검정) = 빨강과 보라가 층을 이룬 물약 + 마비 치료 (하양)"}
+{"msgctxt":"autonote or awards","msgid":"Stoneskin (Yellow and Orange Layered) = Yellow + Orange","msgstr":"돌가죽 (노랑과 주황이 층을 이룸) = 노랑 + 주황"}
+{"msgctxt":"autonote or awards","msgid":"Super Resistance (White) = Green + Blue","msgstr":"초강력 저항력 (흰색) = 초록 + 파랑"}
+{"msgctxt":"autonote or awards","msgid":"Supreme Protection (White) = Orange + Green","msgstr":"궁극의 방어 (흰색) = 주황 + 초록"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Green + Blue and Purple Layered","msgstr":"신속 물약 (흰색) = 초록 + 파랑과 보라가 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Purple + Blue and Green Layered","msgstr":"신속 물약 (흰색) = 보라 + 파랑과 초록이 층을 이룸"}
+{"msgctxt":"autonote or awards","msgid":"Water Breathing (Yellow and Purple Layered) = Yellow + Purple","msgstr":"수중 호흡 (노랑과 보라가 층을 이룸) = 노랑 + 보라"}
+{"msgctxt":"autonote or awards","msgid":"Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered","msgstr":"물 저항력 (하양) = 파랑과 보라가 층을 이룬 물약 + 노랑과 초록이 층을 이룬 물약"}
+{"msgctxt":"class","msgid":"Arch Druid","msgstr":"대드루이드"}
+{"msgctxt":"class","msgid":"Arch Mage","msgstr":"대마법사"}
+{"msgctxt":"class","msgid":"Archer","msgstr":"궁수"}
+{"msgctxt":"class","msgid":"Assassin","msgstr":"암살자"}
+{"msgctxt":"class","msgid":"Battle Mage","msgstr":"전투 마법사"}
+{"msgctxt":"class","msgid":"Black Knight","msgstr":"흑기사"}
+{"msgctxt":"class","msgid":"Bounty Hunter","msgstr":"현상금 사냥꾼"}
+{"msgctxt":"class","msgid":"Cavalier","msgstr":"기병"}
+{"msgctxt":"class","msgid":"Champion","msgstr":"용사"}
+{"msgctxt":"class","msgid":"Cleric","msgstr":"성직자"}
+{"msgctxt":"class","msgid":"Crusader","msgstr":"성전사"}
+{"msgctxt":"class","msgid":"Dark Elf","msgstr":"다크 엘프"}
+{"msgctxt":"class","msgid":"Dark Elf Patriarch","msgstr":"다크 엘프 가주"}
+{"msgctxt":"class","msgid":"Dragon","msgstr":"드래곤"}
+{"msgctxt":"class","msgid":"Druid","msgstr":"드루이드"}
+{"msgctxt":"class","msgid":"Great Druid","msgstr":"대드루이드"}
+{"msgctxt":"class","msgid":"Great Wyrm","msgstr":"거대한 웜"}
+{"msgctxt":"class","msgid":"Hero","msgstr":"영웅"}
+{"msgctxt":"class","msgid":"High Priest","msgstr":"고위 사제"}
+{"msgctxt":"class","msgid":"Hunter","msgstr":"사냥꾼"}
+{"msgctxt":"class","msgid":"Initiate","msgstr":"수련생"}
+{"msgctxt":"class","msgid":"Knight","msgstr":"기사"}
+{"msgctxt":"class","msgid":"Lich","msgstr":"리치"}
+{"msgctxt":"class","msgid":"Master","msgstr":"달인"}
+{"msgctxt":"class","msgid":"Master Archer","msgstr":"달인 궁수"}
+{"msgctxt":"class","msgid":"Master Necromancer","msgstr":"달인 강령술사"}
+{"msgctxt":"class","msgid":"Master Wizard","msgstr":"달인 마법사"}
+{"msgctxt":"class","msgid":"Minotaur","msgstr":"미노타우로스"}
+{"msgctxt":"class","msgid":"Minotaur Lord","msgstr":"미노타우로스 군주"}
+{"msgctxt":"class","msgid":"Monk","msgstr":"수도승"}
+{"msgctxt":"class","msgid":"Necromancer","msgstr":"강령술사"}
+{"msgctxt":"class","msgid":"Ninja","msgstr":"닌자"}
+{"msgctxt":"class","msgid":"Nosferatu","msgstr":"노스페라투"}
+{"msgctxt":"class","msgid":"Paladin","msgstr":"팔라딘"}
+{"msgctxt":"class","msgid":"Patriarch","msgstr":"가주"}
+{"msgctxt":"class","msgid":"Peasant","msgstr":"농민"}
+{"msgctxt":"class","msgid":"Priest","msgstr":"사제"}
+{"msgctxt":"class","msgid":"Priest of Light","msgstr":"빛의 사제"}
+{"msgctxt":"class","msgid":"Priest of the Dark","msgstr":"어둠의 사제"}
+{"msgctxt":"class","msgid":"Priest of the Light","msgstr":"빛의 사제"}
+{"msgctxt":"class","msgid":"Priest of the Sun","msgstr":"태양의 사제"}
+{"msgctxt":"class","msgid":"Ranger","msgstr":"레인저"}
+{"msgctxt":"class","msgid":"Ranger Lord","msgstr":"레인저 군주"}
+{"msgctxt":"class","msgid":"Rogue","msgstr":"도적"}
+{"msgctxt":"class","msgid":"Sniper","msgstr":"저격수"}
+{"msgctxt":"class","msgid":"Sorcerer","msgstr":"소서러"}
+{"msgctxt":"class","msgid":"Spy","msgstr":"첩자"}
+{"msgctxt":"class","msgid":"Thief","msgstr":"도둑"}
+{"msgctxt":"class","msgid":"Troll","msgstr":"트롤"}
+{"msgctxt":"class","msgid":"Vampire","msgstr":"뱀파이어"}
+{"msgctxt":"class","msgid":"Villain","msgstr":"악당"}
+{"msgctxt":"class","msgid":"War Troll","msgstr":"전투 트롤"}
+{"msgctxt":"class","msgid":"Warlock","msgstr":"흑마법사"}
+{"msgctxt":"class","msgid":"Warrior Mage","msgstr":"전투 마법사"}
+{"msgctxt":"class","msgid":"Wizard","msgstr":"마법사"}
+{"msgctxt":"condition","msgid":"Afraid","msgstr":"공포"}
+{"msgctxt":"condition","msgid":"Asleep","msgstr":"수면"}
+{"msgctxt":"condition","msgid":"Cursed","msgstr":"저주"}
+{"msgctxt":"condition","msgid":"Dead","msgstr":"사망"}
+{"msgctxt":"condition","msgid":"Diseased","msgstr":"질병"}
+{"msgctxt":"condition","msgid":"Drunk","msgstr":"취함"}
+{"msgctxt":"condition","msgid":"Eradicated","msgstr":"소멸"}
+{"msgctxt":"condition","msgid":"Good","msgstr":"양호"}
+{"msgctxt":"condition","msgid":"Insane","msgstr":"정신 이상"}
+{"msgctxt":"condition","msgid":"Paralyzed","msgstr":"마비"}
+{"msgctxt":"condition","msgid":"Poison","msgstr":"중독"}
+{"msgctxt":"condition","msgid":"Stoned","msgstr":"석화"}
+{"msgctxt":"condition","msgid":"Unconscious","msgstr":"의식 불명"}
+{"msgctxt":"condition","msgid":"Weak","msgstr":"쇠약"}
+{"msgctxt":"condition","msgid":"Zombie","msgstr":"좀비"}
+{"msgctxt":"items","msgid":"Abbey Normal Golem Head","msgstr":"대수도원의 일반 골렘 머리"}
+{"msgctxt":"items","msgid":"Accuracy Boost","msgstr":"정확도 상승"}
+{"msgctxt":"items","msgid":"Accuracy Boost Recipe","msgstr":"정확도 상승 물약 제조법"}
+{"msgctxt":"items","msgid":"Accurate Crossbow","msgstr":"정확한 석궁"}
+{"msgctxt":"items","msgid":"Aegis","msgstr":"아이기스"}
+{"msgctxt":"items","msgid":"Air Resistance","msgstr":"바람 저항력"}
+{"msgctxt":"items","msgid":"Air Resistance Recipe","msgstr":"바람 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Acid","msgstr":"알라콘제 산성의 마법봉"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Blades","msgstr":"칼날의 알라콘 마법봉"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Charms","msgstr":"매혹의 알라콘 마법봉"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Fireballs","msgstr":"불덩이의 알라콘 마법봉"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Ice","msgstr":"얼음의 알라콘 마법봉"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Lightning","msgstr":"번개의 알라콘 마법봉"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Swarms","msgstr":"곤충 떼의 알라콘 마법봉"}
+{"msgctxt":"items","msgid":"Alloyed Shield","msgstr":"합금 방패"}
+{"msgctxt":"items","msgid":"Almighty Crown","msgstr":"전능의 왕관"}
+{"msgctxt":"items","msgid":"Altar Piece","msgstr":"제단 조각"}
+{"msgctxt":"items","msgid":"Alvar Cloak","msgstr":"알바르의 망토"}
+{"msgctxt":"items","msgid":"Alvarian Boots","msgstr":"알바르 장화"}
+{"msgctxt":"items","msgid":"Alvarian Leather","msgstr":"알바르산 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Alvarian Poignard","msgstr":"알바르식 푸아냐르"}
+{"msgctxt":"items","msgid":"Amber","msgstr":"호박석"}
+{"msgctxt":"items","msgid":"Amethyst","msgstr":"자수정"}
+{"msgctxt":"items","msgid":"Amethyst Ring","msgstr":"자수정 반지"}
+{"msgctxt":"items","msgid":"Amuck","msgstr":"광란"}
+{"msgctxt":"items","msgid":"Amythest","msgstr":"자수정"}
+{"msgctxt":"items","msgid":"Ancient Amulet","msgstr":"고대의 부적"}
+{"msgctxt":"items","msgid":"Angel Statue Painting","msgstr":"천사 조각상 그림"}
+{"msgctxt":"items","msgid":"Angel Statuette","msgstr":"천사 조각상"}
+{"msgctxt":"items","msgid":"Angel's Ring","msgstr":"천사의 반지"}
+{"msgctxt":"items","msgid":"Angelic Helm","msgstr":"천사의 투구"}
+{"msgctxt":"items","msgid":"Ania Selving","msgstr":"아니아 셀빙"}
+{"msgctxt":"items","msgid":"Ankh","msgstr":"앙크"}
+{"msgctxt":"items","msgid":"Anointed Herb Potion","msgstr":"축성된 약초 물약"}
+{"msgctxt":"items","msgid":"Aphrodite","msgstr":"아프로디테"}
+{"msgctxt":"items","msgid":"Apollo","msgstr":"아폴론"}
+{"msgctxt":"items","msgid":"Apple","msgstr":"사과"}
+{"msgctxt":"items","msgid":"Arcane Key","msgstr":"비전의 열쇠"}
+{"msgctxt":"items","msgid":"Arcane Wand of Blasting","msgstr":"폭발의 비전 마법봉"}
+{"msgctxt":"items","msgid":"Arcane Wand of Clouds","msgstr":"구름의 비전 마법봉"}
+{"msgctxt":"items","msgid":"Arcane Wand of Lightning","msgstr":"번개의 비전 마법봉"}
+{"msgctxt":"items","msgid":"Arcane Wand of Paralyzing","msgstr":"마비의 비전 마법봉"}
+{"msgctxt":"items","msgid":"Arcane Wand of Rocks","msgstr":"바위의 비전 마법봉"}
+{"msgctxt":"items","msgid":"Arcane Wand of the Fist","msgstr":"주먹의 비전 마법봉"}
+{"msgctxt":"items","msgid":"Archangel Broadsword","msgstr":"대천사의 브로드소드"}
+{"msgctxt":"items","msgid":"Archangel Wings","msgstr":"대천사의 날개"}
+{"msgctxt":"items","msgid":"Archibald Ironfist Painting","msgstr":"아치발드 아이언피스트의 초상화"}
+{"msgctxt":"items","msgid":"Arcomage Deck","msgstr":"아르코메이지 덱"}
+{"msgctxt":"items","msgid":"Ares","msgstr":"아레스"}
+{"msgctxt":"items","msgid":"Armored Boots","msgstr":"철갑 장화"}
+{"msgctxt":"items","msgid":"Artemis","msgstr":"아르테미스"}
+{"msgctxt":"items","msgid":"Arthur","msgstr":"아서"}
+{"msgctxt":"items","msgid":"Artificer's Belt","msgstr":"장인의 허리띠"}
+{"msgctxt":"items","msgid":"Assassin's Dagger","msgstr":"암살자의 단검"}
+{"msgctxt":"items","msgid":"Astral Shield","msgstr":"별의 방패"}
+{"msgctxt":"items","msgid":"Athena","msgstr":"아테나"}
+{"msgctxt":"items","msgid":"Atlas","msgstr":"아틀라스"}
+{"msgctxt":"items","msgid":"Awaken","msgstr":"각성"}
+{"msgctxt":"items","msgid":"Axe of Balthazar","msgstr":"발타자르의 도끼"}
+{"msgctxt":"items","msgid":"Back Door Key","msgstr":"뒷문 열쇠"}
+{"msgctxt":"items","msgid":"Ball of Dunduck","msgstr":"던덕 치즈볼"}
+{"msgctxt":"items","msgid":"Banded Plate","msgstr":"띠로 보강한 판금 갑옷"}
+{"msgctxt":"items","msgid":"Barbed Club","msgstr":"미늘 박힌 곤봉"}
+{"msgctxt":"items","msgid":"Barbed Trident","msgstr":"가시 박힌 삼지창"}
+{"msgctxt":"items","msgid":"Barrow Key","msgstr":"고분의 열쇠"}
+{"msgctxt":"items","msgid":"Basic Cryptography","msgstr":"기초 암호학"}
+{"msgctxt":"items","msgid":"Bathhouse Key","msgstr":"목욕탕 열쇠"}
+{"msgctxt":"items","msgid":"Battle Axe","msgstr":"전투 도끼"}
+{"msgctxt":"items","msgid":"Battle Hatchet","msgstr":"전투용 손도끼"}
+{"msgctxt":"items","msgid":"Battle Helm","msgstr":"전투 투구"}
+{"msgctxt":"items","msgid":"Battleaxe","msgstr":"전투 도끼"}
+{"msgctxt":"items","msgid":"Beaked Halberd","msgstr":"부리날 할버드"}
+{"msgctxt":"items","msgid":"Bear Statuette","msgstr":"곰 조각상"}
+{"msgctxt":"items","msgid":"Berserk","msgstr":"광분"}
+{"msgctxt":"items","msgid":"Berserker Belt","msgstr":"광전사의 허리띠"}
+{"msgctxt":"items","msgid":"Bibliotheca Chest Key","msgstr":"비블리오테카의 상자 열쇠"}
+{"msgctxt":"items","msgid":"Big Brass Ring","msgstr":"커다란 황동 반지"}
+{"msgctxt":"items","msgid":"Big Tapestry","msgstr":"대형 태피스트리"}
+{"msgctxt":"items","msgid":"Bill of Sale","msgstr":"매매 증서"}
+{"msgctxt":"items","msgid":"Blackmail Letter","msgstr":"협박 편지"}
+{"msgctxt":"items","msgid":"Blade of Mercy","msgstr":"자비의 칼날"}
+{"msgctxt":"items","msgid":"Blaster","msgstr":"블래스터"}
+{"msgctxt":"items","msgid":"Blaster Rifle","msgstr":"블래스터 소총"}
+{"msgctxt":"items","msgid":"Bless","msgstr":"축복"}
+{"msgctxt":"items","msgid":"Blessed Ring","msgstr":"축복받은 반지"}
+{"msgctxt":"items","msgid":"Blood Dagger","msgstr":"피의 단검"}
+{"msgctxt":"items","msgid":"Blood Drop Crossbow","msgstr":"핏방울 석궁"}
+{"msgctxt":"items","msgid":"Blood Talisman","msgstr":"피의 부적"}
+{"msgctxt":"items","msgid":"Blue Quartz","msgstr":"푸른 석영"}
+{"msgctxt":"items","msgid":"Body Resistance","msgstr":"육체 저항력"}
+{"msgctxt":"items","msgid":"Body Resistance Recipe","msgstr":"육체 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Bone","msgstr":"뼈"}
+{"msgctxt":"items","msgid":"Bone of Doom","msgstr":"파멸의 뼈"}
+{"msgctxt":"items","msgid":"Bone Staff","msgstr":"뼈 지팡이"}
+{"msgctxt":"items","msgid":"Brass Charm","msgstr":"황동 부적"}
+{"msgctxt":"items","msgid":"Brass Ring","msgstr":"황동 반지"}
+{"msgctxt":"items","msgid":"Breaker","msgstr":"파괴자"}
+{"msgctxt":"items","msgid":"Broadsword","msgstr":"브로드소드"}
+{"msgctxt":"items","msgid":"Bronze Amulet","msgstr":"청동 부적"}
+{"msgctxt":"items","msgid":"Bronze Ring","msgstr":"청동 반지"}
+{"msgctxt":"items","msgid":"Bronze Shield","msgstr":"청동 방패"}
+{"msgctxt":"items","msgid":"Calvary Shield","msgstr":"기병 방패"}
+{"msgctxt":"items","msgid":"Candelabra","msgstr":"촛대"}
+{"msgctxt":"items","msgid":"Cannon Design Notes","msgstr":"대포 설계 기록"}
+{"msgctxt":"items","msgid":"Cannonball of Dominion","msgstr":"지배의 대포알"}
+{"msgctxt":"items","msgid":"Captain's Code","msgstr":"선장의 규율"}
+{"msgctxt":"items","msgid":"Captain's Cutlass","msgstr":"선장의 커틀러스"}
+{"msgctxt":"items","msgid":"Caravaner's Crossbow","msgstr":"대상단원의 석궁"}
+{"msgctxt":"items","msgid":"Caravaner's Leather","msgstr":"대상단원의 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Caravaner's Small Shield","msgstr":"상단원의 소형 방패"}
+{"msgctxt":"items","msgid":"Cardinal Cloak","msgstr":"진홍색 망토"}
+{"msgctxt":"items","msgid":"Case of Soul Jars","msgstr":"영혼 항아리 보관함"}
+{"msgctxt":"items","msgid":"Castle Shield","msgstr":"성채 방패"}
+{"msgctxt":"items","msgid":"Catalyst","msgstr":"촉매"}
+{"msgctxt":"items","msgid":"Catherine's Key","msgstr":"캐서린의 열쇠"}
+{"msgctxt":"items","msgid":"Cavalier Gauntlets","msgstr":"기병의 건틀릿"}
+{"msgctxt":"items","msgid":"Celestial Shield","msgstr":"천상의 방패"}
+{"msgctxt":"items","msgid":"Cell Key","msgstr":"감방 열쇠"}
+{"msgctxt":"items","msgid":"Central Pillar Key","msgstr":"중앙 기둥 열쇠"}
+{"msgctxt":"items","msgid":"Certificate of Authentication","msgstr":"진품 인증서"}
+{"msgctxt":"items","msgid":"Chain Mail","msgstr":"사슬 갑옷"}
+{"msgctxt":"items","msgid":"Champion Sword","msgstr":"용사의 검"}
+{"msgctxt":"items","msgid":"Champion's Sword","msgstr":"용사의 검"}
+{"msgctxt":"items","msgid":"Charele","msgstr":"샤렐"}
+{"msgctxt":"items","msgid":"Charged connector stone","msgstr":"충전된 연결석"}
+{"msgctxt":"items","msgid":"Chest Key","msgstr":"상자 열쇠"}
+{"msgctxt":"items","msgid":"Chime of Harmony","msgstr":"조화의 종"}
+{"msgctxt":"items","msgid":"Cipher","msgstr":"암호문"}
+{"msgctxt":"items","msgid":"Citrine","msgstr":"황수정"}
+{"msgctxt":"items","msgid":"Clanker's Amulet","msgstr":"클랭커의 부적"}
+{"msgctxt":"items","msgid":"Claw Amulet","msgstr":"발톱 부적"}
+{"msgctxt":"items","msgid":"Cloak of Baa","msgstr":"바아의 망토"}
+{"msgctxt":"items","msgid":"Cloak of the Sheep","msgstr":"양의 망토"}
+{"msgctxt":"items","msgid":"Cloth Hat","msgstr":"천 모자"}
+{"msgctxt":"items","msgid":"Club","msgstr":"곤봉"}
+{"msgctxt":"items","msgid":"Cobra Egg","msgstr":"코브라 알"}
+{"msgctxt":"items","msgid":"Colony Zod Key","msgstr":"조드 식민지 열쇠"}
+{"msgctxt":"items","msgid":"Common Halberd","msgstr":"평범한 할버드"}
+{"msgctxt":"items","msgid":"Communication Officer's Code","msgstr":"통신 장교의 암호"}
+{"msgctxt":"items","msgid":"Composite Bow","msgstr":"합성궁"}
+{"msgctxt":"items","msgid":"Conan","msgstr":"코난"}
+{"msgctxt":"items","msgid":"Conflux Key","msgstr":"컨플럭스 열쇠"}
+{"msgctxt":"items","msgid":"Connector stone","msgstr":"연결석"}
+{"msgctxt":"items","msgid":"Conscript's Helm","msgstr":"징집병의 투구"}
+{"msgctxt":"items","msgid":"Contestant's Shield","msgstr":"참가자의 방패"}
+{"msgctxt":"items","msgid":"Control Cube","msgstr":"제어 큐브"}
+{"msgctxt":"items","msgid":"Control Undead","msgstr":"언데드 지배"}
+{"msgctxt":"items","msgid":"Corsair","msgstr":"코르세어"}
+{"msgctxt":"items","msgid":"Crate of Arrowheads","msgstr":"화살촉 상자"}
+{"msgctxt":"items","msgid":"Crate of Enrothian Wine","msgstr":"엔로스산 와인 상자"}
+{"msgctxt":"items","msgid":"Crate of Glass Bottles","msgstr":"유리병 상자"}
+{"msgctxt":"items","msgid":"Crate of Griffin Feathers","msgstr":"그리핀 깃털 상자"}
+{"msgctxt":"items","msgid":"Crate of Sand","msgstr":"모래가 든 상자"}
+{"msgctxt":"items","msgid":"Crate of Tularean Wood","msgstr":"툴라레아산 목재 상자"}
+{"msgctxt":"items","msgid":"Cronos","msgstr":"크로노스"}
+{"msgctxt":"items","msgid":"Crossbow","msgstr":"석궁"}
+{"msgctxt":"items","msgid":"Crown","msgstr":"왕관"}
+{"msgctxt":"items","msgid":"Crown of Final Dominion","msgstr":"궁극 지배의 왕관"}
+{"msgctxt":"items","msgid":"Crude Axe","msgstr":"조잡한 도끼"}
+{"msgctxt":"items","msgid":"Crude Bow","msgstr":"조잡한 활"}
+{"msgctxt":"items","msgid":"Crude Crossbow","msgstr":"조잡한 석궁"}
+{"msgctxt":"items","msgid":"Crude Dagger","msgstr":"조잡한 단검"}
+{"msgctxt":"items","msgid":"Crude Leather Armor","msgstr":"조잡한 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Crude Longbow","msgstr":"조잡한 장궁"}
+{"msgctxt":"items","msgid":"Crude Longsword","msgstr":"허술한 장검"}
+{"msgctxt":"items","msgid":"Crude Mace","msgstr":"조잡한 철퇴"}
+{"msgctxt":"items","msgid":"Crude Spear","msgstr":"조잡한 창"}
+{"msgctxt":"items","msgid":"Crude Trident","msgstr":"조잡한 삼지창"}
+{"msgctxt":"items","msgid":"Cruel Spear","msgstr":"잔혹한 창"}
+{"msgctxt":"items","msgid":"Crusader Sword","msgstr":"성전사의 검"}
+{"msgctxt":"items","msgid":"Crusader's Gauntlets","msgstr":"성전사의 건틀릿"}
+{"msgctxt":"items","msgid":"Crushed Rose Petals","msgstr":"으깬 장미 꽃잎"}
+{"msgctxt":"items","msgid":"Crystal Dagger","msgstr":"수정 단검"}
+{"msgctxt":"items","msgid":"Crystal of Terrax","msgstr":"테락스의 수정"}
+{"msgctxt":"items","msgid":"Crystal Skull","msgstr":"수정 해골"}
+{"msgctxt":"items","msgid":"Cure Disease","msgstr":"질병 치료"}
+{"msgctxt":"items","msgid":"Cure Insanity","msgstr":"광기 치료"}
+{"msgctxt":"items","msgid":"Cure Paralysis","msgstr":"마비 치료"}
+{"msgctxt":"items","msgid":"Cure Paralysis Recipe","msgstr":"마비 치료 물약 제조법"}
+{"msgctxt":"items","msgid":"Cure Poison","msgstr":"중독 치료"}
+{"msgctxt":"items","msgid":"Cure Weakness","msgstr":"쇠약 치료"}
+{"msgctxt":"items","msgid":"Cure Wounds","msgstr":"상처 치료"}
+{"msgctxt":"items","msgid":"Cutlass","msgstr":"커틀러스"}
+{"msgctxt":"items","msgid":"Cycle of Life","msgstr":"생명의 순환"}
+{"msgctxt":"items","msgid":"Dadeross' Letter to Fellmoon","msgstr":"펠문에게 보내는 다데로스의 편지"}
+{"msgctxt":"items","msgid":"Dagger","msgstr":"단검"}
+{"msgctxt":"items","msgid":"Dagger Wound Oddities","msgstr":"단검 상처의 기이한 점"}
+{"msgctxt":"items","msgid":"Dark Containment","msgstr":"어둠 봉인"}
+{"msgctxt":"items","msgid":"Dark Elven Bastard Sword","msgstr":"다크 엘프의 바스타드 소드"}
+{"msgctxt":"items","msgid":"Dark Elven Longsword","msgstr":"어둠의 엘프 장검"}
+{"msgctxt":"items","msgid":"Dark Grasp","msgstr":"어둠의 손아귀"}
+{"msgctxt":"items","msgid":"Dark Hammer","msgstr":"어둠의 망치"}
+{"msgctxt":"items","msgid":"Dark Knight Plate","msgstr":"암흑 기사의 판금 갑옷"}
+{"msgctxt":"items","msgid":"Datura","msgstr":"독말풀"}
+{"msgctxt":"items","msgid":"Dazzling Ring","msgstr":"눈부신 반지"}
+{"msgctxt":"items","msgid":"Death Head Shield","msgstr":"해골 방패"}
+{"msgctxt":"items","msgid":"Death Mace","msgstr":"죽음의 철퇴"}
+{"msgctxt":"items","msgid":"Death's Head Pendant","msgstr":"해골 펜던트"}
+{"msgctxt":"items","msgid":"Deck of Fate","msgstr":"운명의 카드패"}
+{"msgctxt":"items","msgid":"Defender Helm","msgstr":"방어자의 투구"}
+{"msgctxt":"items","msgid":"Detect Life","msgstr":"생명 감지"}
+{"msgctxt":"items","msgid":"Devil Plans","msgstr":"악마의 계획서"}
+{"msgctxt":"items","msgid":"Devilbone Bow","msgstr":"악마뼈 활"}
+{"msgctxt":"items","msgid":"Diamond","msgstr":"다이아몬드"}
+{"msgctxt":"items","msgid":"Diary Page","msgstr":"일기장 낱장"}
+{"msgctxt":"items","msgid":"Dimension door","msgstr":"차원의 문"}
+{"msgctxt":"items","msgid":"Dire Wolf Pelt","msgstr":"다이어 울프 가죽"}
+{"msgctxt":"items","msgid":"Discharge Papers","msgstr":"제대 증서"}
+{"msgctxt":"items","msgid":"Disheveled Chain Mail","msgstr":"너저분한 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Divine Boost ","msgstr":"신성한 강화 "}
+{"msgctxt":"items","msgid":"Divine Boost recipe","msgstr":"신성한 강화 제조법"}
+{"msgctxt":"items","msgid":"Divine Cure","msgstr":"신성한 치료"}
+{"msgctxt":"items","msgid":"Divine Cure Recipe","msgstr":"신성한 치료 제조법"}
+{"msgctxt":"items","msgid":"Divine Dagger","msgstr":"신성한 단검"}
+{"msgctxt":"items","msgid":"Divine Magic","msgstr":"신성 마법"}
+{"msgctxt":"items","msgid":"Divine Power","msgstr":"신성한 힘"}
+{"msgctxt":"items","msgid":"Divine Power Recipe","msgstr":"신성한 힘 제조법"}
+{"msgctxt":"items","msgid":"Divine Protection","msgstr":"신성한 방어"}
+{"msgctxt":"items","msgid":"Divine Protection recipe","msgstr":"신성한 방어 물약 제조법"}
+{"msgctxt":"items","msgid":"Divine Restoration","msgstr":"신성한 회복"}
+{"msgctxt":"items","msgid":"Divine Restoration Recipe","msgstr":"신성한 회복 물약 제조법"}
+{"msgctxt":"items","msgid":"Divine Transcendence","msgstr":"신성한 초월"}
+{"msgctxt":"items","msgid":"Divine Transcendence recipe","msgstr":"신성한 초월 물약 제조법"}
+{"msgctxt":"items","msgid":"Doctor's Code","msgstr":"의사의 규범"}
+{"msgctxt":"items","msgid":"Doom's Day Cloak","msgstr":"최후의 날 망토"}
+{"msgctxt":"items","msgid":"Dragon Claw","msgstr":"드래곤 발톱"}
+{"msgctxt":"items","msgid":"Dragon Egg","msgstr":"드래곤 알"}
+{"msgctxt":"items","msgid":"Dragon Harpoon","msgstr":"드래곤 작살"}
+{"msgctxt":"items","msgid":"Dragon Helm","msgstr":"드래곤 투구"}
+{"msgctxt":"items","msgid":"Dragon Hide Gauntlets","msgstr":"드래곤 가죽 건틀릿"}
+{"msgctxt":"items","msgid":"Dragon Hunter's Shield","msgstr":"드래곤 사냥꾼의 방패"}
+{"msgctxt":"items","msgid":"Dragon Leader's Egg","msgstr":"드래곤 우두머리의 알"}
+{"msgctxt":"items","msgid":"Dragon Leather","msgstr":"드래곤 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Dragon Statuette","msgstr":"드래곤 조각상"}
+{"msgctxt":"items","msgid":"Dragon Tower Keys","msgstr":"드래곤 탑 열쇠"}
+{"msgctxt":"items","msgid":"Dragon Turtle Fang","msgstr":"드래곤 거북 송곳니"}
+{"msgctxt":"items","msgid":"Dragon's Eye","msgstr":"드래곤의 눈"}
+{"msgctxt":"items","msgid":"Dragonbane Flower","msgstr":"드래곤베인 꽃"}
+{"msgctxt":"items","msgid":"Dragoning Plate","msgstr":"드래곤 방호 판금 갑옷"}
+{"msgctxt":"items","msgid":"Dragonning Blade","msgstr":"드래곤의 칼날"}
+{"msgctxt":"items","msgid":"Dragonning Boots","msgstr":"드래곤의 장화"}
+{"msgctxt":"items","msgid":"Dried Sunfish","msgstr":"말린 개복치"}
+{"msgctxt":"items","msgid":"Drogg's Helm","msgstr":"드로그의 투구"}
+{"msgctxt":"items","msgid":"Druid Circlet of Power","msgstr":"힘의 드루이드 관"}
+{"msgctxt":"items","msgid":"Drum of Victory","msgstr":"승리의 북"}
+{"msgctxt":"items","msgid":"Dueling Long Dagger","msgstr":"결투용 긴 단검"}
+{"msgctxt":"items","msgid":"Duelist Blade","msgstr":"결투가의 검"}
+{"msgctxt":"items","msgid":"Dwarven Axe","msgstr":"드워프 도끼"}
+{"msgctxt":"items","msgid":"Dwarven Battleaxe","msgstr":"드워프 전투 도끼"}
+{"msgctxt":"items","msgid":"Dwarven Dagger","msgstr":"드워프의 단검"}
+{"msgctxt":"items","msgid":"Dwarven Hammer","msgstr":"드워프의 망치"}
+{"msgctxt":"items","msgid":"Dwarven Morningstar","msgstr":"드워프제 모닝스타"}
+{"msgctxt":"items","msgid":"Eagle Statuette","msgstr":"독수리 조각상"}
+{"msgctxt":"items","msgid":"Earth Resistance","msgstr":"대지 저항력"}
+{"msgctxt":"items","msgid":"Earth Resistance Recipe","msgstr":"대지 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"East Pillar Key","msgstr":"동쪽 기둥 열쇠"}
+{"msgctxt":"items","msgid":"Ebonest","msgstr":"칠흑"}
+{"msgctxt":"items","msgid":"Eclipse","msgstr":"이클립스"}
+{"msgctxt":"items","msgid":"Elderaxe","msgstr":"고대의 도끼"}
+{"msgctxt":"items","msgid":"Eldritch Shield","msgstr":"불가사의한 방패"}
+{"msgctxt":"items","msgid":"Elegant Cloak","msgstr":"우아한 망토"}
+{"msgctxt":"items","msgid":"Elegant Letter","msgstr":"우아한 편지"}
+{"msgctxt":"items","msgid":"Elfbane","msgstr":"엘프의 파멸"}
+{"msgctxt":"items","msgid":"Elite Halberd","msgstr":"정예 할버드"}
+{"msgctxt":"items","msgid":"Elite Minotaur Axe","msgstr":"정예 미노타우로스 도끼"}
+{"msgctxt":"items","msgid":"Elixir","msgstr":"엘릭서"}
+{"msgctxt":"items","msgid":"Elsenrail","msgstr":"엘센레일"}
+{"msgctxt":"items","msgid":"Elven Bow","msgstr":"엘프 활"}
+{"msgctxt":"items","msgid":"Elven Chainmail","msgstr":"엘프 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Elven Cloak","msgstr":"엘프 망토"}
+{"msgctxt":"items","msgid":"Elven Long Spear","msgstr":"엘프 장창"}
+{"msgctxt":"items","msgid":"Elven Longbow","msgstr":"엘프 장궁"}
+{"msgctxt":"items","msgid":"Elven Saber","msgstr":"엘프 사브르"}
+{"msgctxt":"items","msgid":"Elven Spear","msgstr":"엘프 창"}
+{"msgctxt":"items","msgid":"Elven Warbow","msgstr":"엘프 전투활"}
+{"msgctxt":"items","msgid":"Elvish Toadstool","msgstr":"엘프 독버섯"}
+{"msgctxt":"items","msgid":"Emerald","msgstr":"에메랄드"}
+{"msgctxt":"items","msgid":"Emerald Ring","msgstr":"에메랄드 반지"}
+{"msgctxt":"items","msgid":"Emerald Staff","msgstr":"에메랄드 지팡이"}
+{"msgctxt":"items","msgid":"Emperor Thorn's Key","msgstr":"쏜 황제의 열쇠"}
+{"msgctxt":"items","msgid":"Empty Message Scroll","msgstr":"빈 전갈 두루마리"}
+{"msgctxt":"items","msgid":"Enchanted Amulet","msgstr":"마법 부적"}
+{"msgctxt":"items","msgid":"Enchanted Leather","msgstr":"마법이 깃든 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Enchanted Ring","msgstr":"마법 반지"}
+{"msgctxt":"items","msgid":"Endurance Boost","msgstr":"지구력 상승"}
+{"msgctxt":"items","msgid":"Endurance Boost Recipe","msgstr":"지구력 상승 물약 제조법"}
+{"msgctxt":"items","msgid":"Enemies List","msgstr":"적 명단"}
+{"msgctxt":"items","msgid":"Energy","msgstr":"에너지"}
+{"msgctxt":"items","msgid":"Engineer's Code","msgstr":"기술자의 암호"}
+{"msgctxt":"items","msgid":"Enslave","msgstr":"예속"}
+{"msgctxt":"items","msgid":"Erathian Long Dagger","msgstr":"에라시아의 긴 단검"}
+{"msgctxt":"items","msgid":"Erudine Chainmail","msgstr":"에루딘 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Erudine-laced ore","msgstr":"에루딘 함유 광석"}
+{"msgctxt":"items","msgid":"Essence of Accuracy","msgstr":"정확도의 정수"}
+{"msgctxt":"items","msgid":"Essence of Accuracy recipe","msgstr":"정확도의 정수 물약 제조법"}
+{"msgctxt":"items","msgid":"Essence of Endurance","msgstr":"지구력의 정수"}
+{"msgctxt":"items","msgid":"Essence of Endurance recipe","msgstr":"지구력의 정수 물약 제조법"}
+{"msgctxt":"items","msgid":"Essence of Intellect","msgstr":"지성의 정수"}
+{"msgctxt":"items","msgid":"Essence of Intellect recipe","msgstr":"지성의 정수 물약 제조법"}
+{"msgctxt":"items","msgid":"Essence of Luck","msgstr":"행운의 정수"}
+{"msgctxt":"items","msgid":"Essence of Luck recipe","msgstr":"행운의 정수 제조법"}
+{"msgctxt":"items","msgid":"Essence of Might","msgstr":"힘의 정수"}
+{"msgctxt":"items","msgid":"Essence of Might recipe","msgstr":"힘의 정수 물약 제조법"}
+{"msgctxt":"items","msgid":"Essence of Personality","msgstr":"인격의 정수"}
+{"msgctxt":"items","msgid":"Essence of Personality recipe","msgstr":"인격의 정수 물약 제조법"}
+{"msgctxt":"items","msgid":"Essence of Speed","msgstr":"속도의 정수"}
+{"msgctxt":"items","msgid":"Essence of Speed recipe","msgstr":"속도의 정수 물약 제조법"}
+{"msgctxt":"items","msgid":"Ethereal Ring","msgstr":"영체의 반지"}
+{"msgctxt":"items","msgid":"Ethric's Skull","msgstr":"에스릭의 두개골"}
+{"msgctxt":"items","msgid":"Ethric's Staff","msgstr":"에스릭의 지팡이"}
+{"msgctxt":"items","msgid":"Excalibur","msgstr":"엑스칼리버"}
+{"msgctxt":"items","msgid":"Excerpt from a Diary","msgstr":"일기 발췌문"}
+{"msgctxt":"items","msgid":"Exquisite Long Dagger","msgstr":"정교한 긴 단검"}
+{"msgctxt":"items","msgid":"Exquisite Ring","msgstr":"정교한 반지"}
+{"msgctxt":"items","msgid":"Extreme Energy","msgstr":"극한의 에너지"}
+{"msgctxt":"items","msgid":"Eyeball Amulet","msgstr":"눈알 부적"}
+{"msgctxt":"items","msgid":"Fae Dust","msgstr":"요정 가루"}
+{"msgctxt":"items","msgid":"Faerie Key","msgstr":"요정의 열쇠"}
+{"msgctxt":"items","msgid":"Faerie Pipes","msgstr":"요정의 피리"}
+{"msgctxt":"items","msgid":"Faerie Ring","msgstr":"요정 반지"}
+{"msgctxt":"items","msgid":"Fairy Wand of Fire","msgstr":"요정제 불의 마법봉"}
+{"msgctxt":"items","msgid":"Fairy Wand of Harm","msgstr":"요정제 해악의 마법봉"}
+{"msgctxt":"items","msgid":"Fairy Wand of Ice","msgstr":"얼음의 요정 마법봉"}
+{"msgctxt":"items","msgid":"Fairy Wand of Lashing","msgstr":"채찍의 요정 마법봉"}
+{"msgctxt":"items","msgid":"Fairy Wand of Light","msgstr":"요정제 빛의 마법봉"}
+{"msgctxt":"items","msgid":"Fairy Wand of Mind","msgstr":"요정제 정신의 마법봉"}
+{"msgctxt":"items","msgid":"Fairy Wand of Poison","msgstr":"요정제 독의 마법봉"}
+{"msgctxt":"items","msgid":"Fairy Wand of Sparks","msgstr":"요정제 전기 불꽃의 마법봉"}
+{"msgctxt":"items","msgid":"Fairy Wand of Swarms","msgstr":"요정제 곤충 떼의 마법봉"}
+{"msgctxt":"items","msgid":"False Report","msgstr":"허위 보고서"}
+{"msgctxt":"items","msgid":"False Riverstride Plans","msgstr":"가짜 리버스트라이드 설계도"}
+{"msgctxt":"items","msgid":"Fancy Hat","msgstr":"화려한 모자"}
+{"msgctxt":"items","msgid":"Fanged Blade","msgstr":"송곳니 칼날"}
+{"msgctxt":"items","msgid":"Fate","msgstr":"운명"}
+{"msgctxt":"items","msgid":"Festival Hat","msgstr":"축제 모자"}
+{"msgctxt":"items","msgid":"Field Hammer","msgstr":"야전 망치"}
+{"msgctxt":"items","msgid":"Finality","msgstr":"종언"}
+{"msgctxt":"items","msgid":"Fine Belt","msgstr":"고급 벨트"}
+{"msgctxt":"items","msgid":"Fine Chain Mail","msgstr":"고급 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Fine Ring","msgstr":"고급 반지"}
+{"msgctxt":"items","msgid":"Fire Amulet","msgstr":"불의 부적"}
+{"msgctxt":"items","msgid":"Fire Aura","msgstr":"불의 오라"}
+{"msgctxt":"items","msgid":"Fire Resistance","msgstr":"불 저항력"}
+{"msgctxt":"items","msgid":"Fire Resistance Recipe","msgstr":"불 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Fire Spike","msgstr":"불의 쐐기"}
+{"msgctxt":"items","msgid":"First Mate's Code","msgstr":"일등항해사의 암호"}
+{"msgctxt":"items","msgid":"Flail","msgstr":"플레일"}
+{"msgctxt":"items","msgid":"Flame Door Key","msgstr":"화염문 열쇠"}
+{"msgctxt":"items","msgid":"Flaming Potion","msgstr":"화염 물약"}
+{"msgctxt":"items","msgid":"Flaming Potion Recipe","msgstr":"화염 물약 제조법"}
+{"msgctxt":"items","msgid":"Flawed Amulets","msgstr":"결함 있는 부적들"}
+{"msgctxt":"items","msgid":"Fleetfingers","msgstr":"날쌘손"}
+{"msgctxt":"items","msgid":"Floor Tile (w/ moon insignia)","msgstr":"달 문양이 새겨진 바닥 타일"}
+{"msgctxt":"items","msgid":"Flower (Rose)","msgstr":"꽃 (장미)"}
+{"msgctxt":"items","msgid":"Flute","msgstr":"플루트"}
+{"msgctxt":"items","msgid":"Focal Ring","msgstr":"초점 반지"}
+{"msgctxt":"items","msgid":"Footman's Axe","msgstr":"보병의 도끼"}
+{"msgctxt":"items","msgid":"Forge Gauntlets","msgstr":"용광로 건틀릿"}
+{"msgctxt":"items","msgid":"Forged Vouchers","msgstr":"위조 교환권"}
+{"msgctxt":"items","msgid":"Foulfang","msgstr":"사악한 송곳니"}
+{"msgctxt":"items","msgid":"Four Leaf Clover","msgstr":"네잎클로버"}
+{"msgctxt":"items","msgid":"Fragment of Soldier's Diary","msgstr":"병사의 일기 조각"}
+{"msgctxt":"items","msgid":"Freezing Potion","msgstr":"빙결 물약"}
+{"msgctxt":"items","msgid":"Freezing Potion Recipe","msgstr":"빙결 물약 제조법"}
+{"msgctxt":"items","msgid":"Full Helm","msgstr":"전면 투구"}
+{"msgctxt":"items","msgid":"Galahad","msgstr":"갤러해드"}
+{"msgctxt":"items","msgid":"Garnet","msgstr":"석류석"}
+{"msgctxt":"items","msgid":"Gauntlets","msgstr":"건틀릿"}
+{"msgctxt":"items","msgid":"Gem of Restoration","msgstr":"회복의 보석"}
+{"msgctxt":"items","msgid":"Gemstone Ring","msgstr":"보석 반지"}
+{"msgctxt":"items","msgid":"Genie Lamp","msgstr":"지니 램프"}
+{"msgctxt":"items","msgid":"Ghost Ring","msgstr":"유령 반지"}
+{"msgctxt":"items","msgid":"Ghoulsbane","msgstr":"구울의 파멸"}
+{"msgctxt":"items","msgid":"Gibbet","msgstr":"교수대"}
+{"msgctxt":"items","msgid":"Gilded Belt","msgstr":"금도금 허리띠"}
+{"msgctxt":"items","msgid":"Glomenmail","msgstr":"글로멘메일"}
+{"msgctxt":"items","msgid":"Glomenthal","msgstr":"글로멘탈"}
+{"msgctxt":"items","msgid":"Glorious Cloak","msgstr":"영광스러운 망토"}
+{"msgctxt":"items","msgid":"Glory Shield","msgstr":"영광의 방패"}
+{"msgctxt":"items","msgid":"Goblin Cutlass","msgstr":"고블린 커틀러스"}
+{"msgctxt":"items","msgid":"Goblin Scimitar","msgstr":"고블린 시미터"}
+{"msgctxt":"items","msgid":"Goblin Shield","msgstr":"고블린 방패"}
+{"msgctxt":"items","msgid":"Goblinwatch Code","msgstr":"고블린 감시탑 암호"}
+{"msgctxt":"items","msgid":"Gold","msgstr":"금"}
+{"msgctxt":"items","msgid":"Gold Ring","msgstr":"금반지"}
+{"msgctxt":"items","msgid":"Golden Chain Mail","msgstr":"황금 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Golden Plate Armor","msgstr":"황금 판금 갑옷"}
+{"msgctxt":"items","msgid":"Golden Pyramid","msgstr":"황금 피라미드"}
+{"msgctxt":"items","msgid":"Golem chest","msgstr":"골렘 몸통"}
+{"msgctxt":"items","msgid":"Golem head","msgstr":"골렘 머리"}
+{"msgctxt":"items","msgid":"Golem left arm","msgstr":"골렘의 왼팔"}
+{"msgctxt":"items","msgid":"Golem left leg","msgstr":"골렘의 왼쪽 다리"}
+{"msgctxt":"items","msgid":"Golem right arm","msgstr":"골렘의 오른팔"}
+{"msgctxt":"items","msgid":"Golem right leg","msgstr":"골렘의 오른쪽 다리"}
+{"msgctxt":"items","msgid":"Gothic Amulet","msgstr":"고딕 부적"}
+{"msgctxt":"items","msgid":"Governor's Armor","msgstr":"총독의 갑옷"}
+{"msgctxt":"items","msgid":"Graceful Sword","msgstr":"우아한 검"}
+{"msgctxt":"items","msgid":"Grand Poleax","msgstr":"최상급 장대도끼"}
+{"msgctxt":"items","msgid":"Grand Poleaxe","msgstr":"최상급 장대도끼"}
+{"msgctxt":"items","msgid":"Great Sword","msgstr":"대검"}
+{"msgctxt":"items","msgid":"Green Apple","msgstr":"초록 사과"}
+{"msgctxt":"items","msgid":"Green Garnet","msgstr":"녹색 석류석"}
+{"msgctxt":"items","msgid":"Griffin Bow","msgstr":"그리핀의 활"}
+{"msgctxt":"items","msgid":"Grognard's Cutlass","msgstr":"그로그나드의 커틀러스"}
+{"msgctxt":"items","msgid":"Ground Wyvern Horn","msgstr":"분쇄한 와이번 뿔"}
+{"msgctxt":"items","msgid":"Gryphonheart's Trumpet","msgstr":"그리폰하트의 나팔"}
+{"msgctxt":"items","msgid":"Guardian","msgstr":"수호자"}
+{"msgctxt":"items","msgid":"Guardian Helm","msgstr":"수호자의 투구"}
+{"msgctxt":"items","msgid":"Guild Key","msgstr":"길드 열쇠"}
+{"msgctxt":"items","msgid":"Guinevere","msgstr":"기네비어"}
+{"msgctxt":"items","msgid":"Hades","msgstr":"하데스"}
+{"msgctxt":"items","msgid":"Halberd","msgstr":"할버드"}
+{"msgctxt":"items","msgid":"Haldar's Remains","msgstr":"할다르의 유해"}
+{"msgctxt":"items","msgid":"Hammer","msgstr":"망치"}
+{"msgctxt":"items","msgid":"Hammerhands","msgstr":"망치손"}
+{"msgctxt":"items","msgid":"Hand Axe","msgstr":"손도끼"}
+{"msgctxt":"items","msgid":"Hands of the Master","msgstr":"달인의 손"}
+{"msgctxt":"items","msgid":"Harden Item","msgstr":"아이템 강화"}
+{"msgctxt":"items","msgid":"Hardened Leather Boots","msgstr":"경화 가죽 장화"}
+{"msgctxt":"items","msgid":"Hardened Leather Vest","msgstr":"경화 가죽 조끼"}
+{"msgctxt":"items","msgid":"Hareck's Leather","msgstr":"하렉의 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Harp","msgstr":"하프"}
+{"msgctxt":"items","msgid":"Harpy Feather","msgstr":"하피 깃털"}
+{"msgctxt":"items","msgid":"Haste","msgstr":"가속"}
+{"msgctxt":"items","msgid":"Havoc","msgstr":"대혼란"}
+{"msgctxt":"items","msgid":"Hayfork","msgstr":"쇠스랑"}
+{"msgctxt":"items","msgid":"Headsman's Poleaxe","msgstr":"참수인의 장대도끼"}
+{"msgctxt":"items","msgid":"Headsman's Reaver","msgstr":"사형 집행인의 참수도"}
+{"msgctxt":"items","msgid":"Heal","msgstr":"치유"}
+{"msgctxt":"items","msgid":"Heart of Air","msgstr":"바람의 심장"}
+{"msgctxt":"items","msgid":"Heart of Earth","msgstr":"대지의 심장"}
+{"msgctxt":"items","msgid":"Heart of Fire","msgstr":"불의 심장"}
+{"msgctxt":"items","msgid":"Heart of the Wood","msgstr":"숲의 심장"}
+{"msgctxt":"items","msgid":"Heart of Water","msgstr":"물의 심장"}
+{"msgctxt":"items","msgid":"Heartwood of Jadame","msgstr":"자데임의 심재"}
+{"msgctxt":"items","msgid":"Heavy Crossbow","msgstr":"무거운 석궁"}
+{"msgctxt":"items","msgid":"Heavy Poleax","msgstr":"무거운 장대도끼"}
+{"msgctxt":"items","msgid":"Heavy Poleaxe","msgstr":"무거운 장대도끼"}
+{"msgctxt":"items","msgid":"Hell's Cleaver","msgstr":"지옥의 대도"}
+{"msgctxt":"items","msgid":"Helm","msgstr":"투구"}
+{"msgctxt":"items","msgid":"Hera","msgstr":"헤라"}
+{"msgctxt":"items","msgid":"Herald's Boots","msgstr":"전령의 장화"}
+{"msgctxt":"items","msgid":"Hercules","msgstr":"헤라클레스"}
+{"msgctxt":"items","msgid":"Hermes","msgstr":"헤르메스"}
+{"msgctxt":"items","msgid":"Hermes' Sandals","msgstr":"헤르메스의 샌들"}
+{"msgctxt":"items","msgid":"Hero's Belt","msgstr":"영웅의 허리띠"}
+{"msgctxt":"items","msgid":"Heroic Sword","msgstr":"영웅의 검"}
+{"msgctxt":"items","msgid":"Heroism","msgstr":"영웅심"}
+{"msgctxt":"items","msgid":"Herondale's Lost Shield","msgstr":"헤론데일의 잃어버린 방패"}
+{"msgctxt":"items","msgid":"High Cleric's Key","msgstr":"고위 성직자의 열쇠"}
+{"msgctxt":"items","msgid":"High Sorcerer's Key","msgstr":"고위 소서러의 열쇠"}
+{"msgctxt":"items","msgid":"History of the Vault of Time","msgstr":"시간의 금고의 역사"}
+{"msgctxt":"items","msgid":"Hive Sanctum Key","msgstr":"하이브 성소 열쇠"}
+{"msgctxt":"items","msgid":"Holy Hammer","msgstr":"성스러운 망치"}
+{"msgctxt":"items","msgid":"Horn of Ros","msgstr":"로스의 뿔피리"}
+{"msgctxt":"items","msgid":"Horned Helm","msgstr":"뿔 달린 투구"}
+{"msgctxt":"items","msgid":"Horseman's Shield","msgstr":"기수의 방패"}
+{"msgctxt":"items","msgid":"Horseshoe","msgstr":"편자"}
+{"msgctxt":"items","msgid":"Hourglass of Time","msgstr":"시간의 모래시계"}
+{"msgctxt":"items","msgid":"Hunting Bow","msgstr":"사냥용 활"}
+{"msgctxt":"items","msgid":"Hunting Crossbow","msgstr":"사냥용 석궁"}
+{"msgctxt":"items","msgid":"Huntsman's Cloak","msgstr":"사냥꾼의 망토"}
+{"msgctxt":"items","msgid":"Ideal Crossbow","msgstr":"완벽한 석궁"}
+{"msgctxt":"items","msgid":"Idol of the Snake","msgstr":"뱀의 우상"}
+{"msgctxt":"items","msgid":"Igraine","msgstr":"이그레인"}
+{"msgctxt":"items","msgid":"Immolation","msgstr":"화염 장막"}
+{"msgctxt":"items","msgid":"Imperial Leather","msgstr":"황실 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Improvised Voulge","msgstr":"급조한 불지"}
+{"msgctxt":"items","msgid":"Infantry Fork","msgstr":"보병용 쇠스랑"}
+{"msgctxt":"items","msgid":"Infused Metal Rod","msgstr":"마력이 주입된 금속 막대"}
+{"msgctxt":"items","msgid":"Intellect Boost","msgstr":"지성 강화"}
+{"msgctxt":"items","msgid":"Intellect Boost Recipe","msgstr":"지성 강화 물약 제조법"}
+{"msgctxt":"items","msgid":"Invisibility","msgstr":"투명화"}
+{"msgctxt":"items","msgid":"Iolite","msgstr":"아이올라이트"}
+{"msgctxt":"items","msgid":"Iron Broadsword","msgstr":"철제 브로드소드"}
+{"msgctxt":"items","msgid":"Iron Core Staff","msgstr":"철심 지팡이"}
+{"msgctxt":"items","msgid":"Iron Feather","msgstr":"철의 깃털"}
+{"msgctxt":"items","msgid":"Iron-laced ore","msgstr":"철이 섞인 광석"}
+{"msgctxt":"items","msgid":"Jade Amulet","msgstr":"비취 부적"}
+{"msgctxt":"items","msgid":"Jeweled Dagger","msgstr":"보석 장식 단검"}
+{"msgctxt":"items","msgid":"Jeweled Egg","msgstr":"보석 장식 달걀"}
+{"msgctxt":"items","msgid":"Journal Entry","msgstr":"일지 기록"}
+{"msgctxt":"items","msgid":"Journal Entry, 11th December","msgstr":"일지 기록, 12월 11일"}
+{"msgctxt":"items","msgid":"Journal Entry, 19th September","msgstr":"일지 기록, 9월 19일"}
+{"msgctxt":"items","msgid":"Journal Entry, 23rd April","msgstr":"일지 기록, 4월 23일"}
+{"msgctxt":"items","msgid":"Journal Entry, 2nd January","msgstr":"일지 기록, 1월 2일"}
+{"msgctxt":"items","msgid":"Journal Entry, 30th June","msgstr":"일지 기록, 6월 30일"}
+{"msgctxt":"items","msgid":"Journal Excerpt","msgstr":"일지 발췌문"}
+{"msgctxt":"items","msgid":"Journal Fragment","msgstr":"일지 조각"}
+{"msgctxt":"items","msgid":"Journal Scrap","msgstr":"일지 조각"}
+{"msgctxt":"items","msgid":"Journey Staff","msgstr":"여행자의 지팡이"}
+{"msgctxt":"items","msgid":"Judicious Measure","msgstr":"현명한 판단"}
+{"msgctxt":"items","msgid":"Justice","msgstr":"정의"}
+{"msgctxt":"items","msgid":"Keen Longsword","msgstr":"예리한 장검"}
+{"msgctxt":"items","msgid":"Keg of Wine","msgstr":"포도주 통"}
+{"msgctxt":"items","msgid":"Kelebrim","msgstr":"켈레브림"}
+{"msgctxt":"items","msgid":"Kergar-laced ore","msgstr":"케르가르 함유 광석"}
+{"msgctxt":"items","msgid":"Key","msgstr":"열쇠"}
+{"msgctxt":"items","msgid":"Key to Gharik's Laboratory","msgstr":"가릭의 연구실 열쇠"}
+{"msgctxt":"items","msgid":"Key to Goblinwatch","msgstr":"고블린 감시탑의 열쇠"}
+{"msgctxt":"items","msgid":"Key to Snergle's Chambers","msgstr":"스너글의 방 열쇠"}
+{"msgctxt":"items","msgid":"Killer Club","msgstr":"살육의 곤봉"}
+{"msgctxt":"items","msgid":"Kite Shield","msgstr":"카이트 방패"}
+{"msgctxt":"items","msgid":"Knight Gauntlets","msgstr":"기사의 건틀릿"}
+{"msgctxt":"items","msgid":"Knight Statuette","msgstr":"기사 조각상"}
+{"msgctxt":"items","msgid":"Knight's Boots","msgstr":"기사의 장화"}
+{"msgctxt":"items","msgid":"Knightly Broadsword","msgstr":"기사의 브로드소드"}
+{"msgctxt":"items","msgid":"Labyrinth Grapple","msgstr":"미궁의 갈고리"}
+{"msgctxt":"items","msgid":"Lady Carmine's Dagger","msgstr":"카민 여사의 단검"}
+{"msgctxt":"items","msgid":"Lady's Escort","msgstr":"귀부인의 호위자"}
+{"msgctxt":"items","msgid":"Lantern of Light","msgstr":"빛의 등불"}
+{"msgctxt":"items","msgid":"Large Round Crystal","msgstr":"커다란 둥근 수정"}
+{"msgctxt":"items","msgid":"Last Stage Cuirass","msgstr":"최종 단계의 흉갑"}
+{"msgctxt":"items","msgid":"Leather Armor","msgstr":"가죽 갑옷"}
+{"msgctxt":"items","msgid":"Leather Belt","msgstr":"가죽 허리띠"}
+{"msgctxt":"items","msgid":"Leather Boots","msgstr":"가죽 장화"}
+{"msgctxt":"items","msgid":"Leather Cloak","msgstr":"가죽 망토"}
+{"msgctxt":"items","msgid":"Leather Gloves","msgstr":"가죽 장갑"}
+{"msgctxt":"items","msgid":"Leather Jerkin","msgstr":"가죽 조끼"}
+{"msgctxt":"items","msgid":"Leather Pouch","msgstr":"가죽 주머니"}
+{"msgctxt":"items","msgid":"Letter","msgstr":"편지"}
+{"msgctxt":"items","msgid":"Letter from Archibald","msgstr":"아치발드가 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from Cedric Druthers","msgstr":"세드릭 드러더스가 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from Gavin Magnus","msgstr":"개빈 매그너스가 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from Johann Kerrid to the Faerie King","msgstr":"요한 케리드가 요정왕에게 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from Malwick","msgstr":"말윅이 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from Mr. Stantley","msgstr":"스탠틀리 씨가 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from Norbert Thrush to Lord Markham","msgstr":"노버트 스러시가 마컴 경에게 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from the Dragon Riders","msgstr":"드래곤 기수단이 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from the Prince of Thieves","msgstr":"도적들의 왕자가 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from the Temple of Baa","msgstr":"바아의 사원에서 온 편지"}
+{"msgctxt":"items","msgid":"Letter from Xenofex","msgstr":"제노펙스가 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter from Zenofex","msgstr":"제노펙스가 보낸 편지"}
+{"msgctxt":"items","msgid":"Letter to Agar","msgstr":"아가르에게 보내는 편지"}
+{"msgctxt":"items","msgid":"Letter to Arion Hunter","msgstr":"아리온 헌터에게 보내는 편지"}
+{"msgctxt":"items","msgid":"Letter to Gharik","msgstr":"가릭에게 보내는 편지"}
+{"msgctxt":"items","msgid":"Letter to Hairbaugh","msgstr":"헤어보에게 보내는 편지"}
+{"msgctxt":"items","msgid":"Letter to Marcus","msgstr":"마커스에게 보내는 편지"}
+{"msgctxt":"items","msgid":"Letter to Snergle","msgstr":"스너글에게 보내는 편지"}
+{"msgctxt":"items","msgid":"Letter to Terrax","msgstr":"테락스에게 보내는 편지"}
+{"msgctxt":"items","msgid":"Letter to the Prince of Thieves","msgstr":"도적들의 왕자에게 보내는 편지"}
+{"msgctxt":"items","msgid":"Lich Jar","msgstr":"리치의 항아리"}
+{"msgctxt":"items","msgid":"Lieutenant's Cutlass","msgstr":"중위의 커틀러스"}
+{"msgctxt":"items","msgid":"Light Bolt","msgstr":"빛의 화살"}
+{"msgctxt":"items","msgid":"Light Crossbow","msgstr":"경량 석궁"}
+{"msgctxt":"items","msgid":"Light Poleaxe","msgstr":"가벼운 장대도끼"}
+{"msgctxt":"items","msgid":"Lightning Crossbow","msgstr":"번개의 석궁"}
+{"msgctxt":"items","msgid":"Lionheart Sword","msgstr":"사자심장의 검"}
+{"msgctxt":"items","msgid":"Lizardman Broadsword","msgstr":"리저드맨의 브로드소드"}
+{"msgctxt":"items","msgid":"Lizardman Helm","msgstr":"리자드맨 투구"}
+{"msgctxt":"items","msgid":"Lizardman Trident","msgstr":"도마뱀 인간의 삼지창"}
+{"msgctxt":"items","msgid":"Lock Pick","msgstr":"자물쇠따개"}
+{"msgctxt":"items","msgid":"Locus Amulet","msgstr":"집속의 부적"}
+{"msgctxt":"items","msgid":"Lodestone","msgstr":"자철석"}
+{"msgctxt":"items","msgid":"Log of Eldenbrie","msgstr":"엘든브리의 일지"}
+{"msgctxt":"items","msgid":"Long Dagger","msgstr":"긴 단검"}
+{"msgctxt":"items","msgid":"Longbow","msgstr":"장궁"}
+{"msgctxt":"items","msgid":"Longseeker","msgstr":"롱시커"}
+{"msgctxt":"items","msgid":"Longsword","msgstr":"장검"}
+{"msgctxt":"items","msgid":"Loose Page","msgstr":"떨어져 나온 낱장"}
+{"msgctxt":"items","msgid":"Lord Kilburn's Shield","msgstr":"킬번 경의 방패"}
+{"msgctxt":"items","msgid":"Lost Book of Kehl","msgstr":"켈의 잃어버린 책"}
+{"msgctxt":"items","msgid":"Lucius","msgstr":"루시우스"}
+{"msgctxt":"items","msgid":"Luck Boost","msgstr":"행운 강화"}
+{"msgctxt":"items","msgid":"Luck Boost Recipe","msgstr":"행운 강화 제조법"}
+{"msgctxt":"items","msgid":"Lucky Hat","msgstr":"행운의 모자"}
+{"msgctxt":"items","msgid":"Lunar Ring","msgstr":"달의 반지"}
+{"msgctxt":"items","msgid":"Lute","msgstr":"류트"}
+{"msgctxt":"items","msgid":"Mace","msgstr":"철퇴"}
+{"msgctxt":"items","msgid":"Mace of the Sun","msgstr":"태양의 철퇴"}
+{"msgctxt":"items","msgid":"Mage Dagger","msgstr":"마법사 단검"}
+{"msgctxt":"items","msgid":"Magic Bow","msgstr":"마법 활"}
+{"msgctxt":"items","msgid":"Magic Horseshoe","msgstr":"마법의 편자"}
+{"msgctxt":"items","msgid":"Magic Lamp","msgstr":"마법 램프"}
+{"msgctxt":"items","msgid":"Magic Potion","msgstr":"마법 물약"}
+{"msgctxt":"items","msgid":"Magical Ritual Notes","msgstr":"마법 의식 기록"}
+{"msgctxt":"items","msgid":"Majestic Chain Mail","msgstr":"장엄한 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Majestic Shield","msgstr":"장엄한 방패"}
+{"msgctxt":"items","msgid":"Map","msgstr":"지도"}
+{"msgctxt":"items","msgid":"Map to Evenmorn Island","msgstr":"이븐모른 섬으로 가는 지도"}
+{"msgctxt":"items","msgid":"Mash","msgstr":"분쇄"}
+{"msgctxt":"items","msgid":"Massive Halberd","msgstr":"거대한 할버드"}
+{"msgctxt":"items","msgid":"Massive Hammer","msgstr":"거대한 망치"}
+{"msgctxt":"items","msgid":"Master Cutlass","msgstr":"달인의 커틀러스"}
+{"msgctxt":"items","msgid":"Master's Dagger","msgstr":"달인의 단검"}
+{"msgctxt":"items","msgid":"Medusa's Mirror","msgstr":"메두사의 거울"}
+{"msgctxt":"items","msgid":"Mekorig's Hammer","msgstr":"메코리그의 망치"}
+{"msgctxt":"items","msgid":"Memory Crystal Alpha","msgstr":"기억의 수정 알파"}
+{"msgctxt":"items","msgid":"Memory Crystal Beta","msgstr":"기억의 수정 베타"}
+{"msgctxt":"items","msgid":"Memory Crystal Delta","msgstr":"기억의 수정 델타"}
+{"msgctxt":"items","msgid":"Memory Crystal Epsilon","msgstr":"기억 수정 엡실론"}
+{"msgctxt":"items","msgid":"Mercenary Belt","msgstr":"용병의 허리띠"}
+{"msgctxt":"items","msgid":"Merchantman's Dagger","msgstr":"상인의 단검"}
+{"msgctxt":"items","msgid":"Merchantman's Hat","msgstr":"상인의 모자"}
+{"msgctxt":"items","msgid":"Mercury","msgstr":"수은"}
+{"msgctxt":"items","msgid":"Merlin","msgstr":"멀린"}
+{"msgctxt":"items","msgid":"Message from Erathia","msgstr":"에라시아에서 온 전갈"}
+{"msgctxt":"items","msgid":"Message from Mr. Stantley","msgstr":"스탠틀리 씨가 보낸 전갈"}
+{"msgctxt":"items","msgid":"Metal Shield","msgstr":"금속 방패"}
+{"msgctxt":"items","msgid":"Meteor Fragment","msgstr":"운석 파편"}
+{"msgctxt":"items","msgid":"Meteorite Fragment","msgstr":"운석 조각"}
+{"msgctxt":"items","msgid":"Might Boost","msgstr":"힘 강화"}
+{"msgctxt":"items","msgid":"Might Boost Recipe","msgstr":"힘 강화 제조법"}
+{"msgctxt":"items","msgid":"Mighty Broadsword","msgstr":"강력한 브로드소드"}
+{"msgctxt":"items","msgid":"Mighty Halberd","msgstr":"강력한 할버드"}
+{"msgctxt":"items","msgid":"Mind Resistance","msgstr":"정신 저항력"}
+{"msgctxt":"items","msgid":"Mind Resistance Recipe","msgstr":"정신 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Mind's Eye","msgstr":"정신의 눈"}
+{"msgctxt":"items","msgid":"Minotaur Axe","msgstr":"미노타우로스 도끼"}
+{"msgctxt":"items","msgid":"Minotaur Battleaxe","msgstr":"미노타우로스 전투 도끼"}
+{"msgctxt":"items","msgid":"Minotaur Battlesword","msgstr":"미노타우로스 전투검"}
+{"msgctxt":"items","msgid":"Minotaur Campaign Pole-axe","msgstr":"미노타우로스 원정용 장대도끼"}
+{"msgctxt":"items","msgid":"Minotaur Chainmail","msgstr":"미노타우로스 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Minotaur Gauntlets","msgstr":"미노타우로스 건틀릿"}
+{"msgctxt":"items","msgid":"Minotaur Herdsman Axe","msgstr":"미노타우로스 목동의 도끼"}
+{"msgctxt":"items","msgid":"Minotaur Plate","msgstr":"미노타우로스 판금 갑옷"}
+{"msgctxt":"items","msgid":"Minotaur War Axe","msgstr":"미노타우로스 전투도끼"}
+{"msgctxt":"items","msgid":"Minotaur's Axe","msgstr":"미노타우로스의 도끼"}
+{"msgctxt":"items","msgid":"Missive from the Archbishop","msgstr":"대주교의 서신"}
+{"msgctxt":"items","msgid":"Mogred Gauntlets","msgstr":"모그레드 건틀릿"}
+{"msgctxt":"items","msgid":"Mogred Helm","msgstr":"모그레드 투구"}
+{"msgctxt":"items","msgid":"Moon Cloak","msgstr":"달의 망토"}
+{"msgctxt":"items","msgid":"Moon Temple Cloak","msgstr":"달의 신전 망토"}
+{"msgctxt":"items","msgid":"Moonstone","msgstr":"월장석"}
+{"msgctxt":"items","msgid":"Mordred","msgstr":"모드레드"}
+{"msgctxt":"items","msgid":"Morgan","msgstr":"모건"}
+{"msgctxt":"items","msgid":"Mushroom","msgstr":"버섯"}
+{"msgctxt":"items","msgid":"Mystic Wand of Death","msgstr":"신비가의 죽음의 마법봉"}
+{"msgctxt":"items","msgid":"Mystic Wand of Distortion","msgstr":"왜곡의 신비 마법봉"}
+{"msgctxt":"items","msgid":"Mystic Wand of Implosion","msgstr":"내파의 신비 마법봉"}
+{"msgctxt":"items","msgid":"Mystic Wand of Incineration","msgstr":"소각의 신비 마법봉"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrapmetal","msgstr":"금속 파편의 신비 마법봉"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrinking","msgstr":"축소의 신비 마법봉"}
+{"msgctxt":"items","msgid":"Naga Hide","msgstr":"나가 가죽"}
+{"msgctxt":"items","msgid":"Name of Message","msgstr":"메시지 이름"}
+{"msgctxt":"items","msgid":"Navigator's Code","msgstr":"항해사의 암호"}
+{"msgctxt":"items","msgid":"Necromancer Cloak","msgstr":"강령술사의 망토"}
+{"msgctxt":"items","msgid":"Necromatic Ring","msgstr":"강령술의 반지"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Distortion","msgstr":"왜곡의 사령 마법봉"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Implosion","msgstr":"내파의 사령 마법봉"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Incineration","msgstr":"소각의 괴사 마법봉"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrapnel","msgstr":"파편의 사령 마법봉"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrinking","msgstr":"축소의 사령 마법봉"}
+{"msgctxt":"items","msgid":"Newname Key","msgstr":"새 이름 열쇠"}
+{"msgctxt":"items","msgid":"Nightshade Brazier","msgstr":"나이트셰이드 화로"}
+{"msgctxt":"items","msgid":"Noble Chain Mail","msgstr":"귀족의 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Noble Crown","msgstr":"귀족의 왕관"}
+{"msgctxt":"items","msgid":"Noble Plate Armor","msgstr":"귀족의 판금 갑옷"}
+{"msgctxt":"items","msgid":"Noblebone Bow","msgstr":"귀족뼈 활"}
+{"msgctxt":"items","msgid":"Notes - Emergency Meeting","msgstr":"메모 - 긴급 회의"}
+{"msgctxt":"items","msgid":"Noxious Potion","msgstr":"유독성 물약"}
+{"msgctxt":"items","msgid":"Noxious Potion Recipe","msgstr":"유독성 물약 제조법"}
+{"msgctxt":"items","msgid":"Obsidian","msgstr":"흑요석"}
+{"msgctxt":"items","msgid":"Odin","msgstr":"오딘"}
+{"msgctxt":"items","msgid":"Officer's Leather","msgstr":"장교의 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Ogre Ear","msgstr":"오우거의 귀"}
+{"msgctxt":"items","msgid":"Ogre Fighting Stick","msgstr":"오우거 전투봉"}
+{"msgctxt":"items","msgid":"Ogre Key","msgstr":"오우거의 열쇠"}
+{"msgctxt":"items","msgid":"Old Halberd","msgstr":"낡은 할버드"}
+{"msgctxt":"items","msgid":"Old Nick","msgstr":"올드 닉"}
+{"msgctxt":"items","msgid":"Old Scroll","msgstr":"낡은 두루마리"}
+{"msgctxt":"items","msgid":"Olympian Shield","msgstr":"올림포스의 방패"}
+{"msgctxt":"items","msgid":"Orb Staff","msgstr":"보주 지팡이"}
+{"msgctxt":"items","msgid":"Orders from Snergle","msgstr":"스너글의 명령서"}
+{"msgctxt":"items","msgid":"Orders from Steadwick","msgstr":"스테드윅에서 온 명령서"}
+{"msgctxt":"items","msgid":"Orders from the Shadow Guild","msgstr":"그림자 길드의 명령서"}
+{"msgctxt":"items","msgid":"Ornate Trident","msgstr":"화려한 삼지창"}
+{"msgctxt":"items","msgid":"Oscillation Overthruster","msgstr":"진동 과추진기"}
+{"msgctxt":"items","msgid":"Overlord's Club","msgstr":"대군주의 곤봉"}
+{"msgctxt":"items","msgid":"Page from Agar's Journal","msgstr":"아가르의 일지 한 페이지"}
+{"msgctxt":"items","msgid":"Page from Corlagon's Diary","msgstr":"콜라곤의 일기 한 페이지"}
+{"msgctxt":"items","msgid":"Page Torn from a Book","msgstr":"책에서 찢긴 페이지"}
+{"msgctxt":"items","msgid":"Pain Reflection","msgstr":"고통 반사"}
+{"msgctxt":"items","msgid":"Paladin Boots","msgstr":"팔라딘 장화"}
+{"msgctxt":"items","msgid":"Paladin Gauntlets","msgstr":"팔라딘 건틀릿"}
+{"msgctxt":"items","msgid":"Parson's Quill","msgstr":"파슨의 깃펜"}
+{"msgctxt":"items","msgid":"Pearl of Purity","msgstr":"순수의 진주"}
+{"msgctxt":"items","msgid":"Pearl of Putrescence","msgstr":"부패의 진주"}
+{"msgctxt":"items","msgid":"Pearl Ring","msgstr":"진주 반지"}
+{"msgctxt":"items","msgid":"Peasant Hat","msgstr":"농민 모자"}
+{"msgctxt":"items","msgid":"Pellinore","msgstr":"펠리노어"}
+{"msgctxt":"items","msgid":"Pendragon","msgstr":"펜드래곤"}
+{"msgctxt":"items","msgid":"Percival","msgstr":"퍼시벌"}
+{"msgctxt":"items","msgid":"Personality Boost","msgstr":"인격 강화"}
+{"msgctxt":"items","msgid":"Personality Boost Recipe","msgstr":"인격 강화 물약 제조법"}
+{"msgctxt":"items","msgid":"Phantom Cloak","msgstr":"유령의 망토"}
+{"msgctxt":"items","msgid":"Phial of Gog Blood","msgstr":"고그 피가 든 약병"}
+{"msgctxt":"items","msgid":"Philosopher's Stone","msgstr":"현자의 돌"}
+{"msgctxt":"items","msgid":"Phima Root","msgstr":"피마 뿌리"}
+{"msgctxt":"items","msgid":"Phirna Root","msgstr":"피르나 뿌리"}
+{"msgctxt":"items","msgid":"Phoenix Feather","msgstr":"불사조의 깃털"}
+{"msgctxt":"items","msgid":"Phylt-laced ore","msgstr":"필트 함유 광석"}
+{"msgctxt":"items","msgid":"Phynaxian Crown","msgstr":"피낙시아 왕관"}
+{"msgctxt":"items","msgid":"Phynaxian Helm","msgstr":"피낙시아 투구"}
+{"msgctxt":"items","msgid":"Phynaxian Shield","msgstr":"피낙시아 방패"}
+{"msgctxt":"items","msgid":"Piercing Dagger","msgstr":"관통의 단검"}
+{"msgctxt":"items","msgid":"Pirate Cutlass","msgstr":"해적의 커틀러스"}
+{"msgctxt":"items","msgid":"Pirate Hat","msgstr":"해적 모자"}
+{"msgctxt":"items","msgid":"Pirate Leader's Key","msgstr":"해적 두목의 열쇠"}
+{"msgctxt":"items","msgid":"Plate Armor","msgstr":"판금 갑옷"}
+{"msgctxt":"items","msgid":"Platinum Ring","msgstr":"백금 반지"}
+{"msgctxt":"items","msgid":"Poleax","msgstr":"장대도끼"}
+{"msgctxt":"items","msgid":"Poleaxe","msgstr":"장대도끼"}
+{"msgctxt":"items","msgid":"Poppy Pod","msgstr":"양귀비 꼬투리"}
+{"msgctxt":"items","msgid":"Poppysnaps","msgstr":"파피스냅스"}
+{"msgctxt":"items","msgid":"Poseidon","msgstr":"포세이돈"}
+{"msgctxt":"items","msgid":"Potion Bottle","msgstr":"물약병"}
+{"msgctxt":"items","msgid":"Potion of Doom ","msgstr":"파멸의 물약 "}
+{"msgctxt":"items","msgid":"Potion of Doom recipe","msgstr":"파멸의 물약 제조법"}
+{"msgctxt":"items","msgid":"Potion of the Gods ","msgstr":"신들의 물약 "}
+{"msgctxt":"items","msgid":"Potion of the Gods recipe","msgstr":"신들의 물약 제조법"}
+{"msgctxt":"items","msgid":"Pouch of Bat Guano","msgstr":"박쥐 배설물 주머니"}
+{"msgctxt":"items","msgid":"Power Staff","msgstr":"힘의 지팡이"}
+{"msgctxt":"items","msgid":"Power Stone","msgstr":"힘의 돌"}
+{"msgctxt":"items","msgid":"Precious Ring","msgstr":"진귀한 반지"}
+{"msgctxt":"items","msgid":"Precision Bow","msgstr":"정확성의 활"}
+{"msgctxt":"items","msgid":"Preservation","msgstr":"생명 보존"}
+{"msgctxt":"items","msgid":"Priestly Staff","msgstr":"사제의 지팡이"}
+{"msgctxt":"items","msgid":"Prison Key","msgstr":"감옥 열쇠"}
+{"msgctxt":"items","msgid":"Proclamation","msgstr":"포고문"}
+{"msgctxt":"items","msgid":"Prophecies of the Snake","msgstr":"뱀의 예언서"}
+{"msgctxt":"items","msgid":"Prophecies of the Sun","msgstr":"태양의 예언서"}
+{"msgctxt":"items","msgid":"Protection","msgstr":"방어"}
+{"msgctxt":"items","msgid":"Protection from Magic","msgstr":"마법 보호"}
+{"msgctxt":"items","msgid":"Protection from Magic recipe","msgstr":"마법 보호 물약 제조법"}
+{"msgctxt":"items","msgid":"Puck","msgstr":"퍽"}
+{"msgctxt":"items","msgid":"Pure Accuracy","msgstr":"순수한 정확도"}
+{"msgctxt":"items","msgid":"Pure Accuracy Recipe","msgstr":"순수한 정확도 제조법"}
+{"msgctxt":"items","msgid":"Pure Air Resistance","msgstr":"순수한 바람 저항력"}
+{"msgctxt":"items","msgid":"Pure Air Resistance recipe","msgstr":"순수한 바람 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Pure Body Resistance","msgstr":"순수한 육체 저항력"}
+{"msgctxt":"items","msgid":"Pure Body Resistance recipe","msgstr":"순수한 육체 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance","msgstr":"순수한 대지 저항력"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance recipe","msgstr":"순수한 대지 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Pure Endurance","msgstr":"순수한 지구력"}
+{"msgctxt":"items","msgid":"Pure Endurance Recipe","msgstr":"순수한 지구력 물약 제조법"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance","msgstr":"순수한 불 저항력"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance recipe","msgstr":"순수한 불 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Pure Intellect","msgstr":"순수한 지성"}
+{"msgctxt":"items","msgid":"Pure Intellect Recipe","msgstr":"순수한 지성 물약 제조법"}
+{"msgctxt":"items","msgid":"Pure Luck","msgstr":"순수한 행운"}
+{"msgctxt":"items","msgid":"Pure Luck Recipe","msgstr":"순수한 행운 제조법"}
+{"msgctxt":"items","msgid":"Pure Might","msgstr":"순수한 힘"}
+{"msgctxt":"items","msgid":"Pure Might Recipe","msgstr":"순수한 힘 제조법"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance","msgstr":"순수한 정신 저항력"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance recipe","msgstr":"순수한 정신 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Pure Personality","msgstr":"순수한 인격"}
+{"msgctxt":"items","msgid":"Pure Personality Recipe","msgstr":"순수한 인격 물약 제조법"}
+{"msgctxt":"items","msgid":"Pure Speed","msgstr":"순수한 속도"}
+{"msgctxt":"items","msgid":"Pure Speed Recipe","msgstr":"순수한 속도 제조법"}
+{"msgctxt":"items","msgid":"Pure Water Resistance","msgstr":"순수한 물 저항력"}
+{"msgctxt":"items","msgid":"Pure Water Resistance recipe","msgstr":"순수한 물 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Purple Topaz","msgstr":"보라색 토파즈"}
+{"msgctxt":"items","msgid":"Puzzle Box","msgstr":"수수께끼 상자"}
+{"msgctxt":"items","msgid":"Quality Steel Chain Mail","msgstr":"고급 강철 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Ranger Boots","msgstr":"레인저 장화"}
+{"msgctxt":"items","msgid":"Ranger's Cloak","msgstr":"레인저의 망토"}
+{"msgctxt":"items","msgid":"Recharge Item","msgstr":"아이템 충전"}
+{"msgctxt":"items","msgid":"Recurve Bow","msgstr":"리커브 활"}
+{"msgctxt":"items","msgid":"Red Apple","msgstr":"빨간 사과"}
+{"msgctxt":"items","msgid":"Regal Crown","msgstr":"제왕의 왕관"}
+{"msgctxt":"items","msgid":"Regeneration","msgstr":"재생"}
+{"msgctxt":"items","msgid":"Regnan Boots","msgstr":"레그나 장화"}
+{"msgctxt":"items","msgid":"Regnan Crossbow","msgstr":"레그나의 석궁"}
+{"msgctxt":"items","msgid":"Regnan Cutlass","msgstr":"레그나 커틀러스"}
+{"msgctxt":"items","msgid":"Regnan Falchion","msgstr":"레그나의 펄션"}
+{"msgctxt":"items","msgid":"Regnan Fighting Knife","msgstr":"레그나식 전투용 단검"}
+{"msgctxt":"items","msgid":"Regnan Leather","msgstr":"레그나 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Regnan Tournament Shield","msgstr":"레그나 토너먼트 방패"}
+{"msgctxt":"items","msgid":"Regnan Trident","msgstr":"레그나 삼지창"}
+{"msgctxt":"items","msgid":"Rejuvenation","msgstr":"회춘"}
+{"msgctxt":"items","msgid":"Rejuvenation Recipe","msgstr":"회춘 제조법"}
+{"msgctxt":"items","msgid":"Remains of a Journal","msgstr":"일지의 남은 부분"}
+{"msgctxt":"items","msgid":"Remains of Korbu","msgstr":"코르부의 유해"}
+{"msgctxt":"items","msgid":"Remnants of a Letter","msgstr":"편지의 남은 조각"}
+{"msgctxt":"items","msgid":"Remove Curse","msgstr":"저주 제거"}
+{"msgctxt":"items","msgid":"Remove Fear","msgstr":"공포 제거"}
+{"msgctxt":"items","msgid":"Resistance","msgstr":"저항력"}
+{"msgctxt":"items","msgid":"Resplendent Chain Mail","msgstr":"눈부신 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Restoration","msgstr":"회복"}
+{"msgctxt":"items","msgid":"Reverend Sceptre","msgstr":"성스러운 홀"}
+{"msgctxt":"items","msgid":"Ring of Fusion","msgstr":"융합의 반지"}
+{"msgctxt":"items","msgid":"Ring of Keys","msgstr":"열쇠고리"}
+{"msgctxt":"items","msgid":"Ring of Planes","msgstr":"차원계의 반지"}
+{"msgctxt":"items","msgid":"Ritual of the Void","msgstr":"공허의 의식"}
+{"msgctxt":"items","msgid":"Riverstride Plans","msgstr":"리버스트라이드 설계도"}
+{"msgctxt":"items","msgid":"Roland Ironfist Painting","msgstr":"롤랜드 아이언피스트의 초상화"}
+{"msgctxt":"items","msgid":"Roland's Journal","msgstr":"롤랜드의 일지"}
+{"msgctxt":"items","msgid":"Rope","msgstr":"밧줄"}
+{"msgctxt":"items","msgid":"Rose","msgstr":"장미"}
+{"msgctxt":"items","msgid":"Rose Crystal","msgstr":"장미 수정"}
+{"msgctxt":"items","msgid":"Royal Chain Mail","msgstr":"왕실 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Royal Leather","msgstr":"왕실 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Royal Wasp Jelly","msgstr":"왕말벌 젤리"}
+{"msgctxt":"items","msgid":"Ruby","msgstr":"루비"}
+{"msgctxt":"items","msgid":"Ruby Ring","msgstr":"루비 반지"}
+{"msgctxt":"items","msgid":"Ruby Star Amulet","msgstr":"루비 별 부적"}
+{"msgctxt":"items","msgid":"Ruler's Ring","msgstr":"통치자의 반지"}
+{"msgctxt":"items","msgid":"Rusty Breastplate","msgstr":"녹슨 흉갑"}
+{"msgctxt":"items","msgid":"Rusty Cutlass","msgstr":"녹슨 커틀러스"}
+{"msgctxt":"items","msgid":"Rusty Mail Vest","msgstr":"녹슨 사슬 조끼"}
+{"msgctxt":"items","msgid":"Sacred Chalice","msgstr":"성스러운 성배"}
+{"msgctxt":"items","msgid":"Sacred Spear","msgstr":"신성한 창"}
+{"msgctxt":"items","msgid":"Sacrifice","msgstr":"희생"}
+{"msgctxt":"items","msgid":"Sapphire","msgstr":"사파이어"}
+{"msgctxt":"items","msgid":"Sapphire Ring","msgstr":"사파이어 반지"}
+{"msgctxt":"items","msgid":"Sarcophagus of Korbu","msgstr":"코르부의 석관"}
+{"msgctxt":"items","msgid":"Savage Spear","msgstr":"야만의 창"}
+{"msgctxt":"items","msgid":"Scarab Ring","msgstr":"스카라베 반지"}
+{"msgctxt":"items","msgid":"Scavenger hunt.","msgstr":"보물찾기."}
+{"msgctxt":"items","msgid":"Scepter of Kings","msgstr":"왕들의 홀"}
+{"msgctxt":"items","msgid":"Scholar's Cap","msgstr":"학자의 모자"}
+{"msgctxt":"items","msgid":"Scrap from Gharik's Journal","msgstr":"가릭의 일지 조각"}
+{"msgctxt":"items","msgid":"Scrap of Paper","msgstr":"종이 조각"}
+{"msgctxt":"items","msgid":"Scroll of Waves","msgstr":"파도의 두루마리"}
+{"msgctxt":"items","msgid":"Sealed Letter 2","msgstr":"봉인된 편지 2"}
+{"msgctxt":"items","msgid":"Sealed Letter 3","msgstr":"봉인된 편지 3"}
+{"msgctxt":"items","msgid":"Sealed Letter 4","msgstr":"봉인된 편지 4"}
+{"msgctxt":"items","msgid":"Sealed Letter 5","msgstr":"봉인된 편지 5"}
+{"msgctxt":"items","msgid":"Sealed Letter 6","msgstr":"봉인된 편지 6"}
+{"msgctxt":"items","msgid":"Sealed Letter 7","msgstr":"봉인된 편지 7"}
+{"msgctxt":"items","msgid":"Seashell","msgstr":"조개껍데기"}
+{"msgctxt":"items","msgid":"Season's Stole","msgstr":"계절의 영대"}
+{"msgctxt":"items","msgid":"Secret Door Key","msgstr":"비밀문 열쇠"}
+{"msgctxt":"items","msgid":"Serendine's Preservation","msgstr":"세렌딘의 생명 보존"}
+{"msgctxt":"items","msgid":"Serpent Spear","msgstr":"뱀의 창"}
+{"msgctxt":"items","msgid":"Serpent Staff","msgstr":"뱀의 지팡이"}
+{"msgctxt":"items","msgid":"Serpent Wand of Blasting","msgstr":"폭발의 뱀 마법봉"}
+{"msgctxt":"items","msgid":"Serpent Wand of Paralysis","msgstr":"마비의 뱀 마법봉"}
+{"msgctxt":"items","msgid":"Serpent Wand of Rocks","msgstr":"바위의 뱀 마법봉"}
+{"msgctxt":"items","msgid":"Serpent Wand of the Fist","msgstr":"주먹의 뱀 마법봉"}
+{"msgctxt":"items","msgid":"Seven League Boots","msgstr":"일곱 리그 장화"}
+{"msgctxt":"items","msgid":"Sewer Key","msgstr":"하수도 열쇠"}
+{"msgctxt":"items","msgid":"Shadow Dagger","msgstr":"그림자 단검"}
+{"msgctxt":"items","msgid":"Shadow Sect Medallion","msgstr":"그림자 교단의 메달"}
+{"msgctxt":"items","msgid":"Shadow's Mask","msgstr":"그림자의 가면"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Ice","msgstr":"주술사의 얼음 마법봉"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Lashing","msgstr":"주술사의 채찍질 마법봉"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Light","msgstr":"주술사의 빛 마법봉"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Mind","msgstr":"주술사의 정신 마법봉"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Swarms","msgstr":"주술사의 곤충 떼 마법봉"}
+{"msgctxt":"items","msgid":"Sharktooth Dagger","msgstr":"상어 이빨 단검"}
+{"msgctxt":"items","msgid":"Shield","msgstr":"방패"}
+{"msgctxt":"items","msgid":"Shocking Potion","msgstr":"전격 물약"}
+{"msgctxt":"items","msgid":"Shocking Potion Recipe","msgstr":"전격 물약 제조법"}
+{"msgctxt":"items","msgid":"Shovel","msgstr":"삽"}
+{"msgctxt":"items","msgid":"Siertal Chainmail","msgstr":"시어탈 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Siertal-laced ore","msgstr":"시어탈 함유 광석"}
+{"msgctxt":"items","msgid":"Signet Ring","msgstr":"인장 반지"}
+{"msgctxt":"items","msgid":"Silver Belt","msgstr":"은제 허리띠"}
+{"msgctxt":"items","msgid":"Silver Dust of the Sea","msgstr":"바다의 은가루"}
+{"msgctxt":"items","msgid":"Silver Mesh Gauntlets","msgstr":"은제 망사 건틀릿"}
+{"msgctxt":"items","msgid":"Simple Mace","msgstr":"평범한 철퇴"}
+{"msgctxt":"items","msgid":"Simple Staff","msgstr":"소박한 지팡이"}
+{"msgctxt":"items","msgid":"Slaying Potion","msgstr":"살육의 물약"}
+{"msgctxt":"items","msgid":"Slaying Potion Recipe","msgstr":"살육의 물약 제조법"}
+{"msgctxt":"items","msgid":"Sledgehammer","msgstr":"대형 망치"}
+{"msgctxt":"items","msgid":"Snake","msgstr":"뱀"}
+{"msgctxt":"items","msgid":"Snakewood Bow","msgstr":"뱀나무 활"}
+{"msgctxt":"items","msgid":"Snergle's Axe","msgstr":"스너글의 도끼"}
+{"msgctxt":"items","msgid":"Soldier's spear","msgstr":"병사의 창"}
+{"msgctxt":"items","msgid":"Souldrinker","msgstr":"영혼 포식자"}
+{"msgctxt":"items","msgid":"Sovereign Belt","msgstr":"군주의 허리띠"}
+{"msgctxt":"items","msgid":"Sparkling Ring","msgstr":"반짝이는 반지"}
+{"msgctxt":"items","msgid":"Spear","msgstr":"창"}
+{"msgctxt":"items","msgid":"Speed Boost","msgstr":"속도 강화"}
+{"msgctxt":"items","msgid":"Speed Boost Recipe","msgstr":"속도 강화 제조법"}
+{"msgctxt":"items","msgid":"Spider Queen's Heart","msgstr":"거미 여왕의 심장"}
+{"msgctxt":"items","msgid":"Spiked Club","msgstr":"가시 박힌 곤봉"}
+{"msgctxt":"items","msgid":"Spiked Mace","msgstr":"가시 철퇴"}
+{"msgctxt":"items","msgid":"Spiral Instructions","msgstr":"나선 장치 설명서"}
+{"msgctxt":"items","msgid":"Spirit Lash","msgstr":"영혼 채찍"}
+{"msgctxt":"items","msgid":"Spirit Shield","msgstr":"영혼의 방패"}
+{"msgctxt":"items","msgid":"Spiritslayer","msgstr":"영혼 학살자"}
+{"msgctxt":"items","msgid":"Splendid Plate Armor","msgstr":"화려한 판금 갑옷"}
+{"msgctxt":"items","msgid":"Splitter","msgstr":"절단자"}
+{"msgctxt":"items","msgid":"Staff","msgstr":"지팡이"}
+{"msgctxt":"items","msgid":"Staff of Elements","msgstr":"원소의 지팡이"}
+{"msgctxt":"items","msgid":"Staff of the Swamp","msgstr":"늪의 지팡이"}
+{"msgctxt":"items","msgid":"Stalt-laced ore","msgstr":"스탈트 함유 광석"}
+{"msgctxt":"items","msgid":"Steel Axe","msgstr":"강철 도끼"}
+{"msgctxt":"items","msgid":"Steel Belt","msgstr":"강철 허리띠"}
+{"msgctxt":"items","msgid":"Steel Boots","msgstr":"강철 장화"}
+{"msgctxt":"items","msgid":"Steel Broadsword","msgstr":"강철 브로드소드"}
+{"msgctxt":"items","msgid":"Steel Chain Mail","msgstr":"강철 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Steel Chainmail","msgstr":"강철 사슬 갑옷"}
+{"msgctxt":"items","msgid":"Steel club","msgstr":"강철 곤봉"}
+{"msgctxt":"items","msgid":"Steel Gauntlets","msgstr":"강철 건틀릿"}
+{"msgctxt":"items","msgid":"Steel Helm","msgstr":"강철 투구"}
+{"msgctxt":"items","msgid":"Steel Plate Armor","msgstr":"강철 판금 갑옷"}
+{"msgctxt":"items","msgid":"Steel Plated Boots","msgstr":"강철판 장화"}
+{"msgctxt":"items","msgid":"Steel Shield","msgstr":"강철 방패"}
+{"msgctxt":"items","msgid":"Steel Spear","msgstr":"강철 창"}
+{"msgctxt":"items","msgid":"Stellar Bow","msgstr":"별의 활"}
+{"msgctxt":"items","msgid":"Sterling Boots","msgstr":"고급 장화"}
+{"msgctxt":"items","msgid":"Sterling Shield","msgstr":"순은 방패"}
+{"msgctxt":"items","msgid":"Stone Axe","msgstr":"돌도끼"}
+{"msgctxt":"items","msgid":"Stone Skin","msgstr":"돌 피부"}
+{"msgctxt":"items","msgid":"Stone to Flesh","msgstr":"석화 해제"}
+{"msgctxt":"items","msgid":"Stone To Flesh Recipe","msgstr":"석화 해제 물약 제조법"}
+{"msgctxt":"items","msgid":"Stoneskin","msgstr":"돌가죽"}
+{"msgctxt":"items","msgid":"Storage Key","msgstr":"창고 열쇠"}
+{"msgctxt":"items","msgid":"Store Room Key","msgstr":"창고 열쇠"}
+{"msgctxt":"items","msgid":"Stout Spear","msgstr":"튼튼한 창"}
+{"msgctxt":"items","msgid":"Strong Belt","msgstr":"강인한 허리띠"}
+{"msgctxt":"items","msgid":"Studded Leather","msgstr":"징 박힌 가죽 갑옷"}
+{"msgctxt":"items","msgid":"Sturdy Belt","msgstr":"견고한 허리띠"}
+{"msgctxt":"items","msgid":"Sublime Spear","msgstr":"비범한 창"}
+{"msgctxt":"items","msgid":"Sulfur","msgstr":"유황"}
+{"msgctxt":"items","msgid":"Summon Elemental","msgstr":"정령 소환"}
+{"msgctxt":"items","msgid":"Summon Wisp","msgstr":"위스프 소환"}
+{"msgctxt":"items","msgid":"Sun Amulet","msgstr":"태양의 부적"}
+{"msgctxt":"items","msgid":"Sun Cloak","msgstr":"태양의 망토"}
+{"msgctxt":"items","msgid":"Sun Hammer","msgstr":"태양의 망치"}
+{"msgctxt":"items","msgid":"Sun Opal Ring","msgstr":"태양 오팔 반지"}
+{"msgctxt":"items","msgid":"Sunray","msgstr":"태양 광선"}
+{"msgctxt":"items","msgid":"Sunstone","msgstr":"태양석"}
+{"msgctxt":"items","msgid":"Super Resistance","msgstr":"초강력 저항력"}
+{"msgctxt":"items","msgid":"Supreme Axe","msgstr":"최상급 도끼"}
+{"msgctxt":"items","msgid":"Supreme Flail","msgstr":"최상급 플레일"}
+{"msgctxt":"items","msgid":"Supreme Plate","msgstr":"최상급 판금 갑옷"}
+{"msgctxt":"items","msgid":"Supreme Protection","msgstr":"궁극의 방어"}
+{"msgctxt":"items","msgid":"Swift Potion","msgstr":"신속 물약"}
+{"msgctxt":"items","msgid":"Swift Potion Recipe","msgstr":"신속 물약 제조법"}
+{"msgctxt":"items","msgid":"Sword of Whistlebone","msgstr":"휘슬본의 검"}
+{"msgctxt":"items","msgid":"Taledon's Helm","msgstr":"탈레돈의 투구"}
+{"msgctxt":"items","msgid":"Tanir's Bell","msgstr":"타니르의 종"}
+{"msgctxt":"items","msgid":"Telelocator","msgstr":"텔레로케이터"}
+{"msgctxt":"items","msgid":"Telepathy","msgstr":"텔레파시"}
+{"msgctxt":"items","msgid":"Teleporter Key","msgstr":"순간이동기 열쇠"}
+{"msgctxt":"items","msgid":"Templar's Sword","msgstr":"성전사의 검"}
+{"msgctxt":"items","msgid":"Temple Gong","msgstr":"사원의 징"}
+{"msgctxt":"items","msgid":"Temple in a Bottle","msgstr":"병 속의 사원"}
+{"msgctxt":"items","msgid":"Temple Mace","msgstr":"사원 철퇴"}
+{"msgctxt":"items","msgid":"Terminus","msgstr":"테르미누스"}
+{"msgctxt":"items","msgid":"The DeathBlade","msgstr":"죽음의 칼날"}
+{"msgctxt":"items","msgid":"The Letter","msgstr":"편지"}
+{"msgctxt":"items","msgid":"The Perfect Bow","msgstr":"완벽한 활"}
+{"msgctxt":"items","msgid":"The Third Eye","msgstr":"제3의 눈"}
+{"msgctxt":"items","msgid":"Thigh Bone","msgstr":"넓적다리뼈"}
+{"msgctxt":"items","msgid":"Thor","msgstr":"토르"}
+{"msgctxt":"items","msgid":"Thornbark","msgstr":"가시나무 껍질"}
+{"msgctxt":"items","msgid":"Thornbark Club","msgstr":"가시나무 껍질 곤봉"}
+{"msgctxt":"items","msgid":"Thornbark Shield","msgstr":"가시나무 껍질 방패"}
+{"msgctxt":"items","msgid":"Thunder Mace","msgstr":"천둥 철퇴"}
+{"msgctxt":"items","msgid":"Tiger Statuette","msgstr":"호랑이 조각상"}
+{"msgctxt":"items","msgid":"Titan's Belt","msgstr":"타이탄의 허리띠"}
+{"msgctxt":"items","msgid":"Titanic Trident","msgstr":"거대한 삼지창"}
+{"msgctxt":"items","msgid":"Tobersk Brandy","msgstr":"토버스크 브랜디"}
+{"msgctxt":"items","msgid":"Tobersk Fruit","msgstr":"토버스크 열매"}
+{"msgctxt":"items","msgid":"Tobersk Pulp","msgstr":"토버스크 과육"}
+{"msgctxt":"items","msgid":"Tooth","msgstr":"이빨"}
+{"msgctxt":"items","msgid":"Topaz","msgstr":"토파즈"}
+{"msgctxt":"items","msgid":"Torn Page","msgstr":"찢어진 페이지"}
+{"msgctxt":"items","msgid":"Tournament Bow","msgstr":"대회용 활"}
+{"msgctxt":"items","msgid":"Tower Shield","msgstr":"타워 방패"}
+{"msgctxt":"items","msgid":"Traveler's Cloak","msgstr":"여행자의 망토"}
+{"msgctxt":"items","msgid":"Traveller's Hat","msgstr":"여행자의 모자"}
+{"msgctxt":"items","msgid":"Treasure Room Key","msgstr":"보물실 열쇠"}
+{"msgctxt":"items","msgid":"Trident","msgstr":"삼지창"}
+{"msgctxt":"items","msgid":"Trident of Rulership","msgstr":"지배의 삼지창"}
+{"msgctxt":"items","msgid":"Triton Trident","msgstr":"트리톤 삼지창"}
+{"msgctxt":"items","msgid":"Troll Gauntlets","msgstr":"트롤의 건틀릿"}
+{"msgctxt":"items","msgid":"Trollish Claymore","msgstr":"트롤제 클레이모어"}
+{"msgctxt":"items","msgid":"Trollish Maul","msgstr":"트롤의 대형 망치"}
+{"msgctxt":"items","msgid":"Trollish Shield","msgstr":"트롤의 방패"}
+{"msgctxt":"items","msgid":"Trollish War Mace","msgstr":"트롤제 전투 철퇴"}
+{"msgctxt":"items","msgid":"Trollish War Sword","msgstr":"트롤의 전투검"}
+{"msgctxt":"items","msgid":"True Crossbow","msgstr":"진정한 석궁"}
+{"msgctxt":"items","msgid":"Turquoise Amulet","msgstr":"터키석 부적"}
+{"msgctxt":"items","msgid":"Twilight","msgstr":"황혼"}
+{"msgctxt":"items","msgid":"Twilight Kris","msgstr":"황혼의 크리스 단검"}
+{"msgctxt":"items","msgid":"Two-Handed Axe","msgstr":"양손 도끼"}
+{"msgctxt":"items","msgid":"Two-Handed Sword","msgstr":"양손검"}
+{"msgctxt":"items","msgid":"Ullyses","msgstr":"율리시스"}
+{"msgctxt":"items","msgid":"Ultimate Boots","msgstr":"궁극의 장화"}
+{"msgctxt":"items","msgid":"Ultimate Gauntlets","msgstr":"궁극의 건틀릿"}
+{"msgctxt":"items","msgid":"Unicorn Horn","msgstr":"유니콘 뿔"}
+{"msgctxt":"items","msgid":"Urn of Ashes","msgstr":"유골 단지"}
+{"msgctxt":"items","msgid":"Valeria","msgstr":"발레리아"}
+{"msgctxt":"items","msgid":"Valuable Ring","msgstr":"값비싼 반지"}
+{"msgctxt":"items","msgid":"Vampire Cloak","msgstr":"뱀파이어 망토"}
+{"msgctxt":"items","msgid":"Vampire's Cape","msgstr":"뱀파이어의 망토"}
+{"msgctxt":"items","msgid":"Vampire's Ring","msgstr":"뱀파이어의 반지"}
+{"msgctxt":"items","msgid":"Vampiric Weapon","msgstr":"흡혈의 무기"}
+{"msgctxt":"items","msgid":"Vanguard Belt","msgstr":"선봉대의 허리띠"}
+{"msgctxt":"items","msgid":"VARN Chest Key","msgstr":"VARN 상자 열쇠"}
+{"msgctxt":"items","msgid":"Vase","msgstr":"꽃병"}
+{"msgctxt":"items","msgid":"Veteran Shield","msgstr":"숙련병의 방패"}
+{"msgctxt":"items","msgid":"Vial of Devil Ichor","msgstr":"악마 영액이 든 약병"}
+{"msgctxt":"items","msgid":"Vial of Grave Earth","msgstr":"무덤 흙이 든 약병"}
+{"msgctxt":"items","msgid":"Vial of Ooze Endoplasm","msgstr":"점액괴물 내질이 든 약병"}
+{"msgctxt":"items","msgid":"Vial of Troll Blood","msgstr":"트롤 피가 든 약병"}
+{"msgctxt":"items","msgid":"Villain's Blade","msgstr":"악당의 칼날"}
+{"msgctxt":"items","msgid":"Volcano","msgstr":"화산"}
+{"msgctxt":"items","msgid":"Walking Boots","msgstr":"여행용 장화"}
+{"msgctxt":"items","msgid":"Wallace","msgstr":"월리스"}
+{"msgctxt":"items","msgid":"Wand of Arrows","msgstr":"화살의 마법봉"}
+{"msgctxt":"items","msgid":"Wand of Cold","msgstr":"냉기의 마법봉"}
+{"msgctxt":"items","msgid":"Wand of Fire","msgstr":"불의 마법봉"}
+{"msgctxt":"items","msgid":"Wand of Flame","msgstr":"화염의 마법봉"}
+{"msgctxt":"items","msgid":"Wand of Harm","msgstr":"해악의 마법봉"}
+{"msgctxt":"items","msgid":"Wand of Poison","msgstr":"독의 마법봉"}
+{"msgctxt":"items","msgid":"Wand of Sparks","msgstr":"전기 불꽃의 마법봉"}
+{"msgctxt":"items","msgid":"Wand of Static","msgstr":"정전기의 마법봉"}
+{"msgctxt":"items","msgid":"Wand of Stunning","msgstr":"기절의 마법봉"}
+{"msgctxt":"items","msgid":"War Axe","msgstr":"전투도끼"}
+{"msgctxt":"items","msgid":"War Hammer","msgstr":"전투 망치"}
+{"msgctxt":"items","msgid":"War Spear","msgstr":"전투 창"}
+{"msgctxt":"items","msgid":"War Trident","msgstr":"전쟁의 삼지창"}
+{"msgctxt":"items","msgid":"Warhammer","msgstr":"전투 망치"}
+{"msgctxt":"items","msgid":"Warlock's Ring","msgstr":"흑마법사의 반지"}
+{"msgctxt":"items","msgid":"Warlord Belt","msgstr":"전쟁군주의 허리띠"}
+{"msgctxt":"items","msgid":"Warlord's Key","msgstr":"전쟁군주의 열쇠"}
+{"msgctxt":"items","msgid":"Warrior Sword","msgstr":"전사의 검"}
+{"msgctxt":"items","msgid":"Warrior's Poleaxe","msgstr":"전사의 장대도끼"}
+{"msgctxt":"items","msgid":"Wasp Stingers","msgstr":"말벌 독침"}
+{"msgctxt":"items","msgid":"Wasp Wing","msgstr":"말벌 날개"}
+{"msgctxt":"items","msgid":"Water Breathing","msgstr":"수중 호흡"}
+{"msgctxt":"items","msgid":"Water Resistance","msgstr":"물 저항력"}
+{"msgctxt":"items","msgid":"Water Resistance Recipe","msgstr":"물 저항력 물약 제조법"}
+{"msgctxt":"items","msgid":"Water Temple Key","msgstr":"물의 신전 열쇠"}
+{"msgctxt":"items","msgid":"Wealthy Hat","msgstr":"호화로운 모자"}
+{"msgctxt":"items","msgid":"Weighted Halberd","msgstr":"무거운 할버드"}
+{"msgctxt":"items","msgid":"West Pillar Key","msgstr":"서쪽 기둥 열쇠"}
+{"msgctxt":"items","msgid":"Wetsuit","msgstr":"잠수복"}
+{"msgctxt":"items","msgid":"Wheel of Frelandeau","msgstr":"프렐랑도의 바퀴"}
+{"msgctxt":"items","msgid":"Whisp wrappings","msgstr":"위습의 붕대"}
+{"msgctxt":"items","msgid":"Wicked Mace","msgstr":"사악한 철퇴"}
+{"msgctxt":"items","msgid":"Widoweeps Berries","msgstr":"위도윕스 열매"}
+{"msgctxt":"items","msgid":"Widowsweep Berries","msgstr":"위도스위프 열매"}
+{"msgctxt":"items","msgid":"Will O' Wisp Heart","msgstr":"도깨비불의 심장"}
+{"msgctxt":"items","msgid":"William's Tower Key","msgstr":"윌리엄의 탑 열쇠"}
+{"msgctxt":"items","msgid":"Winged Sandals","msgstr":"날개 달린 샌들"}
+{"msgctxt":"items","msgid":"Witch Ring","msgstr":"마녀의 반지"}
+{"msgctxt":"items","msgid":"Witch's Amulet","msgstr":"마녀의 부적"}
+{"msgctxt":"items","msgid":"Witch's Wand of Fire","msgstr":"마녀의 불의 마법봉"}
+{"msgctxt":"items","msgid":"Witch's Wand of Harming","msgstr":"마녀의 해악의 마법봉"}
+{"msgctxt":"items","msgid":"Witch's Wand of Poison","msgstr":"마녀의 독의 마법봉"}
+{"msgctxt":"items","msgid":"Witch's Wand of Sparks","msgstr":"마녀의 전기 불꽃의 마법봉"}
+{"msgctxt":"items","msgid":"Witch's Wand of Stunning","msgstr":"마녀의 기절의 마법봉"}
+{"msgctxt":"items","msgid":"Wizard Cap","msgstr":"마법사의 모자"}
+{"msgctxt":"items","msgid":"Wizard Ring","msgstr":"마법사의 반지"}
+{"msgctxt":"items","msgid":"Wizard Staff","msgstr":"마법사의 지팡이"}
+{"msgctxt":"items","msgid":"Wizard Wand of Acid","msgstr":"마법사용 산성의 마법봉"}
+{"msgctxt":"items","msgid":"Wizard Wand of Berzerking","msgstr":"광폭화의 마법사 마법봉"}
+{"msgctxt":"items","msgid":"Wizard Wand of Blades","msgstr":"마법사의 칼날 마법봉"}
+{"msgctxt":"items","msgid":"Wizard Wand of Fireballs","msgstr":"불덩이의 마법사 마법봉"}
+{"msgctxt":"items","msgid":"Wizard Wand of Lightning","msgstr":"번개의 마법사 마법봉"}
+{"msgctxt":"items","msgid":"Wolf Statuette","msgstr":"늑대 조각상"}
+{"msgctxt":"items","msgid":"Wolf's Eye","msgstr":"늑대의 눈"}
+{"msgctxt":"items","msgid":"Wonder Mace","msgstr":"경이의 철퇴"}
+{"msgctxt":"items","msgid":"Wooden Buckler","msgstr":"목제 버클러"}
+{"msgctxt":"items","msgid":"Wooden Shield","msgstr":"나무 방패"}
+{"msgctxt":"items","msgid":"Worn Belt","msgstr":"낡은 벨트"}
+{"msgctxt":"items","msgid":"Wyrm Spitter","msgstr":"웜 스피터"}
+{"msgctxt":"items","msgid":"Wyvern Horn","msgstr":"와이번 뿔"}
+{"msgctxt":"items","msgid":"Wyvern Leather Belt","msgstr":"와이번 가죽 허리띠"}
+{"msgctxt":"items","msgid":"Yellow Topaz","msgstr":"노란 토파즈"}
+{"msgctxt":"items","msgid":"Yoruba","msgstr":"요루바"}
+{"msgctxt":"items","msgid":"Zealot Mace","msgstr":"광신도의 철퇴"}
+{"msgctxt":"items","msgid":"Zeus","msgstr":"제우스"}
+{"msgctxt":"items","msgid":"Zircon","msgstr":"지르콘"}
+{"msgctxt":"items","msgid":"Zokarr IV's Skull","msgstr":"조카르 4세의 두개골"}
+{"msgctxt":"items","msgid":"Zokarr's Axe","msgstr":"조카르의 도끼"}
+{"msgctxt":"location","msgid":"Abandoned Pirate Keep","msgstr":"버려진 해적 요새"}
+{"msgctxt":"location","msgid":"Abandoned Temple","msgstr":"버려진 신전"}
+{"msgctxt":"location","msgid":"Agar's Laboratory","msgstr":"아가르의 연구실"}
+{"msgctxt":"location","msgid":"Alvar","msgstr":"알바르"}
+{"msgctxt":"location","msgid":"Ancient Troll Home","msgstr":"고대 트롤의 거처"}
+{"msgctxt":"location","msgid":"Arena","msgstr":"투기장"}
+{"msgctxt":"location","msgid":"Avlee","msgstr":"에이블리"}
+{"msgctxt":"location","msgid":"Balthazar Lair","msgstr":"발타자르의 소굴"}
+{"msgctxt":"location","msgid":"Barbarian Fortress","msgstr":"야만인의 요새"}
+{"msgctxt":"location","msgid":"Barrow I","msgstr":"고분 1"}
+{"msgctxt":"location","msgid":"Barrow II","msgstr":"고분 2"}
+{"msgctxt":"location","msgid":"Barrow III","msgstr":"고분 3"}
+{"msgctxt":"location","msgid":"Barrow IV","msgstr":"고분 4"}
+{"msgctxt":"location","msgid":"Barrow IX","msgstr":"고분 9"}
+{"msgctxt":"location","msgid":"Barrow V","msgstr":"고분 5"}
+{"msgctxt":"location","msgid":"Barrow VI","msgstr":"고분 6"}
+{"msgctxt":"location","msgid":"Barrow VII","msgstr":"고분 7"}
+{"msgctxt":"location","msgid":"Barrow VIII","msgstr":"고분 8"}
+{"msgctxt":"location","msgid":"Barrow X","msgstr":"고분 10"}
+{"msgctxt":"location","msgid":"Barrow XI","msgstr":"고분 11"}
+{"msgctxt":"location","msgid":"Barrow XII","msgstr":"고분 12"}
+{"msgctxt":"location","msgid":"Barrow XIII","msgstr":"고분 13"}
+{"msgctxt":"location","msgid":"Barrow XIV","msgstr":"고분 14"}
+{"msgctxt":"location","msgid":"Barrow XV","msgstr":"고분 15"}
+{"msgctxt":"location","msgid":"Basement of the Breach","msgstr":"균열의 지하층"}
+{"msgctxt":"location","msgid":"Blackshire","msgstr":"블랙셔"}
+{"msgctxt":"location","msgid":"Bootleg Bay","msgstr":"밀수꾼의 만"}
+{"msgctxt":"location","msgid":"Castle Alamos","msgstr":"알라모스 성"}
+{"msgctxt":"location","msgid":"Castle Darkmoor","msgstr":"다크무어 성"}
+{"msgctxt":"location","msgid":"Castle Gloaming","msgstr":"글로밍 성"}
+{"msgctxt":"location","msgid":"Castle Gryphonheart","msgstr":"그리폰하트 성"}
+{"msgctxt":"location","msgid":"Castle Harmondale","msgstr":"하몬데일 성"}
+{"msgctxt":"location","msgid":"Castle Ironfist","msgstr":"아이언피스트 성"}
+{"msgctxt":"location","msgid":"Castle Kriegspire","msgstr":"크리그스파이어 성"}
+{"msgctxt":"location","msgid":"Castle Lambent","msgstr":"램번트 성"}
+{"msgctxt":"location","msgid":"Castle Navan","msgstr":"나반 성"}
+{"msgctxt":"location","msgid":"Castle of Air","msgstr":"바람의 성"}
+{"msgctxt":"location","msgid":"Castle of Fire","msgstr":"불의 성"}
+{"msgctxt":"location","msgid":"Caves of the Dragon Riders","msgstr":"드래곤 기수들의 동굴"}
+{"msgctxt":"location","msgid":"Celeste","msgstr":"셀레스테"}
+{"msgctxt":"location","msgid":"Chain of Fire","msgstr":"불의 사슬"}
+{"msgctxt":"location","msgid":"Chapel of Eep","msgstr":"이프 예배당"}
+{"msgctxt":"location","msgid":"Church of Eep","msgstr":"이프 교회"}
+{"msgctxt":"location","msgid":"Clanker's Laboratory","msgstr":"클랭커의 실험실"}
+{"msgctxt":"location","msgid":"Colony Zod","msgstr":"조드 식민지"}
+{"msgctxt":"location","msgid":"Control Center","msgstr":"제어 센터"}
+{"msgctxt":"location","msgid":"Corlagon's Estate","msgstr":"콜라곤의 저택"}
+{"msgctxt":"location","msgid":"Cyclops Larder","msgstr":"사이클롭스 식량고"}
+{"msgctxt":"location","msgid":"Dagger Wound Island","msgstr":"단검의 상흔 섬"}
+{"msgctxt":"location","msgid":"Dark Dwarf Compound","msgstr":"어둠의 드워프 거점"}
+{"msgctxt":"location","msgid":"Devil Outpost","msgstr":"악마 전초기지"}
+{"msgctxt":"location","msgid":"Deyja","msgstr":"데이자"}
+{"msgctxt":"location","msgid":"Dire Wolf Den","msgstr":"다이어 울프 소굴"}
+{"msgctxt":"location","msgid":"Dragon Cave","msgstr":"드래곤 동굴"}
+{"msgctxt":"location","msgid":"Dragon Hunter's Camp","msgstr":"드래곤 사냥꾼의 야영지"}
+{"msgctxt":"location","msgid":"Dragon's Lair","msgstr":"드래곤의 소굴"}
+{"msgctxt":"location","msgid":"Dragonsand","msgstr":"드래곤샌드"}
+{"msgctxt":"location","msgid":"Dragoons' Caverns","msgstr":"용기병단의 동굴"}
+{"msgctxt":"location","msgid":"Dragoons' Keep","msgstr":"용기병단의 요새"}
+{"msgctxt":"location","msgid":"Druid Circle","msgstr":"드루이드 회합소"}
+{"msgctxt":"location","msgid":"Eel Infested Waters","msgstr":"뱀장어가 들끓는 수역"}
+{"msgctxt":"location","msgid":"Emerald Island","msgstr":"에메랄드 섬"}
+{"msgctxt":"location","msgid":"Erathia","msgstr":"에라시아"}
+{"msgctxt":"location","msgid":"Escaton's Crystal","msgstr":"에스카톤의 수정"}
+{"msgctxt":"location","msgid":"Escaton's Palace","msgstr":"에스카톤의 궁전"}
+{"msgctxt":"location","msgid":"Evenmorn Island","msgstr":"이븐모른 섬"}
+{"msgctxt":"location","msgid":"Fort Riverstride","msgstr":"리버스트라이드 요새"}
+{"msgctxt":"location","msgid":"Free Haven","msgstr":"프리 헤이븐"}
+{"msgctxt":"location","msgid":"Free Haven Sewer","msgstr":"프리 헤이븐 하수도"}
+{"msgctxt":"location","msgid":"Frozen Highlands","msgstr":"얼어붙은 고원"}
+{"msgctxt":"location","msgid":"Garrote Gorge","msgstr":"가로트 협곡"}
+{"msgctxt":"location","msgid":"Gharik's Forge","msgstr":"가릭의 대장간"}
+{"msgctxt":"location","msgid":"Goblinwatch","msgstr":"고블린 감시탑"}
+{"msgctxt":"location","msgid":"Grand Temple of Eep","msgstr":"이프 대사원"}
+{"msgctxt":"location","msgid":"Grand Temple of the Moon","msgstr":"달의 대사원"}
+{"msgctxt":"location","msgid":"Grand Temple of the Sun","msgstr":"태양의 대사원"}
+{"msgctxt":"location","msgid":"Hall of the Fire Lord","msgstr":"불의 군주의 전당"}
+{"msgctxt":"location","msgid":"Harmondale","msgstr":"하몬데일"}
+{"msgctxt":"location","msgid":"Hermit's Isle","msgstr":"은둔자의 섬"}
+{"msgctxt":"location","msgid":"Icewind Keep","msgstr":"아이스윈드 성채"}
+{"msgctxt":"location","msgid":"Ilsingore's Cave","msgstr":"일싱고어의 동굴"}
+{"msgctxt":"location","msgid":"Ironsand Desert","msgstr":"아이언샌드 사막"}
+{"msgctxt":"location","msgid":"Kriegspire","msgstr":"크리그스파이어"}
+{"msgctxt":"location","msgid":"Lair of the Wolf","msgstr":"늑대의 소굴"}
+{"msgctxt":"location","msgid":"Lord Markham's Manor","msgstr":"마크햄 경의 저택"}
+{"msgctxt":"location","msgid":"Mad Necromancer's Lab","msgstr":"미친 강령술사의 실험실"}
+{"msgctxt":"location","msgid":"Merchant House of Alvar","msgstr":"알바르 상인회관"}
+{"msgctxt":"location","msgid":"Mire of the Damned","msgstr":"저주받은 자들의 수렁"}
+{"msgctxt":"location","msgid":"Misty Islands","msgstr":"안개 제도"}
+{"msgctxt":"location","msgid":"Mount Nighon","msgstr":"니곤 산"}
+{"msgctxt":"location","msgid":"Murmurwoods","msgstr":"속삭임의 숲"}
+{"msgctxt":"location","msgid":"Naga Vault","msgstr":"나가 금고"}
+{"msgctxt":"location","msgid":"Necromancers' Guild","msgstr":"강령술사 길드"}
+{"msgctxt":"location","msgid":"New Sorpigal","msgstr":"뉴 소르피갈"}
+{"msgctxt":"location","msgid":"New World Computing","msgstr":"New World Computing"}
+{"msgctxt":"location","msgid":"Nighon Tunnels","msgstr":"니곤 터널"}
+{"msgctxt":"location","msgid":"NWC","msgstr":"NWC"}
+{"msgctxt":"location","msgid":"Ogre Fortress","msgstr":"오우거 요새"}
+{"msgctxt":"location","msgid":"Old Loeb's Cave","msgstr":"늙은 로브의 동굴"}
+{"msgctxt":"location","msgid":"Oracle of Enroth","msgstr":"엔로스의 신탁"}
+{"msgctxt":"location","msgid":"Paradise Valley","msgstr":"낙원 계곡"}
+{"msgctxt":"location","msgid":"Passage Under Regna","msgstr":"레그나 지하 통로"}
+{"msgctxt":"location","msgid":"pending","msgstr":"미정"}
+{"msgctxt":"location","msgid":"Pirate Outpost","msgstr":"해적 전초기지"}
+{"msgctxt":"location","msgid":"Pirate Stronghold","msgstr":"해적 요새"}
+{"msgctxt":"location","msgid":"Plane Between Planes","msgstr":"차원 사이의 차원"}
+{"msgctxt":"location","msgid":"Plane of Air","msgstr":"바람의 차원"}
+{"msgctxt":"location","msgid":"Plane of Earth","msgstr":"대지의 차원"}
+{"msgctxt":"location","msgid":"Plane of Fire","msgstr":"불의 차원"}
+{"msgctxt":"location","msgid":"Plane of Water","msgstr":"물의 차원"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Air","msgstr":"바람 군주의 감옥"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Earth","msgstr":"대지 군주의 감옥"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Fire","msgstr":"불 군주의 감옥"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Water","msgstr":"물의 군주의 감옥"}
+{"msgctxt":"location","msgid":"Ravage Roaming","msgstr":"래비지 로밍"}
+{"msgctxt":"location","msgid":"Ravenshore","msgstr":"레이븐쇼어"}
+{"msgctxt":"location","msgid":"Regna","msgstr":"레그나"}
+{"msgctxt":"location","msgid":"Shadow Guild","msgstr":"그림자 길드"}
+{"msgctxt":"location","msgid":"Shadow Guild Hideout","msgstr":"그림자 길드 은신처"}
+{"msgctxt":"location","msgid":"Shadowspire","msgstr":"그림자 첨탑"}
+{"msgctxt":"location","msgid":"Shoals","msgstr":"여울"}
+{"msgctxt":"location","msgid":"Silver Cove","msgstr":"은빛 만"}
+{"msgctxt":"location","msgid":"Silver Helm Outpost","msgstr":"은빛 투구 전초기지"}
+{"msgctxt":"location","msgid":"Silver Helm Stronghold","msgstr":"실버 헬름 요새"}
+{"msgctxt":"location","msgid":"Small Sub Pen","msgstr":"소형 잠수정 격납고"}
+{"msgctxt":"location","msgid":"Smuggler's Cove","msgstr":"밀수꾼의 만"}
+{"msgctxt":"location","msgid":"Snergle's Caverns","msgstr":"스너글의 동굴"}
+{"msgctxt":"location","msgid":"Snergle's Iron Mines","msgstr":"스너글의 철광산"}
+{"msgctxt":"location","msgid":"Stone City","msgstr":"스톤 시티"}
+{"msgctxt":"location","msgid":"Superior Temple of Baa","msgstr":"바아의 상급 사원"}
+{"msgctxt":"location","msgid":"Supreme Temple of Baa","msgstr":"최고위 바아의 사원"}
+{"msgctxt":"location","msgid":"Sweet Water","msgstr":"단물"}
+{"msgctxt":"location","msgid":"Tatalia","msgstr":"타탈리아"}
+{"msgctxt":"location","msgid":"Temple of Baa","msgstr":"바아의 사원"}
+{"msgctxt":"location","msgid":"Temple of the Dark","msgstr":"어둠의 사원"}
+{"msgctxt":"location","msgid":"Temple of the Fist","msgstr":"주먹의 사원"}
+{"msgctxt":"location","msgid":"Temple of the Light","msgstr":"빛의 사원"}
+{"msgctxt":"location","msgid":"Temple of the Moon","msgstr":"달의 사원"}
+{"msgctxt":"location","msgid":"Temple of the Snake","msgstr":"뱀의 사원"}
+{"msgctxt":"location","msgid":"Temple of the Sun","msgstr":"태양의 사원"}
+{"msgctxt":"location","msgid":"Temple of Tsantsa","msgstr":"찬차의 사원"}
+{"msgctxt":"location","msgid":"The Arena","msgstr":"투기장"}
+{"msgctxt":"location","msgid":"The Bandit Caves","msgstr":"산적 동굴"}
+{"msgctxt":"location","msgid":"The Barrow Downs","msgstr":"고분 구릉지"}
+{"msgctxt":"location","msgid":"The Bracada Desert","msgstr":"브라카다 사막"}
+{"msgctxt":"location","msgid":"The Breach","msgstr":"균열"}
+{"msgctxt":"location","msgid":"The Breeding Zone","msgstr":"번식 구역"}
+{"msgctxt":"location","msgid":"The Crypt of Korbu","msgstr":"코르부의 지하 묘지"}
+{"msgctxt":"location","msgid":"The Dragon Caves","msgstr":"드래곤 동굴"}
+{"msgctxt":"location","msgid":"The Dragon's Lair","msgstr":"드래곤의 소굴"}
+{"msgctxt":"location","msgid":"The Erathian Sewers","msgstr":"에라시아 하수도"}
+{"msgctxt":"location","msgid":"The Hall of the Pit","msgstr":"구덩이의 전당"}
+{"msgctxt":"location","msgid":"The Hall under the Hill","msgstr":"언덕 아래의 전당"}
+{"msgctxt":"location","msgid":"The Haunted Mansion","msgstr":"유령 저택"}
+{"msgctxt":"location","msgid":"The Hidden Tomb","msgstr":"숨겨진 무덤"}
+{"msgctxt":"location","msgid":"The Hive","msgstr":"군락"}
+{"msgctxt":"location","msgid":"The Land of the Giants","msgstr":"거인들의 땅"}
+{"msgctxt":"location","msgid":"The Lincoln","msgstr":"링컨"}
+{"msgctxt":"location","msgid":"The Maze","msgstr":"미궁"}
+{"msgctxt":"location","msgid":"The Mercenary Guild ","msgstr":"용병 길드 "}
+{"msgctxt":"location","msgid":"The Monolith","msgstr":"거석비"}
+{"msgctxt":"location","msgid":"The Pit","msgstr":"구덩이"}
+{"msgctxt":"location","msgid":"The Red Dwarf Mines","msgstr":"붉은 드워프 광산"}
+{"msgctxt":"location","msgid":"The School of Sorcery","msgstr":"마법 학교"}
+{"msgctxt":"location","msgid":"The Small House","msgstr":"작은 집"}
+{"msgctxt":"location","msgid":"The Strange Temple","msgstr":"기묘한 사원"}
+{"msgctxt":"location","msgid":"The Temple of Baa","msgstr":"바아의 사원"}
+{"msgctxt":"location","msgid":"The Temple of the Moon","msgstr":"달의 사원"}
+{"msgctxt":"location","msgid":"The Tidewater Caverns","msgstr":"조수 동굴"}
+{"msgctxt":"location","msgid":"The Titans' Stronghold","msgstr":"타이탄의 요새"}
+{"msgctxt":"location","msgid":"The Tularean Caves","msgstr":"툴라리안 동굴"}
+{"msgctxt":"location","msgid":"The Tularean Forest","msgstr":"툴라리안 숲"}
+{"msgctxt":"location","msgid":"The Walls of Mist","msgstr":"안개의 장벽"}
+{"msgctxt":"location","msgid":"The Wine Cellar","msgstr":"포도주 저장고"}
+{"msgctxt":"location","msgid":"Thunderfist Mountain","msgstr":"썬더피스트 산"}
+{"msgctxt":"location","msgid":"Tomb of Ethric the Mad","msgstr":"광인 에스릭의 무덤"}
+{"msgctxt":"location","msgid":"Tomb of Lord Brinne","msgstr":"브린 경의 무덤"}
+{"msgctxt":"location","msgid":"Tomb of VARN","msgstr":"VARN의 무덤"}
+{"msgctxt":"location","msgid":"Troll Tomb","msgstr":"트롤 무덤"}
+{"msgctxt":"location","msgid":"Tunnels to Eeofol","msgstr":"이오폴로 가는 터널"}
+{"msgctxt":"location","msgid":"Tutorial","msgstr":"튜토리얼"}
+{"msgctxt":"location","msgid":"Uplifted Library","msgstr":"솟아오른 도서관"}
+{"msgctxt":"location","msgid":"Vampire Crypt","msgstr":"뱀파이어 지하묘지"}
+{"msgctxt":"location","msgid":"War Camp","msgstr":"군사 야영지"}
+{"msgctxt":"location","msgid":"Warlord's Fortress","msgstr":"군벌의 요새"}
+{"msgctxt":"location","msgid":"Wasp Nest","msgstr":"말벌 둥지"}
+{"msgctxt":"location","msgid":"Watchtower 6","msgstr":"감시탑 6"}
+{"msgctxt":"location","msgid":"White Cliff Cave","msgstr":"하얀 절벽 동굴"}
+{"msgctxt":"location","msgid":"William Setag's Tower","msgstr":"윌리엄 세태그의 탑"}
+{"msgctxt":"location","msgid":"Wromthrax's Cave","msgstr":"롬스락스의 동굴"}
+{"msgctxt":"location","msgid":"Yaardrake's Cave","msgstr":"야드레이크의 동굴"}
+{"msgctxt":"location","msgid":"Zokarr's Tomb","msgstr":"조카르의 무덤"}
+{"msgctxt":"monsters","msgid":"Acidic Ooze","msgstr":"산성 점액괴물"}
+{"msgctxt":"monsters","msgid":"Acolyte of Baa","msgstr":"바아의 견습 사제"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Moon","msgstr":"달의 견습 사제"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Sun","msgstr":"태양의 견습 사제"}
+{"msgctxt":"monsters","msgid":"Adventurer","msgstr":"모험가"}
+{"msgctxt":"monsters","msgid":"Agar's Abomination","msgstr":"아가르의 흉물"}
+{"msgctxt":"monsters","msgid":"Agar's Monster","msgstr":"아가르의 괴물"}
+{"msgctxt":"monsters","msgid":"Agar's Pet","msgstr":"아가르의 애완동물"}
+{"msgctxt":"monsters","msgid":"Air Elemental","msgstr":"바람 정령"}
+{"msgctxt":"monsters","msgid":"Air Hydra","msgstr":"바람 히드라"}
+{"msgctxt":"monsters","msgid":"Air Warlock","msgstr":"바람의 흑마법사"}
+{"msgctxt":"monsters","msgid":"Ancient Behemoth","msgstr":"고대 베히모스"}
+{"msgctxt":"monsters","msgid":"Ancient Wyvern","msgstr":"고대 와이번"}
+{"msgctxt":"monsters","msgid":"Angel","msgstr":"천사"}
+{"msgctxt":"monsters","msgid":"Angel Lord","msgstr":"천사 군주"}
+{"msgctxt":"monsters","msgid":"Animalist","msgstr":"동물 숭배자"}
+{"msgctxt":"monsters","msgid":"Apprentice Mage","msgstr":"수련생 마법사"}
+{"msgctxt":"monsters","msgid":"Archangel","msgstr":"대천사"}
+{"msgctxt":"monsters","msgid":"Archer","msgstr":"궁수"}
+{"msgctxt":"monsters","msgid":"Archmage","msgstr":"대마법사"}
+{"msgctxt":"monsters","msgid":"Assassin","msgstr":"암살자"}
+{"msgctxt":"monsters","msgid":"Assassin Droid","msgstr":"암살자 드로이드"}
+{"msgctxt":"monsters","msgid":"Bandit","msgstr":"산적"}
+{"msgctxt":"monsters","msgid":"Barrow Wight","msgstr":"고분 와이트"}
+{"msgctxt":"monsters","msgid":"Basilisk","msgstr":"바실리스크"}
+{"msgctxt":"monsters","msgid":"Bat","msgstr":"박쥐"}
+{"msgctxt":"monsters","msgid":"Behemoth","msgstr":"베히모스"}
+{"msgctxt":"monsters","msgid":"Bestial Animalist","msgstr":"야수 같은 동물 숭배자"}
+{"msgctxt":"monsters","msgid":"Bestial Lycanthrope","msgstr":"흉포한 늑대인간"}
+{"msgctxt":"monsters","msgid":"Bestial Shapeshifter","msgstr":"야수형 변신술사"}
+{"msgctxt":"monsters","msgid":"Blaster Guy C","msgstr":"블래스터 요원 C"}
+{"msgctxt":"monsters","msgid":"Blood Sucker","msgstr":"흡혈충"}
+{"msgctxt":"monsters","msgid":"Blood Titan","msgstr":"피의 타이탄"}
+{"msgctxt":"monsters","msgid":"Bloodstone Ooze","msgstr":"블러드스톤 점액괴물"}
+{"msgctxt":"monsters","msgid":"Blue Dragon","msgstr":"푸른 드래곤"}
+{"msgctxt":"monsters","msgid":"Bone Dragon","msgstr":"뼈 드래곤"}
+{"msgctxt":"monsters","msgid":"Boulder","msgstr":"바위"}
+{"msgctxt":"monsters","msgid":"Bounty Hunter","msgstr":"현상금 사냥꾼"}
+{"msgctxt":"monsters","msgid":"Bowman","msgstr":"궁병"}
+{"msgctxt":"monsters","msgid":"Brain Sucker","msgstr":"흡뇌충"}
+{"msgctxt":"monsters","msgid":"Brass Golem","msgstr":"황동 골렘"}
+{"msgctxt":"monsters","msgid":"Brass Gorgon","msgstr":"황동 고르곤"}
+{"msgctxt":"monsters","msgid":"Brigand","msgstr":"산적"}
+{"msgctxt":"monsters","msgid":"Bronze Golem","msgstr":"청동 골렘"}
+{"msgctxt":"monsters","msgid":"Bronze Gorgon","msgstr":"청동 고르곤"}
+{"msgctxt":"monsters","msgid":"Buccaneer","msgstr":"버커니어"}
+{"msgctxt":"monsters","msgid":"Burglar","msgstr":"도둑"}
+{"msgctxt":"monsters","msgid":"Cactus","msgstr":"선인장"}
+{"msgctxt":"monsters","msgid":"Cannibal","msgstr":"식인종"}
+{"msgctxt":"monsters","msgid":"Captain","msgstr":"대장"}
+{"msgctxt":"monsters","msgid":"Cat A","msgstr":"고양이 A"}
+{"msgctxt":"monsters","msgid":"Cat B","msgstr":"고양이 B"}
+{"msgctxt":"monsters","msgid":"Cat C","msgstr":"고양이 C"}
+{"msgctxt":"monsters","msgid":"Centaur","msgstr":"켄타우로스"}
+{"msgctxt":"monsters","msgid":"Centaur Warlord","msgstr":"켄타우로스 군벌"}
+{"msgctxt":"monsters","msgid":"Centaur Warrior","msgstr":"켄타우로스 전사"}
+{"msgctxt":"monsters","msgid":"Champion of the Sword","msgstr":"검의 용사"}
+{"msgctxt":"monsters","msgid":"Chaos Guardian","msgstr":"혼돈의 수호자"}
+{"msgctxt":"monsters","msgid":"Chaos Hydra","msgstr":"혼돈의 히드라"}
+{"msgctxt":"monsters","msgid":"Chaos Overlord","msgstr":"혼돈의 대군주"}
+{"msgctxt":"monsters","msgid":"Chaos Protector","msgstr":"혼돈의 수호자"}
+{"msgctxt":"monsters","msgid":"Charger","msgstr":"돌격병"}
+{"msgctxt":"monsters","msgid":"Chicken A","msgstr":"닭 A"}
+{"msgctxt":"monsters","msgid":"Chicken B","msgstr":"닭 B"}
+{"msgctxt":"monsters","msgid":"Chicken C","msgstr":"닭 C"}
+{"msgctxt":"monsters","msgid":"Clay Elemental","msgstr":"점토 정령"}
+{"msgctxt":"monsters","msgid":"Cleric of Baa","msgstr":"바아의 성직자"}
+{"msgctxt":"monsters","msgid":"Cleric of the Moon","msgstr":"달의 성직자"}
+{"msgctxt":"monsters","msgid":"Cleric of the Sun","msgstr":"태양의 성직자"}
+{"msgctxt":"monsters","msgid":"Cobra","msgstr":"코브라"}
+{"msgctxt":"monsters","msgid":"Colossal Hydra","msgstr":"거대 히드라"}
+{"msgctxt":"monsters","msgid":"Common Rat","msgstr":"일반 쥐"}
+{"msgctxt":"monsters","msgid":"Conscript","msgstr":"징집병"}
+{"msgctxt":"monsters","msgid":"Corbie","msgstr":"코르비"}
+{"msgctxt":"monsters","msgid":"Corrosive Ooze","msgstr":"부식성 점액괴물"}
+{"msgctxt":"monsters","msgid":"Corsair","msgstr":"해적"}
+{"msgctxt":"monsters","msgid":"Couatl","msgstr":"코아틀"}
+{"msgctxt":"monsters","msgid":"Crusader","msgstr":"성전사"}
+{"msgctxt":"monsters","msgid":"Crystal Guardian","msgstr":"수정 수호자"}
+{"msgctxt":"monsters","msgid":"Crystal Sentry","msgstr":"수정 파수꾼"}
+{"msgctxt":"monsters","msgid":"Crystal Walker","msgstr":"수정 보행자"}
+{"msgctxt":"monsters","msgid":"Cuisinart","msgstr":"쿠진아트"}
+{"msgctxt":"monsters","msgid":"Cutpurse","msgstr":"소매치기"}
+{"msgctxt":"monsters","msgid":"Cyclone","msgstr":"사이클론"}
+{"msgctxt":"monsters","msgid":"Cyclops","msgstr":"사이클롭스"}
+{"msgctxt":"monsters","msgid":"Cyclops Hunter","msgstr":"사이클롭스 사냥꾼"}
+{"msgctxt":"monsters","msgid":"Cyclops Warrior","msgstr":"사이클롭스 전사"}
+{"msgctxt":"monsters","msgid":"Dancing Light","msgstr":"춤추는 빛"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Berserker","msgstr":"어둠의 드워프 광전사"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Grunt","msgstr":"다크 드워프 졸병"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Pounder","msgstr":"다크 드워프 분쇄자"}
+{"msgctxt":"monsters","msgid":"Dark Elf Peasant","msgstr":"다크 엘프 농민"}
+{"msgctxt":"monsters","msgid":"Dark Elven Crusader","msgstr":"어둠의 엘프 성전사"}
+{"msgctxt":"monsters","msgid":"Dark Elven Defender","msgstr":"어둠의 엘프 수호자"}
+{"msgctxt":"monsters","msgid":"Dark Elven Warrior","msgstr":"다크 엘프 전사"}
+{"msgctxt":"monsters","msgid":"Dark Path Journeyman","msgstr":"어둠의 길 숙련자"}
+{"msgctxt":"monsters","msgid":"Death Knight","msgstr":"죽음의 기사"}
+{"msgctxt":"monsters","msgid":"Defender of VARN","msgstr":"VARN의 방어자"}
+{"msgctxt":"monsters","msgid":"Demolisher","msgstr":"파괴자"}
+{"msgctxt":"monsters","msgid":"Demon Queen","msgstr":"악마 여왕"}
+{"msgctxt":"monsters","msgid":"Devil Captain","msgstr":"악마 대장"}
+{"msgctxt":"monsters","msgid":"Devil King","msgstr":"악마왕"}
+{"msgctxt":"monsters","msgid":"Devil Master","msgstr":"악마 달인"}
+{"msgctxt":"monsters","msgid":"Devil Spawn","msgstr":"악마의 종자"}
+{"msgctxt":"monsters","msgid":"Devil Warrior","msgstr":"악마 전사"}
+{"msgctxt":"monsters","msgid":"Devil Worker","msgstr":"악마 일꾼"}
+{"msgctxt":"monsters","msgid":"Diamond Gargoyle","msgstr":"다이아몬드 가고일"}
+{"msgctxt":"monsters","msgid":"Dire Wolf","msgstr":"다이어 울프"}
+{"msgctxt":"monsters","msgid":"Dire Wolf Yearling","msgstr":"어린 다이어 울프"}
+{"msgctxt":"monsters","msgid":"Djinn","msgstr":"진"}
+{"msgctxt":"monsters","msgid":"Djinni","msgstr":"진"}
+{"msgctxt":"monsters","msgid":"Dog A","msgstr":"개 A"}
+{"msgctxt":"monsters","msgid":"Dog B","msgstr":"개 B"}
+{"msgctxt":"monsters","msgid":"Dog C","msgstr":"개 C"}
+{"msgctxt":"monsters","msgid":"Doom Knight","msgstr":"파멸의 기사"}
+{"msgctxt":"monsters","msgid":"Dragon","msgstr":"드래곤"}
+{"msgctxt":"monsters","msgid":"Dragon Flightleader","msgstr":"드래곤 비행대장"}
+{"msgctxt":"monsters","msgid":"Dragon Hunter","msgstr":"드래곤 사냥꾼"}
+{"msgctxt":"monsters","msgid":"Dragon Shark","msgstr":"드래곤 상어"}
+{"msgctxt":"monsters","msgid":"Dragon Turtle","msgstr":"드래곤 거북"}
+{"msgctxt":"monsters","msgid":"Dragonette","msgstr":"새끼 드래곤"}
+{"msgctxt":"monsters","msgid":"Dragonfly","msgstr":"잠자리"}
+{"msgctxt":"monsters","msgid":"Dragonslayer","msgstr":"드래곤 사냥꾼"}
+{"msgctxt":"monsters","msgid":"Druid","msgstr":"드루이드"}
+{"msgctxt":"monsters","msgid":"Dust Devil","msgstr":"먼지 악마"}
+{"msgctxt":"monsters","msgid":"Dwarf","msgstr":"드워프"}
+{"msgctxt":"monsters","msgid":"Dwarf Lord","msgstr":"드워프 군주"}
+{"msgctxt":"monsters","msgid":"Dwarf Warrior","msgstr":"드워프 전사"}
+{"msgctxt":"monsters","msgid":"Dwarven Commander","msgstr":"드워프 지휘관"}
+{"msgctxt":"monsters","msgid":"Dwarven Lieutenant","msgstr":"드워프 중위"}
+{"msgctxt":"monsters","msgid":"Dwarven Soldier","msgstr":"드워프 병사"}
+{"msgctxt":"monsters","msgid":"Earth Elemental","msgstr":"대지 정령"}
+{"msgctxt":"monsters","msgid":"Earth Spirit","msgstr":"대지 정령"}
+{"msgctxt":"monsters","msgid":"Efreet","msgstr":"이프리트"}
+{"msgctxt":"monsters","msgid":"Efreeti Knight","msgstr":"이프리트 기사"}
+{"msgctxt":"monsters","msgid":"Efreeti Lord","msgstr":"이프리트 군주"}
+{"msgctxt":"monsters","msgid":"Efreeti Soldier","msgstr":"이프리트 병사"}
+{"msgctxt":"monsters","msgid":"Elder Basilisk","msgstr":"고대 바실리스크"}
+{"msgctxt":"monsters","msgid":"Elder Tortoise","msgstr":"고대 거북"}
+{"msgctxt":"monsters","msgid":"Elder Vampire","msgstr":"고대 뱀파이어"}
+{"msgctxt":"monsters","msgid":"Elite Archer","msgstr":"정예 궁수"}
+{"msgctxt":"monsters","msgid":"Elven Archer","msgstr":"엘프 궁수"}
+{"msgctxt":"monsters","msgid":"Elven Defender","msgstr":"엘프 수호자"}
+{"msgctxt":"monsters","msgid":"Elven Lancer","msgstr":"엘프 창기병"}
+{"msgctxt":"monsters","msgid":"Elven Ranger","msgstr":"엘프 레인저"}
+{"msgctxt":"monsters","msgid":"Elven Scout","msgstr":"엘프 정찰병"}
+{"msgctxt":"monsters","msgid":"Elven Warrior","msgstr":"엘프 전사"}
+{"msgctxt":"monsters","msgid":"Ember Gog","msgstr":"잿불 고그"}
+{"msgctxt":"monsters","msgid":"Emerald Dragon","msgstr":"에메랄드 드래곤"}
+{"msgctxt":"monsters","msgid":"Emerald Ooze","msgstr":"에메랄드 점액괴물"}
+{"msgctxt":"monsters","msgid":"Empress Medusa","msgstr":"메두사 여제"}
+{"msgctxt":"monsters","msgid":"Energy Drake","msgstr":"에너지 드레이크"}
+{"msgctxt":"monsters","msgid":"Enforcer Unit","msgstr":"집행자 유닛"}
+{"msgctxt":"monsters","msgid":"Ether Champion","msgstr":"에테르 용사"}
+{"msgctxt":"monsters","msgid":"Ether Knight","msgstr":"에테르 기사"}
+{"msgctxt":"monsters","msgid":"Ether Lord","msgstr":"에테르 군주"}
+{"msgctxt":"monsters","msgid":"Evil Eye","msgstr":"이블 아이"}
+{"msgctxt":"monsters","msgid":"Evil Spirit","msgstr":"사악한 영혼"}
+{"msgctxt":"monsters","msgid":"Expert Swordsman","msgstr":"숙련 검사"}
+{"msgctxt":"monsters","msgid":"Fanatic of Baa","msgstr":"바아의 광신자"}
+{"msgctxt":"monsters","msgid":"Fear","msgstr":"공포"}
+{"msgctxt":"monsters","msgid":"Fighter","msgstr":"전사"}
+{"msgctxt":"monsters","msgid":"Fire Archer","msgstr":"불의 궁수"}
+{"msgctxt":"monsters","msgid":"Fire Beast","msgstr":"불의 야수"}
+{"msgctxt":"monsters","msgid":"Fire Bird","msgstr":"불새"}
+{"msgctxt":"monsters","msgid":"Fire Dragonfly","msgstr":"불잠자리"}
+{"msgctxt":"monsters","msgid":"Fire Elemental","msgstr":"불의 정령"}
+{"msgctxt":"monsters","msgid":"Fire Gog","msgstr":"불의 고그"}
+{"msgctxt":"monsters","msgid":"Fire Hydra","msgstr":"불의 히드라"}
+{"msgctxt":"monsters","msgid":"Fire Lizard","msgstr":"불도마뱀"}
+{"msgctxt":"monsters","msgid":"Fire Newt","msgstr":"불도롱뇽"}
+{"msgctxt":"monsters","msgid":"Fire Rat","msgstr":"불쥐"}
+{"msgctxt":"monsters","msgid":"Fire Spirit","msgstr":"불의 영혼"}
+{"msgctxt":"monsters","msgid":"Fire Warlock","msgstr":"불의 흑마법사"}
+{"msgctxt":"monsters","msgid":"Fish","msgstr":"물고기"}
+{"msgctxt":"monsters","msgid":"Flame Drake","msgstr":"화염 드레이크"}
+{"msgctxt":"monsters","msgid":"Floating Eye","msgstr":"떠다니는 눈"}
+{"msgctxt":"monsters","msgid":"Flying Eye","msgstr":"날아다니는 눈"}
+{"msgctxt":"monsters","msgid":"Follower of Baa","msgstr":"바아의 추종자"}
+{"msgctxt":"monsters","msgid":"Frost Drake","msgstr":"서리 드레이크"}
+{"msgctxt":"monsters","msgid":"Gazer","msgstr":"게이저"}
+{"msgctxt":"monsters","msgid":"Genie","msgstr":"지니"}
+{"msgctxt":"monsters","msgid":"Ghast","msgstr":"가스트"}
+{"msgctxt":"monsters","msgid":"Ghost","msgstr":"유령"}
+{"msgctxt":"monsters","msgid":"Ghoul ","msgstr":"구울 "}
+{"msgctxt":"monsters","msgid":"Giant Bat","msgstr":"거대 박쥐"}
+{"msgctxt":"monsters","msgid":"Giant Rat","msgstr":"거대 쥐"}
+{"msgctxt":"monsters","msgid":"Giant Shark","msgstr":"거대 상어"}
+{"msgctxt":"monsters","msgid":"Giant Spider","msgstr":"거대 거미"}
+{"msgctxt":"monsters","msgid":"Giant Wyrm","msgstr":"거대 웜"}
+{"msgctxt":"monsters","msgid":"Goblin","msgstr":"고블린"}
+{"msgctxt":"monsters","msgid":"Goblin King","msgstr":"고블린 왕"}
+{"msgctxt":"monsters","msgid":"Goblin Lord","msgstr":"고블린 군주"}
+{"msgctxt":"monsters","msgid":"Goblin Shaman","msgstr":"고블린 주술사"}
+{"msgctxt":"monsters","msgid":"Gog","msgstr":"고그"}
+{"msgctxt":"monsters","msgid":"Gogling","msgstr":"고그링"}
+{"msgctxt":"monsters","msgid":"Gold Dragon","msgstr":"황금 드래곤"}
+{"msgctxt":"monsters","msgid":"Gold Golem","msgstr":"황금 골렘"}
+{"msgctxt":"monsters","msgid":"Gorgon","msgstr":"고르곤"}
+{"msgctxt":"monsters","msgid":"Grand Druid","msgstr":"고위 드루이드"}
+{"msgctxt":"monsters","msgid":"Grand Phoenix","msgstr":"대불사조"}
+{"msgctxt":"monsters","msgid":"Great Druid","msgstr":"대드루이드"}
+{"msgctxt":"monsters","msgid":"Great Wyrm","msgstr":"거대한 웜"}
+{"msgctxt":"monsters","msgid":"Greater Air Elemental","msgstr":"상급 바람 정령"}
+{"msgctxt":"monsters","msgid":"Greater Earth Elemental","msgstr":"상급 대지 정령"}
+{"msgctxt":"monsters","msgid":"Greater Fire Elemental","msgstr":"상급 불의 정령"}
+{"msgctxt":"monsters","msgid":"Greater Lich","msgstr":"고위 리치"}
+{"msgctxt":"monsters","msgid":"Greater Light Elemental","msgstr":"상급 빛의 정령"}
+{"msgctxt":"monsters","msgid":"Greater Roc","msgstr":"상급 로크"}
+{"msgctxt":"monsters","msgid":"Greater Vampire","msgstr":"상급 뱀파이어"}
+{"msgctxt":"monsters","msgid":"Greater Water Elemental","msgstr":"상급 물의 정령"}
+{"msgctxt":"monsters","msgid":"Greater Wererat","msgstr":"상급 쥐인간"}
+{"msgctxt":"monsters","msgid":"Greater Werewolf","msgstr":"상급 늑대인간"}
+{"msgctxt":"monsters","msgid":"Green Dragon","msgstr":"녹색 드래곤"}
+{"msgctxt":"monsters","msgid":"Griffin","msgstr":"그리핀"}
+{"msgctxt":"monsters","msgid":"Guard","msgstr":"경비병"}
+{"msgctxt":"monsters","msgid":"Guardian of Flame","msgstr":"화염의 수호자"}
+{"msgctxt":"monsters","msgid":"Guardian of VARN","msgstr":"VARN의 수호자"}
+{"msgctxt":"monsters","msgid":"Harpy","msgstr":"하피"}
+{"msgctxt":"monsters","msgid":"Harpy Hag","msgstr":"하피 노파"}
+{"msgctxt":"monsters","msgid":"Harpy Queen","msgstr":"하피 여왕"}
+{"msgctxt":"monsters","msgid":"Harpy Witch","msgstr":"하피 마녀"}
+{"msgctxt":"monsters","msgid":"Hatchling","msgstr":"새끼 드래곤"}
+{"msgctxt":"monsters","msgid":"Head Hunter","msgstr":"머리 사냥꾼"}
+{"msgctxt":"monsters","msgid":"Hobgoblin","msgstr":"홉고블린"}
+{"msgctxt":"monsters","msgid":"Horned Wyvern","msgstr":"뿔 달린 와이번"}
+{"msgctxt":"monsters","msgid":"Huge Spider","msgstr":"거대 거미"}
+{"msgctxt":"monsters","msgid":"Human Peasant","msgstr":"인간 농민"}
+{"msgctxt":"monsters","msgid":"Hunting Griffin","msgstr":"사냥꾼 그리핀"}
+{"msgctxt":"monsters","msgid":"Hydra","msgstr":"히드라"}
+{"msgctxt":"monsters","msgid":"Inferno Bat","msgstr":"지옥불 박쥐"}
+{"msgctxt":"monsters","msgid":"Initiate","msgstr":"수련생"}
+{"msgctxt":"monsters","msgid":"Initiate Monk","msgstr":"수련생 수도승"}
+{"msgctxt":"monsters","msgid":"Initiate of the Sword","msgstr":"검의 수련생"}
+{"msgctxt":"monsters","msgid":"Iron Gorgon","msgstr":"철의 고르곤"}
+{"msgctxt":"monsters","msgid":"Journeyman Mage","msgstr":"숙련 마법사"}
+{"msgctxt":"monsters","msgid":"Juggernaut","msgstr":"저거너트"}
+{"msgctxt":"monsters","msgid":"King Cobra","msgstr":"왕코브라"}
+{"msgctxt":"monsters","msgid":"Large Rat","msgstr":"큰 쥐"}
+{"msgctxt":"monsters","msgid":"Lesser Air Elemental","msgstr":"하급 바람 정령"}
+{"msgctxt":"monsters","msgid":"Lesser Earth Elemental","msgstr":"하급 대지 정령"}
+{"msgctxt":"monsters","msgid":"Lesser Fire Elemental","msgstr":"하급 불의 정령"}
+{"msgctxt":"monsters","msgid":"Lesser Light Elemental","msgstr":"하급 빛의 정령"}
+{"msgctxt":"monsters","msgid":"Lesser Water Elemental","msgstr":"하급 물의 정령"}
+{"msgctxt":"monsters","msgid":"Lich","msgstr":"리치"}
+{"msgctxt":"monsters","msgid":"Lich King","msgstr":"리치 왕"}
+{"msgctxt":"monsters","msgid":"Lieutenant","msgstr":"중위"}
+{"msgctxt":"monsters","msgid":"Light Elemental","msgstr":"빛의 정령"}
+{"msgctxt":"monsters","msgid":"Lightning Lizard","msgstr":"번개 도마뱀"}
+{"msgctxt":"monsters","msgid":"Lightning Rat","msgstr":"번개 쥐"}
+{"msgctxt":"monsters","msgid":"Lizard Archer","msgstr":"도마뱀 궁수"}
+{"msgctxt":"monsters","msgid":"Lizard Man","msgstr":"도마뱀 인간"}
+{"msgctxt":"monsters","msgid":"Lizard Wizard","msgstr":"도마뱀 마법사"}
+{"msgctxt":"monsters","msgid":"Lizardman Captain","msgstr":"도마뱀 인간 대장"}
+{"msgctxt":"monsters","msgid":"Lizardman Farmer","msgstr":"도마뱀 인간 농부"}
+{"msgctxt":"monsters","msgid":"Lizardman Peasant","msgstr":"도마뱀 인간 농민"}
+{"msgctxt":"monsters","msgid":"Lizardman Sergeant","msgstr":"도마뱀 인간 병장"}
+{"msgctxt":"monsters","msgid":"Lizardman Soldier","msgstr":"도마뱀 인간 병사"}
+{"msgctxt":"monsters","msgid":"Lizardman Villager","msgstr":"도마뱀 인간 주민"}
+{"msgctxt":"monsters","msgid":"Lycanthrope","msgstr":"늑대인간"}
+{"msgctxt":"monsters","msgid":"Maddening Eye","msgstr":"광기의 눈"}
+{"msgctxt":"monsters","msgid":"Mage","msgstr":"마법사"}
+{"msgctxt":"monsters","msgid":"Magician","msgstr":"마술사"}
+{"msgctxt":"monsters","msgid":"Magog","msgstr":"마고그"}
+{"msgctxt":"monsters","msgid":"Magyar","msgstr":"마자르"}
+{"msgctxt":"monsters","msgid":"Magyar Matron","msgstr":"마자르 대모"}
+{"msgctxt":"monsters","msgid":"Magyar Soldier","msgstr":"마자르 병사"}
+{"msgctxt":"monsters","msgid":"Manticore ","msgstr":"만티코어 "}
+{"msgctxt":"monsters","msgid":"Marble Gargoyle","msgstr":"대리석 가고일"}
+{"msgctxt":"monsters","msgid":"Master","msgstr":"달인"}
+{"msgctxt":"monsters","msgid":"Master Archer","msgstr":"달인 궁수"}
+{"msgctxt":"monsters","msgid":"Master Monk","msgstr":"달인 수도승"}
+{"msgctxt":"monsters","msgid":"Master Necromancer","msgstr":"달인 강령술사"}
+{"msgctxt":"monsters","msgid":"Master of the Sword","msgstr":"검술의 달인"}
+{"msgctxt":"monsters","msgid":"Master Swordsman","msgstr":"달인 검사"}
+{"msgctxt":"monsters","msgid":"Master Thief","msgstr":"도둑의 달인"}
+{"msgctxt":"monsters","msgid":"Medusa","msgstr":"메두사"}
+{"msgctxt":"monsters","msgid":"Medusa Enchantress","msgstr":"메두사 요술사"}
+{"msgctxt":"monsters","msgid":"Mega-Dragon","msgstr":"메가 드래곤"}
+{"msgctxt":"monsters","msgid":"Mercenary","msgstr":"용병"}
+{"msgctxt":"monsters","msgid":"Mercenary Captain","msgstr":"용병 대장"}
+{"msgctxt":"monsters","msgid":"Minicore","msgstr":"미니코어"}
+{"msgctxt":"monsters","msgid":"Minion Vampire","msgstr":"하급 뱀파이어"}
+{"msgctxt":"monsters","msgid":"Minotaur","msgstr":"미노타우로스"}
+{"msgctxt":"monsters","msgid":"Minotaur Battleleader","msgstr":"미노타우로스 전투대장"}
+{"msgctxt":"monsters","msgid":"Minotaur Guard","msgstr":"미노타우로스 경비병"}
+{"msgctxt":"monsters","msgid":"Minotaur Headsman","msgstr":"미노타우로스 참수인"}
+{"msgctxt":"monsters","msgid":"Minotaur King","msgstr":"미노타우로스 왕"}
+{"msgctxt":"monsters","msgid":"Minotaur Lord","msgstr":"미노타우로스 군주"}
+{"msgctxt":"monsters","msgid":"Minotaur Mage","msgstr":"미노타우로스 마법사"}
+{"msgctxt":"monsters","msgid":"Minotaur Peasant","msgstr":"미노타우로스 농민"}
+{"msgctxt":"monsters","msgid":"Minotaur Warrior","msgstr":"미노타우로스 전사"}
+{"msgctxt":"monsters","msgid":"Mist Hawk","msgstr":"안개매"}
+{"msgctxt":"monsters","msgid":"Monk","msgstr":"수도승"}
+{"msgctxt":"monsters","msgid":"Mountain Troll","msgstr":"산악 트롤"}
+{"msgctxt":"monsters","msgid":"Mystic of Baa","msgstr":"바아의 신비가"}
+{"msgctxt":"monsters","msgid":"Naga ","msgstr":"나가 "}
+{"msgctxt":"monsters","msgid":"Naga Queen","msgstr":"나가 여왕"}
+{"msgctxt":"monsters","msgid":"Naga Warrior","msgstr":"나가 전사"}
+{"msgctxt":"monsters","msgid":"Necromancer","msgstr":"강령술사"}
+{"msgctxt":"monsters","msgid":"Nightmare","msgstr":"나이트메어"}
+{"msgctxt":"monsters","msgid":"Noble Titan","msgstr":"귀족 타이탄"}
+{"msgctxt":"monsters","msgid":"Novice Monk","msgstr":"초보 수도승"}
+{"msgctxt":"monsters","msgid":"Obsidian Gargoyle","msgstr":"흑요석 가고일"}
+{"msgctxt":"monsters","msgid":"Ogre","msgstr":"오우거"}
+{"msgctxt":"monsters","msgid":"Ogre Brawler","msgstr":"오우거 싸움꾼"}
+{"msgctxt":"monsters","msgid":"Ogre Chieftain","msgstr":"오우거 족장"}
+{"msgctxt":"monsters","msgid":"Ogre Mage ","msgstr":"오우거 마법사 "}
+{"msgctxt":"monsters","msgid":"Ogre Mage Apprentice","msgstr":"오우거 마법사 수련생"}
+{"msgctxt":"monsters","msgid":"Ogre Magi","msgstr":"오우거 마도사"}
+{"msgctxt":"monsters","msgid":"Ogre Peasant","msgstr":"오우거 농민"}
+{"msgctxt":"monsters","msgid":"Ogre Raider","msgstr":"오우거 약탈자"}
+{"msgctxt":"monsters","msgid":"Ogre Warleader","msgstr":"오우거 전쟁대장"}
+{"msgctxt":"monsters","msgid":"Ogre Warrior","msgstr":"오우거 전사"}
+{"msgctxt":"monsters","msgid":"Ooze","msgstr":"점액괴물"}
+{"msgctxt":"monsters","msgid":"Pack Leader","msgstr":"무리 우두머리"}
+{"msgctxt":"monsters","msgid":"Patrol Unit","msgstr":"순찰 유닛"}
+{"msgctxt":"monsters","msgid":"Peasant","msgstr":"농민"}
+{"msgctxt":"monsters","msgid":"Phoenix","msgstr":"불사조"}
+{"msgctxt":"monsters","msgid":"Piranha Shark","msgstr":"피라냐상어"}
+{"msgctxt":"monsters","msgid":"Pirate","msgstr":"해적"}
+{"msgctxt":"monsters","msgid":"Pirate Magi","msgstr":"해적 마도사"}
+{"msgctxt":"monsters","msgid":"Pirate Seer","msgstr":"해적 예언자"}
+{"msgctxt":"monsters","msgid":"Pirate Wizard","msgstr":"해적 마법사"}
+{"msgctxt":"monsters","msgid":"Plane Guardian","msgstr":"차원 수호자"}
+{"msgctxt":"monsters","msgid":"Plane Overlord","msgstr":"차원 대군주"}
+{"msgctxt":"monsters","msgid":"Plane Protector","msgstr":"차원의 수호자"}
+{"msgctxt":"monsters","msgid":"Power Lich","msgstr":"강력한 리치"}
+{"msgctxt":"monsters","msgid":"Priest of Baa","msgstr":"바아의 사제"}
+{"msgctxt":"monsters","msgid":"Priest of the Moon","msgstr":"달의 사제"}
+{"msgctxt":"monsters","msgid":"Priest of the Sun","msgstr":"태양의 사제"}
+{"msgctxt":"monsters","msgid":"Queen Cobra","msgstr":"여왕 코브라"}
+{"msgctxt":"monsters","msgid":"Queen Dragonfly","msgstr":"여왕 잠자리"}
+{"msgctxt":"monsters","msgid":"Queen Medusa","msgstr":"메두사 여왕"}
+{"msgctxt":"monsters","msgid":"Queen of the Dead","msgstr":"망자의 여왕"}
+{"msgctxt":"monsters","msgid":"Raider","msgstr":"약탈자"}
+{"msgctxt":"monsters","msgid":"Rat A","msgstr":"쥐 A"}
+{"msgctxt":"monsters","msgid":"Rat B","msgstr":"쥐 B"}
+{"msgctxt":"monsters","msgid":"Rat C","msgstr":"쥐 C"}
+{"msgctxt":"monsters","msgid":"Ratman","msgstr":"쥐인간"}
+{"msgctxt":"monsters","msgid":"Raven","msgstr":"까마귀"}
+{"msgctxt":"monsters","msgid":"Reactor","msgstr":"원자로"}
+{"msgctxt":"monsters","msgid":"Red Dragon","msgstr":"붉은 드래곤"}
+{"msgctxt":"monsters","msgid":"Regnan Arbalester","msgstr":"레그나의 쇠뇌병"}
+{"msgctxt":"monsters","msgid":"Regnan Archmage","msgstr":"레그나의 대마법사"}
+{"msgctxt":"monsters","msgid":"Regnan Bandit","msgstr":"레그나 산적"}
+{"msgctxt":"monsters","msgid":"Regnan Battlemage","msgstr":"레그나의 전투 마법사"}
+{"msgctxt":"monsters","msgid":"Regnan Brigadier","msgstr":"레그나군 준장"}
+{"msgctxt":"monsters","msgid":"Regnan Crossbowman","msgstr":"레그나의 석궁병"}
+{"msgctxt":"monsters","msgid":"Regnan Lieutenant","msgstr":"레그나의 중위"}
+{"msgctxt":"monsters","msgid":"Regnan Pirate","msgstr":"레그나 해적"}
+{"msgctxt":"monsters","msgid":"Regnan Sorcerer","msgstr":"레그나의 소서러"}
+{"msgctxt":"monsters","msgid":"Revenant","msgstr":"레버넌트"}
+{"msgctxt":"monsters","msgid":"River Troll","msgstr":"강 트롤"}
+{"msgctxt":"monsters","msgid":"Robber","msgstr":"강도"}
+{"msgctxt":"monsters","msgid":"Robert the Wise","msgstr":"현자 로버트"}
+{"msgctxt":"monsters","msgid":"Roc","msgstr":"로크"}
+{"msgctxt":"monsters","msgid":"Rock Beast","msgstr":"바위 야수"}
+{"msgctxt":"monsters","msgid":"Rogue","msgstr":"도적"}
+{"msgctxt":"monsters","msgid":"Rook","msgstr":"룩"}
+{"msgctxt":"monsters","msgid":"Rotted Corpse","msgstr":"썩은 시체"}
+{"msgctxt":"monsters","msgid":"Royal Griffin","msgstr":"왕실 그리핀"}
+{"msgctxt":"monsters","msgid":"Ruby Dragon","msgstr":"루비 드래곤"}
+{"msgctxt":"monsters","msgid":"Ruffian","msgstr":"불한당"}
+{"msgctxt":"monsters","msgid":"Salamander ","msgstr":"샐러맨더 "}
+{"msgctxt":"monsters","msgid":"Sapphire Dragon","msgstr":"사파이어 드래곤"}
+{"msgctxt":"monsters","msgid":"Sapphire Ooze","msgstr":"사파이어 점액괴물"}
+{"msgctxt":"monsters","msgid":"Scorpicore","msgstr":"스코피코어"}
+{"msgctxt":"monsters","msgid":"Sea Monster","msgstr":"바다 괴물"}
+{"msgctxt":"monsters","msgid":"Sea Serpent","msgstr":"바다뱀"}
+{"msgctxt":"monsters","msgid":"Sea Terror","msgstr":"바다의 공포"}
+{"msgctxt":"monsters","msgid":"Seeker Droid","msgstr":"탐색 드로이드"}
+{"msgctxt":"monsters","msgid":"Sentinel Droid","msgstr":"감시 드로이드"}
+{"msgctxt":"monsters","msgid":"Sentinel of VARN","msgstr":"VARN의 파수꾼"}
+{"msgctxt":"monsters","msgid":"Serpentman","msgstr":"뱀 인간"}
+{"msgctxt":"monsters","msgid":"Serpentman Elder","msgstr":"뱀 인간 장로"}
+{"msgctxt":"monsters","msgid":"Serpentman Warrior","msgstr":"뱀 인간 전사"}
+{"msgctxt":"monsters","msgid":"Shade","msgstr":"셰이드"}
+{"msgctxt":"monsters","msgid":"Shapeshifter","msgstr":"변신술사"}
+{"msgctxt":"monsters","msgid":"Skeletal Dragon","msgstr":"스켈레톤 드래곤"}
+{"msgctxt":"monsters","msgid":"Skeleton","msgstr":"스켈레톤"}
+{"msgctxt":"monsters","msgid":"Skeleton Archer ","msgstr":"스켈레톤 궁수 "}
+{"msgctxt":"monsters","msgid":"Skeleton Bowman","msgstr":"스켈레톤 궁병"}
+{"msgctxt":"monsters","msgid":"Skeleton Hunter","msgstr":"스켈레톤 사냥꾼"}
+{"msgctxt":"monsters","msgid":"Skeleton Knight","msgstr":"스켈레톤 기사"}
+{"msgctxt":"monsters","msgid":"Skeleton Lord","msgstr":"스켈레톤 군주"}
+{"msgctxt":"monsters","msgid":"Skeleton Warrior","msgstr":"스켈레톤 전사"}
+{"msgctxt":"monsters","msgid":"Smoke Gog","msgstr":"연기 고그"}
+{"msgctxt":"monsters","msgid":"Soldier","msgstr":"병사"}
+{"msgctxt":"monsters","msgid":"Soldier of Fortune","msgstr":"재물을 좇는 병사"}
+{"msgctxt":"monsters","msgid":"Sorcerer","msgstr":"소서러"}
+{"msgctxt":"monsters","msgid":"Soul Sucker","msgstr":"영혼 흡수자"}
+{"msgctxt":"monsters","msgid":"Speaker for the Dead","msgstr":"망자의 대변자"}
+{"msgctxt":"monsters","msgid":"Specter","msgstr":"망령"}
+{"msgctxt":"monsters","msgid":"Spider","msgstr":"거미"}
+{"msgctxt":"monsters","msgid":"Sprite","msgstr":"스프라이트"}
+{"msgctxt":"monsters","msgid":"Stone Elemental","msgstr":"돌 정령"}
+{"msgctxt":"monsters","msgid":"Stone Gargoyle","msgstr":"돌 가고일"}
+{"msgctxt":"monsters","msgid":"Storm Eagle","msgstr":"폭풍 독수리"}
+{"msgctxt":"monsters","msgid":"Storm Titan","msgstr":"폭풍의 타이탄"}
+{"msgctxt":"monsters","msgid":"Supreme Titan","msgstr":"최고위 타이탄"}
+{"msgctxt":"monsters","msgid":"Swamp Troll","msgstr":"늪 트롤"}
+{"msgctxt":"monsters","msgid":"Swordsman","msgstr":"검사"}
+{"msgctxt":"monsters","msgid":"Sylph","msgstr":"실프"}
+{"msgctxt":"monsters","msgid":"Tempest","msgstr":"폭풍"}
+{"msgctxt":"monsters","msgid":"Terminator Unit","msgstr":"터미네이터 유닛"}
+{"msgctxt":"monsters","msgid":"Terrible Eye","msgstr":"공포의 눈"}
+{"msgctxt":"monsters","msgid":"Terror","msgstr":"공포"}
+{"msgctxt":"monsters","msgid":"Thief","msgstr":"도둑"}
+{"msgctxt":"monsters","msgid":"Thug","msgstr":"폭력배"}
+{"msgctxt":"monsters","msgid":"Thunder Lizard","msgstr":"천둥 도마뱀"}
+{"msgctxt":"monsters","msgid":"Thunderbird","msgstr":"천둥새"}
+{"msgctxt":"monsters","msgid":"Titan","msgstr":"타이탄"}
+{"msgctxt":"monsters","msgid":"Tolberti","msgstr":"톨버티"}
+{"msgctxt":"monsters","msgid":"Tree","msgstr":"나무"}
+{"msgctxt":"monsters","msgid":"Triton ","msgstr":"트리톤 "}
+{"msgctxt":"monsters","msgid":"Triton Crusader","msgstr":"트리톤 성전사"}
+{"msgctxt":"monsters","msgid":"Triton Warrior","msgstr":"트리톤 전사"}
+{"msgctxt":"monsters","msgid":"Troglodyte Drone","msgstr":"트로글로다이트 일꾼"}
+{"msgctxt":"monsters","msgid":"Troglodyte Queen","msgstr":"트로글로다이트 여왕"}
+{"msgctxt":"monsters","msgid":"Troglodyte Soldier","msgstr":"트로글로다이트 병사"}
+{"msgctxt":"monsters","msgid":"Troll Chieftain","msgstr":"트롤 족장"}
+{"msgctxt":"monsters","msgid":"Troll Clubman","msgstr":"트롤 곤봉병"}
+{"msgctxt":"monsters","msgid":"Troll Peasant","msgstr":"트롤 농민"}
+{"msgctxt":"monsters","msgid":"Troll Warrior","msgstr":"트롤 전사"}
+{"msgctxt":"monsters","msgid":"Twister","msgstr":"회오리바람"}
+{"msgctxt":"monsters","msgid":"Undead Dragon","msgstr":"언데드 드래곤"}
+{"msgctxt":"monsters","msgid":"Unicorn","msgstr":"유니콘"}
+{"msgctxt":"monsters","msgid":"Unicorn Foal","msgstr":"유니콘 망아지"}
+{"msgctxt":"monsters","msgid":"Unicorn Herd Leader","msgstr":"유니콘 무리의 우두머리"}
+{"msgctxt":"monsters","msgid":"Vampire","msgstr":"뱀파이어"}
+{"msgctxt":"monsters","msgid":"Vampire Bat","msgstr":"뱀파이어 박쥐"}
+{"msgctxt":"monsters","msgid":"Vampire Minion","msgstr":"하급 뱀파이어"}
+{"msgctxt":"monsters","msgid":"Venemous Spider","msgstr":"독거미"}
+{"msgctxt":"monsters","msgid":"Venomous Hydra","msgstr":"맹독 히드라"}
+{"msgctxt":"monsters","msgid":"Veteran","msgstr":"숙련병"}
+{"msgctxt":"monsters","msgid":"Walking Dead","msgstr":"산송장"}
+{"msgctxt":"monsters","msgid":"Warden of Fire","msgstr":"불의 감시자"}
+{"msgctxt":"monsters","msgid":"Warlock","msgstr":"흑마법사"}
+{"msgctxt":"monsters","msgid":"Wasp Sentry","msgstr":"말벌 보초병"}
+{"msgctxt":"monsters","msgid":"Wasp Warrior","msgstr":"말벌 전사"}
+{"msgctxt":"monsters","msgid":"Wasp Worker","msgstr":"말벌 일꾼"}
+{"msgctxt":"monsters","msgid":"Water Beast","msgstr":"물의 야수"}
+{"msgctxt":"monsters","msgid":"Water Elemental","msgstr":"물의 정령"}
+{"msgctxt":"monsters","msgid":"Water Spirit","msgstr":"물 정령"}
+{"msgctxt":"monsters","msgid":"Water Warlock","msgstr":"물의 흑마법사"}
+{"msgctxt":"monsters","msgid":"Wererat","msgstr":"쥐인간"}
+{"msgctxt":"monsters","msgid":"Werewolf","msgstr":"늑대인간"}
+{"msgctxt":"monsters","msgid":"Widowmaker","msgstr":"위도우메이커"}
+{"msgctxt":"monsters","msgid":"Wight","msgstr":"와이트"}
+{"msgctxt":"monsters","msgid":"Will O' Wisp","msgstr":"도깨비불"}
+{"msgctxt":"monsters","msgid":"Winged Serpent","msgstr":"날개 달린 뱀"}
+{"msgctxt":"monsters","msgid":"Wisp ","msgstr":"위스프 "}
+{"msgctxt":"monsters","msgid":"Witch Doctor","msgstr":"주술사"}
+{"msgctxt":"monsters","msgid":"Wizard","msgstr":"마법사"}
+{"msgctxt":"monsters","msgid":"Wolfman","msgstr":"늑대인간"}
+{"msgctxt":"monsters","msgid":"Wraith","msgstr":"레이스"}
+{"msgctxt":"monsters","msgid":"Wyrm","msgstr":"웜"}
+{"msgctxt":"monsters","msgid":"Wyvern ","msgstr":"와이번 "}
+{"msgctxt":"monsters","msgid":"Young Basilisk","msgstr":"어린 바실리스크"}
+{"msgctxt":"monsters","msgid":"Young Behemoth","msgstr":"어린 베히모스"}
+{"msgctxt":"monsters","msgid":"Young Couatl","msgstr":"어린 코아틀"}
+{"msgctxt":"monsters","msgid":"Young Dragon","msgstr":"어린 드래곤"}
+{"msgctxt":"monsters","msgid":"Young Dragon Turtle","msgstr":"어린 드래곤 거북"}
+{"msgctxt":"monsters","msgid":"Zombie","msgstr":"좀비"}
+{"msgctxt":"npcprof","msgid":"Acolyte","msgstr":"견습 사제"}
+{"msgctxt":"npcprof","msgid":"Alchemist","msgstr":"연금술사"}
+{"msgctxt":"npcprof","msgid":"Apothecary","msgstr":"약제사"}
+{"msgctxt":"npcprof","msgid":"Apprentice","msgstr":"수련생"}
+{"msgctxt":"npcprof","msgid":"Armorer","msgstr":"갑옷장이"}
+{"msgctxt":"npcprof","msgid":"Armorsmith","msgstr":"갑옷 대장장이"}
+{"msgctxt":"npcprof","msgid":"Arms Master","msgstr":"무기의 달인"}
+{"msgctxt":"npcprof","msgid":"Banker","msgstr":"은행가"}
+{"msgctxt":"npcprof","msgid":"Bard","msgstr":"음유시인"}
+{"msgctxt":"npcprof","msgid":"Barmaid","msgstr":"주점 여급"}
+{"msgctxt":"npcprof","msgid":"Barrister","msgstr":"변호사"}
+{"msgctxt":"npcprof","msgid":"Beggar","msgstr":"거지"}
+{"msgctxt":"npcprof","msgid":"Blacksmith","msgstr":"대장장이"}
+{"msgctxt":"npcprof","msgid":"Brekish One-Fang","msgstr":"외송곳니 브레키시"}
+{"msgctxt":"npcprof","msgid":"Burglar","msgstr":"도둑"}
+{"msgctxt":"npcprof","msgid":"Captain","msgstr":"선장"}
+{"msgctxt":"npcprof","msgid":"Carpenter","msgstr":"목수"}
+{"msgctxt":"npcprof","msgid":"Cartographer","msgstr":"지도 제작자"}
+{"msgctxt":"npcprof","msgid":"Chaplain","msgstr":"군목"}
+{"msgctxt":"npcprof","msgid":"Charles Quixote","msgstr":"찰스 키호테"}
+{"msgctxt":"npcprof","msgid":"Chef","msgstr":"주방장"}
+{"msgctxt":"npcprof","msgid":"Child","msgstr":"어린이"}
+{"msgctxt":"npcprof","msgid":"Chimney Sweep","msgstr":"굴뚝 청소부"}
+{"msgctxt":"npcprof","msgid":"Clerk","msgstr":"서기"}
+{"msgctxt":"npcprof","msgid":"Cobbler","msgstr":"구두 수선공"}
+{"msgctxt":"npcprof","msgid":"Cook","msgstr":"요리사"}
+{"msgctxt":"npcprof","msgid":"Cooper","msgstr":"통 제작자"}
+{"msgctxt":"npcprof","msgid":"Counselor","msgstr":"고문관"}
+{"msgctxt":"npcprof","msgid":"Diplomat","msgstr":"외교관"}
+{"msgctxt":"npcprof","msgid":"Ditch Digger","msgstr":"도랑 파는 인부"}
+{"msgctxt":"npcprof","msgid":"Dragon","msgstr":"드래곤"}
+{"msgctxt":"npcprof","msgid":"Duper","msgstr":"사기꾼"}
+{"msgctxt":"npcprof","msgid":"Dyson Leland","msgstr":"다이슨 릴런드"}
+{"msgctxt":"npcprof","msgid":"Enchanter","msgstr":"마법부여사"}
+{"msgctxt":"npcprof","msgid":"Escaton","msgstr":"에스카톤"}
+{"msgctxt":"npcprof","msgid":"Expert Healer","msgstr":"전문가 치유사"}
+{"msgctxt":"npcprof","msgid":"Explorer","msgstr":"탐험가"}
+{"msgctxt":"npcprof","msgid":"Factor","msgstr":"대리상"}
+{"msgctxt":"npcprof","msgid":"Fallen Wizard","msgstr":"타락한 마법사"}
+{"msgctxt":"npcprof","msgid":"Farmer","msgstr":"농부"}
+{"msgctxt":"npcprof","msgid":"Follower of Baa","msgstr":"바아의 추종자"}
+{"msgctxt":"npcprof","msgid":"Fool","msgstr":"어릿광대"}
+{"msgctxt":"npcprof","msgid":"Gambler","msgstr":"도박꾼"}
+{"msgctxt":"npcprof","msgid":"Gate Master","msgstr":"관문의 달인"}
+{"msgctxt":"npcprof","msgid":"Guard","msgstr":"경비병"}
+{"msgctxt":"npcprof","msgid":"Guide","msgstr":"안내인"}
+{"msgctxt":"npcprof","msgid":"Guildmaster","msgstr":"길드장"}
+{"msgctxt":"npcprof","msgid":"Gypsy","msgstr":"집시"}
+{"msgctxt":"npcprof","msgid":"Healer","msgstr":"치유사"}
+{"msgctxt":"npcprof","msgid":"Herbalist","msgstr":"약초사"}
+{"msgctxt":"npcprof","msgid":"Horseman","msgstr":"기수"}
+{"msgctxt":"npcprof","msgid":"Hunter","msgstr":"사냥꾼"}
+{"msgctxt":"npcprof","msgid":"Initiate","msgstr":"수련생"}
+{"msgctxt":"npcprof","msgid":"Innkeep","msgstr":"여관주인"}
+{"msgctxt":"npcprof","msgid":"Instructor","msgstr":"교관"}
+{"msgctxt":"npcprof","msgid":"Jester","msgstr":"광대"}
+{"msgctxt":"npcprof","msgid":"Laborer","msgstr":"노동자"}
+{"msgctxt":"npcprof","msgid":"Locksmith","msgstr":"자물쇠공"}
+{"msgctxt":"npcprof","msgid":"Magician","msgstr":"마술사"}
+{"msgctxt":"npcprof","msgid":"Master Healer","msgstr":"달인 치유사"}
+{"msgctxt":"npcprof","msgid":"Merchant","msgstr":"상인"}
+{"msgctxt":"npcprof","msgid":"Miller","msgstr":"제분업자"}
+{"msgctxt":"npcprof","msgid":"Missionary","msgstr":"선교사"}
+{"msgctxt":"npcprof","msgid":"Monk","msgstr":"수도승"}
+{"msgctxt":"npcprof","msgid":"Mystic","msgstr":"신비가"}
+{"msgctxt":"npcprof","msgid":"Navigator","msgstr":"항해사"}
+{"msgctxt":"npcprof","msgid":"Negotiator","msgstr":"협상가"}
+{"msgctxt":"npcprof","msgid":"Noble","msgstr":"귀족"}
+{"msgctxt":"npcprof","msgid":"Overdune","msgstr":"오버듄"}
+{"msgctxt":"npcprof","msgid":"Pathfinder","msgstr":"길잡이"}
+{"msgctxt":"npcprof","msgid":"Peasant","msgstr":"농민"}
+{"msgctxt":"npcprof","msgid":"Piper","msgstr":"피리 연주자"}
+{"msgctxt":"npcprof","msgid":"Pirate","msgstr":"해적"}
+{"msgctxt":"npcprof","msgid":"Porter","msgstr":"짐꾼"}
+{"msgctxt":"npcprof","msgid":"Potter","msgstr":"도공"}
+{"msgctxt":"npcprof","msgid":"Prelate","msgstr":"고위 성직자"}
+{"msgctxt":"npcprof","msgid":"Psychic","msgstr":"영매"}
+{"msgctxt":"npcprof","msgid":"Quarter Master","msgstr":"병참장교"}
+{"msgctxt":"npcprof","msgid":"Rustler","msgstr":"가축 도둑"}
+{"msgctxt":"npcprof","msgid":"Sage","msgstr":"현자"}
+{"msgctxt":"npcprof","msgid":"Sailor","msgstr":"선원"}
+{"msgctxt":"npcprof","msgid":"Sandro","msgstr":"산드로"}
+{"msgctxt":"npcprof","msgid":"Scholar","msgstr":"학자"}
+{"msgctxt":"npcprof","msgid":"Scout","msgstr":"정찰병"}
+{"msgctxt":"npcprof","msgid":"Scribe","msgstr":"서기관"}
+{"msgctxt":"npcprof","msgid":"Serf","msgstr":"농노"}
+{"msgctxt":"npcprof","msgid":"Shopkeeper","msgstr":"상점 주인"}
+{"msgctxt":"npcprof","msgid":"Smith","msgstr":"대장장이"}
+{"msgctxt":"npcprof","msgid":"Smuggler","msgstr":"밀수꾼"}
+{"msgctxt":"npcprof","msgid":"Spell Master","msgstr":"주문의 달인"}
+{"msgctxt":"npcprof","msgid":"Squire","msgstr":"종자"}
+{"msgctxt":"npcprof","msgid":"Stablemaster","msgstr":"마구간지기"}
+{"msgctxt":"npcprof","msgid":"Stone Cutter","msgstr":"석공"}
+{"msgctxt":"npcprof","msgid":"Tailor","msgstr":"재봉사"}
+{"msgctxt":"npcprof","msgid":"Teacher","msgstr":"교사"}
+{"msgctxt":"npcprof","msgid":"Tinker","msgstr":"땜장이"}
+{"msgctxt":"npcprof","msgid":"Tracker","msgstr":"추적자"}
+{"msgctxt":"npcprof","msgid":"Trader","msgstr":"상인"}
+{"msgctxt":"npcprof","msgid":"Trapper","msgstr":"덫 사냥꾼"}
+{"msgctxt":"npcprof","msgid":"Water Master","msgstr":"물 마법의 달인"}
+{"msgctxt":"npcprof","msgid":"Weapons Master","msgstr":"무기 달인"}
+{"msgctxt":"npcprof","msgid":"Weaver","msgstr":"직조공"}
+{"msgctxt":"npcprof","msgid":"Wererat Smuggler","msgstr":"쥐인간 밀수꾼"}
+{"msgctxt":"npcprof","msgid":"Wind Master","msgstr":"바람의 달인"}
+{"msgctxt":"reputation","msgid":"Angelic","msgstr":"천사 같은"}
+{"msgctxt":"reputation","msgid":"Average","msgstr":"보통"}
+{"msgctxt":"reputation","msgid":"Bad","msgstr":"나쁨"}
+{"msgctxt":"reputation","msgid":"Despicable","msgstr":"비열함"}
+{"msgctxt":"reputation","msgid":"Glorious","msgstr":"영광스러움"}
+{"msgctxt":"reputation","msgid":"Honorable","msgstr":"명예로움"}
+{"msgctxt":"reputation","msgid":"Monstrous","msgstr":"흉악함"}
+{"msgctxt":"reputation","msgid":"Neutral","msgstr":"중립"}
+{"msgctxt":"reputation","msgid":"Notorious","msgstr":"악명 높음"}
+{"msgctxt":"reputation","msgid":"Respectable","msgstr":"존경받음"}
+{"msgctxt":"reputation","msgid":"Saintly","msgstr":"성인 같은"}
+{"msgctxt":"reputation","msgid":"Vile","msgstr":"극악"}
+{"msgctxt":"skilldes","msgid":"Air","msgstr":"바람"}
+{"msgctxt":"skilldes","msgid":"Air Magic","msgstr":"바람 마법"}
+{"msgctxt":"skilldes","msgid":"Alchemy","msgstr":"연금술"}
+{"msgctxt":"skilldes","msgid":"Armsmaster","msgstr":"무기 달인"}
+{"msgctxt":"skilldes","msgid":"Axe","msgstr":"도끼"}
+{"msgctxt":"skilldes","msgid":"Blaster","msgstr":"블래스터"}
+{"msgctxt":"skilldes","msgid":"Body","msgstr":"육체"}
+{"msgctxt":"skilldes","msgid":"Body Building","msgstr":"육체 단련"}
+{"msgctxt":"skilldes","msgid":"Body Magic","msgstr":"육체 마법"}
+{"msgctxt":"skilldes","msgid":"Bodybuilding","msgstr":"신체 단련"}
+{"msgctxt":"skilldes","msgid":"Bow","msgstr":"활"}
+{"msgctxt":"skilldes","msgid":"Chain","msgstr":"사슬 갑옷"}
+{"msgctxt":"skilldes","msgid":"Dagger","msgstr":"단검"}
+{"msgctxt":"skilldes","msgid":"Dark","msgstr":"어둠"}
+{"msgctxt":"skilldes","msgid":"Dark Elf Ability","msgstr":"다크 엘프 능력"}
+{"msgctxt":"skilldes","msgid":"Dark Magic","msgstr":"어둠 마법"}
+{"msgctxt":"skilldes","msgid":"Diplomacy","msgstr":"외교술"}
+{"msgctxt":"skilldes","msgid":"Disarm Trap","msgstr":"함정 해제"}
+{"msgctxt":"skilldes","msgid":"Disarm Traps","msgstr":"함정 해제"}
+{"msgctxt":"skilldes","msgid":"Dodging","msgstr":"회피"}
+{"msgctxt":"skilldes","msgid":"Dragon Ability","msgstr":"드래곤 능력"}
+{"msgctxt":"skilldes","msgid":"Earth","msgstr":"대지 마법"}
+{"msgctxt":"skilldes","msgid":"Earth Magic","msgstr":"대지 마법"}
+{"msgctxt":"skilldes","msgid":"Fire","msgstr":"불"}
+{"msgctxt":"skilldes","msgid":"Fire Magic","msgstr":"불 마법"}
+{"msgctxt":"skilldes","msgid":"Identify","msgstr":"감정"}
+{"msgctxt":"skilldes","msgid":"Identify Item","msgstr":"아이템 감정"}
+{"msgctxt":"skilldes","msgid":"Identify Monster","msgstr":"몬스터 감정"}
+{"msgctxt":"skilldes","msgid":"Learning","msgstr":"학습"}
+{"msgctxt":"skilldes","msgid":"Leather","msgstr":"가죽 갑옷"}
+{"msgctxt":"skilldes","msgid":"Light","msgstr":"빛 마법"}
+{"msgctxt":"skilldes","msgid":"Light Magic","msgstr":"빛 마법"}
+{"msgctxt":"skilldes","msgid":"Mace","msgstr":"철퇴"}
+{"msgctxt":"skilldes","msgid":"Meditation","msgstr":"명상"}
+{"msgctxt":"skilldes","msgid":"Merchant","msgstr":"상술"}
+{"msgctxt":"skilldes","msgid":"Mind","msgstr":"정신"}
+{"msgctxt":"skilldes","msgid":"Mind Magic","msgstr":"정신 마법"}
+{"msgctxt":"skilldes","msgid":"Perception","msgstr":"지각"}
+{"msgctxt":"skilldes","msgid":"Plate","msgstr":"판금 갑옷"}
+{"msgctxt":"skilldes","msgid":"Regeneration","msgstr":"재생"}
+{"msgctxt":"skilldes","msgid":"Repair","msgstr":"수리"}
+{"msgctxt":"skilldes","msgid":"Repair Item","msgstr":"아이템 수리"}
+{"msgctxt":"skilldes","msgid":"Shield","msgstr":"방패"}
+{"msgctxt":"skilldes","msgid":"Spear","msgstr":"창술"}
+{"msgctxt":"skilldes","msgid":"Spirit","msgstr":"영혼 마법"}
+{"msgctxt":"skilldes","msgid":"Spirit Magic","msgstr":"영혼 마법"}
+{"msgctxt":"skilldes","msgid":"Staff","msgstr":"봉술"}
+{"msgctxt":"skilldes","msgid":"Stealing","msgstr":"훔치기"}
+{"msgctxt":"skilldes","msgid":"Sword","msgstr":"검술"}
+{"msgctxt":"skilldes","msgid":"Thievery","msgstr":"도적술"}
+{"msgctxt":"skilldes","msgid":"Unarmed","msgstr":"맨손 격투"}
+{"msgctxt":"skilldes","msgid":"Vampire Ability","msgstr":"뱀파이어 능력"}
+{"msgctxt":"skilldes","msgid":"Water","msgstr":"물 마법"}
+{"msgctxt":"skilldes","msgid":"Water Magic","msgstr":"물 마법"}
+{"msgctxt":"spcitems","msgid":"Antique","msgstr":"고대의"}
+{"msgctxt":"spcitems","msgid":"Assassins'","msgstr":"암살자의"}
+{"msgctxt":"spcitems","msgid":"Barbarians'","msgstr":"야만인의"}
+{"msgctxt":"spcitems","msgid":"Demon Slayer","msgstr":"악마 사냥꾼"}
+{"msgctxt":"spcitems","msgid":"Demon Slaying","msgstr":"악마 사냥"}
+{"msgctxt":"spcitems","msgid":"Dragon Slayer","msgstr":"드래곤 사냥꾼"}
+{"msgctxt":"spcitems","msgid":"Dragon Slaying","msgstr":"드래곤 사냥"}
+{"msgctxt":"spcitems","msgid":"Elemental Slaying","msgstr":"정령 처단"}
+{"msgctxt":"spcitems","msgid":"Elf Slaying","msgstr":"엘프 학살"}
+{"msgctxt":"spcitems","msgid":"Monks'","msgstr":"수도승의"}
+{"msgctxt":"spcitems","msgid":"of Acid","msgstr":"산성의"}
+{"msgctxt":"spcitems","msgid":"of Air Magic","msgstr":"바람 마법의"}
+{"msgctxt":"spcitems","msgid":"of Alarms","msgstr":"경계의"}
+{"msgctxt":"spcitems","msgid":"of Antidotes","msgstr":"해독의"}
+{"msgctxt":"spcitems","msgid":"of Body Magic","msgstr":"육체 마법의"}
+{"msgctxt":"spcitems","msgid":"of Carnage","msgstr":"살육의"}
+{"msgctxt":"spcitems","msgid":"of Cold","msgstr":"냉기의"}
+{"msgctxt":"spcitems","msgid":"of Dark Magic","msgstr":"어둠 마법의"}
+{"msgctxt":"spcitems","msgid":"of Darkness","msgstr":"어둠의"}
+{"msgctxt":"spcitems","msgid":"Of David","msgstr":"다윗의"}
+{"msgctxt":"spcitems","msgid":"of Doom","msgstr":"파멸의"}
+{"msgctxt":"spcitems","msgid":"of Earth","msgstr":"대지의"}
+{"msgctxt":"spcitems","msgid":"of Earth Magic","msgstr":"대지 마법의"}
+{"msgctxt":"spcitems","msgid":"of Feather Falling","msgstr":"깃털 낙하의"}
+{"msgctxt":"spcitems","msgid":"of Fire","msgstr":"불의"}
+{"msgctxt":"spcitems","msgid":"of Fire Magic","msgstr":"불 마법의"}
+{"msgctxt":"spcitems","msgid":"of Flame","msgstr":"화염의"}
+{"msgctxt":"spcitems","msgid":"of Force","msgstr":"위력의"}
+{"msgctxt":"spcitems","msgid":"of Freedom","msgstr":"자유의"}
+{"msgctxt":"spcitems","msgid":"of Frost","msgstr":"서리의"}
+{"msgctxt":"spcitems","msgid":"of Ice","msgstr":"얼음의"}
+{"msgctxt":"spcitems","msgid":"of Identifying","msgstr":"감정의"}
+{"msgctxt":"spcitems","msgid":"of Immunity","msgstr":"면역의"}
+{"msgctxt":"spcitems","msgid":"of Infernos","msgstr":"지옥불의"}
+{"msgctxt":"spcitems","msgid":"of Life","msgstr":"생명의"}
+{"msgctxt":"spcitems","msgid":"of Light Magic","msgstr":"빛 마법의"}
+{"msgctxt":"spcitems","msgid":"of Lightning","msgstr":"번개의"}
+{"msgctxt":"spcitems","msgid":"of Mana","msgstr":"마나의"}
+{"msgctxt":"spcitems","msgid":"of Mind Magic","msgstr":"정신 마법의"}
+{"msgctxt":"spcitems","msgid":"of Plenty","msgstr":"풍요의"}
+{"msgctxt":"spcitems","msgid":"of Poison","msgstr":"독의"}
+{"msgctxt":"spcitems","msgid":"of Power","msgstr":"힘의"}
+{"msgctxt":"spcitems","msgid":"of Protection","msgstr":"방어의"}
+{"msgctxt":"spcitems","msgid":"of Recovery","msgstr":"회복의"}
+{"msgctxt":"spcitems","msgid":"of Regeneration","msgstr":"재생의"}
+{"msgctxt":"spcitems","msgid":"of Sanity","msgstr":"정신 안정의"}
+{"msgctxt":"spcitems","msgid":"of Shielding","msgstr":"방호의"}
+{"msgctxt":"spcitems","msgid":"of Sparks","msgstr":"전기 불꽃의"}
+{"msgctxt":"spcitems","msgid":"of Spirit Magic","msgstr":"영혼 마법의"}
+{"msgctxt":"spcitems","msgid":"of Swiftness","msgstr":"신속의"}
+{"msgctxt":"spcitems","msgid":"of The Dragon","msgstr":"드래곤의"}
+{"msgctxt":"spcitems","msgid":"of The Eclipse","msgstr":"이클립스의"}
+{"msgctxt":"spcitems","msgid":"of The Gods","msgstr":"신들의"}
+{"msgctxt":"spcitems","msgid":"of The Golem","msgstr":"골렘의"}
+{"msgctxt":"spcitems","msgid":"of The Medusa","msgstr":"메두사의"}
+{"msgctxt":"spcitems","msgid":"of The Moon","msgstr":"달의"}
+{"msgctxt":"spcitems","msgid":"of the Ocean","msgstr":"대양의"}
+{"msgctxt":"spcitems","msgid":"of The Phoenix","msgstr":"불사조의"}
+{"msgctxt":"spcitems","msgid":"of The Sky","msgstr":"하늘의"}
+{"msgctxt":"spcitems","msgid":"of The Stars","msgstr":"별의"}
+{"msgctxt":"spcitems","msgid":"of the Storm","msgstr":"폭풍의"}
+{"msgctxt":"spcitems","msgid":"of The Sun","msgstr":"태양의"}
+{"msgctxt":"spcitems","msgid":"of The Troll","msgstr":"트롤의"}
+{"msgctxt":"spcitems","msgid":"of The Unicorn","msgstr":"유니콘의"}
+{"msgctxt":"spcitems","msgid":"of Thievery","msgstr":"도적술의"}
+{"msgctxt":"spcitems","msgid":"of Thunderbolts","msgstr":"벼락의"}
+{"msgctxt":"spcitems","msgid":"of Venom","msgstr":"맹독의"}
+{"msgctxt":"spcitems","msgid":"of Water Magic","msgstr":"물 마법의"}
+{"msgctxt":"spcitems","msgid":"of Water Walking","msgstr":"물 위 걷기의"}
+{"msgctxt":"spcitems","msgid":"Ogre Slaying","msgstr":"오우거 학살"}
+{"msgctxt":"spcitems","msgid":"Rogues","msgstr":"도적의"}
+{"msgctxt":"spcitems","msgid":"Rogues'","msgstr":"도적의"}
+{"msgctxt":"spcitems","msgid":"Swift","msgstr":"신속"}
+{"msgctxt":"spcitems","msgid":"Thieves'","msgstr":"도둑의"}
+{"msgctxt":"spcitems","msgid":"Undead Slaying","msgstr":"언데드 퇴치"}
+{"msgctxt":"spcitems","msgid":"Vampiric","msgstr":"흡혈의"}
+{"msgctxt":"spcitems","msgid":"Warriors","msgstr":"전사의"}
+{"msgctxt":"spcitems","msgid":"Warriors'","msgstr":"전사의"}
+{"msgctxt":"spcitems","msgid":"Wizards","msgstr":"마법사의"}
+{"msgctxt":"spcitems","msgid":"Wizards'","msgstr":"마법사의"}
+{"msgctxt":"spellgroupshort","msgid":"Air","msgstr":"바람"}
+{"msgctxt":"spellgroupshort","msgid":"Body","msgstr":"육체"}
+{"msgctxt":"spellgroupshort","msgid":"Cold","msgstr":"냉기"}
+{"msgctxt":"spellgroupshort","msgid":"Dark","msgstr":"어둠"}
+{"msgctxt":"spellgroupshort","msgid":"Earth","msgstr":"대지"}
+{"msgctxt":"spellgroupshort","msgid":"Electricity","msgstr":"전기"}
+{"msgctxt":"spellgroupshort","msgid":"Fire","msgstr":"불"}
+{"msgctxt":"spellgroupshort","msgid":"Light","msgstr":"빛"}
+{"msgctxt":"spellgroupshort","msgid":"Mind","msgstr":"정신"}
+{"msgctxt":"spellgroupshort","msgid":"Spirit","msgstr":"영혼"}
+{"msgctxt":"spellgroupshort","msgid":"Water","msgstr":"물"}
+{"msgctxt":"spells","msgid":"Acid Burst","msgstr":"산성 폭발"}
+{"msgctxt":"spells","msgid":"Air Res","msgstr":"바람 저항력"}
+{"msgctxt":"spells","msgid":"Air Resist","msgstr":"바람 저항력"}
+{"msgctxt":"spells","msgid":"Air Resistance","msgstr":"바람 저항력"}
+{"msgctxt":"spells","msgid":"Armageddon","msgstr":"아마겟돈"}
+{"msgctxt":"spells","msgid":"Awaken","msgstr":"각성"}
+{"msgctxt":"spells","msgid":"Berserk","msgstr":"광분"}
+{"msgctxt":"spells","msgid":"Blades","msgstr":"칼날"}
+{"msgctxt":"spells","msgid":"Bless","msgstr":"축복"}
+{"msgctxt":"spells","msgid":"Blind","msgstr":"실명"}
+{"msgctxt":"spells","msgid":"Body Res","msgstr":"육체 저항력"}
+{"msgctxt":"spells","msgid":"Body Resist","msgstr":"육체 저항력"}
+{"msgctxt":"spells","msgid":"Body Resistance","msgstr":"육체 저항력"}
+{"msgctxt":"spells","msgid":"Buffet","msgstr":"강타"}
+{"msgctxt":"spells","msgid":"Charm","msgstr":"매혹"}
+{"msgctxt":"spells","msgid":"Cntrl Undead","msgstr":"언데드 조종"}
+{"msgctxt":"spells","msgid":"Cold Beam","msgstr":"냉기 광선"}
+{"msgctxt":"spells","msgid":"Control Undead","msgstr":"언데드 지배"}
+{"msgctxt":"spells","msgid":"Create Food","msgstr":"식량 생성"}
+{"msgctxt":"spells","msgid":"Cure Disease","msgstr":"질병 치료"}
+{"msgctxt":"spells","msgid":"Cure Insane","msgstr":"정신 이상 치료"}
+{"msgctxt":"spells","msgid":"Cure Insanity","msgstr":"광기 치료"}
+{"msgctxt":"spells","msgid":"Cure Paralysis","msgstr":"마비 치료"}
+{"msgctxt":"spells","msgid":"Cure Plyze","msgstr":"마비 치료"}
+{"msgctxt":"spells","msgid":"Cure Poison","msgstr":"중독 치료"}
+{"msgctxt":"spells","msgid":"Cure Weak","msgstr":"쇠약 치료"}
+{"msgctxt":"spells","msgid":"Cure Weakness","msgstr":"쇠약 치료"}
+{"msgctxt":"spells","msgid":"Cure Wound","msgstr":"상처 치료"}
+{"msgctxt":"spells","msgid":"Cure Wounds","msgstr":"상처 치료"}
+{"msgctxt":"spells","msgid":"Dark Contain","msgstr":"어둠 봉인"}
+{"msgctxt":"spells","msgid":"Dark Containment","msgstr":"어둠 봉인"}
+{"msgctxt":"spells","msgid":"Dark Grasp","msgstr":"어둠의 손아귀"}
+{"msgctxt":"spells","msgid":"Darkfire","msgstr":"어둠불꽃"}
+{"msgctxt":"spells","msgid":"Darkfire Bolt","msgstr":"어둠불꽃 화살"}
+{"msgctxt":"spells","msgid":"Day -o- Gods","msgstr":"신들의 날"}
+{"msgctxt":"spells","msgid":"Day of Prot","msgstr":"보호의 날"}
+{"msgctxt":"spells","msgid":"Day of Protection","msgstr":"보호의 날"}
+{"msgctxt":"spells","msgid":"Day of the Gods","msgstr":"신들의 날"}
+{"msgctxt":"spells","msgid":"Deadly Swarm","msgstr":"치명적인 곤충 떼"}
+{"msgctxt":"spells","msgid":"Death Blossom","msgstr":"죽음의 꽃"}
+{"msgctxt":"spells","msgid":"Death Blsm","msgstr":"죽음의 꽃"}
+{"msgctxt":"spells","msgid":"Dest Undead","msgstr":"언데드 파괴"}
+{"msgctxt":"spells","msgid":"Destroy Undead","msgstr":"언데드 파괴"}
+{"msgctxt":"spells","msgid":"Detect Life","msgstr":"생명 감지"}
+{"msgctxt":"spells","msgid":"Dispel Magic","msgstr":"마법 해제"}
+{"msgctxt":"spells","msgid":"Divine Inter","msgstr":"신의 개입"}
+{"msgctxt":"spells","msgid":"Divine Intervention","msgstr":"신의 개입"}
+{"msgctxt":"spells","msgid":"Drag Breath","msgstr":"드래곤의 숨결"}
+{"msgctxt":"spells","msgid":"Dragon Breath","msgstr":"드래곤의 숨결"}
+{"msgctxt":"spells","msgid":"Earth Res","msgstr":"대지 저항력"}
+{"msgctxt":"spells","msgid":"Earth Resist","msgstr":"대지 저항력"}
+{"msgctxt":"spells","msgid":"Earth Resistance","msgstr":"대지 저항력"}
+{"msgctxt":"spells","msgid":"Enchant Item","msgstr":"아이템 마법 부여"}
+{"msgctxt":"spells","msgid":"Enslave","msgstr":"예속"}
+{"msgctxt":"spells","msgid":"Fate","msgstr":"운명"}
+{"msgctxt":"spells","msgid":"Fear","msgstr":"공포"}
+{"msgctxt":"spells","msgid":"Feather Fall","msgstr":"깃털 낙하"}
+{"msgctxt":"spells","msgid":"Feeblemind","msgstr":"정신 약화"}
+{"msgctxt":"spells","msgid":"Finger Death","msgstr":"죽음의 손가락"}
+{"msgctxt":"spells","msgid":"Finger of Death","msgstr":"죽음의 손가락"}
+{"msgctxt":"spells","msgid":"Fire Aura","msgstr":"불의 오라"}
+{"msgctxt":"spells","msgid":"Fire Blast","msgstr":"불의 폭발"}
+{"msgctxt":"spells","msgid":"Fire Bolt","msgstr":"불의 화살"}
+{"msgctxt":"spells","msgid":"Fire Res","msgstr":"불 저항력"}
+{"msgctxt":"spells","msgid":"Fire Resistance","msgstr":"불 저항력"}
+{"msgctxt":"spells","msgid":"Fire Spike","msgstr":"불의 쐐기"}
+{"msgctxt":"spells","msgid":"Fireball","msgstr":"불덩이"}
+{"msgctxt":"spells","msgid":"First Aid","msgstr":"응급 처치"}
+{"msgctxt":"spells","msgid":"Flame Arrow","msgstr":"화염 화살"}
+{"msgctxt":"spells","msgid":"Flame Blast","msgstr":"화염 폭발"}
+{"msgctxt":"spells","msgid":"Flight","msgstr":"비행"}
+{"msgctxt":"spells","msgid":"Fly","msgstr":"비행"}
+{"msgctxt":"spells","msgid":"Flying Fist","msgstr":"날아드는 주먹"}
+{"msgctxt":"spells","msgid":"Glamour","msgstr":"매혹"}
+{"msgctxt":"spells","msgid":"Gldn Touch","msgstr":"황금의 손길"}
+{"msgctxt":"spells","msgid":"Golden Touch","msgstr":"황금의 손길"}
+{"msgctxt":"spells","msgid":"Guard Angel","msgstr":"수호천사"}
+{"msgctxt":"spells","msgid":"Guardian Angel","msgstr":"수호천사"}
+{"msgctxt":"spells","msgid":"Hammerhand","msgstr":"망치손"}
+{"msgctxt":"spells","msgid":"Hammerhands","msgstr":"망치손"}
+{"msgctxt":"spells","msgid":"Harm","msgstr":"해악"}
+{"msgctxt":"spells","msgid":"Haste","msgstr":"가속"}
+{"msgctxt":"spells","msgid":"Heal","msgstr":"치유"}
+{"msgctxt":"spells","msgid":"Healing","msgstr":"치유"}
+{"msgctxt":"spells","msgid":"Healing Touch","msgstr":"치유의 손길"}
+{"msgctxt":"spells","msgid":"Heroism","msgstr":"영웅심"}
+{"msgctxt":"spells","msgid":"Hour of Power","msgstr":"힘의 시간"}
+{"msgctxt":"spells","msgid":"Hour Power","msgstr":"힘의 시간"}
+{"msgctxt":"spells","msgid":"Ice Blast","msgstr":"얼음 폭발"}
+{"msgctxt":"spells","msgid":"Ice Bolt","msgstr":"얼음 화살"}
+{"msgctxt":"spells","msgid":"Immolation","msgstr":"화염 장막"}
+{"msgctxt":"spells","msgid":"Implosion","msgstr":"내파"}
+{"msgctxt":"spells","msgid":"Incinerate","msgstr":"소각"}
+{"msgctxt":"spells","msgid":"Inferno","msgstr":"지옥불"}
+{"msgctxt":"spells","msgid":"Invisibility","msgstr":"투명화"}
+{"msgctxt":"spells","msgid":"Jump","msgstr":"도약"}
+{"msgctxt":"spells","msgid":"Levitate","msgstr":"공중 부양"}
+{"msgctxt":"spells","msgid":"Lifedrain","msgstr":"생명력 흡수"}
+{"msgctxt":"spells","msgid":"Light Bolt","msgstr":"빛의 화살"}
+{"msgctxt":"spells","msgid":"Lightning","msgstr":"번개"}
+{"msgctxt":"spells","msgid":"Lightning Bolt","msgstr":"번개 화살"}
+{"msgctxt":"spells","msgid":"Lloyd's","msgstr":"로이드의"}
+{"msgctxt":"spells","msgid":"Lloyd's Beacon","msgstr":"로이드의 신호기"}
+{"msgctxt":"spells","msgid":"Lucky Day","msgstr":"행운의 날"}
+{"msgctxt":"spells","msgid":"Magic Arrow","msgstr":"마법 화살"}
+{"msgctxt":"spells","msgid":"Mass Curse","msgstr":"집단 저주"}
+{"msgctxt":"spells","msgid":"Mass Distort","msgstr":"질량 왜곡"}
+{"msgctxt":"spells","msgid":"Mass Distortion","msgstr":"질량 왜곡"}
+{"msgctxt":"spells","msgid":"Mass Fear","msgstr":"집단 공포"}
+{"msgctxt":"spells","msgid":"Meditation","msgstr":"명상"}
+{"msgctxt":"spells","msgid":"Meteor Shower","msgstr":"유성우"}
+{"msgctxt":"spells","msgid":"Meteor Shwr","msgstr":"유성우"}
+{"msgctxt":"spells","msgid":"Mind Blast","msgstr":"정신 폭발"}
+{"msgctxt":"spells","msgid":"Mind Res","msgstr":"정신 저항력"}
+{"msgctxt":"spells","msgid":"Mind Resist","msgstr":"정신 저항력"}
+{"msgctxt":"spells","msgid":"Mind Resistance","msgstr":"정신 저항력"}
+{"msgctxt":"spells","msgid":"Mistform","msgstr":"안개 형상"}
+{"msgctxt":"spells","msgid":"Moon Ray","msgstr":"달빛 광선"}
+{"msgctxt":"spells","msgid":"Pain Reflect","msgstr":"고통 반사"}
+{"msgctxt":"spells","msgid":"Pain Reflection","msgstr":"고통 반사"}
+{"msgctxt":"spells","msgid":"Paralyze","msgstr":"마비"}
+{"msgctxt":"spells","msgid":"Poison Spr","msgstr":"독 분사"}
+{"msgctxt":"spells","msgid":"Poison Spray","msgstr":"독 분사"}
+{"msgctxt":"spells","msgid":"Power","msgstr":"힘"}
+{"msgctxt":"spells","msgid":"Power Cure","msgstr":"힘의 치유"}
+{"msgctxt":"spells","msgid":"Precision","msgstr":"정확성"}
+{"msgctxt":"spells","msgid":"Preservation","msgstr":"생명 보존"}
+{"msgctxt":"spells","msgid":"Pris Light","msgstr":"프리즘의 빛"}
+{"msgctxt":"spells","msgid":"Prismatic Light","msgstr":"프리즘의 빛"}
+{"msgctxt":"spells","msgid":"Prot Cold","msgstr":"냉기 보호"}
+{"msgctxt":"spells","msgid":"Prot Elec","msgstr":"전기 보호"}
+{"msgctxt":"spells","msgid":"Prot Fire","msgstr":"불 보호"}
+{"msgctxt":"spells","msgid":"Prot Magic","msgstr":"마법 방어"}
+{"msgctxt":"spells","msgid":"Prot Poison","msgstr":"독 보호"}
+{"msgctxt":"spells","msgid":"Protection from Cold","msgstr":"냉기 보호"}
+{"msgctxt":"spells","msgid":"Protection from Electricity","msgstr":"전기 보호"}
+{"msgctxt":"spells","msgid":"Protection from Fire","msgstr":"불 보호"}
+{"msgctxt":"spells","msgid":"Protection from Magic","msgstr":"마법 보호"}
+{"msgctxt":"spells","msgid":"Protection from Poison","msgstr":"독 방어"}
+{"msgctxt":"spells","msgid":"Psy - Shock","msgstr":"정신 충격"}
+{"msgctxt":"spells","msgid":"Psychic Shock","msgstr":"정신 충격"}
+{"msgctxt":"spells","msgid":"Raise Dead","msgstr":"사자 소생"}
+{"msgctxt":"spells","msgid":"Reanimate","msgstr":"망자 소생"}
+{"msgctxt":"spells","msgid":"Recharge","msgstr":"아이템 충전"}
+{"msgctxt":"spells","msgid":"Recharge Item","msgstr":"아이템 충전"}
+{"msgctxt":"spells","msgid":"Regeneration","msgstr":"재생"}
+{"msgctxt":"spells","msgid":"Remove Curse","msgstr":"저주 제거"}
+{"msgctxt":"spells","msgid":"Remove Fear","msgstr":"공포 제거"}
+{"msgctxt":"spells","msgid":"Resurrection","msgstr":"부활"}
+{"msgctxt":"spells","msgid":"Ring of Fire","msgstr":"불의 고리"}
+{"msgctxt":"spells","msgid":"Rmv. Curse","msgstr":"저주 제거"}
+{"msgctxt":"spells","msgid":"Rock Blast","msgstr":"암석 폭발"}
+{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"희생"}
+{"msgctxt":"spells","msgid":"Shared Life","msgstr":"생명 공유"}
+{"msgctxt":"spells","msgid":"Shield","msgstr":"방패"}
+{"msgctxt":"spells","msgid":"Shrapmetal","msgstr":"금속 파편"}
+{"msgctxt":"spells","msgid":"Shrink Ray","msgstr":"축소 광선"}
+{"msgctxt":"spells","msgid":"Shrinking Ray","msgstr":"축소 광선"}
+{"msgctxt":"spells","msgid":"Slow","msgstr":"둔화"}
+{"msgctxt":"spells","msgid":"Souldrinker","msgstr":"영혼 포식자"}
+{"msgctxt":"spells","msgid":"Sparks","msgstr":"전기 불꽃"}
+{"msgctxt":"spells","msgid":"Speed","msgstr":"속도"}
+{"msgctxt":"spells","msgid":"Spirit Arrow","msgstr":"영혼의 화살"}
+{"msgctxt":"spells","msgid":"Spirit Lash","msgstr":"영혼 채찍"}
+{"msgctxt":"spells","msgid":"Starburst","msgstr":"별빛 폭발"}
+{"msgctxt":"spells","msgid":"Static Charge","msgstr":"정전기 충전"}
+{"msgctxt":"spells","msgid":"Static Chrg","msgstr":"정전기 방전"}
+{"msgctxt":"spells","msgid":"Stone - Flesh","msgstr":"석화 해제"}
+{"msgctxt":"spells","msgid":"Stone Skin","msgstr":"돌 피부"}
+{"msgctxt":"spells","msgid":"Stone to Flesh","msgstr":"석화 해제"}
+{"msgctxt":"spells","msgid":"Stoneskin","msgstr":"돌가죽"}
+{"msgctxt":"spells","msgid":"Stun","msgstr":"기절"}
+{"msgctxt":"spells","msgid":"Summon","msgstr":"소환"}
+{"msgctxt":"spells","msgid":"Summon Elemental","msgstr":"정령 소환"}
+{"msgctxt":"spells","msgid":"Summon Wisp","msgstr":"위스프 소환"}
+{"msgctxt":"spells","msgid":"Sun Ray","msgstr":"태양 광선"}
+{"msgctxt":"spells","msgid":"Sunray","msgstr":"태양 광선"}
+{"msgctxt":"spells","msgid":"Swarm","msgstr":"곤충 떼"}
+{"msgctxt":"spells","msgid":"Telekinesis","msgstr":"염동력"}
+{"msgctxt":"spells","msgid":"Telepathy","msgstr":"텔레파시"}
+{"msgctxt":"spells","msgid":"Torch Light","msgstr":"횃불빛"}
+{"msgctxt":"spells","msgid":"Town Portal","msgstr":"마을 차원문"}
+{"msgctxt":"spells","msgid":"Toxic Cloud","msgstr":"독구름"}
+{"msgctxt":"spells","msgid":"Travel Boon","msgstr":"여행의 은총"}
+{"msgctxt":"spells","msgid":"Travelers' Boon","msgstr":"여행자들의 축복"}
+{"msgctxt":"spells","msgid":"Turn - Stone","msgstr":"석화"}
+{"msgctxt":"spells","msgid":"Turn to Stone","msgstr":"석화"}
+{"msgctxt":"spells","msgid":"Turn Undead","msgstr":"언데드 퇴치"}
+{"msgctxt":"spells","msgid":"Vamp Weap","msgstr":"흡혈 무기"}
+{"msgctxt":"spells","msgid":"Vampiric Weapon","msgstr":"흡혈의 무기"}
+{"msgctxt":"spells","msgid":"Water Res","msgstr":"물 저항력"}
+{"msgctxt":"spells","msgid":"Water Resist","msgstr":"물 저항력"}
+{"msgctxt":"spells","msgid":"Water Resistance","msgstr":"물 저항력"}
+{"msgctxt":"spells","msgid":"Water Walk","msgstr":"물 위 걷기"}
+{"msgctxt":"spells","msgid":"Wing Buffet","msgstr":"날개 강타"}
+{"msgctxt":"spells","msgid":"Wizard Eye","msgstr":"마법사의 눈"}
+{"msgctxt":"spells vampire","msgid":"Charm","msgstr":"매혹"}
+{"msgctxt":"stats","msgid":"AC","msgstr":"AC"}
+{"msgctxt":"stats","msgid":"Accuracy","msgstr":"정확도"}
+{"msgctxt":"stats","msgid":"Age","msgstr":"나이"}
+{"msgctxt":"stats","msgid":"Air","msgstr":"바람"}
+{"msgctxt":"stats","msgid":"Armor Class","msgstr":"방어도"}
+{"msgctxt":"stats","msgid":"Attack","msgstr":"공격"}
+{"msgctxt":"stats","msgid":"Attack Bonus","msgstr":"공격 보너스"}
+{"msgctxt":"stats","msgid":"Attack Damage","msgstr":"공격 피해"}
+{"msgctxt":"stats","msgid":"Body","msgstr":"육체"}
+{"msgctxt":"stats","msgid":"Class","msgstr":"직업"}
+{"msgctxt":"stats","msgid":"Cold","msgstr":"냉기"}
+{"msgctxt":"stats","msgid":"Cond","msgstr":"상태"}
+{"msgctxt":"stats","msgid":"Condition","msgstr":"상태"}
+{"msgctxt":"stats","msgid":"Dmg","msgstr":"피해"}
+{"msgctxt":"stats","msgid":"Earth","msgstr":"대지"}
+{"msgctxt":"stats","msgid":"Electricity","msgstr":"전기"}
+{"msgctxt":"stats","msgid":"Endurance","msgstr":"지구력"}
+{"msgctxt":"stats","msgid":"Exp.","msgstr":"경험치"}
+{"msgctxt":"stats","msgid":"Experience","msgstr":"경험치"}
+{"msgctxt":"stats","msgid":"Fame","msgstr":"명성"}
+{"msgctxt":"stats","msgid":"Fire","msgstr":"불"}
+{"msgctxt":"stats","msgid":"Hit Points","msgstr":"히트 포인트"}
+{"msgctxt":"stats","msgid":"HP","msgstr":"HP"}
+{"msgctxt":"stats","msgid":"Intellect","msgstr":"지성"}
+{"msgctxt":"stats","msgid":"Level","msgstr":"레벨"}
+{"msgctxt":"stats","msgid":"Luck","msgstr":"행운"}
+{"msgctxt":"stats","msgid":"Magic","msgstr":"마법"}
+{"msgctxt":"stats","msgid":"Might","msgstr":"힘"}
+{"msgctxt":"stats","msgid":"Mind","msgstr":"정신"}
+{"msgctxt":"stats","msgid":"Name","msgstr":"이름"}
+{"msgctxt":"stats","msgid":"Personality","msgstr":"인격"}
+{"msgctxt":"stats","msgid":"Points","msgstr":"포인트"}
+{"msgctxt":"stats","msgid":"Poison","msgstr":"독"}
+{"msgctxt":"stats","msgid":"QSpell","msgstr":"빠른 주문"}
+{"msgctxt":"stats","msgid":"Quick Spell","msgstr":"단축 주문"}
+{"msgctxt":"stats","msgid":"Reputation","msgstr":"평판"}
+{"msgctxt":"stats","msgid":"Shoot Bonus","msgstr":"사격 보너스"}
+{"msgctxt":"stats","msgid":"Shoot Damage","msgstr":"원거리 공격 피해"}
+{"msgctxt":"stats","msgid":"Skill Points","msgstr":"기술 포인트"}
+{"msgctxt":"stats","msgid":"Skills","msgstr":"기술"}
+{"msgctxt":"stats","msgid":"SP","msgstr":"SP"}
+{"msgctxt":"stats","msgid":"Speed","msgstr":"속도"}
+{"msgctxt":"stats","msgid":"Spell Points","msgstr":"주문 포인트"}
+{"msgctxt":"stats","msgid":"Water","msgstr":"물"}
+{"msgctxt":"stditems","msgid":"of Air Resistance","msgstr":"바람 저항력의"}
+{"msgctxt":"stditems","msgid":"of Alchemy","msgstr":"연금술의"}
+{"msgctxt":"stditems","msgid":"of Arms","msgstr":"무예의"}
+{"msgctxt":"stditems","msgid":"of Body Resistance","msgstr":"육체 저항력의"}
+{"msgctxt":"stditems","msgid":"of Charm","msgstr":"매력의"}
+{"msgctxt":"stditems","msgid":"of Cold Resistance","msgstr":"냉기 저항력의"}
+{"msgctxt":"stditems","msgid":"of Defense","msgstr":"방어의"}
+{"msgctxt":"stditems","msgid":"of Disarming","msgstr":"함정 해제의"}
+{"msgctxt":"stditems","msgid":"of Dodging","msgstr":"회피의"}
+{"msgctxt":"stditems","msgid":"of Earth Resistance","msgstr":"대지 저항력의"}
+{"msgctxt":"stditems","msgid":"of Elec Resistance","msgstr":"전기 저항력의"}
+{"msgctxt":"stditems","msgid":"of Fire Resistance","msgstr":"불 저항력의"}
+{"msgctxt":"stditems","msgid":"of great Might","msgstr":"강대한 힘의"}
+{"msgctxt":"stditems","msgid":"of Health","msgstr":"체력의"}
+{"msgctxt":"stditems","msgid":"of Items","msgstr":"아이템 감정술의"}
+{"msgctxt":"stditems","msgid":"of Luck","msgstr":"행운의"}
+{"msgctxt":"stditems","msgid":"of Magic","msgstr":"마법의"}
+{"msgctxt":"stditems","msgid":"of Might","msgstr":"힘의"}
+{"msgctxt":"stditems","msgid":"of Mind Resistance","msgstr":"정신 저항력의"}
+{"msgctxt":"stditems","msgid":"of Monsters","msgstr":"몬스터 감별의"}
+{"msgctxt":"stditems","msgid":"of Poison Resistance","msgstr":"독 저항력의"}
+{"msgctxt":"stditems","msgid":"of Precision","msgstr":"정확성의"}
+{"msgctxt":"stditems","msgid":"of Speed","msgstr":"속도의"}
+{"msgctxt":"stditems","msgid":"of Stealing","msgstr":"훔치기의"}
+{"msgctxt":"stditems","msgid":"of the Fist","msgstr":"주먹의"}
+{"msgctxt":"stditems","msgid":"of Thought","msgstr":"지성의"}
+{"msgctxt":"stditems","msgid":"of Vigor","msgstr":"활력의"}
+{"msgctxt":"stditems","msgid":"of Water Resistance","msgstr":"물 저항력의"}

@@ -23,10 +23,280 @@ merge_version = "2024-10-30"
 #   outname     base name of the produced .zip; the release date is appended
 
 [[releases]]
-lang = "zh_CN"
+lang = "cs"
+target = "mm6"
+game = "mm6"
+outname = "MM6_cs"
+
+[[releases]]
+lang = "cs"
+target = "mm7"
+game = "mm7"
+outname = "MM7_cs"
+
+[[releases]]
+lang = "cs"
+target = "mm8"
+game = "mm8"
+outname = "MM8_cs"
+
+[[releases]]
+lang = "cs"
 target = "mmmerge"
 game = "mmmerge"
-outname = "MMMerge_zh_CN"
+outname = "MMMerge_cs"
+
+[[releases]]
+lang = "de"
+target = "mm6"
+game = "mm6"
+outname = "MM6_de"
+
+[[releases]]
+lang = "de"
+target = "mm7"
+game = "mm7"
+outname = "MM7_de"
+
+[[releases]]
+lang = "de"
+target = "mm8"
+game = "mm8"
+outname = "MM8_de"
+
+[[releases]]
+lang = "de"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_de"
+
+[[releases]]
+lang = "es"
+target = "mm6"
+game = "mm6"
+outname = "MM6_es"
+
+[[releases]]
+lang = "es"
+target = "mm7"
+game = "mm7"
+outname = "MM7_es"
+
+[[releases]]
+lang = "es"
+target = "mm8"
+game = "mm8"
+outname = "MM8_es"
+
+[[releases]]
+lang = "es"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_es"
+
+[[releases]]
+lang = "fr"
+target = "mm6"
+game = "mm6"
+outname = "MM6_fr"
+
+[[releases]]
+lang = "fr"
+target = "mm7"
+game = "mm7"
+outname = "MM7_fr"
+
+[[releases]]
+lang = "fr"
+target = "mm8"
+game = "mm8"
+outname = "MM8_fr"
+
+[[releases]]
+lang = "fr"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_fr"
+
+[[releases]]
+lang = "it"
+target = "mm6"
+game = "mm6"
+outname = "MM6_it"
+
+[[releases]]
+lang = "it"
+target = "mm7"
+game = "mm7"
+outname = "MM7_it"
+
+[[releases]]
+lang = "it"
+target = "mm8"
+game = "mm8"
+outname = "MM8_it"
+
+[[releases]]
+lang = "it"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_it"
+
+[[releases]]
+lang = "ja"
+target = "mm6"
+game = "mm6"
+outname = "MM6_ja"
+
+[[releases]]
+lang = "ja"
+target = "mm7"
+game = "mm7"
+outname = "MM7_ja"
+
+[[releases]]
+lang = "ja"
+target = "mm8"
+game = "mm8"
+outname = "MM8_ja"
+
+[[releases]]
+lang = "ja"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_ja"
+
+[[releases]]
+lang = "ko"
+target = "mm6"
+game = "mm6"
+outname = "MM6_ko"
+
+[[releases]]
+lang = "ko"
+target = "mm7"
+game = "mm7"
+outname = "MM7_ko"
+
+[[releases]]
+lang = "ko"
+target = "mm8"
+game = "mm8"
+outname = "MM8_ko"
+
+[[releases]]
+lang = "ko"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_ko"
+
+[[releases]]
+lang = "pl"
+target = "mm6"
+game = "mm6"
+outname = "MM6_pl"
+
+[[releases]]
+lang = "pl"
+target = "mm7"
+game = "mm7"
+outname = "MM7_pl"
+
+[[releases]]
+lang = "pl"
+target = "mm8"
+game = "mm8"
+outname = "MM8_pl"
+
+[[releases]]
+lang = "pl"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_pl"
+
+[[releases]]
+lang = "pt_BR"
+target = "mm6"
+game = "mm6"
+outname = "MM6_pt_BR"
+
+[[releases]]
+lang = "pt_BR"
+target = "mm7"
+game = "mm7"
+outname = "MM7_pt_BR"
+
+[[releases]]
+lang = "pt_BR"
+target = "mm8"
+game = "mm8"
+outname = "MM8_pt_BR"
+
+[[releases]]
+lang = "pt_BR"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_pt_BR"
+
+[[releases]]
+lang = "ru"
+target = "mm6"
+game = "mm6"
+outname = "MM6_ru"
+
+[[releases]]
+lang = "ru"
+target = "mm7"
+game = "mm7"
+outname = "MM7_ru"
+
+[[releases]]
+lang = "ru"
+target = "mm8"
+game = "mm8"
+outname = "MM8_ru"
+
+[[releases]]
+lang = "ru"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_ru"
+
+[[releases]]
+lang = "uk"
+target = "mm6"
+game = "mm6"
+outname = "MM6_uk"
+
+[[releases]]
+lang = "uk"
+target = "mm7"
+game = "mm7"
+outname = "MM7_uk"
+
+[[releases]]
+lang = "uk"
+target = "mm8"
+game = "mm8"
+outname = "MM8_uk"
+
+[[releases]]
+lang = "uk"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_uk"
+
+[[releases]]
+lang = "zh_CN"
+target = "mm6"
+game = "mm6"
+outname = "MM6_zh_CN"
+
+[[releases]]
+lang = "zh_CN"
+target = "mm7"
+game = "mm7"
+outname = "MM7_zh_CN"
 
 [[releases]]
 lang = "zh_CN"
@@ -35,13 +305,31 @@ game = "mm8"
 outname = "MM8_zh_CN"
 
 [[releases]]
-lang = "zh_TW"
+lang = "zh_CN"
 target = "mmmerge"
 game = "mmmerge"
-outname = "MMMerge_zh_TW"
+outname = "MMMerge_zh_CN"
+
+[[releases]]
+lang = "zh_TW"
+target = "mm6"
+game = "mm6"
+outname = "MM6_zh_TW"
+
+[[releases]]
+lang = "zh_TW"
+target = "mm7"
+game = "mm7"
+outname = "MM7_zh_TW"
 
 [[releases]]
 lang = "zh_TW"
 target = "mm8"
 game = "mm8"
 outname = "MM8_zh_TW"
+
+[[releases]]
+lang = "zh_TW"
+target = "mmmerge"
+game = "mmmerge"
+outname = "MMMerge_zh_TW"

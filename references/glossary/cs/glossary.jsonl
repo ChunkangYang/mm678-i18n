@@ -1,0 +1,2431 @@
+{"msgctxt":"autonote or awards","msgid":"Accuracy Boost (White) = Orange + Yellow and Orange Layered","msgstr":"Zvýšení přesnosti (bílý) = oranžový + vrstvený žluto-oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered","msgstr":"Odolnost vůči vzduchu (bílý) = Vrstvený červeno-oranžový lektvar + Vrstvený modro-fialový lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Awaken (Green) = Yellow + Blue","msgstr":"Probuzení (zelený) = žlutý + modrý"}
+{"msgctxt":"autonote or awards","msgid":"Bless (Red and Green Layered) = Red + Green","msgstr":"Požehnání (vrstvený červeno-zelený) = červený + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Bless (White) = Purple + Blue","msgstr":"Požehnání (bílý) = fialový + modrý"}
+{"msgctxt":"autonote or awards","msgid":"Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered","msgstr":"Odolnost vůči Tělu (bílý) = Vrstvený modro-zelený lektvar + Vrstvený žluto-oranžový lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Gray) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"Katalyzátor (šedý) = Houby + prázdná láhev.  Pro silnější účinek lze použít jiné šedé přísady."}
+{"msgctxt":"autonote or awards","msgid":"Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.","msgstr":"Katalyzátor (šedý) = Houby + prázdná láhev.  Pro silnější účinek lze použít jiné šedé přísady."}
+{"msgctxt":"autonote or awards","msgid":"Cure Disease (Orange) = Yellow + Red","msgstr":"Vyléčení nemoci (oranžový) = žlutý + červený"}
+{"msgctxt":"autonote or awards","msgid":"Cure Insanity (Orange and Green Layered) = Orange + Green","msgstr":"Vyléčení šílenství (vrstvený oranžovo-zelený) = oranžový + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Green + Yellow and Orange Layered","msgstr":"Vyléčení ochromení (bílý) = zelený + vrstvený žluto-oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Cure Paralysis (White) = Orange + Yellow and Green Layered","msgstr":"Vyléčení ochromení (bílý) = oranžový + vrstvený žluto-zelený"}
+{"msgctxt":"autonote or awards","msgid":"Cure Poison (Purple) = Blue + Red","msgstr":"Léčení otravy (fialový) = modrý + červený"}
+{"msgctxt":"autonote or awards","msgid":"Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.","msgstr":"Vyléčení oslabení (žlutý) = Makové pukavky + prázdná láhev.  Pro silnější účinek lze použít jiné žluté přísady."}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle","msgstr":"Léčení ran (červený) = Bobule vdovích slz + prázdná láhev"}
+{"msgctxt":"autonote or awards","msgid":"Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.","msgstr":"Léčení ran (červený) = Bobule vdovích slz + prázdná láhev.  Pro silnější účinek lze použít jiné červené přísady."}
+{"msgctxt":"autonote or awards","msgid":"Divine Boost = Divine Power + Any attribute boost potion.","msgstr":"Božské posílení = Božská moc + libovolný lektvar na posílení vlastnosti."}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (Black) = Restoration + Orange","msgstr":"Božské léčení (černý) = Obnova + oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered","msgstr":"Božské léčení (bílý) = Vrstvený červeno-oranžový lektvar + Vrstvený žluto-oranžový lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Divine Magic (Black) = Super Resistance + Green","msgstr":"Božská magie (černý) = Mimořádná odolnost + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (Black) = Extreme Energy + Purple","msgstr":"Božská moc (černý) = Extrémní energie + fialový"}
+{"msgctxt":"autonote or awards","msgid":"Divine Power (White) = Blue and Green Layered + Yellow and Green Layered","msgstr":"Božská moc (bílý) = Vrstvený modro-zelený lektvar + Vrstvený žluto-zelený lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Divine Protection = Divine Cure + Any resistance potion.","msgstr":"Božská ochrana = Božské léčení + libovolný lektvar odolnosti."}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered","msgstr":"Božská obnova (bílý) = Vrstvený modro-fialový lektvar + Vrstvený žluto-oranžový lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered","msgstr":"Božská obnova (bílý) = Vrstvený červeno-oranžový lektvar + Vrstvený modro-zelený lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered","msgstr":"Božská obnova (bílý) = Vrstvený červeno-fialový lektvar + Vrstvený žluto-zelený lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Divine Transcendence = Divine Restoration + Cure Insanity (or Remove Fear, or Remove Curse)","msgstr":"Božské povznesení = Božská obnova + Vyléčení šílenství (nebo Odstranění strachu, nebo Odstranění prokletí)"}
+{"msgctxt":"autonote or awards","msgid":"Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered","msgstr":"Odolnost proti zemi (bílý) = Vrstvený červeno-fialový lektvar + Vrstvený žluto-oranžový lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Endurance Boost (White) = Purple + Blue and Purple Layered","msgstr":"Posílení odolnosti (bílý) = fialový + vrstvený modro-fialový"}
+{"msgctxt":"autonote or awards","msgid":"Energy (Yellow) = Poppysnaps + Empty Bottle","msgstr":"Energie (žlutý) = Makové pukavky + prázdná láhev"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy (Black) = Bless + Yellow","msgstr":"Esence přesnosti (černý) = Požehnání + žlutý"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Accuracy = Cure Insanity + Stoneskin","msgstr":"Esence přesnosti = Vyléčení šílenství + Kamenná kůže"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance (Black) = Supreme Protection + Yellow","msgstr":"Esence odolnosti (černý) = Nejvyšší ochrana + žlutý"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Endurance = Remove Curse + Recharge Item","msgstr":"Esence odolnosti = Odstranění prokletí + Dobití předmětu"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect (Black) = Stone Skin + Blue","msgstr":"Esence inteligence (černý) = Kamenná kůže + modrý"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Intellect = Remove Curse + Shield ","msgstr":"Esence inteligence = Odstranění prokletí + Štít "}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck (Black) = Super Resistance + Purple","msgstr":"Esence štěstí (černý) = Mimořádná odolnost + fialový"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Luck = Haste + Heroism, Recharge Item + Shield, Harden Item + Stoneskin","msgstr":"Esence štěstí = Zrychlení + Hrdinství, Dobití předmětu + Štít, Zpevnění předmětu + Kamenná kůže"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might (Black) = Heroism + Red","msgstr":"Esence Síly (černý) = Hrdinství + červený"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Might = Remove Fear + Heroism","msgstr":"Esence Síly = Odstranění strachu + Hrdinství"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality (Black) = Restoration + Blue","msgstr":"Esence osobnosti (černý) = Obnova + modrý"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Personality = Remove Fear + Haste","msgstr":"Esence osobnosti = Odstranění strachu + Zrychlení"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed (Black) = Haste + Red","msgstr":"Esence Rychlosti (černý) = Zrychlení + červený"}
+{"msgctxt":"autonote or awards","msgid":"Essence of Speed = Cure Insanity + Harden Item","msgstr":"Esence Rychlosti = Vyléčení šílenství + Zpevnění předmětu"}
+{"msgctxt":"autonote or awards","msgid":"Extreme Energy (White) = Orange + Yellow","msgstr":"Extrémní energie (bílý) = oranžový + žlutý"}
+{"msgctxt":"autonote or awards","msgid":"Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered","msgstr":"Odolnost vůči Ohni (bílý) = Vrstvený červeno-oranžový lektvar + Vrstvený žluto-zelený lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Green + Red and Orange Layered","msgstr":"Ohnivý lektvar (bílý) = zelený + vrstvený červeno-oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Flaming Potion (White) = Purple + Yellow and Orange Layered","msgstr":"Ohnivý lektvar (bílý) = fialový + vrstvený žluto-oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Green + Red and Purple Layered","msgstr":"Mrazivý lektvar (bílý) = zelený + vrstvený červeno-fialový"}
+{"msgctxt":"autonote or awards","msgid":"Freezing Potion (White) = Orange + Blue and Purple Layered","msgstr":"Mrazivý lektvar (bílý) = oranžový + vrstvený modro-fialový"}
+{"msgctxt":"autonote or awards","msgid":"Harden Item (Yellow and Green Layered) = Yellow + Green","msgstr":"Zpevnění předmětu (vrstvený žluto-zelený) = žlutý + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Haste (Red and Orange Layered) = Red + Orange","msgstr":"Zrychlení (vrstvený červeno-oranžový) = červený + oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Haste (White) = Green + Yellow","msgstr":"Zrychlení (bílý) = zelený + žlutý"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (Red and Purple Layered) = Red + Purple","msgstr":"Hrdinství (vrstvený červeno-fialový) = červený + fialový"}
+{"msgctxt":"autonote or awards","msgid":"Heroism (White) = Orange + Red","msgstr":"Hrdinství (bílý) = oranžový + červený"}
+{"msgctxt":"autonote or awards","msgid":"Intellect Boost (White) = Green + Yellow and Green Layered","msgstr":"Posílení inteligence (bílý) = zelený + vrstvený žluto-zelený"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boost (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"Zvýšení štěstí (bílý) = Vrstvený červeno-fialový lektvar + Vrstvený modro-fialový lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered","msgstr":"Boty štěstí (bílý) = Vrstvený červeno-fialový lektvar + Vrstvený modro-fialový lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phima Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"Kouzelný lektvar (modrý) = Kořen phimy + prázdná láhev.  Pro silnější účinek lze použít jiné modré přísady."}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle","msgstr":"Kouzelný lektvar (modrý) = Kořen phirny + prázdná láhev"}
+{"msgctxt":"autonote or awards","msgid":"Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.","msgstr":"Kouzelný lektvar (modrý) = Kořen phirny + prázdná láhev.  Pro silnější účinek lze použít jiné modré přísady."}
+{"msgctxt":"autonote or awards","msgid":"Might Boost (White) = Purple + Red and Purple Layered","msgstr":"Posílení síly (bílý) = fialový + vrstvený červeno-fialový"}
+{"msgctxt":"autonote or awards","msgid":"Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered","msgstr":"Odolnost vůči Mysli (bílý) = Vrstvený červeno-fialový lektvar + Vrstvený modro-zelený lektvar"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Orange + Blue and Green Layered","msgstr":"Jedovatý lektvar (bílý) = oranžový + vrstvený modro-zelený"}
+{"msgctxt":"autonote or awards","msgid":"Noxious Potion (White) = Purple + Yellow and Green Layered","msgstr":"Jedovatý lektvar (bílý) = fialový + vrstvený žluto-zelený"}
+{"msgctxt":"autonote or awards","msgid":"Personality Boost (White) = Green + Blue and Green Layered","msgstr":"Zvýšení osobnosti (bílý) = zelený + vrstvený modro-zelený"}
+{"msgctxt":"autonote or awards","msgid":"Potion of Doom = Remove Curse + Remove Fear, Remove Curse + Cure Insanity, Remove Fear + Cure Insanity","msgstr":"Lektvar zhouby = Odstranění prokletí + Odstranění strachu, Odstranění prokletí + Vyléčení šílenství, Odstranění strachu + Vyléčení šílenství"}
+{"msgctxt":"autonote or awards","msgid":"Potion of the Gods = Essense of Might + Harden item or Essence of Intellect + Stoneskin or Essence of Personality + Recharge item or Essence of Endurance + Haste or Essence of Accuracy + Shield or Essence of Speed + Heroism.","msgstr":"Lektvar bohů = Esence síly + Zpevnění předmětu nebo Esence inteligence + Kamenná kůže nebo Esence osobnosti + Dobití předmětu nebo Esence odolnosti + Zrychlení nebo Esence přesnosti + Štít nebo Esence Rychlosti + Hrdinství."}
+{"msgctxt":"autonote or awards","msgid":"Preservation (Blue and Orange Layered) = Blue + Orange","msgstr":"Ochrana (vrstvený modro-oranžový) = modrý + oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Protection (Orange) = Yellow + Red","msgstr":"Ochrana (oranžový) = žlutý + červený"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Cure Insanity + Bless","msgstr":"Ochrana před magií = Vyléčení šílenství + Požehnání"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Curse + Water Breathing","msgstr":"Ochrana před magií = Odstranění prokletí + Dýchání pod vodou"}
+{"msgctxt":"autonote or awards","msgid":"Protection from Magic = Remove Fear + Preservation","msgstr":"Ochrana před magií = Odstranění strachu + Ochrana"}
+{"msgctxt":"autonote or awards","msgid":"Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)","msgstr":"Čistá přesnost (černý) = zelený lektvar + Zvýšení přesnosti (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Air Resistance = Essence of Luck + Air Resistance","msgstr":"Čistá odolnost vůči vzduchu = Esence štěstí + Odolnost vůči vzduchu"}
+{"msgctxt":"autonote or awards","msgid":"Pure Body Resistance = Essence of Luck + Body Resistance","msgstr":"Čistá odolnost vůči Tělu = Esence štěstí + Odolnost vůči Tělu"}
+{"msgctxt":"autonote or awards","msgid":"Pure Earth Resistance = Essence of Luck + Earth Resistance","msgstr":"Ryzí odolnost proti zemi = Esence štěstí + Odolnost proti zemi"}
+{"msgctxt":"autonote or awards","msgid":"Pure Endurance (Black) = Green Potion + Endurance Boost (White)","msgstr":"Ryzí odolnost (černý) = zelený lektvar + Posílení odolnosti (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Fire Resistance = Essence of Luck + Fire Resistance","msgstr":"Čistá odolnost vůči Ohni = Esence štěstí + Odolnost vůči Ohni"}
+{"msgctxt":"autonote or awards","msgid":"Pure Intellect (Black) = Orange Potion + Intellect Boost (White)","msgstr":"Ryzí inteligence (černý) = oranžový lektvar + Posílení inteligence (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)","msgstr":"Čisté štěstí (černý) = Vrstvený žluto-oranžový lektvar + Rychlý lektvar (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Might (Black) = Orange Potion + Might Boost (White)","msgstr":"Čistá síla (černý) = oranžový lektvar + Posílení síly (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Mind Resistance = Essence of Luck + Mind Resistance","msgstr":"Ryzí odolnost vůči Mysli = Esence štěstí + Odolnost vůči Mysli"}
+{"msgctxt":"autonote or awards","msgid":"Pure Personality (Black) = Purple Potion + Personality Boost (White)","msgstr":"Čistá osobnost (černý) = Fialový lektvar + Zvýšení osobnosti (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Speed (Black) = Purple Potion + Speed Boost (White)","msgstr":"Čistá rychlost (černý) = fialový lektvar + Posílení rychlosti (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Pure Water Resistance = Essence of Luck + Water Resistance","msgstr":"Ryzí odolnost proti vodě = Esence štěstí + Odolnost proti vodě"}
+{"msgctxt":"autonote or awards","msgid":"Recharge Item (Blue and Green Layered) = Blue + Green","msgstr":"Dobití předmětu (vrstvený modro-zelený) = modrý + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)","msgstr":"Omlazení (černý) = Vrstvený modro-oranžový lektvar + Božská obnova (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Extreme Energy + Green","msgstr":"Omlazení (černý) = Extrémní energie + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)","msgstr":"Omlazení (černý) = Vrstvený červeno-zelený lektvar + Božská obnova (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)","msgstr":"Omlazení (černý) = Vrstvený žluto-fialový lektvar + Božská obnova (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Remove Curse (Purple and Green Layered) = Purple + Green","msgstr":"Odstranění prokletí (vrstvený fialovo-zelený) = fialový + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Remove Fear (Orange and Purple Layered) = Orange + Purple","msgstr":"Odstranění strachu (vrstvený oranžovo-fialový) = oranžový + fialový"}
+{"msgctxt":"autonote or awards","msgid":"Resistance (Green) = Yellow + Blue","msgstr":"Odolnost (zelený) = žlutý + modrý"}
+{"msgctxt":"autonote or awards","msgid":"Restoration(White) = Purple + Green","msgstr":"Obnova (bílý) = fialový + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Shield (Blue and Purple Layered) = Blue + Purple","msgstr":"Štít (vrstvený modro-fialový) = modrý + fialový"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Orange + Red and Purple Layered","msgstr":"Elektrizující lektvar (bílý) = oranžový + vrstvený červeno-fialový"}
+{"msgctxt":"autonote or awards","msgid":"Shocking Potion (White) = Purple + Red and Orange Layered","msgstr":"Elektrizující lektvar (bílý) = fialový + vrstvený červeno-oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)","msgstr":"Smrtící lektvar (černý) = Vrstvený modro-fialový lektvar + Ohnivý lektvar (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Speed Boost (White) = Orange + Red and Orange Layered","msgstr":"Posílení rychlosti (bílý) = oranžový + vrstvený červeno-oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Stone Skin (White) = Orange + Blue","msgstr":"Kamenná kůže (bílý) = oranžový + modrý"}
+{"msgctxt":"autonote or awards","msgid":"Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)","msgstr":"Z kamene v tělo (černý) = Vrstvený červeno-fialový lektvar + Vyléčení ochromení (bílý)"}
+{"msgctxt":"autonote or awards","msgid":"Stoneskin (Yellow and Orange Layered) = Yellow + Orange","msgstr":"Kamenná kůže (vrstvený žluto-oranžový) = žlutý + oranžový"}
+{"msgctxt":"autonote or awards","msgid":"Super Resistance (White) = Green + Blue","msgstr":"Mimořádná odolnost (bílý) = zelený + modrý"}
+{"msgctxt":"autonote or awards","msgid":"Supreme Protection (White) = Orange + Green","msgstr":"Nejvyšší ochrana (bílý) = oranžový + zelený"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Green + Blue and Purple Layered","msgstr":"Rychlý lektvar (bílý) = zelený + vrstvený modro-fialový"}
+{"msgctxt":"autonote or awards","msgid":"Swift Potion (White) = Purple + Blue and Green Layered","msgstr":"Rychlý lektvar (bílý) = fialový + vrstvený modro-zelený"}
+{"msgctxt":"autonote or awards","msgid":"Water Breathing (Yellow and Purple Layered) = Yellow + Purple","msgstr":"Dýchání pod vodou (vrstvený žluto-fialový) = žlutý + fialový"}
+{"msgctxt":"autonote or awards","msgid":"Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered","msgstr":"Odolnost proti vodě (bílý) = Vrstvený modro-fialový lektvar + Vrstvený žluto-zelený lektvar"}
+{"msgctxt":"class","msgid":"Arch Druid","msgstr":"Arcidruid"}
+{"msgctxt":"class","msgid":"Arch Mage","msgstr":"Arcimág"}
+{"msgctxt":"class","msgid":"Archer","msgstr":"Lučištník"}
+{"msgctxt":"class","msgid":"Assassin","msgstr":"Vrah"}
+{"msgctxt":"class","msgid":"Battle Mage","msgstr":"Bojový mág"}
+{"msgctxt":"class","msgid":"Black Knight","msgstr":"Černý rytíř"}
+{"msgctxt":"class","msgid":"Bounty Hunter","msgstr":"Lovec odměn"}
+{"msgctxt":"class","msgid":"Cavalier","msgstr":"Kavalír"}
+{"msgctxt":"class","msgid":"Champion","msgstr":"Šampion"}
+{"msgctxt":"class","msgid":"Cleric","msgstr":"Klerik"}
+{"msgctxt":"class","msgid":"Crusader","msgstr":"Křižák"}
+{"msgctxt":"class","msgid":"Dark Elf","msgstr":"Temný elf"}
+{"msgctxt":"class","msgid":"Dark Elf Patriarch","msgstr":"Patriarcha temných elfů"}
+{"msgctxt":"class","msgid":"Dragon","msgstr":"Drak"}
+{"msgctxt":"class","msgid":"Druid","msgstr":"Druid"}
+{"msgctxt":"class","msgid":"Great Druid","msgstr":"Velký druid"}
+{"msgctxt":"class","msgid":"Great Wyrm","msgstr":"Velká saň"}
+{"msgctxt":"class","msgid":"Hero","msgstr":"Hrdina"}
+{"msgctxt":"class","msgid":"High Priest","msgstr":"Velekněz"}
+{"msgctxt":"class","msgid":"Hunter","msgstr":"Lovec"}
+{"msgctxt":"class","msgid":"Initiate","msgstr":"Zasvěcenec"}
+{"msgctxt":"class","msgid":"Knight","msgstr":"Rytíř"}
+{"msgctxt":"class","msgid":"Lich","msgstr":"Lich"}
+{"msgctxt":"class","msgid":"Master","msgstr":"Mistr"}
+{"msgctxt":"class","msgid":"Master Archer","msgstr":"Mistr lučištník"}
+{"msgctxt":"class","msgid":"Master Necromancer","msgstr":"Mistr nekromant"}
+{"msgctxt":"class","msgid":"Master Wizard","msgstr":"Mistr čaroděj"}
+{"msgctxt":"class","msgid":"Minotaur","msgstr":"Minotaur"}
+{"msgctxt":"class","msgid":"Minotaur Lord","msgstr":"Pán minotaurů"}
+{"msgctxt":"class","msgid":"Monk","msgstr":"Mnich"}
+{"msgctxt":"class","msgid":"Necromancer","msgstr":"Nekromant"}
+{"msgctxt":"class","msgid":"Ninja","msgstr":"Nindža"}
+{"msgctxt":"class","msgid":"Nosferatu","msgstr":"Nosferatu"}
+{"msgctxt":"class","msgid":"Paladin","msgstr":"Paladin"}
+{"msgctxt":"class","msgid":"Patriarch","msgstr":"Patriarcha"}
+{"msgctxt":"class","msgid":"Peasant","msgstr":"Sedlák"}
+{"msgctxt":"class","msgid":"Priest","msgstr":"Kněz"}
+{"msgctxt":"class","msgid":"Priest of Light","msgstr":"Kněz světla"}
+{"msgctxt":"class","msgid":"Priest of the Dark","msgstr":"Kněz temnoty"}
+{"msgctxt":"class","msgid":"Priest of the Light","msgstr":"Kněz světla"}
+{"msgctxt":"class","msgid":"Priest of the Sun","msgstr":"Kněz slunce"}
+{"msgctxt":"class","msgid":"Ranger","msgstr":"Hraničář"}
+{"msgctxt":"class","msgid":"Ranger Lord","msgstr":"Pán hraničářů"}
+{"msgctxt":"class","msgid":"Rogue","msgstr":"Lupič"}
+{"msgctxt":"class","msgid":"Sniper","msgstr":"Ostřelovač"}
+{"msgctxt":"class","msgid":"Sorcerer","msgstr":"Kouzelník"}
+{"msgctxt":"class","msgid":"Spy","msgstr":"Špeh"}
+{"msgctxt":"class","msgid":"Thief","msgstr":"Zloděj"}
+{"msgctxt":"class","msgid":"Troll","msgstr":"Trol"}
+{"msgctxt":"class","msgid":"Vampire","msgstr":"Upír"}
+{"msgctxt":"class","msgid":"Villain","msgstr":"Zloduch"}
+{"msgctxt":"class","msgid":"War Troll","msgstr":"Válečný trol"}
+{"msgctxt":"class","msgid":"Warlock","msgstr":"Černokněžník"}
+{"msgctxt":"class","msgid":"Warrior Mage","msgstr":"Bojový mág"}
+{"msgctxt":"class","msgid":"Wizard","msgstr":"Čaroděj"}
+{"msgctxt":"condition","msgid":"Afraid","msgstr":"Vyděšený"}
+{"msgctxt":"condition","msgid":"Asleep","msgstr":"Spící"}
+{"msgctxt":"condition","msgid":"Cursed","msgstr":"Prokletý"}
+{"msgctxt":"condition","msgid":"Dead","msgstr":"Mrtvý"}
+{"msgctxt":"condition","msgid":"Diseased","msgstr":"Nemocný"}
+{"msgctxt":"condition","msgid":"Drunk","msgstr":"Opilý"}
+{"msgctxt":"condition","msgid":"Eradicated","msgstr":"Vymazaný"}
+{"msgctxt":"condition","msgid":"Good","msgstr":"Zdravý"}
+{"msgctxt":"condition","msgid":"Insane","msgstr":"Šílený"}
+{"msgctxt":"condition","msgid":"Paralyzed","msgstr":"Ochromený"}
+{"msgctxt":"condition","msgid":"Poison","msgstr":"Otrava"}
+{"msgctxt":"condition","msgid":"Stoned","msgstr":"Zkamenělý"}
+{"msgctxt":"condition","msgid":"Unconscious","msgstr":"V bezvědomí"}
+{"msgctxt":"condition","msgid":"Weak","msgstr":"Oslabený"}
+{"msgctxt":"condition","msgid":"Zombie","msgstr":"Zombie"}
+{"msgctxt":"items","msgid":"Abbey Normal Golem Head","msgstr":"Abnormální golemova hlava"}
+{"msgctxt":"items","msgid":"Accuracy Boost","msgstr":"Zvýšení přesnosti"}
+{"msgctxt":"items","msgid":"Accuracy Boost Recipe","msgstr":"Recept na Zvýšení přesnosti"}
+{"msgctxt":"items","msgid":"Accurate Crossbow","msgstr":"Přesná kuše"}
+{"msgctxt":"items","msgid":"Aegis","msgstr":"Aigis"}
+{"msgctxt":"items","msgid":"Air Resistance","msgstr":"Odolnost vůči vzduchu"}
+{"msgctxt":"items","msgid":"Air Resistance Recipe","msgstr":"Recept na Odolnost vůči vzduchu"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Acid","msgstr":"Alacornská hůlka kyseliny"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Blades","msgstr":"Alacornská hůlka čepelí"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Charms","msgstr":"Alacornská hůlka okouzlení"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Fireballs","msgstr":"Alacornská hůlka ohnivých koulí"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Ice","msgstr":"Alacornová hůlka ledu"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Lightning","msgstr":"Alacornská hůlka blesku"}
+{"msgctxt":"items","msgid":"Alacorn Wand of Swarms","msgstr":"Alacornská hůlka rojů"}
+{"msgctxt":"items","msgid":"Alloyed Shield","msgstr":"Štít ze slitiny"}
+{"msgctxt":"items","msgid":"Almighty Crown","msgstr":"Všemocná koruna"}
+{"msgctxt":"items","msgid":"Altar Piece","msgstr":"Část oltáře"}
+{"msgctxt":"items","msgid":"Alvar Cloak","msgstr":"Alvarský plášť"}
+{"msgctxt":"items","msgid":"Alvarian Boots","msgstr":"Alvarské boty"}
+{"msgctxt":"items","msgid":"Alvarian Leather","msgstr":"Alvarská kožená zbroj"}
+{"msgctxt":"items","msgid":"Alvarian Poignard","msgstr":"Alvarská dýka"}
+{"msgctxt":"items","msgid":"Amber","msgstr":"Jantar"}
+{"msgctxt":"items","msgid":"Amethyst","msgstr":"Ametyst"}
+{"msgctxt":"items","msgid":"Amethyst Ring","msgstr":"Ametystový prsten"}
+{"msgctxt":"items","msgid":"Amuck","msgstr":"Amok"}
+{"msgctxt":"items","msgid":"Amythest","msgstr":"Ametyst"}
+{"msgctxt":"items","msgid":"Ancient Amulet","msgstr":"Starobylý amulet"}
+{"msgctxt":"items","msgid":"Angel Statue Painting","msgstr":"Obraz sochy anděla"}
+{"msgctxt":"items","msgid":"Angel Statuette","msgstr":"Soška anděla"}
+{"msgctxt":"items","msgid":"Angel's Ring","msgstr":"Andělův prsten"}
+{"msgctxt":"items","msgid":"Angelic Helm","msgstr":"Andělská přilba"}
+{"msgctxt":"items","msgid":"Ania Selving","msgstr":"Ania Selving"}
+{"msgctxt":"items","msgid":"Ankh","msgstr":"Anch"}
+{"msgctxt":"items","msgid":"Anointed Herb Potion","msgstr":"Lektvar z posvěcených bylin"}
+{"msgctxt":"items","msgid":"Aphrodite","msgstr":"Afrodita"}
+{"msgctxt":"items","msgid":"Apollo","msgstr":"Apollón"}
+{"msgctxt":"items","msgid":"Apple","msgstr":"Jablko"}
+{"msgctxt":"items","msgid":"Arcane Key","msgstr":"Arkánní klíč"}
+{"msgctxt":"items","msgid":"Arcane Wand of Blasting","msgstr":"Arkánní hůlka výbuchu"}
+{"msgctxt":"items","msgid":"Arcane Wand of Clouds","msgstr":"Tajemná hůlka oblaků"}
+{"msgctxt":"items","msgid":"Arcane Wand of Lightning","msgstr":"Arkánní hůlka blesku"}
+{"msgctxt":"items","msgid":"Arcane Wand of Paralyzing","msgstr":"Arkánní hůlka ochromení"}
+{"msgctxt":"items","msgid":"Arcane Wand of Rocks","msgstr":"Tajemná hůlka kamenů"}
+{"msgctxt":"items","msgid":"Arcane Wand of the Fist","msgstr":"Arkánní hůlka pěsti"}
+{"msgctxt":"items","msgid":"Archangel Broadsword","msgstr":"Archandělský široký meč"}
+{"msgctxt":"items","msgid":"Archangel Wings","msgstr":"Křídla archanděla"}
+{"msgctxt":"items","msgid":"Archibald Ironfist Painting","msgstr":"Obraz Archibalda Ironfista"}
+{"msgctxt":"items","msgid":"Arcomage Deck","msgstr":"Balíček karet Arcomage"}
+{"msgctxt":"items","msgid":"Ares","msgstr":"Ares"}
+{"msgctxt":"items","msgid":"Armored Boots","msgstr":"Obrněné boty"}
+{"msgctxt":"items","msgid":"Artemis","msgstr":"Artemis"}
+{"msgctxt":"items","msgid":"Arthur","msgstr":"Artuš"}
+{"msgctxt":"items","msgid":"Artificer's Belt","msgstr":"Opasek mistra řemesel"}
+{"msgctxt":"items","msgid":"Assassin's Dagger","msgstr":"Vrahova dýka"}
+{"msgctxt":"items","msgid":"Astral Shield","msgstr":"Astrální štít"}
+{"msgctxt":"items","msgid":"Athena","msgstr":"Athéna"}
+{"msgctxt":"items","msgid":"Atlas","msgstr":"Atlas"}
+{"msgctxt":"items","msgid":"Awaken","msgstr":"Probuzení"}
+{"msgctxt":"items","msgid":"Axe of Balthazar","msgstr":"Balthazarova sekyra"}
+{"msgctxt":"items","msgid":"Back Door Key","msgstr":"Klíč od zadních dveří"}
+{"msgctxt":"items","msgid":"Ball of Dunduck","msgstr":"Bochník sýra Dunduck"}
+{"msgctxt":"items","msgid":"Banded Plate","msgstr":"Pásová plátová zbroj"}
+{"msgctxt":"items","msgid":"Barbed Club","msgstr":"Ozubený kyj"}
+{"msgctxt":"items","msgid":"Barbed Trident","msgstr":"Ostnatý trojzubec"}
+{"msgctxt":"items","msgid":"Barrow Key","msgstr":"Klíč od mohyly"}
+{"msgctxt":"items","msgid":"Basic Cryptography","msgstr":"Základy kryptografie"}
+{"msgctxt":"items","msgid":"Bathhouse Key","msgstr":"Klíč od lázní"}
+{"msgctxt":"items","msgid":"Battle Axe","msgstr":"Bitevní sekyra"}
+{"msgctxt":"items","msgid":"Battle Hatchet","msgstr":"Bojová sekyrka"}
+{"msgctxt":"items","msgid":"Battle Helm","msgstr":"Bojová přilba"}
+{"msgctxt":"items","msgid":"Battleaxe","msgstr":"Bojová sekyra"}
+{"msgctxt":"items","msgid":"Beaked Halberd","msgstr":"Halapartna se zobcem"}
+{"msgctxt":"items","msgid":"Bear Statuette","msgstr":"Soška medvěda"}
+{"msgctxt":"items","msgid":"Berserk","msgstr":"Běsnění"}
+{"msgctxt":"items","msgid":"Berserker Belt","msgstr":"Berserkerův opasek"}
+{"msgctxt":"items","msgid":"Bibliotheca Chest Key","msgstr":"Klíč od truhly v Bibliothece"}
+{"msgctxt":"items","msgid":"Big Brass Ring","msgstr":"Velký mosazný prsten"}
+{"msgctxt":"items","msgid":"Big Tapestry","msgstr":"Velká tapisérie"}
+{"msgctxt":"items","msgid":"Bill of Sale","msgstr":"Kupní smlouva"}
+{"msgctxt":"items","msgid":"Blackmail Letter","msgstr":"Vyděračský dopis"}
+{"msgctxt":"items","msgid":"Blade of Mercy","msgstr":"Čepel milosrdenství"}
+{"msgctxt":"items","msgid":"Blaster","msgstr":"Blaster"}
+{"msgctxt":"items","msgid":"Blaster Rifle","msgstr":"Blasterová puška"}
+{"msgctxt":"items","msgid":"Bless","msgstr":"Požehnání"}
+{"msgctxt":"items","msgid":"Blessed Ring","msgstr":"Požehnaný prsten"}
+{"msgctxt":"items","msgid":"Blood Dagger","msgstr":"Krvavá dýka"}
+{"msgctxt":"items","msgid":"Blood Drop Crossbow","msgstr":"Kuše z Krvavé kapky"}
+{"msgctxt":"items","msgid":"Blood Talisman","msgstr":"Talisman krve"}
+{"msgctxt":"items","msgid":"Blue Quartz","msgstr":"Modrý křemen"}
+{"msgctxt":"items","msgid":"Body Resistance","msgstr":"Odolnost vůči Tělu"}
+{"msgctxt":"items","msgid":"Body Resistance Recipe","msgstr":"Recept na Odolnost vůči Tělu"}
+{"msgctxt":"items","msgid":"Bone","msgstr":"Kost"}
+{"msgctxt":"items","msgid":"Bone of Doom","msgstr":"Kost zhouby"}
+{"msgctxt":"items","msgid":"Bone Staff","msgstr":"Kostěná hůl"}
+{"msgctxt":"items","msgid":"Brass Charm","msgstr":"Mosazný talisman"}
+{"msgctxt":"items","msgid":"Brass Ring","msgstr":"Mosazný prsten"}
+{"msgctxt":"items","msgid":"Breaker","msgstr":"Drtič"}
+{"msgctxt":"items","msgid":"Broadsword","msgstr":"Široký meč"}
+{"msgctxt":"items","msgid":"Bronze Amulet","msgstr":"Bronzový amulet"}
+{"msgctxt":"items","msgid":"Bronze Ring","msgstr":"Bronzový prsten"}
+{"msgctxt":"items","msgid":"Bronze Shield","msgstr":"Bronzový štít"}
+{"msgctxt":"items","msgid":"Calvary Shield","msgstr":"Jezdecký štít"}
+{"msgctxt":"items","msgid":"Candelabra","msgstr":"Svícen"}
+{"msgctxt":"items","msgid":"Cannon Design Notes","msgstr":"Poznámky k návrhu děla"}
+{"msgctxt":"items","msgid":"Cannonball of Dominion","msgstr":"Dělová koule nadvlády"}
+{"msgctxt":"items","msgid":"Captain's Code","msgstr":"Kapitánův kodex"}
+{"msgctxt":"items","msgid":"Captain's Cutlass","msgstr":"Kapitánův tesák"}
+{"msgctxt":"items","msgid":"Caravaner's Crossbow","msgstr":"Kuše karavanníka"}
+{"msgctxt":"items","msgid":"Caravaner's Leather","msgstr":"Kožená zbroj karavanníka"}
+{"msgctxt":"items","msgid":"Caravaner's Small Shield","msgstr":"Malý štít karavanáře"}
+{"msgctxt":"items","msgid":"Cardinal Cloak","msgstr":"Kardinálský plášť"}
+{"msgctxt":"items","msgid":"Case of Soul Jars","msgstr":"Schránka s nádobami na duše"}
+{"msgctxt":"items","msgid":"Castle Shield","msgstr":"Hradní štít"}
+{"msgctxt":"items","msgid":"Catalyst","msgstr":"Katalyzátor"}
+{"msgctxt":"items","msgid":"Catherine's Key","msgstr":"Catherinin klíč"}
+{"msgctxt":"items","msgid":"Cavalier Gauntlets","msgstr":"Kavalírské plátové rukavice"}
+{"msgctxt":"items","msgid":"Celestial Shield","msgstr":"Nebeský štít"}
+{"msgctxt":"items","msgid":"Cell Key","msgstr":"Klíč od cely"}
+{"msgctxt":"items","msgid":"Central Pillar Key","msgstr":"Klíč k prostřednímu pilíři"}
+{"msgctxt":"items","msgid":"Certificate of Authentication","msgstr":"Osvědčení o pravosti"}
+{"msgctxt":"items","msgid":"Chain Mail","msgstr":"Kroužková zbroj"}
+{"msgctxt":"items","msgid":"Champion Sword","msgstr":"Šampionův meč"}
+{"msgctxt":"items","msgid":"Champion's Sword","msgstr":"Šampionův meč"}
+{"msgctxt":"items","msgid":"Charele","msgstr":"Charele"}
+{"msgctxt":"items","msgid":"Charged connector stone","msgstr":"Nabitý spojovací kámen"}
+{"msgctxt":"items","msgid":"Chest Key","msgstr":"Klíč od truhly"}
+{"msgctxt":"items","msgid":"Chime of Harmony","msgstr":"Zvonkohra harmonie"}
+{"msgctxt":"items","msgid":"Cipher","msgstr":"Šifra"}
+{"msgctxt":"items","msgid":"Citrine","msgstr":"Citrín"}
+{"msgctxt":"items","msgid":"Clanker's Amulet","msgstr":"Clankerův amulet"}
+{"msgctxt":"items","msgid":"Claw Amulet","msgstr":"Amulet s drápem"}
+{"msgctxt":"items","msgid":"Cloak of Baa","msgstr":"Baaův plášť"}
+{"msgctxt":"items","msgid":"Cloak of the Sheep","msgstr":"Ovčí plášť"}
+{"msgctxt":"items","msgid":"Cloth Hat","msgstr":"Látkový klobouk"}
+{"msgctxt":"items","msgid":"Club","msgstr":"Kyj"}
+{"msgctxt":"items","msgid":"Cobra Egg","msgstr":"Vejce kobry"}
+{"msgctxt":"items","msgid":"Colony Zod Key","msgstr":"Klíč od Kolonie Zod"}
+{"msgctxt":"items","msgid":"Common Halberd","msgstr":"Obyčejná halapartna"}
+{"msgctxt":"items","msgid":"Communication Officer's Code","msgstr":"Kód komunikačního důstojníka"}
+{"msgctxt":"items","msgid":"Composite Bow","msgstr":"Kompozitní luk"}
+{"msgctxt":"items","msgid":"Conan","msgstr":"Conan"}
+{"msgctxt":"items","msgid":"Conflux Key","msgstr":"Klíč od Konfluxu"}
+{"msgctxt":"items","msgid":"Connector stone","msgstr":"Spojovací kámen"}
+{"msgctxt":"items","msgid":"Conscript's Helm","msgstr":"Přilba rekrutky"}
+{"msgctxt":"items","msgid":"Contestant's Shield","msgstr":"Štít soutěžícího"}
+{"msgctxt":"items","msgid":"Control Cube","msgstr":"Ovládací krychle"}
+{"msgctxt":"items","msgid":"Control Undead","msgstr":"Ovládnutí nemrtvých"}
+{"msgctxt":"items","msgid":"Corsair","msgstr":"Korzár"}
+{"msgctxt":"items","msgid":"Crate of Arrowheads","msgstr":"Bedna hrotů šípů"}
+{"msgctxt":"items","msgid":"Crate of Enrothian Wine","msgstr":"Bedna enrothského vína"}
+{"msgctxt":"items","msgid":"Crate of Glass Bottles","msgstr":"Bedna skleněných lahví"}
+{"msgctxt":"items","msgid":"Crate of Griffin Feathers","msgstr":"Bedna gryfího peří"}
+{"msgctxt":"items","msgid":"Crate of Sand","msgstr":"Bedna písku"}
+{"msgctxt":"items","msgid":"Crate of Tularean Wood","msgstr":"Bedna tulareanského dřeva"}
+{"msgctxt":"items","msgid":"Cronos","msgstr":"Kronos"}
+{"msgctxt":"items","msgid":"Crossbow","msgstr":"Kuše"}
+{"msgctxt":"items","msgid":"Crown","msgstr":"Koruna"}
+{"msgctxt":"items","msgid":"Crown of Final Dominion","msgstr":"Koruna naprosté nadvlády"}
+{"msgctxt":"items","msgid":"Crude Axe","msgstr":"Hrubá sekyra"}
+{"msgctxt":"items","msgid":"Crude Bow","msgstr":"Hrubý luk"}
+{"msgctxt":"items","msgid":"Crude Crossbow","msgstr":"Hrubá kuše"}
+{"msgctxt":"items","msgid":"Crude Dagger","msgstr":"Hrubá dýka"}
+{"msgctxt":"items","msgid":"Crude Leather Armor","msgstr":"Hrubá kožená zbroj"}
+{"msgctxt":"items","msgid":"Crude Longbow","msgstr":"Hrubý dlouhý luk"}
+{"msgctxt":"items","msgid":"Crude Longsword","msgstr":"Nekvalitní dlouhý meč"}
+{"msgctxt":"items","msgid":"Crude Mace","msgstr":"Hrubý palcát"}
+{"msgctxt":"items","msgid":"Crude Spear","msgstr":"Hrubé kopí"}
+{"msgctxt":"items","msgid":"Crude Trident","msgstr":"Hrubý trojzubec"}
+{"msgctxt":"items","msgid":"Cruel Spear","msgstr":"Kruté kopí"}
+{"msgctxt":"items","msgid":"Crusader Sword","msgstr":"Křižácký meč"}
+{"msgctxt":"items","msgid":"Crusader's Gauntlets","msgstr":"Křižákovy plátové rukavice"}
+{"msgctxt":"items","msgid":"Crushed Rose Petals","msgstr":"Drcené okvětní plátky růží"}
+{"msgctxt":"items","msgid":"Crystal Dagger","msgstr":"Křišťálová dýka"}
+{"msgctxt":"items","msgid":"Crystal of Terrax","msgstr":"Terraxův krystal"}
+{"msgctxt":"items","msgid":"Crystal Skull","msgstr":"Křišťálová lebka"}
+{"msgctxt":"items","msgid":"Cure Disease","msgstr":"Vyléčení nemoci"}
+{"msgctxt":"items","msgid":"Cure Insanity","msgstr":"Vyléčení šílenství"}
+{"msgctxt":"items","msgid":"Cure Paralysis","msgstr":"Vyléčení ochromení"}
+{"msgctxt":"items","msgid":"Cure Paralysis Recipe","msgstr":"Recept na Vyléčení ochromení"}
+{"msgctxt":"items","msgid":"Cure Poison","msgstr":"Léčení otravy"}
+{"msgctxt":"items","msgid":"Cure Weakness","msgstr":"Vyléčení oslabení"}
+{"msgctxt":"items","msgid":"Cure Wounds","msgstr":"Léčení ran"}
+{"msgctxt":"items","msgid":"Cutlass","msgstr":"Tesák"}
+{"msgctxt":"items","msgid":"Cycle of Life","msgstr":"Koloběh života"}
+{"msgctxt":"items","msgid":"Dadeross' Letter to Fellmoon","msgstr":"Daderossův dopis Fellmoonovi"}
+{"msgctxt":"items","msgid":"Dagger","msgstr":"Dýka"}
+{"msgctxt":"items","msgid":"Dagger Wound Oddities","msgstr":"Zvláštnosti poranění dýkou"}
+{"msgctxt":"items","msgid":"Dark Containment","msgstr":"Temné zadržení"}
+{"msgctxt":"items","msgid":"Dark Elven Bastard Sword","msgstr":"Bastardní meč temných elfů"}
+{"msgctxt":"items","msgid":"Dark Elven Longsword","msgstr":"Temnoelfí dlouhý meč"}
+{"msgctxt":"items","msgid":"Dark Grasp","msgstr":"Temné sevření"}
+{"msgctxt":"items","msgid":"Dark Hammer","msgstr":"Kladivo temnoty"}
+{"msgctxt":"items","msgid":"Dark Knight Plate","msgstr":"Plátová zbroj temného rytíře"}
+{"msgctxt":"items","msgid":"Datura","msgstr":"Durman"}
+{"msgctxt":"items","msgid":"Dazzling Ring","msgstr":"Oslnivý prsten"}
+{"msgctxt":"items","msgid":"Death Head Shield","msgstr":"Štít s lebkou"}
+{"msgctxt":"items","msgid":"Death Mace","msgstr":"Palcát smrti"}
+{"msgctxt":"items","msgid":"Death's Head Pendant","msgstr":"Přívěsek se smrtihlavem"}
+{"msgctxt":"items","msgid":"Deck of Fate","msgstr":"Balíček osudu"}
+{"msgctxt":"items","msgid":"Defender Helm","msgstr":"Přilba obránce"}
+{"msgctxt":"items","msgid":"Detect Life","msgstr":"Odhalení života"}
+{"msgctxt":"items","msgid":"Devil Plans","msgstr":"Plány ďáblů"}
+{"msgctxt":"items","msgid":"Devilbone Bow","msgstr":"Luk z ďáblovy kosti"}
+{"msgctxt":"items","msgid":"Diamond","msgstr":"Diamant"}
+{"msgctxt":"items","msgid":"Diary Page","msgstr":"Stránka deníku"}
+{"msgctxt":"items","msgid":"Dimension door","msgstr":"Dimenzní brána"}
+{"msgctxt":"items","msgid":"Dire Wolf Pelt","msgstr":"Kožešina lítého vlka"}
+{"msgctxt":"items","msgid":"Discharge Papers","msgstr":"Propouštěcí listiny"}
+{"msgctxt":"items","msgid":"Disheveled Chain Mail","msgstr":"Zanedbaná kroužková zbroj"}
+{"msgctxt":"items","msgid":"Divine Boost ","msgstr":"Božské posílení "}
+{"msgctxt":"items","msgid":"Divine Boost recipe","msgstr":"Recept: Božské posílení"}
+{"msgctxt":"items","msgid":"Divine Cure","msgstr":"Božské léčení"}
+{"msgctxt":"items","msgid":"Divine Cure Recipe","msgstr":"Recept na Božské léčení"}
+{"msgctxt":"items","msgid":"Divine Dagger","msgstr":"Božská dýka"}
+{"msgctxt":"items","msgid":"Divine Magic","msgstr":"Božská magie"}
+{"msgctxt":"items","msgid":"Divine Power","msgstr":"Božská moc"}
+{"msgctxt":"items","msgid":"Divine Power Recipe","msgstr":"Recept: Božská moc"}
+{"msgctxt":"items","msgid":"Divine Protection","msgstr":"Božská ochrana"}
+{"msgctxt":"items","msgid":"Divine Protection recipe","msgstr":"Recept na Božskou ochranu"}
+{"msgctxt":"items","msgid":"Divine Restoration","msgstr":"Božská obnova"}
+{"msgctxt":"items","msgid":"Divine Restoration Recipe","msgstr":"Recept na Božskou obnovu"}
+{"msgctxt":"items","msgid":"Divine Transcendence","msgstr":"Božské povznesení"}
+{"msgctxt":"items","msgid":"Divine Transcendence recipe","msgstr":"Recept na Božské povznesení"}
+{"msgctxt":"items","msgid":"Doctor's Code","msgstr":"Doktorův kód"}
+{"msgctxt":"items","msgid":"Doom's Day Cloak","msgstr":"Plášť soudného dne"}
+{"msgctxt":"items","msgid":"Dragon Claw","msgstr":"Dračí dráp"}
+{"msgctxt":"items","msgid":"Dragon Egg","msgstr":"Dračí vejce"}
+{"msgctxt":"items","msgid":"Dragon Harpoon","msgstr":"Dračí harpuna"}
+{"msgctxt":"items","msgid":"Dragon Helm","msgstr":"Dračí přilba"}
+{"msgctxt":"items","msgid":"Dragon Hide Gauntlets","msgstr":"Plátové rukavice z dračí kůže"}
+{"msgctxt":"items","msgid":"Dragon Hunter's Shield","msgstr":"Štít lovce draků"}
+{"msgctxt":"items","msgid":"Dragon Leader's Egg","msgstr":"Vejce dračího vůdce"}
+{"msgctxt":"items","msgid":"Dragon Leather","msgstr":"Dračí kožená zbroj"}
+{"msgctxt":"items","msgid":"Dragon Statuette","msgstr":"Soška draka"}
+{"msgctxt":"items","msgid":"Dragon Tower Keys","msgstr":"Klíče od dračích věží"}
+{"msgctxt":"items","msgid":"Dragon Turtle Fang","msgstr":"Tesák dračí želvy"}
+{"msgctxt":"items","msgid":"Dragon's Eye","msgstr":"Dračí oko"}
+{"msgctxt":"items","msgid":"Dragonbane Flower","msgstr":"Květ dračí zhouby"}
+{"msgctxt":"items","msgid":"Dragoning Plate","msgstr":"Dračí plátová zbroj"}
+{"msgctxt":"items","msgid":"Dragonning Blade","msgstr":"Drakobijecká čepel"}
+{"msgctxt":"items","msgid":"Dragonning Boots","msgstr":"Drakobijecké boty"}
+{"msgctxt":"items","msgid":"Dried Sunfish","msgstr":"Sušená sluneční ryba"}
+{"msgctxt":"items","msgid":"Drogg's Helm","msgstr":"Droggova přilba"}
+{"msgctxt":"items","msgid":"Druid Circlet of Power","msgstr":"Druidská čelenka moci"}
+{"msgctxt":"items","msgid":"Drum of Victory","msgstr":"Buben vítězství"}
+{"msgctxt":"items","msgid":"Dueling Long Dagger","msgstr":"Soubojová dlouhá dýka"}
+{"msgctxt":"items","msgid":"Duelist Blade","msgstr":"Čepel duelanta"}
+{"msgctxt":"items","msgid":"Dwarven Axe","msgstr":"Trpasličí sekyra"}
+{"msgctxt":"items","msgid":"Dwarven Battleaxe","msgstr":"Trpasličí bojová sekyra"}
+{"msgctxt":"items","msgid":"Dwarven Dagger","msgstr":"Trpasličí dýka"}
+{"msgctxt":"items","msgid":"Dwarven Hammer","msgstr":"Trpasličí kladivo"}
+{"msgctxt":"items","msgid":"Dwarven Morningstar","msgstr":"Trpasličí řemdih"}
+{"msgctxt":"items","msgid":"Eagle Statuette","msgstr":"Soška orla"}
+{"msgctxt":"items","msgid":"Earth Resistance","msgstr":"Odolnost proti zemi"}
+{"msgctxt":"items","msgid":"Earth Resistance Recipe","msgstr":"Recept na Odolnost proti zemi"}
+{"msgctxt":"items","msgid":"East Pillar Key","msgstr":"Klíč k východnímu sloupu"}
+{"msgctxt":"items","msgid":"Ebonest","msgstr":"Ebonest"}
+{"msgctxt":"items","msgid":"Eclipse","msgstr":"Zatmění"}
+{"msgctxt":"items","msgid":"Elderaxe","msgstr":"Sekyra starších"}
+{"msgctxt":"items","msgid":"Eldritch Shield","msgstr":"Tajemný štít"}
+{"msgctxt":"items","msgid":"Elegant Cloak","msgstr":"Elegantní plášť"}
+{"msgctxt":"items","msgid":"Elegant Letter","msgstr":"Elegantní dopis"}
+{"msgctxt":"items","msgid":"Elfbane","msgstr":"Zhouba elfů"}
+{"msgctxt":"items","msgid":"Elite Halberd","msgstr":"Elitní halapartna"}
+{"msgctxt":"items","msgid":"Elite Minotaur Axe","msgstr":"Elitní minotauří sekyra"}
+{"msgctxt":"items","msgid":"Elixir","msgstr":"Elixír"}
+{"msgctxt":"items","msgid":"Elsenrail","msgstr":"Elsenrail"}
+{"msgctxt":"items","msgid":"Elven Bow","msgstr":"Elfí luk"}
+{"msgctxt":"items","msgid":"Elven Chainmail","msgstr":"Elfí kroužková zbroj"}
+{"msgctxt":"items","msgid":"Elven Cloak","msgstr":"Elfí plášť"}
+{"msgctxt":"items","msgid":"Elven Long Spear","msgstr":"Elfí dlouhé kopí"}
+{"msgctxt":"items","msgid":"Elven Longbow","msgstr":"Elfí dlouhý luk"}
+{"msgctxt":"items","msgid":"Elven Saber","msgstr":"Elfí šavle"}
+{"msgctxt":"items","msgid":"Elven Spear","msgstr":"Elfí kopí"}
+{"msgctxt":"items","msgid":"Elven Warbow","msgstr":"Elfí válečný luk"}
+{"msgctxt":"items","msgid":"Elvish Toadstool","msgstr":"Elfí muchomůrka"}
+{"msgctxt":"items","msgid":"Emerald","msgstr":"Smaragd"}
+{"msgctxt":"items","msgid":"Emerald Ring","msgstr":"Smaragdový prsten"}
+{"msgctxt":"items","msgid":"Emerald Staff","msgstr":"Smaragdová hůl"}
+{"msgctxt":"items","msgid":"Emperor Thorn's Key","msgstr":"Klíč císaře Thorna"}
+{"msgctxt":"items","msgid":"Empty Message Scroll","msgstr":"Prázdný svitek na zprávu"}
+{"msgctxt":"items","msgid":"Enchanted Amulet","msgstr":"Očarovaný amulet"}
+{"msgctxt":"items","msgid":"Enchanted Leather","msgstr":"Očarovaná kožená zbroj"}
+{"msgctxt":"items","msgid":"Enchanted Ring","msgstr":"Očarovaný prsten"}
+{"msgctxt":"items","msgid":"Endurance Boost","msgstr":"Posílení odolnosti"}
+{"msgctxt":"items","msgid":"Endurance Boost Recipe","msgstr":"Recept na Posílení odolnosti"}
+{"msgctxt":"items","msgid":"Enemies List","msgstr":"Seznam nepřátel"}
+{"msgctxt":"items","msgid":"Energy","msgstr":"Energie"}
+{"msgctxt":"items","msgid":"Engineer's Code","msgstr":"Inženýrův kód"}
+{"msgctxt":"items","msgid":"Enslave","msgstr":"Zotročení"}
+{"msgctxt":"items","msgid":"Erathian Long Dagger","msgstr":"Erathijská dlouhá dýka"}
+{"msgctxt":"items","msgid":"Erudine Chainmail","msgstr":"Erudinová kroužková zbroj"}
+{"msgctxt":"items","msgid":"Erudine-laced ore","msgstr":"Ruda s příměsí erudinu"}
+{"msgctxt":"items","msgid":"Essence of Accuracy","msgstr":"Esence přesnosti"}
+{"msgctxt":"items","msgid":"Essence of Accuracy recipe","msgstr":"Recept na Esenci přesnosti"}
+{"msgctxt":"items","msgid":"Essence of Endurance","msgstr":"Esence odolnosti"}
+{"msgctxt":"items","msgid":"Essence of Endurance recipe","msgstr":"Recept na Esenci odolnosti"}
+{"msgctxt":"items","msgid":"Essence of Intellect","msgstr":"Esence inteligence"}
+{"msgctxt":"items","msgid":"Essence of Intellect recipe","msgstr":"Recept na Esenci inteligence"}
+{"msgctxt":"items","msgid":"Essence of Luck","msgstr":"Esence štěstí"}
+{"msgctxt":"items","msgid":"Essence of Luck recipe","msgstr":"Recept na Esenci štěstí"}
+{"msgctxt":"items","msgid":"Essence of Might","msgstr":"Esence Síly"}
+{"msgctxt":"items","msgid":"Essence of Might recipe","msgstr":"Recept na Esenci Síly"}
+{"msgctxt":"items","msgid":"Essence of Personality","msgstr":"Esence osobnosti"}
+{"msgctxt":"items","msgid":"Essence of Personality recipe","msgstr":"Recept na Esenci osobnosti"}
+{"msgctxt":"items","msgid":"Essence of Speed","msgstr":"Esence Rychlosti"}
+{"msgctxt":"items","msgid":"Essence of Speed recipe","msgstr":"Recept na Esenci Rychlosti"}
+{"msgctxt":"items","msgid":"Ethereal Ring","msgstr":"Éterický prsten"}
+{"msgctxt":"items","msgid":"Ethric's Skull","msgstr":"Ethricova lebka"}
+{"msgctxt":"items","msgid":"Ethric's Staff","msgstr":"Ethricova hůl"}
+{"msgctxt":"items","msgid":"Excalibur","msgstr":"Excalibur"}
+{"msgctxt":"items","msgid":"Excerpt from a Diary","msgstr":"Úryvek z deníku"}
+{"msgctxt":"items","msgid":"Exquisite Long Dagger","msgstr":"Znamenitá dlouhá dýka"}
+{"msgctxt":"items","msgid":"Exquisite Ring","msgstr":"Skvostný prsten"}
+{"msgctxt":"items","msgid":"Extreme Energy","msgstr":"Extrémní energie"}
+{"msgctxt":"items","msgid":"Eyeball Amulet","msgstr":"Amulet s oční bulvou"}
+{"msgctxt":"items","msgid":"Fae Dust","msgstr":"Vílí prach"}
+{"msgctxt":"items","msgid":"Faerie Key","msgstr":"Vílí klíč"}
+{"msgctxt":"items","msgid":"Faerie Pipes","msgstr":"Vílí píšťaly"}
+{"msgctxt":"items","msgid":"Faerie Ring","msgstr":"Vílí prsten"}
+{"msgctxt":"items","msgid":"Fairy Wand of Fire","msgstr":"Vílí hůlka ohně"}
+{"msgctxt":"items","msgid":"Fairy Wand of Harm","msgstr":"Vílí hůlka zranění"}
+{"msgctxt":"items","msgid":"Fairy Wand of Ice","msgstr":"Vílí hůlka ledu"}
+{"msgctxt":"items","msgid":"Fairy Wand of Lashing","msgstr":"Vílí hůlka šlehání"}
+{"msgctxt":"items","msgid":"Fairy Wand of Light","msgstr":"Vílí hůlka světla"}
+{"msgctxt":"items","msgid":"Fairy Wand of Mind","msgstr":"Vílí hůlka mysli"}
+{"msgctxt":"items","msgid":"Fairy Wand of Poison","msgstr":"Vílí hůlka jedu"}
+{"msgctxt":"items","msgid":"Fairy Wand of Sparks","msgstr":"Vílí hůlka jisker"}
+{"msgctxt":"items","msgid":"Fairy Wand of Swarms","msgstr":"Vílí hůlka rojů"}
+{"msgctxt":"items","msgid":"False Report","msgstr":"Falešná zpráva"}
+{"msgctxt":"items","msgid":"False Riverstride Plans","msgstr":"Falešné plány Riverstridu"}
+{"msgctxt":"items","msgid":"Fancy Hat","msgstr":"Zdobený klobouk"}
+{"msgctxt":"items","msgid":"Fanged Blade","msgstr":"Zubaté ostří"}
+{"msgctxt":"items","msgid":"Fate","msgstr":"Osud"}
+{"msgctxt":"items","msgid":"Festival Hat","msgstr":"Slavnostní klobouk"}
+{"msgctxt":"items","msgid":"Field Hammer","msgstr":"Polní kladivo"}
+{"msgctxt":"items","msgid":"Finality","msgstr":"Konec"}
+{"msgctxt":"items","msgid":"Fine Belt","msgstr":"Kvalitní opasek"}
+{"msgctxt":"items","msgid":"Fine Chain Mail","msgstr":"Kvalitní kroužková zbroj"}
+{"msgctxt":"items","msgid":"Fine Ring","msgstr":"Kvalitní prsten"}
+{"msgctxt":"items","msgid":"Fire Amulet","msgstr":"Amulet ohně"}
+{"msgctxt":"items","msgid":"Fire Aura","msgstr":"Ohnivá aura"}
+{"msgctxt":"items","msgid":"Fire Resistance","msgstr":"Odolnost vůči Ohni"}
+{"msgctxt":"items","msgid":"Fire Resistance Recipe","msgstr":"Recept na Odolnost vůči Ohni"}
+{"msgctxt":"items","msgid":"Fire Spike","msgstr":"Ohnivý hrot"}
+{"msgctxt":"items","msgid":"First Mate's Code","msgstr":"Kód prvního důstojníka"}
+{"msgctxt":"items","msgid":"Flail","msgstr":"Řemdih"}
+{"msgctxt":"items","msgid":"Flame Door Key","msgstr":"Klíč od ohnivých dveří"}
+{"msgctxt":"items","msgid":"Flaming Potion","msgstr":"Ohnivý lektvar"}
+{"msgctxt":"items","msgid":"Flaming Potion Recipe","msgstr":"Recept na Ohnivý lektvar"}
+{"msgctxt":"items","msgid":"Flawed Amulets","msgstr":"Vadné amulety"}
+{"msgctxt":"items","msgid":"Fleetfingers","msgstr":"Rukavice hbitých prstů"}
+{"msgctxt":"items","msgid":"Floor Tile (w/ moon insignia)","msgstr":"Podlahová dlaždice (se znakem měsíce)"}
+{"msgctxt":"items","msgid":"Flower (Rose)","msgstr":"Květina (růže)"}
+{"msgctxt":"items","msgid":"Flute","msgstr":"Flétna"}
+{"msgctxt":"items","msgid":"Focal Ring","msgstr":"Prsten soustředění"}
+{"msgctxt":"items","msgid":"Footman's Axe","msgstr":"Pěchotní sekyra"}
+{"msgctxt":"items","msgid":"Forge Gauntlets","msgstr":"Kovářské plátové rukavice"}
+{"msgctxt":"items","msgid":"Forged Vouchers","msgstr":"Padělané poukázky"}
+{"msgctxt":"items","msgid":"Foulfang","msgstr":"Ohavný tesák"}
+{"msgctxt":"items","msgid":"Four Leaf Clover","msgstr":"Čtyřlístek"}
+{"msgctxt":"items","msgid":"Fragment of Soldier's Diary","msgstr":"Útržek vojákova deníku"}
+{"msgctxt":"items","msgid":"Freezing Potion","msgstr":"Mrazivý lektvar"}
+{"msgctxt":"items","msgid":"Freezing Potion Recipe","msgstr":"Recept na Mrazivý lektvar"}
+{"msgctxt":"items","msgid":"Full Helm","msgstr":"Uzavřená přilba"}
+{"msgctxt":"items","msgid":"Galahad","msgstr":"Galahad"}
+{"msgctxt":"items","msgid":"Garnet","msgstr":"Granát"}
+{"msgctxt":"items","msgid":"Gauntlets","msgstr":"Plátové rukavice"}
+{"msgctxt":"items","msgid":"Gem of Restoration","msgstr":"Drahokam obnovy"}
+{"msgctxt":"items","msgid":"Gemstone Ring","msgstr":"Prsten s drahokamem"}
+{"msgctxt":"items","msgid":"Genie Lamp","msgstr":"Džinova lampa"}
+{"msgctxt":"items","msgid":"Ghost Ring","msgstr":"Prsten ducha"}
+{"msgctxt":"items","msgid":"Ghoulsbane","msgstr":"Zhouba ghúlů"}
+{"msgctxt":"items","msgid":"Gibbet","msgstr":"Šibenice"}
+{"msgctxt":"items","msgid":"Gilded Belt","msgstr":"Pozlacený opasek"}
+{"msgctxt":"items","msgid":"Glomenmail","msgstr":"Glomenmail"}
+{"msgctxt":"items","msgid":"Glomenthal","msgstr":"Glomenthal"}
+{"msgctxt":"items","msgid":"Glorious Cloak","msgstr":"Slavný plášť"}
+{"msgctxt":"items","msgid":"Glory Shield","msgstr":"Štít slávy"}
+{"msgctxt":"items","msgid":"Goblin Cutlass","msgstr":"Gobliní tesák"}
+{"msgctxt":"items","msgid":"Goblin Scimitar","msgstr":"Gobliní šavle"}
+{"msgctxt":"items","msgid":"Goblin Shield","msgstr":"Gobliní štít"}
+{"msgctxt":"items","msgid":"Goblinwatch Code","msgstr":"Kód Gobliní hlásky"}
+{"msgctxt":"items","msgid":"Gold","msgstr":"Zlato"}
+{"msgctxt":"items","msgid":"Gold Ring","msgstr":"Zlatý prsten"}
+{"msgctxt":"items","msgid":"Golden Chain Mail","msgstr":"Zlatá kroužková zbroj"}
+{"msgctxt":"items","msgid":"Golden Plate Armor","msgstr":"Zlatá plátová zbroj"}
+{"msgctxt":"items","msgid":"Golden Pyramid","msgstr":"Zlatá pyramida"}
+{"msgctxt":"items","msgid":"Golem chest","msgstr":"Golemova hruď"}
+{"msgctxt":"items","msgid":"Golem head","msgstr":"Golemova hlava"}
+{"msgctxt":"items","msgid":"Golem left arm","msgstr":"Golemova levá paže"}
+{"msgctxt":"items","msgid":"Golem left leg","msgstr":"Golemova levá noha"}
+{"msgctxt":"items","msgid":"Golem right arm","msgstr":"Golemova pravá ruka"}
+{"msgctxt":"items","msgid":"Golem right leg","msgstr":"Golemova pravá noha"}
+{"msgctxt":"items","msgid":"Gothic Amulet","msgstr":"Gotický amulet"}
+{"msgctxt":"items","msgid":"Governor's Armor","msgstr":"Guvernérova zbroj"}
+{"msgctxt":"items","msgid":"Graceful Sword","msgstr":"Ladný meč"}
+{"msgctxt":"items","msgid":"Grand Poleax","msgstr":"Mocná halapartna"}
+{"msgctxt":"items","msgid":"Grand Poleaxe","msgstr":"Mocná halapartna"}
+{"msgctxt":"items","msgid":"Great Sword","msgstr":"Obouruční meč"}
+{"msgctxt":"items","msgid":"Green Apple","msgstr":"Zelené jablko"}
+{"msgctxt":"items","msgid":"Green Garnet","msgstr":"Zelený granát"}
+{"msgctxt":"items","msgid":"Griffin Bow","msgstr":"Gryfí luk"}
+{"msgctxt":"items","msgid":"Grognard's Cutlass","msgstr":"Grognardův tesák"}
+{"msgctxt":"items","msgid":"Ground Wyvern Horn","msgstr":"Rozemletý roh wyverny"}
+{"msgctxt":"items","msgid":"Gryphonheart's Trumpet","msgstr":"Gryphonheartova trubka"}
+{"msgctxt":"items","msgid":"Guardian","msgstr":"Strážce"}
+{"msgctxt":"items","msgid":"Guardian Helm","msgstr":"Přilba strážce"}
+{"msgctxt":"items","msgid":"Guild Key","msgstr":"Klíč od cechu"}
+{"msgctxt":"items","msgid":"Guinevere","msgstr":"Ginevra"}
+{"msgctxt":"items","msgid":"Hades","msgstr":"Hádes"}
+{"msgctxt":"items","msgid":"Halberd","msgstr":"Halapartna"}
+{"msgctxt":"items","msgid":"Haldar's Remains","msgstr":"Haldarovy ostatky"}
+{"msgctxt":"items","msgid":"Hammer","msgstr":"Kladivo"}
+{"msgctxt":"items","msgid":"Hammerhands","msgstr":"Kladivové pěsti"}
+{"msgctxt":"items","msgid":"Hand Axe","msgstr":"Ruční sekyra"}
+{"msgctxt":"items","msgid":"Hands of the Master","msgstr":"Mistrovy ruce"}
+{"msgctxt":"items","msgid":"Harden Item","msgstr":"Zpevnění předmětu"}
+{"msgctxt":"items","msgid":"Hardened Leather Boots","msgstr":"Tvrzené kožené boty"}
+{"msgctxt":"items","msgid":"Hardened Leather Vest","msgstr":"Vesta z tvrzené kůže"}
+{"msgctxt":"items","msgid":"Hareck's Leather","msgstr":"Hareckova kožená zbroj"}
+{"msgctxt":"items","msgid":"Harp","msgstr":"Harfa"}
+{"msgctxt":"items","msgid":"Harpy Feather","msgstr":"Pero harpyje"}
+{"msgctxt":"items","msgid":"Haste","msgstr":"Zrychlení"}
+{"msgctxt":"items","msgid":"Havoc","msgstr":"Zkáza"}
+{"msgctxt":"items","msgid":"Hayfork","msgstr":"Vidle"}
+{"msgctxt":"items","msgid":"Headsman's Poleaxe","msgstr":"Katova halapartna"}
+{"msgctxt":"items","msgid":"Headsman's Reaver","msgstr":"Katův sekáč"}
+{"msgctxt":"items","msgid":"Heal","msgstr":"Léčení"}
+{"msgctxt":"items","msgid":"Heart of Air","msgstr":"Srdce vzduchu"}
+{"msgctxt":"items","msgid":"Heart of Earth","msgstr":"Srdce země"}
+{"msgctxt":"items","msgid":"Heart of Fire","msgstr":"Srdce ohně"}
+{"msgctxt":"items","msgid":"Heart of the Wood","msgstr":"Srdce lesa"}
+{"msgctxt":"items","msgid":"Heart of Water","msgstr":"Srdce vody"}
+{"msgctxt":"items","msgid":"Heartwood of Jadame","msgstr":"Jádrové dřevo z Jadame"}
+{"msgctxt":"items","msgid":"Heavy Crossbow","msgstr":"Těžká kuše"}
+{"msgctxt":"items","msgid":"Heavy Poleax","msgstr":"Těžká halapartna"}
+{"msgctxt":"items","msgid":"Heavy Poleaxe","msgstr":"Těžká halapartna"}
+{"msgctxt":"items","msgid":"Hell's Cleaver","msgstr":"Pekelný sekáč"}
+{"msgctxt":"items","msgid":"Helm","msgstr":"Přilba"}
+{"msgctxt":"items","msgid":"Hera","msgstr":"Hera"}
+{"msgctxt":"items","msgid":"Herald's Boots","msgstr":"Heroldovy boty"}
+{"msgctxt":"items","msgid":"Hercules","msgstr":"Herkules"}
+{"msgctxt":"items","msgid":"Hermes","msgstr":"Hermés"}
+{"msgctxt":"items","msgid":"Hermes' Sandals","msgstr":"Hermovy sandály"}
+{"msgctxt":"items","msgid":"Hero's Belt","msgstr":"Hrdinův opasek"}
+{"msgctxt":"items","msgid":"Heroic Sword","msgstr":"Hrdinský meč"}
+{"msgctxt":"items","msgid":"Heroism","msgstr":"Hrdinství"}
+{"msgctxt":"items","msgid":"Herondale's Lost Shield","msgstr":"Herondaleův ztracený štít"}
+{"msgctxt":"items","msgid":"High Cleric's Key","msgstr":"Klíč nejvyššího klerika"}
+{"msgctxt":"items","msgid":"High Sorcerer's Key","msgstr":"Klíč nejvyššího kouzelníka"}
+{"msgctxt":"items","msgid":"History of the Vault of Time","msgstr":"Historie Trezoru času"}
+{"msgctxt":"items","msgid":"Hive Sanctum Key","msgstr":"Klíč od svatyně Úlu"}
+{"msgctxt":"items","msgid":"Holy Hammer","msgstr":"Svaté kladivo"}
+{"msgctxt":"items","msgid":"Horn of Ros","msgstr":"Rosův roh"}
+{"msgctxt":"items","msgid":"Horned Helm","msgstr":"Rohatá přilba"}
+{"msgctxt":"items","msgid":"Horseman's Shield","msgstr":"Jezdcův štít"}
+{"msgctxt":"items","msgid":"Horseshoe","msgstr":"Podkova"}
+{"msgctxt":"items","msgid":"Hourglass of Time","msgstr":"Přesýpací hodiny času"}
+{"msgctxt":"items","msgid":"Hunting Bow","msgstr":"Lovecký luk"}
+{"msgctxt":"items","msgid":"Hunting Crossbow","msgstr":"Lovecká kuše"}
+{"msgctxt":"items","msgid":"Huntsman's Cloak","msgstr":"Lovcův plášť"}
+{"msgctxt":"items","msgid":"Ideal Crossbow","msgstr":"Ideální kuše"}
+{"msgctxt":"items","msgid":"Idol of the Snake","msgstr":"Hadí idol"}
+{"msgctxt":"items","msgid":"Igraine","msgstr":"Igraine"}
+{"msgctxt":"items","msgid":"Immolation","msgstr":"Spalující aura"}
+{"msgctxt":"items","msgid":"Imperial Leather","msgstr":"Císařská kožená zbroj"}
+{"msgctxt":"items","msgid":"Improvised Voulge","msgstr":"Provizorní halapartna"}
+{"msgctxt":"items","msgid":"Infantry Fork","msgstr":"Pěchotní vidle"}
+{"msgctxt":"items","msgid":"Infused Metal Rod","msgstr":"Prosycená kovová tyč"}
+{"msgctxt":"items","msgid":"Intellect Boost","msgstr":"Posílení inteligence"}
+{"msgctxt":"items","msgid":"Intellect Boost Recipe","msgstr":"Recept na Posílení inteligence"}
+{"msgctxt":"items","msgid":"Invisibility","msgstr":"Neviditelnost"}
+{"msgctxt":"items","msgid":"Iolite","msgstr":"Iolit"}
+{"msgctxt":"items","msgid":"Iron Broadsword","msgstr":"Železný široký meč"}
+{"msgctxt":"items","msgid":"Iron Core Staff","msgstr":"Hůl se železným jádrem"}
+{"msgctxt":"items","msgid":"Iron Feather","msgstr":"Železné pírko"}
+{"msgctxt":"items","msgid":"Iron-laced ore","msgstr":"Ruda s příměsí železa"}
+{"msgctxt":"items","msgid":"Jade Amulet","msgstr":"Nefritový amulet"}
+{"msgctxt":"items","msgid":"Jeweled Dagger","msgstr":"Dýka zdobená drahokamy"}
+{"msgctxt":"items","msgid":"Jeweled Egg","msgstr":"Vejce posázené drahokamy"}
+{"msgctxt":"items","msgid":"Journal Entry","msgstr":"Zápis v deníku"}
+{"msgctxt":"items","msgid":"Journal Entry, 11th December","msgstr":"Zápis v deníku, 11. prosince"}
+{"msgctxt":"items","msgid":"Journal Entry, 19th September","msgstr":"Zápis v deníku, 19. září"}
+{"msgctxt":"items","msgid":"Journal Entry, 23rd April","msgstr":"Zápis v deníku, 23. dubna"}
+{"msgctxt":"items","msgid":"Journal Entry, 2nd January","msgstr":"Zápis v deníku, 2. ledna"}
+{"msgctxt":"items","msgid":"Journal Entry, 30th June","msgstr":"Zápis v deníku, 30. června"}
+{"msgctxt":"items","msgid":"Journal Excerpt","msgstr":"Úryvek z deníku"}
+{"msgctxt":"items","msgid":"Journal Fragment","msgstr":"Útržek deníku"}
+{"msgctxt":"items","msgid":"Journal Scrap","msgstr":"Útržek z deníku"}
+{"msgctxt":"items","msgid":"Journey Staff","msgstr":"Poutnická hůl"}
+{"msgctxt":"items","msgid":"Judicious Measure","msgstr":"Spravedlivá míra"}
+{"msgctxt":"items","msgid":"Justice","msgstr":"Spravedlnost"}
+{"msgctxt":"items","msgid":"Keen Longsword","msgstr":"Ostrý dlouhý meč"}
+{"msgctxt":"items","msgid":"Keg of Wine","msgstr":"Soudek vína"}
+{"msgctxt":"items","msgid":"Kelebrim","msgstr":"Kelebrim"}
+{"msgctxt":"items","msgid":"Kergar-laced ore","msgstr":"Ruda s příměsí kergaru"}
+{"msgctxt":"items","msgid":"Key","msgstr":"Klíč"}
+{"msgctxt":"items","msgid":"Key to Gharik's Laboratory","msgstr":"Klíč od Gharikovy laboratoře"}
+{"msgctxt":"items","msgid":"Key to Goblinwatch","msgstr":"Klíč od Gobliní hlásky"}
+{"msgctxt":"items","msgid":"Key to Snergle's Chambers","msgstr":"Klíč od Snergleových komnat"}
+{"msgctxt":"items","msgid":"Killer Club","msgstr":"Zabijácký kyj"}
+{"msgctxt":"items","msgid":"Kite Shield","msgstr":"Mandlový štít"}
+{"msgctxt":"items","msgid":"Knight Gauntlets","msgstr":"Rytířské plátové rukavice"}
+{"msgctxt":"items","msgid":"Knight Statuette","msgstr":"Soška rytíře"}
+{"msgctxt":"items","msgid":"Knight's Boots","msgstr":"Rytířovy boty"}
+{"msgctxt":"items","msgid":"Knightly Broadsword","msgstr":"Rytířský široký meč"}
+{"msgctxt":"items","msgid":"Labyrinth Grapple","msgstr":"Labyrintový drapák"}
+{"msgctxt":"items","msgid":"Lady Carmine's Dagger","msgstr":"Dýka lady Carmine"}
+{"msgctxt":"items","msgid":"Lady's Escort","msgstr":"Dámin doprovod"}
+{"msgctxt":"items","msgid":"Lantern of Light","msgstr":"Lucerna Světla"}
+{"msgctxt":"items","msgid":"Large Round Crystal","msgstr":"Velký kulatý krystal"}
+{"msgctxt":"items","msgid":"Last Stage Cuirass","msgstr":"Kyrys posledního stadia"}
+{"msgctxt":"items","msgid":"Leather Armor","msgstr":"Kožená zbroj"}
+{"msgctxt":"items","msgid":"Leather Belt","msgstr":"Kožený opasek"}
+{"msgctxt":"items","msgid":"Leather Boots","msgstr":"Kožené boty"}
+{"msgctxt":"items","msgid":"Leather Cloak","msgstr":"Kožený plášť"}
+{"msgctxt":"items","msgid":"Leather Gloves","msgstr":"Kožené rukavice"}
+{"msgctxt":"items","msgid":"Leather Jerkin","msgstr":"Kožený kabátec"}
+{"msgctxt":"items","msgid":"Leather Pouch","msgstr":"Kožený měšec"}
+{"msgctxt":"items","msgid":"Letter","msgstr":"Dopis"}
+{"msgctxt":"items","msgid":"Letter from Archibald","msgstr":"Dopis od Archibalda"}
+{"msgctxt":"items","msgid":"Letter from Cedric Druthers","msgstr":"Dopis od Cedrica Drutherse"}
+{"msgctxt":"items","msgid":"Letter from Gavin Magnus","msgstr":"Dopis od Gavina Magnuse"}
+{"msgctxt":"items","msgid":"Letter from Johann Kerrid to the Faerie King","msgstr":"Dopis Johanna Kerrida králi víl"}
+{"msgctxt":"items","msgid":"Letter from Malwick","msgstr":"Dopis od Malwicka"}
+{"msgctxt":"items","msgid":"Letter from Mr. Stantley","msgstr":"Dopis od pana Stantleyho"}
+{"msgctxt":"items","msgid":"Letter from Norbert Thrush to Lord Markham","msgstr":"Dopis Norberta Thrushe lordu Markhamovi"}
+{"msgctxt":"items","msgid":"Letter from the Dragon Riders","msgstr":"Dopis od Dračích jezdců"}
+{"msgctxt":"items","msgid":"Letter from the Prince of Thieves","msgstr":"Dopis od prince zlodějů"}
+{"msgctxt":"items","msgid":"Letter from the Temple of Baa","msgstr":"Dopis z Chrámu Baa"}
+{"msgctxt":"items","msgid":"Letter from Xenofex","msgstr":"Dopis od Xenofexe"}
+{"msgctxt":"items","msgid":"Letter from Zenofex","msgstr":"Dopis od Zenofexe"}
+{"msgctxt":"items","msgid":"Letter to Agar","msgstr":"Dopis Agarovi"}
+{"msgctxt":"items","msgid":"Letter to Arion Hunter","msgstr":"Dopis Arionu Hunterovi"}
+{"msgctxt":"items","msgid":"Letter to Gharik","msgstr":"Dopis Gharikovi"}
+{"msgctxt":"items","msgid":"Letter to Hairbaugh","msgstr":"Dopis Hairbaughovi"}
+{"msgctxt":"items","msgid":"Letter to Marcus","msgstr":"Dopis Marcusovi"}
+{"msgctxt":"items","msgid":"Letter to Snergle","msgstr":"Dopis Snerglovi"}
+{"msgctxt":"items","msgid":"Letter to Terrax","msgstr":"Dopis Terraxovi"}
+{"msgctxt":"items","msgid":"Letter to the Prince of Thieves","msgstr":"Dopis princi zlodějů"}
+{"msgctxt":"items","msgid":"Lich Jar","msgstr":"Lichova nádoba"}
+{"msgctxt":"items","msgid":"Lieutenant's Cutlass","msgstr":"Poručíkův tesák"}
+{"msgctxt":"items","msgid":"Light Bolt","msgstr":"Světelná střela"}
+{"msgctxt":"items","msgid":"Light Crossbow","msgstr":"Lehká kuše"}
+{"msgctxt":"items","msgid":"Light Poleaxe","msgstr":"Lehká halapartna"}
+{"msgctxt":"items","msgid":"Lightning Crossbow","msgstr":"Blesková kuše"}
+{"msgctxt":"items","msgid":"Lionheart Sword","msgstr":"Meč Lví srdce"}
+{"msgctxt":"items","msgid":"Lizardman Broadsword","msgstr":"Ještěrácký široký meč"}
+{"msgctxt":"items","msgid":"Lizardman Helm","msgstr":"Ještěrácká přilba"}
+{"msgctxt":"items","msgid":"Lizardman Trident","msgstr":"Ještěří trojzubec"}
+{"msgctxt":"items","msgid":"Lock Pick","msgstr":"Šperhák"}
+{"msgctxt":"items","msgid":"Locus Amulet","msgstr":"Ohniskový amulet"}
+{"msgctxt":"items","msgid":"Lodestone","msgstr":"Magnetovec"}
+{"msgctxt":"items","msgid":"Log of Eldenbrie","msgstr":"Špalek sýra Eldenbrie"}
+{"msgctxt":"items","msgid":"Long Dagger","msgstr":"Dlouhá dýka"}
+{"msgctxt":"items","msgid":"Longbow","msgstr":"Dlouhý luk"}
+{"msgctxt":"items","msgid":"Longseeker","msgstr":"Hledač dálek"}
+{"msgctxt":"items","msgid":"Longsword","msgstr":"Dlouhý meč"}
+{"msgctxt":"items","msgid":"Loose Page","msgstr":"Volný list"}
+{"msgctxt":"items","msgid":"Lord Kilburn's Shield","msgstr":"Štít lorda Kilburna"}
+{"msgctxt":"items","msgid":"Lost Book of Kehl","msgstr":"Ztracená kniha Kehla"}
+{"msgctxt":"items","msgid":"Lucius","msgstr":"Lucius"}
+{"msgctxt":"items","msgid":"Luck Boost","msgstr":"Zvýšení štěstí"}
+{"msgctxt":"items","msgid":"Luck Boost Recipe","msgstr":"Recept na zvýšení štěstí"}
+{"msgctxt":"items","msgid":"Lucky Hat","msgstr":"Klobouk štěstí"}
+{"msgctxt":"items","msgid":"Lunar Ring","msgstr":"Měsíční prsten"}
+{"msgctxt":"items","msgid":"Lute","msgstr":"Loutna"}
+{"msgctxt":"items","msgid":"Mace","msgstr":"Palcát"}
+{"msgctxt":"items","msgid":"Mace of the Sun","msgstr":"Palcát slunce"}
+{"msgctxt":"items","msgid":"Mage Dagger","msgstr":"Mágova dýka"}
+{"msgctxt":"items","msgid":"Magic Bow","msgstr":"Kouzelný luk"}
+{"msgctxt":"items","msgid":"Magic Horseshoe","msgstr":"Magická podkova"}
+{"msgctxt":"items","msgid":"Magic Lamp","msgstr":"Magická lampa"}
+{"msgctxt":"items","msgid":"Magic Potion","msgstr":"Kouzelný lektvar"}
+{"msgctxt":"items","msgid":"Magical Ritual Notes","msgstr":"Poznámky k magickému rituálu"}
+{"msgctxt":"items","msgid":"Majestic Chain Mail","msgstr":"Majestátní kroužková zbroj"}
+{"msgctxt":"items","msgid":"Majestic Shield","msgstr":"Majestátní štít"}
+{"msgctxt":"items","msgid":"Map","msgstr":"Mapa"}
+{"msgctxt":"items","msgid":"Map to Evenmorn Island","msgstr":"Mapa cesty na Ostrov Evenmorn"}
+{"msgctxt":"items","msgid":"Mash","msgstr":"Drtič"}
+{"msgctxt":"items","msgid":"Massive Halberd","msgstr":"Masivní halapartna"}
+{"msgctxt":"items","msgid":"Massive Hammer","msgstr":"Mohutné kladivo"}
+{"msgctxt":"items","msgid":"Master Cutlass","msgstr":"Mistrovský tesák"}
+{"msgctxt":"items","msgid":"Master's Dagger","msgstr":"Mistrova dýka"}
+{"msgctxt":"items","msgid":"Medusa's Mirror","msgstr":"Zrcadlo Medúzy"}
+{"msgctxt":"items","msgid":"Mekorig's Hammer","msgstr":"Mekorigovo kladivo"}
+{"msgctxt":"items","msgid":"Memory Crystal Alpha","msgstr":"Paměťový krystal Alfa"}
+{"msgctxt":"items","msgid":"Memory Crystal Beta","msgstr":"Paměťový krystal Beta"}
+{"msgctxt":"items","msgid":"Memory Crystal Delta","msgstr":"Paměťový krystal Delta"}
+{"msgctxt":"items","msgid":"Memory Crystal Epsilon","msgstr":"Paměťový krystal Epsilon"}
+{"msgctxt":"items","msgid":"Mercenary Belt","msgstr":"Žoldákův opasek"}
+{"msgctxt":"items","msgid":"Merchantman's Dagger","msgstr":"Obchodníkova dýka"}
+{"msgctxt":"items","msgid":"Merchantman's Hat","msgstr":"Obchodníkův klobouk"}
+{"msgctxt":"items","msgid":"Mercury","msgstr":"Rtuť"}
+{"msgctxt":"items","msgid":"Merlin","msgstr":"Merlin"}
+{"msgctxt":"items","msgid":"Message from Erathia","msgstr":"Zpráva z Erathie"}
+{"msgctxt":"items","msgid":"Message from Mr. Stantley","msgstr":"Zpráva od pana Stantleyho"}
+{"msgctxt":"items","msgid":"Metal Shield","msgstr":"Kovový štít"}
+{"msgctxt":"items","msgid":"Meteor Fragment","msgstr":"Úlomek meteoritu"}
+{"msgctxt":"items","msgid":"Meteorite Fragment","msgstr":"Úlomek meteoritu"}
+{"msgctxt":"items","msgid":"Might Boost","msgstr":"Posílení síly"}
+{"msgctxt":"items","msgid":"Might Boost Recipe","msgstr":"Recept na Posílení síly"}
+{"msgctxt":"items","msgid":"Mighty Broadsword","msgstr":"Mocný široký meč"}
+{"msgctxt":"items","msgid":"Mighty Halberd","msgstr":"Mocná halapartna"}
+{"msgctxt":"items","msgid":"Mind Resistance","msgstr":"Odolnost vůči Mysli"}
+{"msgctxt":"items","msgid":"Mind Resistance Recipe","msgstr":"Recept na Odolnost vůči Mysli"}
+{"msgctxt":"items","msgid":"Mind's Eye","msgstr":"Oko mysli"}
+{"msgctxt":"items","msgid":"Minotaur Axe","msgstr":"Minotauří sekyra"}
+{"msgctxt":"items","msgid":"Minotaur Battleaxe","msgstr":"Minotauří bojová sekyra"}
+{"msgctxt":"items","msgid":"Minotaur Battlesword","msgstr":"Minotauří bojový meč"}
+{"msgctxt":"items","msgid":"Minotaur Campaign Pole-axe","msgstr":"Halapartna z minotauřího tažení"}
+{"msgctxt":"items","msgid":"Minotaur Chainmail","msgstr":"Minotauří kroužková zbroj"}
+{"msgctxt":"items","msgid":"Minotaur Gauntlets","msgstr":"Minotauří plátové rukavice"}
+{"msgctxt":"items","msgid":"Minotaur Herdsman Axe","msgstr":"Sekyra minotauřího pastevce"}
+{"msgctxt":"items","msgid":"Minotaur Plate","msgstr":"Minotauří plátová zbroj"}
+{"msgctxt":"items","msgid":"Minotaur War Axe","msgstr":"Minotauří válečná sekyra"}
+{"msgctxt":"items","msgid":"Minotaur's Axe","msgstr":"Minotaurova sekyra"}
+{"msgctxt":"items","msgid":"Missive from the Archbishop","msgstr":"List od arcibiskupa"}
+{"msgctxt":"items","msgid":"Mogred Gauntlets","msgstr":"Mogredské plátové rukavice"}
+{"msgctxt":"items","msgid":"Mogred Helm","msgstr":"Mogredská přilba"}
+{"msgctxt":"items","msgid":"Moon Cloak","msgstr":"Měsíční plášť"}
+{"msgctxt":"items","msgid":"Moon Temple Cloak","msgstr":"Plášť Chrámu Měsíce"}
+{"msgctxt":"items","msgid":"Moonstone","msgstr":"Měsíční kámen"}
+{"msgctxt":"items","msgid":"Mordred","msgstr":"Mordred"}
+{"msgctxt":"items","msgid":"Morgan","msgstr":"Morgana"}
+{"msgctxt":"items","msgid":"Mushroom","msgstr":"Houba"}
+{"msgctxt":"items","msgid":"Mystic Wand of Death","msgstr":"Mystická hůlka smrti"}
+{"msgctxt":"items","msgid":"Mystic Wand of Distortion","msgstr":"Mystická hůlka pokřivení"}
+{"msgctxt":"items","msgid":"Mystic Wand of Implosion","msgstr":"Mystická hůlka imploze"}
+{"msgctxt":"items","msgid":"Mystic Wand of Incineration","msgstr":"Mystická hůlka zpopelnění"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrapmetal","msgstr":"Mystická hůlka kovové tříště"}
+{"msgctxt":"items","msgid":"Mystic Wand of Shrinking","msgstr":"Mystická hůlka zmenšení"}
+{"msgctxt":"items","msgid":"Naga Hide","msgstr":"Kůže nágy"}
+{"msgctxt":"items","msgid":"Name of Message","msgstr":"Název zprávy"}
+{"msgctxt":"items","msgid":"Navigator's Code","msgstr":"Navigátorův kód"}
+{"msgctxt":"items","msgid":"Necromancer Cloak","msgstr":"Nekromantský plášť"}
+{"msgctxt":"items","msgid":"Necromatic Ring","msgstr":"Nekromantický prsten"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Distortion","msgstr":"Nekrotická hůlka pokřivení"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Implosion","msgstr":"Nekrotická hůlka imploze"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Incineration","msgstr":"Nekrotická hůlka zpopelnění"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrapnel","msgstr":"Nekrotická hůlka střepin"}
+{"msgctxt":"items","msgid":"Necrotic Wand of Shrinking","msgstr":"Nekrotická hůlka zmenšení"}
+{"msgctxt":"items","msgid":"Newname Key","msgstr":"Klíč Nového jména"}
+{"msgctxt":"items","msgid":"Nightshade Brazier","msgstr":"Ohniště nočního stínu"}
+{"msgctxt":"items","msgid":"Noble Chain Mail","msgstr":"Šlechtická kroužková zbroj"}
+{"msgctxt":"items","msgid":"Noble Crown","msgstr":"Šlechtická koruna"}
+{"msgctxt":"items","msgid":"Noble Plate Armor","msgstr":"Šlechtická plátová zbroj"}
+{"msgctxt":"items","msgid":"Noblebone Bow","msgstr":"Luk z kosti šlechtice"}
+{"msgctxt":"items","msgid":"Notes - Emergency Meeting","msgstr":"Poznámky - mimořádná schůze"}
+{"msgctxt":"items","msgid":"Noxious Potion","msgstr":"Jedovatý lektvar"}
+{"msgctxt":"items","msgid":"Noxious Potion Recipe","msgstr":"Recept na Jedovatý lektvar"}
+{"msgctxt":"items","msgid":"Obsidian","msgstr":"Obsidián"}
+{"msgctxt":"items","msgid":"Odin","msgstr":"Odin"}
+{"msgctxt":"items","msgid":"Officer's Leather","msgstr":"Důstojnická kožená zbroj"}
+{"msgctxt":"items","msgid":"Ogre Ear","msgstr":"Zlobří ucho"}
+{"msgctxt":"items","msgid":"Ogre Fighting Stick","msgstr":"Zlobří bojová hůl"}
+{"msgctxt":"items","msgid":"Ogre Key","msgstr":"Zlobří klíč"}
+{"msgctxt":"items","msgid":"Old Halberd","msgstr":"Stará halapartna"}
+{"msgctxt":"items","msgid":"Old Nick","msgstr":"Satanáš"}
+{"msgctxt":"items","msgid":"Old Scroll","msgstr":"Starý svitek"}
+{"msgctxt":"items","msgid":"Olympian Shield","msgstr":"Olympský štít"}
+{"msgctxt":"items","msgid":"Orb Staff","msgstr":"Hůl se sférou"}
+{"msgctxt":"items","msgid":"Orders from Snergle","msgstr":"Rozkazy od Snergla"}
+{"msgctxt":"items","msgid":"Orders from Steadwick","msgstr":"Rozkazy ze Steadwicku"}
+{"msgctxt":"items","msgid":"Orders from the Shadow Guild","msgstr":"Rozkazy Cechu stínů"}
+{"msgctxt":"items","msgid":"Ornate Trident","msgstr":"Zdobený trojzubec"}
+{"msgctxt":"items","msgid":"Oscillation Overthruster","msgstr":"Oscilační hyperpohon"}
+{"msgctxt":"items","msgid":"Overlord's Club","msgstr":"Vládcův kyj"}
+{"msgctxt":"items","msgid":"Page from Agar's Journal","msgstr":"Stránka z Agarova deníku"}
+{"msgctxt":"items","msgid":"Page from Corlagon's Diary","msgstr":"Stránka z Corlagonova deníku"}
+{"msgctxt":"items","msgid":"Page Torn from a Book","msgstr":"Stránka vytržená z knihy"}
+{"msgctxt":"items","msgid":"Pain Reflection","msgstr":"Odraz bolesti"}
+{"msgctxt":"items","msgid":"Paladin Boots","msgstr":"Paladinské boty"}
+{"msgctxt":"items","msgid":"Paladin Gauntlets","msgstr":"Paladinské plátové rukavice"}
+{"msgctxt":"items","msgid":"Parson's Quill","msgstr":"Parsonův brk"}
+{"msgctxt":"items","msgid":"Pearl of Purity","msgstr":"Perla čistoty"}
+{"msgctxt":"items","msgid":"Pearl of Putrescence","msgstr":"Perla hniloby"}
+{"msgctxt":"items","msgid":"Pearl Ring","msgstr":"Perlový prsten"}
+{"msgctxt":"items","msgid":"Peasant Hat","msgstr":"Sedlákův klobouk"}
+{"msgctxt":"items","msgid":"Pellinore","msgstr":"Pellinore"}
+{"msgctxt":"items","msgid":"Pendragon","msgstr":"Pendragon"}
+{"msgctxt":"items","msgid":"Percival","msgstr":"Percival"}
+{"msgctxt":"items","msgid":"Personality Boost","msgstr":"Zvýšení osobnosti"}
+{"msgctxt":"items","msgid":"Personality Boost Recipe","msgstr":"Recept na Zvýšení osobnosti"}
+{"msgctxt":"items","msgid":"Phantom Cloak","msgstr":"Přízračný plášť"}
+{"msgctxt":"items","msgid":"Phial of Gog Blood","msgstr":"Lahvička gogovy krve"}
+{"msgctxt":"items","msgid":"Philosopher's Stone","msgstr":"Kámen mudrců"}
+{"msgctxt":"items","msgid":"Phima Root","msgstr":"Kořen phimy"}
+{"msgctxt":"items","msgid":"Phirna Root","msgstr":"Kořen phirny"}
+{"msgctxt":"items","msgid":"Phoenix Feather","msgstr":"Fénixovo pero"}
+{"msgctxt":"items","msgid":"Phylt-laced ore","msgstr":"Ruda s příměsí phyltu"}
+{"msgctxt":"items","msgid":"Phynaxian Crown","msgstr":"Phynaxijská koruna"}
+{"msgctxt":"items","msgid":"Phynaxian Helm","msgstr":"Phynaxijská přilba"}
+{"msgctxt":"items","msgid":"Phynaxian Shield","msgstr":"Phynaxijský štít"}
+{"msgctxt":"items","msgid":"Piercing Dagger","msgstr":"Průrazná dýka"}
+{"msgctxt":"items","msgid":"Pirate Cutlass","msgstr":"Pirátský tesák"}
+{"msgctxt":"items","msgid":"Pirate Hat","msgstr":"Pirátský klobouk"}
+{"msgctxt":"items","msgid":"Pirate Leader's Key","msgstr":"Klíč vůdce pirátů"}
+{"msgctxt":"items","msgid":"Plate Armor","msgstr":"Plátová zbroj"}
+{"msgctxt":"items","msgid":"Platinum Ring","msgstr":"Platinový prsten"}
+{"msgctxt":"items","msgid":"Poleax","msgstr":"Halapartna"}
+{"msgctxt":"items","msgid":"Poleaxe","msgstr":"Halapartna"}
+{"msgctxt":"items","msgid":"Poppy Pod","msgstr":"Makovice"}
+{"msgctxt":"items","msgid":"Poppysnaps","msgstr":"Makové pukavky"}
+{"msgctxt":"items","msgid":"Poseidon","msgstr":"Poseidón"}
+{"msgctxt":"items","msgid":"Potion Bottle","msgstr":"Lahvička na lektvar"}
+{"msgctxt":"items","msgid":"Potion of Doom ","msgstr":"Lektvar zhouby "}
+{"msgctxt":"items","msgid":"Potion of Doom recipe","msgstr":"Recept na Lektvar zhouby"}
+{"msgctxt":"items","msgid":"Potion of the Gods ","msgstr":"Lektvar bohů "}
+{"msgctxt":"items","msgid":"Potion of the Gods recipe","msgstr":"Recept na Lektvar bohů"}
+{"msgctxt":"items","msgid":"Pouch of Bat Guano","msgstr":"Měšec s netopýřím guánem"}
+{"msgctxt":"items","msgid":"Power Staff","msgstr":"Hůl moci"}
+{"msgctxt":"items","msgid":"Power Stone","msgstr":"Kámen moci"}
+{"msgctxt":"items","msgid":"Precious Ring","msgstr":"Drahocenný prsten"}
+{"msgctxt":"items","msgid":"Precision Bow","msgstr":"Přesný luk"}
+{"msgctxt":"items","msgid":"Preservation","msgstr":"Ochrana"}
+{"msgctxt":"items","msgid":"Priestly Staff","msgstr":"Kněžská hůl"}
+{"msgctxt":"items","msgid":"Prison Key","msgstr":"Klíč od vězení"}
+{"msgctxt":"items","msgid":"Proclamation","msgstr":"Provolání"}
+{"msgctxt":"items","msgid":"Prophecies of the Snake","msgstr":"Proroctví hada"}
+{"msgctxt":"items","msgid":"Prophecies of the Sun","msgstr":"Proroctví slunce"}
+{"msgctxt":"items","msgid":"Protection","msgstr":"Ochrana"}
+{"msgctxt":"items","msgid":"Protection from Magic","msgstr":"Ochrana před magií"}
+{"msgctxt":"items","msgid":"Protection from Magic recipe","msgstr":"Recept na Ochranu před magií"}
+{"msgctxt":"items","msgid":"Puck","msgstr":"Puk"}
+{"msgctxt":"items","msgid":"Pure Accuracy","msgstr":"Čistá přesnost"}
+{"msgctxt":"items","msgid":"Pure Accuracy Recipe","msgstr":"Recept: Čistá přesnost"}
+{"msgctxt":"items","msgid":"Pure Air Resistance","msgstr":"Čistá odolnost vůči vzduchu"}
+{"msgctxt":"items","msgid":"Pure Air Resistance recipe","msgstr":"Recept na Čistou odolnost vůči vzduchu"}
+{"msgctxt":"items","msgid":"Pure Body Resistance","msgstr":"Čistá odolnost vůči Tělu"}
+{"msgctxt":"items","msgid":"Pure Body Resistance recipe","msgstr":"Recept na Čistou odolnost vůči Tělu"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance","msgstr":"Ryzí odolnost proti zemi"}
+{"msgctxt":"items","msgid":"Pure Earth Resistance recipe","msgstr":"Recept na Ryzí odolnost proti zemi"}
+{"msgctxt":"items","msgid":"Pure Endurance","msgstr":"Ryzí odolnost"}
+{"msgctxt":"items","msgid":"Pure Endurance Recipe","msgstr":"Recept na Ryzí odolnost"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance","msgstr":"Čistá odolnost vůči Ohni"}
+{"msgctxt":"items","msgid":"Pure Fire Resistance recipe","msgstr":"Recept na Čistou odolnost vůči Ohni"}
+{"msgctxt":"items","msgid":"Pure Intellect","msgstr":"Ryzí inteligence"}
+{"msgctxt":"items","msgid":"Pure Intellect Recipe","msgstr":"Recept na Ryzí inteligenci"}
+{"msgctxt":"items","msgid":"Pure Luck","msgstr":"Čisté štěstí"}
+{"msgctxt":"items","msgid":"Pure Luck Recipe","msgstr":"Recept na Čisté štěstí"}
+{"msgctxt":"items","msgid":"Pure Might","msgstr":"Čistá síla"}
+{"msgctxt":"items","msgid":"Pure Might Recipe","msgstr":"Recept na čistou sílu"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance","msgstr":"Ryzí odolnost vůči Mysli"}
+{"msgctxt":"items","msgid":"Pure Mind Resistance recipe","msgstr":"Recept na Ryzí odolnost vůči Mysli"}
+{"msgctxt":"items","msgid":"Pure Personality","msgstr":"Čistá osobnost"}
+{"msgctxt":"items","msgid":"Pure Personality Recipe","msgstr":"Recept na Čistou osobnost"}
+{"msgctxt":"items","msgid":"Pure Speed","msgstr":"Čistá rychlost"}
+{"msgctxt":"items","msgid":"Pure Speed Recipe","msgstr":"Recept na čistou rychlost"}
+{"msgctxt":"items","msgid":"Pure Water Resistance","msgstr":"Ryzí odolnost proti vodě"}
+{"msgctxt":"items","msgid":"Pure Water Resistance recipe","msgstr":"Recept na Ryzí odolnost proti vodě"}
+{"msgctxt":"items","msgid":"Purple Topaz","msgstr":"Purpurový topaz"}
+{"msgctxt":"items","msgid":"Puzzle Box","msgstr":"Skříňka s hlavolamem"}
+{"msgctxt":"items","msgid":"Quality Steel Chain Mail","msgstr":"Kvalitní ocelová kroužková zbroj"}
+{"msgctxt":"items","msgid":"Ranger Boots","msgstr":"Hraničářské boty"}
+{"msgctxt":"items","msgid":"Ranger's Cloak","msgstr":"Hraničářův plášť"}
+{"msgctxt":"items","msgid":"Recharge Item","msgstr":"Dobití předmětu"}
+{"msgctxt":"items","msgid":"Recurve Bow","msgstr":"Reflexní luk"}
+{"msgctxt":"items","msgid":"Red Apple","msgstr":"Červené jablko"}
+{"msgctxt":"items","msgid":"Regal Crown","msgstr":"Královská koruna"}
+{"msgctxt":"items","msgid":"Regeneration","msgstr":"Regenerace"}
+{"msgctxt":"items","msgid":"Regnan Boots","msgstr":"Regnanské boty"}
+{"msgctxt":"items","msgid":"Regnan Crossbow","msgstr":"Regnanská kuše"}
+{"msgctxt":"items","msgid":"Regnan Cutlass","msgstr":"Regnanský tesák"}
+{"msgctxt":"items","msgid":"Regnan Falchion","msgstr":"Regnanský falchion"}
+{"msgctxt":"items","msgid":"Regnan Fighting Knife","msgstr":"Regnanský bojový nůž"}
+{"msgctxt":"items","msgid":"Regnan Leather","msgstr":"Regnanská kožená zbroj"}
+{"msgctxt":"items","msgid":"Regnan Tournament Shield","msgstr":"Regnanský turnajový štít"}
+{"msgctxt":"items","msgid":"Regnan Trident","msgstr":"Regnanský trojzubec"}
+{"msgctxt":"items","msgid":"Rejuvenation","msgstr":"Omlazení"}
+{"msgctxt":"items","msgid":"Rejuvenation Recipe","msgstr":"Recept: Omlazení"}
+{"msgctxt":"items","msgid":"Remains of a Journal","msgstr":"Zbytky deníku"}
+{"msgctxt":"items","msgid":"Remains of Korbu","msgstr":"Korbuovy ostatky"}
+{"msgctxt":"items","msgid":"Remnants of a Letter","msgstr":"Útržky dopisu"}
+{"msgctxt":"items","msgid":"Remove Curse","msgstr":"Odstranění prokletí"}
+{"msgctxt":"items","msgid":"Remove Fear","msgstr":"Odstranění strachu"}
+{"msgctxt":"items","msgid":"Resistance","msgstr":"Odolnost"}
+{"msgctxt":"items","msgid":"Resplendent Chain Mail","msgstr":"Zářivá kroužková zbroj"}
+{"msgctxt":"items","msgid":"Restoration","msgstr":"Obnova"}
+{"msgctxt":"items","msgid":"Reverend Sceptre","msgstr":"Kněžské žezlo"}
+{"msgctxt":"items","msgid":"Ring of Fusion","msgstr":"Prsten fúze"}
+{"msgctxt":"items","msgid":"Ring of Keys","msgstr":"Svazek klíčů"}
+{"msgctxt":"items","msgid":"Ring of Planes","msgstr":"Prsten sfér"}
+{"msgctxt":"items","msgid":"Ritual of the Void","msgstr":"Rituál prázdnoty"}
+{"msgctxt":"items","msgid":"Riverstride Plans","msgstr":"Plány Riverstridu"}
+{"msgctxt":"items","msgid":"Roland Ironfist Painting","msgstr":"Obraz Rolanda Ironfista"}
+{"msgctxt":"items","msgid":"Roland's Journal","msgstr":"Rolandův deník"}
+{"msgctxt":"items","msgid":"Rope","msgstr":"Lano"}
+{"msgctxt":"items","msgid":"Rose","msgstr":"Růže"}
+{"msgctxt":"items","msgid":"Rose Crystal","msgstr":"Růžový krystal"}
+{"msgctxt":"items","msgid":"Royal Chain Mail","msgstr":"Královská kroužková zbroj"}
+{"msgctxt":"items","msgid":"Royal Leather","msgstr":"Královská kožená zbroj"}
+{"msgctxt":"items","msgid":"Royal Wasp Jelly","msgstr":"Vosí mateří kašička"}
+{"msgctxt":"items","msgid":"Ruby","msgstr":"Rubín"}
+{"msgctxt":"items","msgid":"Ruby Ring","msgstr":"Rubínový prsten"}
+{"msgctxt":"items","msgid":"Ruby Star Amulet","msgstr":"Amulet rubínové hvězdy"}
+{"msgctxt":"items","msgid":"Ruler's Ring","msgstr":"Vládcův prsten"}
+{"msgctxt":"items","msgid":"Rusty Breastplate","msgstr":"Rezavý kyrys"}
+{"msgctxt":"items","msgid":"Rusty Cutlass","msgstr":"Rezavý tesák"}
+{"msgctxt":"items","msgid":"Rusty Mail Vest","msgstr":"Rezavá kroužková vesta"}
+{"msgctxt":"items","msgid":"Sacred Chalice","msgstr":"Posvátný kalich"}
+{"msgctxt":"items","msgid":"Sacred Spear","msgstr":"Posvátné kopí"}
+{"msgctxt":"items","msgid":"Sacrifice","msgstr":"Obětování"}
+{"msgctxt":"items","msgid":"Sapphire","msgstr":"Safír"}
+{"msgctxt":"items","msgid":"Sapphire Ring","msgstr":"Safírový prsten"}
+{"msgctxt":"items","msgid":"Sarcophagus of Korbu","msgstr":"Korbuův sarkofág"}
+{"msgctxt":"items","msgid":"Savage Spear","msgstr":"Divoké kopí"}
+{"msgctxt":"items","msgid":"Scarab Ring","msgstr":"Prsten se skarabem"}
+{"msgctxt":"items","msgid":"Scavenger hunt.","msgstr":"Honba za pokladem."}
+{"msgctxt":"items","msgid":"Scepter of Kings","msgstr":"Žezlo králů"}
+{"msgctxt":"items","msgid":"Scholar's Cap","msgstr":"Učencova čapka"}
+{"msgctxt":"items","msgid":"Scrap from Gharik's Journal","msgstr":"Útržek z Gharikova deníku"}
+{"msgctxt":"items","msgid":"Scrap of Paper","msgstr":"Útržek papíru"}
+{"msgctxt":"items","msgid":"Scroll of Waves","msgstr":"Svitek vln"}
+{"msgctxt":"items","msgid":"Sealed Letter 2","msgstr":"Zapečetěný dopis 2"}
+{"msgctxt":"items","msgid":"Sealed Letter 3","msgstr":"Zapečetěný dopis 3"}
+{"msgctxt":"items","msgid":"Sealed Letter 4","msgstr":"Zapečetěný dopis 4"}
+{"msgctxt":"items","msgid":"Sealed Letter 5","msgstr":"Zapečetěný dopis 5"}
+{"msgctxt":"items","msgid":"Sealed Letter 6","msgstr":"Zapečetěný dopis 6"}
+{"msgctxt":"items","msgid":"Sealed Letter 7","msgstr":"Zapečetěný dopis 7"}
+{"msgctxt":"items","msgid":"Seashell","msgstr":"Mušle"}
+{"msgctxt":"items","msgid":"Season's Stole","msgstr":"Štóla ročních období"}
+{"msgctxt":"items","msgid":"Secret Door Key","msgstr":"Klíč od tajných dveří"}
+{"msgctxt":"items","msgid":"Serendine's Preservation","msgstr":"Serendinova ochrana"}
+{"msgctxt":"items","msgid":"Serpent Spear","msgstr":"Hadí kopí"}
+{"msgctxt":"items","msgid":"Serpent Staff","msgstr":"Hadí hůl"}
+{"msgctxt":"items","msgid":"Serpent Wand of Blasting","msgstr":"Hadí hůlka výbuchu"}
+{"msgctxt":"items","msgid":"Serpent Wand of Paralysis","msgstr":"Hadí hůlka ochromení"}
+{"msgctxt":"items","msgid":"Serpent Wand of Rocks","msgstr":"Hadí hůlka kamenů"}
+{"msgctxt":"items","msgid":"Serpent Wand of the Fist","msgstr":"Hadí hůlka pěsti"}
+{"msgctxt":"items","msgid":"Seven League Boots","msgstr":"Sedmimílové boty"}
+{"msgctxt":"items","msgid":"Sewer Key","msgstr":"Klíč od stok"}
+{"msgctxt":"items","msgid":"Shadow Dagger","msgstr":"Stínová dýka"}
+{"msgctxt":"items","msgid":"Shadow Sect Medallion","msgstr":"Medailon Sekty stínů"}
+{"msgctxt":"items","msgid":"Shadow's Mask","msgstr":"Maska stínu"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Ice","msgstr":"Šamanova hůlka ledu"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Lashing","msgstr":"Šamanova hůlka bičování"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Light","msgstr":"Šamanova hůlka světla"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Mind","msgstr":"Šamanova hůlka mysli"}
+{"msgctxt":"items","msgid":"Shaman's Wand of Swarms","msgstr":"Šamanova hůlka rojů"}
+{"msgctxt":"items","msgid":"Sharktooth Dagger","msgstr":"Dýka ze žraločího zubu"}
+{"msgctxt":"items","msgid":"Shield","msgstr":"Štít"}
+{"msgctxt":"items","msgid":"Shocking Potion","msgstr":"Elektrizující lektvar"}
+{"msgctxt":"items","msgid":"Shocking Potion Recipe","msgstr":"Recept na Elektrizující lektvar"}
+{"msgctxt":"items","msgid":"Shovel","msgstr":"Lopata"}
+{"msgctxt":"items","msgid":"Siertal Chainmail","msgstr":"Siertalová kroužková zbroj"}
+{"msgctxt":"items","msgid":"Siertal-laced ore","msgstr":"Ruda s příměsí siertalu"}
+{"msgctxt":"items","msgid":"Signet Ring","msgstr":"Pečetní prsten"}
+{"msgctxt":"items","msgid":"Silver Belt","msgstr":"Stříbrný opasek"}
+{"msgctxt":"items","msgid":"Silver Dust of the Sea","msgstr":"Stříbrný prach moře"}
+{"msgctxt":"items","msgid":"Silver Mesh Gauntlets","msgstr":"Plátové rukavice ze stříbrného pletiva"}
+{"msgctxt":"items","msgid":"Simple Mace","msgstr":"Prostý palcát"}
+{"msgctxt":"items","msgid":"Simple Staff","msgstr":"Jednoduchá hůl"}
+{"msgctxt":"items","msgid":"Slaying Potion","msgstr":"Smrtící lektvar"}
+{"msgctxt":"items","msgid":"Slaying Potion Recipe","msgstr":"Recept na Smrtící lektvar"}
+{"msgctxt":"items","msgid":"Sledgehammer","msgstr":"Perlík"}
+{"msgctxt":"items","msgid":"Snake","msgstr":"Had"}
+{"msgctxt":"items","msgid":"Snakewood Bow","msgstr":"Luk z hadího dřeva"}
+{"msgctxt":"items","msgid":"Snergle's Axe","msgstr":"Snerglova sekyra"}
+{"msgctxt":"items","msgid":"Soldier's spear","msgstr":"Vojákovo kopí"}
+{"msgctxt":"items","msgid":"Souldrinker","msgstr":"Piják duší"}
+{"msgctxt":"items","msgid":"Sovereign Belt","msgstr":"Panovnický opasek"}
+{"msgctxt":"items","msgid":"Sparkling Ring","msgstr":"Třpytivý prsten"}
+{"msgctxt":"items","msgid":"Spear","msgstr":"Kopí"}
+{"msgctxt":"items","msgid":"Speed Boost","msgstr":"Posílení rychlosti"}
+{"msgctxt":"items","msgid":"Speed Boost Recipe","msgstr":"Recept na Posílení rychlosti"}
+{"msgctxt":"items","msgid":"Spider Queen's Heart","msgstr":"Srdce pavoučí královny"}
+{"msgctxt":"items","msgid":"Spiked Club","msgstr":"Ostnatý kyj"}
+{"msgctxt":"items","msgid":"Spiked Mace","msgstr":"Ostnatý palcát"}
+{"msgctxt":"items","msgid":"Spiral Instructions","msgstr":"Návod ke spirále"}
+{"msgctxt":"items","msgid":"Spirit Lash","msgstr":"Bič ducha"}
+{"msgctxt":"items","msgid":"Spirit Shield","msgstr":"Duchovní štít"}
+{"msgctxt":"items","msgid":"Spiritslayer","msgstr":"Zabiják duchů"}
+{"msgctxt":"items","msgid":"Splendid Plate Armor","msgstr":"Skvostná plátová zbroj"}
+{"msgctxt":"items","msgid":"Splitter","msgstr":"Štípač"}
+{"msgctxt":"items","msgid":"Staff","msgstr":"Hůl"}
+{"msgctxt":"items","msgid":"Staff of Elements","msgstr":"Hůl živlů"}
+{"msgctxt":"items","msgid":"Staff of the Swamp","msgstr":"Hůl bažiny"}
+{"msgctxt":"items","msgid":"Stalt-laced ore","msgstr":"Ruda s příměsí staltu"}
+{"msgctxt":"items","msgid":"Steel Axe","msgstr":"Ocelová sekyra"}
+{"msgctxt":"items","msgid":"Steel Belt","msgstr":"Ocelový opasek"}
+{"msgctxt":"items","msgid":"Steel Boots","msgstr":"Ocelové boty"}
+{"msgctxt":"items","msgid":"Steel Broadsword","msgstr":"Ocelový široký meč"}
+{"msgctxt":"items","msgid":"Steel Chain Mail","msgstr":"Ocelová kroužková zbroj"}
+{"msgctxt":"items","msgid":"Steel Chainmail","msgstr":"Ocelová kroužková zbroj"}
+{"msgctxt":"items","msgid":"Steel club","msgstr":"Ocelový kyj"}
+{"msgctxt":"items","msgid":"Steel Gauntlets","msgstr":"Ocelové plátové rukavice"}
+{"msgctxt":"items","msgid":"Steel Helm","msgstr":"Ocelová přilba"}
+{"msgctxt":"items","msgid":"Steel Plate Armor","msgstr":"Ocelová plátová zbroj"}
+{"msgctxt":"items","msgid":"Steel Plated Boots","msgstr":"Boty s ocelovými pláty"}
+{"msgctxt":"items","msgid":"Steel Shield","msgstr":"Ocelový štít"}
+{"msgctxt":"items","msgid":"Steel Spear","msgstr":"Ocelové kopí"}
+{"msgctxt":"items","msgid":"Stellar Bow","msgstr":"Hvězdný luk"}
+{"msgctxt":"items","msgid":"Sterling Boots","msgstr":"Prvotřídní boty"}
+{"msgctxt":"items","msgid":"Sterling Shield","msgstr":"Štít z ryzího stříbra"}
+{"msgctxt":"items","msgid":"Stone Axe","msgstr":"Kamenná sekyra"}
+{"msgctxt":"items","msgid":"Stone Skin","msgstr":"Kamenná kůže"}
+{"msgctxt":"items","msgid":"Stone to Flesh","msgstr":"Z kamene v tělo"}
+{"msgctxt":"items","msgid":"Stone To Flesh Recipe","msgstr":"Recept na Z kamene v tělo"}
+{"msgctxt":"items","msgid":"Stoneskin","msgstr":"Kamenná kůže"}
+{"msgctxt":"items","msgid":"Storage Key","msgstr":"Klíč od skladu"}
+{"msgctxt":"items","msgid":"Store Room Key","msgstr":"Klíč od skladiště"}
+{"msgctxt":"items","msgid":"Stout Spear","msgstr":"Mohutné kopí"}
+{"msgctxt":"items","msgid":"Strong Belt","msgstr":"Pevný opasek"}
+{"msgctxt":"items","msgid":"Studded Leather","msgstr":"Pobíjená kožená zbroj"}
+{"msgctxt":"items","msgid":"Sturdy Belt","msgstr":"Bytelný opasek"}
+{"msgctxt":"items","msgid":"Sublime Spear","msgstr":"Vznešené kopí"}
+{"msgctxt":"items","msgid":"Sulfur","msgstr":"Síra"}
+{"msgctxt":"items","msgid":"Summon Elemental","msgstr":"Vyvolání elementála"}
+{"msgctxt":"items","msgid":"Summon Wisp","msgstr":"Vyvolání bludičky"}
+{"msgctxt":"items","msgid":"Sun Amulet","msgstr":"Sluneční amulet"}
+{"msgctxt":"items","msgid":"Sun Cloak","msgstr":"Sluneční plášť"}
+{"msgctxt":"items","msgid":"Sun Hammer","msgstr":"Sluneční kladivo"}
+{"msgctxt":"items","msgid":"Sun Opal Ring","msgstr":"Prsten se slunečním opálem"}
+{"msgctxt":"items","msgid":"Sunray","msgstr":"Sluneční paprsek"}
+{"msgctxt":"items","msgid":"Sunstone","msgstr":"Sluneční kámen"}
+{"msgctxt":"items","msgid":"Super Resistance","msgstr":"Mimořádná odolnost"}
+{"msgctxt":"items","msgid":"Supreme Axe","msgstr":"Dokonalá sekyra"}
+{"msgctxt":"items","msgid":"Supreme Flail","msgstr":"Prvotřídní řemdih"}
+{"msgctxt":"items","msgid":"Supreme Plate","msgstr":"Prvotřídní plátová zbroj"}
+{"msgctxt":"items","msgid":"Supreme Protection","msgstr":"Nejvyšší ochrana"}
+{"msgctxt":"items","msgid":"Swift Potion","msgstr":"Rychlý lektvar"}
+{"msgctxt":"items","msgid":"Swift Potion Recipe","msgstr":"Recept: Rychlý lektvar"}
+{"msgctxt":"items","msgid":"Sword of Whistlebone","msgstr":"Whistlebonův meč"}
+{"msgctxt":"items","msgid":"Taledon's Helm","msgstr":"Taledonova přilba"}
+{"msgctxt":"items","msgid":"Tanir's Bell","msgstr":"Tanirův zvon"}
+{"msgctxt":"items","msgid":"Telelocator","msgstr":"Telelokátor"}
+{"msgctxt":"items","msgid":"Telepathy","msgstr":"Telepatie"}
+{"msgctxt":"items","msgid":"Teleporter Key","msgstr":"Klíč k teleportéru"}
+{"msgctxt":"items","msgid":"Templar's Sword","msgstr":"Templářův meč"}
+{"msgctxt":"items","msgid":"Temple Gong","msgstr":"Chrámový gong"}
+{"msgctxt":"items","msgid":"Temple in a Bottle","msgstr":"Chrám v láhvi"}
+{"msgctxt":"items","msgid":"Temple Mace","msgstr":"Chrámový palcát"}
+{"msgctxt":"items","msgid":"Terminus","msgstr":"Mezník"}
+{"msgctxt":"items","msgid":"The DeathBlade","msgstr":"Čepel smrti"}
+{"msgctxt":"items","msgid":"The Letter","msgstr":"Dopis"}
+{"msgctxt":"items","msgid":"The Perfect Bow","msgstr":"Dokonalý luk"}
+{"msgctxt":"items","msgid":"The Third Eye","msgstr":"Třetí oko"}
+{"msgctxt":"items","msgid":"Thigh Bone","msgstr":"Stehenní kost"}
+{"msgctxt":"items","msgid":"Thor","msgstr":"Thor"}
+{"msgctxt":"items","msgid":"Thornbark","msgstr":"Trnová kůra"}
+{"msgctxt":"items","msgid":"Thornbark Club","msgstr":"Kyj z trnové kůry"}
+{"msgctxt":"items","msgid":"Thornbark Shield","msgstr":"Štít z trnové kůry"}
+{"msgctxt":"items","msgid":"Thunder Mace","msgstr":"Hromový palcát"}
+{"msgctxt":"items","msgid":"Tiger Statuette","msgstr":"Soška tygra"}
+{"msgctxt":"items","msgid":"Titan's Belt","msgstr":"Titánův opasek"}
+{"msgctxt":"items","msgid":"Titanic Trident","msgstr":"Titánský trojzubec"}
+{"msgctxt":"items","msgid":"Tobersk Brandy","msgstr":"Toberská brandy"}
+{"msgctxt":"items","msgid":"Tobersk Fruit","msgstr":"Toberský plod"}
+{"msgctxt":"items","msgid":"Tobersk Pulp","msgstr":"Toberská dužina"}
+{"msgctxt":"items","msgid":"Tooth","msgstr":"Zub"}
+{"msgctxt":"items","msgid":"Topaz","msgstr":"Topaz"}
+{"msgctxt":"items","msgid":"Torn Page","msgstr":"Vytržená stránka"}
+{"msgctxt":"items","msgid":"Tournament Bow","msgstr":"Turnajový luk"}
+{"msgctxt":"items","msgid":"Tower Shield","msgstr":"Věžový štít"}
+{"msgctxt":"items","msgid":"Traveler's Cloak","msgstr":"Cestovatelův plášť"}
+{"msgctxt":"items","msgid":"Traveller's Hat","msgstr":"Cestovatelův klobouk"}
+{"msgctxt":"items","msgid":"Treasure Room Key","msgstr":"Klíč od pokladnice"}
+{"msgctxt":"items","msgid":"Trident","msgstr":"Trojzubec"}
+{"msgctxt":"items","msgid":"Trident of Rulership","msgstr":"Trojzubec vlády"}
+{"msgctxt":"items","msgid":"Triton Trident","msgstr":"Tritónský trojzubec"}
+{"msgctxt":"items","msgid":"Troll Gauntlets","msgstr":"Trolí plátové rukavice"}
+{"msgctxt":"items","msgid":"Trollish Claymore","msgstr":"Trolí obouruční meč"}
+{"msgctxt":"items","msgid":"Trollish Maul","msgstr":"Trolí palice"}
+{"msgctxt":"items","msgid":"Trollish Shield","msgstr":"Trolí štít"}
+{"msgctxt":"items","msgid":"Trollish War Mace","msgstr":"Trolí válečný palcát"}
+{"msgctxt":"items","msgid":"Trollish War Sword","msgstr":"Trolí válečný meč"}
+{"msgctxt":"items","msgid":"True Crossbow","msgstr":"Spolehlivá kuše"}
+{"msgctxt":"items","msgid":"Turquoise Amulet","msgstr":"Tyrkysový amulet"}
+{"msgctxt":"items","msgid":"Twilight","msgstr":"Soumrak"}
+{"msgctxt":"items","msgid":"Twilight Kris","msgstr":"Kris soumraku"}
+{"msgctxt":"items","msgid":"Two-Handed Axe","msgstr":"Obouruční sekyra"}
+{"msgctxt":"items","msgid":"Two-Handed Sword","msgstr":"Obouruční meč"}
+{"msgctxt":"items","msgid":"Ullyses","msgstr":"Odysseus"}
+{"msgctxt":"items","msgid":"Ultimate Boots","msgstr":"Dokonalé boty"}
+{"msgctxt":"items","msgid":"Ultimate Gauntlets","msgstr":"Dokonalé plátové rukavice"}
+{"msgctxt":"items","msgid":"Unicorn Horn","msgstr":"Roh jednorožce"}
+{"msgctxt":"items","msgid":"Urn of Ashes","msgstr":"Urna s popelem"}
+{"msgctxt":"items","msgid":"Valeria","msgstr":"Valeria"}
+{"msgctxt":"items","msgid":"Valuable Ring","msgstr":"Cenný prsten"}
+{"msgctxt":"items","msgid":"Vampire Cloak","msgstr":"Upíří plášť"}
+{"msgctxt":"items","msgid":"Vampire's Cape","msgstr":"Upírův plášť"}
+{"msgctxt":"items","msgid":"Vampire's Ring","msgstr":"Upírův prsten"}
+{"msgctxt":"items","msgid":"Vampiric Weapon","msgstr":"Upíří zbraň"}
+{"msgctxt":"items","msgid":"Vanguard Belt","msgstr":"Opasek předvoje"}
+{"msgctxt":"items","msgid":"VARN Chest Key","msgstr":"Klíč od truhly ve VARNu"}
+{"msgctxt":"items","msgid":"Vase","msgstr":"Váza"}
+{"msgctxt":"items","msgid":"Veteran Shield","msgstr":"Veteránský štít"}
+{"msgctxt":"items","msgid":"Vial of Devil Ichor","msgstr":"Lahvička ďáblova ichoru"}
+{"msgctxt":"items","msgid":"Vial of Grave Earth","msgstr":"Lahvička hlíny z hrobu"}
+{"msgctxt":"items","msgid":"Vial of Ooze Endoplasm","msgstr":"Lahvička endoplazmy slizu"}
+{"msgctxt":"items","msgid":"Vial of Troll Blood","msgstr":"Lahvička trolí krve"}
+{"msgctxt":"items","msgid":"Villain's Blade","msgstr":"Zloduchova čepel"}
+{"msgctxt":"items","msgid":"Volcano","msgstr":"Vulkán"}
+{"msgctxt":"items","msgid":"Walking Boots","msgstr":"Cestovní boty"}
+{"msgctxt":"items","msgid":"Wallace","msgstr":"Wallace"}
+{"msgctxt":"items","msgid":"Wand of Arrows","msgstr":"Hůlka šípů"}
+{"msgctxt":"items","msgid":"Wand of Cold","msgstr":"Hůlka chladu"}
+{"msgctxt":"items","msgid":"Wand of Fire","msgstr":"Hůlka ohně"}
+{"msgctxt":"items","msgid":"Wand of Flame","msgstr":"Hůlka plamene"}
+{"msgctxt":"items","msgid":"Wand of Harm","msgstr":"Hůlka zranění"}
+{"msgctxt":"items","msgid":"Wand of Poison","msgstr":"Hůlka jedu"}
+{"msgctxt":"items","msgid":"Wand of Sparks","msgstr":"Hůlka jisker"}
+{"msgctxt":"items","msgid":"Wand of Static","msgstr":"Hůlka statického výboje"}
+{"msgctxt":"items","msgid":"Wand of Stunning","msgstr":"Hůlka omráčení"}
+{"msgctxt":"items","msgid":"War Axe","msgstr":"Válečná sekyra"}
+{"msgctxt":"items","msgid":"War Hammer","msgstr":"Válečné kladivo"}
+{"msgctxt":"items","msgid":"War Spear","msgstr":"Válečné kopí"}
+{"msgctxt":"items","msgid":"War Trident","msgstr":"Válečný trojzubec"}
+{"msgctxt":"items","msgid":"Warhammer","msgstr":"Válečné kladivo"}
+{"msgctxt":"items","msgid":"Warlock's Ring","msgstr":"Černokněžníkův prsten"}
+{"msgctxt":"items","msgid":"Warlord Belt","msgstr":"Opasek vojevůdce"}
+{"msgctxt":"items","msgid":"Warlord's Key","msgstr":"Vojevůdcův klíč"}
+{"msgctxt":"items","msgid":"Warrior Sword","msgstr":"Válečnický meč"}
+{"msgctxt":"items","msgid":"Warrior's Poleaxe","msgstr":"Válečníkova halapartna"}
+{"msgctxt":"items","msgid":"Wasp Stingers","msgstr":"Vosí žihadla"}
+{"msgctxt":"items","msgid":"Wasp Wing","msgstr":"Vosí křídlo"}
+{"msgctxt":"items","msgid":"Water Breathing","msgstr":"Dýchání pod vodou"}
+{"msgctxt":"items","msgid":"Water Resistance","msgstr":"Odolnost proti vodě"}
+{"msgctxt":"items","msgid":"Water Resistance Recipe","msgstr":"Recept na Odolnost proti vodě"}
+{"msgctxt":"items","msgid":"Water Temple Key","msgstr":"Klíč od Chrámu vody"}
+{"msgctxt":"items","msgid":"Wealthy Hat","msgstr":"Honosný klobouk"}
+{"msgctxt":"items","msgid":"Weighted Halberd","msgstr":"Těžká halapartna"}
+{"msgctxt":"items","msgid":"West Pillar Key","msgstr":"Klíč k západnímu sloupu"}
+{"msgctxt":"items","msgid":"Wetsuit","msgstr":"Potápěčský oblek"}
+{"msgctxt":"items","msgid":"Wheel of Frelandeau","msgstr":"Bochník sýra Frelandeau"}
+{"msgctxt":"items","msgid":"Whisp wrappings","msgstr":"Přízračné oviny"}
+{"msgctxt":"items","msgid":"Wicked Mace","msgstr":"Zlovolný palcát"}
+{"msgctxt":"items","msgid":"Widoweeps Berries","msgstr":"Bobule vdovích slz"}
+{"msgctxt":"items","msgid":"Widowsweep Berries","msgstr":"Bobule kominíčku"}
+{"msgctxt":"items","msgid":"Will O' Wisp Heart","msgstr":"Srdce bludičky"}
+{"msgctxt":"items","msgid":"William's Tower Key","msgstr":"Klíč od Williamovy věže"}
+{"msgctxt":"items","msgid":"Winged Sandals","msgstr":"Okřídlené sandály"}
+{"msgctxt":"items","msgid":"Witch Ring","msgstr":"Prsten čarodějnice"}
+{"msgctxt":"items","msgid":"Witch's Amulet","msgstr":"Amulet čarodějnice"}
+{"msgctxt":"items","msgid":"Witch's Wand of Fire","msgstr":"Čarodějčina hůlka ohně"}
+{"msgctxt":"items","msgid":"Witch's Wand of Harming","msgstr":"Čarodějčina hůlka zranění"}
+{"msgctxt":"items","msgid":"Witch's Wand of Poison","msgstr":"Čarodějčina hůlka jedu"}
+{"msgctxt":"items","msgid":"Witch's Wand of Sparks","msgstr":"Čarodějčina hůlka jisker"}
+{"msgctxt":"items","msgid":"Witch's Wand of Stunning","msgstr":"Čarodějčina hůlka omráčení"}
+{"msgctxt":"items","msgid":"Wizard Cap","msgstr":"Čarodějova čapka"}
+{"msgctxt":"items","msgid":"Wizard Ring","msgstr":"Čarodějův prsten"}
+{"msgctxt":"items","msgid":"Wizard Staff","msgstr":"Čarodějova hůl"}
+{"msgctxt":"items","msgid":"Wizard Wand of Acid","msgstr":"Čarodějova hůlka kyseliny"}
+{"msgctxt":"items","msgid":"Wizard Wand of Berzerking","msgstr":"Čarodějova hůlka běsnění"}
+{"msgctxt":"items","msgid":"Wizard Wand of Blades","msgstr":"Čarodějova hůlka čepelí"}
+{"msgctxt":"items","msgid":"Wizard Wand of Fireballs","msgstr":"Čarodějova hůlka ohnivých koulí"}
+{"msgctxt":"items","msgid":"Wizard Wand of Lightning","msgstr":"Čarodějova hůlka blesku"}
+{"msgctxt":"items","msgid":"Wolf Statuette","msgstr":"Soška vlka"}
+{"msgctxt":"items","msgid":"Wolf's Eye","msgstr":"Vlčí oko"}
+{"msgctxt":"items","msgid":"Wonder Mace","msgstr":"Zázračný palcát"}
+{"msgctxt":"items","msgid":"Wooden Buckler","msgstr":"Dřevěný puklíř"}
+{"msgctxt":"items","msgid":"Wooden Shield","msgstr":"Dřevěný štít"}
+{"msgctxt":"items","msgid":"Worn Belt","msgstr":"Obnošený opasek"}
+{"msgctxt":"items","msgid":"Wyrm Spitter","msgstr":"Chrlič saní"}
+{"msgctxt":"items","msgid":"Wyvern Horn","msgstr":"Roh wyverny"}
+{"msgctxt":"items","msgid":"Wyvern Leather Belt","msgstr":"Kožený opasek z wyverny"}
+{"msgctxt":"items","msgid":"Yellow Topaz","msgstr":"Žlutý topaz"}
+{"msgctxt":"items","msgid":"Yoruba","msgstr":"Yoruba"}
+{"msgctxt":"items","msgid":"Zealot Mace","msgstr":"Palcát fanatika"}
+{"msgctxt":"items","msgid":"Zeus","msgstr":"Zeus"}
+{"msgctxt":"items","msgid":"Zircon","msgstr":"Zirkon"}
+{"msgctxt":"items","msgid":"Zokarr IV's Skull","msgstr":"Lebka Zokarra IV"}
+{"msgctxt":"items","msgid":"Zokarr's Axe","msgstr":"Zokarrova sekyra"}
+{"msgctxt":"location","msgid":"Abandoned Pirate Keep","msgstr":"Opuštěná pirátská tvrz"}
+{"msgctxt":"location","msgid":"Abandoned Temple","msgstr":"Opuštěný chrám"}
+{"msgctxt":"location","msgid":"Agar's Laboratory","msgstr":"Agarova laboratoř"}
+{"msgctxt":"location","msgid":"Alvar","msgstr":"Alvar"}
+{"msgctxt":"location","msgid":"Ancient Troll Home","msgstr":"Prastarý trolí domov"}
+{"msgctxt":"location","msgid":"Arena","msgstr":"Aréna"}
+{"msgctxt":"location","msgid":"Avlee","msgstr":"Avlee"}
+{"msgctxt":"location","msgid":"Balthazar Lair","msgstr":"Balthazarovo doupě"}
+{"msgctxt":"location","msgid":"Barbarian Fortress","msgstr":"Pevnost barbarů"}
+{"msgctxt":"location","msgid":"Barrow I","msgstr":"Mohyla I"}
+{"msgctxt":"location","msgid":"Barrow II","msgstr":"Mohyla II"}
+{"msgctxt":"location","msgid":"Barrow III","msgstr":"Mohyla III"}
+{"msgctxt":"location","msgid":"Barrow IV","msgstr":"Mohyla IV"}
+{"msgctxt":"location","msgid":"Barrow IX","msgstr":"Mohyla IX"}
+{"msgctxt":"location","msgid":"Barrow V","msgstr":"Mohyla V"}
+{"msgctxt":"location","msgid":"Barrow VI","msgstr":"Mohyla VI"}
+{"msgctxt":"location","msgid":"Barrow VII","msgstr":"Mohyla VII"}
+{"msgctxt":"location","msgid":"Barrow VIII","msgstr":"Mohyla VIII"}
+{"msgctxt":"location","msgid":"Barrow X","msgstr":"Mohyla X"}
+{"msgctxt":"location","msgid":"Barrow XI","msgstr":"Mohyla XI"}
+{"msgctxt":"location","msgid":"Barrow XII","msgstr":"Mohyla XII"}
+{"msgctxt":"location","msgid":"Barrow XIII","msgstr":"Mohyla XIII"}
+{"msgctxt":"location","msgid":"Barrow XIV","msgstr":"Mohyla XIV"}
+{"msgctxt":"location","msgid":"Barrow XV","msgstr":"Mohyla XV"}
+{"msgctxt":"location","msgid":"Basement of the Breach","msgstr":"Suterén Průrvy"}
+{"msgctxt":"location","msgid":"Blackshire","msgstr":"Černokraj"}
+{"msgctxt":"location","msgid":"Bootleg Bay","msgstr":"Zátoka pašeráků"}
+{"msgctxt":"location","msgid":"Castle Alamos","msgstr":"Hrad Alamos"}
+{"msgctxt":"location","msgid":"Castle Darkmoor","msgstr":"Hrad Darkmoor"}
+{"msgctxt":"location","msgid":"Castle Gloaming","msgstr":"Hrad Gloaming"}
+{"msgctxt":"location","msgid":"Castle Gryphonheart","msgstr":"Hrad Gryphonheart"}
+{"msgctxt":"location","msgid":"Castle Harmondale","msgstr":"Hrad Harmondale"}
+{"msgctxt":"location","msgid":"Castle Ironfist","msgstr":"Hrad Ironfist"}
+{"msgctxt":"location","msgid":"Castle Kriegspire","msgstr":"Hrad Kriegspire"}
+{"msgctxt":"location","msgid":"Castle Lambent","msgstr":"Zářivý hrad"}
+{"msgctxt":"location","msgid":"Castle Navan","msgstr":"Hrad Navan"}
+{"msgctxt":"location","msgid":"Castle of Air","msgstr":"Hrad vzduchu"}
+{"msgctxt":"location","msgid":"Castle of Fire","msgstr":"Ohnivý hrad"}
+{"msgctxt":"location","msgid":"Caves of the Dragon Riders","msgstr":"Jeskyně dračích jezdců"}
+{"msgctxt":"location","msgid":"Celeste","msgstr":"Celeste"}
+{"msgctxt":"location","msgid":"Chain of Fire","msgstr":"Ohnivý řetěz"}
+{"msgctxt":"location","msgid":"Chapel of Eep","msgstr":"Kaple Eepa"}
+{"msgctxt":"location","msgid":"Church of Eep","msgstr":"Kostel Eepa"}
+{"msgctxt":"location","msgid":"Clanker's Laboratory","msgstr":"Clankerova laboratoř"}
+{"msgctxt":"location","msgid":"Colony Zod","msgstr":"Kolonie Zod"}
+{"msgctxt":"location","msgid":"Control Center","msgstr":"Řídicí centrum"}
+{"msgctxt":"location","msgid":"Corlagon's Estate","msgstr":"Corlagonovo panství"}
+{"msgctxt":"location","msgid":"Cyclops Larder","msgstr":"Spíž kyklopů"}
+{"msgctxt":"location","msgid":"Dagger Wound Island","msgstr":"Ostrov Rány dýkou"}
+{"msgctxt":"location","msgid":"Dark Dwarf Compound","msgstr":"Opevnění temných trpaslíků"}
+{"msgctxt":"location","msgid":"Devil Outpost","msgstr":"Ďábelská základna"}
+{"msgctxt":"location","msgid":"Deyja","msgstr":"Deyja"}
+{"msgctxt":"location","msgid":"Dire Wolf Den","msgstr":"Doupě lítých vlků"}
+{"msgctxt":"location","msgid":"Dragon Cave","msgstr":"Dračí jeskyně"}
+{"msgctxt":"location","msgid":"Dragon Hunter's Camp","msgstr":"Tábor lovců draků"}
+{"msgctxt":"location","msgid":"Dragon's Lair","msgstr":"Dračí sluj"}
+{"msgctxt":"location","msgid":"Dragonsand","msgstr":"Dračí písky"}
+{"msgctxt":"location","msgid":"Dragoons' Caverns","msgstr":"Jeskyně dragounů"}
+{"msgctxt":"location","msgid":"Dragoons' Keep","msgstr":"Pevnost dragounů"}
+{"msgctxt":"location","msgid":"Druid Circle","msgstr":"Druidský kruh"}
+{"msgctxt":"location","msgid":"Eel Infested Waters","msgstr":"Vody zamořené úhoři"}
+{"msgctxt":"location","msgid":"Emerald Island","msgstr":"Smaragdový ostrov"}
+{"msgctxt":"location","msgid":"Erathia","msgstr":"Erathie"}
+{"msgctxt":"location","msgid":"Escaton's Crystal","msgstr":"Escatonův krystal"}
+{"msgctxt":"location","msgid":"Escaton's Palace","msgstr":"Escatonův palác"}
+{"msgctxt":"location","msgid":"Evenmorn Island","msgstr":"Ostrov Evenmorn"}
+{"msgctxt":"location","msgid":"Fort Riverstride","msgstr":"Pevnost Riverstride"}
+{"msgctxt":"location","msgid":"Free Haven","msgstr":"Svobodný přístav"}
+{"msgctxt":"location","msgid":"Free Haven Sewer","msgstr":"Stoky Svobodného přístavu"}
+{"msgctxt":"location","msgid":"Frozen Highlands","msgstr":"Mrazivá vrchovina"}
+{"msgctxt":"location","msgid":"Garrote Gorge","msgstr":"Rokle Garrote"}
+{"msgctxt":"location","msgid":"Gharik's Forge","msgstr":"Gharikova kovárna"}
+{"msgctxt":"location","msgid":"Goblinwatch","msgstr":"Gobliní hláska"}
+{"msgctxt":"location","msgid":"Grand Temple of Eep","msgstr":"Velký chrám Eepa"}
+{"msgctxt":"location","msgid":"Grand Temple of the Moon","msgstr":"Velký chrám Měsíce"}
+{"msgctxt":"location","msgid":"Grand Temple of the Sun","msgstr":"Velký chrám Slunce"}
+{"msgctxt":"location","msgid":"Hall of the Fire Lord","msgstr":"Síň Pána ohně"}
+{"msgctxt":"location","msgid":"Harmondale","msgstr":"Harmondale"}
+{"msgctxt":"location","msgid":"Hermit's Isle","msgstr":"Poustevníkův ostrov"}
+{"msgctxt":"location","msgid":"Icewind Keep","msgstr":"Pevnost Ledového větru"}
+{"msgctxt":"location","msgid":"Ilsingore's Cave","msgstr":"Jeskyně Ilsingora"}
+{"msgctxt":"location","msgid":"Ironsand Desert","msgstr":"Poušť Ironsand"}
+{"msgctxt":"location","msgid":"Kriegspire","msgstr":"Kriegspire"}
+{"msgctxt":"location","msgid":"Lair of the Wolf","msgstr":"Vlčí doupě"}
+{"msgctxt":"location","msgid":"Lord Markham's Manor","msgstr":"Panství lorda Markhama"}
+{"msgctxt":"location","msgid":"Mad Necromancer's Lab","msgstr":"Laboratoř šíleného nekromanta"}
+{"msgctxt":"location","msgid":"Merchant House of Alvar","msgstr":"Dům obchodníků z Alvaru"}
+{"msgctxt":"location","msgid":"Mire of the Damned","msgstr":"Močál prokletých"}
+{"msgctxt":"location","msgid":"Misty Islands","msgstr":"Mlžné ostrovy"}
+{"msgctxt":"location","msgid":"Mount Nighon","msgstr":"Hora Nighon"}
+{"msgctxt":"location","msgid":"Murmurwoods","msgstr":"Šeptající lesy"}
+{"msgctxt":"location","msgid":"Naga Vault","msgstr":"Pokladnice nág"}
+{"msgctxt":"location","msgid":"Necromancers' Guild","msgstr":"Cech nekromantů"}
+{"msgctxt":"location","msgid":"New Sorpigal","msgstr":"Nový Sorpigal"}
+{"msgctxt":"location","msgid":"New World Computing","msgstr":"New World Computing"}
+{"msgctxt":"location","msgid":"Nighon Tunnels","msgstr":"Nighonské tunely"}
+{"msgctxt":"location","msgid":"NWC","msgstr":"NWC"}
+{"msgctxt":"location","msgid":"Ogre Fortress","msgstr":"Zlobří pevnost"}
+{"msgctxt":"location","msgid":"Old Loeb's Cave","msgstr":"Jeskyně starého Loeba"}
+{"msgctxt":"location","msgid":"Oracle of Enroth","msgstr":"Orákulum Enrothu"}
+{"msgctxt":"location","msgid":"Paradise Valley","msgstr":"Rajské údolí"}
+{"msgctxt":"location","msgid":"Passage Under Regna","msgstr":"Průchod pod Regnou"}
+{"msgctxt":"location","msgid":"pending","msgstr":"čeká se"}
+{"msgctxt":"location","msgid":"Pirate Outpost","msgstr":"Pirátská základna"}
+{"msgctxt":"location","msgid":"Pirate Stronghold","msgstr":"Pirátská pevnost"}
+{"msgctxt":"location","msgid":"Plane Between Planes","msgstr":"Sféra mezi sférami"}
+{"msgctxt":"location","msgid":"Plane of Air","msgstr":"Sféra vzduchu"}
+{"msgctxt":"location","msgid":"Plane of Earth","msgstr":"Sféra země"}
+{"msgctxt":"location","msgid":"Plane of Fire","msgstr":"Sféra ohně"}
+{"msgctxt":"location","msgid":"Plane of Water","msgstr":"Sféra vody"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Air","msgstr":"Vězení Pána vzduchu"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Earth","msgstr":"Vězení Pána země"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Fire","msgstr":"Vězení Pána ohně"}
+{"msgctxt":"location","msgid":"Prison of the Lord of Water","msgstr":"Vězení Pána vody"}
+{"msgctxt":"location","msgid":"Ravage Roaming","msgstr":"Zpustošené pláně"}
+{"msgctxt":"location","msgid":"Ravenshore","msgstr":"Havraní pobřeží"}
+{"msgctxt":"location","msgid":"Regna","msgstr":"Regna"}
+{"msgctxt":"location","msgid":"Shadow Guild","msgstr":"Cech stínů"}
+{"msgctxt":"location","msgid":"Shadow Guild Hideout","msgstr":"Skrýš Cechu stínů"}
+{"msgctxt":"location","msgid":"Shadowspire","msgstr":"Stínová věž"}
+{"msgctxt":"location","msgid":"Shoals","msgstr":"Mělčiny"}
+{"msgctxt":"location","msgid":"Silver Cove","msgstr":"Stříbrná zátoka"}
+{"msgctxt":"location","msgid":"Silver Helm Outpost","msgstr":"Výspa Stříbrných přileb"}
+{"msgctxt":"location","msgid":"Silver Helm Stronghold","msgstr":"Pevnost Stříbrných přileb"}
+{"msgctxt":"location","msgid":"Small Sub Pen","msgstr":"Malý ponorkový dok"}
+{"msgctxt":"location","msgid":"Smuggler's Cove","msgstr":"Pašerácká zátoka"}
+{"msgctxt":"location","msgid":"Snergle's Caverns","msgstr":"Snerglovy jeskyně"}
+{"msgctxt":"location","msgid":"Snergle's Iron Mines","msgstr":"Snerglovy železné doly"}
+{"msgctxt":"location","msgid":"Stone City","msgstr":"Kamenné město"}
+{"msgctxt":"location","msgid":"Superior Temple of Baa","msgstr":"Vyšší chrám Baa"}
+{"msgctxt":"location","msgid":"Supreme Temple of Baa","msgstr":"Nejvyšší chrám Baa"}
+{"msgctxt":"location","msgid":"Sweet Water","msgstr":"Sladká voda"}
+{"msgctxt":"location","msgid":"Tatalia","msgstr":"Tatalie"}
+{"msgctxt":"location","msgid":"Temple of Baa","msgstr":"Chrám Baa"}
+{"msgctxt":"location","msgid":"Temple of the Dark","msgstr":"Chrám Temnoty"}
+{"msgctxt":"location","msgid":"Temple of the Fist","msgstr":"Chrám pěsti"}
+{"msgctxt":"location","msgid":"Temple of the Light","msgstr":"Chrám Světla"}
+{"msgctxt":"location","msgid":"Temple of the Moon","msgstr":"Chrám Měsíce"}
+{"msgctxt":"location","msgid":"Temple of the Snake","msgstr":"Chrám hada"}
+{"msgctxt":"location","msgid":"Temple of the Sun","msgstr":"Chrám Slunce"}
+{"msgctxt":"location","msgid":"Temple of Tsantsa","msgstr":"Chrám Tsantsy"}
+{"msgctxt":"location","msgid":"The Arena","msgstr":"Aréna"}
+{"msgctxt":"location","msgid":"The Bandit Caves","msgstr":"Jeskyně banditů"}
+{"msgctxt":"location","msgid":"The Barrow Downs","msgstr":"Mohylové údolí"}
+{"msgctxt":"location","msgid":"The Bracada Desert","msgstr":"Bracadská poušť"}
+{"msgctxt":"location","msgid":"The Breach","msgstr":"Průrva"}
+{"msgctxt":"location","msgid":"The Breeding Zone","msgstr":"Líheň"}
+{"msgctxt":"location","msgid":"The Crypt of Korbu","msgstr":"Korbuova krypta"}
+{"msgctxt":"location","msgid":"The Dragon Caves","msgstr":"Dračí jeskyně"}
+{"msgctxt":"location","msgid":"The Dragon's Lair","msgstr":"Dračí sluj"}
+{"msgctxt":"location","msgid":"The Erathian Sewers","msgstr":"Erathijské stoky"}
+{"msgctxt":"location","msgid":"The Hall of the Pit","msgstr":"Síň Jámy"}
+{"msgctxt":"location","msgid":"The Hall under the Hill","msgstr":"Síň pod kopcem"}
+{"msgctxt":"location","msgid":"The Haunted Mansion","msgstr":"Strašidelné sídlo"}
+{"msgctxt":"location","msgid":"The Hidden Tomb","msgstr":"Skrytá hrobka"}
+{"msgctxt":"location","msgid":"The Hive","msgstr":"Úl"}
+{"msgctxt":"location","msgid":"The Land of the Giants","msgstr":"Země obrů"}
+{"msgctxt":"location","msgid":"The Lincoln","msgstr":"Lincoln"}
+{"msgctxt":"location","msgid":"The Maze","msgstr":"Labyrint"}
+{"msgctxt":"location","msgid":"The Mercenary Guild ","msgstr":"Cech žoldáků "}
+{"msgctxt":"location","msgid":"The Monolith","msgstr":"Monolit"}
+{"msgctxt":"location","msgid":"The Pit","msgstr":"Jáma"}
+{"msgctxt":"location","msgid":"The Red Dwarf Mines","msgstr":"Doly Rudého trpaslíka"}
+{"msgctxt":"location","msgid":"The School of Sorcery","msgstr":"Škola čarodějnictví"}
+{"msgctxt":"location","msgid":"The Small House","msgstr":"Malý dům"}
+{"msgctxt":"location","msgid":"The Strange Temple","msgstr":"Podivný chrám"}
+{"msgctxt":"location","msgid":"The Temple of Baa","msgstr":"Chrám Baa"}
+{"msgctxt":"location","msgid":"The Temple of the Moon","msgstr":"Chrám Měsíce"}
+{"msgctxt":"location","msgid":"The Tidewater Caverns","msgstr":"Přílivové jeskyně"}
+{"msgctxt":"location","msgid":"The Titans' Stronghold","msgstr":"Pevnost titánů"}
+{"msgctxt":"location","msgid":"The Tularean Caves","msgstr":"Tulareanské jeskyně"}
+{"msgctxt":"location","msgid":"The Tularean Forest","msgstr":"Tulareanský les"}
+{"msgctxt":"location","msgid":"The Walls of Mist","msgstr":"Mlžné stěny"}
+{"msgctxt":"location","msgid":"The Wine Cellar","msgstr":"Vinný sklípek"}
+{"msgctxt":"location","msgid":"Thunderfist Mountain","msgstr":"Hora Hromové pěsti"}
+{"msgctxt":"location","msgid":"Tomb of Ethric the Mad","msgstr":"Hrobka Ethrica Šíleného"}
+{"msgctxt":"location","msgid":"Tomb of Lord Brinne","msgstr":"Hrobka lorda Brinna"}
+{"msgctxt":"location","msgid":"Tomb of VARN","msgstr":"Hrobka VARN"}
+{"msgctxt":"location","msgid":"Troll Tomb","msgstr":"Trolí hrobka"}
+{"msgctxt":"location","msgid":"Tunnels to Eeofol","msgstr":"Tunely do Eeofolu"}
+{"msgctxt":"location","msgid":"Tutorial","msgstr":"Výuka"}
+{"msgctxt":"location","msgid":"Uplifted Library","msgstr":"Vyzdvižená knihovna"}
+{"msgctxt":"location","msgid":"Vampire Crypt","msgstr":"Upíří krypta"}
+{"msgctxt":"location","msgid":"War Camp","msgstr":"Válečný tábor"}
+{"msgctxt":"location","msgid":"Warlord's Fortress","msgstr":"Vojevůdcova pevnost"}
+{"msgctxt":"location","msgid":"Wasp Nest","msgstr":"Vosí hnízdo"}
+{"msgctxt":"location","msgid":"Watchtower 6","msgstr":"Strážní věž 6"}
+{"msgctxt":"location","msgid":"White Cliff Cave","msgstr":"Jeskyně Bílého útesu"}
+{"msgctxt":"location","msgid":"William Setag's Tower","msgstr":"Věž Williama Setaga"}
+{"msgctxt":"location","msgid":"Wromthrax's Cave","msgstr":"Wromthraxova jeskyně"}
+{"msgctxt":"location","msgid":"Yaardrake's Cave","msgstr":"Yaardrakova jeskyně"}
+{"msgctxt":"location","msgid":"Zokarr's Tomb","msgstr":"Zokarrova hrobka"}
+{"msgctxt":"monsters","msgid":"Acidic Ooze","msgstr":"Kyselinový sliz"}
+{"msgctxt":"monsters","msgid":"Acolyte of Baa","msgstr":"Akolyta Baa"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Moon","msgstr":"Akolyta Měsíce"}
+{"msgctxt":"monsters","msgid":"Acolyte of the Sun","msgstr":"Akolyta slunce"}
+{"msgctxt":"monsters","msgid":"Adventurer","msgstr":"Dobrodruh"}
+{"msgctxt":"monsters","msgid":"Agar's Abomination","msgstr":"Agarova ohavnost"}
+{"msgctxt":"monsters","msgid":"Agar's Monster","msgstr":"Agarova stvůra"}
+{"msgctxt":"monsters","msgid":"Agar's Pet","msgstr":"Agarův mazlíček"}
+{"msgctxt":"monsters","msgid":"Air Elemental","msgstr":"Elementál vzduchu"}
+{"msgctxt":"monsters","msgid":"Air Hydra","msgstr":"Vzdušná hydra"}
+{"msgctxt":"monsters","msgid":"Air Warlock","msgstr":"Vzdušný černokněžník"}
+{"msgctxt":"monsters","msgid":"Ancient Behemoth","msgstr":"Prastarý behemot"}
+{"msgctxt":"monsters","msgid":"Ancient Wyvern","msgstr":"Prastará wyverna"}
+{"msgctxt":"monsters","msgid":"Angel","msgstr":"Anděl"}
+{"msgctxt":"monsters","msgid":"Angel Lord","msgstr":"Pán andělů"}
+{"msgctxt":"monsters","msgid":"Animalist","msgstr":"Animalista"}
+{"msgctxt":"monsters","msgid":"Apprentice Mage","msgstr":"Mág-učeň"}
+{"msgctxt":"monsters","msgid":"Archangel","msgstr":"Archanděl"}
+{"msgctxt":"monsters","msgid":"Archer","msgstr":"Lučištník"}
+{"msgctxt":"monsters","msgid":"Archmage","msgstr":"Arcimág"}
+{"msgctxt":"monsters","msgid":"Assassin","msgstr":"Vrah"}
+{"msgctxt":"monsters","msgid":"Assassin Droid","msgstr":"Likvidační droid"}
+{"msgctxt":"monsters","msgid":"Bandit","msgstr":"Bandita"}
+{"msgctxt":"monsters","msgid":"Barrow Wight","msgstr":"Mohylový umrlec"}
+{"msgctxt":"monsters","msgid":"Basilisk","msgstr":"Bazilišek"}
+{"msgctxt":"monsters","msgid":"Bat","msgstr":"Netopýr"}
+{"msgctxt":"monsters","msgid":"Behemoth","msgstr":"Behemot"}
+{"msgctxt":"monsters","msgid":"Bestial Animalist","msgstr":"Bestiální animalista"}
+{"msgctxt":"monsters","msgid":"Bestial Lycanthrope","msgstr":"Zdivočelý lykantrop"}
+{"msgctxt":"monsters","msgid":"Bestial Shapeshifter","msgstr":"Bestiální měňavec"}
+{"msgctxt":"monsters","msgid":"Blaster Guy C","msgstr":"Muž s blasterem C"}
+{"msgctxt":"monsters","msgid":"Blood Sucker","msgstr":"Krvesaj"}
+{"msgctxt":"monsters","msgid":"Blood Titan","msgstr":"Krvavý titán"}
+{"msgctxt":"monsters","msgid":"Bloodstone Ooze","msgstr":"Sliz z krvavého kamene"}
+{"msgctxt":"monsters","msgid":"Blue Dragon","msgstr":"Modrý drak"}
+{"msgctxt":"monsters","msgid":"Bone Dragon","msgstr":"Kostěný drak"}
+{"msgctxt":"monsters","msgid":"Boulder","msgstr":"Balvan"}
+{"msgctxt":"monsters","msgid":"Bounty Hunter","msgstr":"Lovec odměn"}
+{"msgctxt":"monsters","msgid":"Bowman","msgstr":"Lukostřelec"}
+{"msgctxt":"monsters","msgid":"Brain Sucker","msgstr":"Mozkosaj"}
+{"msgctxt":"monsters","msgid":"Brass Golem","msgstr":"Mosazný golem"}
+{"msgctxt":"monsters","msgid":"Brass Gorgon","msgstr":"Mosazná gorgona"}
+{"msgctxt":"monsters","msgid":"Brigand","msgstr":"Bandita"}
+{"msgctxt":"monsters","msgid":"Bronze Golem","msgstr":"Bronzový golem"}
+{"msgctxt":"monsters","msgid":"Bronze Gorgon","msgstr":"Bronzová gorgona"}
+{"msgctxt":"monsters","msgid":"Buccaneer","msgstr":"Bukanýr"}
+{"msgctxt":"monsters","msgid":"Burglar","msgstr":"Zloděj"}
+{"msgctxt":"monsters","msgid":"Cactus","msgstr":"Kaktus"}
+{"msgctxt":"monsters","msgid":"Cannibal","msgstr":"Kanibal"}
+{"msgctxt":"monsters","msgid":"Captain","msgstr":"Kapitán"}
+{"msgctxt":"monsters","msgid":"Cat A","msgstr":"Kočka A"}
+{"msgctxt":"monsters","msgid":"Cat B","msgstr":"Kočka B"}
+{"msgctxt":"monsters","msgid":"Cat C","msgstr":"Kočka C"}
+{"msgctxt":"monsters","msgid":"Centaur","msgstr":"Kentaur"}
+{"msgctxt":"monsters","msgid":"Centaur Warlord","msgstr":"Kentaurský vojevůdce"}
+{"msgctxt":"monsters","msgid":"Centaur Warrior","msgstr":"Kentaurský válečník"}
+{"msgctxt":"monsters","msgid":"Champion of the Sword","msgstr":"Šampion meče"}
+{"msgctxt":"monsters","msgid":"Chaos Guardian","msgstr":"Strážce chaosu"}
+{"msgctxt":"monsters","msgid":"Chaos Hydra","msgstr":"Hydra chaosu"}
+{"msgctxt":"monsters","msgid":"Chaos Overlord","msgstr":"Vládce chaosu"}
+{"msgctxt":"monsters","msgid":"Chaos Protector","msgstr":"Ochránce chaosu"}
+{"msgctxt":"monsters","msgid":"Charger","msgstr":"Útočník"}
+{"msgctxt":"monsters","msgid":"Chicken A","msgstr":"Slepice A"}
+{"msgctxt":"monsters","msgid":"Chicken B","msgstr":"Slepice B"}
+{"msgctxt":"monsters","msgid":"Chicken C","msgstr":"Slepice C"}
+{"msgctxt":"monsters","msgid":"Clay Elemental","msgstr":"Hliněný elementál"}
+{"msgctxt":"monsters","msgid":"Cleric of Baa","msgstr":"Klerik Baa"}
+{"msgctxt":"monsters","msgid":"Cleric of the Moon","msgstr":"Klerik Měsíce"}
+{"msgctxt":"monsters","msgid":"Cleric of the Sun","msgstr":"Klerik slunce"}
+{"msgctxt":"monsters","msgid":"Cobra","msgstr":"Kobra"}
+{"msgctxt":"monsters","msgid":"Colossal Hydra","msgstr":"Obří hydra"}
+{"msgctxt":"monsters","msgid":"Common Rat","msgstr":"Krysa obecná"}
+{"msgctxt":"monsters","msgid":"Conscript","msgstr":"Rekrutka"}
+{"msgctxt":"monsters","msgid":"Corbie","msgstr":"Krkavec"}
+{"msgctxt":"monsters","msgid":"Corrosive Ooze","msgstr":"Žíravý sliz"}
+{"msgctxt":"monsters","msgid":"Corsair","msgstr":"Korzár"}
+{"msgctxt":"monsters","msgid":"Couatl","msgstr":"Kuatl"}
+{"msgctxt":"monsters","msgid":"Crusader","msgstr":"Křižák"}
+{"msgctxt":"monsters","msgid":"Crystal Guardian","msgstr":"Krystalový strážce"}
+{"msgctxt":"monsters","msgid":"Crystal Sentry","msgstr":"Krystalový strážce"}
+{"msgctxt":"monsters","msgid":"Crystal Walker","msgstr":"Krystalový chodec"}
+{"msgctxt":"monsters","msgid":"Cuisinart","msgstr":"Cuisinart"}
+{"msgctxt":"monsters","msgid":"Cutpurse","msgstr":"Kapsář"}
+{"msgctxt":"monsters","msgid":"Cyclone","msgstr":"Cyklón"}
+{"msgctxt":"monsters","msgid":"Cyclops","msgstr":"Kyklop"}
+{"msgctxt":"monsters","msgid":"Cyclops Hunter","msgstr":"Kyklopí lovec"}
+{"msgctxt":"monsters","msgid":"Cyclops Warrior","msgstr":"Kyklopí válečník"}
+{"msgctxt":"monsters","msgid":"Dancing Light","msgstr":"Tančící světlo"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Berserker","msgstr":"Berserkr temných trpaslíků"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Grunt","msgstr":"Pěšák temných trpaslíků"}
+{"msgctxt":"monsters","msgid":"Dark Dwarf Pounder","msgstr":"Bijec temných trpaslíků"}
+{"msgctxt":"monsters","msgid":"Dark Elf Peasant","msgstr":"Sedlák temných elfů"}
+{"msgctxt":"monsters","msgid":"Dark Elven Crusader","msgstr":"Temnoelfí křižák"}
+{"msgctxt":"monsters","msgid":"Dark Elven Defender","msgstr":"Temnoelfí obránce"}
+{"msgctxt":"monsters","msgid":"Dark Elven Warrior","msgstr":"Válečník temných elfů"}
+{"msgctxt":"monsters","msgid":"Dark Path Journeyman","msgstr":"Tovaryš Temné cesty"}
+{"msgctxt":"monsters","msgid":"Death Knight","msgstr":"Rytíř smrti"}
+{"msgctxt":"monsters","msgid":"Defender of VARN","msgstr":"Obránce VARNu"}
+{"msgctxt":"monsters","msgid":"Demolisher","msgstr":"Ničitel"}
+{"msgctxt":"monsters","msgid":"Demon Queen","msgstr":"Královna démonů"}
+{"msgctxt":"monsters","msgid":"Devil Captain","msgstr":"Ďábelský kapitán"}
+{"msgctxt":"monsters","msgid":"Devil King","msgstr":"Král ďáblů"}
+{"msgctxt":"monsters","msgid":"Devil Master","msgstr":"Mistr ďáblů"}
+{"msgctxt":"monsters","msgid":"Devil Spawn","msgstr":"Ďábelský zplozenec"}
+{"msgctxt":"monsters","msgid":"Devil Warrior","msgstr":"Ďábelský válečník"}
+{"msgctxt":"monsters","msgid":"Devil Worker","msgstr":"Ďábelský dělník"}
+{"msgctxt":"monsters","msgid":"Diamond Gargoyle","msgstr":"Diamantová gargoyla"}
+{"msgctxt":"monsters","msgid":"Dire Wolf","msgstr":"Lítý vlk"}
+{"msgctxt":"monsters","msgid":"Dire Wolf Yearling","msgstr":"Mládě lítého vlka"}
+{"msgctxt":"monsters","msgid":"Djinn","msgstr":"Džin"}
+{"msgctxt":"monsters","msgid":"Djinni","msgstr":"Džin"}
+{"msgctxt":"monsters","msgid":"Dog A","msgstr":"Pes A"}
+{"msgctxt":"monsters","msgid":"Dog B","msgstr":"Pes B"}
+{"msgctxt":"monsters","msgid":"Dog C","msgstr":"Pes C"}
+{"msgctxt":"monsters","msgid":"Doom Knight","msgstr":"Rytíř zkázy"}
+{"msgctxt":"monsters","msgid":"Dragon","msgstr":"Drak"}
+{"msgctxt":"monsters","msgid":"Dragon Flightleader","msgstr":"Velitel dračí letky"}
+{"msgctxt":"monsters","msgid":"Dragon Hunter","msgstr":"Lovec draků"}
+{"msgctxt":"monsters","msgid":"Dragon Shark","msgstr":"Dračí žralok"}
+{"msgctxt":"monsters","msgid":"Dragon Turtle","msgstr":"Dračí želva"}
+{"msgctxt":"monsters","msgid":"Dragonette","msgstr":"Dráče"}
+{"msgctxt":"monsters","msgid":"Dragonfly","msgstr":"Vážka"}
+{"msgctxt":"monsters","msgid":"Dragonslayer","msgstr":"Drakobijec"}
+{"msgctxt":"monsters","msgid":"Druid","msgstr":"Druid"}
+{"msgctxt":"monsters","msgid":"Dust Devil","msgstr":"Prachový ďábel"}
+{"msgctxt":"monsters","msgid":"Dwarf","msgstr":"Trpaslík"}
+{"msgctxt":"monsters","msgid":"Dwarf Lord","msgstr":"Pán trpaslíků"}
+{"msgctxt":"monsters","msgid":"Dwarf Warrior","msgstr":"Trpasličí válečník"}
+{"msgctxt":"monsters","msgid":"Dwarven Commander","msgstr":"Trpasličí velitel"}
+{"msgctxt":"monsters","msgid":"Dwarven Lieutenant","msgstr":"Trpasličí poručík"}
+{"msgctxt":"monsters","msgid":"Dwarven Soldier","msgstr":"Trpasličí voják"}
+{"msgctxt":"monsters","msgid":"Earth Elemental","msgstr":"Elementál země"}
+{"msgctxt":"monsters","msgid":"Earth Spirit","msgstr":"Duch země"}
+{"msgctxt":"monsters","msgid":"Efreet","msgstr":"Ifrít"}
+{"msgctxt":"monsters","msgid":"Efreeti Knight","msgstr":"Ifrítí rytíř"}
+{"msgctxt":"monsters","msgid":"Efreeti Lord","msgstr":"Pán ifrítů"}
+{"msgctxt":"monsters","msgid":"Efreeti Soldier","msgstr":"Ifrítí voják"}
+{"msgctxt":"monsters","msgid":"Elder Basilisk","msgstr":"Starší bazilišek"}
+{"msgctxt":"monsters","msgid":"Elder Tortoise","msgstr":"Starší želva"}
+{"msgctxt":"monsters","msgid":"Elder Vampire","msgstr":"Starší upír"}
+{"msgctxt":"monsters","msgid":"Elite Archer","msgstr":"Elitní lučištník"}
+{"msgctxt":"monsters","msgid":"Elven Archer","msgstr":"Elfí lučištník"}
+{"msgctxt":"monsters","msgid":"Elven Defender","msgstr":"Elfí obránce"}
+{"msgctxt":"monsters","msgid":"Elven Lancer","msgstr":"Elfí kopiník"}
+{"msgctxt":"monsters","msgid":"Elven Ranger","msgstr":"Elfí hraničář"}
+{"msgctxt":"monsters","msgid":"Elven Scout","msgstr":"Elfí průzkumník"}
+{"msgctxt":"monsters","msgid":"Elven Warrior","msgstr":"Elfí válečník"}
+{"msgctxt":"monsters","msgid":"Ember Gog","msgstr":"Žhnoucí gog"}
+{"msgctxt":"monsters","msgid":"Emerald Dragon","msgstr":"Smaragdový drak"}
+{"msgctxt":"monsters","msgid":"Emerald Ooze","msgstr":"Smaragdový sliz"}
+{"msgctxt":"monsters","msgid":"Empress Medusa","msgstr":"Medúzí císařovna"}
+{"msgctxt":"monsters","msgid":"Energy Drake","msgstr":"Dráček energie"}
+{"msgctxt":"monsters","msgid":"Enforcer Unit","msgstr":"Pořádková jednotka"}
+{"msgctxt":"monsters","msgid":"Ether Champion","msgstr":"Šampion éteru"}
+{"msgctxt":"monsters","msgid":"Ether Knight","msgstr":"Éterický rytíř"}
+{"msgctxt":"monsters","msgid":"Ether Lord","msgstr":"Pán éteru"}
+{"msgctxt":"monsters","msgid":"Evil Eye","msgstr":"Zlé oko"}
+{"msgctxt":"monsters","msgid":"Evil Spirit","msgstr":"Zlý duch"}
+{"msgctxt":"monsters","msgid":"Expert Swordsman","msgstr":"Zkušený šermíř"}
+{"msgctxt":"monsters","msgid":"Fanatic of Baa","msgstr":"Fanatik Baa"}
+{"msgctxt":"monsters","msgid":"Fear","msgstr":"Strach"}
+{"msgctxt":"monsters","msgid":"Fighter","msgstr":"Bojovník"}
+{"msgctxt":"monsters","msgid":"Fire Archer","msgstr":"Ohnivý lučištník"}
+{"msgctxt":"monsters","msgid":"Fire Beast","msgstr":"Ohnivá bestie"}
+{"msgctxt":"monsters","msgid":"Fire Bird","msgstr":"Ohnivý pták"}
+{"msgctxt":"monsters","msgid":"Fire Dragonfly","msgstr":"Ohnivá vážka"}
+{"msgctxt":"monsters","msgid":"Fire Elemental","msgstr":"Ohnivý elementál"}
+{"msgctxt":"monsters","msgid":"Fire Gog","msgstr":"Ohnivý gog"}
+{"msgctxt":"monsters","msgid":"Fire Hydra","msgstr":"Ohnivá hydra"}
+{"msgctxt":"monsters","msgid":"Fire Lizard","msgstr":"Ohnivý ještěr"}
+{"msgctxt":"monsters","msgid":"Fire Newt","msgstr":"Ohnivý mlok"}
+{"msgctxt":"monsters","msgid":"Fire Rat","msgstr":"Ohnivá krysa"}
+{"msgctxt":"monsters","msgid":"Fire Spirit","msgstr":"Ohnivý duch"}
+{"msgctxt":"monsters","msgid":"Fire Warlock","msgstr":"Ohnivý černokněžník"}
+{"msgctxt":"monsters","msgid":"Fish","msgstr":"Ryba"}
+{"msgctxt":"monsters","msgid":"Flame Drake","msgstr":"Plamenný drak"}
+{"msgctxt":"monsters","msgid":"Floating Eye","msgstr":"Vznášející se oko"}
+{"msgctxt":"monsters","msgid":"Flying Eye","msgstr":"Létající oko"}
+{"msgctxt":"monsters","msgid":"Follower of Baa","msgstr":"Stoupenec Baa"}
+{"msgctxt":"monsters","msgid":"Frost Drake","msgstr":"Mrazivý drak"}
+{"msgctxt":"monsters","msgid":"Gazer","msgstr":"Zírač"}
+{"msgctxt":"monsters","msgid":"Genie","msgstr":"Džin"}
+{"msgctxt":"monsters","msgid":"Ghast","msgstr":"Děs"}
+{"msgctxt":"monsters","msgid":"Ghost","msgstr":"Duch"}
+{"msgctxt":"monsters","msgid":"Ghoul ","msgstr":"Ghúl "}
+{"msgctxt":"monsters","msgid":"Giant Bat","msgstr":"Obří netopýr"}
+{"msgctxt":"monsters","msgid":"Giant Rat","msgstr":"Obří krysa"}
+{"msgctxt":"monsters","msgid":"Giant Shark","msgstr":"Obří žralok"}
+{"msgctxt":"monsters","msgid":"Giant Spider","msgstr":"Obří pavouk"}
+{"msgctxt":"monsters","msgid":"Giant Wyrm","msgstr":"Obří saň"}
+{"msgctxt":"monsters","msgid":"Goblin","msgstr":"Goblin"}
+{"msgctxt":"monsters","msgid":"Goblin King","msgstr":"Král goblinů"}
+{"msgctxt":"monsters","msgid":"Goblin Lord","msgstr":"Pán goblinů"}
+{"msgctxt":"monsters","msgid":"Goblin Shaman","msgstr":"Gobliní šaman"}
+{"msgctxt":"monsters","msgid":"Gog","msgstr":"Gog"}
+{"msgctxt":"monsters","msgid":"Gogling","msgstr":"Goglík"}
+{"msgctxt":"monsters","msgid":"Gold Dragon","msgstr":"Zlatý drak"}
+{"msgctxt":"monsters","msgid":"Gold Golem","msgstr":"Zlatý golem"}
+{"msgctxt":"monsters","msgid":"Gorgon","msgstr":"Gorgona"}
+{"msgctxt":"monsters","msgid":"Grand Druid","msgstr":"Nejvyšší druid"}
+{"msgctxt":"monsters","msgid":"Grand Phoenix","msgstr":"Velký fénix"}
+{"msgctxt":"monsters","msgid":"Great Druid","msgstr":"Velký druid"}
+{"msgctxt":"monsters","msgid":"Great Wyrm","msgstr":"Velká saň"}
+{"msgctxt":"monsters","msgid":"Greater Air Elemental","msgstr":"Vyšší elementál vzduchu"}
+{"msgctxt":"monsters","msgid":"Greater Earth Elemental","msgstr":"Větší elementál země"}
+{"msgctxt":"monsters","msgid":"Greater Fire Elemental","msgstr":"Větší ohnivý elementál"}
+{"msgctxt":"monsters","msgid":"Greater Lich","msgstr":"Vyšší lich"}
+{"msgctxt":"monsters","msgid":"Greater Light Elemental","msgstr":"Větší elementál světla"}
+{"msgctxt":"monsters","msgid":"Greater Roc","msgstr":"Větší roch"}
+{"msgctxt":"monsters","msgid":"Greater Vampire","msgstr":"Vyšší upír"}
+{"msgctxt":"monsters","msgid":"Greater Water Elemental","msgstr":"Větší vodní elementál"}
+{"msgctxt":"monsters","msgid":"Greater Wererat","msgstr":"Vyšší krysodlak"}
+{"msgctxt":"monsters","msgid":"Greater Werewolf","msgstr":"Vyšší vlkodlak"}
+{"msgctxt":"monsters","msgid":"Green Dragon","msgstr":"Zelený drak"}
+{"msgctxt":"monsters","msgid":"Griffin","msgstr":"Gryf"}
+{"msgctxt":"monsters","msgid":"Guard","msgstr":"Strážný"}
+{"msgctxt":"monsters","msgid":"Guardian of Flame","msgstr":"Strážce plamene"}
+{"msgctxt":"monsters","msgid":"Guardian of VARN","msgstr":"Strážce VARNu"}
+{"msgctxt":"monsters","msgid":"Harpy","msgstr":"Harpyje"}
+{"msgctxt":"monsters","msgid":"Harpy Hag","msgstr":"Stará harpyje"}
+{"msgctxt":"monsters","msgid":"Harpy Queen","msgstr":"Královna harpyjí"}
+{"msgctxt":"monsters","msgid":"Harpy Witch","msgstr":"Harpyjí čarodějnice"}
+{"msgctxt":"monsters","msgid":"Hatchling","msgstr":"Dráče"}
+{"msgctxt":"monsters","msgid":"Head Hunter","msgstr":"Lovec lebek"}
+{"msgctxt":"monsters","msgid":"Hobgoblin","msgstr":"Hobgoblin"}
+{"msgctxt":"monsters","msgid":"Horned Wyvern","msgstr":"Rohatá wyverna"}
+{"msgctxt":"monsters","msgid":"Huge Spider","msgstr":"Obrovský pavouk"}
+{"msgctxt":"monsters","msgid":"Human Peasant","msgstr":"Lidský sedlák"}
+{"msgctxt":"monsters","msgid":"Hunting Griffin","msgstr":"Lovecký gryf"}
+{"msgctxt":"monsters","msgid":"Hydra","msgstr":"Hydra"}
+{"msgctxt":"monsters","msgid":"Inferno Bat","msgstr":"Netopýr Inferna"}
+{"msgctxt":"monsters","msgid":"Initiate","msgstr":"Zasvěcenec"}
+{"msgctxt":"monsters","msgid":"Initiate Monk","msgstr":"Mnich zasvěcenec"}
+{"msgctxt":"monsters","msgid":"Initiate of the Sword","msgstr":"Zasvěcenec meče"}
+{"msgctxt":"monsters","msgid":"Iron Gorgon","msgstr":"Železná gorgona"}
+{"msgctxt":"monsters","msgid":"Journeyman Mage","msgstr":"Mág-tovaryš"}
+{"msgctxt":"monsters","msgid":"Juggernaut","msgstr":"Kolos"}
+{"msgctxt":"monsters","msgid":"King Cobra","msgstr":"Královská kobra"}
+{"msgctxt":"monsters","msgid":"Large Rat","msgstr":"Přerostlá krysa"}
+{"msgctxt":"monsters","msgid":"Lesser Air Elemental","msgstr":"Nižší elementál vzduchu"}
+{"msgctxt":"monsters","msgid":"Lesser Earth Elemental","msgstr":"Menší elementál země"}
+{"msgctxt":"monsters","msgid":"Lesser Fire Elemental","msgstr":"Nižší ohnivý elementál"}
+{"msgctxt":"monsters","msgid":"Lesser Light Elemental","msgstr":"Menší elementál světla"}
+{"msgctxt":"monsters","msgid":"Lesser Water Elemental","msgstr":"Menší vodní elementál"}
+{"msgctxt":"monsters","msgid":"Lich","msgstr":"Lich"}
+{"msgctxt":"monsters","msgid":"Lich King","msgstr":"Král lichů"}
+{"msgctxt":"monsters","msgid":"Lieutenant","msgstr":"Poručík"}
+{"msgctxt":"monsters","msgid":"Light Elemental","msgstr":"Elementál světla"}
+{"msgctxt":"monsters","msgid":"Lightning Lizard","msgstr":"Blesková ještěrka"}
+{"msgctxt":"monsters","msgid":"Lightning Rat","msgstr":"Blesková krysa"}
+{"msgctxt":"monsters","msgid":"Lizard Archer","msgstr":"Ještěří lučištník"}
+{"msgctxt":"monsters","msgid":"Lizard Man","msgstr":"Ještěří muž"}
+{"msgctxt":"monsters","msgid":"Lizard Wizard","msgstr":"Ještěří čaroděj"}
+{"msgctxt":"monsters","msgid":"Lizardman Captain","msgstr":"Ještěrčí kapitán"}
+{"msgctxt":"monsters","msgid":"Lizardman Farmer","msgstr":"Ještěří rolník"}
+{"msgctxt":"monsters","msgid":"Lizardman Peasant","msgstr":"Ještěrčí sedlák"}
+{"msgctxt":"monsters","msgid":"Lizardman Sergeant","msgstr":"Ještěrčí seržant"}
+{"msgctxt":"monsters","msgid":"Lizardman Soldier","msgstr":"Ještěrčí voják"}
+{"msgctxt":"monsters","msgid":"Lizardman Villager","msgstr":"Ještěrčí vesničan"}
+{"msgctxt":"monsters","msgid":"Lycanthrope","msgstr":"Lykantrop"}
+{"msgctxt":"monsters","msgid":"Maddening Eye","msgstr":"Oko šílenství"}
+{"msgctxt":"monsters","msgid":"Mage","msgstr":"Mág"}
+{"msgctxt":"monsters","msgid":"Magician","msgstr":"Kouzelník"}
+{"msgctxt":"monsters","msgid":"Magog","msgstr":"Magog"}
+{"msgctxt":"monsters","msgid":"Magyar","msgstr":"Maďar"}
+{"msgctxt":"monsters","msgid":"Magyar Matron","msgstr":"Maďarská matrona"}
+{"msgctxt":"monsters","msgid":"Magyar Soldier","msgstr":"Maďarský voják"}
+{"msgctxt":"monsters","msgid":"Manticore ","msgstr":"Mantikora "}
+{"msgctxt":"monsters","msgid":"Marble Gargoyle","msgstr":"Mramorový chrlič"}
+{"msgctxt":"monsters","msgid":"Master","msgstr":"Mistr"}
+{"msgctxt":"monsters","msgid":"Master Archer","msgstr":"Mistr lučištník"}
+{"msgctxt":"monsters","msgid":"Master Monk","msgstr":"Mistr mnich"}
+{"msgctxt":"monsters","msgid":"Master Necromancer","msgstr":"Mistr nekromant"}
+{"msgctxt":"monsters","msgid":"Master of the Sword","msgstr":"Mistr meče"}
+{"msgctxt":"monsters","msgid":"Master Swordsman","msgstr":"Mistr šermíř"}
+{"msgctxt":"monsters","msgid":"Master Thief","msgstr":"Mistr zlodějů"}
+{"msgctxt":"monsters","msgid":"Medusa","msgstr":"Medúza"}
+{"msgctxt":"monsters","msgid":"Medusa Enchantress","msgstr":"Medúzí kouzelnice"}
+{"msgctxt":"monsters","msgid":"Mega-Dragon","msgstr":"Megadrak"}
+{"msgctxt":"monsters","msgid":"Mercenary","msgstr":"Žoldák"}
+{"msgctxt":"monsters","msgid":"Mercenary Captain","msgstr":"Žoldácký kapitán"}
+{"msgctxt":"monsters","msgid":"Minicore","msgstr":"Minikora"}
+{"msgctxt":"monsters","msgid":"Minion Vampire","msgstr":"Podřízený upír"}
+{"msgctxt":"monsters","msgid":"Minotaur","msgstr":"Minotaur"}
+{"msgctxt":"monsters","msgid":"Minotaur Battleleader","msgstr":"Minotauří vojevůdce"}
+{"msgctxt":"monsters","msgid":"Minotaur Guard","msgstr":"Minotauří strážný"}
+{"msgctxt":"monsters","msgid":"Minotaur Headsman","msgstr":"Minotauří kat"}
+{"msgctxt":"monsters","msgid":"Minotaur King","msgstr":"Král minotaurů"}
+{"msgctxt":"monsters","msgid":"Minotaur Lord","msgstr":"Pán minotaurů"}
+{"msgctxt":"monsters","msgid":"Minotaur Mage","msgstr":"Minotauří mág"}
+{"msgctxt":"monsters","msgid":"Minotaur Peasant","msgstr":"Minotauří sedlák"}
+{"msgctxt":"monsters","msgid":"Minotaur Warrior","msgstr":"Minotauří válečník"}
+{"msgctxt":"monsters","msgid":"Mist Hawk","msgstr":"Mlžný jestřáb"}
+{"msgctxt":"monsters","msgid":"Monk","msgstr":"Mnich"}
+{"msgctxt":"monsters","msgid":"Mountain Troll","msgstr":"Horský trol"}
+{"msgctxt":"monsters","msgid":"Mystic of Baa","msgstr":"Mystik Baa"}
+{"msgctxt":"monsters","msgid":"Naga ","msgstr":"Nága "}
+{"msgctxt":"monsters","msgid":"Naga Queen","msgstr":"Královna nág"}
+{"msgctxt":"monsters","msgid":"Naga Warrior","msgstr":"Nágská válečnice"}
+{"msgctxt":"monsters","msgid":"Necromancer","msgstr":"Nekromant"}
+{"msgctxt":"monsters","msgid":"Nightmare","msgstr":"Noční můra"}
+{"msgctxt":"monsters","msgid":"Noble Titan","msgstr":"Urozený titán"}
+{"msgctxt":"monsters","msgid":"Novice Monk","msgstr":"Mnich novic"}
+{"msgctxt":"monsters","msgid":"Obsidian Gargoyle","msgstr":"Obsidiánový chrlič"}
+{"msgctxt":"monsters","msgid":"Ogre","msgstr":"Zlobr"}
+{"msgctxt":"monsters","msgid":"Ogre Brawler","msgstr":"Zlobří rváč"}
+{"msgctxt":"monsters","msgid":"Ogre Chieftain","msgstr":"Zlobří náčelník"}
+{"msgctxt":"monsters","msgid":"Ogre Mage ","msgstr":"Zlobří mág "}
+{"msgctxt":"monsters","msgid":"Ogre Mage Apprentice","msgstr":"Učeň zlobřího mága"}
+{"msgctxt":"monsters","msgid":"Ogre Magi","msgstr":"Zlobří mág"}
+{"msgctxt":"monsters","msgid":"Ogre Peasant","msgstr":"Zlobří sedlák"}
+{"msgctxt":"monsters","msgid":"Ogre Raider","msgstr":"Ogří nájezdník"}
+{"msgctxt":"monsters","msgid":"Ogre Warleader","msgstr":"Zlobří vojevůdce"}
+{"msgctxt":"monsters","msgid":"Ogre Warrior","msgstr":"Zlobří válečník"}
+{"msgctxt":"monsters","msgid":"Ooze","msgstr":"Sliz"}
+{"msgctxt":"monsters","msgid":"Pack Leader","msgstr":"Vůdce smečky"}
+{"msgctxt":"monsters","msgid":"Patrol Unit","msgstr":"Hlídková jednotka"}
+{"msgctxt":"monsters","msgid":"Peasant","msgstr":"Sedlák"}
+{"msgctxt":"monsters","msgid":"Phoenix","msgstr":"Fénix"}
+{"msgctxt":"monsters","msgid":"Piranha Shark","msgstr":"Piraňový žralok"}
+{"msgctxt":"monsters","msgid":"Pirate","msgstr":"Pirát"}
+{"msgctxt":"monsters","msgid":"Pirate Magi","msgstr":"Pirátský mág"}
+{"msgctxt":"monsters","msgid":"Pirate Seer","msgstr":"Pirátský věštec"}
+{"msgctxt":"monsters","msgid":"Pirate Wizard","msgstr":"Pirátský čaroděj"}
+{"msgctxt":"monsters","msgid":"Plane Guardian","msgstr":"Strážce sféry"}
+{"msgctxt":"monsters","msgid":"Plane Overlord","msgstr":"Vládce sféry"}
+{"msgctxt":"monsters","msgid":"Plane Protector","msgstr":"Ochránce sféry"}
+{"msgctxt":"monsters","msgid":"Power Lich","msgstr":"Mocný lich"}
+{"msgctxt":"monsters","msgid":"Priest of Baa","msgstr":"Kněz Baa"}
+{"msgctxt":"monsters","msgid":"Priest of the Moon","msgstr":"Kněz Měsíce"}
+{"msgctxt":"monsters","msgid":"Priest of the Sun","msgstr":"Kněz slunce"}
+{"msgctxt":"monsters","msgid":"Queen Cobra","msgstr":"Kobří královna"}
+{"msgctxt":"monsters","msgid":"Queen Dragonfly","msgstr":"Královna vážek"}
+{"msgctxt":"monsters","msgid":"Queen Medusa","msgstr":"Medúzí královna"}
+{"msgctxt":"monsters","msgid":"Queen of the Dead","msgstr":"Královna mrtvých"}
+{"msgctxt":"monsters","msgid":"Raider","msgstr":"Nájezdník"}
+{"msgctxt":"monsters","msgid":"Rat A","msgstr":"Krysa A"}
+{"msgctxt":"monsters","msgid":"Rat B","msgstr":"Krysa B"}
+{"msgctxt":"monsters","msgid":"Rat C","msgstr":"Krysa C"}
+{"msgctxt":"monsters","msgid":"Ratman","msgstr":"Krysí muž"}
+{"msgctxt":"monsters","msgid":"Raven","msgstr":"Havran"}
+{"msgctxt":"monsters","msgid":"Reactor","msgstr":"Reaktor"}
+{"msgctxt":"monsters","msgid":"Red Dragon","msgstr":"Rudý drak"}
+{"msgctxt":"monsters","msgid":"Regnan Arbalester","msgstr":"Regnanský arbaletník"}
+{"msgctxt":"monsters","msgid":"Regnan Archmage","msgstr":"Regnanský arcimág"}
+{"msgctxt":"monsters","msgid":"Regnan Bandit","msgstr":"Regnanský bandita"}
+{"msgctxt":"monsters","msgid":"Regnan Battlemage","msgstr":"Regnanský bojový mág"}
+{"msgctxt":"monsters","msgid":"Regnan Brigadier","msgstr":"Regnanský brigadýr"}
+{"msgctxt":"monsters","msgid":"Regnan Crossbowman","msgstr":"Regnanský kušiník"}
+{"msgctxt":"monsters","msgid":"Regnan Lieutenant","msgstr":"Regnanský poručík"}
+{"msgctxt":"monsters","msgid":"Regnan Pirate","msgstr":"Regnanský pirát"}
+{"msgctxt":"monsters","msgid":"Regnan Sorcerer","msgstr":"Regnanský kouzelník"}
+{"msgctxt":"monsters","msgid":"Revenant","msgstr":"Navrátilec"}
+{"msgctxt":"monsters","msgid":"River Troll","msgstr":"Říční trol"}
+{"msgctxt":"monsters","msgid":"Robber","msgstr":"Loupežník"}
+{"msgctxt":"monsters","msgid":"Robert the Wise","msgstr":"Robert Moudrý"}
+{"msgctxt":"monsters","msgid":"Roc","msgstr":"Roch"}
+{"msgctxt":"monsters","msgid":"Rock Beast","msgstr":"Skalní bestie"}
+{"msgctxt":"monsters","msgid":"Rogue","msgstr":"Lupič"}
+{"msgctxt":"monsters","msgid":"Rook","msgstr":"Havran"}
+{"msgctxt":"monsters","msgid":"Rotted Corpse","msgstr":"Shnilá mrtvola"}
+{"msgctxt":"monsters","msgid":"Royal Griffin","msgstr":"Královský gryf"}
+{"msgctxt":"monsters","msgid":"Ruby Dragon","msgstr":"Rubínový drak"}
+{"msgctxt":"monsters","msgid":"Ruffian","msgstr":"Lotr"}
+{"msgctxt":"monsters","msgid":"Salamander ","msgstr":"Salamandr "}
+{"msgctxt":"monsters","msgid":"Sapphire Dragon","msgstr":"Safírový drak"}
+{"msgctxt":"monsters","msgid":"Sapphire Ooze","msgstr":"Safírový sliz"}
+{"msgctxt":"monsters","msgid":"Scorpicore","msgstr":"Škorpikora"}
+{"msgctxt":"monsters","msgid":"Sea Monster","msgstr":"Mořská příšera"}
+{"msgctxt":"monsters","msgid":"Sea Serpent","msgstr":"Mořský had"}
+{"msgctxt":"monsters","msgid":"Sea Terror","msgstr":"Mořská hrůza"}
+{"msgctxt":"monsters","msgid":"Seeker Droid","msgstr":"Vyhledávací droid"}
+{"msgctxt":"monsters","msgid":"Sentinel Droid","msgstr":"Strážní droid"}
+{"msgctxt":"monsters","msgid":"Sentinel of VARN","msgstr":"Strážný VARNu"}
+{"msgctxt":"monsters","msgid":"Serpentman","msgstr":"Hadí muž"}
+{"msgctxt":"monsters","msgid":"Serpentman Elder","msgstr":"Stařešina hadích mužů"}
+{"msgctxt":"monsters","msgid":"Serpentman Warrior","msgstr":"Válečník hadích mužů"}
+{"msgctxt":"monsters","msgid":"Shade","msgstr":"Stín"}
+{"msgctxt":"monsters","msgid":"Shapeshifter","msgstr":"Měňavec"}
+{"msgctxt":"monsters","msgid":"Skeletal Dragon","msgstr":"Kostlivý drak"}
+{"msgctxt":"monsters","msgid":"Skeleton","msgstr":"Kostlivec"}
+{"msgctxt":"monsters","msgid":"Skeleton Archer ","msgstr":"Kostlivec lučištník "}
+{"msgctxt":"monsters","msgid":"Skeleton Bowman","msgstr":"Kostlivec-lukostřelec"}
+{"msgctxt":"monsters","msgid":"Skeleton Hunter","msgstr":"Kostlivec lovec"}
+{"msgctxt":"monsters","msgid":"Skeleton Knight","msgstr":"Kostlivec rytíř"}
+{"msgctxt":"monsters","msgid":"Skeleton Lord","msgstr":"Pán kostlivců"}
+{"msgctxt":"monsters","msgid":"Skeleton Warrior","msgstr":"Kostlivec válečník"}
+{"msgctxt":"monsters","msgid":"Smoke Gog","msgstr":"Dýmový gog"}
+{"msgctxt":"monsters","msgid":"Soldier","msgstr":"Voják"}
+{"msgctxt":"monsters","msgid":"Soldier of Fortune","msgstr":"Žoldnéř"}
+{"msgctxt":"monsters","msgid":"Sorcerer","msgstr":"Kouzelník"}
+{"msgctxt":"monsters","msgid":"Soul Sucker","msgstr":"Vysávač duší"}
+{"msgctxt":"monsters","msgid":"Speaker for the Dead","msgstr":"Mluvčí za mrtvé"}
+{"msgctxt":"monsters","msgid":"Specter","msgstr":"Přízrak"}
+{"msgctxt":"monsters","msgid":"Spider","msgstr":"Pavouk"}
+{"msgctxt":"monsters","msgid":"Sprite","msgstr":"Skřítek"}
+{"msgctxt":"monsters","msgid":"Stone Elemental","msgstr":"Kamenný elementál"}
+{"msgctxt":"monsters","msgid":"Stone Gargoyle","msgstr":"Kamenný chrlič"}
+{"msgctxt":"monsters","msgid":"Storm Eagle","msgstr":"Bouřkový orel"}
+{"msgctxt":"monsters","msgid":"Storm Titan","msgstr":"Bouřkový titán"}
+{"msgctxt":"monsters","msgid":"Supreme Titan","msgstr":"Nejvyšší titán"}
+{"msgctxt":"monsters","msgid":"Swamp Troll","msgstr":"Bažinný trol"}
+{"msgctxt":"monsters","msgid":"Swordsman","msgstr":"Šermíř"}
+{"msgctxt":"monsters","msgid":"Sylph","msgstr":"Sylfa"}
+{"msgctxt":"monsters","msgid":"Tempest","msgstr":"Bouře"}
+{"msgctxt":"monsters","msgid":"Terminator Unit","msgstr":"Likvidační jednotka"}
+{"msgctxt":"monsters","msgid":"Terrible Eye","msgstr":"Děsivé oko"}
+{"msgctxt":"monsters","msgid":"Terror","msgstr":"Hrůza"}
+{"msgctxt":"monsters","msgid":"Thief","msgstr":"Zloděj"}
+{"msgctxt":"monsters","msgid":"Thug","msgstr":"Rváč"}
+{"msgctxt":"monsters","msgid":"Thunder Lizard","msgstr":"Hromový ještěr"}
+{"msgctxt":"monsters","msgid":"Thunderbird","msgstr":"Hromový pták"}
+{"msgctxt":"monsters","msgid":"Titan","msgstr":"Titán"}
+{"msgctxt":"monsters","msgid":"Tolberti","msgstr":"Tolberti"}
+{"msgctxt":"monsters","msgid":"Tree","msgstr":"Strom"}
+{"msgctxt":"monsters","msgid":"Triton ","msgstr":"Tritón "}
+{"msgctxt":"monsters","msgid":"Triton Crusader","msgstr":"Tritón křižák"}
+{"msgctxt":"monsters","msgid":"Triton Warrior","msgstr":"Tritónský válečník"}
+{"msgctxt":"monsters","msgid":"Troglodyte Drone","msgstr":"Troglodytí trubec"}
+{"msgctxt":"monsters","msgid":"Troglodyte Queen","msgstr":"Královna troglodytů"}
+{"msgctxt":"monsters","msgid":"Troglodyte Soldier","msgstr":"Troglodytí voják"}
+{"msgctxt":"monsters","msgid":"Troll Chieftain","msgstr":"Trolí náčelník"}
+{"msgctxt":"monsters","msgid":"Troll Clubman","msgstr":"Trol s kyjem"}
+{"msgctxt":"monsters","msgid":"Troll Peasant","msgstr":"Trolí sedlák"}
+{"msgctxt":"monsters","msgid":"Troll Warrior","msgstr":"Trolí válečník"}
+{"msgctxt":"monsters","msgid":"Twister","msgstr":"Smršť"}
+{"msgctxt":"monsters","msgid":"Undead Dragon","msgstr":"Nemrtvý drak"}
+{"msgctxt":"monsters","msgid":"Unicorn","msgstr":"Jednorožec"}
+{"msgctxt":"monsters","msgid":"Unicorn Foal","msgstr":"Hříbě jednorožce"}
+{"msgctxt":"monsters","msgid":"Unicorn Herd Leader","msgstr":"Vůdce stáda jednorožců"}
+{"msgctxt":"monsters","msgid":"Vampire","msgstr":"Upír"}
+{"msgctxt":"monsters","msgid":"Vampire Bat","msgstr":"Upíří netopýr"}
+{"msgctxt":"monsters","msgid":"Vampire Minion","msgstr":"Upíří přisluhovač"}
+{"msgctxt":"monsters","msgid":"Venemous Spider","msgstr":"Jedovatý pavouk"}
+{"msgctxt":"monsters","msgid":"Venomous Hydra","msgstr":"Jedovatá hydra"}
+{"msgctxt":"monsters","msgid":"Veteran","msgstr":"Veterán"}
+{"msgctxt":"monsters","msgid":"Walking Dead","msgstr":"Kráčející mrtvý"}
+{"msgctxt":"monsters","msgid":"Warden of Fire","msgstr":"Strážce ohně"}
+{"msgctxt":"monsters","msgid":"Warlock","msgstr":"Černokněžník"}
+{"msgctxt":"monsters","msgid":"Wasp Sentry","msgstr":"Strážní vosa"}
+{"msgctxt":"monsters","msgid":"Wasp Warrior","msgstr":"Vosí válečník"}
+{"msgctxt":"monsters","msgid":"Wasp Worker","msgstr":"Vosa dělnice"}
+{"msgctxt":"monsters","msgid":"Water Beast","msgstr":"Vodní bestie"}
+{"msgctxt":"monsters","msgid":"Water Elemental","msgstr":"Vodní elementál"}
+{"msgctxt":"monsters","msgid":"Water Spirit","msgstr":"Duch vody"}
+{"msgctxt":"monsters","msgid":"Water Warlock","msgstr":"Vodní černokněžník"}
+{"msgctxt":"monsters","msgid":"Wererat","msgstr":"Krysodlak"}
+{"msgctxt":"monsters","msgid":"Werewolf","msgstr":"Vlkodlak"}
+{"msgctxt":"monsters","msgid":"Widowmaker","msgstr":"Vdovotvůrce"}
+{"msgctxt":"monsters","msgid":"Wight","msgstr":"Umrlec"}
+{"msgctxt":"monsters","msgid":"Will O' Wisp","msgstr":"Bludička"}
+{"msgctxt":"monsters","msgid":"Winged Serpent","msgstr":"Okřídlený had"}
+{"msgctxt":"monsters","msgid":"Wisp ","msgstr":"Bludička "}
+{"msgctxt":"monsters","msgid":"Witch Doctor","msgstr":"Šaman"}
+{"msgctxt":"monsters","msgid":"Wizard","msgstr":"Čaroděj"}
+{"msgctxt":"monsters","msgid":"Wolfman","msgstr":"Vlkodlak"}
+{"msgctxt":"monsters","msgid":"Wraith","msgstr":"Přízrak"}
+{"msgctxt":"monsters","msgid":"Wyrm","msgstr":"Saň"}
+{"msgctxt":"monsters","msgid":"Wyvern ","msgstr":"Wyverna "}
+{"msgctxt":"monsters","msgid":"Young Basilisk","msgstr":"Mladý bazilišek"}
+{"msgctxt":"monsters","msgid":"Young Behemoth","msgstr":"Mladý behemot"}
+{"msgctxt":"monsters","msgid":"Young Couatl","msgstr":"Mladý kuatl"}
+{"msgctxt":"monsters","msgid":"Young Dragon","msgstr":"Mladý drak"}
+{"msgctxt":"monsters","msgid":"Young Dragon Turtle","msgstr":"Mladá dračí želva"}
+{"msgctxt":"monsters","msgid":"Zombie","msgstr":"Zombie"}
+{"msgctxt":"npcprof","msgid":"Acolyte","msgstr":"Akolyta"}
+{"msgctxt":"npcprof","msgid":"Alchemist","msgstr":"alchymista"}
+{"msgctxt":"npcprof","msgid":"Apothecary","msgstr":"Lékárník"}
+{"msgctxt":"npcprof","msgid":"Apprentice","msgstr":"Učeň"}
+{"msgctxt":"npcprof","msgid":"Armorer","msgstr":"Zbrojíř"}
+{"msgctxt":"npcprof","msgid":"Armorsmith","msgstr":"Zbrojíř"}
+{"msgctxt":"npcprof","msgid":"Arms Master","msgstr":"mistr zbraní"}
+{"msgctxt":"npcprof","msgid":"Banker","msgstr":"bankéř"}
+{"msgctxt":"npcprof","msgid":"Bard","msgstr":"bard"}
+{"msgctxt":"npcprof","msgid":"Barmaid","msgstr":"Šenkýřka"}
+{"msgctxt":"npcprof","msgid":"Barrister","msgstr":"advokát"}
+{"msgctxt":"npcprof","msgid":"Beggar","msgstr":"žebrák"}
+{"msgctxt":"npcprof","msgid":"Blacksmith","msgstr":"Kovář"}
+{"msgctxt":"npcprof","msgid":"Brekish One-Fang","msgstr":"Brekish Jednozub"}
+{"msgctxt":"npcprof","msgid":"Burglar","msgstr":"Zloděj"}
+{"msgctxt":"npcprof","msgid":"Captain","msgstr":"Kapitán"}
+{"msgctxt":"npcprof","msgid":"Carpenter","msgstr":"tesař"}
+{"msgctxt":"npcprof","msgid":"Cartographer","msgstr":"kartograf"}
+{"msgctxt":"npcprof","msgid":"Chaplain","msgstr":"Kaplan"}
+{"msgctxt":"npcprof","msgid":"Charles Quixote","msgstr":"Charles Quixote"}
+{"msgctxt":"npcprof","msgid":"Chef","msgstr":"šéfkuchař"}
+{"msgctxt":"npcprof","msgid":"Child","msgstr":"Dítě"}
+{"msgctxt":"npcprof","msgid":"Chimney Sweep","msgstr":"kominík"}
+{"msgctxt":"npcprof","msgid":"Clerk","msgstr":"Úředník"}
+{"msgctxt":"npcprof","msgid":"Cobbler","msgstr":"Švec"}
+{"msgctxt":"npcprof","msgid":"Cook","msgstr":"kuchař"}
+{"msgctxt":"npcprof","msgid":"Cooper","msgstr":"bednář"}
+{"msgctxt":"npcprof","msgid":"Counselor","msgstr":"poradce"}
+{"msgctxt":"npcprof","msgid":"Diplomat","msgstr":"Diplomat"}
+{"msgctxt":"npcprof","msgid":"Ditch Digger","msgstr":"kopáč příkopů"}
+{"msgctxt":"npcprof","msgid":"Dragon","msgstr":"drak"}
+{"msgctxt":"npcprof","msgid":"Duper","msgstr":"Šejdíř"}
+{"msgctxt":"npcprof","msgid":"Dyson Leland","msgstr":"Dyson Leland"}
+{"msgctxt":"npcprof","msgid":"Enchanter","msgstr":"zaklínač"}
+{"msgctxt":"npcprof","msgid":"Escaton","msgstr":"Escaton"}
+{"msgctxt":"npcprof","msgid":"Expert Healer","msgstr":"zkušený léčitel"}
+{"msgctxt":"npcprof","msgid":"Explorer","msgstr":"Průzkumník"}
+{"msgctxt":"npcprof","msgid":"Factor","msgstr":"jednatel"}
+{"msgctxt":"npcprof","msgid":"Fallen Wizard","msgstr":"padlý čaroděj"}
+{"msgctxt":"npcprof","msgid":"Farmer","msgstr":"rolník"}
+{"msgctxt":"npcprof","msgid":"Follower of Baa","msgstr":"Stoupenec Baa"}
+{"msgctxt":"npcprof","msgid":"Fool","msgstr":"šašek"}
+{"msgctxt":"npcprof","msgid":"Gambler","msgstr":"Karbaník"}
+{"msgctxt":"npcprof","msgid":"Gate Master","msgstr":"mistr bran"}
+{"msgctxt":"npcprof","msgid":"Guard","msgstr":"Strážný"}
+{"msgctxt":"npcprof","msgid":"Guide","msgstr":"Průvodce"}
+{"msgctxt":"npcprof","msgid":"Guildmaster","msgstr":"cechmistr"}
+{"msgctxt":"npcprof","msgid":"Gypsy","msgstr":"Rom"}
+{"msgctxt":"npcprof","msgid":"Healer","msgstr":"léčitel"}
+{"msgctxt":"npcprof","msgid":"Herbalist","msgstr":"bylinkář"}
+{"msgctxt":"npcprof","msgid":"Horseman","msgstr":"Jezdec"}
+{"msgctxt":"npcprof","msgid":"Hunter","msgstr":"lovec"}
+{"msgctxt":"npcprof","msgid":"Initiate","msgstr":"Zasvěcenec"}
+{"msgctxt":"npcprof","msgid":"Innkeep","msgstr":"Hostinský"}
+{"msgctxt":"npcprof","msgid":"Instructor","msgstr":"Instruktor"}
+{"msgctxt":"npcprof","msgid":"Jester","msgstr":"šašek"}
+{"msgctxt":"npcprof","msgid":"Laborer","msgstr":"Dělník"}
+{"msgctxt":"npcprof","msgid":"Locksmith","msgstr":"zámečník"}
+{"msgctxt":"npcprof","msgid":"Magician","msgstr":"Kouzelník"}
+{"msgctxt":"npcprof","msgid":"Master Healer","msgstr":"mistr léčitel"}
+{"msgctxt":"npcprof","msgid":"Merchant","msgstr":"Obchodník"}
+{"msgctxt":"npcprof","msgid":"Miller","msgstr":"mlynář"}
+{"msgctxt":"npcprof","msgid":"Missionary","msgstr":"Misionář"}
+{"msgctxt":"npcprof","msgid":"Monk","msgstr":"mnich"}
+{"msgctxt":"npcprof","msgid":"Mystic","msgstr":"mystik"}
+{"msgctxt":"npcprof","msgid":"Navigator","msgstr":"navigátor"}
+{"msgctxt":"npcprof","msgid":"Negotiator","msgstr":"Vyjednavač"}
+{"msgctxt":"npcprof","msgid":"Noble","msgstr":"Šlechtic"}
+{"msgctxt":"npcprof","msgid":"Overdune","msgstr":"Overdune"}
+{"msgctxt":"npcprof","msgid":"Pathfinder","msgstr":"Průzkumník"}
+{"msgctxt":"npcprof","msgid":"Peasant","msgstr":"Sedlák"}
+{"msgctxt":"npcprof","msgid":"Piper","msgstr":"Pištec"}
+{"msgctxt":"npcprof","msgid":"Pirate","msgstr":"pirát"}
+{"msgctxt":"npcprof","msgid":"Porter","msgstr":"nosič"}
+{"msgctxt":"npcprof","msgid":"Potter","msgstr":"hrnčíř"}
+{"msgctxt":"npcprof","msgid":"Prelate","msgstr":"Prelát"}
+{"msgctxt":"npcprof","msgid":"Psychic","msgstr":"Jasnovidec"}
+{"msgctxt":"npcprof","msgid":"Quarter Master","msgstr":"zásobovač"}
+{"msgctxt":"npcprof","msgid":"Rustler","msgstr":"Zloděj dobytka"}
+{"msgctxt":"npcprof","msgid":"Sage","msgstr":"mudrc"}
+{"msgctxt":"npcprof","msgid":"Sailor","msgstr":"námořník"}
+{"msgctxt":"npcprof","msgid":"Sandro","msgstr":"Sandro"}
+{"msgctxt":"npcprof","msgid":"Scholar","msgstr":"Učenec"}
+{"msgctxt":"npcprof","msgid":"Scout","msgstr":"Průzkumník"}
+{"msgctxt":"npcprof","msgid":"Scribe","msgstr":"písař"}
+{"msgctxt":"npcprof","msgid":"Serf","msgstr":"nevolník"}
+{"msgctxt":"npcprof","msgid":"Shopkeeper","msgstr":"Obchodník"}
+{"msgctxt":"npcprof","msgid":"Smith","msgstr":"Kovář"}
+{"msgctxt":"npcprof","msgid":"Smuggler","msgstr":"Pašerák"}
+{"msgctxt":"npcprof","msgid":"Spell Master","msgstr":"mistr kouzel"}
+{"msgctxt":"npcprof","msgid":"Squire","msgstr":"panoš"}
+{"msgctxt":"npcprof","msgid":"Stablemaster","msgstr":"správce stájí"}
+{"msgctxt":"npcprof","msgid":"Stone Cutter","msgstr":"kameník"}
+{"msgctxt":"npcprof","msgid":"Tailor","msgstr":"krejčí"}
+{"msgctxt":"npcprof","msgid":"Teacher","msgstr":"Učitel"}
+{"msgctxt":"npcprof","msgid":"Tinker","msgstr":"dráteník"}
+{"msgctxt":"npcprof","msgid":"Tracker","msgstr":"Stopař"}
+{"msgctxt":"npcprof","msgid":"Trader","msgstr":"kupec"}
+{"msgctxt":"npcprof","msgid":"Trapper","msgstr":"Traper"}
+{"msgctxt":"npcprof","msgid":"Water Master","msgstr":"mistr vody"}
+{"msgctxt":"npcprof","msgid":"Weapons Master","msgstr":"mistr zbraní"}
+{"msgctxt":"npcprof","msgid":"Weaver","msgstr":"tkadlec"}
+{"msgctxt":"npcprof","msgid":"Wererat Smuggler","msgstr":"Krysodlačí pašerák"}
+{"msgctxt":"npcprof","msgid":"Wind Master","msgstr":"mistr větru"}
+{"msgctxt":"reputation","msgid":"Angelic","msgstr":"Andělská"}
+{"msgctxt":"reputation","msgid":"Average","msgstr":"Průměrná"}
+{"msgctxt":"reputation","msgid":"Bad","msgstr":"Špatná"}
+{"msgctxt":"reputation","msgid":"Despicable","msgstr":"Opovrženíhodná"}
+{"msgctxt":"reputation","msgid":"Glorious","msgstr":"Slavná"}
+{"msgctxt":"reputation","msgid":"Honorable","msgstr":"Ctihodná"}
+{"msgctxt":"reputation","msgid":"Monstrous","msgstr":"Obludná"}
+{"msgctxt":"reputation","msgid":"Neutral","msgstr":"Neutrální"}
+{"msgctxt":"reputation","msgid":"Notorious","msgstr":"Nechvalně proslulá"}
+{"msgctxt":"reputation","msgid":"Respectable","msgstr":"Vážená"}
+{"msgctxt":"reputation","msgid":"Saintly","msgstr":"Svatá"}
+{"msgctxt":"reputation","msgid":"Vile","msgstr":"Odporná"}
+{"msgctxt":"skilldes","msgid":"Air","msgstr":"Vzduch"}
+{"msgctxt":"skilldes","msgid":"Air Magic","msgstr":"Magie vzduchu"}
+{"msgctxt":"skilldes","msgid":"Alchemy","msgstr":"Alchymie"}
+{"msgctxt":"skilldes","msgid":"Armsmaster","msgstr":"Mistr zbraní"}
+{"msgctxt":"skilldes","msgid":"Axe","msgstr":"Sekyra"}
+{"msgctxt":"skilldes","msgid":"Blaster","msgstr":"Blaster"}
+{"msgctxt":"skilldes","msgid":"Body","msgstr":"Tělo"}
+{"msgctxt":"skilldes","msgid":"Body Building","msgstr":"Posilování"}
+{"msgctxt":"skilldes","msgid":"Body Magic","msgstr":"Magie těla"}
+{"msgctxt":"skilldes","msgid":"Bodybuilding","msgstr":"Posilování"}
+{"msgctxt":"skilldes","msgid":"Bow","msgstr":"Luk"}
+{"msgctxt":"skilldes","msgid":"Chain","msgstr":"Kroužková zbroj"}
+{"msgctxt":"skilldes","msgid":"Dagger","msgstr":"Dýka"}
+{"msgctxt":"skilldes","msgid":"Dark","msgstr":"Temnota"}
+{"msgctxt":"skilldes","msgid":"Dark Elf Ability","msgstr":"Schopnost temného elfa"}
+{"msgctxt":"skilldes","msgid":"Dark Magic","msgstr":"Magie temnoty"}
+{"msgctxt":"skilldes","msgid":"Diplomacy","msgstr":"Diplomacie"}
+{"msgctxt":"skilldes","msgid":"Disarm Trap","msgstr":"Zneškodnění pastí"}
+{"msgctxt":"skilldes","msgid":"Disarm Traps","msgstr":"Zneškodnění pastí"}
+{"msgctxt":"skilldes","msgid":"Dodging","msgstr":"Uhýbání"}
+{"msgctxt":"skilldes","msgid":"Dragon Ability","msgstr":"Dračí schopnost"}
+{"msgctxt":"skilldes","msgid":"Earth","msgstr":"Země"}
+{"msgctxt":"skilldes","msgid":"Earth Magic","msgstr":"Magie země"}
+{"msgctxt":"skilldes","msgid":"Fire","msgstr":"Oheň"}
+{"msgctxt":"skilldes","msgid":"Fire Magic","msgstr":"Magie ohně"}
+{"msgctxt":"skilldes","msgid":"Identify","msgstr":"Identifikovat"}
+{"msgctxt":"skilldes","msgid":"Identify Item","msgstr":"Identifikace předmětů"}
+{"msgctxt":"skilldes","msgid":"Identify Monster","msgstr":"Identifikovat nestvůru"}
+{"msgctxt":"skilldes","msgid":"Learning","msgstr":"Učení"}
+{"msgctxt":"skilldes","msgid":"Leather","msgstr":"Kožená zbroj"}
+{"msgctxt":"skilldes","msgid":"Light","msgstr":"Světlo"}
+{"msgctxt":"skilldes","msgid":"Light Magic","msgstr":"Magie světla"}
+{"msgctxt":"skilldes","msgid":"Mace","msgstr":"Palcát"}
+{"msgctxt":"skilldes","msgid":"Meditation","msgstr":"Meditace"}
+{"msgctxt":"skilldes","msgid":"Merchant","msgstr":"Obchodování"}
+{"msgctxt":"skilldes","msgid":"Mind","msgstr":"Mysl"}
+{"msgctxt":"skilldes","msgid":"Mind Magic","msgstr":"Magie mysli"}
+{"msgctxt":"skilldes","msgid":"Perception","msgstr":"Vnímání"}
+{"msgctxt":"skilldes","msgid":"Plate","msgstr":"Plátová zbroj"}
+{"msgctxt":"skilldes","msgid":"Regeneration","msgstr":"Regenerace"}
+{"msgctxt":"skilldes","msgid":"Repair","msgstr":"Opravy"}
+{"msgctxt":"skilldes","msgid":"Repair Item","msgstr":"Opravy předmětů"}
+{"msgctxt":"skilldes","msgid":"Shield","msgstr":"Štít"}
+{"msgctxt":"skilldes","msgid":"Spear","msgstr":"Kopí"}
+{"msgctxt":"skilldes","msgid":"Spirit","msgstr":"Duch"}
+{"msgctxt":"skilldes","msgid":"Spirit Magic","msgstr":"Magie ducha"}
+{"msgctxt":"skilldes","msgid":"Staff","msgstr":"Hůl"}
+{"msgctxt":"skilldes","msgid":"Stealing","msgstr":"Kradení"}
+{"msgctxt":"skilldes","msgid":"Sword","msgstr":"Meč"}
+{"msgctxt":"skilldes","msgid":"Thievery","msgstr":"Zlodějství"}
+{"msgctxt":"skilldes","msgid":"Unarmed","msgstr":"Boj beze zbraně"}
+{"msgctxt":"skilldes","msgid":"Vampire Ability","msgstr":"Upíří schopnost"}
+{"msgctxt":"skilldes","msgid":"Water","msgstr":"Voda"}
+{"msgctxt":"skilldes","msgid":"Water Magic","msgstr":"Magie vody"}
+{"msgctxt":"spcitems","msgid":"Antique","msgstr":"Starožitný"}
+{"msgctxt":"spcitems","msgid":"Assassins'","msgstr":"Vrahův"}
+{"msgctxt":"spcitems","msgid":"Barbarians'","msgstr":"Barbarský"}
+{"msgctxt":"spcitems","msgid":"Demon Slayer","msgstr":"Démonobijec"}
+{"msgctxt":"spcitems","msgid":"Demon Slaying","msgstr":"Zhouba démonů"}
+{"msgctxt":"spcitems","msgid":"Dragon Slayer","msgstr":"Drakobijec"}
+{"msgctxt":"spcitems","msgid":"Dragon Slaying","msgstr":"Zhouba draků"}
+{"msgctxt":"spcitems","msgid":"Elemental Slaying","msgstr":"Zhouba elementálů"}
+{"msgctxt":"spcitems","msgid":"Elf Slaying","msgstr":"Zhouba elfů"}
+{"msgctxt":"spcitems","msgid":"Monks'","msgstr":"Mnišský"}
+{"msgctxt":"spcitems","msgid":"of Acid","msgstr":"kyseliny"}
+{"msgctxt":"spcitems","msgid":"of Air Magic","msgstr":"magie vzduchu"}
+{"msgctxt":"spcitems","msgid":"of Alarms","msgstr":"poplachů"}
+{"msgctxt":"spcitems","msgid":"of Antidotes","msgstr":"protijedů"}
+{"msgctxt":"spcitems","msgid":"of Body Magic","msgstr":"magie těla"}
+{"msgctxt":"spcitems","msgid":"of Carnage","msgstr":"masakru"}
+{"msgctxt":"spcitems","msgid":"of Cold","msgstr":"chladu"}
+{"msgctxt":"spcitems","msgid":"of Dark Magic","msgstr":"magie temnoty"}
+{"msgctxt":"spcitems","msgid":"of Darkness","msgstr":"temnoty"}
+{"msgctxt":"spcitems","msgid":"Of David","msgstr":"Davida"}
+{"msgctxt":"spcitems","msgid":"of Doom","msgstr":"zhouby"}
+{"msgctxt":"spcitems","msgid":"of Earth","msgstr":"země"}
+{"msgctxt":"spcitems","msgid":"of Earth Magic","msgstr":"magie země"}
+{"msgctxt":"spcitems","msgid":"of Feather Falling","msgstr":"pírkového pádu"}
+{"msgctxt":"spcitems","msgid":"of Fire","msgstr":"ohně"}
+{"msgctxt":"spcitems","msgid":"of Fire Magic","msgstr":"magie ohně"}
+{"msgctxt":"spcitems","msgid":"of Flame","msgstr":"plamene"}
+{"msgctxt":"spcitems","msgid":"of Force","msgstr":"síly"}
+{"msgctxt":"spcitems","msgid":"of Freedom","msgstr":"svobody"}
+{"msgctxt":"spcitems","msgid":"of Frost","msgstr":"mrazu"}
+{"msgctxt":"spcitems","msgid":"of Ice","msgstr":"ledu"}
+{"msgctxt":"spcitems","msgid":"of Identifying","msgstr":"identifikace"}
+{"msgctxt":"spcitems","msgid":"of Immunity","msgstr":"imunity"}
+{"msgctxt":"spcitems","msgid":"of Infernos","msgstr":"infern"}
+{"msgctxt":"spcitems","msgid":"of Life","msgstr":"života"}
+{"msgctxt":"spcitems","msgid":"of Light Magic","msgstr":"magie světla"}
+{"msgctxt":"spcitems","msgid":"of Lightning","msgstr":"blesku"}
+{"msgctxt":"spcitems","msgid":"of Mana","msgstr":"many"}
+{"msgctxt":"spcitems","msgid":"of Mind Magic","msgstr":"magie mysli"}
+{"msgctxt":"spcitems","msgid":"of Plenty","msgstr":"hojnosti"}
+{"msgctxt":"spcitems","msgid":"of Poison","msgstr":"jedu"}
+{"msgctxt":"spcitems","msgid":"of Power","msgstr":"moci"}
+{"msgctxt":"spcitems","msgid":"of Protection","msgstr":"ochrany"}
+{"msgctxt":"spcitems","msgid":"of Recovery","msgstr":"zotavení"}
+{"msgctxt":"spcitems","msgid":"of Regeneration","msgstr":"regenerace"}
+{"msgctxt":"spcitems","msgid":"of Sanity","msgstr":"příčetnosti"}
+{"msgctxt":"spcitems","msgid":"of Shielding","msgstr":"ochrany"}
+{"msgctxt":"spcitems","msgid":"of Sparks","msgstr":"jisker"}
+{"msgctxt":"spcitems","msgid":"of Spirit Magic","msgstr":"magie ducha"}
+{"msgctxt":"spcitems","msgid":"of Swiftness","msgstr":"rychlosti"}
+{"msgctxt":"spcitems","msgid":"of The Dragon","msgstr":"draka"}
+{"msgctxt":"spcitems","msgid":"of The Eclipse","msgstr":"zatmění"}
+{"msgctxt":"spcitems","msgid":"of The Gods","msgstr":"bohů"}
+{"msgctxt":"spcitems","msgid":"of The Golem","msgstr":"golema"}
+{"msgctxt":"spcitems","msgid":"of The Medusa","msgstr":"medúzy"}
+{"msgctxt":"spcitems","msgid":"of The Moon","msgstr":"Měsíce"}
+{"msgctxt":"spcitems","msgid":"of the Ocean","msgstr":"oceánu"}
+{"msgctxt":"spcitems","msgid":"of The Phoenix","msgstr":"fénixe"}
+{"msgctxt":"spcitems","msgid":"of The Sky","msgstr":"nebes"}
+{"msgctxt":"spcitems","msgid":"of The Stars","msgstr":"hvězd"}
+{"msgctxt":"spcitems","msgid":"of the Storm","msgstr":"bouře"}
+{"msgctxt":"spcitems","msgid":"of The Sun","msgstr":"slunce"}
+{"msgctxt":"spcitems","msgid":"of The Troll","msgstr":"trola"}
+{"msgctxt":"spcitems","msgid":"of The Unicorn","msgstr":"jednorožce"}
+{"msgctxt":"spcitems","msgid":"of Thievery","msgstr":"zlodějství"}
+{"msgctxt":"spcitems","msgid":"of Thunderbolts","msgstr":"blesků"}
+{"msgctxt":"spcitems","msgid":"of Venom","msgstr":"jedu"}
+{"msgctxt":"spcitems","msgid":"of Water Magic","msgstr":"magie vody"}
+{"msgctxt":"spcitems","msgid":"of Water Walking","msgstr":"chůze po vodě"}
+{"msgctxt":"spcitems","msgid":"Ogre Slaying","msgstr":"Zhouba zlobrů"}
+{"msgctxt":"spcitems","msgid":"Rogues","msgstr":"Lupičů"}
+{"msgctxt":"spcitems","msgid":"Rogues'","msgstr":"Lupičů"}
+{"msgctxt":"spcitems","msgid":"Swift","msgstr":"Rychlý"}
+{"msgctxt":"spcitems","msgid":"Thieves'","msgstr":"Zlodějský"}
+{"msgctxt":"spcitems","msgid":"Undead Slaying","msgstr":"Zhouba nemrtvých"}
+{"msgctxt":"spcitems","msgid":"Vampiric","msgstr":"Upíří"}
+{"msgctxt":"spcitems","msgid":"Warriors","msgstr":"Válečníků"}
+{"msgctxt":"spcitems","msgid":"Warriors'","msgstr":"Válečníků"}
+{"msgctxt":"spcitems","msgid":"Wizards","msgstr":"Čarodějů"}
+{"msgctxt":"spcitems","msgid":"Wizards'","msgstr":"Čarodějský"}
+{"msgctxt":"spellgroupshort","msgid":"Air","msgstr":"Vzduch"}
+{"msgctxt":"spellgroupshort","msgid":"Body","msgstr":"Tělo"}
+{"msgctxt":"spellgroupshort","msgid":"Cold","msgstr":"Chlad"}
+{"msgctxt":"spellgroupshort","msgid":"Dark","msgstr":"Temnota"}
+{"msgctxt":"spellgroupshort","msgid":"Earth","msgstr":"Země"}
+{"msgctxt":"spellgroupshort","msgid":"Electricity","msgstr":"Elektřina"}
+{"msgctxt":"spellgroupshort","msgid":"Fire","msgstr":"Oheň"}
+{"msgctxt":"spellgroupshort","msgid":"Light","msgstr":"Světlo"}
+{"msgctxt":"spellgroupshort","msgid":"Mind","msgstr":"Mysl"}
+{"msgctxt":"spellgroupshort","msgid":"Spirit","msgstr":"Duch"}
+{"msgctxt":"spellgroupshort","msgid":"Water","msgstr":"Voda"}
+{"msgctxt":"spells","msgid":"Acid Burst","msgstr":"Kyselinový výboj"}
+{"msgctxt":"spells","msgid":"Air Res","msgstr":"Odolnost vůči vzduchu"}
+{"msgctxt":"spells","msgid":"Air Resist","msgstr":"Odolnost vůči vzduchu"}
+{"msgctxt":"spells","msgid":"Air Resistance","msgstr":"Odolnost vůči vzduchu"}
+{"msgctxt":"spells","msgid":"Armageddon","msgstr":"Armagedon"}
+{"msgctxt":"spells","msgid":"Awaken","msgstr":"Probuzení"}
+{"msgctxt":"spells","msgid":"Berserk","msgstr":"Běsnění"}
+{"msgctxt":"spells","msgid":"Blades","msgstr":"Čepele"}
+{"msgctxt":"spells","msgid":"Bless","msgstr":"Požehnání"}
+{"msgctxt":"spells","msgid":"Blind","msgstr":"Slepota"}
+{"msgctxt":"spells","msgid":"Body Res","msgstr":"Odolnost vůči Tělu"}
+{"msgctxt":"spells","msgid":"Body Resist","msgstr":"Odolnost vůči Tělu"}
+{"msgctxt":"spells","msgid":"Body Resistance","msgstr":"Odolnost vůči Tělu"}
+{"msgctxt":"spells","msgid":"Buffet","msgstr":"Úder křídlem"}
+{"msgctxt":"spells","msgid":"Charm","msgstr":"Okouzlení"}
+{"msgctxt":"spells","msgid":"Cntrl Undead","msgstr":"Ovládnutí nemrtvých"}
+{"msgctxt":"spells","msgid":"Cold Beam","msgstr":"Paprsek chladu"}
+{"msgctxt":"spells","msgid":"Control Undead","msgstr":"Ovládnutí nemrtvých"}
+{"msgctxt":"spells","msgid":"Create Food","msgstr":"Vytvoření jídla"}
+{"msgctxt":"spells","msgid":"Cure Disease","msgstr":"Vyléčení nemoci"}
+{"msgctxt":"spells","msgid":"Cure Insane","msgstr":"Léčení šílenství"}
+{"msgctxt":"spells","msgid":"Cure Insanity","msgstr":"Vyléčení šílenství"}
+{"msgctxt":"spells","msgid":"Cure Paralysis","msgstr":"Vyléčení ochromení"}
+{"msgctxt":"spells","msgid":"Cure Plyze","msgstr":"Vyléčení paralýzy"}
+{"msgctxt":"spells","msgid":"Cure Poison","msgstr":"Léčení otravy"}
+{"msgctxt":"spells","msgid":"Cure Weak","msgstr":"Vyléčení oslabení"}
+{"msgctxt":"spells","msgid":"Cure Weakness","msgstr":"Vyléčení oslabení"}
+{"msgctxt":"spells","msgid":"Cure Wound","msgstr":"Léčení ran"}
+{"msgctxt":"spells","msgid":"Cure Wounds","msgstr":"Léčení ran"}
+{"msgctxt":"spells","msgid":"Dark Contain","msgstr":"Temné zadržení"}
+{"msgctxt":"spells","msgid":"Dark Containment","msgstr":"Temné zadržení"}
+{"msgctxt":"spells","msgid":"Dark Grasp","msgstr":"Temné sevření"}
+{"msgctxt":"spells","msgid":"Darkfire","msgstr":"Temný oheň"}
+{"msgctxt":"spells","msgid":"Darkfire Bolt","msgstr":"Střela temného ohně"}
+{"msgctxt":"spells","msgid":"Day -o- Gods","msgstr":"Den bohů"}
+{"msgctxt":"spells","msgid":"Day of Prot","msgstr":"Den ochrany"}
+{"msgctxt":"spells","msgid":"Day of Protection","msgstr":"Den ochrany"}
+{"msgctxt":"spells","msgid":"Day of the Gods","msgstr":"Den bohů"}
+{"msgctxt":"spells","msgid":"Deadly Swarm","msgstr":"Smrtící roj"}
+{"msgctxt":"spells","msgid":"Death Blossom","msgstr":"Květ smrti"}
+{"msgctxt":"spells","msgid":"Death Blsm","msgstr":"Květ smrti"}
+{"msgctxt":"spells","msgid":"Dest Undead","msgstr":"Zničení nemrtvých"}
+{"msgctxt":"spells","msgid":"Destroy Undead","msgstr":"Zničení nemrtvých"}
+{"msgctxt":"spells","msgid":"Detect Life","msgstr":"Odhalení života"}
+{"msgctxt":"spells","msgid":"Dispel Magic","msgstr":"Rozptýlení magie"}
+{"msgctxt":"spells","msgid":"Divine Inter","msgstr":"Božský zásah"}
+{"msgctxt":"spells","msgid":"Divine Intervention","msgstr":"Božský zásah"}
+{"msgctxt":"spells","msgid":"Drag Breath","msgstr":"Dračí dech"}
+{"msgctxt":"spells","msgid":"Dragon Breath","msgstr":"Dračí dech"}
+{"msgctxt":"spells","msgid":"Earth Res","msgstr":"Odolnost proti zemi"}
+{"msgctxt":"spells","msgid":"Earth Resist","msgstr":"Odolnost proti zemi"}
+{"msgctxt":"spells","msgid":"Earth Resistance","msgstr":"Odolnost proti zemi"}
+{"msgctxt":"spells","msgid":"Enchant Item","msgstr":"Očarování předmětu"}
+{"msgctxt":"spells","msgid":"Enslave","msgstr":"Zotročení"}
+{"msgctxt":"spells","msgid":"Fate","msgstr":"Osud"}
+{"msgctxt":"spells","msgid":"Fear","msgstr":"Strach"}
+{"msgctxt":"spells","msgid":"Feather Fall","msgstr":"Pírkový pád"}
+{"msgctxt":"spells","msgid":"Feeblemind","msgstr":"Otupení mysli"}
+{"msgctxt":"spells","msgid":"Finger Death","msgstr":"Prst smrti"}
+{"msgctxt":"spells","msgid":"Finger of Death","msgstr":"Prst smrti"}
+{"msgctxt":"spells","msgid":"Fire Aura","msgstr":"Ohnivá aura"}
+{"msgctxt":"spells","msgid":"Fire Blast","msgstr":"Ohnivý výšleh"}
+{"msgctxt":"spells","msgid":"Fire Bolt","msgstr":"Ohnivá střela"}
+{"msgctxt":"spells","msgid":"Fire Res","msgstr":"Odolnost vůči Ohni"}
+{"msgctxt":"spells","msgid":"Fire Resistance","msgstr":"Odolnost vůči Ohni"}
+{"msgctxt":"spells","msgid":"Fire Spike","msgstr":"Ohnivý hrot"}
+{"msgctxt":"spells","msgid":"Fireball","msgstr":"Ohnivá koule"}
+{"msgctxt":"spells","msgid":"First Aid","msgstr":"První pomoc"}
+{"msgctxt":"spells","msgid":"Flame Arrow","msgstr":"Ohnivý šíp"}
+{"msgctxt":"spells","msgid":"Flame Blast","msgstr":"Plamenný výbuch"}
+{"msgctxt":"spells","msgid":"Flight","msgstr":"Let"}
+{"msgctxt":"spells","msgid":"Fly","msgstr":"Létání"}
+{"msgctxt":"spells","msgid":"Flying Fist","msgstr":"Letící pěst"}
+{"msgctxt":"spells","msgid":"Glamour","msgstr":"Půvab"}
+{"msgctxt":"spells","msgid":"Gldn Touch","msgstr":"Zlatý dotek"}
+{"msgctxt":"spells","msgid":"Golden Touch","msgstr":"Zlatý dotek"}
+{"msgctxt":"spells","msgid":"Guard Angel","msgstr":"Anděl strážný"}
+{"msgctxt":"spells","msgid":"Guardian Angel","msgstr":"Strážný anděl"}
+{"msgctxt":"spells","msgid":"Hammerhand","msgstr":"Kladivové pěsti"}
+{"msgctxt":"spells","msgid":"Hammerhands","msgstr":"Kladivové pěsti"}
+{"msgctxt":"spells","msgid":"Harm","msgstr":"Zranění"}
+{"msgctxt":"spells","msgid":"Haste","msgstr":"Zrychlení"}
+{"msgctxt":"spells","msgid":"Heal","msgstr":"Léčení"}
+{"msgctxt":"spells","msgid":"Healing","msgstr":"Léčení"}
+{"msgctxt":"spells","msgid":"Healing Touch","msgstr":"Léčivý dotek"}
+{"msgctxt":"spells","msgid":"Heroism","msgstr":"Hrdinství"}
+{"msgctxt":"spells","msgid":"Hour of Power","msgstr":"Hodina moci"}
+{"msgctxt":"spells","msgid":"Hour Power","msgstr":"Hodina moci"}
+{"msgctxt":"spells","msgid":"Ice Blast","msgstr":"Ledová smršť"}
+{"msgctxt":"spells","msgid":"Ice Bolt","msgstr":"Ledová střela"}
+{"msgctxt":"spells","msgid":"Immolation","msgstr":"Spalující aura"}
+{"msgctxt":"spells","msgid":"Implosion","msgstr":"Imploze"}
+{"msgctxt":"spells","msgid":"Incinerate","msgstr":"Zpopelnění"}
+{"msgctxt":"spells","msgid":"Inferno","msgstr":"Inferno"}
+{"msgctxt":"spells","msgid":"Invisibility","msgstr":"Neviditelnost"}
+{"msgctxt":"spells","msgid":"Jump","msgstr":"Skok"}
+{"msgctxt":"spells","msgid":"Levitate","msgstr":"Levitace"}
+{"msgctxt":"spells","msgid":"Lifedrain","msgstr":"Vysátí života"}
+{"msgctxt":"spells","msgid":"Light Bolt","msgstr":"Světelná střela"}
+{"msgctxt":"spells","msgid":"Lightning","msgstr":"Blesk"}
+{"msgctxt":"spells","msgid":"Lightning Bolt","msgstr":"Blesk"}
+{"msgctxt":"spells","msgid":"Lloyd's","msgstr":"Lloydův maják"}
+{"msgctxt":"spells","msgid":"Lloyd's Beacon","msgstr":"Lloydův maják"}
+{"msgctxt":"spells","msgid":"Lucky Day","msgstr":"Šťastný den"}
+{"msgctxt":"spells","msgid":"Magic Arrow","msgstr":"Magický šíp"}
+{"msgctxt":"spells","msgid":"Mass Curse","msgstr":"Hromadná kletba"}
+{"msgctxt":"spells","msgid":"Mass Distort","msgstr":"Hromadné zkreslení"}
+{"msgctxt":"spells","msgid":"Mass Distortion","msgstr":"Hromadné zkreslení"}
+{"msgctxt":"spells","msgid":"Mass Fear","msgstr":"Hromadný strach"}
+{"msgctxt":"spells","msgid":"Meditation","msgstr":"Meditace"}
+{"msgctxt":"spells","msgid":"Meteor Shower","msgstr":"Meteorický déšť"}
+{"msgctxt":"spells","msgid":"Meteor Shwr","msgstr":"Meteorický déšť"}
+{"msgctxt":"spells","msgid":"Mind Blast","msgstr":"Úder mysli"}
+{"msgctxt":"spells","msgid":"Mind Res","msgstr":"Odolnost vůči Mysli"}
+{"msgctxt":"spells","msgid":"Mind Resist","msgstr":"Odolnost vůči Mysli"}
+{"msgctxt":"spells","msgid":"Mind Resistance","msgstr":"Odolnost vůči Mysli"}
+{"msgctxt":"spells","msgid":"Mistform","msgstr":"Mlžná podoba"}
+{"msgctxt":"spells","msgid":"Moon Ray","msgstr":"Měsíční paprsek"}
+{"msgctxt":"spells","msgid":"Pain Reflect","msgstr":"Odraz bolesti"}
+{"msgctxt":"spells","msgid":"Pain Reflection","msgstr":"Odraz bolesti"}
+{"msgctxt":"spells","msgid":"Paralyze","msgstr":"Ochromení"}
+{"msgctxt":"spells","msgid":"Poison Spr","msgstr":"Jedovatá sprška"}
+{"msgctxt":"spells","msgid":"Poison Spray","msgstr":"Jedovatá sprška"}
+{"msgctxt":"spells","msgid":"Power","msgstr":"Moc"}
+{"msgctxt":"spells","msgid":"Power Cure","msgstr":"Mocné léčení"}
+{"msgctxt":"spells","msgid":"Precision","msgstr":"Přesnost"}
+{"msgctxt":"spells","msgid":"Preservation","msgstr":"Ochrana"}
+{"msgctxt":"spells","msgid":"Pris Light","msgstr":"Duhové světlo"}
+{"msgctxt":"spells","msgid":"Prismatic Light","msgstr":"Duhové světlo"}
+{"msgctxt":"spells","msgid":"Prot Cold","msgstr":"Ochrana před chladem"}
+{"msgctxt":"spells","msgid":"Prot Elec","msgstr":"Ochrana před elektřinou"}
+{"msgctxt":"spells","msgid":"Prot Fire","msgstr":"Ochrana před ohněm"}
+{"msgctxt":"spells","msgid":"Prot Magic","msgstr":"Ochrana před magií"}
+{"msgctxt":"spells","msgid":"Prot Poison","msgstr":"Ochrana před jedem"}
+{"msgctxt":"spells","msgid":"Protection from Cold","msgstr":"Ochrana před chladem"}
+{"msgctxt":"spells","msgid":"Protection from Electricity","msgstr":"Ochrana před elektřinou"}
+{"msgctxt":"spells","msgid":"Protection from Fire","msgstr":"Ochrana před ohněm"}
+{"msgctxt":"spells","msgid":"Protection from Magic","msgstr":"Ochrana před magií"}
+{"msgctxt":"spells","msgid":"Protection from Poison","msgstr":"Ochrana před jedem"}
+{"msgctxt":"spells","msgid":"Psy - Shock","msgstr":"Psychický šok"}
+{"msgctxt":"spells","msgid":"Psychic Shock","msgstr":"Psychický šok"}
+{"msgctxt":"spells","msgid":"Raise Dead","msgstr":"Vzkříšení mrtvého"}
+{"msgctxt":"spells","msgid":"Reanimate","msgstr":"Oživení"}
+{"msgctxt":"spells","msgid":"Recharge","msgstr":"Dobití předmětu"}
+{"msgctxt":"spells","msgid":"Recharge Item","msgstr":"Dobití předmětu"}
+{"msgctxt":"spells","msgid":"Regeneration","msgstr":"Regenerace"}
+{"msgctxt":"spells","msgid":"Remove Curse","msgstr":"Odstranění prokletí"}
+{"msgctxt":"spells","msgid":"Remove Fear","msgstr":"Odstranění strachu"}
+{"msgctxt":"spells","msgid":"Resurrection","msgstr":"Vzkříšení"}
+{"msgctxt":"spells","msgid":"Ring of Fire","msgstr":"Kruh ohně"}
+{"msgctxt":"spells","msgid":"Rmv. Curse","msgstr":"Sejmutí kletby"}
+{"msgctxt":"spells","msgid":"Rock Blast","msgstr":"Kamenný výbuch"}
+{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"Obětování"}
+{"msgctxt":"spells","msgid":"Shared Life","msgstr":"Sdílený život"}
+{"msgctxt":"spells","msgid":"Shield","msgstr":"Štít"}
+{"msgctxt":"spells","msgid":"Shrapmetal","msgstr":"Kovová tříšť"}
+{"msgctxt":"spells","msgid":"Shrink Ray","msgstr":"Zmenšovací paprsek"}
+{"msgctxt":"spells","msgid":"Shrinking Ray","msgstr":"Smršťovací paprsek"}
+{"msgctxt":"spells","msgid":"Slow","msgstr":"Zpomalení"}
+{"msgctxt":"spells","msgid":"Souldrinker","msgstr":"Piják duší"}
+{"msgctxt":"spells","msgid":"Sparks","msgstr":"Jiskry"}
+{"msgctxt":"spells","msgid":"Speed","msgstr":"Rychlost"}
+{"msgctxt":"spells","msgid":"Spirit Arrow","msgstr":"Duchovní šíp"}
+{"msgctxt":"spells","msgid":"Spirit Lash","msgstr":"Bič ducha"}
+{"msgctxt":"spells","msgid":"Starburst","msgstr":"Hvězdná smršť"}
+{"msgctxt":"spells","msgid":"Static Charge","msgstr":"Statický náboj"}
+{"msgctxt":"spells","msgid":"Static Chrg","msgstr":"Statický výboj"}
+{"msgctxt":"spells","msgid":"Stone - Flesh","msgstr":"Odkamenění"}
+{"msgctxt":"spells","msgid":"Stone Skin","msgstr":"Kamenná kůže"}
+{"msgctxt":"spells","msgid":"Stone to Flesh","msgstr":"Z kamene v tělo"}
+{"msgctxt":"spells","msgid":"Stoneskin","msgstr":"Kamenná kůže"}
+{"msgctxt":"spells","msgid":"Stun","msgstr":"Omráčení"}
+{"msgctxt":"spells","msgid":"Summon","msgstr":"Vyvolání"}
+{"msgctxt":"spells","msgid":"Summon Elemental","msgstr":"Vyvolání elementála"}
+{"msgctxt":"spells","msgid":"Summon Wisp","msgstr":"Vyvolání bludičky"}
+{"msgctxt":"spells","msgid":"Sun Ray","msgstr":"Sluneční paprsek"}
+{"msgctxt":"spells","msgid":"Sunray","msgstr":"Sluneční paprsek"}
+{"msgctxt":"spells","msgid":"Swarm","msgstr":"Roj"}
+{"msgctxt":"spells","msgid":"Telekinesis","msgstr":"Telekineze"}
+{"msgctxt":"spells","msgid":"Telepathy","msgstr":"Telepatie"}
+{"msgctxt":"spells","msgid":"Torch Light","msgstr":"Světlo pochodně"}
+{"msgctxt":"spells","msgid":"Town Portal","msgstr":"Městský portál"}
+{"msgctxt":"spells","msgid":"Toxic Cloud","msgstr":"Jedovatý mrak"}
+{"msgctxt":"spells","msgid":"Travel Boon","msgstr":"Cestovní požehnání"}
+{"msgctxt":"spells","msgid":"Travelers' Boon","msgstr":"Přízeň cestovatelů"}
+{"msgctxt":"spells","msgid":"Turn - Stone","msgstr":"Zkamenění"}
+{"msgctxt":"spells","msgid":"Turn to Stone","msgstr":"Zkamenění"}
+{"msgctxt":"spells","msgid":"Turn Undead","msgstr":"Odvrácení nemrtvých"}
+{"msgctxt":"spells","msgid":"Vamp Weap","msgstr":"Upíří zbraň"}
+{"msgctxt":"spells","msgid":"Vampiric Weapon","msgstr":"Upíří zbraň"}
+{"msgctxt":"spells","msgid":"Water Res","msgstr":"Odolnost proti vodě"}
+{"msgctxt":"spells","msgid":"Water Resist","msgstr":"Odolnost proti vodě"}
+{"msgctxt":"spells","msgid":"Water Resistance","msgstr":"Odolnost proti vodě"}
+{"msgctxt":"spells","msgid":"Water Walk","msgstr":"Chůze po vodě"}
+{"msgctxt":"spells","msgid":"Wing Buffet","msgstr":"Úder křídlem"}
+{"msgctxt":"spells","msgid":"Wizard Eye","msgstr":"Čarodějovo oko"}
+{"msgctxt":"spells vampire","msgid":"Charm","msgstr":"Okouzlení"}
+{"msgctxt":"stats","msgid":"AC","msgstr":"TZ"}
+{"msgctxt":"stats","msgid":"Accuracy","msgstr":"Přesnost"}
+{"msgctxt":"stats","msgid":"Age","msgstr":"Věk"}
+{"msgctxt":"stats","msgid":"Air","msgstr":"Vzduch"}
+{"msgctxt":"stats","msgid":"Armor Class","msgstr":"Třída zbroje"}
+{"msgctxt":"stats","msgid":"Attack","msgstr":"Útok"}
+{"msgctxt":"stats","msgid":"Attack Bonus","msgstr":"Útočný bonus"}
+{"msgctxt":"stats","msgid":"Attack Damage","msgstr":"Zranění při útoku"}
+{"msgctxt":"stats","msgid":"Body","msgstr":"Tělo"}
+{"msgctxt":"stats","msgid":"Class","msgstr":"Povolání"}
+{"msgctxt":"stats","msgid":"Cold","msgstr":"Chlad"}
+{"msgctxt":"stats","msgid":"Cond","msgstr":"Stav"}
+{"msgctxt":"stats","msgid":"Condition","msgstr":"Stav"}
+{"msgctxt":"stats","msgid":"Dmg","msgstr":"Zran."}
+{"msgctxt":"stats","msgid":"Earth","msgstr":"Země"}
+{"msgctxt":"stats","msgid":"Electricity","msgstr":"Elektřina"}
+{"msgctxt":"stats","msgid":"Endurance","msgstr":"Odolnost"}
+{"msgctxt":"stats","msgid":"Exp.","msgstr":"Zkuš."}
+{"msgctxt":"stats","msgid":"Experience","msgstr":"Zkušenosti"}
+{"msgctxt":"stats","msgid":"Fame","msgstr":"Sláva"}
+{"msgctxt":"stats","msgid":"Fire","msgstr":"Oheň"}
+{"msgctxt":"stats","msgid":"Hit Points","msgstr":"Body zdraví"}
+{"msgctxt":"stats","msgid":"HP","msgstr":"Zdraví"}
+{"msgctxt":"stats","msgid":"Intellect","msgstr":"Inteligence"}
+{"msgctxt":"stats","msgid":"Level","msgstr":"Úroveň"}
+{"msgctxt":"stats","msgid":"Luck","msgstr":"Štěstí"}
+{"msgctxt":"stats","msgid":"Magic","msgstr":"Magie"}
+{"msgctxt":"stats","msgid":"Might","msgstr":"Síla"}
+{"msgctxt":"stats","msgid":"Mind","msgstr":"Mysl"}
+{"msgctxt":"stats","msgid":"Name","msgstr":"Jméno"}
+{"msgctxt":"stats","msgid":"Personality","msgstr":"Osobnost"}
+{"msgctxt":"stats","msgid":"Points","msgstr":"Body"}
+{"msgctxt":"stats","msgid":"Poison","msgstr":"Jed"}
+{"msgctxt":"stats","msgid":"QSpell","msgstr":"Rychlé kouzlo"}
+{"msgctxt":"stats","msgid":"Quick Spell","msgstr":"Rychlé kouzlo"}
+{"msgctxt":"stats","msgid":"Reputation","msgstr":"Pověst"}
+{"msgctxt":"stats","msgid":"Shoot Bonus","msgstr":"Bonus ke střelbě"}
+{"msgctxt":"stats","msgid":"Shoot Damage","msgstr":"Poškození střelbou"}
+{"msgctxt":"stats","msgid":"Skill Points","msgstr":"Body dovedností"}
+{"msgctxt":"stats","msgid":"Skills","msgstr":"Dovednosti"}
+{"msgctxt":"stats","msgid":"SP","msgstr":"Mana"}
+{"msgctxt":"stats","msgid":"Speed","msgstr":"Rychlost"}
+{"msgctxt":"stats","msgid":"Spell Points","msgstr":"Mana"}
+{"msgctxt":"stats","msgid":"Water","msgstr":"Voda"}
+{"msgctxt":"stditems","msgid":"of Air Resistance","msgstr":"odolnosti vůči vzduchu"}
+{"msgctxt":"stditems","msgid":"of Alchemy","msgstr":"alchymie"}
+{"msgctxt":"stditems","msgid":"of Arms","msgstr":"zbraní"}
+{"msgctxt":"stditems","msgid":"of Body Resistance","msgstr":"odolnosti vůči Tělu"}
+{"msgctxt":"stditems","msgid":"of Charm","msgstr":"okouzlení"}
+{"msgctxt":"stditems","msgid":"of Cold Resistance","msgstr":"odolnosti vůči chladu"}
+{"msgctxt":"stditems","msgid":"of Defense","msgstr":"obrany"}
+{"msgctxt":"stditems","msgid":"of Disarming","msgstr":"zneškodňování pastí"}
+{"msgctxt":"stditems","msgid":"of Dodging","msgstr":"uhýbání"}
+{"msgctxt":"stditems","msgid":"of Earth Resistance","msgstr":"odolnosti proti zemi"}
+{"msgctxt":"stditems","msgid":"of Elec Resistance","msgstr":"odolnosti vůči elektřině"}
+{"msgctxt":"stditems","msgid":"of Fire Resistance","msgstr":"odolnosti vůči Ohni"}
+{"msgctxt":"stditems","msgid":"of great Might","msgstr":"velké síly"}
+{"msgctxt":"stditems","msgid":"of Health","msgstr":"zdraví"}
+{"msgctxt":"stditems","msgid":"of Items","msgstr":"identifikace předmětů"}
+{"msgctxt":"stditems","msgid":"of Luck","msgstr":"štěstí"}
+{"msgctxt":"stditems","msgid":"of Magic","msgstr":"magie"}
+{"msgctxt":"stditems","msgid":"of Might","msgstr":"síly"}
+{"msgctxt":"stditems","msgid":"of Mind Resistance","msgstr":"odolnosti vůči Mysli"}
+{"msgctxt":"stditems","msgid":"of Monsters","msgstr":"nestvůr"}
+{"msgctxt":"stditems","msgid":"of Poison Resistance","msgstr":"odolnosti vůči jedu"}
+{"msgctxt":"stditems","msgid":"of Precision","msgstr":"přesnosti"}
+{"msgctxt":"stditems","msgid":"of Speed","msgstr":"rychlosti"}
+{"msgctxt":"stditems","msgid":"of Stealing","msgstr":"kradení"}
+{"msgctxt":"stditems","msgid":"of the Fist","msgstr":"pěsti"}
+{"msgctxt":"stditems","msgid":"of Thought","msgstr":"myšlení"}
+{"msgctxt":"stditems","msgid":"of Vigor","msgstr":"vitality"}
+{"msgctxt":"stditems","msgid":"of Water Resistance","msgstr":"odolnosti proti vodě"}
