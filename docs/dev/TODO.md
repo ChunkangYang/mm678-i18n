@@ -81,3 +81,4 @@
 - extract简体繁体的mm6、7需要翻译的（和英文版不同的）图片
 - 似乎mm6有的需要修改，在\assets\img\dev\zh_CN\mm6里面
 - 其他语言语言包生成po（`mm678 new-language` 已提供基础）、extract图片、翻译等等
+- 再仔细看看mm6、7、8、mmmerge中的可翻译图片、音频、视频有哪些
