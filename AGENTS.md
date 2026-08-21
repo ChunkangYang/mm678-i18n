@@ -80,8 +80,8 @@ string is rendered with its glossary translation, not re-invented.
   language's .po, so a glossary is never stale. Regenerate after
   translating: `python tools/build_glossary.py [lang …]`.
 - Which strings count as terminology is curated (language-neutral) in
-  `references/glossary/glossary-terms.tsv` — add new terms there, then
-  regenerate.
+  `references/glossary/glossary-terms.jsonl` (one JSON object per term:
+  `msgctxt`, `msgid`) — add new terms there, then regenerate.
 - Every future language gets the same table for free once its .po has the
   terms translated (translate the glossary terms first, regenerate, then
   translate everything else consistently). zh_TW needs none (derived).

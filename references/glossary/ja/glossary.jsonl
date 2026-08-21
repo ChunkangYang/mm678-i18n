@@ -162,6 +162,8 @@
 {"msgctxt":"class","msgid":"Warlock","msgstr":"ウォーロック"}
 {"msgctxt":"class","msgid":"Warrior Mage","msgstr":"ウォリアーメイジ"}
 {"msgctxt":"class","msgid":"Wizard","msgstr":"ウィザード"}
+{"msgctxt":"class","msgid":"Archmage","msgstr":"アークメイジ"}
+{"msgctxt":"class","msgid":"Greater Druid","msgstr":"グレートドルイド"}
 {"msgctxt":"condition","msgid":"Afraid","msgstr":"恐怖"}
 {"msgctxt":"condition","msgid":"Asleep","msgstr":"睡眠"}
 {"msgctxt":"condition","msgid":"Cursed","msgstr":"呪い"}
@@ -980,7 +982,7 @@
 {"msgctxt":"items","msgid":"Rusty Mail Vest","msgstr":"錆びたメイルベスト"}
 {"msgctxt":"items","msgid":"Sacred Chalice","msgstr":"聖杯"}
 {"msgctxt":"items","msgid":"Sacred Spear","msgstr":"聖なる槍"}
-{"msgctxt":"items","msgid":"Sacrifice","msgstr":"サクリファイス"}
+{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"サクリファイス"}
 {"msgctxt":"items","msgid":"Sapphire","msgstr":"サファイア"}
 {"msgctxt":"items","msgid":"Sapphire Ring","msgstr":"サファイアの指輪"}
 {"msgctxt":"items","msgid":"Sarcophagus of Korbu","msgstr":"コルブの石棺"}
@@ -1242,6 +1244,293 @@
 {"msgctxt":"items","msgid":"Zircon","msgstr":"ジルコン"}
 {"msgctxt":"items","msgid":"Zokarr IV's Skull","msgstr":"ゾカー4世の頭蓋骨"}
 {"msgctxt":"items","msgid":"Zokarr's Axe","msgstr":"ゾカーの斧"}
+{"msgctxt":"items","msgid":"Acid Burst","msgstr":"アシッドバースト"}
+{"msgctxt":"items","msgid":"Advertisment","msgstr":"広告"}
+{"msgctxt":"items","msgid":"Amulet","msgstr":"護符"}
+{"msgctxt":"items","msgid":"Ancient Part","msgstr":"古代の部品"}
+{"msgctxt":"items","msgid":"Ancient Weapon","msgstr":"古代の武器"}
+{"msgctxt":"items","msgid":"Armageddon","msgstr":"ハルマゲドン"}
+{"msgctxt":"items","msgid":"Artifact","msgstr":"アーティファクト"}
+{"msgctxt":"items","msgid":"Artifact Axe","msgstr":"アーティファクトの斧"}
+{"msgctxt":"items","msgid":"Artifact Belt","msgstr":"アーティファクトのベルト"}
+{"msgctxt":"items","msgid":"Artifact Boots","msgstr":"アーティファクトのブーツ"}
+{"msgctxt":"items","msgid":"Artifact Bow","msgstr":"アーティファクトの弓"}
+{"msgctxt":"items","msgid":"Artifact Broadsword","msgstr":"アーティファクトのブロードソード"}
+{"msgctxt":"items","msgid":"Artifact Chain Mail","msgstr":"アーティファクトのチェインメイル"}
+{"msgctxt":"items","msgid":"Artifact Chainmail","msgstr":"アーティファクトのチェインメイル"}
+{"msgctxt":"items","msgid":"Artifact Cloak","msgstr":"アーティファクトのマント"}
+{"msgctxt":"items","msgid":"Artifact Club","msgstr":"アーティファクトの棍棒"}
+{"msgctxt":"items","msgid":"Artifact Crown","msgstr":"アーティファクトの王冠"}
+{"msgctxt":"items","msgid":"Artifact Cutlass","msgstr":"アーティファクトのカトラス"}
+{"msgctxt":"items","msgid":"Artifact Gauntlets","msgstr":"アーティファクトの籠手"}
+{"msgctxt":"items","msgid":"Artifact Halberd","msgstr":"アーティファクトのハルバード"}
+{"msgctxt":"items","msgid":"Artifact Helm","msgstr":"アーティファクトの兜"}
+{"msgctxt":"items","msgid":"Artifact Large Shield","msgstr":"アーティファクトの盾（大）"}
+{"msgctxt":"items","msgid":"Artifact Leather Armor","msgstr":"アーティファクトの革鎧"}
+{"msgctxt":"items","msgid":"Artifact Long Dagger","msgstr":"アーティファクトの長刃の短剣"}
+{"msgctxt":"items","msgid":"Artifact Longsword","msgstr":"アーティファクトの長剣"}
+{"msgctxt":"items","msgid":"Artifact Mace","msgstr":"アーティファクトのメイス"}
+{"msgctxt":"items","msgid":"Artifact Plate Armor","msgstr":"アーティファクトのプレートアーマー"}
+{"msgctxt":"items","msgid":"Artifact Ring","msgstr":"アーティファクトの指輪"}
+{"msgctxt":"items","msgid":"Artifact Spear","msgstr":"アーティファクトの槍"}
+{"msgctxt":"items","msgid":"Artifact Staff","msgstr":"アーティファクトの杖"}
+{"msgctxt":"items","msgid":"Artifact Two-Handed Axe","msgstr":"アーティファクトの両手斧"}
+{"msgctxt":"items","msgid":"Artifact Two-Handed Sword","msgstr":"アーティファクトの両手剣"}
+{"msgctxt":"items","msgid":"Axe","msgstr":"斧"}
+{"msgctxt":"items","msgid":"Barbarian Axe","msgstr":"蛮族の斧"}
+{"msgctxt":"items","msgid":"Barbarian Flamberge","msgstr":"蛮族のフランベルジュ"}
+{"msgctxt":"items","msgid":"Basic Steel Chain Mail","msgstr":"標準の鋼のチェインメイル"}
+{"msgctxt":"items","msgid":"Battle Hammer","msgstr":"戦闘用ハンマー"}
+{"msgctxt":"items","msgid":"Bell","msgstr":"鐘"}
+{"msgctxt":"items","msgid":"Belt","msgstr":"ベルト"}
+{"msgctxt":"items","msgid":"Black Pearl","msgstr":"黒真珠"}
+{"msgctxt":"items","msgid":"Black Potion","msgstr":"ポーション（黒）"}
+{"msgctxt":"items","msgid":"Blades","msgstr":"ブレード"}
+{"msgctxt":"items","msgid":"Blue Potion","msgstr":"ポーション（青）"}
+{"msgctxt":"items","msgid":"Book","msgstr":"書物"}
+{"msgctxt":"items","msgid":"Book of Learning","msgstr":"学びの書"}
+{"msgctxt":"items","msgid":"Boots","msgstr":"ブーツ"}
+{"msgctxt":"items","msgid":"Bottle","msgstr":"瓶"}
+{"msgctxt":"items","msgid":"Bow","msgstr":"弓"}
+{"msgctxt":"items","msgid":"Box","msgstr":"箱"}
+{"msgctxt":"items","msgid":"Brandy","msgstr":"ブランデー"}
+{"msgctxt":"items","msgid":"Brazier","msgstr":"火鉢"}
+{"msgctxt":"items","msgid":"Cannonball","msgstr":"砲弾"}
+{"msgctxt":"items","msgid":"Case of Jars","msgstr":"壺入りの箱"}
+{"msgctxt":"items","msgid":"Catalyst potion","msgstr":"触媒ポーション"}
+{"msgctxt":"items","msgid":"Certificate","msgstr":"鑑定証明"}
+{"msgctxt":"items","msgid":"Chainmail","msgstr":"チェインメイル"}
+{"msgctxt":"items","msgid":"Chalice","msgstr":"杯"}
+{"msgctxt":"items","msgid":"Charm","msgstr":"チャーム"}
+{"msgctxt":"items","msgid":"Cheese","msgstr":"チーズ"}
+{"msgctxt":"items","msgid":"Chime","msgstr":"チャイム"}
+{"msgctxt":"items","msgid":"Circlet","msgstr":"サークレット"}
+{"msgctxt":"items","msgid":"Citizen Hat","msgstr":"市民の帽子"}
+{"msgctxt":"items","msgid":"Claymore","msgstr":"クレイモア"}
+{"msgctxt":"items","msgid":"Cloak","msgstr":"マント"}
+{"msgctxt":"items","msgid":"Conqueror Sword","msgstr":"征服者の剣"}
+{"msgctxt":"items","msgid":"Crate","msgstr":"箱"}
+{"msgctxt":"items","msgid":"Crude Buckler","msgstr":"粗末なバックラー"}
+{"msgctxt":"items","msgid":"Crude Leather Belt","msgstr":"粗末な革のベルト"}
+{"msgctxt":"items","msgid":"Cruel Wand of Acid","msgstr":"残忍な酸のワンド"}
+{"msgctxt":"items","msgid":"Cruel Wand of Berzerking","msgstr":"残忍なバーサークのワンド"}
+{"msgctxt":"items","msgid":"Cruel Wand of Blades","msgstr":"残忍なブレードのワンド"}
+{"msgctxt":"items","msgid":"Cruel Wand of Fireballs","msgstr":"残忍なファイアーボールのワンド"}
+{"msgctxt":"items","msgid":"Cruel Wand of Lightning","msgstr":"残忍なライトニングのワンド"}
+{"msgctxt":"items","msgid":"Crystal","msgstr":"クリスタル"}
+{"msgctxt":"items","msgid":"Cube","msgstr":"キューブ"}
+{"msgctxt":"items","msgid":"Dandy Hat","msgstr":"洒落者の帽子"}
+{"msgctxt":"items","msgid":"Day of Protection","msgstr":"デイ オブ プロテクション"}
+{"msgctxt":"items","msgid":"Day of the Gods","msgstr":"デイ オブ ザ ゴッド"}
+{"msgctxt":"items","msgid":"Deadly Swarm","msgstr":"デッドリースワーム"}
+{"msgctxt":"items","msgid":"Death Blossom","msgstr":"デスブロッサム"}
+{"msgctxt":"items","msgid":"Deck","msgstr":"デッキ"}
+{"msgctxt":"items","msgid":"Destroy Undead","msgstr":"デストロイアンデッド"}
+{"msgctxt":"items","msgid":"Dispel Magic","msgstr":"ディスペルマジック"}
+{"msgctxt":"items","msgid":"Divine Intervention","msgstr":"デバインインターベンション"}
+{"msgctxt":"items","msgid":"Dragon Breath","msgstr":"ドラゴンブレス"}
+{"msgctxt":"items","msgid":"Dragon Wand of Distortion","msgstr":"ドラゴンの歪曲のワンド"}
+{"msgctxt":"items","msgid":"Dragon Wand of Implosion","msgstr":"ドラゴンのインプロージョンのワンド"}
+{"msgctxt":"items","msgid":"Dragon Wand of Incineration","msgstr":"ドラゴンの焼却のワンド"}
+{"msgctxt":"items","msgid":"Dragon Wand of Shrapmetal","msgstr":"ドラゴンのシュラップメタルのワンド"}
+{"msgctxt":"items","msgid":"Dragon Wand of Shrinking","msgstr":"ドラゴンの縮小のワンド"}
+{"msgctxt":"items","msgid":"Druid Wand of Ice","msgstr":"ドルイドの氷のワンド"}
+{"msgctxt":"items","msgid":"Druid Wand of Lashing","msgstr":"ドルイドの鞭打ちのワンド"}
+{"msgctxt":"items","msgid":"Druid Wand of Light","msgstr":"ドルイドの光のワンド"}
+{"msgctxt":"items","msgid":"Druid Wand of Mind","msgstr":"ドルイドの精神のワンド"}
+{"msgctxt":"items","msgid":"Druid Wand of Swarms","msgstr":"ドルイドのスウォームのワンド"}
+{"msgctxt":"items","msgid":"Drum","msgstr":"太鼓"}
+{"msgctxt":"items","msgid":"Dwarven Noble Axe","msgstr":"ドワーフ貴族の斧"}
+{"msgctxt":"items","msgid":"Ear","msgstr":"耳"}
+{"msgctxt":"items","msgid":"Egg","msgstr":"卵"}
+{"msgctxt":"items","msgid":"Elven Helm","msgstr":"エルフの兜"}
+{"msgctxt":"items","msgid":"Enchant Item","msgstr":"エンチャントアイテム"}
+{"msgctxt":"items","msgid":"Exquisite Cutlass","msgstr":"精巧なカトラス"}
+{"msgctxt":"items","msgid":"Feather Fall","msgstr":"フェザーフォール"}
+{"msgctxt":"items","msgid":"Fine Broadsword","msgstr":"上質なブロードソード"}
+{"msgctxt":"items","msgid":"Fine Leather Cloak","msgstr":"上質な革のマント"}
+{"msgctxt":"items","msgid":"Fine Long Dagger","msgstr":"上質な長刃の短剣"}
+{"msgctxt":"items","msgid":"Fire Bolt","msgstr":"ファイアーボルト"}
+{"msgctxt":"items","msgid":"Fireball","msgstr":"ファイアーボール"}
+{"msgctxt":"items","msgid":"Flower","msgstr":"花"}
+{"msgctxt":"items","msgid":"Fly","msgstr":"フライ"}
+{"msgctxt":"items","msgid":"Flying Fist","msgstr":"フライングフィスト"}
+{"msgctxt":"items","msgid":"Fruit","msgstr":"果実"}
+{"msgctxt":"items","msgid":"Gem","msgstr":"宝石"}
+{"msgctxt":"items","msgid":"Gemstone","msgstr":"宝石"}
+{"msgctxt":"items","msgid":"Golden Plate Mail","msgstr":"黄金のプレートメイル"}
+{"msgctxt":"items","msgid":"Golem part","msgstr":"ゴーレムの部品"}
+{"msgctxt":"items","msgid":"Gong","msgstr":"銅鑼"}
+{"msgctxt":"items","msgid":"Gray Potion","msgstr":"ポーション（グレー）"}
+{"msgctxt":"items","msgid":"Green Potion","msgstr":"ポーション（緑）"}
+{"msgctxt":"items","msgid":"Grey Potion","msgstr":"ポーション（グレー）"}
+{"msgctxt":"items","msgid":"Harm","msgstr":"ハーム"}
+{"msgctxt":"items","msgid":"Hat","msgstr":"帽子"}
+{"msgctxt":"items","msgid":"Heart","msgstr":"心臓"}
+{"msgctxt":"items","msgid":"Heartstone","msgstr":"核石"}
+{"msgctxt":"items","msgid":"Herb","msgstr":"ハーブ"}
+{"msgctxt":"items","msgid":"Hide","msgstr":"皮"}
+{"msgctxt":"items","msgid":"History Book","msgstr":"歴史書"}
+{"msgctxt":"items","msgid":"Horn","msgstr":"角"}
+{"msgctxt":"items","msgid":"Hour of Power","msgstr":"アワー オブ パワー"}
+{"msgctxt":"items","msgid":"Hourglass","msgstr":"砂時計"}
+{"msgctxt":"items","msgid":"Ice Blast","msgstr":"アイスブラスト"}
+{"msgctxt":"items","msgid":"Ice Bolt","msgstr":"アイスボルト"}
+{"msgctxt":"items","msgid":"Idol","msgstr":"偶像"}
+{"msgctxt":"items","msgid":"Implosion","msgstr":"インプロージョン"}
+{"msgctxt":"items","msgid":"Improvised Dagger","msgstr":"即席の短剣"}
+{"msgctxt":"items","msgid":"Incinerate","msgstr":"インシネレイト"}
+{"msgctxt":"items","msgid":"Inferno","msgstr":"インフェルノ"}
+{"msgctxt":"items","msgid":"Instrument","msgstr":"楽器"}
+{"msgctxt":"items","msgid":"Iron Longsword","msgstr":"鉄の長剣"}
+{"msgctxt":"items","msgid":"Iron Two-Handed Sword","msgstr":"鉄の両手剣"}
+{"msgctxt":"items","msgid":"Jar","msgstr":"壷"}
+{"msgctxt":"items","msgid":"Jelly","msgstr":"ゼリー"}
+{"msgctxt":"items","msgid":"Journal Notes","msgstr":"日誌帳"}
+{"msgctxt":"items","msgid":"Jump","msgstr":"ジャンプ"}
+{"msgctxt":"items","msgid":"Keg","msgstr":"樽"}
+{"msgctxt":"items","msgid":"Key ring","msgstr":"鍵束"}
+{"msgctxt":"items","msgid":"Lamp","msgstr":"ランプ"}
+{"msgctxt":"items","msgid":"Lantern","msgstr":"ランタン"}
+{"msgctxt":"items","msgid":"Large Shield","msgstr":"盾（大）"}
+{"msgctxt":"items","msgid":"Layered Potion","msgstr":"ポーション（赤・オレンジ）"}
+{"msgctxt":"items","msgid":"Learning Book","msgstr":"学びの書"}
+{"msgctxt":"items","msgid":"Light Dragon Leather","msgstr":"軽量ドラゴンレザー"}
+{"msgctxt":"items","msgid":"Lightning Bolt","msgstr":"ライトニングボルト"}
+{"msgctxt":"items","msgid":"Lloyd's Beacon","msgstr":"ロイズビーコン"}
+{"msgctxt":"items","msgid":"Lump of Ore","msgstr":"鉱物の塊"}
+{"msgctxt":"items","msgid":"Magic lamp","msgstr":"魔法のランプ"}
+{"msgctxt":"items","msgid":"Makeshift Hammer","msgstr":"間に合わせのハンマー"}
+{"msgctxt":"items","msgid":"Mass Distortion","msgstr":"マスディストーション"}
+{"msgctxt":"items","msgid":"Mass Fear","msgstr":"マスフィア"}
+{"msgctxt":"items","msgid":"Massive Steel Broadsword","msgstr":"巨大な鋼のブロードソード"}
+{"msgctxt":"items","msgid":"Master Broadsword","msgstr":"達人のブロードソード"}
+{"msgctxt":"items","msgid":"Memory Crystal","msgstr":"メモリークリスタル"}
+{"msgctxt":"items","msgid":"Message Scroll","msgstr":"伝言巻物"}
+{"msgctxt":"items","msgid":"Metal Rod","msgstr":"金属棒"}
+{"msgctxt":"items","msgid":"Meteor Shower","msgstr":"メテオシャワー"}
+{"msgctxt":"items","msgid":"Mind Blast","msgstr":"マインドブラスト"}
+{"msgctxt":"items","msgid":"Notes","msgstr":"覚書"}
+{"msgctxt":"items","msgid":"Old Leather Boots","msgstr":"古い革のブーツ"}
+{"msgctxt":"items","msgid":"Orange Potion","msgstr":"ポーション（オレンジ）"}
+{"msgctxt":"items","msgid":"Painting","msgstr":"絵画"}
+{"msgctxt":"items","msgid":"Paralyze","msgstr":"パラライズ"}
+{"msgctxt":"items","msgid":"Pelt","msgstr":"毛皮"}
+{"msgctxt":"items","msgid":"Pinched Gauntlets","msgstr":"窮屈な籠手"}
+{"msgctxt":"items","msgid":"Plate Mail","msgstr":"プレートメイル"}
+{"msgctxt":"items","msgid":"Poison Spray","msgstr":"ポイズンスプレー"}
+{"msgctxt":"items","msgid":"Potion Recipe","msgstr":"ポーションの処方箋"}
+{"msgctxt":"items","msgid":"Power Cure","msgstr":"パワーキュア"}
+{"msgctxt":"items","msgid":"Primitive Club","msgstr":"原始的な棍棒"}
+{"msgctxt":"items","msgid":"Prismatic Light","msgstr":"プリズマティックライト"}
+{"msgctxt":"items","msgid":"Psychic Shock","msgstr":"サイキックショック"}
+{"msgctxt":"items","msgid":"Pulp","msgstr":"果肉"}
+{"msgctxt":"items","msgid":"Pure Intelect","msgstr":"純粋なる「知性」"}
+{"msgctxt":"items","msgid":"Purple Potion","msgstr":"ポーション（紫）"}
+{"msgctxt":"items","msgid":"Pyramid","msgstr":"ピラミッド"}
+{"msgctxt":"items","msgid":"Quill","msgstr":"羽根ペン"}
+{"msgctxt":"items","msgid":"Raise Dead","msgstr":"レイズデッド"}
+{"msgctxt":"items","msgid":"Reagent","msgstr":"試薬"}
+{"msgctxt":"items","msgid":"Reanimate","msgstr":"リアニメイト"}
+{"msgctxt":"items","msgid":"Red Potion","msgstr":"ポーション（赤）"}
+{"msgctxt":"items","msgid":"Reinforced Leather","msgstr":"補強革鎧"}
+{"msgctxt":"items","msgid":"Rejuvination","msgstr":"若返り"}
+{"msgctxt":"items","msgid":"Relic","msgstr":"レリック"}
+{"msgctxt":"items","msgid":"Relic Axe","msgstr":"レリックの斧"}
+{"msgctxt":"items","msgid":"Relic Belt","msgstr":"レリックのベルト"}
+{"msgctxt":"items","msgid":"Relic Bow","msgstr":"レリックの弓"}
+{"msgctxt":"items","msgid":"Relic Crossbow","msgstr":"レリックの弩"}
+{"msgctxt":"items","msgid":"Relic Dagger","msgstr":"レリックの短剣"}
+{"msgctxt":"items","msgid":"Relic Hat","msgstr":"レリックの帽子"}
+{"msgctxt":"items","msgid":"Relic Leather Armor","msgstr":"レリックの革鎧"}
+{"msgctxt":"items","msgid":"Relic Longsword","msgstr":"レリックの長剣"}
+{"msgctxt":"items","msgid":"Relic Ring","msgstr":"レリックの指輪"}
+{"msgctxt":"items","msgid":"Relic Small Shield","msgstr":"レリックの盾（小）"}
+{"msgctxt":"items","msgid":"Relic Spear","msgstr":"レリックの槍"}
+{"msgctxt":"items","msgid":"Relic Staff","msgstr":"レリックの杖"}
+{"msgctxt":"items","msgid":"Relic Two-Handed Sword","msgstr":"レリックの両手剣"}
+{"msgctxt":"items","msgid":"Remains","msgstr":"遺骨"}
+{"msgctxt":"items","msgid":"Report","msgstr":"報告書"}
+{"msgctxt":"items","msgid":"Resurrection","msgstr":"レザレクション"}
+{"msgctxt":"items","msgid":"Ring","msgstr":"指輪"}
+{"msgctxt":"items","msgid":"Rock Blast","msgstr":"ロックブラスト"}
+{"msgctxt":"items","msgid":"Root Club","msgstr":"木の根の棍棒"}
+{"msgctxt":"items","msgid":"Round crystal","msgstr":"円形クリスタル"}
+{"msgctxt":"items","msgid":"Royal Crown","msgstr":"王室の王冠"}
+{"msgctxt":"items","msgid":"Rusty Bronze Shield","msgstr":"錆びた青銅の盾"}
+{"msgctxt":"items","msgid":"Saber","msgstr":"サーベル"}
+{"msgctxt":"items","msgid":"Sandals","msgstr":"サンダル"}
+{"msgctxt":"items","msgid":"Sarcophagus","msgstr":"石棺"}
+{"msgctxt":"items","msgid":"Scarf","msgstr":"スカーフ"}
+{"msgctxt":"items","msgid":"Scroll","msgstr":"呪文"}
+{"msgctxt":"items","msgid":"Serpent Wand of Clouds","msgstr":"大蛇の雲のワンド"}
+{"msgctxt":"items","msgid":"Shared Life","msgstr":"シェアドライフ"}
+{"msgctxt":"items","msgid":"Shoddy Long Dagger","msgstr":"粗悪な長刃の短剣"}
+{"msgctxt":"items","msgid":"Shrapmetal","msgstr":"シュラップメタル"}
+{"msgctxt":"items","msgid":"Shrinking Ray","msgstr":"シュリンキングレイ"}
+{"msgctxt":"items","msgid":"Skull","msgstr":"頭蓋骨"}
+{"msgctxt":"items","msgid":"Slow","msgstr":"スロウ"}
+{"msgctxt":"items","msgid":"Small Shield","msgstr":"盾（小）"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Fire","msgstr":"きらめく火のワンド"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Harming","msgstr":"きらめくハームのワンド"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Poison","msgstr":"きらめく毒のワンド"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Sparks","msgstr":"きらめくスパークのワンド"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Stunning","msgstr":"きらめくスタンのワンド"}
+{"msgctxt":"items","msgid":"Sparks","msgstr":"スパーク"}
+{"msgctxt":"items","msgid":"Special Amulet","msgstr":"特殊な護符"}
+{"msgctxt":"items","msgid":"Special Axe","msgstr":"特殊な斧"}
+{"msgctxt":"items","msgid":"Special Bow","msgstr":"特殊な弓"}
+{"msgctxt":"items","msgid":"Special Cloak","msgstr":"特殊なマント"}
+{"msgctxt":"items","msgid":"Special Cutlass","msgstr":"特殊なカトラス"}
+{"msgctxt":"items","msgid":"Special Dagger","msgstr":"特殊な短剣"}
+{"msgctxt":"items","msgid":"Special Helm","msgstr":"特殊な兜"}
+{"msgctxt":"items","msgid":"Special Mace","msgstr":"特殊なメイス"}
+{"msgctxt":"items","msgid":"Special Ring","msgstr":"特殊な指輪"}
+{"msgctxt":"items","msgid":"Special Spear","msgstr":"特殊な槍"}
+{"msgctxt":"items","msgid":"Special Sword","msgstr":"特殊な剣"}
+{"msgctxt":"items","msgid":"Special Two-Handed Axe","msgstr":"特殊な両手斧"}
+{"msgctxt":"items","msgid":"Special Two-Handed Sword","msgstr":"特殊な両手剣"}
+{"msgctxt":"items","msgid":"Spell Scroll","msgstr":"呪文の巻物"}
+{"msgctxt":"items","msgid":"Splintery Buckler","msgstr":"ささくれたバックラー"}
+{"msgctxt":"items","msgid":"Starburst","msgstr":"スターバースト"}
+{"msgctxt":"items","msgid":"Statuette","msgstr":"小像"}
+{"msgctxt":"items","msgid":"Steel Club","msgstr":"鋼鉄の棍棒"}
+{"msgctxt":"items","msgid":"Steel Plate Mail","msgstr":"鋼鉄のプレートメイル"}
+{"msgctxt":"items","msgid":"Stinger","msgstr":"針"}
+{"msgctxt":"items","msgid":"Stone","msgstr":"石"}
+{"msgctxt":"items","msgid":"Strange Suit","msgstr":"奇妙なスーツ"}
+{"msgctxt":"items","msgid":"Studded Leather Belt","msgstr":"鋲打ち革のベルト"}
+{"msgctxt":"items","msgid":"Stun","msgstr":"スタン"}
+{"msgctxt":"items","msgid":"Sturdy Mace","msgstr":"頑丈なメイス"}
+{"msgctxt":"items","msgid":"Sword","msgstr":"剣"}
+{"msgctxt":"items","msgid":"Tapestry","msgstr":"タペストリー"}
+{"msgctxt":"items","msgid":"Telekinesis","msgstr":"テレキネシス"}
+{"msgctxt":"items","msgid":"Thorned Club","msgstr":"茨の棍棒"}
+{"msgctxt":"items","msgid":"Tile","msgstr":"タイル"}
+{"msgctxt":"items","msgid":"Torch Light","msgstr":"トーチライト"}
+{"msgctxt":"items","msgid":"Town Portal","msgstr":"タウンポータル"}
+{"msgctxt":"items","msgid":"Toxic Cloud","msgstr":"トキシッククラウド"}
+{"msgctxt":"items","msgid":"Turn Undead","msgstr":"ターンアンデッド"}
+{"msgctxt":"items","msgid":"Urn","msgstr":"骨壷"}
+{"msgctxt":"items","msgid":"Vanquisher Sword","msgstr":"覇者の剣"}
+{"msgctxt":"items","msgid":"Vial","msgstr":"小瓶"}
+{"msgctxt":"items","msgid":"Vouchers","msgstr":"証票"}
+{"msgctxt":"items","msgid":"Wand","msgstr":"ワンド"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Blasting","msgstr":"ウォーロックの爆破のワンド"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Clouds","msgstr":"ウォーロックの雲のワンド"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Paralyzing","msgstr":"ウォーロックの麻痺のワンド"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Rocks","msgstr":"ウォーロックの岩のワンド"}
+{"msgctxt":"items","msgid":"Warlock's Wand of The Fist","msgstr":"ウォーロックの拳のワンド"}
+{"msgctxt":"items","msgid":"Water Walk","msgstr":"ウォーターウォーク"}
+{"msgctxt":"items","msgid":"White Pearl","msgstr":"白真珠"}
+{"msgctxt":"items","msgid":"White Potion","msgstr":"ポーション（白）"}
+{"msgctxt":"items","msgid":"Wizard Eye","msgstr":"ウィザードアイ"}
+{"msgctxt":"items","msgid":"Wonder Dagger","msgstr":"驚異の短剣"}
+{"msgctxt":"items","msgid":"Wood","msgstr":"木材"}
+{"msgctxt":"items","msgid":"Wooden Helm","msgstr":"木製の兜"}
+{"msgctxt":"items","msgid":"Wreath Crown","msgstr":"花輪の王冠"}
+{"msgctxt":"items","msgid":"Yellow Potion","msgstr":"ポーション（黄）"}
+{"msgctxt":"items","msgid":"gold","msgstr":"ゴールド"}
 {"msgctxt":"location","msgid":"Abandoned Pirate Keep","msgstr":"放棄された海賊砦"}
 {"msgctxt":"location","msgid":"Abandoned Temple","msgstr":"廃神殿"}
 {"msgctxt":"location","msgid":"Agar's Laboratory","msgstr":"アガーの研究所"}
@@ -1899,6 +2188,2281 @@
 {"msgctxt":"monsters","msgid":"Young Dragon","msgstr":"ヤングドラゴン"}
 {"msgctxt":"monsters","msgid":"Young Dragon Turtle","msgstr":"ヤングドラゴンタートル"}
 {"msgctxt":"monsters","msgid":"Zombie","msgstr":"ゾンビ"}
+{"msgctxt":"monsters","msgid":"peasant","msgstr":"農民"}
+{"msgctxt":"npcdata","msgid":"Aaron Castro","msgstr":"アーロン カストロ"}
+{"msgctxt":"npcdata","msgid":"Aaron Strongmun","msgstr":"アーロン ストロングマン"}
+{"msgctxt":"npcdata","msgid":"Abdul","msgstr":"アブドゥル"}
+{"msgctxt":"npcdata","msgid":"Abdulai Mahgreb","msgstr":"アブドゥライ マグレブ"}
+{"msgctxt":"npcdata","msgid":"Abe Markoviac","msgstr":"エイブ マルコビアック"}
+{"msgctxt":"npcdata","msgid":"Ackbar","msgstr":"アクバー"}
+{"msgctxt":"npcdata","msgid":"Acwalander","msgstr":"アクワランデル"}
+{"msgctxt":"npcdata","msgid":"Adam McCarthy","msgstr":"アダム マッカーシー "}
+{"msgctxt":"npcdata","msgid":"Adric Stellare","msgstr":"エイドリック\nシュテレア"}
+{"msgctxt":"npcdata","msgid":"Aerie Luodrin","msgstr":"アイリー ルオドリン"}
+{"msgctxt":"npcdata","msgid":"Agatha Noble","msgstr":"アガサ ノーブル"}
+{"msgctxt":"npcdata","msgid":"Agatha Putnam","msgstr":"アガサ プットナム"}
+{"msgctxt":"npcdata","msgid":"Ahmed A'sanzi","msgstr":"アーメド アサンジ"}
+{"msgctxt":"npcdata","msgid":"Ailyssa the Bard","msgstr":"アイリッサ ザ バード"}
+{"msgctxt":"npcdata","msgid":"Aislen","msgstr":"アイスレン"}
+{"msgctxt":"npcdata","msgid":"Alain Hani","msgstr":"アレイン ハニ"}
+{"msgctxt":"npcdata","msgid":"Alashandra Reese","msgstr":"アラシャンドラ リース"}
+{"msgctxt":"npcdata","msgid":"Albert Newton","msgstr":"アルバート ニュートン"}
+{"msgctxt":"npcdata","msgid":"Aldrin Cleareye","msgstr":"アルドリン クリアアイ"}
+{"msgctxt":"npcdata","msgid":"Aldrin Tamloc","msgstr":"アルドリン タムロック"}
+{"msgctxt":"npcdata","msgid":"Alex Morrow","msgstr":"アレックス モロー"}
+{"msgctxt":"npcdata","msgid":"Alex Sherman","msgstr":"アレックス シャーマン "}
+{"msgctxt":"npcdata","msgid":"Alice Hargreaves","msgstr":"アリス ハーグリーヴス"}
+{"msgctxt":"npcdata","msgid":"Alice Ofenhauser","msgstr":"アリス オーフェンハウザー"}
+{"msgctxt":"npcdata","msgid":"Alik Whitemoon","msgstr":"アリック ホワイトムーン"}
+{"msgctxt":"npcdata","msgid":"Alise Nightwood","msgstr":"アリース ナイトウッド"}
+{"msgctxt":"npcdata","msgid":"Alliane Frelsig","msgstr":"アライアン フルシグ"}
+{"msgctxt":"npcdata","msgid":"Alton Black","msgstr":"アルトン ブラック"}
+{"msgctxt":"npcdata","msgid":"Alton Putnam","msgstr":"アルトン プットナム"}
+{"msgctxt":"npcdata","msgid":"Amanda Van De Camp","msgstr":"アマンダ ヴァン デ キャンプ"}
+{"msgctxt":"npcdata","msgid":"Ambassador Scale","msgstr":"スケール大使"}
+{"msgctxt":"npcdata","msgid":"Ambassador Wright","msgstr":"ライト大使"}
+{"msgctxt":"npcdata","msgid":"Amber Praetor","msgstr":"アンバー プレイター"}
+{"msgctxt":"npcdata","msgid":"Ambrose Brusse","msgstr":"アンブローズ ブリュス"}
+{"msgctxt":"npcdata","msgid":"Amethyst Gemstone","msgstr":"アメジスト ジェムストーン"}
+{"msgctxt":"npcdata","msgid":"Anawah","msgstr":"アナワ"}
+{"msgctxt":"npcdata","msgid":"Andover Potbello","msgstr":"アンドーヴァー ポットベロー"}
+{"msgctxt":"npcdata","msgid":"Andrew Besper","msgstr":"アンドルー ベスパー"}
+{"msgctxt":"npcdata","msgid":"Andrew Grumm","msgstr":"アンドルー グラム"}
+{"msgctxt":"npcdata","msgid":"Andrew YC Pupedis","msgstr":"アンドルー YC プペディス"}
+{"msgctxt":"npcdata","msgid":"Angela Dawson","msgstr":"アンジェラ ドーソン"}
+{"msgctxt":"npcdata","msgid":"Anna Wooll","msgstr":"アンナ・ウール"}
+{"msgctxt":"npcdata","msgid":"Anthony Green","msgstr":"アンソニー グリーン"}
+{"msgctxt":"npcdata","msgid":"Anthony Hargraine","msgstr":"アンソニー ハーグレイン"}
+{"msgctxt":"npcdata","msgid":"Anthony Stone","msgstr":"アンソニー ストーン"}
+{"msgctxt":"npcdata","msgid":"Aori Derrisai","msgstr":"アオリ デルリサイ"}
+{"msgctxt":"npcdata","msgid":"April Lee","msgstr":"エイプリル リー"}
+{"msgctxt":"npcdata","msgid":"Archibald Dawnsglow","msgstr":"アーチバルド\nドーンズグロー"}
+{"msgctxt":"npcdata","msgid":"Archibald Ironfist","msgstr":"アーチバルド アイアンフィスト"}
+{"msgctxt":"npcdata","msgid":"Arena Master","msgstr":"闘技場の主"}
+{"msgctxt":"npcdata","msgid":"Arion Hunter","msgstr":"アリオン ハンター"}
+{"msgctxt":"npcdata","msgid":"Arius","msgstr":"エイリアス"}
+{"msgctxt":"npcdata","msgid":"Arius Peleth","msgstr":"エイリアス ペレス"}
+{"msgctxt":"npcdata","msgid":"Arlen Sailor","msgstr":"アーレン セイラー"}
+{"msgctxt":"npcdata","msgid":"Arther Jelnic","msgstr":"アーサー ジェルニック"}
+{"msgctxt":"npcdata","msgid":"Arthur O'Leery","msgstr":"アーサー オリアリー"}
+{"msgctxt":"npcdata","msgid":"Artorius Veritas","msgstr":"アルトリウス\nヴェリタス"}
+{"msgctxt":"npcdata","msgid":"Arvin Beneclowd","msgstr":"アーヴィン ベネクラウド"}
+{"msgctxt":"npcdata","msgid":"Arvin Keldin","msgstr":"アーヴィン ケルディン"}
+{"msgctxt":"npcdata","msgid":"Asael Fromago","msgstr":"アサエル フロマージュ"}
+{"msgctxt":"npcdata","msgid":"Ashandra Snowtree","msgstr":"アシャンドラ スノーツリー"}
+{"msgctxt":"npcdata","msgid":"Ashandra Withersmythe","msgstr":"アシャンドラ\nウィザースマイト"}
+{"msgctxt":"npcdata","msgid":"Ashen Fiddlebone","msgstr":"アッシェン\nフィドルボーン"}
+{"msgctxt":"npcdata","msgid":"Ashen Temper","msgstr":"アッシェン テンパー"}
+{"msgctxt":"npcdata","msgid":"Auric Goldsmith","msgstr":"オーリック ゴールドスミス"}
+{"msgctxt":"npcdata","msgid":"Avalanche","msgstr":"アヴァランチ"}
+{"msgctxt":"npcdata","msgid":"Avalon","msgstr":"アバロン"}
+{"msgctxt":"npcdata","msgid":"Avilia Asheed","msgstr":"アヴィリア アシード"}
+{"msgctxt":"npcdata","msgid":"Avinril Smythers ","msgstr":"アヴィンリル スマイザース "}
+{"msgctxt":"npcdata","msgid":"Aznog Black","msgstr":"アズノーグ ブラック"}
+{"msgctxt":"npcdata","msgid":"Aznog Slasher","msgstr":"アズノーグ スラッシャー"}
+{"msgctxt":"npcdata","msgid":"Azure Windsong","msgstr":"アジュール ウィンドソング"}
+{"msgctxt":"npcdata","msgid":"Baby Dragon","msgstr":"ベビードラゴン"}
+{"msgctxt":"npcdata","msgid":"Balan Gizmo","msgstr":"バラン ギズモ"}
+{"msgctxt":"npcdata","msgid":"Balan Suretrail","msgstr":"バラン シュアトレイル"}
+{"msgctxt":"npcdata","msgid":"Balion Tearwing","msgstr":"バリオン\nティアウィング"}
+{"msgctxt":"npcdata","msgid":"Bandar Jahrom","msgstr":"バンダル ジャフロム"}
+{"msgctxt":"npcdata","msgid":"Barbara Lotts","msgstr":"バーバラ ロッツ"}
+{"msgctxt":"npcdata","msgid":"Barbara Wiseman","msgstr":"バーバラ ワイズマン"}
+{"msgctxt":"npcdata","msgid":"Barrad Unter","msgstr":"バラッド ウンター"}
+{"msgctxt":"npcdata","msgid":"Barry Shepherd","msgstr":"バリー シェパード"}
+{"msgctxt":"npcdata","msgid":"Bartholomew Hume","msgstr":"バーソロミュー ヒューム"}
+{"msgctxt":"npcdata","msgid":"Bastian Loudrin","msgstr":"バスティアン \nラウドリン"}
+{"msgctxt":"npcdata","msgid":"Bazalath","msgstr":"バザラス"}
+{"msgctxt":"npcdata","msgid":"Beauregard Wolf","msgstr":"ボーレガード ウルフ"}
+{"msgctxt":"npcdata","msgid":"Becky Holmes","msgstr":"ベッキー ホームズ"}
+{"msgctxt":"npcdata","msgid":"Bejamin Sotherland","msgstr":"ベンジャミン サザーランド"}
+{"msgctxt":"npcdata","msgid":"Belinda Pikeman","msgstr":"ベリンダ パイクマン"}
+{"msgctxt":"npcdata","msgid":"Benefice","msgstr":"ベネファイス"}
+{"msgctxt":"npcdata","msgid":"Benito Tellman","msgstr":"ベニト テルマン"}
+{"msgctxt":"npcdata","msgid":"Benjamin Bent","msgstr":"ベンジャミン ベント "}
+{"msgctxt":"npcdata","msgid":"Benjamin Greenstorm","msgstr":"ベンジャミン\nグリーンストーム"}
+{"msgctxt":"npcdata","msgid":"Benjamin the Balanced","msgstr":"ベンジャミン ザ バランスド"}
+{"msgctxt":"npcdata","msgid":"Bernard Jacobs","msgstr":"バーナード ジェイコブズ"}
+{"msgctxt":"npcdata","msgid":"Bernice Hatter","msgstr":"バーニス ハッター"}
+{"msgctxt":"npcdata","msgid":"Bernice Weaver","msgstr":"バーニス ウィーヴァー"}
+{"msgctxt":"npcdata","msgid":"Bertram Stillwater","msgstr":"バートラム スティルウォーター"}
+{"msgctxt":"npcdata","msgid":"Bertrand Scrivner","msgstr":"バートランド スクリヴナー"}
+{"msgctxt":"npcdata","msgid":"Beth Thompson","msgstr":"ベス トンプソン"}
+{"msgctxt":"npcdata","msgid":"Bethold Caverhill","msgstr":"ビソルド ケイヴァーヒル"}
+{"msgctxt":"npcdata","msgid":"Bethold Kern","msgstr":"ビソルド ケルン"}
+{"msgctxt":"npcdata","msgid":"Beverly Sweetwater","msgstr":"ビバリー スウィートウォーター"}
+{"msgctxt":"npcdata","msgid":"Bigfist Slowstepper","msgstr":"ビッグフィスト\nスローステッパー"}
+{"msgctxt":"npcdata","msgid":"Bill Nesemeier","msgstr":"ビル ネシメイアー"}
+{"msgctxt":"npcdata","msgid":"Bill Stoneham","msgstr":"ビル ストーンハム "}
+{"msgctxt":"npcdata","msgid":"Bishop Iquisitorio","msgstr":"ビショップ イクイジトリオ"}
+{"msgctxt":"npcdata","msgid":"Black Current","msgstr":"ブラック カレント"}
+{"msgctxt":"npcdata","msgid":"Blacken Reaverston","msgstr":"ブラッケン リーヴァーストン"}
+{"msgctxt":"npcdata","msgid":"Blacken Stonecleaver","msgstr":"ブラッケン\nストーンクリーヴァー"}
+{"msgctxt":"npcdata","msgid":"Blayze ","msgstr":"ブレイズ"}
+{"msgctxt":"npcdata","msgid":"Blaze the Circus Master","msgstr":"ブレイズ ザ サーカスマスター"}
+{"msgctxt":"npcdata","msgid":"Blazen Stormlance","msgstr":"ブレイズン\nストームランス"}
+{"msgctxt":"npcdata","msgid":"Bob Young","msgstr":"ボブ ヤング"}
+{"msgctxt":"npcdata","msgid":"Bone","msgstr":"ボーン"}
+{"msgctxt":"npcdata","msgid":"Bonnie Long-Hemsath","msgstr":"ボニー ロングヘムサス "}
+{"msgctxt":"npcdata","msgid":"Bonnie Long-Hemssath","msgstr":"ボニー ロング・ヘムサス"}
+{"msgctxt":"npcdata","msgid":"Bonnie Rotterdam","msgstr":"ボニー ロッテルダム"}
+{"msgctxt":"npcdata","msgid":"Boob","msgstr":"Boob"}
+{"msgctxt":"npcdata","msgid":"Botham","msgstr":"ボザム"}
+{"msgctxt":"npcdata","msgid":"Brahein Kadarr","msgstr":"ブラヘイン カダール"}
+{"msgctxt":"npcdata","msgid":"Brand Featherwind","msgstr":"ブランド\nフェザーウィンド"}
+{"msgctxt":"npcdata","msgid":"Brand the Maker","msgstr":"ブランド ザ メイカー"}
+{"msgctxt":"npcdata","msgid":"Brekish Onefang","msgstr":"ブレキッシュ\nワンファング"}
+{"msgctxt":"npcdata","msgid":"Brent Filiant","msgstr":"ブレント フィリアント"}
+{"msgctxt":"npcdata","msgid":"Brian DeMetz","msgstr":"ブライアン デメッツ "}
+{"msgctxt":"npcdata","msgid":"Brian Kemper","msgstr":"ブライアン ケンパー "}
+{"msgctxt":"npcdata","msgid":"Brian Telemere","msgstr":"ブライアン テレミア"}
+{"msgctxt":"npcdata","msgid":"Brigham Kinney","msgstr":"ブリグハム キンネイ"}
+{"msgctxt":"npcdata","msgid":"Brigham the Frugal","msgstr":"ブリグハム ザ フルーガル"}
+{"msgctxt":"npcdata","msgid":"Brimstone","msgstr":"ブリムストーン"}
+{"msgctxt":"npcdata","msgid":"Bronwyn Blue","msgstr":"ブロンウィン ブルー"}
+{"msgctxt":"npcdata","msgid":"Bronwyn Meck","msgstr":"ブロンウィン メック"}
+{"msgctxt":"npcdata","msgid":"Brother Bombah","msgstr":"ブラザー ボンバ"}
+{"msgctxt":"npcdata","msgid":"Brother Crane","msgstr":"ブラザー オレイン"}
+{"msgctxt":"npcdata","msgid":"Brother Hearthsworn","msgstr":"ブラザー\nハーススウォーン"}
+{"msgctxt":"npcdata","msgid":"Brother Rothham","msgstr":"ブラザー ロザム"}
+{"msgctxt":"npcdata","msgid":"Bryan Farina","msgstr":"ブライアン ファリーナ "}
+{"msgctxt":"npcdata","msgid":"Bryant Conlan","msgstr":"ブリアン コンラン"}
+{"msgctxt":"npcdata","msgid":"Bryce Watershed","msgstr":"ブライス ウォーターシェッド"}
+{"msgctxt":"npcdata","msgid":"Buford T. Allman","msgstr":"ブフォード T. オールマン"}
+{"msgctxt":"npcdata","msgid":"Burn","msgstr":"バーン"}
+{"msgctxt":"npcdata","msgid":"Burton Rutherford","msgstr":"バートン ラザフォード"}
+{"msgctxt":"npcdata","msgid":"Butler","msgstr":"執事"}
+{"msgctxt":"npcdata","msgid":"Caao Salem","msgstr":"カーオ セイラム"}
+{"msgctxt":"npcdata","msgid":"Cagnor","msgstr":"カグノール"}
+{"msgctxt":"npcdata","msgid":"Cahalli Evenall","msgstr":"カハリ イヴナル"}
+{"msgctxt":"npcdata","msgid":"Calindra Goldensight","msgstr":"カリンドラ ゴールデンサイト"}
+{"msgctxt":"npcdata","msgid":"Calindril","msgstr":"カリンドリル"}
+{"msgctxt":"npcdata","msgid":"Calvin Black","msgstr":"カルビン ブラック"}
+{"msgctxt":"npcdata","msgid":"Candice Streep","msgstr":"キャンディス ストリープ"}
+{"msgctxt":"npcdata","msgid":"Cardric Caverhill","msgstr":"カルドリック\nケイヴァーヒル"}
+{"msgctxt":"npcdata","msgid":"Cardric the Steady","msgstr":"カルドリック ザ ステディ"}
+{"msgctxt":"npcdata","msgid":"Carl Moramir","msgstr":"カール モラミール"}
+{"msgctxt":"npcdata","msgid":"Carl Pinder","msgstr":"カール ピンダー "}
+{"msgctxt":"npcdata","msgid":"Carl Pindor","msgstr":"カール ピンドール"}
+{"msgctxt":"npcdata","msgid":"Carla Tarent","msgstr":"カルラ タレント"}
+{"msgctxt":"npcdata","msgid":"Carla Umberpool","msgstr":"カルラ アンバープール"}
+{"msgctxt":"npcdata","msgid":"Carlo Tormini","msgstr":"カルロ トルミーニ"}
+{"msgctxt":"npcdata","msgid":"Carly Rotterdam","msgstr":"カーリー ロッテルダム"}
+{"msgctxt":"npcdata","msgid":"Carol Rossini","msgstr":"キャロル ロッシーニ"}
+{"msgctxt":"npcdata","msgid":"Carolyn Weathers","msgstr":"キャロリン ウェザーズ"}
+{"msgctxt":"npcdata","msgid":"Carrie Calaway","msgstr":"キャリー カラウェイ"}
+{"msgctxt":"npcdata","msgid":"Casey Ludwig","msgstr":"ケーシー ラドウィッグ"}
+{"msgctxt":"npcdata","msgid":"Cassandra Holden","msgstr":"カサンドラ ホールデン"}
+{"msgctxt":"npcdata","msgid":"Cassandra Timmon","msgstr":"カサンドラ ティモン"}
+{"msgctxt":"npcdata","msgid":"Castigeir","msgstr":"カスティガイア"}
+{"msgctxt":"npcdata","msgid":"Castle Guard","msgstr":"城の番兵"}
+{"msgctxt":"npcdata","msgid":"Castor Lithgow","msgstr":"キャスター リスゴー"}
+{"msgctxt":"npcdata","msgid":"Cauri Blackthorne","msgstr":"カウリ\nブラックソーン"}
+{"msgctxt":"npcdata","msgid":"Celia Sparkmen","msgstr":"セリア スパークメン"}
+{"msgctxt":"npcdata","msgid":"Celia Stone","msgstr":"セリア ストーン"}
+{"msgctxt":"npcdata","msgid":"Chadric Benson","msgstr":"チャドリック ベンソン"}
+{"msgctxt":"npcdata","msgid":"Chadric Townsaver","msgstr":"チャドリック タウンセイバー"}
+{"msgctxt":"npcdata","msgid":"Chadwick Blackpoole","msgstr":"チャドウィック ブラックプール"}
+{"msgctxt":"npcdata","msgid":"Chandra Stripling","msgstr":"チャンドラ ストリップリング"}
+{"msgctxt":"npcdata","msgid":"Charles D'Sorpigal","msgstr":"チャールズ ドソーピガル"}
+{"msgctxt":"npcdata","msgid":"Charles Zilm","msgstr":"チャールズ ジルム "}
+{"msgctxt":"npcdata","msgid":"Cheryl Ahmanson","msgstr":"シェリル アーマンソン"}
+{"msgctxt":"npcdata","msgid":"Cheryl Duncan","msgstr":"シェリル ダンカン"}
+{"msgctxt":"npcdata","msgid":"Chevon Wist","msgstr":"シェヴォン ウィスト"}
+{"msgctxt":"npcdata","msgid":"Chitania Retiani","msgstr":"チタニア レティアーニ"}
+{"msgctxt":"npcdata","msgid":"Chris Bates","msgstr":"クリス ベイツ "}
+{"msgctxt":"npcdata","msgid":"Chris Miller","msgstr":"クリス ミラー "}
+{"msgctxt":"npcdata","msgid":"Chris Rock","msgstr":"クリス ロック"}
+{"msgctxt":"npcdata","msgid":"Christian Vanover","msgstr":"クリスチャン\nヴァノーヴァー "}
+{"msgctxt":"npcdata","msgid":"Christian Vela","msgstr":"クリスチャン ヴェラ"}
+{"msgctxt":"npcdata","msgid":"Christie Nosewort","msgstr":"クリスティ ノーズウォート"}
+{"msgctxt":"npcdata","msgid":"Christopher Smith","msgstr":"クリストファー スミス"}
+{"msgctxt":"npcdata","msgid":"Chuck Russom","msgstr":"チャック ラッサム "}
+{"msgctxt":"npcdata","msgid":"Claderin Brightspear","msgstr":"クラデリン\nブライトスピア"}
+{"msgctxt":"npcdata","msgid":"Claderin Silverpoint","msgstr":"クラデリン シルバーポイント"}
+{"msgctxt":"npcdata","msgid":"Claes Mogren","msgstr":"クラース モグレン"}
+{"msgctxt":"npcdata","msgid":"Clearcreek","msgstr":"クリアクリーク"}
+{"msgctxt":"npcdata","msgid":"Cleric Peasant","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Cleric of the Sun","msgstr":"太陽のクレリック"}
+{"msgctxt":"npcdata","msgid":"Cloud Agraynel","msgstr":"クラウド アグレイネル"}
+{"msgctxt":"npcdata","msgid":"Cloud Nedlon","msgstr":"クラウド ネドロン"}
+{"msgctxt":"npcdata","msgid":"Clyde Dagget","msgstr":"クライド ダゲット"}
+{"msgctxt":"npcdata","msgid":"Cody Ripper","msgstr":"コーディ リッパー"}
+{"msgctxt":"npcdata","msgid":"Connie Lettering","msgstr":"コニー レタリング"}
+{"msgctxt":"npcdata","msgid":"Contest Winner 7","msgstr":"コンテスト優勝者7"}
+{"msgctxt":"npcdata","msgid":"Corey Rozburg","msgstr":"コーリー ローズバーグ"}
+{"msgctxt":"npcdata","msgid":"Crag Hack","msgstr":"クラッグ ハック"}
+{"msgctxt":"npcdata","msgid":"Critias Burnkindle","msgstr":"クリティアス バーンキンドル"}
+{"msgctxt":"npcdata","msgid":"Critias Snowtree","msgstr":"クリティアス\nスノーツリー"}
+{"msgctxt":"npcdata","msgid":"Cyrus Montebleu","msgstr":"サイラス モンテブルー"}
+{"msgctxt":"npcdata","msgid":"Dadeross","msgstr":"ダデロス"}
+{"msgctxt":"npcdata","msgid":"Daedalus Falk","msgstr":"ダイダロス フォーク"}
+{"msgctxt":"npcdata","msgid":"Daila Chow","msgstr":"ダイラ チョウ"}
+{"msgctxt":"npcdata","msgid":"Dalin Keenedge","msgstr":"ダリン キーンエッジ"}
+{"msgctxt":"npcdata","msgid":"Dallia Sparks","msgstr":"ダリア スパークス"}
+{"msgctxt":"npcdata","msgid":"Damon Hawker","msgstr":"デイモン ホーカー"}
+{"msgctxt":"npcdata","msgid":"Dana Fenster","msgstr":"ダナ フェンスター"}
+{"msgctxt":"npcdata","msgid":"Daniel Carnegie","msgstr":"ダニエル カーネギー"}
+{"msgctxt":"npcdata","msgid":"Daniel Forosmini","msgstr":"ダニエル フォロスミニ"}
+{"msgctxt":"npcdata","msgid":"Dantillion ","msgstr":"ダンティリオン"}
+{"msgctxt":"npcdata","msgid":"Daphne Calloway","msgstr":"ダフネ キャロウェイ"}
+{"msgctxt":"npcdata","msgid":"Darek Halover","msgstr":"ダレク ハロヴァー"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Guard","msgstr":"ダークエルフ ガード"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Peasant","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Pilgrim","msgstr":"ダークエルフの巡礼者"}
+{"msgctxt":"npcdata","msgid":"Dark Shade","msgstr":"ダークシェイド"}
+{"msgctxt":"npcdata","msgid":"Darron Temper","msgstr":"ダロン テンパー"}
+{"msgctxt":"npcdata","msgid":"Darth Cartwright","msgstr":"ダース カートライト"}
+{"msgctxt":"npcdata","msgid":"Dave Botan","msgstr":"デイブ ボタン "}
+{"msgctxt":"npcdata","msgid":"Davee Sail","msgstr":"ダヴィー セイル"}
+{"msgctxt":"npcdata","msgid":"David Feather","msgstr":"デビッド フェザー"}
+{"msgctxt":"npcdata","msgid":"David Mullich","msgstr":"デビッド ミューリッヒ"}
+{"msgctxt":"npcdata","msgid":"David Pike","msgstr":"デビッド パイク"}
+{"msgctxt":"npcdata","msgid":"David Richey","msgstr":"デビッド リッチー "}
+{"msgctxt":"npcdata","msgid":"David Vela","msgstr":"デビッド ヴェラ "}
+{"msgctxt":"npcdata","msgid":"Davis Carp","msgstr":"デイヴィス カープ"}
+{"msgctxt":"npcdata","msgid":"Davrik Peladium","msgstr":"ダヴリック ペラディウム"}
+{"msgctxt":"npcdata","msgid":"Dean Frimple","msgstr":"ディーン フリンプル"}
+{"msgctxt":"npcdata","msgid":"Dean Gibson","msgstr":"ディーン ギブソン "}
+{"msgctxt":"npcdata","msgid":"Deedra Brewer","msgstr":"ディードラ ブルワー"}
+{"msgctxt":"npcdata","msgid":"Deftclaw Redreaver","msgstr":"デフトクロー\nレッドリーヴァー"}
+{"msgctxt":"npcdata","msgid":"Dekian Farswell","msgstr":"デキアン\nファースウェル"}
+{"msgctxt":"npcdata","msgid":"Dekian Forgewright","msgstr":"デキアン フォージライト"}
+{"msgctxt":"npcdata","msgid":"Deliah Bwana","msgstr":"デリラ ブワナ"}
+{"msgctxt":"npcdata","msgid":"Dennis Caverhill","msgstr":"デニス ケイヴァーヒル"}
+{"msgctxt":"npcdata","msgid":"Dennis Johnson","msgstr":"デニス ジョンソン"}
+{"msgctxt":"npcdata","msgid":"Derek Chester","msgstr":"デレク チェスター"}
+{"msgctxt":"npcdata","msgid":"Derrin Delver","msgstr":"ダーリン デルバー"}
+{"msgctxt":"npcdata","msgid":"Dervish Chevron","msgstr":"デルヴィッシュ\nシェブロン"}
+{"msgctxt":"npcdata","msgid":"Desmond Weller","msgstr":"デズモンド ウェラー"}
+{"msgctxt":"npcdata","msgid":"Deth Macbre","msgstr":"デス マカブル"}
+{"msgctxt":"npcdata","msgid":"Devin Chapman","msgstr":"デビン チャップマン "}
+{"msgctxt":"npcdata","msgid":"Devlin Arcanus","msgstr":"デヴリン アルカナス"}
+{"msgctxt":"npcdata","msgid":"Devon Ivers","msgstr":"デヴォン アイヴァース"}
+{"msgctxt":"npcdata","msgid":"Diana Dedrick","msgstr":"ダイアナ デドリック"}
+{"msgctxt":"npcdata","msgid":"Dickson Parks","msgstr":"ディクソン パークス"}
+{"msgctxt":"npcdata","msgid":"Dierdra Wallace","msgstr":"ディエルドラ ワラス"}
+{"msgctxt":"npcdata","msgid":"Dillan Robinson","msgstr":"ディラン ロビンソン"}
+{"msgctxt":"npcdata","msgid":"Dini Mahgreb","msgstr":"ディニ マグレブ"}
+{"msgctxt":"npcdata","msgid":"Dirthic","msgstr":"ダーシック"}
+{"msgctxt":"npcdata","msgid":"Dolores Craft","msgstr":"ドロレス クラフト"}
+{"msgctxt":"npcdata","msgid":"Dolores Fischer","msgstr":"ドロレス フィッシャー"}
+{"msgctxt":"npcdata","msgid":"Dom Malikto","msgstr":"ドム マリクト"}
+{"msgctxt":"npcdata","msgid":"Dominique Juarez","msgstr":"ドミニク フアレス"}
+{"msgctxt":"npcdata","msgid":"Donald Dorfus","msgstr":"ドナルド ドーファス"}
+{"msgctxt":"npcdata","msgid":"Donald Retzer","msgstr":"ドナルド レッツァー"}
+{"msgctxt":"npcdata","msgid":"Donna Wyrith","msgstr":"ドナ ワイリス"}
+{"msgctxt":"npcdata","msgid":"Doreen Espana","msgstr":"ドリーン エスパーニャ"}
+{"msgctxt":"npcdata","msgid":"Dorf","msgstr":"ドルフ"}
+{"msgctxt":"npcdata","msgid":"Dorothy Sablewood","msgstr":"ドロシー\nセイブルウッド"}
+{"msgctxt":"npcdata","msgid":"Dorothy Senjac","msgstr":"ドロシー センジャック"}
+{"msgctxt":"npcdata","msgid":"Dotes","msgstr":"ドーツ"}
+{"msgctxt":"npcdata","msgid":"Douglas Dirthmoore","msgstr":"ダグラス ダースムーア"}
+{"msgctxt":"npcdata","msgid":"Douglas Hill","msgstr":"ダグラス ヒル"}
+{"msgctxt":"npcdata","msgid":"Douglas Iverson","msgstr":"ダグラス アイヴァーサン"}
+{"msgctxt":"npcdata","msgid":"Dragon Hunter","msgstr":"ドラゴンスレイヤー"}
+{"msgctxt":"npcdata","msgid":"Drathen Keldin","msgstr":"ドラセン ケルディン"}
+{"msgctxt":"npcdata","msgid":"Dread Pirate Stanley","msgstr":"海賊スタンレー"}
+{"msgctxt":"npcdata","msgid":"Droppa MaPantz","msgstr":"ドロッパ マパンツ"}
+{"msgctxt":"npcdata","msgid":"Drusis Tiberio","msgstr":"ドルシス ティベリオ"}
+{"msgctxt":"npcdata","msgid":"Duroth the Eternal","msgstr":"デュロス\nジ エターナル"}
+{"msgctxt":"npcdata","msgid":"Dyson Leland","msgstr":"ダイソン リランド"}
+{"msgctxt":"npcdata","msgid":"Dyson Leyland","msgstr":"ダイソン レランド"}
+{"msgctxt":"npcdata","msgid":"Earnest","msgstr":"アーネスト"}
+{"msgctxt":"npcdata","msgid":"Ebednezer Sower","msgstr":"エベネザー ソウアー"}
+{"msgctxt":"npcdata","msgid":"Edgar Botham","msgstr":"エドガー ボザム"}
+{"msgctxt":"npcdata","msgid":"Edgar Carpenter","msgstr":"エドガー カーペンター"}
+{"msgctxt":"npcdata","msgid":"Edgar Willowbark","msgstr":"エドガー ウィローバーク"}
+{"msgctxt":"npcdata","msgid":"Edna Harmenov","msgstr":"エドナ ハルメノフ"}
+{"msgctxt":"npcdata","msgid":"Edward Hudson","msgstr":"エドワード ハドソン "}
+{"msgctxt":"npcdata","msgid":"Egor Ivanovich","msgstr":"エゴール イワノビッチ"}
+{"msgctxt":"npcdata","msgid":"Eithian ","msgstr":"アイシアン"}
+{"msgctxt":"npcdata","msgid":"Eleanor Vanderbilt","msgstr":"エレノア ヴァンダービルト"}
+{"msgctxt":"npcdata","msgid":"ElfKing","msgstr":"エルフ王"}
+{"msgctxt":"npcdata","msgid":"Elgar Fellmoon","msgstr":"エルガー\nフェルムーン"}
+{"msgctxt":"npcdata","msgid":"Elijah Skylark","msgstr":"エリヤ スカイラーク"}
+{"msgctxt":"npcdata","msgid":"Ellen Rockway","msgstr":"エレン ロックウェイ"}
+{"msgctxt":"npcdata","msgid":"Elmo the Pincher","msgstr":"エルモ ザ ピンチャー"}
+{"msgctxt":"npcdata","msgid":"Elsbeth Lamentia","msgstr":"エルスベス\nラメンティア"}
+{"msgctxt":"npcdata","msgid":"Elsie Apple","msgstr":"エルシー アップル"}
+{"msgctxt":"npcdata","msgid":"Elsie Freedman","msgstr":"エルシー フリードマン"}
+{"msgctxt":"npcdata","msgid":"Elsie Pederton","msgstr":"エルシー ペデルトン"}
+{"msgctxt":"npcdata","msgid":"Elton Astrogate","msgstr":"エルトン アストロゲート"}
+{"msgctxt":"npcdata","msgid":"Elzbet Roggen","msgstr":"エルズベット ロゲン"}
+{"msgctxt":"npcdata","msgid":"Elzbet Winterspoon","msgstr":"エルズベット ウィンタースプーン"}
+{"msgctxt":"npcdata","msgid":"Ember","msgstr":"エンバー"}
+{"msgctxt":"npcdata","msgid":"Emil Lime","msgstr":"エミール ライム"}
+{"msgctxt":"npcdata","msgid":"Emma Terrance","msgstr":"エマ テランス"}
+{"msgctxt":"npcdata","msgid":"Emmanuel Cravitz","msgstr":"エマニュエル クラヴィッツ"}
+{"msgctxt":"npcdata","msgid":"Enoch Highridge","msgstr":"エノク ハイリッジ"}
+{"msgctxt":"npcdata","msgid":"Eric Heffron","msgstr":"エリック ヘフロン"}
+{"msgctxt":"npcdata","msgid":"Eric Swarrel","msgstr":"エリック スワレル"}
+{"msgctxt":"npcdata","msgid":"Eric Williamson","msgstr":"エリック\nウィリアムソン "}
+{"msgctxt":"npcdata","msgid":"Erik Jarblower","msgstr":"エリック\nジョーブローワー"}
+{"msgctxt":"npcdata","msgid":"Erik Salzburg","msgstr":"エリック ザルツブルク"}
+{"msgctxt":"npcdata","msgid":"Erik Von Stromgard","msgstr":"エリック フォン ストロムガルド"}
+{"msgctxt":"npcdata","msgid":"Ernie Gallardo","msgstr":"アーニー ギャラード "}
+{"msgctxt":"npcdata","msgid":"Errol Ostermann","msgstr":"エロル オスターマン"}
+{"msgctxt":"npcdata","msgid":"Erthint","msgstr":"エルシント"}
+{"msgctxt":"npcdata","msgid":"Escaton","msgstr":"エスカトン"}
+{"msgctxt":"npcdata","msgid":"Ethan Hillsman","msgstr":"イーサン ヒルズマン"}
+{"msgctxt":"npcdata","msgid":"Ethan Lightsworn","msgstr":"イーサン ライトスウォーン"}
+{"msgctxt":"npcdata","msgid":"Ethel Armstrong","msgstr":"エセル アームストロング"}
+{"msgctxt":"npcdata","msgid":"Euclid Kepler","msgstr":"ユークリッド ケプラー"}
+{"msgctxt":"npcdata","msgid":"Eunbo Kim","msgstr":"ウンボ キム"}
+{"msgctxt":"npcdata","msgid":"Eva Semple","msgstr":"エヴァ センプル"}
+{"msgctxt":"npcdata","msgid":"Evandar Lotts","msgstr":"エヴァンダー ロッツ"}
+{"msgctxt":"npcdata","msgid":"Evandar Thomas","msgstr":"エヴァンダー トマス"}
+{"msgctxt":"npcdata","msgid":"Evenblaze","msgstr":"エーヴンブレイズ"}
+{"msgctxt":"npcdata","msgid":"Everil Nightwalker","msgstr":"エヴェリル ナイトウォーカー"}
+{"msgctxt":"npcdata","msgid":"Ex-captain Terrence","msgstr":"ターレンス元船長"}
+{"msgctxt":"npcdata","msgid":"Expert Blaster","msgstr":"「ブラスター」の熟練者"}
+{"msgctxt":"npcdata","msgid":"Expert Diplomacy","msgstr":"「外交術」の熟練者"}
+{"msgctxt":"npcdata","msgid":"Expert Thievery","msgstr":"「盗賊術」の熟練者"}
+{"msgctxt":"npcdata","msgid":"Fabian Sun","msgstr":"フェビアン サン"}
+{"msgctxt":"npcdata","msgid":"Faerie King","msgstr":"妖精王"}
+{"msgctxt":"npcdata","msgid":"Faith Kellenmoor","msgstr":"フェイス ケレンムーア"}
+{"msgctxt":"npcdata","msgid":"Fake Loren","msgstr":"偽ローレン"}
+{"msgctxt":"npcdata","msgid":"Falagar","msgstr":"ファラガー"}
+{"msgctxt":"npcdata","msgid":"Farhill Snapfinger","msgstr":"ファーヒル"}
+{"msgctxt":"npcdata","msgid":"Fausil Keldin","msgstr":"フォーシル ケルディン"}
+{"msgctxt":"npcdata","msgid":"Fedwin Dervish","msgstr":"フェドウィン\nデルヴィッシュ"}
+{"msgctxt":"npcdata","msgid":"Fedwin Smithson","msgstr":"フェドウィン スミスソン"}
+{"msgctxt":"npcdata","msgid":"Feldin Urthsmite","msgstr":"フェルディン アースマイト"}
+{"msgctxt":"npcdata","msgid":"Feldspar Toolmen","msgstr":"フェルドスパー トゥールメン"}
+{"msgctxt":"npcdata","msgid":"Fenella Ferne","msgstr":"フェネラ ファーン"}
+{"msgctxt":"npcdata","msgid":"Fenton Iverson","msgstr":"フェントン\nアイヴァーサン"}
+{"msgctxt":"npcdata","msgid":"Fenton Krewlen","msgstr":"フェントン クリューレン"}
+{"msgctxt":"npcdata","msgid":"Ferdinand Visconti","msgstr":"フェルディナント ヴィスコンティ"}
+{"msgctxt":"npcdata","msgid":"Fernando Castillo","msgstr":"フェルナンド\nカスティロ "}
+{"msgctxt":"npcdata","msgid":"Ferris","msgstr":"フェリス"}
+{"msgctxt":"npcdata","msgid":"Ferris Oxhide","msgstr":"フェリス オックスハイド"}
+{"msgctxt":"npcdata","msgid":"Fishner Thomb","msgstr":"フィッシュナー ソム"}
+{"msgctxt":"npcdata","msgid":"Flamdring","msgstr":"フレイムドリング"}
+{"msgctxt":"npcdata","msgid":"Fletcher Tormengast","msgstr":"フレッチャー トーメンガスト"}
+{"msgctxt":"npcdata","msgid":"Florimel Evylen","msgstr":"フロリメル エヴィレン"}
+{"msgctxt":"npcdata","msgid":"Flossie Setering","msgstr":"フロッシー セタリング"}
+{"msgctxt":"npcdata","msgid":"Flynn Arin","msgstr":"フリン エイリン"}
+{"msgctxt":"npcdata","msgid":"Flynn Shador","msgstr":"フリン シェイダー"}
+{"msgctxt":"npcdata","msgid":"Forrest Suthers","msgstr":"フォレスト サザーズ"}
+{"msgctxt":"npcdata","msgid":"Frank Fairchild","msgstr":"フランク フェアチャイルド"}
+{"msgctxt":"npcdata","msgid":"Frederick Org","msgstr":"フレデリック オーグ"}
+{"msgctxt":"npcdata","msgid":"Fredrick Piles","msgstr":"フレデリック パイルズ"}
+{"msgctxt":"npcdata","msgid":"Fredrick Talimere","msgstr":"フレデリック タリミア"}
+{"msgctxt":"npcdata","msgid":"Gabe Lester","msgstr":"ゲイブ レスター"}
+{"msgctxt":"npcdata","msgid":"Gabriel Cartman","msgstr":"ガブリエル カートマン"}
+{"msgctxt":"npcdata","msgid":"Gail Ashtengard","msgstr":"ゲイル アシュテンガード"}
+{"msgctxt":"npcdata","msgid":"Galvinus","msgstr":"ガルヴィヌス"}
+{"msgctxt":"npcdata","msgid":"Gareth Lifter","msgstr":"ガレス リフター"}
+{"msgctxt":"npcdata","msgid":"Gareth the Fixer","msgstr":"ガレス ザ フィクサー"}
+{"msgctxt":"npcdata","msgid":"Garic Hawthorne","msgstr":"ギャリック ホーソン"}
+{"msgctxt":"npcdata","msgid":"Garic Senjac","msgstr":"ギャリック\nセンジャック"}
+{"msgctxt":"npcdata","msgid":"Garion Ramiez","msgstr":"ガリオン ラミエス"}
+{"msgctxt":"npcdata","msgid":"Garret Deverro","msgstr":"ギャレット ダヴェロ"}
+{"msgctxt":"npcdata","msgid":"Garret Dotes","msgstr":"ギャレット ドーツ"}
+{"msgctxt":"npcdata","msgid":"Garret Mistspring","msgstr":"ガーレット\nミストスプリング"}
+{"msgctxt":"npcdata","msgid":"Gary Zimm","msgstr":"ゲイリー ジム"}
+{"msgctxt":"npcdata","msgid":"Gavin Magnus","msgstr":"ギャヴィン マグナス"}
+{"msgctxt":"npcdata","msgid":"Gayle","msgstr":"ゲイル"}
+{"msgctxt":"npcdata","msgid":"Geofery Hamic","msgstr":"ジェフリー ハミック"}
+{"msgctxt":"npcdata","msgid":"Geoff Southy","msgstr":"ジェフ サウジー"}
+{"msgctxt":"npcdata","msgid":"George Almond","msgstr":"ジョージ アーモンド "}
+{"msgctxt":"npcdata","msgid":"George Ruof","msgstr":"ジョージ ルオフ "}
+{"msgctxt":"npcdata","msgid":"Gerrold Dane","msgstr":"ジェロルド デイン"}
+{"msgctxt":"npcdata","msgid":"Gertrude Whaler","msgstr":"ガートルード ホエラー"}
+{"msgctxt":"npcdata","msgid":"Gethric Mercutura","msgstr":"ゲスリック\nメルクトゥラ"}
+{"msgctxt":"npcdata","msgid":"Ghim Hammond","msgstr":"ギム ハモンド"}
+{"msgctxt":"npcdata","msgid":"Ghost of Balthasar","msgstr":"バルタザールの亡霊"}
+{"msgctxt":"npcdata","msgid":"Ghost of John Silver","msgstr":"ジョン シルバーの亡霊"}
+{"msgctxt":"npcdata","msgid":"Gibere","msgstr":"ジベーレ"}
+{"msgctxt":"npcdata","msgid":"Gilad Bith","msgstr":"ジラード ビス"}
+{"msgctxt":"npcdata","msgid":"Gilad Dreamwright","msgstr":"ジラード\nドリームライト"}
+{"msgctxt":"npcdata","msgid":"Gilbert Hammer","msgstr":"ギルバート ハマー"}
+{"msgctxt":"npcdata","msgid":"Giliyan Redfern","msgstr":"ギリヤン レッドファーン"}
+{"msgctxt":"npcdata","msgid":"Gina Barnes","msgstr":"ジーナ バーンズ"}
+{"msgctxt":"npcdata","msgid":"Ginger Astor","msgstr":"ジンジャー アスター"}
+{"msgctxt":"npcdata","msgid":"Gizmo Bertram ","msgstr":"ギズモ バートラム "}
+{"msgctxt":"npcdata","msgid":"Gnimish Goroth","msgstr":"グニミッシュ ゴロス"}
+{"msgctxt":"npcdata","msgid":"Gohei Matsu","msgstr":"ゴヘイ マツ"}
+{"msgctxt":"npcdata","msgid":"Golem","msgstr":"ゴーレム"}
+{"msgctxt":"npcdata","msgid":"Gonzalo Ramirez","msgstr":"ゴンザロー ラミレス"}
+{"msgctxt":"npcdata","msgid":"Gordon Styles","msgstr":"ゴードン スタイルズ"}
+{"msgctxt":"npcdata","msgid":"Graham Dancey","msgstr":"グレアム ダンシー"}
+{"msgctxt":"npcdata","msgid":"Gralkor the Cruel","msgstr":"「残虐なる者」\nグラコール"}
+{"msgctxt":"npcdata","msgid":"Grand Master Blaster","msgstr":"「ブラスター」の神位"}
+{"msgctxt":"npcdata","msgid":"Grand Master Thievery","msgstr":"「盗賊術」の神位"}
+{"msgctxt":"npcdata","msgid":"Grant Valandir","msgstr":"グラント ヴァランディール"}
+{"msgctxt":"npcdata","msgid":"Greg Fulton","msgstr":"グレッグ フルトン"}
+{"msgctxt":"npcdata","msgid":"Gregory Mist","msgstr":"グレゴリー ミスト"}
+{"msgctxt":"npcdata","msgid":"Gregory Weider","msgstr":"グレゴリー ワイダー"}
+{"msgctxt":"npcdata","msgid":"Gretchen Fallzen","msgstr":"グレッチェン ファルゼン"}
+{"msgctxt":"npcdata","msgid":"Gretchin Fiddlebone","msgstr":"グレッチン フィドルボーン"}
+{"msgctxt":"npcdata","msgid":"Gretchin Nevermore","msgstr":"グレッチン\nネヴァーモア"}
+{"msgctxt":"npcdata","msgid":"Griven","msgstr":"グリーヴェン"}
+{"msgctxt":"npcdata","msgid":"Guard","msgstr":"番兵"}
+{"msgctxt":"npcdata","msgid":"Gus Smedstad ","msgstr":"ガス\nシュメッドスタット "}
+{"msgctxt":"npcdata","msgid":"Guthwulf","msgstr":"ガスウルフ"}
+{"msgctxt":"npcdata","msgid":"Guy Hampton","msgstr":"ガイ ハンプトン"}
+{"msgctxt":"npcdata","msgid":"Hairbaugh","msgstr":"ヘアボー"}
+{"msgctxt":"npcdata","msgid":"Halain Sampson","msgstr":"ハレイン サンプソン"}
+{"msgctxt":"npcdata","msgid":"Halfgild Wynac","msgstr":"ハーフギルド ワイナック"}
+{"msgctxt":"npcdata","msgid":"Halian Eversmyle","msgstr":"ハリアン\nエヴァースマイル"}
+{"msgctxt":"npcdata","msgid":"Halian Nevermore","msgstr":"ハリアン ネヴァーモア"}
+{"msgctxt":"npcdata","msgid":"Hallien","msgstr":"ハリエン"}
+{"msgctxt":"npcdata","msgid":"Hans Gifford","msgstr":"ハンス ギフォード"}
+{"msgctxt":"npcdata","msgid":"Hans Schultz","msgstr":"ハンス シュルツ"}
+{"msgctxt":"npcdata","msgid":"Harli Quinn","msgstr":"ハーリ クイン"}
+{"msgctxt":"npcdata","msgid":"Harold Amwen","msgstr":"ハロルド アムウェン"}
+{"msgctxt":"npcdata","msgid":"Harold Hess","msgstr":"ハロルド ヘス"}
+{"msgctxt":"npcdata","msgid":"Harper Collins","msgstr":"ハーパー コリンズ"}
+{"msgctxt":"npcdata","msgid":"Harper Nike","msgstr":"ハーパー ナイキ"}
+{"msgctxt":"npcdata","msgid":"Harriet Waters","msgstr":"ハリエット ウォーターズ"}
+{"msgctxt":"npcdata","msgid":"Harry Merit","msgstr":"ヘリー メリット"}
+{"msgctxt":"npcdata","msgid":"Heather Cardron","msgstr":"ヘザー カードロン"}
+{"msgctxt":"npcdata","msgid":"Heather Dreamwright","msgstr":"ヘザー ドリームライト"}
+{"msgctxt":"npcdata","msgid":"Heather Goblinreaver","msgstr":"ヘザー\nゴブリンリーヴァー"}
+{"msgctxt":"npcdata","msgid":"Heather Hughes","msgstr":"ヘザー ヒューズ"}
+{"msgctxt":"npcdata","msgid":"Heather Mitchell","msgstr":"ヘザー ミッチェル"}
+{"msgctxt":"npcdata","msgid":"Hector Dragged","msgstr":"ヘクター ドラッグド"}
+{"msgctxt":"npcdata","msgid":"Heidi Strumper","msgstr":"ハイジ ストランパー"}
+{"msgctxt":"npcdata","msgid":"Hejaz Mawsil","msgstr":"ヘジャズ マウシル"}
+{"msgctxt":"npcdata","msgid":"Helen Teal","msgstr":"ヘレン ティール"}
+{"msgctxt":"npcdata","msgid":"Helena Morningstar","msgstr":"ヘレナ モーニングスター"}
+{"msgctxt":"npcdata","msgid":"Helga Steeleye","msgstr":"ヘルガ スティールアイ"}
+{"msgctxt":"npcdata","msgid":"Helga Whitesky","msgstr":"ヘルガ ホワイトスカイ"}
+{"msgctxt":"npcdata","msgid":"Helius","msgstr":"ヘリウス"}
+{"msgctxt":"npcdata","msgid":"Herald Foestryke","msgstr":"ヘラルド\nフォーストライク"}
+{"msgctxt":"npcdata","msgid":"Herald Whitecap","msgstr":"ヘラルド ホワイトキャップ"}
+{"msgctxt":"npcdata","msgid":"Hevatia Deverbero","msgstr":"ヘバティア\nディーバーベロー"}
+{"msgctxt":"npcdata","msgid":"Hiss","msgstr":"ヒス"}
+{"msgctxt":"npcdata","msgid":"Hitomi Mirumoto","msgstr":"ヒトミ ミルモト"}
+{"msgctxt":"npcdata","msgid":"Hobb Sandwind","msgstr":"ホブ サンドウィンド"}
+{"msgctxt":"npcdata","msgid":"Hobert","msgstr":"ホバート"}
+{"msgctxt":"npcdata","msgid":"Holden","msgstr":"ホールデン"}
+{"msgctxt":"npcdata","msgid":"Hollis Stormeye","msgstr":"ホリス ストームアイ"}
+{"msgctxt":"npcdata","msgid":"Hollis the True","msgstr":"ホリス ザ トゥルー"}
+{"msgctxt":"npcdata","msgid":"Holly Struthers","msgstr":"ホリー ストラザーズ"}
+{"msgctxt":"npcdata","msgid":"Horace Rose","msgstr":"ホラス ローズ"}
+{"msgctxt":"npcdata","msgid":"Hothfarr IX","msgstr":"ホスファー9世"}
+{"msgctxt":"npcdata","msgid":"Hugger Brother","msgstr":"ハガー ブラザー"}
+{"msgctxt":"npcdata","msgid":"Husk","msgstr":"ハスク"}
+{"msgctxt":"npcdata","msgid":"Ian Bullard","msgstr":"イアン ブラード "}
+{"msgctxt":"npcdata","msgid":"Ian Trom","msgstr":"イアン トロム"}
+{"msgctxt":"npcdata","msgid":"Icarus Dire","msgstr":"イカルス ダイア"}
+{"msgctxt":"npcdata","msgid":"Ich ","msgstr":"イッチ"}
+{"msgctxt":"npcdata","msgid":"Igor","msgstr":"イーゴー"}
+{"msgctxt":"npcdata","msgid":"Ike Pargrew","msgstr":"アイク パーグルー"}
+{"msgctxt":"npcdata","msgid":"Illene Farswell","msgstr":"イリーン ファースウェル"}
+{"msgctxt":"npcdata","msgid":"Indihir Vilandi","msgstr":"インディヒル ヴィランディ"}
+{"msgctxt":"npcdata","msgid":"Infaustus ","msgstr":"インファウスタス "}
+{"msgctxt":"npcdata","msgid":"Infernon","msgstr":"インフェルノン"}
+{"msgctxt":"npcdata","msgid":"Inja Yew","msgstr":"インジャ ユー"}
+{"msgctxt":"npcdata","msgid":"Irabelle Hunter","msgstr":"アイラベル ハンター"}
+{"msgctxt":"npcdata","msgid":"Irbil Baktarian","msgstr":"イルビル バクタリアン"}
+{"msgctxt":"npcdata","msgid":"Iris Amble","msgstr":"アイリス アンブル"}
+{"msgctxt":"npcdata","msgid":"Iris Poppyfield","msgstr":"アイリス ポピーフィールド"}
+{"msgctxt":"npcdata","msgid":"Irving Kull","msgstr":"アーヴィング カル"}
+{"msgctxt":"npcdata","msgid":"Isaac Rockwell","msgstr":"アイザック ロックウェル"}
+{"msgctxt":"npcdata","msgid":"Isaac Streetman","msgstr":"アイザック ストリートマン"}
+{"msgctxt":"npcdata","msgid":"Isao Magistrus","msgstr":"イサオ マギストゥルス"}
+{"msgctxt":"npcdata","msgid":"Isao Tizare","msgstr":"イサオ ティザレ"}
+{"msgctxt":"npcdata","msgid":"Ishton","msgstr":"イシュトン"}
+{"msgctxt":"npcdata","msgid":"Isram Delver","msgstr":"イズラム デルヴァー"}
+{"msgctxt":"npcdata","msgid":"Isram Gallowswell","msgstr":"イズラム ギャロウズウェル"}
+{"msgctxt":"npcdata","msgid":"Issac Applebee","msgstr":"アイザック アップルビー"}
+{"msgctxt":"npcdata","msgid":"Isthric the Tongue","msgstr":"イスリック ザ タング"}
+{"msgctxt":"npcdata","msgid":"Ithilgore","msgstr":"イシルゴア"}
+{"msgctxt":"npcdata","msgid":"Ivan Magyar","msgstr":"アイヴァン マジャール"}
+{"msgctxt":"npcdata","msgid":"Jack Crow","msgstr":"ジャック クロウ"}
+{"msgctxt":"npcdata","msgid":"Jack Russell","msgstr":"ジャック ラッセル "}
+{"msgctxt":"npcdata","msgid":"Jack Van Imp","msgstr":"ジャック ヴァン インプ"}
+{"msgctxt":"npcdata","msgid":"Jacques Kohl","msgstr":"ジャック コール"}
+{"msgctxt":"npcdata","msgid":"Jacques Roscomon","msgstr":"ジャック ロスコモン"}
+{"msgctxt":"npcdata","msgid":"Jake","msgstr":"ジェイク"}
+{"msgctxt":"npcdata","msgid":"Jake Green","msgstr":"ジェイク グリーン"}
+{"msgctxt":"npcdata","msgid":"James Dickinson","msgstr":"ジェイムズ ディキンソン "}
+{"msgctxt":"npcdata","msgid":"Janet Thomas","msgstr":"ジャネット トマス"}
+{"msgctxt":"npcdata","msgid":"Janice","msgstr":"ジャニス"}
+{"msgctxt":"npcdata","msgid":"Jarrena Marmon","msgstr":"ジャーレナ マーモン"}
+{"msgctxt":"npcdata","msgid":"Jasmine Jeavers","msgstr":"ジャスミン ジーヴァース"}
+{"msgctxt":"npcdata","msgid":"Jasmine Spicer","msgstr":"ジャスミン スパイサー"}
+{"msgctxt":"npcdata","msgid":"Jason Duster","msgstr":"ジェーソン ダスター"}
+{"msgctxt":"npcdata","msgid":"Jason Traveler","msgstr":"ジェーソン トラベラー"}
+{"msgctxt":"npcdata","msgid":"Jasp Hunter","msgstr":"ジャスプ ハンター"}
+{"msgctxt":"npcdata","msgid":"Jasp Thelbourne","msgstr":"ジャスプ\nゼルボーン"}
+{"msgctxt":"npcdata","msgid":"Jasp the Nightcrawler","msgstr":"ジャスプ ザ ナイトクロウラー"}
+{"msgctxt":"npcdata","msgid":"Jasper Fissure","msgstr":"ジャスパー フィッシャー"}
+{"msgctxt":"npcdata","msgid":"Jasper Rice","msgstr":"ジャスパー ライス"}
+{"msgctxt":"npcdata","msgid":"Jasper Steelcoif","msgstr":"ジャスパー\nスティールコイフ"}
+{"msgctxt":"npcdata","msgid":"Jasper Welman","msgstr":"ジャスパー ウェルマン"}
+{"msgctxt":"npcdata","msgid":"Jayce Kedrin","msgstr":"ジェイス ケドリン"}
+{"msgctxt":"npcdata","msgid":"Jaycen Keldin","msgstr":"ジェイセン ケルディン"}
+{"msgctxt":"npcdata","msgid":"Jaycin Cardron","msgstr":"ジェイシン カードロン"}
+{"msgctxt":"npcdata","msgid":"Jaycin Suretrail","msgstr":"ジェイシン シュアトレイル"}
+{"msgctxt":"npcdata","msgid":"Jean Acton","msgstr":"ジーン アクトン"}
+{"msgctxt":"npcdata","msgid":"Jed Morrison","msgstr":"ジェド モリソン"}
+{"msgctxt":"npcdata","msgid":"Jeff Bigman","msgstr":"ジェフ ビッグマン "}
+{"msgctxt":"npcdata","msgid":"Jeff Blattner","msgstr":"ジェフ ブラットナー "}
+{"msgctxt":"npcdata","msgid":"Jeff Leggett","msgstr":"ジェフ レジェット "}
+{"msgctxt":"npcdata","msgid":"Jeni Swiftfoot","msgstr":"ジェニー スウィフトフット"}
+{"msgctxt":"npcdata","msgid":"Jennifer Bullard","msgstr":"ジュニファー\nビュラード "}
+{"msgctxt":"npcdata","msgid":"Jennifer Herzl","msgstr":"ジュニファー ヘルツル"}
+{"msgctxt":"npcdata","msgid":"Jeric Whistlebone","msgstr":"ジェリッグ\nホイッスルボーン"}
+{"msgctxt":"npcdata","msgid":"Jerin Flame-eye","msgstr":"ジェリン フレイムアイ"}
+{"msgctxt":"npcdata","msgid":"Jessica Carson","msgstr":"ジェシカ カーソン"}
+{"msgctxt":"npcdata","msgid":"Jezebel","msgstr":"ジェゼベル"}
+{"msgctxt":"npcdata","msgid":"Jillian Applebee","msgstr":"ジリアン アップルビー"}
+{"msgctxt":"npcdata","msgid":"Jillian Mithrit","msgstr":"ジリアン ミスリット"}
+{"msgctxt":"npcdata","msgid":"Jo Handlebaum","msgstr":"ジョー ハンドルバウム"}
+{"msgctxt":"npcdata","msgid":"Joanne Cravitz","msgstr":"ジョアン クラヴィッツ"}
+{"msgctxt":"npcdata","msgid":"Jobber ","msgstr":"ジョバー"}
+{"msgctxt":"npcdata","msgid":"Jobber Thain","msgstr":"ジョバー セイン"}
+{"msgctxt":"npcdata","msgid":"Joe McGuffin","msgstr":"ジョー マクガフィン "}
+{"msgctxt":"npcdata","msgid":"Joel Kelly ","msgstr":"ジョエル ケリー "}
+{"msgctxt":"npcdata","msgid":"Johann Kerrid","msgstr":"ヨハン ケリッド"}
+{"msgctxt":"npcdata","msgid":"Johanson Kern","msgstr":"ヨハンソン ケルン"}
+{"msgctxt":"npcdata","msgid":"John Bolton","msgstr":"ジョン ボルトン"}
+{"msgctxt":"npcdata","msgid":"John Gibson","msgstr":"ジョン ギブソン "}
+{"msgctxt":"npcdata","msgid":"John Krause","msgstr":"ジョン クラウゼ "}
+{"msgctxt":"npcdata","msgid":"John Machin","msgstr":"ジョン マキン"}
+{"msgctxt":"npcdata","msgid":"John Machin (Mac)","msgstr":"ジョン マキン（マック） "}
+{"msgctxt":"npcdata","msgid":"John Slowsky","msgstr":"ジョン スロウスカイ "}
+{"msgctxt":"npcdata","msgid":"John Tuck","msgstr":"ジョン タック"}
+{"msgctxt":"npcdata","msgid":"Jon Van Caneghem","msgstr":"ジョン ヴァン ケイネム "}
+{"msgctxt":"npcdata","msgid":"Josef Logger","msgstr":"ヨーゼフ ロガー"}
+{"msgctxt":"npcdata","msgid":"Joseph Buron","msgstr":"ジョセフ ビューロン "}
+{"msgctxt":"npcdata","msgid":"Journey","msgstr":"ジャーニー"}
+{"msgctxt":"npcdata","msgid":"Joy Brown","msgstr":"ジョイ ブラウン"}
+{"msgctxt":"npcdata","msgid":"Judge Fairweather","msgstr":"フェアウェザー判事"}
+{"msgctxt":"npcdata","msgid":"Judge Grey","msgstr":"グレイ判事"}
+{"msgctxt":"npcdata","msgid":"Judge Sleen","msgstr":"スリーン判事"}
+{"msgctxt":"npcdata","msgid":"Judith Shoemaker","msgstr":"ジュディス シューメーカー"}
+{"msgctxt":"npcdata","msgid":"Jules Miles","msgstr":"ジュールズ マイルズ"}
+{"msgctxt":"npcdata","msgid":"Julia Ulano","msgstr":"ジュリア ウラーノ "}
+{"msgctxt":"npcdata","msgid":"Julian Greensward","msgstr":"ジュリアン\nグリーンズワード"}
+{"msgctxt":"npcdata","msgid":"Julian the Delver","msgstr":"ジュリアン ザ デルバー"}
+{"msgctxt":"npcdata","msgid":"Julie Cooper","msgstr":"ジュリー クーパー"}
+{"msgctxt":"npcdata","msgid":"Jult Bandito","msgstr":"ジュルト バンディート"}
+{"msgctxt":"npcdata","msgid":"Just_A_Brain","msgstr":"ジャスト ア ブレイン"}
+{"msgctxt":"npcdata","msgid":"Kachiko Toranaga","msgstr":"カチコ トラナガ"}
+{"msgctxt":"npcdata","msgid":"Kai Lian","msgstr":"カイ リアン"}
+{"msgctxt":"npcdata","msgid":"Kaine","msgstr":"ケイン"}
+{"msgctxt":"npcdata","msgid":"Karanya Memoria","msgstr":"カラーニャ メモリア"}
+{"msgctxt":"npcdata","msgid":"Karl Drown","msgstr":"カール ドラウン "}
+{"msgctxt":"npcdata","msgid":"Karla Nirses","msgstr":"カルラ ナーセス"}
+{"msgctxt":"npcdata","msgid":"Karla Ravenhair","msgstr":"カルラ レイベンヘア"}
+{"msgctxt":"npcdata","msgid":"Karlin Arachnia","msgstr":"カーリン アラクニア"}
+{"msgctxt":"npcdata","msgid":"Karlin Ivers","msgstr":"カーリン アイヴァース"}
+{"msgctxt":"npcdata","msgid":"Karlin Talion","msgstr":"カーリン タリオン"}
+{"msgctxt":"npcdata","msgid":"Karn Bowes","msgstr":"カーン ボーウェス"}
+{"msgctxt":"npcdata","msgid":"Karn Stonecleaver","msgstr":"カーン ストーンクリーヴァー"}
+{"msgctxt":"npcdata","msgid":"Karzon Skyefyre","msgstr":"カーゾン スカイファイア"}
+{"msgctxt":"npcdata","msgid":"Kastore","msgstr":"カストール"}
+{"msgctxt":"npcdata","msgid":"Kate Vanover","msgstr":"ケイト ヴァノーヴァー "}
+{"msgctxt":"npcdata","msgid":"Kathleen Mester","msgstr":"キャスリーン メスター"}
+{"msgctxt":"npcdata","msgid":"Keith Francart","msgstr":"キース フランカート "}
+{"msgctxt":"npcdata","msgid":"Keith Talanay","msgstr":"キース タラネイ "}
+{"msgctxt":"npcdata","msgid":"Keldon","msgstr":"ケルドン"}
+{"msgctxt":"npcdata","msgid":"Kelli Hollyfield","msgstr":"ケリ ホリフィールド"}
+{"msgctxt":"npcdata","msgid":"Kelli Lightfingers","msgstr":"ケリ\nライトフィンガーズ"}
+{"msgctxt":"npcdata","msgid":"Kelly Garnet","msgstr":"ケリー ガーネット"}
+{"msgctxt":"npcdata","msgid":"Kelvin","msgstr":"ケルヴィン"}
+{"msgctxt":"npcdata","msgid":"Ken Chomais","msgstr":"ケン チョマイス"}
+{"msgctxt":"npcdata","msgid":"Ken Spencer","msgstr":"ケン スペンサー "}
+{"msgctxt":"npcdata","msgid":"Ken Thomson","msgstr":"ケン トマソン "}
+{"msgctxt":"npcdata","msgid":"Kenneth Otterton","msgstr":"ケネス オッタートン"}
+{"msgctxt":"npcdata","msgid":"Kenneth Wain","msgstr":"ケネス ウェイン"}
+{"msgctxt":"npcdata","msgid":"Kent Williams","msgstr":"ケント ウィリアムズ"}
+{"msgctxt":"npcdata","msgid":"Kerin Bremen","msgstr":"ケリン ブレーメン"}
+{"msgctxt":"npcdata","msgid":"Kerin Greydawn","msgstr":"ケリン グレイドーン"}
+{"msgctxt":"npcdata","msgid":"Kerman Murian","msgstr":"カーマン ミュリアン"}
+{"msgctxt":"npcdata","msgid":"Kern Carnegie","msgstr":"ケルン カーネギー"}
+{"msgctxt":"npcdata","msgid":"Kethric Otterton","msgstr":"ケスリック オッタートン"}
+{"msgctxt":"npcdata","msgid":"Kethric Tarent","msgstr":"ケスリック タレント"}
+{"msgctxt":"npcdata","msgid":"Kethry Dawnsglow","msgstr":"ケシー ドーンズグロー"}
+{"msgctxt":"npcdata","msgid":"Kethry Treasurestone","msgstr":"ケシー\nトレジャーストーン"}
+{"msgctxt":"npcdata","msgid":"Kevin Watch","msgstr":"ケヴィン ウォッチ"}
+{"msgctxt":"npcdata","msgid":"Ki Lo Nee","msgstr":"キ ロ ニー"}
+{"msgctxt":"npcdata","msgid":"Kim Astrogate","msgstr":"キム アストロゲート"}
+{"msgctxt":"npcdata","msgid":"Kindle Fellburn","msgstr":"キンドル フェルバーン"}
+{"msgctxt":"npcdata","msgid":"Kindle Treasurestone","msgstr":"キンドル トレジャーストーン"}
+{"msgctxt":"npcdata","msgid":"King Louis","msgstr":"ルイ王"}
+{"msgctxt":"npcdata","msgid":"King Roland","msgstr":"ローランド王"}
+{"msgctxt":"npcdata","msgid":"Kira Cardrin","msgstr":"カイラ カードリン"}
+{"msgctxt":"npcdata","msgid":"Kira Steeleye","msgstr":"カイラ スティールアイ"}
+{"msgctxt":"npcdata","msgid":"Klain Scarwing","msgstr":"クレイン\nスカーウィング"}
+{"msgctxt":"npcdata","msgid":"Kurt McKeever","msgstr":"カート マッキーヴァー "}
+{"msgctxt":"npcdata","msgid":"Kyle Lutvig","msgstr":"カイル ラトヴィグ"}
+{"msgctxt":"npcdata","msgid":"Kyra Sparkmen","msgstr":"カイラ スパークメン"}
+{"msgctxt":"npcdata","msgid":"Kyra Stormeye","msgstr":"カイラ ストームアイ"}
+{"msgctxt":"npcdata","msgid":"Lady Carmine","msgstr":"レディ カーマイン"}
+{"msgctxt":"npcdata","msgid":"Languid","msgstr":"ラングイド"}
+{"msgctxt":"npcdata","msgid":"Lanshee Caverhill","msgstr":"ランシー\nケイヴァーヒル"}
+{"msgctxt":"npcdata","msgid":"Lanshee Ravensight","msgstr":"ランシー レイベンサイト"}
+{"msgctxt":"npcdata","msgid":"Lara Gallowswell","msgstr":"ララ ギャロウズウェル"}
+{"msgctxt":"npcdata","msgid":"Lara Stonewright","msgstr":"ララ ストーンライト"}
+{"msgctxt":"npcdata","msgid":"Larry Dorfmann","msgstr":"ラリー ドーフマン"}
+{"msgctxt":"npcdata","msgid":"Lasatin the Scarred","msgstr":"ラザティン ザ スカード"}
+{"msgctxt":"npcdata","msgid":"Lasiter Ravensight","msgstr":"ラサイター\nレイベンサイト"}
+{"msgctxt":"npcdata","msgid":"Lasiter the Slayer","msgstr":"ラサイター ザ スレイヤー"}
+{"msgctxt":"npcdata","msgid":"Lathean","msgstr":"ラシーン"}
+{"msgctxt":"npcdata","msgid":"Lathius","msgstr":"ラティウス"}
+{"msgctxt":"npcdata","msgid":"Lawrence Aleman","msgstr":"ローレンス アレマン"}
+{"msgctxt":"npcdata","msgid":"Lawrence Mark","msgstr":"ローレンス マーク"}
+{"msgctxt":"npcdata","msgid":"Leah Lu","msgstr":"リア ルー"}
+{"msgctxt":"npcdata","msgid":"Leane Shadowrunner","msgstr":"リーネ シャドウランナー"}
+{"msgctxt":"npcdata","msgid":"Leane Stormlance","msgstr":"リーネ ストームランス"}
+{"msgctxt":"npcdata","msgid":"Leda Rowan","msgstr":"レダ ローワン"}
+{"msgctxt":"npcdata","msgid":"Lenord Nightcrawler","msgstr":"レノード\nナイトクロウラー"}
+{"msgctxt":"npcdata","msgid":"Lenord Skinner","msgstr":"レノード スキナー"}
+{"msgctxt":"npcdata","msgid":"Leo Grant","msgstr":"レオ グラント"}
+{"msgctxt":"npcdata","msgid":"Leon Lazaru","msgstr":"レオン ラザル"}
+{"msgctxt":"npcdata","msgid":"Les Parker","msgstr":"レス パーカー"}
+{"msgctxt":"npcdata","msgid":"Lesiah Marduk","msgstr":"レシア マルドゥク"}
+{"msgctxt":"npcdata","msgid":"Li Tizare","msgstr":"リー ティザレ"}
+{"msgctxt":"npcdata","msgid":"Licia Rivenrock","msgstr":"リシア リヴェンロック"}
+{"msgctxt":"npcdata","msgid":"Lilly June","msgstr":"リリー ジューン"}
+{"msgctxt":"npcdata","msgid":"Linda Draken","msgstr":"リンダ ドラケン"}
+{"msgctxt":"npcdata","msgid":"Linda Nichols","msgstr":"リンダ ニコルズ"}
+{"msgctxt":"npcdata","msgid":"Lisa Janway","msgstr":"リサ ジャンウェイ"}
+{"msgctxt":"npcdata","msgid":"Lisa Whitman","msgstr":"リサ ホイットマン "}
+{"msgctxt":"npcdata","msgid":"Lisha Redding","msgstr":"リシャ レディング"}
+{"msgctxt":"npcdata","msgid":"Lisha Sourbrow","msgstr":"リシャ ソアブロー"}
+{"msgctxt":"npcdata","msgid":"Lita Roggen","msgstr":"リタ ロゲン"}
+{"msgctxt":"npcdata","msgid":"Livia Farrel","msgstr":"リヴィア ファレル"}
+{"msgctxt":"npcdata","msgid":"Lizardman Guard","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Lizardman Peasant","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Loamwalker","msgstr":"ロームウォーカー"}
+{"msgctxt":"npcdata","msgid":"Logan Dasher","msgstr":"ローガン ダッシャー"}
+{"msgctxt":"npcdata","msgid":"Lon Miller","msgstr":"ロン ミラー"}
+{"msgctxt":"npcdata","msgid":"Long-Tail","msgstr":"ロング テイル"}
+{"msgctxt":"npcdata","msgid":"Lord Markham","msgstr":"マーカム卿"}
+{"msgctxt":"npcdata","msgid":"Lord Roberts","msgstr":"ロバーツ卿"}
+{"msgctxt":"npcdata","msgid":"Lord of Fire","msgstr":"火の王"}
+{"msgctxt":"npcdata","msgid":"Loren Steel","msgstr":"ローレン スティール"}
+{"msgctxt":"npcdata","msgid":"Loretta Fleise","msgstr":"ロレッタ フレイズ"}
+{"msgctxt":"npcdata","msgid":"Lori Tao","msgstr":"ローリ タオ"}
+{"msgctxt":"npcdata","msgid":"Lori Vespers","msgstr":"ローリ ヴェスパーズ"}
+{"msgctxt":"npcdata","msgid":"Lori Winterbright","msgstr":"ローリ ウィンターブライト"}
+{"msgctxt":"npcdata","msgid":"Lorn Hammer","msgstr":"ローン ハマー"}
+{"msgctxt":"npcdata","msgid":"Lou Henderson","msgstr":"ルー ヘンダーソン "}
+{"msgctxt":"npcdata","msgid":"Lucid Apple","msgstr":"ルシッド アップル"}
+{"msgctxt":"npcdata","msgid":"Lucky Oster","msgstr":"ラッキー オスター"}
+{"msgctxt":"npcdata","msgid":"Lunius Dawnbringer","msgstr":"ルニウス\nドーンブリンガー"}
+{"msgctxt":"npcdata","msgid":"Lunius Shador","msgstr":"ルニウス シェイダー"}
+{"msgctxt":"npcdata","msgid":"Lyle Roma","msgstr":"ライル ローマ"}
+{"msgctxt":"npcdata","msgid":"Lysander Farrel","msgstr":"ライサンダー ファレル"}
+{"msgctxt":"npcdata","msgid":"Lysander Sweet","msgstr":"ライサンダー スイート"}
+{"msgctxt":"npcdata","msgid":"Macro Caligula","msgstr":"マクロ カリギュラ"}
+{"msgctxt":"npcdata","msgid":"Maddigan the Tracker","msgstr":"マディガン\nザ トラッカー"}
+{"msgctxt":"npcdata","msgid":"Madeleine Towers","msgstr":"マデリーン タワーズ"}
+{"msgctxt":"npcdata","msgid":"Madigan Tarent","msgstr":"マディガン タレント"}
+{"msgctxt":"npcdata","msgid":"Malisha Karrand","msgstr":"マリーシャ カーランド"}
+{"msgctxt":"npcdata","msgid":"Marc Teagan","msgstr":"マルク ティーガン"}
+{"msgctxt":"npcdata","msgid":"Marcellus Lutvig","msgstr":"マルケルス ラトヴィグ"}
+{"msgctxt":"npcdata","msgid":"Marcus Pregent","msgstr":"マーカス プリジェント "}
+{"msgctxt":"npcdata","msgid":"Margaret the Docent","msgstr":"マーガレット ザ ドーセント"}
+{"msgctxt":"npcdata","msgid":"Maria","msgstr":"マリア"}
+{"msgctxt":"npcdata","msgid":"Maria Trepan","msgstr":"マリア トレパン"}
+{"msgctxt":"npcdata","msgid":"Mark Caldwell","msgstr":"マーク コールドウェル "}
+{"msgctxt":"npcdata","msgid":"Mark Miller","msgstr":"マーク ミラー "}
+{"msgctxt":"npcdata","msgid":"Marton Ferris","msgstr":"マートン フェリス"}
+{"msgctxt":"npcdata","msgid":"Mary Ellen Babson","msgstr":"メアリー\nエレン バブソン "}
+{"msgctxt":"npcdata","msgid":"Master Thievery","msgstr":"「盗賊術」の達人"}
+{"msgctxt":"npcdata","msgid":"Masul","msgstr":"マスル"}
+{"msgctxt":"npcdata","msgid":"Matric Bowes","msgstr":"マトリック ボーウェス"}
+{"msgctxt":"npcdata","msgid":"Matric Keenedge","msgstr":"マトリック\nキーンエッジ"}
+{"msgctxt":"npcdata","msgid":"Matric Townsaver","msgstr":"マトリック\nタウンセイバー"}
+{"msgctxt":"npcdata","msgid":"Matric Weatherson","msgstr":"マトリック ウェザーソン"}
+{"msgctxt":"npcdata","msgid":"Matthias Bearheart","msgstr":"マティアス ベアハート"}
+{"msgctxt":"npcdata","msgid":"Mattric Bowes","msgstr":"マトリック ボーウェス"}
+{"msgctxt":"npcdata","msgid":"Maximus","msgstr":"マクシマス"}
+{"msgctxt":"npcdata","msgid":"Maylander ","msgstr":"メイランダー "}
+{"msgctxt":"npcdata","msgid":"Mazim Dusk","msgstr":"マジム ダスク"}
+{"msgctxt":"npcdata","msgid":"Medwari Dragontracker","msgstr":"メドワーリ ドラゴントラッカー"}
+{"msgctxt":"npcdata","msgid":"Medwari Elmsmire","msgstr":"メドワーリ\nエルムスマイア"}
+{"msgctxt":"npcdata","msgid":"Melody Silver","msgstr":"メロディー シルバー"}
+{"msgctxt":"npcdata","msgid":"Melody Stone","msgstr":"メロディー ストーン"}
+{"msgctxt":"npcdata","msgid":"Menasaur ","msgstr":"メナザウアー "}
+{"msgctxt":"npcdata","msgid":"Mephisto, Ancient Sorcerer","msgstr":"メフィスト、古代のソーサラー"}
+{"msgctxt":"npcdata","msgid":"Messenger","msgstr":"使者"}
+{"msgctxt":"npcdata","msgid":"Mia Lucille","msgstr":"ミア ルシール"}
+{"msgctxt":"npcdata","msgid":"Michael Ogilvy","msgstr":"マイケル オギルヴィ"}
+{"msgctxt":"npcdata","msgid":"Michael Tuck","msgstr":"マイケル タック"}
+{"msgctxt":"npcdata","msgid":"Michael Wolf ","msgstr":"マイケル ウルフ "}
+{"msgctxt":"npcdata","msgid":"Michele Blackshire","msgstr":"ミシェル ブラックシャイア"}
+{"msgctxt":"npcdata","msgid":"Mihi Mihi Nanook","msgstr":"ミヒ ミヒ ナヌーク"}
+{"msgctxt":"npcdata","msgid":"Mikel Deerhunter","msgstr":"マイケル ディアハンター"}
+{"msgctxt":"npcdata","msgid":"Mikel Smithson","msgstr":"マイケル スミスソン"}
+{"msgctxt":"npcdata","msgid":"Miles Loman","msgstr":"マイルズ ローマン"}
+{"msgctxt":"npcdata","msgid":"Minotaur Peasant","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Mireille Warlin","msgstr":"ミレイユ ウォーリン"}
+{"msgctxt":"npcdata","msgid":"Miriam Boyer","msgstr":"ミリアム ボイヤー"}
+{"msgctxt":"npcdata","msgid":"Miriam Goodwife","msgstr":"ミリアム グッドワイフ"}
+{"msgctxt":"npcdata","msgid":"Miro Shinek","msgstr":"ミロ シネック"}
+{"msgctxt":"npcdata","msgid":"Miyon Dragontracker","msgstr":"マイヨン\nドラゴントラッカー"}
+{"msgctxt":"npcdata","msgid":"Miyon the Quick","msgstr":"マイヨン ザ クイック"}
+{"msgctxt":"npcdata","msgid":"Mort Arnosti","msgstr":"モート アルノスティ"}
+{"msgctxt":"npcdata","msgid":"Mortie Bith","msgstr":"モージー ビス"}
+{"msgctxt":"npcdata","msgid":"Mortie Ottin","msgstr":"モージー オッティン"}
+{"msgctxt":"npcdata","msgid":"Morton Holovin","msgstr":"モートン ホロヴィン"}
+{"msgctxt":"npcdata","msgid":"Mr. Malwick","msgstr":"マルウィック氏"}
+{"msgctxt":"npcdata","msgid":"Mylander","msgstr":"マイランダー"}
+{"msgctxt":"npcdata","msgid":"Myles Featherwind","msgstr":"マイルス フェザーウィンド"}
+{"msgctxt":"npcdata","msgid":"Myles Greydawn","msgstr":"マイルス グレイドーン"}
+{"msgctxt":"npcdata","msgid":"Mynasia","msgstr":"ミナシア"}
+{"msgctxt":"npcdata","msgid":"Myyra Hian","msgstr":"ミーラ ヒアン"}
+{"msgctxt":"npcdata","msgid":"Nadine Hayden","msgstr":"ナディーン ヘイドン"}
+{"msgctxt":"npcdata","msgid":"Najat Ramadi","msgstr":"ナジャト ラマディ"}
+{"msgctxt":"npcdata","msgid":"Nalani","msgstr":"ナラーニ"}
+{"msgctxt":"npcdata","msgid":"Naomi Highland","msgstr":"ナオミ ハイランド"}
+{"msgctxt":"npcdata","msgid":"Naomi Wind","msgstr":"ナオミ ウインド"}
+{"msgctxt":"npcdata","msgid":"Nathaniel Roberts","msgstr":"ナサニエル ロバーツ"}
+{"msgctxt":"npcdata","msgid":"Neblick","msgstr":"ネブリック"}
+{"msgctxt":"npcdata","msgid":"Necromancer Peasant","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Nelix Uriel","msgstr":"ネリクス ウリエル"}
+{"msgctxt":"npcdata","msgid":"Nero Claudius","msgstr":"ネロ クラウディウス"}
+{"msgctxt":"npcdata","msgid":"Newt Headrow","msgstr":"ニュート ヘッドロー"}
+{"msgctxt":"npcdata","msgid":"Nicco Wargon ","msgstr":"ニコ ウォーガン "}
+{"msgctxt":"npcdata","msgid":"Nicholas Roth","msgstr":"ニコラス ロス"}
+{"msgctxt":"npcdata","msgid":"Nick Fenster","msgstr":"ニック フェンスター"}
+{"msgctxt":"npcdata","msgid":"Nicolai Ironfist","msgstr":"ニコライ アイアンフィスト"}
+{"msgctxt":"npcdata","msgid":"Nigan","msgstr":"ニガン"}
+{"msgctxt":"npcdata","msgid":"Nikobi","msgstr":"ニコビ"}
+{"msgctxt":"npcdata","msgid":"Niles Stantley","msgstr":"ナイルズ スタントリー"}
+{"msgctxt":"npcdata","msgid":"Nivek Arlond","msgstr":"ニヴェク アーロンド"}
+{"msgctxt":"npcdata","msgid":"Noah White","msgstr":"ノア ホワイト"}
+{"msgctxt":"npcdata","msgid":"Norbert Havest","msgstr":"ノルベルト ヘイヴェスト"}
+{"msgctxt":"npcdata","msgid":"Norbert Slayer","msgstr":"ノルベルト スレイヤー"}
+{"msgctxt":"npcdata","msgid":"Norbert Thrush","msgstr":"ノルベルト スラッシュ"}
+{"msgctxt":"npcdata","msgid":"Norio Ariganaka","msgstr":"ノリオ アリガナカ"}
+{"msgctxt":"npcdata","msgid":"Norris ","msgstr":"ノリス"}
+{"msgctxt":"npcdata","msgid":"Norris Horton","msgstr":"ノリス ホートン"}
+{"msgctxt":"npcdata","msgid":"Nowa Morisaku","msgstr":"ノワ モリサク "}
+{"msgctxt":"npcdata","msgid":"Oberic Crane","msgstr":"オベリック オレイン"}
+{"msgctxt":"npcdata","msgid":"Oberic Nosewort","msgstr":"オベリック\nノーズウォート"}
+{"msgctxt":"npcdata","msgid":"Ogre Peasant","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Olaf Berring","msgstr":"オーラフ ベリング"}
+{"msgctxt":"npcdata","msgid":"Olaf Heimdall","msgstr":"オーラフ ハイムダル"}
+{"msgctxt":"npcdata","msgid":"Oliver Wendell","msgstr":"オリヴァー ウェンドル"}
+{"msgctxt":"npcdata","msgid":"Olivia Trumpet","msgstr":"オリヴィア トランペット"}
+{"msgctxt":"npcdata","msgid":"One-Eye","msgstr":"ワン アイ"}
+{"msgctxt":"npcdata","msgid":"Oracle","msgstr":"＜予言者＞"}
+{"msgctxt":"npcdata","msgid":"Orville Corvair","msgstr":"オーヴィル コルヴェア"}
+{"msgctxt":"npcdata","msgid":"Oskar Tyre","msgstr":"オスカー タイア"}
+{"msgctxt":"npcdata","msgid":"Osric Temper","msgstr":"オズリック テンパー"}
+{"msgctxt":"npcdata","msgid":"Ostrin Grivic","msgstr":"オストリン\nグリヴィック"}
+{"msgctxt":"npcdata","msgid":"Overdune Snapfinger","msgstr":"オバーデューン"}
+{"msgctxt":"npcdata","msgid":"Overdune Snaprfinger","msgstr":"オバーデューン\nスナップフィンガー"}
+{"msgctxt":"npcdata","msgid":"Pascella Tisk","msgstr":"パスケラ　ティスク"}
+{"msgctxt":"npcdata","msgid":"Pat","msgstr":"パット"}
+{"msgctxt":"npcdata","msgid":"Pat Skylark","msgstr":"パット スカイラーク"}
+{"msgctxt":"npcdata","msgid":"Patrice Vespers","msgstr":"パトリス ヴェスパーズ"}
+{"msgctxt":"npcdata","msgid":"Patwin Darkenmore","msgstr":"バトルウィン\nダーケンモア"}
+{"msgctxt":"npcdata","msgid":"Patwin Fellbern","msgstr":"バトルウィン フェルバーン"}
+{"msgctxt":"npcdata","msgid":"Paul Hapsburg","msgstr":"ポール ハプスブルク"}
+{"msgctxt":"npcdata","msgid":"Paul Rattner","msgstr":"ポール ラットナー "}
+{"msgctxt":"npcdata","msgid":"Paula Brightspear","msgstr":"ポーラ ブライトスピア"}
+{"msgctxt":"npcdata","msgid":"Pavel","msgstr":"パヴェル"}
+{"msgctxt":"npcdata","msgid":"Payge Arachnia","msgstr":"ペイジ アラクニア"}
+{"msgctxt":"npcdata","msgid":"Payge Blueswan","msgstr":"ペイジ ブルースワン"}
+{"msgctxt":"npcdata","msgid":"Payge Karrand","msgstr":"ペイジ カーランド"}
+{"msgctxt":"npcdata","msgid":"Payge Rivenhill","msgstr":"ペイジ リヴェンヒル"}
+{"msgctxt":"npcdata","msgid":"Peace Stringer","msgstr":"ピース ストリンガー"}
+{"msgctxt":"npcdata","msgid":"Pedron Sablewood","msgstr":"ペドロン セイブルウッド"}
+{"msgctxt":"npcdata","msgid":"Peggy Tish","msgstr":"ペギー ティッシュ"}
+{"msgctxt":"npcdata","msgid":"Peggy Woods","msgstr":"ペギー ウッズ"}
+{"msgctxt":"npcdata","msgid":"Peni Pretty","msgstr":"ペニー プリティ"}
+{"msgctxt":"npcdata","msgid":"Peryn Lightfingers","msgstr":"ベリュン ライトフィンガーズ"}
+{"msgctxt":"npcdata","msgid":"Peryn Reaverston","msgstr":"ベリュン\nリーヴァーストン"}
+{"msgctxt":"npcdata","msgid":"Pete Ryu","msgstr":"ピート リュー "}
+{"msgctxt":"npcdata","msgid":"Peter \"Zoop\" Ryu","msgstr":"ピーター 「ズープ」 リュー"}
+{"msgctxt":"npcdata","msgid":"Peter Ivanovich","msgstr":"ピーター イワノビッチ"}
+{"msgctxt":"npcdata","msgid":"Petra Cleareye","msgstr":"ペトラ クリアアイ"}
+{"msgctxt":"npcdata","msgid":"Petra Mithrit","msgstr":"ペトラ ミスリット"}
+{"msgctxt":"npcdata","msgid":"Phelan Sykes","msgstr":"フェラン サイクス "}
+{"msgctxt":"npcdata","msgid":"Pip Darkstone","msgstr":"ピップ ダークストーン"}
+{"msgctxt":"npcdata","msgid":"Pip Hillier","msgstr":"ピップ ヒリアー"}
+{"msgctxt":"npcdata","msgid":"Pirate Paul","msgstr":"海賊ポール"}
+{"msgctxt":"npcdata","msgid":"Piter Harkonnen","msgstr":"ピター ハルコンネン"}
+{"msgctxt":"npcdata","msgid":"Pole","msgstr":"ポール"}
+{"msgctxt":"npcdata","msgid":"Polera Skulk","msgstr":"ポレラ スカルク"}
+{"msgctxt":"npcdata","msgid":"Pordo","msgstr":"ポルド"}
+{"msgctxt":"npcdata","msgid":"Poundlin Deerhunter","msgstr":"バウンドリン\nディアハンター"}
+{"msgctxt":"npcdata","msgid":"Poundlin Lotts","msgstr":"バウンドリン ロッツ"}
+{"msgctxt":"npcdata","msgid":"Preston Harper","msgstr":"プレストン ハーパー"}
+{"msgctxt":"npcdata","msgid":"Preston Steel","msgstr":"プレストン スティール"}
+{"msgctxt":"npcdata","msgid":"Puddle Stone","msgstr":"パドル ストーン"}
+{"msgctxt":"npcdata","msgid":"Puddle Thain","msgstr":"パドル セイン"}
+{"msgctxt":"npcdata","msgid":"Pyrannaste","msgstr":"ピュラナステ"}
+{"msgctxt":"npcdata","msgid":"Qethrin Tonk","msgstr":"ケスリン トンク"}
+{"msgctxt":"npcdata","msgid":"Qillain Laraselle","msgstr":"キレイン ララセル"}
+{"msgctxt":"npcdata","msgid":"Qillain Moore","msgstr":"キレイン ムーア"}
+{"msgctxt":"npcdata","msgid":"Queen Catherine","msgstr":"キャサリン女王"}
+{"msgctxt":"npcdata","msgid":"Quick Jeni ","msgstr":"クイック ジェニー "}
+{"msgctxt":"npcdata","msgid":"Rabisa Nedlon","msgstr":"ラビサ ネドロン"}
+{"msgctxt":"npcdata","msgid":"Rachel Herzl","msgstr":"レイチェル ヘルツル"}
+{"msgctxt":"npcdata","msgid":"Rainyn Rivencrest","msgstr":"レイニン リヴェンクレスト"}
+{"msgctxt":"npcdata","msgid":"Ral","msgstr":"ラル"}
+{"msgctxt":"npcdata","msgid":"Randal Wolverton","msgstr":"ランドル ウルヴァートン"}
+{"msgctxt":"npcdata","msgid":"Randall Norris","msgstr":"ランドル ノリス"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 1","msgstr":"ランダムマップNPC 1"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 10","msgstr":"ランダムマップNPC 10"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 11","msgstr":"ランダムマップNPC 11"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 12","msgstr":"ランダムマップNPC 12"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 13","msgstr":"ランダムマップNPC 13"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 14","msgstr":"ランダムマップNPC 14"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 15","msgstr":"ランダムマップNPC 15"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 16","msgstr":"ランダムマップNPC 16"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 17","msgstr":"ランダムマップNPC 17"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 18","msgstr":"ランダムマップNPC 18"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 19","msgstr":"ランダムマップNPC 19"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 2","msgstr":"ランダムマップNPC 2"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 20","msgstr":"ランダムマップNPC 20"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 21","msgstr":"ランダムマップNPC 21"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 22","msgstr":"ランダムマップNPC 22"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 23","msgstr":"ランダムマップNPC 23"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 24","msgstr":"ランダムマップNPC 24"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 25","msgstr":"ランダムマップNPC 25"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 26","msgstr":"ランダムマップNPC 26"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 27","msgstr":"ランダムマップNPC 27"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 28","msgstr":"ランダムマップNPC 28"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 29","msgstr":"ランダムマップNPC 29"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 3","msgstr":"ランダムマップNPC 3"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 30","msgstr":"ランダムマップNPC 30"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 31","msgstr":"ランダムマップNPC 31"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 32","msgstr":"ランダムマップNPC 32"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 33","msgstr":"ランダムマップNPC 33"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 34","msgstr":"ランダムマップNPC 34"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 35","msgstr":"ランダムマップNPC 35"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 36","msgstr":"ランダムマップNPC 36"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 37","msgstr":"ランダムマップNPC 37"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 38","msgstr":"ランダムマップNPC 38"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 39","msgstr":"ランダムマップNPC 39"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 4","msgstr":"ランダムマップNPC 4"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 40","msgstr":"ランダムマップNPC 40"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 41","msgstr":"ランダムマップNPC 41"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 5","msgstr":"ランダムマップNPC 5"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 6","msgstr":"ランダムマップNPC 6"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 7","msgstr":"ランダムマップNPC 7"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 8","msgstr":"ランダムマップNPC 8"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 9","msgstr":"ランダムマップNPC 9"}
+{"msgctxt":"npcdata","msgid":"Raven Quicktoungue","msgstr":"レイベン\nクイックタング"}
+{"msgctxt":"npcdata","msgid":"Raven the Hunter","msgstr":"レイベン ザ ハンター"}
+{"msgctxt":"npcdata","msgid":"Rawn Dervish","msgstr":"ローン デルヴィッシュ"}
+{"msgctxt":"npcdata","msgid":"Rawn Talreisch","msgstr":"ローン タルライシュ"}
+{"msgctxt":"npcdata","msgid":"Ray Boswell","msgstr":"レイ ボズウェル"}
+{"msgctxt":"npcdata","msgid":"Reaver","msgstr":"リーヴァー"}
+{"msgctxt":"npcdata","msgid":"Rebecca Calaway","msgstr":"レベッカ カラウェイ"}
+{"msgctxt":"npcdata","msgid":"Rebecca Christel","msgstr":"レベッカ クリステル "}
+{"msgctxt":"npcdata","msgid":"Rebecca Devine","msgstr":"レベッカ デヴァイン"}
+{"msgctxt":"npcdata","msgid":"Rebecca Traveler","msgstr":"レベッカ トラベラー"}
+{"msgctxt":"npcdata","msgid":"Red Keldin","msgstr":"レッド ケルディン"}
+{"msgctxt":"npcdata","msgid":"Regina Fern","msgstr":"レジーナ ファーン"}
+{"msgctxt":"npcdata","msgid":"Reginald Dorray","msgstr":"レジナルド ドーレイ"}
+{"msgctxt":"npcdata","msgid":"Regnan Peasant","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Relburn Ditch","msgstr":"レルバーン ディッチ"}
+{"msgctxt":"npcdata","msgid":"Relburn Jeebes","msgstr":"レルバーン ジーベス"}
+{"msgctxt":"npcdata","msgid":"Renee Blackburn","msgstr":"ルネ ブラックバーン"}
+{"msgctxt":"npcdata","msgid":"Reshie ","msgstr":"レシー"}
+{"msgctxt":"npcdata","msgid":"Resurectra","msgstr":"リザレクトラ"}
+{"msgctxt":"npcdata","msgid":"Revee Botania","msgstr":"レヴィー ボタニア"}
+{"msgctxt":"npcdata","msgid":"Rexella ","msgstr":"レクセラ "}
+{"msgctxt":"npcdata","msgid":"Rexella Van Imp","msgstr":"レクセラ ヴァン インプ"}
+{"msgctxt":"npcdata","msgid":"Rhetta Mercer","msgstr":"レッタ マーサー"}
+{"msgctxt":"npcdata","msgid":"Rich Hamburg","msgstr":"リッチ ハンブルク"}
+{"msgctxt":"npcdata","msgid":"Richard Harp","msgstr":"リチャード ハープ"}
+{"msgctxt":"npcdata","msgid":"Rihansi","msgstr":"リハンシ"}
+{"msgctxt":"npcdata","msgid":"Riki Corredera ","msgstr":"リキ コーレデラ "}
+{"msgctxt":"npcdata","msgid":"Rionel","msgstr":"ライオネル"}
+{"msgctxt":"npcdata","msgid":"Rislyn Greenstorm","msgstr":"リスリン グリーンストーム"}
+{"msgctxt":"npcdata","msgid":"Riverglass","msgstr":"リヴァーグラス"}
+{"msgctxt":"npcdata","msgid":"Robert Belknap","msgstr":"ロバート ベルナップ"}
+{"msgctxt":"npcdata","msgid":"Robert King","msgstr":"ロバート キング"}
+{"msgctxt":"npcdata","msgid":"Robert Morningstar","msgstr":"ロバート\nモーニングスター"}
+{"msgctxt":"npcdata","msgid":"Robert Sourbrow","msgstr":"ロバート ソアブロー"}
+{"msgctxt":"npcdata","msgid":"Robert the Wise","msgstr":"賢者ロバート"}
+{"msgctxt":"npcdata","msgid":"Roberta Theben","msgstr":"ロバータ セベン"}
+{"msgctxt":"npcdata","msgid":"Robin Lang","msgstr":"ロビン ラング"}
+{"msgctxt":"npcdata","msgid":"Rockwell Humdring","msgstr":"ロックウェル ハムドリング"}
+{"msgctxt":"npcdata","msgid":"Rodinia Sidara","msgstr":"ロディニア シダラ"}
+{"msgctxt":"npcdata","msgid":"Roger Tellmar","msgstr":"ロジャー テルマー"}
+{"msgctxt":"npcdata","msgid":"Rohani Oscleton","msgstr":"ロハニ オスクルトン"}
+{"msgctxt":"npcdata","msgid":"Rohtnax","msgstr":"ロスナックス"}
+{"msgctxt":"npcdata","msgid":"Roland Ironfist","msgstr":"ローランド アイアンフィスト"}
+{"msgctxt":"npcdata","msgid":"Ronald Kinney","msgstr":"ロナルド キンネイ"}
+{"msgctxt":"npcdata","msgid":"Rosemarie Reyjavik","msgstr":"ローズマリー レイキャビク"}
+{"msgctxt":"npcdata","msgid":"Rosita Alexander","msgstr":"ロジータ アレクサンダー"}
+{"msgctxt":"npcdata","msgid":"Roxanne Sheltan","msgstr":"ロクサーヌ シェルタン"}
+{"msgctxt":"npcdata","msgid":"Roxina Smolenska","msgstr":"ロクシーナ スモレンスカ"}
+{"msgctxt":"npcdata","msgid":"Runaway Chaos","msgstr":"ランナウェイ カオス"}
+{"msgctxt":"npcdata","msgid":"Rus Hockwoller","msgstr":"ラス ホックウォラー"}
+{"msgctxt":"npcdata","msgid":"Ryan Den","msgstr":"ライアン デン "}
+{"msgctxt":"npcdata","msgid":"Ryan Treacle","msgstr":"ライアン トリークル"}
+{"msgctxt":"npcdata","msgid":"Rydric","msgstr":"リドリック"}
+{"msgctxt":"npcdata","msgid":"S'ton","msgstr":"ストン"}
+{"msgctxt":"npcdata","msgid":"Saad Shamel","msgstr":"サード シャメル"}
+{"msgctxt":"npcdata","msgid":"Sahil Ittalle","msgstr":"サヒル イッタル"}
+{"msgctxt":"npcdata","msgid":"Sal Sharktooth","msgstr":"サル シャークトゥース"}
+{"msgctxt":"npcdata","msgid":"Sally","msgstr":"サリー"}
+{"msgctxt":"npcdata","msgid":"Samantha Kilvers","msgstr":"サマンサ キルヴァース"}
+{"msgctxt":"npcdata","msgid":"Samson Tess","msgstr":"サムソン テス"}
+{"msgctxt":"npcdata","msgid":"Samuel Benson","msgstr":"サミュエル ベンソン"}
+{"msgctxt":"npcdata","msgid":"Samuel Jack","msgstr":"サミュエル ジャック"}
+{"msgctxt":"npcdata","msgid":"Sandra Trudoor","msgstr":"サンドラ トゥルードア"}
+{"msgctxt":"npcdata","msgid":"Sandro","msgstr":"サンドロ"}
+{"msgctxt":"npcdata","msgid":"Saul Fogg","msgstr":"ソール フォッグ"}
+{"msgctxt":"npcdata","msgid":"Schmecker","msgstr":"シュメッカー"}
+{"msgctxt":"npcdata","msgid":"Scott White","msgstr":"スコット ホワイト "}
+{"msgctxt":"npcdata","msgid":"Seknit Undershadow","msgstr":"セクニット アンダーシャドウ"}
+{"msgctxt":"npcdata","msgid":"Selena Stipe","msgstr":"セレナ スタイプ"}
+{"msgctxt":"npcdata","msgid":"Seline Burnkindle","msgstr":"セリーヌ\nバーンキンドル"}
+{"msgctxt":"npcdata","msgid":"Seline Falconeye","msgstr":"セリーヌ ファルコンアイ"}
+{"msgctxt":"npcdata","msgid":"Sergio Carrington","msgstr":"セルジオ カーリントン"}
+{"msgctxt":"npcdata","msgid":"Seth Darkenmore","msgstr":"セス ダーケンモア"}
+{"msgctxt":"npcdata","msgid":"Seth Drakkson","msgstr":"セス ドラクソン"}
+{"msgctxt":"npcdata","msgid":"Sethine Ironfist","msgstr":"セス アイアンフィスト"}
+{"msgctxt":"npcdata","msgid":"Sethrc Thistlebone","msgstr":"セスルク\nティッスルボーン"}
+{"msgctxt":"npcdata","msgid":"Sethrik Fist ","msgstr":"セスリック フィスト"}
+{"msgctxt":"npcdata","msgid":"Sethrik Windsong","msgstr":"セスリック ウィンドソング"}
+{"msgctxt":"npcdata","msgid":"Shalaz Zalas","msgstr":"シャラズ ザラス"}
+{"msgctxt":"npcdata","msgid":"Shalwend","msgstr":"シャルウェンド"}
+{"msgctxt":"npcdata","msgid":"Shamus Dawnbringer","msgstr":"シャマス ドーンブリンガー"}
+{"msgctxt":"npcdata","msgid":"Shamus Hollyfield","msgstr":"シャマス\nホリフィールド"}
+{"msgctxt":"npcdata","msgid":"Shane Krewlen","msgstr":"シェイン クリューレン"}
+{"msgctxt":"npcdata","msgid":"Shane Thomas","msgstr":"シェイン トマス"}
+{"msgctxt":"npcdata","msgid":"Sharla Quinn","msgstr":"シャーラ クイン"}
+{"msgctxt":"npcdata","msgid":"Sharry Carnegie","msgstr":"シャリー カーネギー"}
+{"msgctxt":"npcdata","msgid":"Sheila Loompus","msgstr":"シーラ ルンパス"}
+{"msgctxt":"npcdata","msgid":"Shel Stineway","msgstr":"シェル スタインウェイ"}
+{"msgctxt":"npcdata","msgid":"Sheldon Mist","msgstr":"シェルドン ミスト"}
+{"msgctxt":"npcdata","msgid":"Sheldon Nightwood","msgstr":"シェルドン\nナイトウッド"}
+{"msgctxt":"npcdata","msgid":"Sherell Ivanaveh","msgstr":"シェレル イヴァナヴェ"}
+{"msgctxt":"npcdata","msgid":"Shiara FireOpal","msgstr":"シアラ ファイアオパール"}
+{"msgctxt":"npcdata","msgid":"Shiela Wind","msgstr":"シーラ ウインド"}
+{"msgctxt":"npcdata","msgid":"Shileka Toreena","msgstr":"シレカ トリーナ"}
+{"msgctxt":"npcdata","msgid":"Shivan Keeneye","msgstr":"シヴァン キーンアイ"}
+{"msgctxt":"npcdata","msgid":"Shoshi Pertoniki","msgstr":"ショシ ペルトニキ"}
+{"msgctxt":"npcdata","msgid":"Sigriv","msgstr":"シグリヴ"}
+{"msgctxt":"npcdata","msgid":"Sila Daewon","msgstr":"シラ デウォン"}
+{"msgctxt":"npcdata","msgid":"Silk Nightwalker","msgstr":"シルク\nナイトウォーカー"}
+{"msgctxt":"npcdata","msgid":"Silk Quicktoungue","msgstr":"シルク クイックタング"}
+{"msgctxt":"npcdata","msgid":"Simon Templar","msgstr":"サイモン テンプラー"}
+{"msgctxt":"npcdata","msgid":"Sioned Warsen","msgstr":"シオネッド ウォーセン"}
+{"msgctxt":"npcdata","msgid":"Sir Caneghem","msgstr":"ケイネム卿"}
+{"msgctxt":"npcdata","msgid":"Sir Charles Quixote","msgstr":"チャールズ キホーテ"}
+{"msgctxt":"npcdata","msgid":"Sir William Tarquin","msgstr":"ウィリアム タークィン卿"}
+{"msgctxt":"npcdata","msgid":"Sithicus Shadowrunner","msgstr":"シティカス\nシャドウランナー"}
+{"msgctxt":"npcdata","msgid":"Slicker Silvertongue","msgstr":"スリッカー シルバータン"}
+{"msgctxt":"npcdata","msgid":"Slovang Arcanos","msgstr":"スロヴァング アルカノス"}
+{"msgctxt":"npcdata","msgid":"Sly Silverstone","msgstr":"スライ シルバーストーン"}
+{"msgctxt":"npcdata","msgid":"Smiling Jack","msgstr":"スマイリング ジャック"}
+{"msgctxt":"npcdata","msgid":"Soil","msgstr":"ソイル"}
+{"msgctxt":"npcdata","msgid":"Solis","msgstr":"ソリス"}
+{"msgctxt":"npcdata","msgid":"Solitare Bainful","msgstr":"ソリテア ベインフル"}
+{"msgctxt":"npcdata","msgid":"Solomon Riverstone","msgstr":"ソロモン リバーストーン"}
+{"msgctxt":"npcdata","msgid":"Solomon Steele","msgstr":"ソロモン スティール"}
+{"msgctxt":"npcdata","msgid":"Soon Lu","msgstr":"スン ルー"}
+{"msgctxt":"npcdata","msgid":"Spark Burnkindle","msgstr":"スパーク バーンキンドル"}
+{"msgctxt":"npcdata","msgid":"Spyder ","msgstr":"スパイダー"}
+{"msgctxt":"npcdata","msgid":"Sri Retiani","msgstr":"スリ レティアーニ"}
+{"msgctxt":"npcdata","msgid":"Stacy Flanders","msgstr":"ステイシー フランダース"}
+{"msgctxt":"npcdata","msgid":"Steagal Snick","msgstr":"スティーガル スニック"}
+{"msgctxt":"npcdata","msgid":"Stephan Sand","msgstr":"ステファン サンド"}
+{"msgctxt":"npcdata","msgid":"Stephanie Pavlov","msgstr":"ステファニー パブロフ"}
+{"msgctxt":"npcdata","msgid":"Stephen","msgstr":"シュテファン"}
+{"msgctxt":"npcdata","msgid":"Stephen Biggs","msgstr":"スティーブン ビッグス"}
+{"msgctxt":"npcdata","msgid":"Stephen Iago","msgstr":"スティーブン イアーゴ"}
+{"msgctxt":"npcdata","msgid":"Steve Baca","msgstr":"スティーブ バーカ"}
+{"msgctxt":"npcdata","msgid":"Steve Jasper","msgstr":"スティーブ ジャスパー "}
+{"msgctxt":"npcdata","msgid":"Steve Wasaff","msgstr":"スティーブ ウォサッフ "}
+{"msgctxt":"npcdata","msgid":"Stewart Whitesky","msgstr":"スチュワート ホワイトスカイ"}
+{"msgctxt":"npcdata","msgid":"Stile Bloke","msgstr":"スタイル ブローク"}
+{"msgctxt":"npcdata","msgid":"Straton Hawthorne","msgstr":"ストラトン ホーソン"}
+{"msgctxt":"npcdata","msgid":"Straton Hillsman","msgstr":"ストラトン ヒルズマン"}
+{"msgctxt":"npcdata","msgid":"Su Lang Manchu","msgstr":"ス ラング マンチュー"}
+{"msgctxt":"npcdata","msgid":"Susan Handlebaum","msgstr":"スーザン ハンドルバウム"}
+{"msgctxt":"npcdata","msgid":"Svetlanta Irktusk","msgstr":"スヴェトランタ イルクツク"}
+{"msgctxt":"npcdata","msgid":"Sy Roth","msgstr":"サイ ロス"}
+{"msgctxt":"npcdata","msgid":"Sylvester Moor","msgstr":"シルベスター ムーア"}
+{"msgctxt":"npcdata","msgid":"Ta Li No Gharma","msgstr":"タ リ ノ ガーマ"}
+{"msgctxt":"npcdata","msgid":"Tabitha Mistspring","msgstr":"タビザ ミストスプリング"}
+{"msgctxt":"npcdata","msgid":"Tabitha Watershed","msgstr":"タビザ\nウォーターシェッド"}
+{"msgctxt":"npcdata","msgid":"Tabitha Yerin","msgstr":"タビザ イェリン"}
+{"msgctxt":"npcdata","msgid":"Takao","msgstr":"タカオ"}
+{"msgctxt":"npcdata","msgid":"Talion","msgstr":"タリオン"}
+{"msgctxt":"npcdata","msgid":"Tallia Ravenswood","msgstr":"タリア レイベンズウッド"}
+{"msgctxt":"npcdata","msgid":"Tamara Anders","msgstr":"タマラ アンダース"}
+{"msgctxt":"npcdata","msgid":"Tantilion","msgstr":"タンティリオン"}
+{"msgctxt":"npcdata","msgid":"Tanya Kirklynn","msgstr":"ターニャ カークリン"}
+{"msgctxt":"npcdata","msgid":"Tara D'Cathay","msgstr":"タラ ドキャセイ"}
+{"msgctxt":"npcdata","msgid":"Taren Temper","msgstr":"ターレン テンパー"}
+{"msgctxt":"npcdata","msgid":"Taren the Lifter","msgstr":"ターレン ザ リフター"}
+{"msgctxt":"npcdata","msgid":"Tarin Withern","msgstr":"タリン ウィザーン"}
+{"msgctxt":"npcdata","msgid":"Taro","msgstr":"タロウ"}
+{"msgctxt":"npcdata","msgid":"Tasha Vale","msgstr":"ターシャ ヴェイル"}
+{"msgctxt":"npcdata","msgid":"Telelocator","msgstr":"テレロケーター"}
+{"msgctxt":"npcdata","msgid":"Teleron Prentice","msgstr":"テレロン プレンティス"}
+{"msgctxt":"npcdata","msgid":"Temple of Dark","msgstr":"闇の神殿"}
+{"msgctxt":"npcdata","msgid":"Temple of Light","msgstr":"光の神殿"}
+{"msgctxt":"npcdata","msgid":"Tempus ","msgstr":"テンパス "}
+{"msgctxt":"npcdata","msgid":"Terrance Smith","msgstr":"テランス スミス"}
+{"msgctxt":"npcdata","msgid":"Terry Ros","msgstr":"テリー ロス"}
+{"msgctxt":"npcdata","msgid":"Tess Tucker","msgstr":"テス タッカー"}
+{"msgctxt":"npcdata","msgid":"Tessa Greensward","msgstr":"テッサ グリーンズワード"}
+{"msgctxt":"npcdata","msgid":"Tessa Maker","msgstr":"テッサ メイカー"}
+{"msgctxt":"npcdata","msgid":"Tessalar","msgstr":"テッサラール"}
+{"msgctxt":"npcdata","msgid":"Thadin ","msgstr":"ザドリン"}
+{"msgctxt":"npcdata","msgid":"Thane Roper","msgstr":"セイン ローパー"}
+{"msgctxt":"npcdata","msgid":"Thant","msgstr":"ザント"}
+{"msgctxt":"npcdata","msgid":"Thanys","msgstr":"タニス"}
+{"msgctxt":"npcdata","msgid":"Thari Mirumoto","msgstr":"サリ ミルモト"}
+{"msgctxt":"npcdata","msgid":"The Hermit on the Mountain","msgstr":"山の隠者"}
+{"msgctxt":"npcdata","msgid":"The Oldest Tree","msgstr":"最古の木"}
+{"msgctxt":"npcdata","msgid":"The Prince of Thieves","msgstr":"盗賊の王子"}
+{"msgctxt":"npcdata","msgid":"The Seer","msgstr":"予見者"}
+{"msgctxt":"npcdata","msgid":"Thed Robynson","msgstr":"セッド ロビンソン"}
+{"msgctxt":"npcdata","msgid":"Therenda Evermorn","msgstr":"セレンダ エヴァーモーン"}
+{"msgctxt":"npcdata","msgid":"Therese Umberpool","msgstr":"テレーズ アンバープール"}
+{"msgctxt":"npcdata","msgid":"Thistle","msgstr":"ティスル"}
+{"msgctxt":"npcdata","msgid":"Thom Keldin","msgstr":"トム ケルディン"}
+{"msgctxt":"npcdata","msgid":"Thom Lumbra","msgstr":"トム ランブラ"}
+{"msgctxt":"npcdata","msgid":"Thomas Grey","msgstr":"トマス グレイ"}
+{"msgctxt":"npcdata","msgid":"Thomas Laraselle","msgstr":"トマス ララセル"}
+{"msgctxt":"npcdata","msgid":"Thomas Moore","msgstr":"トマス ムーア"}
+{"msgctxt":"npcdata","msgid":"Thomas the Judge","msgstr":"トマス ザ ジャッジ"}
+{"msgctxt":"npcdata","msgid":"Thorne Understone","msgstr":"ソーン\nアンダーストーン"}
+{"msgctxt":"npcdata","msgid":"Tiana Withern","msgstr":"ティアナ ウィザーン"}
+{"msgctxt":"npcdata","msgid":"Tilgar Dirthmoore","msgstr":"ティルガー ダースムーア"}
+{"msgctxt":"npcdata","msgid":"Tim Lang","msgstr":"ティム ラング "}
+{"msgctxt":"npcdata","msgid":"Tim O'Hoolihan","msgstr":"ティム オフーリハン"}
+{"msgctxt":"npcdata","msgid":"Timothy Hawk","msgstr":"ティモシー ホーク"}
+{"msgctxt":"npcdata","msgid":"Tina Sheltan","msgstr":"ティナ シェルタン"}
+{"msgctxt":"npcdata","msgid":"Tiricia Lambert","msgstr":"ティリシア ランバート"}
+{"msgctxt":"npcdata","msgid":"Tobren Forgewright","msgstr":"トブレン\nフォージライト"}
+{"msgctxt":"npcdata","msgid":"Tobren Rainshield","msgstr":"トブレン レインシールド"}
+{"msgctxt":"npcdata","msgid":"Todd Smailes","msgstr":"トッド スメイルス "}
+{"msgctxt":"npcdata","msgid":"Tolberti","msgstr":"トルベルティ"}
+{"msgctxt":"npcdata","msgid":"Tom Ono","msgstr":"トム オノ "}
+{"msgctxt":"npcdata","msgid":"Tom Zeliff","msgstr":"トム ゼリフ "}
+{"msgctxt":"npcdata","msgid":"Ton Agraynel","msgstr":"トン アグレイネル"}
+{"msgctxt":"npcdata","msgid":"Ton Withersmythe","msgstr":"トン ウィザースマイト"}
+{"msgctxt":"npcdata","msgid":"Tonk Blueswan","msgstr":"トンク ブルースワン"}
+{"msgctxt":"npcdata","msgid":"Tonken Fist","msgstr":"トンケン フィスト"}
+{"msgctxt":"npcdata","msgid":"Tony Evans","msgstr":"トニー エヴァンス "}
+{"msgctxt":"npcdata","msgid":"Tor Anwyn","msgstr":"トール アンウィン"}
+{"msgctxt":"npcdata","msgid":"Tor Brock","msgstr":"トール ブロック"}
+{"msgctxt":"npcdata","msgid":"Tori Goldman","msgstr":"トリ ゴールドマン"}
+{"msgctxt":"npcdata","msgid":"Torrent","msgstr":"トーレント"}
+{"msgctxt":"npcdata","msgid":"Tracy Flauta","msgstr":"トレイシー フラウタ"}
+{"msgctxt":"npcdata","msgid":"Tracy Iwata","msgstr":"トレイシー イワタ "}
+{"msgctxt":"npcdata","msgid":"Tracy Neather","msgstr":"トレイシー ネザー"}
+{"msgctxt":"npcdata","msgid":"Treblid","msgstr":"トレブリッド"}
+{"msgctxt":"npcdata","msgid":"Trent Jameson","msgstr":"トレント ジェイムソン"}
+{"msgctxt":"npcdata","msgid":"Trent Steele","msgstr":"トレント スティール"}
+{"msgctxt":"npcdata","msgid":"Trevor Jones","msgstr":"トレヴァー ジョーンズ"}
+{"msgctxt":"npcdata","msgid":"Tricia Steelcoif","msgstr":"トリシア スティールコイフ"}
+{"msgctxt":"npcdata","msgid":"Trip Thorinson","msgstr":"トリップ ソリンソン"}
+{"msgctxt":"npcdata","msgid":"Tristen Hearthsworn","msgstr":"トリスタン ハーススウォーン"}
+{"msgctxt":"npcdata","msgid":"Tristen Stillwater","msgstr":"トリスタン\nスティルウォーター"}
+{"msgctxt":"npcdata","msgid":"Troll Peasant","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Tugor Arin","msgstr":"テュゴール エイリン"}
+{"msgctxt":"npcdata","msgid":"Tugor Slicer","msgstr":"テュゴール スライサー"}
+{"msgctxt":"npcdata","msgid":"Turgon Bombah","msgstr":"ターゴン ボンバ"}
+{"msgctxt":"npcdata","msgid":"Turgon Woodsplitter","msgstr":"ターゴン ウッドスプリッター"}
+{"msgctxt":"npcdata","msgid":"Twillen","msgstr":"トゥイレン"}
+{"msgctxt":"npcdata","msgid":"Ty Cognac","msgstr":"タイ コニャック"}
+{"msgctxt":"npcdata","msgid":"Tyger Helms","msgstr":"タイガー ヘルムズ"}
+{"msgctxt":"npcdata","msgid":"Tyler Tailor","msgstr":"タイラー テイラー"}
+{"msgctxt":"npcdata","msgid":"Ulbrecht","msgstr":"ユルブレヒト"}
+{"msgctxt":"npcdata","msgid":"Ulbrecht Pederton","msgstr":"ユルブレヒト\nペデルトン"}
+{"msgctxt":"npcdata","msgid":"Ulbrecht the Brawler","msgstr":"ユルブレヒト ザ ブロウラー"}
+{"msgctxt":"npcdata","msgid":"Urok","msgstr":"ウロック"}
+{"msgctxt":"npcdata","msgid":"Ush the Many Tailed","msgstr":"アッシュ\nザ メニーテイル"}
+{"msgctxt":"npcdata","msgid":"Vance Cornelius","msgstr":"ヴァンス コーネリアス"}
+{"msgctxt":"npcdata","msgid":"Vapor","msgstr":"ヴェイパー"}
+{"msgctxt":"npcdata","msgid":"Veldon","msgstr":"ヴェルドン"}
+{"msgctxt":"npcdata","msgid":"Vera Grasslin","msgstr":"ヴェラ グラスリン"}
+{"msgctxt":"npcdata","msgid":"Verdant","msgstr":"ヴァーダント"}
+{"msgctxt":"npcdata","msgid":"Verish ","msgstr":"ヴェリッシュ"}
+{"msgctxt":"npcdata","msgid":"Vetrinus Taleshire","msgstr":"ベトリヌス\nテイルシャイア"}
+{"msgctxt":"npcdata","msgid":"Victor Hosen","msgstr":"ビクター ホーゼン"}
+{"msgctxt":"npcdata","msgid":"Vincent Albers","msgstr":"ヴィンセント アルバース"}
+{"msgctxt":"npcdata","msgid":"Violet Dawson","msgstr":"バイオレット ドーソン"}
+{"msgctxt":"npcdata","msgid":"Virgil Holiday","msgstr":"バージル ホリデイ"}
+{"msgctxt":"npcdata","msgid":"Virginia Standridge","msgstr":"ヴァージニア スタンドリッジ"}
+{"msgctxt":"npcdata","msgid":"Vish","msgstr":"ヴィッシュ"}
+{"msgctxt":"npcdata","msgid":"Volog Sandwind","msgstr":"ヴォログ\nサンドウィンド"}
+{"msgctxt":"npcdata","msgid":"Wacko","msgstr":"ワッコー"}
+{"msgctxt":"npcdata","msgid":"Wacko the Ninja","msgstr":"ワッコー ザ ニンジャ"}
+{"msgctxt":"npcdata","msgid":"Walter Hargreaves","msgstr":"ウォルター ハーグリーヴス"}
+{"msgctxt":"npcdata","msgid":"Walter Johnson","msgstr":"ウォルター ジョンソン "}
+{"msgctxt":"npcdata","msgid":"Wanda Foestryke","msgstr":"ワンダ フォーストライク"}
+{"msgctxt":"npcdata","msgid":"Wanda Lightsworn","msgstr":"ワンダ\nライトスウォーン"}
+{"msgctxt":"npcdata","msgid":"Warren Holmes","msgstr":"ウォーレン ホームズ"}
+{"msgctxt":"npcdata","msgid":"Weldrik Falconeye","msgstr":"ウェルドリック\nファルコンアイ"}
+{"msgctxt":"npcdata","msgid":"Weldrik Lotts","msgstr":"ウェルドリック ロッツ"}
+{"msgctxt":"npcdata","msgid":"Wendy Featherhill","msgstr":"ウェンディ フェザーヒル"}
+{"msgctxt":"npcdata","msgid":"Wererat Peasants","msgstr":"一般人"}
+{"msgctxt":"npcdata","msgid":"Whisper","msgstr":"ウィスパー"}
+{"msgctxt":"npcdata","msgid":"Wil Rudyman","msgstr":"ウィル ルーディマン"}
+{"msgctxt":"npcdata","msgid":"Wilbur Eversmyle","msgstr":"ウィルバー エヴァースマイル"}
+{"msgctxt":"npcdata","msgid":"Wilbur Humphrey","msgstr":"ウィルバー ハンフリー"}
+{"msgctxt":"npcdata","msgid":"Wilburt","msgstr":"ウィルバート"}
+{"msgctxt":"npcdata","msgid":"Will Ottoman","msgstr":"ウィル オットマン"}
+{"msgctxt":"npcdata","msgid":"William Darvees","msgstr":"ウィリアム ダーヴィース"}
+{"msgctxt":"npcdata","msgid":"William Lasker","msgstr":"ウィリアム ラスカー"}
+{"msgctxt":"npcdata","msgid":"William Sampson","msgstr":"ウィリアム サンプソン"}
+{"msgctxt":"npcdata","msgid":"William Setag","msgstr":"ウィリアム セタグ"}
+{"msgctxt":"npcdata","msgid":"William Smithson","msgstr":"ウィリアム スミスソン"}
+{"msgctxt":"npcdata","msgid":"William Tucker","msgstr":"ウィリアム タッカー"}
+{"msgctxt":"npcdata","msgid":"Wilma Cook","msgstr":"ウィルマ クック"}
+{"msgctxt":"npcdata","msgid":"Wilma Rothwing","msgstr":"ウィルマ ロスウィング"}
+{"msgctxt":"npcdata","msgid":"Wingsail","msgstr":"ウィングセイル"}
+{"msgctxt":"npcdata","msgid":"Winston Historian","msgstr":"ウィンストン ヒストリアン"}
+{"msgctxt":"npcdata","msgid":"Winston Schezar","msgstr":"ウィンストン シェザー"}
+{"msgctxt":"npcdata","msgid":"Wolf Armstrong","msgstr":"ウルフ アームストロング"}
+{"msgctxt":"npcdata","msgid":"Woodrow Albright","msgstr":"ウッドロー オルブライト"}
+{"msgctxt":"npcdata","msgid":"Wort Goblinreaver","msgstr":"ワート ゴブリンリーヴァー"}
+{"msgctxt":"npcdata","msgid":"Xanthor","msgstr":"ザンソア"}
+{"msgctxt":"npcdata","msgid":"Xavier Bremen","msgstr":"ザヴィエル ブレーメン"}
+{"msgctxt":"npcdata","msgid":"Xavier Havest","msgstr":"ザヴィエル\nヘイヴェスト"}
+{"msgctxt":"npcdata","msgid":"Xevius","msgstr":"ゼヴィウス"}
+{"msgctxt":"npcdata","msgid":"Yarrow","msgstr":"ヤーロー"}
+{"msgctxt":"npcdata","msgid":"Yarrow Elmsmire","msgstr":"ヤーロー エルムスマイア"}
+{"msgctxt":"npcdata","msgid":"Yarrow Keldin","msgstr":"ヤーロー ケルディン"}
+{"msgctxt":"npcdata","msgid":"Yoel Wargreen","msgstr":"ヨール ウォーグリーン"}
+{"msgctxt":"npcdata","msgid":"Your Conscience","msgstr":"良心の声"}
+{"msgctxt":"npcdata","msgid":"Yves Meeks","msgstr":"イーヴ ミークス"}
+{"msgctxt":"npcdata","msgid":"Yvonne D'arcy","msgstr":"イヴォンヌ ダーシー"}
+{"msgctxt":"npcdata","msgid":"Zanthora","msgstr":"ザンソラ"}
+{"msgctxt":"npcdata","msgid":"Zeke Magellan","msgstr":"ジーク マゼラン"}
+{"msgctxt":"npcdata","msgid":"Zelim","msgstr":"ゼリム"}
+{"msgctxt":"npcdata","msgid":"Zephyr","msgstr":"ゼファー"}
+{"msgctxt":"npcdata","msgid":"Zevah Poised","msgstr":"ゼヴァ ポイズド"}
+{"msgctxt":"npcdata","msgid":"Zodahn Delphi","msgstr":"ゾダーン デルファイ"}
+{"msgctxt":"npcdata","msgid":"Zog the Jackal","msgstr":"ゾッグ ザ ジャッカル"}
+{"msgctxt":"npcdata","msgid":"Zoltan Phelps","msgstr":"ゾルタン フェルプス"}
+{"msgctxt":"npcdata","msgid":"cleric","msgstr":"クレリック"}
+{"msgctxt":"npcdata","msgid":"darkelf","msgstr":"ダークエルフ"}
+{"msgctxt":"npcdata","msgid":"dragon","msgstr":"ドラゴン"}
+{"msgctxt":"npcdata","msgid":"knight","msgstr":"ナイト"}
+{"msgctxt":"npcdata","msgid":"minotaur","msgstr":"ミノタウロス"}
+{"msgctxt":"npcdata","msgid":"necromancer","msgstr":"ネクロマンサー"}
+{"msgctxt":"npcdata","msgid":"troll","msgstr":"トロール"}
+{"msgctxt":"npcdata","msgid":"vampire","msgstr":"ヴァンパイア"}
+{"msgctxt":"npcnames","msgid":"Aaron","msgstr":"アーロン"}
+{"msgctxt":"npcnames","msgid":"Abe","msgstr":"エイブ"}
+{"msgctxt":"npcnames","msgid":"Abel","msgstr":"アベル"}
+{"msgctxt":"npcnames","msgid":"Abellona","msgstr":"アベロナ"}
+{"msgctxt":"npcnames","msgid":"Abigail","msgstr":"アビガイル"}
+{"msgctxt":"npcnames","msgid":"Acacia","msgstr":"アカシア"}
+{"msgctxt":"npcnames","msgid":"Adalgisa","msgstr":"アダルジサ"}
+{"msgctxt":"npcnames","msgid":"Adam","msgstr":"アダム"}
+{"msgctxt":"npcnames","msgid":"Adrian","msgstr":"エードリアン"}
+{"msgctxt":"npcnames","msgid":"Adrienne","msgstr":"エイドリアン"}
+{"msgctxt":"npcnames","msgid":"Adrrienne","msgstr":"エイドリアン"}
+{"msgctxt":"npcnames","msgid":"Ahmed","msgstr":"アーメド"}
+{"msgctxt":"npcnames","msgid":"Aisilinn","msgstr":"アイシリン"}
+{"msgctxt":"npcnames","msgid":"Akio","msgstr":"アキオ"}
+{"msgctxt":"npcnames","msgid":"Akira","msgstr":"アキラ"}
+{"msgctxt":"npcnames","msgid":"Al","msgstr":"アル"}
+{"msgctxt":"npcnames","msgid":"Alain","msgstr":"アレイン"}
+{"msgctxt":"npcnames","msgid":"Alaine","msgstr":"アレイン"}
+{"msgctxt":"npcnames","msgid":"Alan","msgstr":"アラン"}
+{"msgctxt":"npcnames","msgid":"Albert","msgstr":"アルバート"}
+{"msgctxt":"npcnames","msgid":"Alec","msgstr":"アレク"}
+{"msgctxt":"npcnames","msgid":"Alejandro","msgstr":"アレジャンドロ"}
+{"msgctxt":"npcnames","msgid":"Alemada","msgstr":"アレマダ"}
+{"msgctxt":"npcnames","msgid":"Alethea","msgstr":"アレシー"}
+{"msgctxt":"npcnames","msgid":"Aleton","msgstr":"エールトン"}
+{"msgctxt":"npcnames","msgid":"Alexander","msgstr":"アレクサンダー"}
+{"msgctxt":"npcnames","msgid":"Alexandra","msgstr":"アレクサンドラ"}
+{"msgctxt":"npcnames","msgid":"Alfred","msgstr":"アルフレッド"}
+{"msgctxt":"npcnames","msgid":"Alice","msgstr":"アリス"}
+{"msgctxt":"npcnames","msgid":"Allison","msgstr":"アリソン"}
+{"msgctxt":"npcnames","msgid":"Alton","msgstr":"アルトン"}
+{"msgctxt":"npcnames","msgid":"Altred","msgstr":"アルトレッド"}
+{"msgctxt":"npcnames","msgid":"Alvin","msgstr":"アルヴァン"}
+{"msgctxt":"npcnames","msgid":"Amadrea","msgstr":"アマドリア"}
+{"msgctxt":"npcnames","msgid":"Amanda","msgstr":"アマンダ"}
+{"msgctxt":"npcnames","msgid":"Amber","msgstr":"アンバー"}
+{"msgctxt":"npcnames","msgid":"Ambrose","msgstr":"アンブローズ"}
+{"msgctxt":"npcnames","msgid":"Amelia","msgstr":"アメリア"}
+{"msgctxt":"npcnames","msgid":"Amos","msgstr":"アモス"}
+{"msgctxt":"npcnames","msgid":"Amy","msgstr":"エイミー"}
+{"msgctxt":"npcnames","msgid":"Andrea","msgstr":"アンドレア"}
+{"msgctxt":"npcnames","msgid":"Andrew","msgstr":"アンドリュー"}
+{"msgctxt":"npcnames","msgid":"Andy","msgstr":"アンディ"}
+{"msgctxt":"npcnames","msgid":"Angeama","msgstr":"アンジーマ"}
+{"msgctxt":"npcnames","msgid":"Angebria","msgstr":"アンジェブリア"}
+{"msgctxt":"npcnames","msgid":"Angela","msgstr":"アンジェラ"}
+{"msgctxt":"npcnames","msgid":"Angie","msgstr":"アンジー"}
+{"msgctxt":"npcnames","msgid":"Anita","msgstr":"アニタ"}
+{"msgctxt":"npcnames","msgid":"Ann","msgstr":"アン"}
+{"msgctxt":"npcnames","msgid":"Anna","msgstr":"アンナ"}
+{"msgctxt":"npcnames","msgid":"Annaju","msgstr":"アナージュ"}
+{"msgctxt":"npcnames","msgid":"Anthony","msgstr":"アンソニー"}
+{"msgctxt":"npcnames","msgid":"Anton","msgstr":"アントン"}
+{"msgctxt":"npcnames","msgid":"April","msgstr":"エイプリル"}
+{"msgctxt":"npcnames","msgid":"Arby","msgstr":"アービー"}
+{"msgctxt":"npcnames","msgid":"Arda","msgstr":"アルダ"}
+{"msgctxt":"npcnames","msgid":"Arden","msgstr":"アーデン"}
+{"msgctxt":"npcnames","msgid":"Ariasti","msgstr":"アリアスティ"}
+{"msgctxt":"npcnames","msgid":"Ariel","msgstr":"エアリエル"}
+{"msgctxt":"npcnames","msgid":"Aristeo","msgstr":"アリステオ"}
+{"msgctxt":"npcnames","msgid":"Aristidis","msgstr":"アリステイデス"}
+{"msgctxt":"npcnames","msgid":"Arlen","msgstr":"アーレン"}
+{"msgctxt":"npcnames","msgid":"Arlo","msgstr":"アルロ"}
+{"msgctxt":"npcnames","msgid":"Armand ","msgstr":"アマンド"}
+{"msgctxt":"npcnames","msgid":"Arnie","msgstr":"アーニー"}
+{"msgctxt":"npcnames","msgid":"Arnold","msgstr":"アーノルド"}
+{"msgctxt":"npcnames","msgid":"Arthur","msgstr":"アーサー"}
+{"msgctxt":"npcnames","msgid":"Aryeh","msgstr":"アリヤー"}
+{"msgctxt":"npcnames","msgid":"Ash","msgstr":"アッシュ"}
+{"msgctxt":"npcnames","msgid":"Ashburn","msgstr":"アッシュバーン"}
+{"msgctxt":"npcnames","msgid":"Ashton","msgstr":"アシュトン"}
+{"msgctxt":"npcnames","msgid":"Austin","msgstr":"オースティン"}
+{"msgctxt":"npcnames","msgid":"Aylin","msgstr":"エイリン"}
+{"msgctxt":"npcnames","msgid":"Baimaria","msgstr":"ベイマリア"}
+{"msgctxt":"npcnames","msgid":"Barbara","msgstr":"バーバラ"}
+{"msgctxt":"npcnames","msgid":"Barett","msgstr":"バレット"}
+{"msgctxt":"npcnames","msgid":"Barney","msgstr":"バーニー"}
+{"msgctxt":"npcnames","msgid":"Bart","msgstr":"バート"}
+{"msgctxt":"npcnames","msgid":"Basher","msgstr":"バッシャー"}
+{"msgctxt":"npcnames","msgid":"Basilia","msgstr":"バシリア"}
+{"msgctxt":"npcnames","msgid":"Beatrice","msgstr":"ベアトリス"}
+{"msgctxt":"npcnames","msgid":"Beauregard","msgstr":"ボーレガード"}
+{"msgctxt":"npcnames","msgid":"Becky","msgstr":"ベッキー"}
+{"msgctxt":"npcnames","msgid":"Belinda ","msgstr":"ベリンダ"}
+{"msgctxt":"npcnames","msgid":"Ben","msgstr":"ベン"}
+{"msgctxt":"npcnames","msgid":"Benedict","msgstr":"ベネディクト"}
+{"msgctxt":"npcnames","msgid":"Benedicta","msgstr":"ベネディクタ"}
+{"msgctxt":"npcnames","msgid":"Benito","msgstr":"ベニト"}
+{"msgctxt":"npcnames","msgid":"Benjamin","msgstr":"ベンジャミン"}
+{"msgctxt":"npcnames","msgid":"Bennett","msgstr":"ベネット"}
+{"msgctxt":"npcnames","msgid":"Benny","msgstr":"ベニー"}
+{"msgctxt":"npcnames","msgid":"Benoit","msgstr":"ブノワ"}
+{"msgctxt":"npcnames","msgid":"Beren","msgstr":"ベレン"}
+{"msgctxt":"npcnames","msgid":"Bernadette","msgstr":"ベルナデット"}
+{"msgctxt":"npcnames","msgid":"Bernard","msgstr":"バーナード"}
+{"msgctxt":"npcnames","msgid":"Bernice","msgstr":"バーニス"}
+{"msgctxt":"npcnames","msgid":"Bert","msgstr":"バート"}
+{"msgctxt":"npcnames","msgid":"Bertrand","msgstr":"バートランド"}
+{"msgctxt":"npcnames","msgid":"Beth","msgstr":"ベス"}
+{"msgctxt":"npcnames","msgid":"Betsy","msgstr":"ベッツィ"}
+{"msgctxt":"npcnames","msgid":"Betty","msgstr":"ベティ"}
+{"msgctxt":"npcnames","msgid":"Beverly","msgstr":"ビバリー"}
+{"msgctxt":"npcnames","msgid":"Billie","msgstr":"ビリー"}
+{"msgctxt":"npcnames","msgid":"Billy","msgstr":"ビリー"}
+{"msgctxt":"npcnames","msgid":"Bishop","msgstr":"ビショップ"}
+{"msgctxt":"npcnames","msgid":"Blaine","msgstr":"ブレーン"}
+{"msgctxt":"npcnames","msgid":"Blajake","msgstr":"ブラジェイク"}
+{"msgctxt":"npcnames","msgid":"Blajuan","msgstr":"ブラジュアン"}
+{"msgctxt":"npcnames","msgid":"Blake","msgstr":"ブレイク"}
+{"msgctxt":"npcnames","msgid":"Blondeau","msgstr":"ブロンドー"}
+{"msgctxt":"npcnames","msgid":"Bo","msgstr":"ボーレガード"}
+{"msgctxt":"npcnames","msgid":"Bob","msgstr":"ボブ"}
+{"msgctxt":"npcnames","msgid":"Bobby","msgstr":"ボビー"}
+{"msgctxt":"npcnames","msgid":"Bodo","msgstr":"ボードー"}
+{"msgctxt":"npcnames","msgid":"Bonnie","msgstr":"ボニー"}
+{"msgctxt":"npcnames","msgid":"Boris","msgstr":"ボリス"}
+{"msgctxt":"npcnames","msgid":"Brad","msgstr":"ブラッド"}
+{"msgctxt":"npcnames","msgid":"Braden","msgstr":"ブレードン"}
+{"msgctxt":"npcnames","msgid":"Bradford","msgstr":"ブラッドフォード"}
+{"msgctxt":"npcnames","msgid":"Bradley","msgstr":"ブラッドリー"}
+{"msgctxt":"npcnames","msgid":"Brain","msgstr":"ブレイン"}
+{"msgctxt":"npcnames","msgid":"Brale","msgstr":"ブレール"}
+{"msgctxt":"npcnames","msgid":"Brandon","msgstr":"ブランドン"}
+{"msgctxt":"npcnames","msgid":"Breed","msgstr":"ブリード"}
+{"msgctxt":"npcnames","msgid":"Brenda","msgstr":"ブレンダ"}
+{"msgctxt":"npcnames","msgid":"Brendon","msgstr":"ブレンドン"}
+{"msgctxt":"npcnames","msgid":"Brent","msgstr":"ブレント"}
+{"msgctxt":"npcnames","msgid":"Brett","msgstr":"ブレット"}
+{"msgctxt":"npcnames","msgid":"Brida","msgstr":"ブリダ"}
+{"msgctxt":"npcnames","msgid":"Brierly","msgstr":"ブライアリー"}
+{"msgctxt":"npcnames","msgid":"Bronwyn","msgstr":"ブロンウィン"}
+{"msgctxt":"npcnames","msgid":"Bronwynn","msgstr":"ブロンウィン"}
+{"msgctxt":"npcnames","msgid":"Brook","msgstr":"ブルック"}
+{"msgctxt":"npcnames","msgid":"Bruce","msgstr":"ブルース"}
+{"msgctxt":"npcnames","msgid":"Bruno","msgstr":"ブルーノ"}
+{"msgctxt":"npcnames","msgid":"Bryce","msgstr":"ブライス"}
+{"msgctxt":"npcnames","msgid":"Bud","msgstr":"ブッド"}
+{"msgctxt":"npcnames","msgid":"Buford","msgstr":"ブフォード"}
+{"msgctxt":"npcnames","msgid":"Burton","msgstr":"バートン"}
+{"msgctxt":"npcnames","msgid":"Butch","msgstr":"ブッチ"}
+{"msgctxt":"npcnames","msgid":"Byire","msgstr":"バイアー"}
+{"msgctxt":"npcnames","msgid":"Byron","msgstr":"バイロン"}
+{"msgctxt":"npcnames","msgid":"Caao","msgstr":"カーオ"}
+{"msgctxt":"npcnames","msgid":"Cal","msgstr":"カル"}
+{"msgctxt":"npcnames","msgid":"Calandra","msgstr":"カランドラ"}
+{"msgctxt":"npcnames","msgid":"Caleb","msgstr":"カレブ"}
+{"msgctxt":"npcnames","msgid":"Callista","msgstr":"キャリスタ"}
+{"msgctxt":"npcnames","msgid":"Callo","msgstr":"カロ"}
+{"msgctxt":"npcnames","msgid":"Calvin","msgstr":"カルビン"}
+{"msgctxt":"npcnames","msgid":"Cameron","msgstr":"キャメロン"}
+{"msgctxt":"npcnames","msgid":"Candace","msgstr":"キャンダス"}
+{"msgctxt":"npcnames","msgid":"Carissa","msgstr":"カリッサ"}
+{"msgctxt":"npcnames","msgid":"Carl","msgstr":"カール"}
+{"msgctxt":"npcnames","msgid":"Carlo","msgstr":"カルロ"}
+{"msgctxt":"npcnames","msgid":"Carlos","msgstr":"カルロス"}
+{"msgctxt":"npcnames","msgid":"Carly ","msgstr":"カーリー"}
+{"msgctxt":"npcnames","msgid":"Carmen","msgstr":"カルメン"}
+{"msgctxt":"npcnames","msgid":"Carol","msgstr":"キャロル"}
+{"msgctxt":"npcnames","msgid":"Carolann","msgstr":"キャロラン"}
+{"msgctxt":"npcnames","msgid":"Carolyn","msgstr":"キャロリン"}
+{"msgctxt":"npcnames","msgid":"Carrie","msgstr":"キャリー"}
+{"msgctxt":"npcnames","msgid":"Carrion","msgstr":"カリオン"}
+{"msgctxt":"npcnames","msgid":"Carter","msgstr":"カーター"}
+{"msgctxt":"npcnames","msgid":"Cary","msgstr":"ケアリー"}
+{"msgctxt":"npcnames","msgid":"Casey","msgstr":"ケーシー"}
+{"msgctxt":"npcnames","msgid":"Cassandra","msgstr":"カサンドラ"}
+{"msgctxt":"npcnames","msgid":"Cassandraree","msgstr":"カサンドラリー"}
+{"msgctxt":"npcnames","msgid":"Catherine","msgstr":"キャサリン"}
+{"msgctxt":"npcnames","msgid":"Cathy","msgstr":"キャシー"}
+{"msgctxt":"npcnames","msgid":"Cavein","msgstr":"ケイヴィン"}
+{"msgctxt":"npcnames","msgid":"Cecil","msgstr":"セシル"}
+{"msgctxt":"npcnames","msgid":"Ceclia ","msgstr":"セシリア"}
+{"msgctxt":"npcnames","msgid":"Cedric","msgstr":"セドリック"}
+{"msgctxt":"npcnames","msgid":"Celeste","msgstr":"セレステ"}
+{"msgctxt":"npcnames","msgid":"Cesar","msgstr":"セザール"}
+{"msgctxt":"npcnames","msgid":"Cewe","msgstr":"チェウェ"}
+{"msgctxt":"npcnames","msgid":"Chad","msgstr":"チャド"}
+{"msgctxt":"npcnames","msgid":"Chandra","msgstr":"チャンドラ"}
+{"msgctxt":"npcnames","msgid":"Charles","msgstr":"チャールズ"}
+{"msgctxt":"npcnames","msgid":"Charlie","msgstr":"チャーリー"}
+{"msgctxt":"npcnames","msgid":"Chaseleon","msgstr":"チェースレオン"}
+{"msgctxt":"npcnames","msgid":"Cheryl","msgstr":"シェリル"}
+{"msgctxt":"npcnames","msgid":"Chester","msgstr":"チェスター"}
+{"msgctxt":"npcnames","msgid":"Chet","msgstr":"チェット"}
+{"msgctxt":"npcnames","msgid":"Cheyelerie","msgstr":"チェイルリー"}
+{"msgctxt":"npcnames","msgid":"Chip","msgstr":"チップ"}
+{"msgctxt":"npcnames","msgid":"Chris","msgstr":"クリス"}
+{"msgctxt":"npcnames","msgid":"Christa","msgstr":"クリスタ"}
+{"msgctxt":"npcnames","msgid":"Christine","msgstr":"クリスティーン"}
+{"msgctxt":"npcnames","msgid":"Christopher","msgstr":"クリストファー"}
+{"msgctxt":"npcnames","msgid":"Chuck","msgstr":"チャック"}
+{"msgctxt":"npcnames","msgid":"Cian","msgstr":"キアン"}
+{"msgctxt":"npcnames","msgid":"Cindy","msgstr":"シンディ"}
+{"msgctxt":"npcnames","msgid":"Claire","msgstr":"クレア"}
+{"msgctxt":"npcnames","msgid":"Clarence","msgstr":"クラレンス"}
+{"msgctxt":"npcnames","msgid":"Clark","msgstr":"クラーク"}
+{"msgctxt":"npcnames","msgid":"Clay","msgstr":"クレイ"}
+{"msgctxt":"npcnames","msgid":"Clifford","msgstr":"クリフォード"}
+{"msgctxt":"npcnames","msgid":"Clyde","msgstr":"クライド"}
+{"msgctxt":"npcnames","msgid":"Cody","msgstr":"コーディ"}
+{"msgctxt":"npcnames","msgid":"Colin","msgstr":"コリン"}
+{"msgctxt":"npcnames","msgid":"Connie","msgstr":"コニー"}
+{"msgctxt":"npcnames","msgid":"Connor","msgstr":"コナー"}
+{"msgctxt":"npcnames","msgid":"Conrad","msgstr":"コンラッド"}
+{"msgctxt":"npcnames","msgid":"Constance","msgstr":"コンスタンス"}
+{"msgctxt":"npcnames","msgid":"Constantin","msgstr":"コンスタンチン"}
+{"msgctxt":"npcnames","msgid":"Cora","msgstr":"コーラ"}
+{"msgctxt":"npcnames","msgid":"Corbet","msgstr":"コーベット"}
+{"msgctxt":"npcnames","msgid":"Cord","msgstr":"コード"}
+{"msgctxt":"npcnames","msgid":"Corey","msgstr":"コーリー"}
+{"msgctxt":"npcnames","msgid":"Coreywyn","msgstr":"コーリーウィン"}
+{"msgctxt":"npcnames","msgid":"Cornelia","msgstr":"コーネリア"}
+{"msgctxt":"npcnames","msgid":"Cornelius","msgstr":"コーネリアス"}
+{"msgctxt":"npcnames","msgid":"Cory","msgstr":"コリー"}
+{"msgctxt":"npcnames","msgid":"Couisa","msgstr":"クイーザ"}
+{"msgctxt":"npcnames","msgid":"Craig","msgstr":"クレイグ"}
+{"msgctxt":"npcnames","msgid":"Cyndy","msgstr":"シンディ"}
+{"msgctxt":"npcnames","msgid":"Cynthia","msgstr":"シンシア"}
+{"msgctxt":"npcnames","msgid":"Cyrus","msgstr":"サイラス"}
+{"msgctxt":"npcnames","msgid":"Daale","msgstr":"ダール"}
+{"msgctxt":"npcnames","msgid":"Daet","msgstr":"ダーエイト"}
+{"msgctxt":"npcnames","msgid":"Daiyve","msgstr":"デイイーヴ"}
+{"msgctxt":"npcnames","msgid":"Dal","msgstr":"ダル"}
+{"msgctxt":"npcnames","msgid":"Dale","msgstr":"デイル"}
+{"msgctxt":"npcnames","msgid":"Dalilia","msgstr":"ダリリア"}
+{"msgctxt":"npcnames","msgid":"Dallas","msgstr":"ダラス"}
+{"msgctxt":"npcnames","msgid":"Dalo","msgstr":"ダロ"}
+{"msgctxt":"npcnames","msgid":"Damaris","msgstr":"ダマリス"}
+{"msgctxt":"npcnames","msgid":"Damien","msgstr":"ダミアン"}
+{"msgctxt":"npcnames","msgid":"Damitia","msgstr":"ダミティア"}
+{"msgctxt":"npcnames","msgid":"Dan","msgstr":"ダン"}
+{"msgctxt":"npcnames","msgid":"Dana","msgstr":"ダナ"}
+{"msgctxt":"npcnames","msgid":"Danelis","msgstr":"デーンリス"}
+{"msgctxt":"npcnames","msgid":"Daniel","msgstr":"ダニエル"}
+{"msgctxt":"npcnames","msgid":"Danny","msgstr":"ダニー"}
+{"msgctxt":"npcnames","msgid":"Dante","msgstr":"ダンテ"}
+{"msgctxt":"npcnames","msgid":"Daphne","msgstr":"ダフネ"}
+{"msgctxt":"npcnames","msgid":"Dara","msgstr":"ダーラ"}
+{"msgctxt":"npcnames","msgid":"Darcy","msgstr":"ダーシー"}
+{"msgctxt":"npcnames","msgid":"Darina","msgstr":"ダリナ"}
+{"msgctxt":"npcnames","msgid":"Darlene","msgstr":"ダーリーン"}
+{"msgctxt":"npcnames","msgid":"Daron","msgstr":"ダロン"}
+{"msgctxt":"npcnames","msgid":"Dave","msgstr":"デイブ"}
+{"msgctxt":"npcnames","msgid":"Davey","msgstr":"デイヴィー"}
+{"msgctxt":"npcnames","msgid":"David","msgstr":"ダビデ"}
+{"msgctxt":"npcnames","msgid":"Dawn","msgstr":"ドーン"}
+{"msgctxt":"npcnames","msgid":"Deane","msgstr":"ディーン"}
+{"msgctxt":"npcnames","msgid":"Deanna","msgstr":"ディアナ"}
+{"msgctxt":"npcnames","msgid":"Debbie","msgstr":"デビー"}
+{"msgctxt":"npcnames","msgid":"Deborah","msgstr":"デボラ"}
+{"msgctxt":"npcnames","msgid":"Debrie","msgstr":"デブリー"}
+{"msgctxt":"npcnames","msgid":"Deed","msgstr":"ディード"}
+{"msgctxt":"npcnames","msgid":"Del","msgstr":"デル"}
+{"msgctxt":"npcnames","msgid":"Deloris ","msgstr":"デロリス"}
+{"msgctxt":"npcnames","msgid":"Delphine","msgstr":"デルフィーン"}
+{"msgctxt":"npcnames","msgid":"Demetria","msgstr":"デメトリア"}
+{"msgctxt":"npcnames","msgid":"Denise","msgstr":"デニース"}
+{"msgctxt":"npcnames","msgid":"Dennis","msgstr":"デニス"}
+{"msgctxt":"npcnames","msgid":"Denny","msgstr":"デニー"}
+{"msgctxt":"npcnames","msgid":"Deolinda","msgstr":"デオリンダ"}
+{"msgctxt":"npcnames","msgid":"Derek","msgstr":"デレク"}
+{"msgctxt":"npcnames","msgid":"Desmond","msgstr":"デズモンド"}
+{"msgctxt":"npcnames","msgid":"Devon","msgstr":"デヴォン"}
+{"msgctxt":"npcnames","msgid":"Dextra","msgstr":"デクストラ"}
+{"msgctxt":"npcnames","msgid":"Dialia","msgstr":"ダイアリア"}
+{"msgctxt":"npcnames","msgid":"Diana","msgstr":"ダイアナ"}
+{"msgctxt":"npcnames","msgid":"Diane","msgstr":"ダイアン"}
+{"msgctxt":"npcnames","msgid":"Diari","msgstr":"ダイアリア"}
+{"msgctxt":"npcnames","msgid":"Dieter","msgstr":"ディーター"}
+{"msgctxt":"npcnames","msgid":"Dimona","msgstr":"ディモーナ"}
+{"msgctxt":"npcnames","msgid":"Doc","msgstr":"ドック"}
+{"msgctxt":"npcnames","msgid":"Dodridge","msgstr":"ドッドリッジ"}
+{"msgctxt":"npcnames","msgid":"Dolores","msgstr":"ドロレス"}
+{"msgctxt":"npcnames","msgid":"Dolph","msgstr":"ドルフ"}
+{"msgctxt":"npcnames","msgid":"Domade","msgstr":"ドメイド"}
+{"msgctxt":"npcnames","msgid":"Dominic","msgstr":"ドミニク"}
+{"msgctxt":"npcnames","msgid":"Dominique","msgstr":"ドミニク"}
+{"msgctxt":"npcnames","msgid":"Don","msgstr":"ドン"}
+{"msgctxt":"npcnames","msgid":"Donald","msgstr":"ドナルド"}
+{"msgctxt":"npcnames","msgid":"Donie","msgstr":"ドニー"}
+{"msgctxt":"npcnames","msgid":"Donna","msgstr":"ドナ"}
+{"msgctxt":"npcnames","msgid":"Doreen","msgstr":"ドリーン"}
+{"msgctxt":"npcnames","msgid":"Doris","msgstr":"ドリス"}
+{"msgctxt":"npcnames","msgid":"Dorothy","msgstr":"ドロシー"}
+{"msgctxt":"npcnames","msgid":"Douglas","msgstr":"ダグラス"}
+{"msgctxt":"npcnames","msgid":"Drew","msgstr":"ドルー"}
+{"msgctxt":"npcnames","msgid":"Dseyria","msgstr":"ドゼイリア"}
+{"msgctxt":"npcnames","msgid":"Duke","msgstr":"デューク"}
+{"msgctxt":"npcnames","msgid":"Duncan","msgstr":"ダンカン"}
+{"msgctxt":"npcnames","msgid":"Dunerider","msgstr":"デューンライダー"}
+{"msgctxt":"npcnames","msgid":"Dust","msgstr":"ダスト"}
+{"msgctxt":"npcnames","msgid":"Dustin","msgstr":"ダスティン"}
+{"msgctxt":"npcnames","msgid":"Dwane","msgstr":"ドウェイン"}
+{"msgctxt":"npcnames","msgid":"Dwight","msgstr":"ドワイト"}
+{"msgctxt":"npcnames","msgid":"Dylan","msgstr":"ディラン"}
+{"msgctxt":"npcnames","msgid":"Dylanna","msgstr":"ディラナ"}
+{"msgctxt":"npcnames","msgid":"Earl","msgstr":"アール"}
+{"msgctxt":"npcnames","msgid":"Ebony","msgstr":"エボニー"}
+{"msgctxt":"npcnames","msgid":"Ed","msgstr":"エド"}
+{"msgctxt":"npcnames","msgid":"Eddie","msgstr":"エディー"}
+{"msgctxt":"npcnames","msgid":"Edelmira","msgstr":"エーデルミラ"}
+{"msgctxt":"npcnames","msgid":"Edgar","msgstr":"エドガー"}
+{"msgctxt":"npcnames","msgid":"Edison","msgstr":"エジソン"}
+{"msgctxt":"npcnames","msgid":"Edith","msgstr":"イーディス"}
+{"msgctxt":"npcnames","msgid":"Edmond","msgstr":"エドモンド"}
+{"msgctxt":"npcnames","msgid":"Edna","msgstr":"エドナ"}
+{"msgctxt":"npcnames","msgid":"Egelinna","msgstr":"エイジェリナ"}
+{"msgctxt":"npcnames","msgid":"Eileen","msgstr":"アイリーン"}
+{"msgctxt":"npcnames","msgid":"Elaine","msgstr":"エレイン"}
+{"msgctxt":"npcnames","msgid":"Eleanor","msgstr":"エレノア"}
+{"msgctxt":"npcnames","msgid":"Electra","msgstr":"エレクトラ"}
+{"msgctxt":"npcnames","msgid":"Elijah","msgstr":"エリヤ"}
+{"msgctxt":"npcnames","msgid":"Elizabeth","msgstr":"エリザベス"}
+{"msgctxt":"npcnames","msgid":"Ella","msgstr":"エラ"}
+{"msgctxt":"npcnames","msgid":"Ellen","msgstr":"エレン"}
+{"msgctxt":"npcnames","msgid":"Elliott","msgstr":"エリオット"}
+{"msgctxt":"npcnames","msgid":"Elmwater","msgstr":"エルムウォーター"}
+{"msgctxt":"npcnames","msgid":"Elsie","msgstr":"エルシー"}
+{"msgctxt":"npcnames","msgid":"Elton","msgstr":"エルトン"}
+{"msgctxt":"npcnames","msgid":"Elyssa","msgstr":"エリッサ"}
+{"msgctxt":"npcnames","msgid":"Emeline","msgstr":"エメリン"}
+{"msgctxt":"npcnames","msgid":"Emil","msgstr":"エミール"}
+{"msgctxt":"npcnames","msgid":"Emma","msgstr":"エマ"}
+{"msgctxt":"npcnames","msgid":"Emmanuel","msgstr":"エマニュエル"}
+{"msgctxt":"npcnames","msgid":"Emmett","msgstr":"エメット"}
+{"msgctxt":"npcnames","msgid":"Enoch","msgstr":"エノク"}
+{"msgctxt":"npcnames","msgid":"Eric","msgstr":"エリック"}
+{"msgctxt":"npcnames","msgid":"Erin","msgstr":"エリン"}
+{"msgctxt":"npcnames","msgid":"Ernest","msgstr":"アーネスト"}
+{"msgctxt":"npcnames","msgid":"Ernie","msgstr":"アーニー"}
+{"msgctxt":"npcnames","msgid":"Errol","msgstr":"エロル"}
+{"msgctxt":"npcnames","msgid":"Ervin","msgstr":"アーヴィン"}
+{"msgctxt":"npcnames","msgid":"Ethan","msgstr":"イーサン"}
+{"msgctxt":"npcnames","msgid":"Ethel","msgstr":"エセル"}
+{"msgctxt":"npcnames","msgid":"Eton","msgstr":"イートン"}
+{"msgctxt":"npcnames","msgid":"Eudocia","msgstr":"ユードウシャ"}
+{"msgctxt":"npcnames","msgid":"Eugene","msgstr":"ユージン"}
+{"msgctxt":"npcnames","msgid":"Eva","msgstr":"エヴァ"}
+{"msgctxt":"npcnames","msgid":"Evan","msgstr":"エヴァン"}
+{"msgctxt":"npcnames","msgid":"Evelyn","msgstr":"イブリン"}
+{"msgctxt":"npcnames","msgid":"Fabian","msgstr":"フェビアン"}
+{"msgctxt":"npcnames","msgid":"Faith","msgstr":"フェイス"}
+{"msgctxt":"npcnames","msgid":"Farrell","msgstr":"ファレル"}
+{"msgctxt":"npcnames","msgid":"Felicia","msgstr":"フェリシア"}
+{"msgctxt":"npcnames","msgid":"Felix","msgstr":"フェリックス"}
+{"msgctxt":"npcnames","msgid":"Ferdinand","msgstr":"フェルディナント"}
+{"msgctxt":"npcnames","msgid":"Fiammetta","msgstr":"フィアメッタ"}
+{"msgctxt":"npcnames","msgid":"Fiosama","msgstr":"フィオサーマ"}
+{"msgctxt":"npcnames","msgid":"Fletcher","msgstr":"フレッチャー"}
+{"msgctxt":"npcnames","msgid":"Flonah","msgstr":"フロナー"}
+{"msgctxt":"npcnames","msgid":"Florence","msgstr":"フローレンス"}
+{"msgctxt":"npcnames","msgid":"Flossie","msgstr":"フロッシー"}
+{"msgctxt":"npcnames","msgid":"Floyd","msgstr":"フロイド"}
+{"msgctxt":"npcnames","msgid":"Forrest","msgstr":"フォレスト"}
+{"msgctxt":"npcnames","msgid":"Forsythia","msgstr":"フォーシシア"}
+{"msgctxt":"npcnames","msgid":"Fralie","msgstr":"フレイリー"}
+{"msgctxt":"npcnames","msgid":"Francesca","msgstr":"フランチェスカ"}
+{"msgctxt":"npcnames","msgid":"Francisco","msgstr":"フランシスコ"}
+{"msgctxt":"npcnames","msgid":"Frank","msgstr":"フランク"}
+{"msgctxt":"npcnames","msgid":"Franklin","msgstr":"フランクリン"}
+{"msgctxt":"npcnames","msgid":"Franz","msgstr":"フランツ"}
+{"msgctxt":"npcnames","msgid":"Fred","msgstr":"フレッド"}
+{"msgctxt":"npcnames","msgid":"Frederick","msgstr":"フレデリック"}
+{"msgctxt":"npcnames","msgid":"Freya","msgstr":"フレイア"}
+{"msgctxt":"npcnames","msgid":"Gabe","msgstr":"ゲイブ"}
+{"msgctxt":"npcnames","msgid":"Gabriel","msgstr":"ガブリエル"}
+{"msgctxt":"npcnames","msgid":"Gaetano","msgstr":"ガエタノ"}
+{"msgctxt":"npcnames","msgid":"Gail","msgstr":"ゲイル"}
+{"msgctxt":"npcnames","msgid":"Gaivan","msgstr":"ゲイヴァン"}
+{"msgctxt":"npcnames","msgid":"Ganah","msgstr":"ガナー"}
+{"msgctxt":"npcnames","msgid":"Garett","msgstr":"ガレット"}
+{"msgctxt":"npcnames","msgid":"Gary ","msgstr":"ゲイリー"}
+{"msgctxt":"npcnames","msgid":"Ged","msgstr":"ゲド"}
+{"msgctxt":"npcnames","msgid":"Gelsominia","msgstr":"ゲルソミニア"}
+{"msgctxt":"npcnames","msgid":"Gemah","msgstr":"ジェマー"}
+{"msgctxt":"npcnames","msgid":"Geme","msgstr":"ジーム"}
+{"msgctxt":"npcnames","msgid":"Genikki","msgstr":"ジェニッキ"}
+{"msgctxt":"npcnames","msgid":"Geoffrey","msgstr":"ジェフリー"}
+{"msgctxt":"npcnames","msgid":"George","msgstr":"ジョージ"}
+{"msgctxt":"npcnames","msgid":"Georgina","msgstr":"ジョージーナ"}
+{"msgctxt":"npcnames","msgid":"Gerald","msgstr":"ジェラルド"}
+{"msgctxt":"npcnames","msgid":"Geraldine","msgstr":"ジェラルディン"}
+{"msgctxt":"npcnames","msgid":"Gerry","msgstr":"ゲリー"}
+{"msgctxt":"npcnames","msgid":"Gertrude","msgstr":"ガートルード"}
+{"msgctxt":"npcnames","msgid":"Gilbert","msgstr":"ギルバート"}
+{"msgctxt":"npcnames","msgid":"Gillian","msgstr":"ジリアン"}
+{"msgctxt":"npcnames","msgid":"Gilmore","msgstr":"ギルモア"}
+{"msgctxt":"npcnames","msgid":"Gina","msgstr":"ジーナ"}
+{"msgctxt":"npcnames","msgid":"Ginger","msgstr":"ジンジャー"}
+{"msgctxt":"npcnames","msgid":"Ginny","msgstr":"ジニー"}
+{"msgctxt":"npcnames","msgid":"Gino","msgstr":"ジーノ"}
+{"msgctxt":"npcnames","msgid":"Glenda","msgstr":"グレンダ"}
+{"msgctxt":"npcnames","msgid":"Glenn","msgstr":"グレン"}
+{"msgctxt":"npcnames","msgid":"Gloria","msgstr":"グロリア"}
+{"msgctxt":"npcnames","msgid":"Glynis","msgstr":"グリニス"}
+{"msgctxt":"npcnames","msgid":"Gobra","msgstr":"ゴブラ"}
+{"msgctxt":"npcnames","msgid":"Gonzalo","msgstr":"ゴンザロー"}
+{"msgctxt":"npcnames","msgid":"Gordon","msgstr":"ゴードン"}
+{"msgctxt":"npcnames","msgid":"Graham","msgstr":"グレアム"}
+{"msgctxt":"npcnames","msgid":"Grant","msgstr":"グラント"}
+{"msgctxt":"npcnames","msgid":"Greg","msgstr":"グレッグ"}
+{"msgctxt":"npcnames","msgid":"Gregory","msgstr":"グレゴリー"}
+{"msgctxt":"npcnames","msgid":"Gretchen","msgstr":"グレッチェン"}
+{"msgctxt":"npcnames","msgid":"Grey","msgstr":"グレイ"}
+{"msgctxt":"npcnames","msgid":"Guillerno","msgstr":"ギラーノ"}
+{"msgctxt":"npcnames","msgid":"Gus","msgstr":"ガス"}
+{"msgctxt":"npcnames","msgid":"Guy","msgstr":"ガイ"}
+{"msgctxt":"npcnames","msgid":"Gwenda","msgstr":"グウェンダ"}
+{"msgctxt":"npcnames","msgid":"Gwendolyn","msgstr":"グウェンドリン"}
+{"msgctxt":"npcnames","msgid":"Gwenn","msgstr":"グウェン"}
+{"msgctxt":"npcnames","msgid":"Hal","msgstr":"ハル"}
+{"msgctxt":"npcnames","msgid":"Haleyther","msgstr":"ヘイリザー"}
+{"msgctxt":"npcnames","msgid":"Hampton","msgstr":"ハンプトン"}
+{"msgctxt":"npcnames","msgid":"Han","msgstr":"ハン"}
+{"msgctxt":"npcnames","msgid":"Hana","msgstr":"ハナ"}
+{"msgctxt":"npcnames","msgid":"Hank","msgstr":"ハンク"}
+{"msgctxt":"npcnames","msgid":"Hannah","msgstr":"ハンナ"}
+{"msgctxt":"npcnames","msgid":"Hans","msgstr":"ハンス"}
+{"msgctxt":"npcnames","msgid":"Hara","msgstr":"ハラ"}
+{"msgctxt":"npcnames","msgid":"Hardy","msgstr":"ハーディ"}
+{"msgctxt":"npcnames","msgid":"Harlan","msgstr":"ハーラン"}
+{"msgctxt":"npcnames","msgid":"Harley","msgstr":"ハーレー"}
+{"msgctxt":"npcnames","msgid":"Harold","msgstr":"ハロルド"}
+{"msgctxt":"npcnames","msgid":"Harriet","msgstr":"ハリエット"}
+{"msgctxt":"npcnames","msgid":"Harrison","msgstr":"ハリソン"}
+{"msgctxt":"npcnames","msgid":"Harry","msgstr":"ハリー"}
+{"msgctxt":"npcnames","msgid":"Harvey","msgstr":"ハーベイ"}
+{"msgctxt":"npcnames","msgid":"Hayden","msgstr":"ヘイドン"}
+{"msgctxt":"npcnames","msgid":"Heath","msgstr":"ヒース"}
+{"msgctxt":"npcnames","msgid":"Heather","msgstr":"ヘザー"}
+{"msgctxt":"npcnames","msgid":"Heathet","msgstr":"ヘゼット"}
+{"msgctxt":"npcnames","msgid":"Hector","msgstr":"ヘクター"}
+{"msgctxt":"npcnames","msgid":"Heidi","msgstr":"ハイジ"}
+{"msgctxt":"npcnames","msgid":"Heladia","msgstr":"ヘラディア"}
+{"msgctxt":"npcnames","msgid":"Helen","msgstr":"ヘレン"}
+{"msgctxt":"npcnames","msgid":"Helmut","msgstr":"ヘルムート"}
+{"msgctxt":"npcnames","msgid":"Henry","msgstr":"ヘンリー"}
+{"msgctxt":"npcnames","msgid":"Herb","msgstr":"ハーブ"}
+{"msgctxt":"npcnames","msgid":"Herbert","msgstr":"ハーバート"}
+{"msgctxt":"npcnames","msgid":"Herman","msgstr":"ハーマン"}
+{"msgctxt":"npcnames","msgid":"Herzl","msgstr":"ヘルツル"}
+{"msgctxt":"npcnames","msgid":"Hibernia","msgstr":"ヒベルニア"}
+{"msgctxt":"npcnames","msgid":"Hilda","msgstr":"ヒルダ"}
+{"msgctxt":"npcnames","msgid":"Hildereth","msgstr":"ヒルデレス"}
+{"msgctxt":"npcnames","msgid":"Hitomi","msgstr":"ヒトミ"}
+{"msgctxt":"npcnames","msgid":"Hoc","msgstr":"ホック"}
+{"msgctxt":"npcnames","msgid":"Holden","msgstr":"ホールデン"}
+{"msgctxt":"npcnames","msgid":"Holly","msgstr":"ホリー"}
+{"msgctxt":"npcnames","msgid":"Homer","msgstr":"ホーマー"}
+{"msgctxt":"npcnames","msgid":"Horace","msgstr":"ホラス"}
+{"msgctxt":"npcnames","msgid":"Howard","msgstr":"ハワード"}
+{"msgctxt":"npcnames","msgid":"Hued","msgstr":"ヒュード"}
+{"msgctxt":"npcnames","msgid":"Hugh","msgstr":"ヒュー"}
+{"msgctxt":"npcnames","msgid":"Hugo","msgstr":"ヒューゴー"}
+{"msgctxt":"npcnames","msgid":"Hunter","msgstr":"ハンター"}
+{"msgctxt":"npcnames","msgid":"Ian","msgstr":"イアン"}
+{"msgctxt":"npcnames","msgid":"Ida","msgstr":"アイダ"}
+{"msgctxt":"npcnames","msgid":"Idona","msgstr":"イドナ"}
+{"msgctxt":"npcnames","msgid":"Ignacio","msgstr":"イグナシオ"}
+{"msgctxt":"npcnames","msgid":"Igor","msgstr":"イーゴー"}
+{"msgctxt":"npcnames","msgid":"Ike","msgstr":"アイク"}
+{"msgctxt":"npcnames","msgid":"Ilene","msgstr":"アイリーン"}
+{"msgctxt":"npcnames","msgid":"Imelda","msgstr":"イメルダ"}
+{"msgctxt":"npcnames","msgid":"Inocencia","msgstr":"イノセンシア"}
+{"msgctxt":"npcnames","msgid":"Ira","msgstr":"アイラ"}
+{"msgctxt":"npcnames","msgid":"Irelerie","msgstr":"アイルルリー"}
+{"msgctxt":"npcnames","msgid":"Irene","msgstr":"アイリーン"}
+{"msgctxt":"npcnames","msgid":"Irewa","msgstr":"イレワ"}
+{"msgctxt":"npcnames","msgid":"Irina","msgstr":"イリーナ"}
+{"msgctxt":"npcnames","msgid":"Iris","msgstr":"アイリス"}
+{"msgctxt":"npcnames","msgid":"Irma","msgstr":"アーマ"}
+{"msgctxt":"npcnames","msgid":"Irving","msgstr":"アーヴィング"}
+{"msgctxt":"npcnames","msgid":"Irwin","msgstr":"アーウィン"}
+{"msgctxt":"npcnames","msgid":"Isaac","msgstr":"アイザック"}
+{"msgctxt":"npcnames","msgid":"Isadora","msgstr":"イサドラ"}
+{"msgctxt":"npcnames","msgid":"Isaeli","msgstr":"イザエリ"}
+{"msgctxt":"npcnames","msgid":"Isafe","msgstr":"イザフェ"}
+{"msgctxt":"npcnames","msgid":"Isao","msgstr":"イサオ"}
+{"msgctxt":"npcnames","msgid":"Ismael","msgstr":"イスメイル"}
+{"msgctxt":"npcnames","msgid":"Ivan","msgstr":"アイヴァン"}
+{"msgctxt":"npcnames","msgid":"Ivar","msgstr":"アイヴァース"}
+{"msgctxt":"npcnames","msgid":"Ivy","msgstr":"アイビー"}
+{"msgctxt":"npcnames","msgid":"Jack","msgstr":"ジャック"}
+{"msgctxt":"npcnames","msgid":"Jackie","msgstr":"ジャッキー"}
+{"msgctxt":"npcnames","msgid":"Jacob","msgstr":"ジェイコブ"}
+{"msgctxt":"npcnames","msgid":"Jacobina","msgstr":"ジェーコビーナ"}
+{"msgctxt":"npcnames","msgid":"Jacquline","msgstr":"ジャクリーン"}
+{"msgctxt":"npcnames","msgid":"Jade","msgstr":"ジェイド"}
+{"msgctxt":"npcnames","msgid":"Jaerin","msgstr":"ジェイリン"}
+{"msgctxt":"npcnames","msgid":"Jake","msgstr":"ジェイク"}
+{"msgctxt":"npcnames","msgid":"James","msgstr":"ジェイムズ"}
+{"msgctxt":"npcnames","msgid":"Jamie","msgstr":"ジェイミー"}
+{"msgctxt":"npcnames","msgid":"Jane","msgstr":"ジェーン"}
+{"msgctxt":"npcnames","msgid":"Janet","msgstr":"ジャネット"}
+{"msgctxt":"npcnames","msgid":"Janice","msgstr":"ジャニス"}
+{"msgctxt":"npcnames","msgid":"Janine","msgstr":"ジャニーン"}
+{"msgctxt":"npcnames","msgid":"Janna","msgstr":"ジャナ"}
+{"msgctxt":"npcnames","msgid":"Jarrod","msgstr":"ジャロッド"}
+{"msgctxt":"npcnames","msgid":"Jasmine","msgstr":"ジャスミン"}
+{"msgctxt":"npcnames","msgid":"Jason","msgstr":"ジェーソン"}
+{"msgctxt":"npcnames","msgid":"Jasper","msgstr":"ジャスパー"}
+{"msgctxt":"npcnames","msgid":"Javane","msgstr":"ジェイヴァン"}
+{"msgctxt":"npcnames","msgid":"Javier","msgstr":"ジャヴィエ"}
+{"msgctxt":"npcnames","msgid":"Jay","msgstr":"ジェイ"}
+{"msgctxt":"npcnames","msgid":"Jayne","msgstr":"ジェイン"}
+{"msgctxt":"npcnames","msgid":"Jean","msgstr":"ジーン"}
+{"msgctxt":"npcnames","msgid":"Jean-Paul","msgstr":"ジャン・ポール"}
+{"msgctxt":"npcnames","msgid":"Jean-Pierre","msgstr":"ジャン・ピエール"}
+{"msgctxt":"npcnames","msgid":"Jeanette","msgstr":"ジャネット"}
+{"msgctxt":"npcnames","msgid":"Jeanne","msgstr":"ジャンヌ"}
+{"msgctxt":"npcnames","msgid":"Jeannette","msgstr":"ジャンネット"}
+{"msgctxt":"npcnames","msgid":"Jed","msgstr":"ジェッド"}
+{"msgctxt":"npcnames","msgid":"Jeisa","msgstr":"ジェイサ"}
+{"msgctxt":"npcnames","msgid":"Jenna","msgstr":"ジェナ"}
+{"msgctxt":"npcnames","msgid":"Jennifer","msgstr":"ジュニファー"}
+{"msgctxt":"npcnames","msgid":"Jennilee","msgstr":"ジェニーリー"}
+{"msgctxt":"npcnames","msgid":"Jenny","msgstr":"ジェニー"}
+{"msgctxt":"npcnames","msgid":"Jeremiah","msgstr":"ジェレミア"}
+{"msgctxt":"npcnames","msgid":"Jeremy","msgstr":"ジェレミー"}
+{"msgctxt":"npcnames","msgid":"Jerome","msgstr":"ジェローム"}
+{"msgctxt":"npcnames","msgid":"Jessaa","msgstr":"ジェッサ"}
+{"msgctxt":"npcnames","msgid":"Jesse","msgstr":"ジェシー"}
+{"msgctxt":"npcnames","msgid":"Jessica","msgstr":"ジェシカ"}
+{"msgctxt":"npcnames","msgid":"Jeuna","msgstr":"ジューナ"}
+{"msgctxt":"npcnames","msgid":"Jim","msgstr":"ジム"}
+{"msgctxt":"npcnames","msgid":"Jo","msgstr":"ジョー"}
+{"msgctxt":"npcnames","msgid":"JoAnne","msgstr":"ジョアンヌ"}
+{"msgctxt":"npcnames","msgid":"Joan","msgstr":"ジョーン"}
+{"msgctxt":"npcnames","msgid":"Joann","msgstr":"ジョアン"}
+{"msgctxt":"npcnames","msgid":"Joe","msgstr":"ジョー"}
+{"msgctxt":"npcnames","msgid":"Joel","msgstr":"ジョエル"}
+{"msgctxt":"npcnames","msgid":"Joeseph","msgstr":"ジョーゼフ"}
+{"msgctxt":"npcnames","msgid":"Johann","msgstr":"ヨハン"}
+{"msgctxt":"npcnames","msgid":"Johanna","msgstr":"ヨハンナ"}
+{"msgctxt":"npcnames","msgid":"John","msgstr":"ジョン"}
+{"msgctxt":"npcnames","msgid":"Jon","msgstr":"ジョン"}
+{"msgctxt":"npcnames","msgid":"Jonah","msgstr":"ジョナ"}
+{"msgctxt":"npcnames","msgid":"Jonathan","msgstr":"ジョナサン"}
+{"msgctxt":"npcnames","msgid":"Jordan","msgstr":"ジョーダン"}
+{"msgctxt":"npcnames","msgid":"Joren","msgstr":"ジョレン"}
+{"msgctxt":"npcnames","msgid":"Joshua","msgstr":"ジョシュア"}
+{"msgctxt":"npcnames","msgid":"Jotha","msgstr":"ジョーサ"}
+{"msgctxt":"npcnames","msgid":"Joyce","msgstr":"ジョイス"}
+{"msgctxt":"npcnames","msgid":"Judan","msgstr":"ジュダン"}
+{"msgctxt":"npcnames","msgid":"Judd","msgstr":"ジャッド"}
+{"msgctxt":"npcnames","msgid":"Judi","msgstr":"ジュディ"}
+{"msgctxt":"npcnames","msgid":"Judith","msgstr":"ジュディス"}
+{"msgctxt":"npcnames","msgid":"Judy","msgstr":"ジュディ"}
+{"msgctxt":"npcnames","msgid":"Juevan","msgstr":"ジューヴァン"}
+{"msgctxt":"npcnames","msgid":"Jules","msgstr":"ジュールズ"}
+{"msgctxt":"npcnames","msgid":"Julie","msgstr":"ジュリー"}
+{"msgctxt":"npcnames","msgid":"June","msgstr":"ジューン"}
+{"msgctxt":"npcnames","msgid":"Juphi","msgstr":"ジュフィ"}
+{"msgctxt":"npcnames","msgid":"Justice","msgstr":"ジャスティス"}
+{"msgctxt":"npcnames","msgid":"Justin","msgstr":"ジャスティン"}
+{"msgctxt":"npcnames","msgid":"Kade","msgstr":"ケイド"}
+{"msgctxt":"npcnames","msgid":"Kai","msgstr":"カイ"}
+{"msgctxt":"npcnames","msgid":"Kaitlin","msgstr":"カイトリン"}
+{"msgctxt":"npcnames","msgid":"Kandie","msgstr":"キャンディ"}
+{"msgctxt":"npcnames","msgid":"Kareen","msgstr":"カリーン"}
+{"msgctxt":"npcnames","msgid":"Karen","msgstr":"カレン"}
+{"msgctxt":"npcnames","msgid":"Kariad","msgstr":"カリアッド"}
+{"msgctxt":"npcnames","msgid":"Karie","msgstr":"ケアリー"}
+{"msgctxt":"npcnames","msgid":"Kariti","msgstr":"カリチ"}
+{"msgctxt":"npcnames","msgid":"Karl","msgstr":"カール"}
+{"msgctxt":"npcnames","msgid":"Kassandra","msgstr":"カサンドラリー"}
+{"msgctxt":"npcnames","msgid":"Kathleen","msgstr":"キャスリーン"}
+{"msgctxt":"npcnames","msgid":"Kay","msgstr":"ケイ"}
+{"msgctxt":"npcnames","msgid":"Kayleen","msgstr":"ケイリーン"}
+{"msgctxt":"npcnames","msgid":"Kayley","msgstr":"ケイリー"}
+{"msgctxt":"npcnames","msgid":"Kearia","msgstr":"キアリア"}
+{"msgctxt":"npcnames","msgid":"Keegan","msgstr":"キーガン"}
+{"msgctxt":"npcnames","msgid":"Kegar","msgstr":"ケガー"}
+{"msgctxt":"npcnames","msgid":"Keith","msgstr":"キース"}
+{"msgctxt":"npcnames","msgid":"Kel","msgstr":"ケル"}
+{"msgctxt":"npcnames","msgid":"Kelley","msgstr":"ケリー"}
+{"msgctxt":"npcnames","msgid":"Kelly","msgstr":"ケリー"}
+{"msgctxt":"npcnames","msgid":"Ken","msgstr":"ケン"}
+{"msgctxt":"npcnames","msgid":"Kenneth","msgstr":"ケネス"}
+{"msgctxt":"npcnames","msgid":"Keri","msgstr":"ケリー"}
+{"msgctxt":"npcnames","msgid":"Kern","msgstr":"ケルン"}
+{"msgctxt":"npcnames","msgid":"Kesel","msgstr":"キーゼル"}
+{"msgctxt":"npcnames","msgid":"Kevin","msgstr":"ケヴィン"}
+{"msgctxt":"npcnames","msgid":"Kezia","msgstr":"ケザイア"}
+{"msgctxt":"npcnames","msgid":"Khanh","msgstr":"カーン"}
+{"msgctxt":"npcnames","msgid":"Kieri","msgstr":"キアリア"}
+{"msgctxt":"npcnames","msgid":"Kiir","msgstr":"キール"}
+{"msgctxt":"npcnames","msgid":"Kile","msgstr":"カイル"}
+{"msgctxt":"npcnames","msgid":"Kim","msgstr":"キム"}
+{"msgctxt":"npcnames","msgid":"Kimberly","msgstr":"キンバリー"}
+{"msgctxt":"npcnames","msgid":"Kira","msgstr":"カイラ"}
+{"msgctxt":"npcnames","msgid":"Kirk","msgstr":"カーク"}
+{"msgctxt":"npcnames","msgid":"Kosto","msgstr":"コストー"}
+{"msgctxt":"npcnames","msgid":"Krira","msgstr":"クリーラ"}
+{"msgctxt":"npcnames","msgid":"Kristen","msgstr":"クリステン"}
+{"msgctxt":"npcnames","msgid":"Kristina","msgstr":"クリスティナ"}
+{"msgctxt":"npcnames","msgid":"Kynthia","msgstr":"キンシア"}
+{"msgctxt":"npcnames","msgid":"Lainey","msgstr":"レイニー"}
+{"msgctxt":"npcnames","msgid":"Lakeshia","msgstr":"レイクシア"}
+{"msgctxt":"npcnames","msgid":"Lana","msgstr":"ラナ"}
+{"msgctxt":"npcnames","msgid":"Lance","msgstr":"ランス"}
+{"msgctxt":"npcnames","msgid":"Lara","msgstr":"ララ"}
+{"msgctxt":"npcnames","msgid":"Larry","msgstr":"ラリー"}
+{"msgctxt":"npcnames","msgid":"Lars","msgstr":"ラーズ"}
+{"msgctxt":"npcnames","msgid":"Latanya","msgstr":"ラターニャ"}
+{"msgctxt":"npcnames","msgid":"Laueli","msgstr":"ラウエリ"}
+{"msgctxt":"npcnames","msgid":"Laura","msgstr":"ローラ"}
+{"msgctxt":"npcnames","msgid":"Lauren","msgstr":"ローレン"}
+{"msgctxt":"npcnames","msgid":"Laurie","msgstr":"ローリー"}
+{"msgctxt":"npcnames","msgid":"Lauuna","msgstr":"ローナ"}
+{"msgctxt":"npcnames","msgid":"Lazare","msgstr":"ラザール"}
+{"msgctxt":"npcnames","msgid":"Leah","msgstr":"リア"}
+{"msgctxt":"npcnames","msgid":"Leasa","msgstr":"リーサ"}
+{"msgctxt":"npcnames","msgid":"Lee","msgstr":"リー"}
+{"msgctxt":"npcnames","msgid":"Lee Ann","msgstr":"リー アン"}
+{"msgctxt":"npcnames","msgid":"Leif","msgstr":"リーフ"}
+{"msgctxt":"npcnames","msgid":"Leland","msgstr":"リランド"}
+{"msgctxt":"npcnames","msgid":"Leo","msgstr":"レオ"}
+{"msgctxt":"npcnames","msgid":"Leola","msgstr":"レオラ"}
+{"msgctxt":"npcnames","msgid":"Leon","msgstr":"レオン"}
+{"msgctxt":"npcnames","msgid":"Leonard","msgstr":"レオナルド"}
+{"msgctxt":"npcnames","msgid":"Leora","msgstr":"レオーラ"}
+{"msgctxt":"npcnames","msgid":"Leriedan","msgstr":"レリーダン"}
+{"msgctxt":"npcnames","msgid":"Leroy","msgstr":"リロイ"}
+{"msgctxt":"npcnames","msgid":"Leslie","msgstr":"レスリー"}
+{"msgctxt":"npcnames","msgid":"Lester","msgstr":"レスター"}
+{"msgctxt":"npcnames","msgid":"Lewe","msgstr":"リューウィ"}
+{"msgctxt":"npcnames","msgid":"Lewis","msgstr":"ルイス"}
+{"msgctxt":"npcnames","msgid":"Liabra","msgstr":"リアブラ"}
+{"msgctxt":"npcnames","msgid":"Liam","msgstr":"リーアム"}
+{"msgctxt":"npcnames","msgid":"Liana","msgstr":"リアナ"}
+{"msgctxt":"npcnames","msgid":"Lilith","msgstr":"リリス"}
+{"msgctxt":"npcnames","msgid":"Lilly","msgstr":"リリー"}
+{"msgctxt":"npcnames","msgid":"Linda","msgstr":"リンダ"}
+{"msgctxt":"npcnames","msgid":"Lindsey","msgstr":"リンゼー"}
+{"msgctxt":"npcnames","msgid":"Lionel","msgstr":"ライオネル"}
+{"msgctxt":"npcnames","msgid":"Lisa","msgstr":"リサ"}
+{"msgctxt":"npcnames","msgid":"Livia","msgstr":"リヴィア"}
+{"msgctxt":"npcnames","msgid":"Lloyd","msgstr":"ロイド"}
+{"msgctxt":"npcnames","msgid":"Logan","msgstr":"ローガン"}
+{"msgctxt":"npcnames","msgid":"Lois","msgstr":"ロイス"}
+{"msgctxt":"npcnames","msgid":"Lon","msgstr":"ロン"}
+{"msgctxt":"npcnames","msgid":"Lonny","msgstr":"ロニー"}
+{"msgctxt":"npcnames","msgid":"Lora","msgstr":"ローラ"}
+{"msgctxt":"npcnames","msgid":"Lorelie","msgstr":"ローレリー"}
+{"msgctxt":"npcnames","msgid":"Loric","msgstr":"ロリック"}
+{"msgctxt":"npcnames","msgid":"Lorraine","msgstr":"ロレイン"}
+{"msgctxt":"npcnames","msgid":"Lou","msgstr":"ロウ"}
+{"msgctxt":"npcnames","msgid":"Louie","msgstr":"ルイ"}
+{"msgctxt":"npcnames","msgid":"Louis","msgstr":"ルイス"}
+{"msgctxt":"npcnames","msgid":"Louise","msgstr":"ルイーズ"}
+{"msgctxt":"npcnames","msgid":"Lowell","msgstr":"ローウェル"}
+{"msgctxt":"npcnames","msgid":"Lucile","msgstr":"ルシール"}
+{"msgctxt":"npcnames","msgid":"Lucky","msgstr":"ラッキー"}
+{"msgctxt":"npcnames","msgid":"Ludwig","msgstr":"ラドウィッグ"}
+{"msgctxt":"npcnames","msgid":"Luigi","msgstr":"ルイジ"}
+{"msgctxt":"npcnames","msgid":"Luke","msgstr":"ルーク"}
+{"msgctxt":"npcnames","msgid":"Luther","msgstr":"ルーサー"}
+{"msgctxt":"npcnames","msgid":"Lyman","msgstr":"ライマン"}
+{"msgctxt":"npcnames","msgid":"Lynden","msgstr":"リンデン"}
+{"msgctxt":"npcnames","msgid":"Lynne","msgstr":"リン"}
+{"msgctxt":"npcnames","msgid":"Lyra","msgstr":"ライラ"}
+{"msgctxt":"npcnames","msgid":"Lysandra","msgstr":"リサンドラ"}
+{"msgctxt":"npcnames","msgid":"Maaly","msgstr":"マーリー"}
+{"msgctxt":"npcnames","msgid":"Mac","msgstr":"マック"}
+{"msgctxt":"npcnames","msgid":"Macro","msgstr":"マクロ"}
+{"msgctxt":"npcnames","msgid":"Madeleine","msgstr":"マデリーン"}
+{"msgctxt":"npcnames","msgid":"Maggie","msgstr":"マギー"}
+{"msgctxt":"npcnames","msgid":"Maje","msgstr":"マージェ"}
+{"msgctxt":"npcnames","msgid":"Malcolm","msgstr":"マルコム"}
+{"msgctxt":"npcnames","msgid":"Mallcora","msgstr":"モルコーラ"}
+{"msgctxt":"npcnames","msgid":"Mamie","msgstr":"メイミー"}
+{"msgctxt":"npcnames","msgid":"Mandy","msgstr":"マンディ"}
+{"msgctxt":"npcnames","msgid":"Manfred","msgstr":"マンフレッド"}
+{"msgctxt":"npcnames","msgid":"Manny","msgstr":"マニー"}
+{"msgctxt":"npcnames","msgid":"Marc","msgstr":"マルク"}
+{"msgctxt":"npcnames","msgid":"Marcello","msgstr":"マルチェロ"}
+{"msgctxt":"npcnames","msgid":"Marcia","msgstr":"マーシャ"}
+{"msgctxt":"npcnames","msgid":"Marco","msgstr":"マルコ"}
+{"msgctxt":"npcnames","msgid":"Marcus","msgstr":"マーカス"}
+{"msgctxt":"npcnames","msgid":"Marcy","msgstr":"マーシー"}
+{"msgctxt":"npcnames","msgid":"Margaret","msgstr":"マーガレット"}
+{"msgctxt":"npcnames","msgid":"Marge","msgstr":"マージ"}
+{"msgctxt":"npcnames","msgid":"Maria","msgstr":"マリア"}
+{"msgctxt":"npcnames","msgid":"Marian","msgstr":"マリアン"}
+{"msgctxt":"npcnames","msgid":"Marianne","msgstr":"マリアンヌ"}
+{"msgctxt":"npcnames","msgid":"Marie","msgstr":"マリー"}
+{"msgctxt":"npcnames","msgid":"Mariline","msgstr":"マリリン"}
+{"msgctxt":"npcnames","msgid":"Marilyn","msgstr":"マリリン"}
+{"msgctxt":"npcnames","msgid":"Marinie","msgstr":"マリニー"}
+{"msgctxt":"npcnames","msgid":"Mario","msgstr":"マリオ"}
+{"msgctxt":"npcnames","msgid":"Marion","msgstr":"マリオン"}
+{"msgctxt":"npcnames","msgid":"Marisa","msgstr":"マリサ"}
+{"msgctxt":"npcnames","msgid":"Marjorie","msgstr":"マージョリー"}
+{"msgctxt":"npcnames","msgid":"Mark","msgstr":"マーク"}
+{"msgctxt":"npcnames","msgid":"Marlene","msgstr":"マーリーン"}
+{"msgctxt":"npcnames","msgid":"Marlon","msgstr":"マーロン"}
+{"msgctxt":"npcnames","msgid":"Marnie","msgstr":"マーニー"}
+{"msgctxt":"npcnames","msgid":"Marsha","msgstr":"マーシャ"}
+{"msgctxt":"npcnames","msgid":"Marshal","msgstr":"マーシャル"}
+{"msgctxt":"npcnames","msgid":"Martha","msgstr":"マーサ"}
+{"msgctxt":"npcnames","msgid":"Martin","msgstr":"マーティン"}
+{"msgctxt":"npcnames","msgid":"Martyl","msgstr":"マーティル"}
+{"msgctxt":"npcnames","msgid":"Marvin","msgstr":"マービン"}
+{"msgctxt":"npcnames","msgid":"Mary","msgstr":"メアリー"}
+{"msgctxt":"npcnames","msgid":"Mary Jo","msgstr":"メアリー ジョー"}
+{"msgctxt":"npcnames","msgid":"Maryli","msgstr":"マリリ"}
+{"msgctxt":"npcnames","msgid":"Maryse","msgstr":"マリーズ"}
+{"msgctxt":"npcnames","msgid":"Mathew","msgstr":"マシュー"}
+{"msgctxt":"npcnames","msgid":"Matt","msgstr":"マット"}
+{"msgctxt":"npcnames","msgid":"Maul","msgstr":"モール"}
+{"msgctxt":"npcnames","msgid":"Maureen","msgstr":"モーリーン"}
+{"msgctxt":"npcnames","msgid":"Max","msgstr":"マックス"}
+{"msgctxt":"npcnames","msgid":"Maxwell","msgstr":"マクスウェル"}
+{"msgctxt":"npcnames","msgid":"Mayme","msgstr":"メイム"}
+{"msgctxt":"npcnames","msgid":"Mel","msgstr":"メル"}
+{"msgctxt":"npcnames","msgid":"Melanie","msgstr":"メラニー"}
+{"msgctxt":"npcnames","msgid":"Melinda","msgstr":"メリンダ"}
+{"msgctxt":"npcnames","msgid":"Melissa","msgstr":"メリッサ"}
+{"msgctxt":"npcnames","msgid":"Melody","msgstr":"メロディー"}
+{"msgctxt":"npcnames","msgid":"Melvin","msgstr":"メルビン"}
+{"msgctxt":"npcnames","msgid":"Mercedes","msgstr":"メルセデス"}
+{"msgctxt":"npcnames","msgid":"Michele","msgstr":"ミシェル"}
+{"msgctxt":"npcnames","msgid":"Mick","msgstr":"ミック"}
+{"msgctxt":"npcnames","msgid":"Mike","msgstr":"マイク"}
+{"msgctxt":"npcnames","msgid":"Miles","msgstr":"マイルズ"}
+{"msgctxt":"npcnames","msgid":"Mina","msgstr":"ミーナ"}
+{"msgctxt":"npcnames","msgid":"Mindy","msgstr":"ミンディ"}
+{"msgctxt":"npcnames","msgid":"Minnie","msgstr":"ミニー"}
+{"msgctxt":"npcnames","msgid":"Miraan","msgstr":"ミラーン"}
+{"msgctxt":"npcnames","msgid":"Miriam","msgstr":"ミリアム"}
+{"msgctxt":"npcnames","msgid":"Mitch","msgstr":"ミッチ"}
+{"msgctxt":"npcnames","msgid":"Mohammed","msgstr":"ムハンマド"}
+{"msgctxt":"npcnames","msgid":"Moira","msgstr":"モイラ"}
+{"msgctxt":"npcnames","msgid":"Monica","msgstr":"モニカ"}
+{"msgctxt":"npcnames","msgid":"Monte","msgstr":"モンテ"}
+{"msgctxt":"npcnames","msgid":"Morel","msgstr":"モレル"}
+{"msgctxt":"npcnames","msgid":"Morris","msgstr":"モリス"}
+{"msgctxt":"npcnames","msgid":"Morton","msgstr":"モートン"}
+{"msgctxt":"npcnames","msgid":"Moven","msgstr":"モーヴェン"}
+{"msgctxt":"npcnames","msgid":"Muriel","msgstr":"ミュリエル"}
+{"msgctxt":"npcnames","msgid":"Murray","msgstr":"マレー"}
+{"msgctxt":"npcnames","msgid":"Myles","msgstr":"マイルズ"}
+{"msgctxt":"npcnames","msgid":"Mylix","msgstr":"ミリックス"}
+{"msgctxt":"npcnames","msgid":"Nadine","msgstr":"ナディーン"}
+{"msgctxt":"npcnames","msgid":"Nahen","msgstr":"ナーエン"}
+{"msgctxt":"npcnames","msgid":"Nancie","msgstr":"ナンシー"}
+{"msgctxt":"npcnames","msgid":"Nancy","msgstr":"ナンシー"}
+{"msgctxt":"npcnames","msgid":"Naomi","msgstr":"ナオミ"}
+{"msgctxt":"npcnames","msgid":"Natalie","msgstr":"ナタリー"}
+{"msgctxt":"npcnames","msgid":"Nate","msgstr":"ネイト"}
+{"msgctxt":"npcnames","msgid":"Nathan","msgstr":"ネイサン"}
+{"msgctxt":"npcnames","msgid":"Nathaniel","msgstr":"ナサニエル"}
+{"msgctxt":"npcnames","msgid":"Navin","msgstr":"ナヴィン"}
+{"msgctxt":"npcnames","msgid":"Neal","msgstr":"ニール"}
+{"msgctxt":"npcnames","msgid":"Ned","msgstr":"ネッド"}
+{"msgctxt":"npcnames","msgid":"Nedra","msgstr":"ネドラ"}
+{"msgctxt":"npcnames","msgid":"Nelix","msgstr":"ネリックス"}
+{"msgctxt":"npcnames","msgid":"Nelson","msgstr":"ネルソン"}
+{"msgctxt":"npcnames","msgid":"Nerys","msgstr":"ネリス"}
+{"msgctxt":"npcnames","msgid":"Newt","msgstr":"ニュート"}
+{"msgctxt":"npcnames","msgid":"Nichoisaiah","msgstr":"ニクワサイア"}
+{"msgctxt":"npcnames","msgid":"Nicholas","msgstr":"ニコラス"}
+{"msgctxt":"npcnames","msgid":"Nick","msgstr":"ニック"}
+{"msgctxt":"npcnames","msgid":"Nickolas","msgstr":"ニコラス"}
+{"msgctxt":"npcnames","msgid":"Nicoire","msgstr":"ニクワ"}
+{"msgctxt":"npcnames","msgid":"Nicole","msgstr":"ニコール"}
+{"msgctxt":"npcnames","msgid":"Nicosi","msgstr":"ニコーシ"}
+{"msgctxt":"npcnames","msgid":"Niki","msgstr":"ニキ"}
+{"msgctxt":"npcnames","msgid":"Nilsine","msgstr":"ニルシーニ"}
+{"msgctxt":"npcnames","msgid":"Niqueale","msgstr":"ニクワーリ"}
+{"msgctxt":"npcnames","msgid":"Noah","msgstr":"ノア"}
+{"msgctxt":"npcnames","msgid":"Noreen","msgstr":"ノリーン"}
+{"msgctxt":"npcnames","msgid":"Norene","msgstr":"ノレーン"}
+{"msgctxt":"npcnames","msgid":"Norm","msgstr":"ノーム"}
+{"msgctxt":"npcnames","msgid":"Norma","msgstr":"ノーマ"}
+{"msgctxt":"npcnames","msgid":"Norman","msgstr":"ノーマン"}
+{"msgctxt":"npcnames","msgid":"Norris","msgstr":"ノリス"}
+{"msgctxt":"npcnames","msgid":"Odelia","msgstr":"オーデリア"}
+{"msgctxt":"npcnames","msgid":"Odethe","msgstr":"オディース"}
+{"msgctxt":"npcnames","msgid":"Odeva","msgstr":"オデヴァ"}
+{"msgctxt":"npcnames","msgid":"Olaf","msgstr":"オーラフ"}
+{"msgctxt":"npcnames","msgid":"Olesia","msgstr":"オレシア"}
+{"msgctxt":"npcnames","msgid":"Oliver","msgstr":"オリヴァー"}
+{"msgctxt":"npcnames","msgid":"Olivia","msgstr":"オリヴィア"}
+{"msgctxt":"npcnames","msgid":"Ophira","msgstr":"オーフィラ"}
+{"msgctxt":"npcnames","msgid":"Otis","msgstr":"オーティス"}
+{"msgctxt":"npcnames","msgid":"Owen","msgstr":"オーエン"}
+{"msgctxt":"npcnames","msgid":"Pacifica","msgstr":"パシフィカ"}
+{"msgctxt":"npcnames","msgid":"Pago","msgstr":"パゴ"}
+{"msgctxt":"npcnames","msgid":"Paige ","msgstr":"ペイジ"}
+{"msgctxt":"npcnames","msgid":"Pam","msgstr":"パム"}
+{"msgctxt":"npcnames","msgid":"Pamela","msgstr":"パメラ"}
+{"msgctxt":"npcnames","msgid":"Pandora","msgstr":"パンドラ"}
+{"msgctxt":"npcnames","msgid":"Parker","msgstr":"パーカー"}
+{"msgctxt":"npcnames","msgid":"Parthenia","msgstr":"パーシニア"}
+{"msgctxt":"npcnames","msgid":"Pat","msgstr":"パット"}
+{"msgctxt":"npcnames","msgid":"Patricia","msgstr":"パトリシア"}
+{"msgctxt":"npcnames","msgid":"Patrick","msgstr":"パトリック"}
+{"msgctxt":"npcnames","msgid":"Patty","msgstr":"パティ"}
+{"msgctxt":"npcnames","msgid":"Paul","msgstr":"ポール"}
+{"msgctxt":"npcnames","msgid":"Pavel","msgstr":"パーヴェル"}
+{"msgctxt":"npcnames","msgid":"Payne","msgstr":"ペイン"}
+{"msgctxt":"npcnames","msgid":"Peg","msgstr":"ペグ"}
+{"msgctxt":"npcnames","msgid":"Peggy","msgstr":"ペギー"}
+{"msgctxt":"npcnames","msgid":"Penny","msgstr":"ペニー"}
+{"msgctxt":"npcnames","msgid":"Percival","msgstr":"パーシバル"}
+{"msgctxt":"npcnames","msgid":"Percy","msgstr":"パーシー"}
+{"msgctxt":"npcnames","msgid":"Perfecta","msgstr":"パーフェクタ"}
+{"msgctxt":"npcnames","msgid":"Perry","msgstr":"ペリー"}
+{"msgctxt":"npcnames","msgid":"Pete","msgstr":"ピート"}
+{"msgctxt":"npcnames","msgid":"Peter","msgstr":"ピーター"}
+{"msgctxt":"npcnames","msgid":"Phaedrus","msgstr":"フィードラス"}
+{"msgctxt":"npcnames","msgid":"Pherebe","msgstr":"ファレーベ"}
+{"msgctxt":"npcnames","msgid":"Phil","msgstr":"フィル"}
+{"msgctxt":"npcnames","msgid":"Philip","msgstr":"フィリップ"}
+{"msgctxt":"npcnames","msgid":"Philomena","msgstr":"フィロメナ"}
+{"msgctxt":"npcnames","msgid":"Phyllis","msgstr":"フィリス"}
+{"msgctxt":"npcnames","msgid":"Pierce","msgstr":"ピアース"}
+{"msgctxt":"npcnames","msgid":"Pierre","msgstr":"ピエール"}
+{"msgctxt":"npcnames","msgid":"Pixie","msgstr":"ピクシー"}
+{"msgctxt":"npcnames","msgid":"Preston","msgstr":"プレストン"}
+{"msgctxt":"npcnames","msgid":"Quan","msgstr":"クアン"}
+{"msgctxt":"npcnames","msgid":"Quentin","msgstr":"クウェンティン"}
+{"msgctxt":"npcnames","msgid":"Quinn","msgstr":"クイン"}
+{"msgctxt":"npcnames","msgid":"Quirina","msgstr":"クイリナ"}
+{"msgctxt":"npcnames","msgid":"Rachel","msgstr":"レイチェル"}
+{"msgctxt":"npcnames","msgid":"Radu","msgstr":"ラデュ"}
+{"msgctxt":"npcnames","msgid":"Rafael","msgstr":"ラファエル"}
+{"msgctxt":"npcnames","msgid":"Rahu","msgstr":"ラーフ"}
+{"msgctxt":"npcnames","msgid":"Raign","msgstr":"ライン"}
+{"msgctxt":"npcnames","msgid":"Ralph","msgstr":"ラルフ"}
+{"msgctxt":"npcnames","msgid":"Rama","msgstr":"ラーマ"}
+{"msgctxt":"npcnames","msgid":"Ramey","msgstr":"レイミー"}
+{"msgctxt":"npcnames","msgid":"Ramsey","msgstr":"ラムゼー"}
+{"msgctxt":"npcnames","msgid":"Randall","msgstr":"ランドル"}
+{"msgctxt":"npcnames","msgid":"Randolph","msgstr":"ランドルフ"}
+{"msgctxt":"npcnames","msgid":"Randy","msgstr":"ランディー"}
+{"msgctxt":"npcnames","msgid":"Rare","msgstr":"レア"}
+{"msgctxt":"npcnames","msgid":"Ratha","msgstr":"ラタ"}
+{"msgctxt":"npcnames","msgid":"Raul","msgstr":"ロール"}
+{"msgctxt":"npcnames","msgid":"Raven","msgstr":"レイブン"}
+{"msgctxt":"npcnames","msgid":"Raymond","msgstr":"レイモンド"}
+{"msgctxt":"npcnames","msgid":"Rebecca","msgstr":"レベッカ"}
+{"msgctxt":"npcnames","msgid":"Redrea","msgstr":"レドリア"}
+{"msgctxt":"npcnames","msgid":"Reg","msgstr":"レッジ"}
+{"msgctxt":"npcnames","msgid":"Regina","msgstr":"レジーナ"}
+{"msgctxt":"npcnames","msgid":"Reginald","msgstr":"レジナルド"}
+{"msgctxt":"npcnames","msgid":"Rene","msgstr":"リネイ"}
+{"msgctxt":"npcnames","msgid":"Renee","msgstr":"ルネ"}
+{"msgctxt":"npcnames","msgid":"Renzo","msgstr":"レンゾー"}
+{"msgctxt":"npcnames","msgid":"Resanda","msgstr":"レサンダ"}
+{"msgctxt":"npcnames","msgid":"Revee","msgstr":"レヴィー"}
+{"msgctxt":"npcnames","msgid":"Rex","msgstr":"レックス"}
+{"msgctxt":"npcnames","msgid":"Reynaldo","msgstr":"レイナルドー"}
+{"msgctxt":"npcnames","msgid":"Rhonda","msgstr":"ロンダ"}
+{"msgctxt":"npcnames","msgid":"Riakari","msgstr":"リアカリ"}
+{"msgctxt":"npcnames","msgid":"Riara","msgstr":"リアラ"}
+{"msgctxt":"npcnames","msgid":"Richard","msgstr":"リチャード"}
+{"msgctxt":"npcnames","msgid":"Ricky","msgstr":"リッキー"}
+{"msgctxt":"npcnames","msgid":"Rierina","msgstr":"リエリナ"}
+{"msgctxt":"npcnames","msgid":"Rija","msgstr":"リージャ"}
+{"msgctxt":"npcnames","msgid":"Rilix","msgstr":"リリックス"}
+{"msgctxt":"npcnames","msgid":"Rita","msgstr":"リタ"}
+{"msgctxt":"npcnames","msgid":"Rob","msgstr":"ロブ"}
+{"msgctxt":"npcnames","msgid":"Robby","msgstr":"ロビー"}
+{"msgctxt":"npcnames","msgid":"Robert","msgstr":"ロバート"}
+{"msgctxt":"npcnames","msgid":"Roberta","msgstr":"ロバータ"}
+{"msgctxt":"npcnames","msgid":"Robin","msgstr":"ロビン"}
+{"msgctxt":"npcnames","msgid":"Rochelle","msgstr":"ロシェル"}
+{"msgctxt":"npcnames","msgid":"Rocky","msgstr":"ロッキー"}
+{"msgctxt":"npcnames","msgid":"Rodney","msgstr":"ロドニー"}
+{"msgctxt":"npcnames","msgid":"Roland","msgstr":"ローランド"}
+{"msgctxt":"npcnames","msgid":"Romona","msgstr":"ロモーナ"}
+{"msgctxt":"npcnames","msgid":"Ron","msgstr":"ロン"}
+{"msgctxt":"npcnames","msgid":"Ronald","msgstr":"ロナルド"}
+{"msgctxt":"npcnames","msgid":"Ronimira","msgstr":"ロニミラ"}
+{"msgctxt":"npcnames","msgid":"Rook","msgstr":"ルック"}
+{"msgctxt":"npcnames","msgid":"Rore","msgstr":"ロウラ"}
+{"msgctxt":"npcnames","msgid":"Rory","msgstr":"ローリー"}
+{"msgctxt":"npcnames","msgid":"Rosa","msgstr":"ローザ"}
+{"msgctxt":"npcnames","msgid":"Rosalee","msgstr":"ロザリー"}
+{"msgctxt":"npcnames","msgid":"Rosanna","msgstr":"ロザンナ"}
+{"msgctxt":"npcnames","msgid":"Rose","msgstr":"ローズ"}
+{"msgctxt":"npcnames","msgid":"Rosemarie","msgstr":"ローズマリー"}
+{"msgctxt":"npcnames","msgid":"Rosemary","msgstr":"ローズマリー"}
+{"msgctxt":"npcnames","msgid":"Rosie","msgstr":"ロージー"}
+{"msgctxt":"npcnames","msgid":"Ross","msgstr":"ロス"}
+{"msgctxt":"npcnames","msgid":"Roy","msgstr":"ロイド"}
+{"msgctxt":"npcnames","msgid":"Rudy","msgstr":"ルーディ"}
+{"msgctxt":"npcnames","msgid":"Rulilian","msgstr":"ルリリアン"}
+{"msgctxt":"npcnames","msgid":"Rupert","msgstr":"ルパート"}
+{"msgctxt":"npcnames","msgid":"Russell","msgstr":"ラッセル"}
+{"msgctxt":"npcnames","msgid":"Rusty","msgstr":"ラスティ"}
+{"msgctxt":"npcnames","msgid":"Ruth","msgstr":"ルース"}
+{"msgctxt":"npcnames","msgid":"Ruthie","msgstr":"ルーシー"}
+{"msgctxt":"npcnames","msgid":"Ruthina","msgstr":"ルシーナ"}
+{"msgctxt":"npcnames","msgid":"Ryan","msgstr":"ライアン"}
+{"msgctxt":"npcnames","msgid":"Saad","msgstr":"サード"}
+{"msgctxt":"npcnames","msgid":"Sabrina","msgstr":"サブリナ"}
+{"msgctxt":"npcnames","msgid":"Sadie","msgstr":"セイディ"}
+{"msgctxt":"npcnames","msgid":"Saemi","msgstr":"セーミ"}
+{"msgctxt":"npcnames","msgid":"Sal","msgstr":"サル"}
+{"msgctxt":"npcnames","msgid":"Sally","msgstr":"サリー"}
+{"msgctxt":"npcnames","msgid":"Salvatore","msgstr":"サルバトール"}
+{"msgctxt":"npcnames","msgid":"Sam","msgstr":"サム"}
+{"msgctxt":"npcnames","msgid":"Sammantha","msgstr":"サマンサ"}
+{"msgctxt":"npcnames","msgid":"Samuel","msgstr":"サミュエル"}
+{"msgctxt":"npcnames","msgid":"Sandeep","msgstr":"サンディープ"}
+{"msgctxt":"npcnames","msgid":"Sandie","msgstr":"サンディ"}
+{"msgctxt":"npcnames","msgid":"Sandra","msgstr":"サンドラ"}
+{"msgctxt":"npcnames","msgid":"Sandy","msgstr":"サンディ"}
+{"msgctxt":"npcnames","msgid":"Sanina","msgstr":"サニナ"}
+{"msgctxt":"npcnames","msgid":"Santos","msgstr":"サントス"}
+{"msgctxt":"npcnames","msgid":"Sapphire","msgstr":"サファイア"}
+{"msgctxt":"npcnames","msgid":"Sara","msgstr":"サラ"}
+{"msgctxt":"npcnames","msgid":"Sarah","msgstr":"サラ"}
+{"msgctxt":"npcnames","msgid":"Saul","msgstr":"ソール"}
+{"msgctxt":"npcnames","msgid":"Savale","msgstr":"サヴェール"}
+{"msgctxt":"npcnames","msgid":"Savasarah","msgstr":"サヴァサラ"}
+{"msgctxt":"npcnames","msgid":"Scalise","msgstr":"スカイス"}
+{"msgctxt":"npcnames","msgid":"Scarlet","msgstr":"スカーレット"}
+{"msgctxt":"npcnames","msgid":"Scott","msgstr":"スコット"}
+{"msgctxt":"npcnames","msgid":"Sean","msgstr":"ショーン"}
+{"msgctxt":"npcnames","msgid":"Sebastian","msgstr":"セバスチャン"}
+{"msgctxt":"npcnames","msgid":"Selby","msgstr":"セルビー"}
+{"msgctxt":"npcnames","msgid":"Selena","msgstr":"セレナ"}
+{"msgctxt":"npcnames","msgid":"Sergio","msgstr":"セルジオ"}
+{"msgctxt":"npcnames","msgid":"Seth","msgstr":"セス"}
+{"msgctxt":"npcnames","msgid":"Seymour","msgstr":"シーモア"}
+{"msgctxt":"npcnames","msgid":"Shanon","msgstr":"シャノン"}
+{"msgctxt":"npcnames","msgid":"Sharon","msgstr":"シャロン"}
+{"msgctxt":"npcnames","msgid":"Sharry","msgstr":"シャリー"}
+{"msgctxt":"npcnames","msgid":"Shawna","msgstr":"ショーナ"}
+{"msgctxt":"npcnames","msgid":"Sheila","msgstr":"シーラ"}
+{"msgctxt":"npcnames","msgid":"Sheldon","msgstr":"シェルドン"}
+{"msgctxt":"npcnames","msgid":"Shelley","msgstr":"シェリー"}
+{"msgctxt":"npcnames","msgid":"Shelly","msgstr":"シェリー"}
+{"msgctxt":"npcnames","msgid":"Shene","msgstr":"シェーン"}
+{"msgctxt":"npcnames","msgid":"Sherdon","msgstr":"シェルドン"}
+{"msgctxt":"npcnames","msgid":"Sheri","msgstr":"シェリー"}
+{"msgctxt":"npcnames","msgid":"Sherman ","msgstr":"シャーマン"}
+{"msgctxt":"npcnames","msgid":"Sherry","msgstr":"シェリー"}
+{"msgctxt":"npcnames","msgid":"Shiela","msgstr":"シーラ"}
+{"msgctxt":"npcnames","msgid":"Shimon","msgstr":"シモン"}
+{"msgctxt":"npcnames","msgid":"Sidney","msgstr":"シドニー"}
+{"msgctxt":"npcnames","msgid":"Siealy","msgstr":"シーリー"}
+{"msgctxt":"npcnames","msgid":"Sieemi","msgstr":"シエーミ"}
+{"msgctxt":"npcnames","msgid":"Sija","msgstr":"シジャ"}
+{"msgctxt":"npcnames","msgid":"Simon","msgstr":"サイモン"}
+{"msgctxt":"npcnames","msgid":"Simona","msgstr":"シモナ"}
+{"msgctxt":"npcnames","msgid":"Slade","msgstr":"スレイド"}
+{"msgctxt":"npcnames","msgid":"Sonny","msgstr":"サニー"}
+{"msgctxt":"npcnames","msgid":"Sophia","msgstr":"ソフィア"}
+{"msgctxt":"npcnames","msgid":"Spencer","msgstr":"スペンサー"}
+{"msgctxt":"npcnames","msgid":"Stacey","msgstr":"ステイシー"}
+{"msgctxt":"npcnames","msgid":"Stan","msgstr":"スタン"}
+{"msgctxt":"npcnames","msgid":"Stanley","msgstr":"スタンリー"}
+{"msgctxt":"npcnames","msgid":"Stephanie","msgstr":"ステファニー"}
+{"msgctxt":"npcnames","msgid":"Stephen","msgstr":"スティーブン"}
+{"msgctxt":"npcnames","msgid":"Steve","msgstr":"スティーブ"}
+{"msgctxt":"npcnames","msgid":"Steven","msgstr":"スティーブン"}
+{"msgctxt":"npcnames","msgid":"Stogan","msgstr":"ストーガン"}
+{"msgctxt":"npcnames","msgid":"Stoken","msgstr":"ストークン"}
+{"msgctxt":"npcnames","msgid":"Stuart","msgstr":"スチュアート"}
+{"msgctxt":"npcnames","msgid":"Suanne","msgstr":"スーアン"}
+{"msgctxt":"npcnames","msgid":"Suju","msgstr":"スージュ"}
+{"msgctxt":"npcnames","msgid":"Suleman","msgstr":"スルマン"}
+{"msgctxt":"npcnames","msgid":"Sumanu","msgstr":"シュマヌ"}
+{"msgctxt":"npcnames","msgid":"Susan","msgstr":"スーザン"}
+{"msgctxt":"npcnames","msgid":"Susanne","msgstr":"スザンヌ"}
+{"msgctxt":"npcnames","msgid":"Suzie","msgstr":"スージー"}
+{"msgctxt":"npcnames","msgid":"Sven","msgstr":"スヴェン"}
+{"msgctxt":"npcnames","msgid":"Svetlana","msgstr":"スヴェトラーナ"}
+{"msgctxt":"npcnames","msgid":"Syfe","msgstr":"サイフ"}
+{"msgctxt":"npcnames","msgid":"Syke","msgstr":"サイク"}
+{"msgctxt":"npcnames","msgid":"Sylvester ","msgstr":"シルベスター"}
+{"msgctxt":"npcnames","msgid":"Tabitha","msgstr":"タビタ"}
+{"msgctxt":"npcnames","msgid":"Tad","msgstr":"タッド"}
+{"msgctxt":"npcnames","msgid":"Tadal","msgstr":"タダル"}
+{"msgctxt":"npcnames","msgid":"Tajos","msgstr":"タホス"}
+{"msgctxt":"npcnames","msgid":"Taka","msgstr":"タカ"}
+{"msgctxt":"npcnames","msgid":"Tamara","msgstr":"タマラ"}
+{"msgctxt":"npcnames","msgid":"Tammie","msgstr":"タミー"}
+{"msgctxt":"npcnames","msgid":"Tanat","msgstr":"タナット"}
+{"msgctxt":"npcnames","msgid":"Tanisha","msgstr":"タニーシャ"}
+{"msgctxt":"npcnames","msgid":"Tanya","msgstr":"ターニャ"}
+{"msgctxt":"npcnames","msgid":"Tara","msgstr":"タラ"}
+{"msgctxt":"npcnames","msgid":"Tayfra","msgstr":"テイフラ"}
+{"msgctxt":"npcnames","msgid":"Tayrod","msgstr":"テイロッド"}
+{"msgctxt":"npcnames","msgid":"Tempest","msgstr":"テンペスト"}
+{"msgctxt":"npcnames","msgid":"Teresa","msgstr":"テレサ"}
+{"msgctxt":"npcnames","msgid":"Terrance","msgstr":"テランス"}
+{"msgctxt":"npcnames","msgid":"Terri","msgstr":"テリー"}
+{"msgctxt":"npcnames","msgid":"Terry","msgstr":"テリー"}
+{"msgctxt":"npcnames","msgid":"Thaaly","msgstr":"ターリー"}
+{"msgctxt":"npcnames","msgid":"Thaddeus","msgstr":"サディアス"}
+{"msgctxt":"npcnames","msgid":"Thade","msgstr":"サード"}
+{"msgctxt":"npcnames","msgid":"Thane","msgstr":"セイン"}
+{"msgctxt":"npcnames","msgid":"Theodore","msgstr":"セオドア"}
+{"msgctxt":"npcnames","msgid":"Theresa","msgstr":"テレサ"}
+{"msgctxt":"npcnames","msgid":"Thomas","msgstr":"トマス"}
+{"msgctxt":"npcnames","msgid":"Thrax","msgstr":"スラックス"}
+{"msgctxt":"npcnames","msgid":"Tiffani","msgstr":"ティファニー"}
+{"msgctxt":"npcnames","msgid":"Tim","msgstr":"ティム"}
+{"msgctxt":"npcnames","msgid":"Timothy","msgstr":"ティモシー"}
+{"msgctxt":"npcnames","msgid":"Tina","msgstr":"ティナ"}
+{"msgctxt":"npcnames","msgid":"Tivian","msgstr":"ティヴィアン"}
+{"msgctxt":"npcnames","msgid":"Tobias","msgstr":"トバイアス"}
+{"msgctxt":"npcnames","msgid":"Todd","msgstr":"トッド"}
+{"msgctxt":"npcnames","msgid":"Tom","msgstr":"トム"}
+{"msgctxt":"npcnames","msgid":"Tony","msgstr":"トニー"}
+{"msgctxt":"npcnames","msgid":"Topaz","msgstr":"トパーズ"}
+{"msgctxt":"npcnames","msgid":"Tracie","msgstr":"トレイシー"}
+{"msgctxt":"npcnames","msgid":"Tran","msgstr":"トラン"}
+{"msgctxt":"npcnames","msgid":"Travis","msgstr":"トラビス"}
+{"msgctxt":"npcnames","msgid":"Trent","msgstr":"トレント"}
+{"msgctxt":"npcnames","msgid":"Trenton","msgstr":"トレントン"}
+{"msgctxt":"npcnames","msgid":"Trevor","msgstr":"トレヴァー"}
+{"msgctxt":"npcnames","msgid":"Tricia","msgstr":"トリシア"}
+{"msgctxt":"npcnames","msgid":"Triian","msgstr":"トリイアン"}
+{"msgctxt":"npcnames","msgid":"Trimark","msgstr":"トリマーク"}
+{"msgctxt":"npcnames","msgid":"Trina","msgstr":"トリーナ"}
+{"msgctxt":"npcnames","msgid":"Trip","msgstr":"トリップ"}
+{"msgctxt":"npcnames","msgid":"Tyler","msgstr":"タイラー"}
+{"msgctxt":"npcnames","msgid":"Tyson","msgstr":"タイソン"}
+{"msgctxt":"npcnames","msgid":"Ulminia","msgstr":"アルミニア"}
+{"msgctxt":"npcnames","msgid":"Ultima","msgstr":"ウルティマ"}
+{"msgctxt":"npcnames","msgid":"Uname","msgstr":"ユーナメ"}
+{"msgctxt":"npcnames","msgid":"Ursula","msgstr":"アーシュラ"}
+{"msgctxt":"npcnames","msgid":"Vadim","msgstr":"ヴァディム"}
+{"msgctxt":"npcnames","msgid":"Val","msgstr":"ヴァル"}
+{"msgctxt":"npcnames","msgid":"Valentia","msgstr":"バレンシア"}
+{"msgctxt":"npcnames","msgid":"Valerie","msgstr":"ヴァレリー"}
+{"msgctxt":"npcnames","msgid":"Vance","msgstr":"ヴァンス"}
+{"msgctxt":"npcnames","msgid":"Vanessa","msgstr":"ヴァネッサ"}
+{"msgctxt":"npcnames","msgid":"Vaune","msgstr":"ボーヌ"}
+{"msgctxt":"npcnames","msgid":"Vera","msgstr":"ヴェラ"}
+{"msgctxt":"npcnames","msgid":"Verne","msgstr":"ヴァーン"}
+{"msgctxt":"npcnames","msgid":"Vernon","msgstr":"バーノン"}
+{"msgctxt":"npcnames","msgid":"Veron","msgstr":"ベロン"}
+{"msgctxt":"npcnames","msgid":"Veronica","msgstr":"ベロニカ"}
+{"msgctxt":"npcnames","msgid":"Viaas","msgstr":"バイアース"}
+{"msgctxt":"npcnames","msgid":"Viain","msgstr":"バイアイン"}
+{"msgctxt":"npcnames","msgid":"Viarene","msgstr":"バイアリーン"}
+{"msgctxt":"npcnames","msgid":"Vicki","msgstr":"ヴィッキー"}
+{"msgctxt":"npcnames","msgid":"Victor","msgstr":"ビクター"}
+{"msgctxt":"npcnames","msgid":"Victoria","msgstr":"ヴィクトリア"}
+{"msgctxt":"npcnames","msgid":"Viktor","msgstr":"ヴィクトー"}
+{"msgctxt":"npcnames","msgid":"Vincenzo","msgstr":"ヴィンチェンツォ"}
+{"msgctxt":"npcnames","msgid":"Violet","msgstr":"バイオレット"}
+{"msgctxt":"npcnames","msgid":"Virgil","msgstr":"バージル"}
+{"msgctxt":"npcnames","msgid":"Virginia","msgstr":"ヴァージニア"}
+{"msgctxt":"npcnames","msgid":"Vivian","msgstr":"ビビアン"}
+{"msgctxt":"npcnames","msgid":"Vladimir","msgstr":"ウラジミール"}
+{"msgctxt":"npcnames","msgid":"Volg","msgstr":"ボルグ"}
+{"msgctxt":"npcnames","msgid":"Wade","msgstr":"ウェイド"}
+{"msgctxt":"npcnames","msgid":"Waldo","msgstr":"ウォルドー"}
+{"msgctxt":"npcnames","msgid":"Waler","msgstr":"ウェーラー"}
+{"msgctxt":"npcnames","msgid":"Wallace","msgstr":"ウォーレス"}
+{"msgctxt":"npcnames","msgid":"Walter","msgstr":"ウォルター"}
+{"msgctxt":"npcnames","msgid":"Waluke","msgstr":"ワリューク"}
+{"msgctxt":"npcnames","msgid":"Wanda","msgstr":"ワンダ"}
+{"msgctxt":"npcnames","msgid":"Wanetta","msgstr":"ワネッタ"}
+{"msgctxt":"npcnames","msgid":"Wanic","msgstr":"ワニック"}
+{"msgctxt":"npcnames","msgid":"Wanye","msgstr":"ウェイン"}
+{"msgctxt":"npcnames","msgid":"Warren","msgstr":"ウォーレン"}
+{"msgctxt":"npcnames","msgid":"Wayne","msgstr":"ウェイン"}
+{"msgctxt":"npcnames","msgid":"Webb","msgstr":"ウェッブ"}
+{"msgctxt":"npcnames","msgid":"Wela","msgstr":"ウェラ"}
+{"msgctxt":"npcnames","msgid":"Wendell","msgstr":"ウェンドル"}
+{"msgctxt":"npcnames","msgid":"Wendy","msgstr":"ウェンディ"}
+{"msgctxt":"npcnames","msgid":"Wesley","msgstr":"ウェスリー"}
+{"msgctxt":"npcnames","msgid":"Weslia","msgstr":"ウェスリア"}
+{"msgctxt":"npcnames","msgid":"Wilam","msgstr":"ヴィラム"}
+{"msgctxt":"npcnames","msgid":"Wilbert","msgstr":"ウィルバート"}
+{"msgctxt":"npcnames","msgid":"Wilfred ","msgstr":"ウィルフレッド"}
+{"msgctxt":"npcnames","msgid":"Wiliam","msgstr":"ウィリアム"}
+{"msgctxt":"npcnames","msgid":"Will","msgstr":"ウィル"}
+{"msgctxt":"npcnames","msgid":"Willard","msgstr":"ウィラード"}
+{"msgctxt":"npcnames","msgid":"William","msgstr":"ウィリアム"}
+{"msgctxt":"npcnames","msgid":"Wilma","msgstr":"ウィルマ"}
+{"msgctxt":"npcnames","msgid":"Wilson","msgstr":"ウィルソン"}
+{"msgctxt":"npcnames","msgid":"Winona","msgstr":"ウィノナ"}
+{"msgctxt":"npcnames","msgid":"Winston","msgstr":"ウィンストン"}
+{"msgctxt":"npcnames","msgid":"Woodrow","msgstr":"ウッドロー"}
+{"msgctxt":"npcnames","msgid":"Wysandra","msgstr":"ワイサンドラ"}
+{"msgctxt":"npcnames","msgid":"Xafra","msgstr":"ザフラ"}
+{"msgctxt":"npcnames","msgid":"Xasi","msgstr":"ザシ"}
+{"msgctxt":"npcnames","msgid":"Xuan ","msgstr":"シュアン"}
+{"msgctxt":"npcnames","msgid":"Xylia","msgstr":"ザイリア"}
+{"msgctxt":"npcnames","msgid":"Yancy","msgstr":"ヤンシー"}
+{"msgctxt":"npcnames","msgid":"Yessica","msgstr":"イエーシカ"}
+{"msgctxt":"npcnames","msgid":"Yolanda","msgstr":"ヨランダ"}
+{"msgctxt":"npcnames","msgid":"Yuri","msgstr":"ユリ"}
+{"msgctxt":"npcnames","msgid":"Yvedsey","msgstr":"イブドゼー"}
+{"msgctxt":"npcnames","msgid":"Yveral","msgstr":"イヴェラル"}
+{"msgctxt":"npcnames","msgid":"Yves","msgstr":"イーヴ"}
+{"msgctxt":"npcnames","msgid":"Yvoire","msgstr":"イヴォイア"}
+{"msgctxt":"npcnames","msgid":"Yvomine","msgstr":"イヴォミン"}
+{"msgctxt":"npcnames","msgid":"Yvonne","msgstr":"イヴォンヌ"}
+{"msgctxt":"npcnames","msgid":"Yvovia","msgstr":"イヴォヴィア"}
+{"msgctxt":"npcnames","msgid":"Zaccharia","msgstr":"ザカリア"}
+{"msgctxt":"npcnames","msgid":"Zack","msgstr":"ザック"}
+{"msgctxt":"npcnames","msgid":"Zaje","msgstr":"ザージェ"}
+{"msgctxt":"npcnames","msgid":"Zebulon","msgstr":"ゼブロン"}
+{"msgctxt":"npcnames","msgid":"Zeke","msgstr":"ジーク"}
+{"msgctxt":"npcnames","msgid":"Zephyr","msgstr":"ゼファー"}
+{"msgctxt":"npcnames","msgid":"Zoele","msgstr":"ズール"}
+{"msgctxt":"npcnames","msgid":"Zoltan","msgstr":"ゾルタン"}
+{"msgctxt":"npcnames","msgid":"Zorex","msgstr":"ゾレックス"}
+{"msgctxt":"npcnames","msgid":"Zyggie","msgstr":"ジギー"}
 {"msgctxt":"npcprof","msgid":"Acolyte","msgstr":"侍祭"}
 {"msgctxt":"npcprof","msgid":"Alchemist","msgstr":"錬金術師"}
 {"msgctxt":"npcprof","msgid":"Apothecary","msgstr":"薬師"}
@@ -2003,6 +4567,173 @@
 {"msgctxt":"npcprof","msgid":"Weaver","msgstr":"織工"}
 {"msgctxt":"npcprof","msgid":"Wererat Smuggler","msgstr":"ワーラットの密輸業者"}
 {"msgctxt":"npcprof","msgid":"Wind Master","msgstr":"風使い"}
+{"msgctxt":"npcprof","msgid":"Bless Party","msgstr":"パーティーを祝福"}
+{"msgctxt":"npcprof","msgid":"Cross Water","msgstr":"水上歩行"}
+{"msgctxt":"npcprof","msgid":"Fanatic","msgstr":"狂信者"}
+{"msgctxt":"npcprof","msgid":"Gate to Town","msgstr":"街へのゲート"}
+{"msgctxt":"npcprof","msgid":"Heal Party","msgstr":"パーティーを治療"}
+{"msgctxt":"npcprof","msgid":"Hour of Power","msgstr":"パワーの刻"}
+{"msgctxt":"npcprof","msgid":"Official","msgstr":"役人"}
+{"msgctxt":"npcprof","msgid":"Play Tune","msgstr":"曲の演奏"}
+{"msgctxt":"npcprof","msgid":"Prepare Feast","msgstr":"ごちそうの用意"}
+{"msgctxt":"npcprof","msgid":"Prepare Meal","msgstr":"食事の用意"}
+{"msgctxt":"npcprof","msgid":"Wind Walk","msgstr":"空中歩行"}
+{"msgctxt":"placemon","msgid":"Adam McCarthy","msgstr":"アダム マッカーシー "}
+{"msgctxt":"placemon","msgid":"Admiral Clausewitz","msgstr":"クラウゼヴィッツ提督 "}
+{"msgctxt":"placemon","msgid":"Admiral Nelson","msgstr":"ネルソン提督 "}
+{"msgctxt":"placemon","msgid":"Agar","msgstr":"アガー"}
+{"msgctxt":"placemon","msgid":"Alex Sherman","msgstr":"アレックス シャーマン "}
+{"msgctxt":"placemon","msgid":"Andrew Grumm","msgstr":"アンドルー グラム"}
+{"msgctxt":"placemon","msgid":"Andy Grumm","msgstr":"アンディ グラム"}
+{"msgctxt":"placemon","msgid":"Anna Wooll","msgstr":"アンナ・ウール"}
+{"msgctxt":"placemon","msgid":"Anthony Rizo","msgstr":"アンソニー リゾ"}
+{"msgctxt":"placemon","msgid":"April Lee","msgstr":"エイプリル リー"}
+{"msgctxt":"placemon","msgid":"Becky Christel","msgstr":"ベッキー クリステル"}
+{"msgctxt":"placemon","msgid":"Benjamin Bent","msgstr":"ベンジャミン ベント "}
+{"msgctxt":"placemon","msgid":"Bill Nesemeier","msgstr":"ビル ネシメイアー"}
+{"msgctxt":"placemon","msgid":"Bill Stoneham","msgstr":"ビル ストーンハム "}
+{"msgctxt":"placemon","msgid":"Blackwell Cooper","msgstr":"ブラックウェル\nクーパー "}
+{"msgctxt":"placemon","msgid":"Bob Young","msgstr":"ボブ ヤング"}
+{"msgctxt":"placemon","msgid":"Bonnie Long-Hemsath","msgstr":"ボニー ロングヘムサス "}
+{"msgctxt":"placemon","msgid":"Bonnie Long-Hemssath","msgstr":"ボニー ロングヘムサス"}
+{"msgctxt":"placemon","msgid":"Brian DeMetz","msgstr":"ブライアン デメッツ "}
+{"msgctxt":"placemon","msgid":"Brian Kemper","msgstr":"ブライアン ケンパー "}
+{"msgctxt":"placemon","msgid":"Bruce Miyake","msgstr":"ブルース ミヤケ"}
+{"msgctxt":"placemon","msgid":"Bryan Farina","msgstr":"ブライアン ファリーナ "}
+{"msgctxt":"placemon","msgid":"Captain Zyrain","msgstr":"ザイレイン船長 "}
+{"msgctxt":"placemon","msgid":"Carl Pinder","msgstr":"カール ピンダー "}
+{"msgctxt":"placemon","msgid":"Charles Zilm","msgstr":"チャールズ ジルム "}
+{"msgctxt":"placemon","msgid":"Chlala","msgstr":"クララ "}
+{"msgctxt":"placemon","msgid":"Chris Bates","msgstr":"クリス ベイツ "}
+{"msgctxt":"placemon","msgid":"Chris Miller","msgstr":"クリス ミラー "}
+{"msgctxt":"placemon","msgid":"Christian Vanover","msgstr":"クリスチャン\nヴァノーヴァー "}
+{"msgctxt":"placemon","msgid":"Chuck Russom","msgstr":"チャック ラッサム "}
+{"msgctxt":"placemon","msgid":"Cleric of Baa","msgstr":"バーのクレリック"}
+{"msgctxt":"placemon","msgid":"Cool Jerk","msgstr":"クール ジャーク "}
+{"msgctxt":"placemon","msgid":"Dave Botan","msgstr":"デイブ ボタン "}
+{"msgctxt":"placemon","msgid":"DaveO","msgstr":"デイブ オー"}
+{"msgctxt":"placemon","msgid":"David Casso","msgstr":"デビッド カッソ"}
+{"msgctxt":"placemon","msgid":"David Mullich","msgstr":"デビッド ミューリッヒ"}
+{"msgctxt":"placemon","msgid":"David Richey","msgstr":"デビッド リッチー "}
+{"msgctxt":"placemon","msgid":"David Vela","msgstr":"デビッド ヴェラ "}
+{"msgctxt":"placemon","msgid":"Dean Gibson","msgstr":"ディーン ギブソン "}
+{"msgctxt":"placemon","msgid":"Devil of Baa","msgstr":"バーのデビル"}
+{"msgctxt":"placemon","msgid":"Devin Chapman","msgstr":"デビン チャップマン "}
+{"msgctxt":"placemon","msgid":"Dragon Hunter Pet","msgstr":"ドラゴンスレイヤーのペット "}
+{"msgctxt":"placemon","msgid":"Edward Hudson","msgstr":"エドワード ハドソン "}
+{"msgctxt":"placemon","msgid":"Elara","msgstr":"イラーラ "}
+{"msgctxt":"placemon","msgid":"Eric Williamson","msgstr":"エリック\nウィリアムソン "}
+{"msgctxt":"placemon","msgid":"Ernie Gallardo","msgstr":"アーニー ギャラード "}
+{"msgctxt":"placemon","msgid":"Ethric","msgstr":"エスリック"}
+{"msgctxt":"placemon","msgid":"Fallen Defender","msgstr":"堕落した守護者"}
+{"msgctxt":"placemon","msgid":"Fernando Castillo","msgstr":"フェルナンド\nカスティロ "}
+{"msgctxt":"placemon","msgid":"George Almond","msgstr":"ジョージ アーモンド "}
+{"msgctxt":"placemon","msgid":"George Ruof","msgstr":"ジョージ ルオフ "}
+{"msgctxt":"placemon","msgid":"Greg Fulton","msgstr":"グレッグ フルトン"}
+{"msgctxt":"placemon","msgid":"Grognard","msgstr":"グロニャール"}
+{"msgctxt":"placemon","msgid":"Guard","msgstr":"番兵"}
+{"msgctxt":"placemon","msgid":"Gus Smedstad ","msgstr":"ガス\nシュメッドスタット "}
+{"msgctxt":"placemon","msgid":"Guthwulf","msgstr":"ガスウルフ "}
+{"msgctxt":"placemon","msgid":"Hairbaugh","msgstr":"ヘアボー"}
+{"msgctxt":"placemon","msgid":"Helena Wickberg","msgstr":"ヘレナ ウィックバーグ"}
+{"msgctxt":"placemon","msgid":"High Priest of Baa","msgstr":"バーのハイプリースト"}
+{"msgctxt":"placemon","msgid":"HodgePodge","msgstr":"ホッジ ポッジ "}
+{"msgctxt":"placemon","msgid":"Ian Bullard","msgstr":"イアン ブラード "}
+{"msgctxt":"placemon","msgid":"Ilsingore","msgstr":"イルシニョーレ "}
+{"msgctxt":"placemon","msgid":"Jack Russell","msgstr":"ジャック ラッセル "}
+{"msgctxt":"placemon","msgid":"James Dickinson","msgstr":"ジェイムズ ディキンソン "}
+{"msgctxt":"placemon","msgid":"Jeff Bigman","msgstr":"ジェフ ビッグマン "}
+{"msgctxt":"placemon","msgid":"Jeff Blattner","msgstr":"ジェフ ブラットナー "}
+{"msgctxt":"placemon","msgid":"Jeff Leggett","msgstr":"ジェフ レジェット "}
+{"msgctxt":"placemon","msgid":"Jennifer Bullard","msgstr":"ジュニファー\nビュラード "}
+{"msgctxt":"placemon","msgid":"Jeric Whistlebone","msgstr":"ジェリック\nホイッスルボーン "}
+{"msgctxt":"placemon","msgid":"Joe McGuffin","msgstr":"ジョー マクガフィン "}
+{"msgctxt":"placemon","msgid":"Joel Kelly","msgstr":"ジョエル ケリー "}
+{"msgctxt":"placemon","msgid":"John Bolton","msgstr":"ジョン ボルトン"}
+{"msgctxt":"placemon","msgid":"John Gibson","msgstr":"ジョン ギブソン "}
+{"msgctxt":"placemon","msgid":"John Krause","msgstr":"ジョン クラウゼ "}
+{"msgctxt":"placemon","msgid":"John Machin (Mac)","msgstr":"ジョン マキン（マック） "}
+{"msgctxt":"placemon","msgid":"John Slowsky","msgstr":"ジョン スロウスカイ "}
+{"msgctxt":"placemon","msgid":"Jon Van Caneghem","msgstr":"ジョン ヴァン ケイネム "}
+{"msgctxt":"placemon","msgid":"Joseph Buron","msgstr":"ジョセフ ビューロン "}
+{"msgctxt":"placemon","msgid":"Julia Ulano","msgstr":"ジュリア ウラーノ "}
+{"msgctxt":"placemon","msgid":"Just_A_Brain","msgstr":"ジャスト ア ブレイン "}
+{"msgctxt":"placemon","msgid":"Karl Drown","msgstr":"カール ドラウン "}
+{"msgctxt":"placemon","msgid":"Karl Fischer","msgstr":"カール フィッシャー"}
+{"msgctxt":"placemon","msgid":"Kate Vanover","msgstr":"ケイト ヴァノーヴァー "}
+{"msgctxt":"placemon","msgid":"Keith Francart","msgstr":"キース フランカート "}
+{"msgctxt":"placemon","msgid":"Keith Talanay","msgstr":"キース タラネイ "}
+{"msgctxt":"placemon","msgid":"Ken Spencer","msgstr":"ケン スペンサー "}
+{"msgctxt":"placemon","msgid":"Ken Thomson","msgstr":"ケン トマソン "}
+{"msgctxt":"placemon","msgid":"King Louise","msgstr":"ルイ王 "}
+{"msgctxt":"placemon","msgid":"Kurt McKeever","msgstr":"カート マッキーヴァー "}
+{"msgctxt":"placemon","msgid":"Lesser Genie","msgstr":"下級ジーニー"}
+{"msgctxt":"placemon","msgid":"Lich King","msgstr":"リッチキング"}
+{"msgctxt":"placemon","msgid":"Lisa Whitman","msgstr":"リサ ホイットマン "}
+{"msgctxt":"placemon","msgid":"Lizardman Lookout","msgstr":"リザードマンの歩哨 "}
+{"msgctxt":"placemon","msgid":"Longfang Witherhide","msgstr":"ロングファング ウィザーハイド"}
+{"msgctxt":"placemon","msgid":"Lord Kilburn","msgstr":"キルバーン卿 "}
+{"msgctxt":"placemon","msgid":"Lou Henderson","msgstr":"ルー ヘンダーソン "}
+{"msgctxt":"placemon","msgid":"Lurch","msgstr":"ラーチ"}
+{"msgctxt":"placemon","msgid":"Marcus Pregent","msgstr":"マーカス プリジェント "}
+{"msgctxt":"placemon","msgid":"Mark Caldwell","msgstr":"マーク コールドウェル "}
+{"msgctxt":"placemon","msgid":"Mark Miller","msgstr":"マーク ミラー "}
+{"msgctxt":"placemon","msgid":"Mary Ellen Babson","msgstr":"メアリー\nエレン バブソン "}
+{"msgctxt":"placemon","msgid":"Mega-Dragon","msgstr":"メガドラゴン"}
+{"msgctxt":"placemon","msgid":"Michael Wolf","msgstr":"マイケル ウルフ "}
+{"msgctxt":"placemon","msgid":"Morcarack","msgstr":"モーカラック"}
+{"msgctxt":"placemon","msgid":"NWC Employee","msgstr":"NWCの社員"}
+{"msgctxt":"placemon","msgid":"Nicco Wargon","msgstr":"ニコ ウォーガン "}
+{"msgctxt":"placemon","msgid":"Nowa Morisaku","msgstr":"ノワ モリサク "}
+{"msgctxt":"placemon","msgid":"Old Loeb","msgstr":"老翁ローブ "}
+{"msgctxt":"placemon","msgid":"Pack Master","msgstr":"群れの王"}
+{"msgctxt":"placemon","msgid":"Paul Rattner","msgstr":"ポール ラットナー "}
+{"msgctxt":"placemon","msgid":"Pete Ryu","msgstr":"ピート リュー "}
+{"msgctxt":"placemon","msgid":"Peter Ryu","msgstr":"ピート リュー "}
+{"msgctxt":"placemon","msgid":"Phelan Sykes","msgstr":"フェラン サイクス "}
+{"msgctxt":"placemon","msgid":"Q","msgstr":"キュー"}
+{"msgctxt":"placemon","msgid":"Queen Spider","msgstr":"クイーンスパイダー"}
+{"msgctxt":"placemon","msgid":"Randy Ruckel","msgstr":"ランディー ラッケル"}
+{"msgctxt":"placemon","msgid":"Rebecca Christel","msgstr":"レベッカ クリステル "}
+{"msgctxt":"placemon","msgid":"Ribannah","msgstr":"リバンナ "}
+{"msgctxt":"placemon","msgid":"Rick Sanchez","msgstr":"リック サンチェス"}
+{"msgctxt":"placemon","msgid":"Riki Corredera","msgstr":"リキ コーレデラ "}
+{"msgctxt":"placemon","msgid":"Rob King","msgstr":"ロブ キング"}
+{"msgctxt":"placemon","msgid":"Robert the Wise","msgstr":"賢者ロバート"}
+{"msgctxt":"placemon","msgid":"Rogue Leader","msgstr":"ローグのリーダー"}
+{"msgctxt":"placemon","msgid":"Ryan Den","msgstr":"ライアン デン "}
+{"msgctxt":"placemon","msgid":"Scott McDaniel","msgstr":"スコット マクダニエル"}
+{"msgctxt":"placemon","msgid":"Scott White","msgstr":"スコット ホワイト "}
+{"msgctxt":"placemon","msgid":"Sentinel of Varn","msgstr":"VARNの番人"}
+{"msgctxt":"placemon","msgid":"Slicker Silvertongue","msgstr":"スリッカー シルバータン"}
+{"msgctxt":"placemon","msgid":"Snergle","msgstr":"スナーグル"}
+{"msgctxt":"placemon","msgid":"Steve Baca","msgstr":"スティーブ ベイカ"}
+{"msgctxt":"placemon","msgid":"Steve Jaqvaar","msgstr":"スティーブ ジャクバー"}
+{"msgctxt":"placemon","msgid":"Steve Jasper","msgstr":"スティーブ ジャスパー "}
+{"msgctxt":"placemon","msgid":"Steve Wasaff","msgstr":"スティーブ ウォサッフ "}
+{"msgctxt":"placemon","msgid":"Super Vampire","msgstr":"スーパーヴァンパイア"}
+{"msgctxt":"placemon","msgid":"Super Vampire (fix)","msgstr":"スーパーヴァンパイア（修正）"}
+{"msgctxt":"placemon","msgid":"TenErnieFord","msgstr":"テン アーニー フォード "}
+{"msgctxt":"placemon","msgid":"Tim Lang","msgstr":"ティム ラング "}
+{"msgctxt":"placemon","msgid":"Todd Smailes","msgstr":"トッド スメイルス "}
+{"msgctxt":"placemon","msgid":"Tolberti","msgstr":"トルベルティ"}
+{"msgctxt":"placemon","msgid":"Tom Ono","msgstr":"トム オノ "}
+{"msgctxt":"placemon","msgid":"Tom Zeliff","msgstr":"トム ゼリフ "}
+{"msgctxt":"placemon","msgid":"Tony Evans","msgstr":"トニー エヴァンス "}
+{"msgctxt":"placemon","msgid":"Tracy Iwata","msgstr":"トレイシー イワタ "}
+{"msgctxt":"placemon","msgid":"Trip Hawkins","msgstr":"トリップ ホーキンス"}
+{"msgctxt":"placemon","msgid":"Unicorn King","msgstr":"ユニコーンキング "}
+{"msgctxt":"placemon","msgid":"Walter Johnson","msgstr":"ウォルター ジョンソン "}
+{"msgctxt":"placemon","msgid":"Werewolf Leader","msgstr":"ワーウルフのリーダー"}
+{"msgctxt":"placemon","msgid":"William Nesemeier","msgstr":"ウィリアム ネシメイアー"}
+{"msgctxt":"placemon","msgid":"William Setag","msgstr":"ウィリアム セタグ"}
+{"msgctxt":"placemon","msgid":"Wromthrax","msgstr":"ウロムスラックス"}
+{"msgctxt":"placemon","msgid":"Xenofex","msgstr":"ゼノフェックス"}
+{"msgctxt":"placemon","msgid":"Yaardrake","msgstr":"ヤールドレイク "}
+{"msgctxt":"placemon","msgid":"Zog","msgstr":"ゾッグ"}
+{"msgctxt":"placemon","msgid":"gamegurl","msgstr":"ゲームガール "}
+{"msgctxt":"placemon","msgid":"guard","msgstr":"番兵"}
+{"msgctxt":"placemon","msgid":"kyberkisu","msgstr":"キュベルキス "}
 {"msgctxt":"reputation","msgid":"Angelic","msgstr":"エンジェルのような"}
 {"msgctxt":"reputation","msgid":"Average","msgstr":"普通"}
 {"msgctxt":"reputation","msgid":"Bad","msgstr":"悪い"}
@@ -2015,6 +4746,49 @@
 {"msgctxt":"reputation","msgid":"Respectable","msgstr":"尊敬されている"}
 {"msgctxt":"reputation","msgid":"Saintly","msgstr":"聖人のような"}
 {"msgctxt":"reputation","msgid":"Vile","msgstr":"極悪"}
+{"msgctxt":"roster","msgid":"Adric Stellare","msgstr":"エイドリック シュテレア"}
+{"msgctxt":"roster","msgid":"Arius","msgstr":"エイリアス"}
+{"msgctxt":"roster","msgid":"Artorius Veritas","msgstr":"アルトリウス ヴェリタス"}
+{"msgctxt":"roster","msgid":"Blazen Stormlance","msgstr":"ブレイズン ストームランス"}
+{"msgctxt":"roster","msgid":"Brimstone","msgstr":"ブリムストーン"}
+{"msgctxt":"roster","msgid":"Cauri Blackthorne","msgstr":"カウリ ブラックソーン"}
+{"msgctxt":"roster","msgid":"Dervish Chevron","msgstr":"デルヴィッシュ シェブロン"}
+{"msgctxt":"roster","msgid":"Devlin Arcanus","msgstr":"デヴリン アルカナス"}
+{"msgctxt":"roster","msgid":"Duroth the Eternal","msgstr":"デュロス ジ エターナル"}
+{"msgctxt":"roster","msgid":"Dyson Leyland","msgstr":"ダイソン リランド"}
+{"msgctxt":"roster","msgid":"Elsbeth Lamentia","msgstr":"エルスベス ラメンティア"}
+{"msgctxt":"roster","msgid":"Flamdring","msgstr":"フレイムドリング"}
+{"msgctxt":"roster","msgid":"Fredrick Talimere","msgstr":"フレデリック タリミア"}
+{"msgctxt":"roster","msgid":"Gethric Mercutura","msgstr":"ゲスリック メルクトゥラ"}
+{"msgctxt":"roster","msgid":"Hevatia Deverbero","msgstr":"ヘバティア"}
+{"msgctxt":"roster","msgid":"Infaustus ","msgstr":"インファウスタス "}
+{"msgctxt":"roster","msgid":"Ithilgore","msgstr":"イシルゴア"}
+{"msgctxt":"roster","msgid":"Jasp Thelbourne","msgstr":"ジャスプ ゼルボーン"}
+{"msgctxt":"roster","msgid":"Karanya Memoria","msgstr":"カラーニャ メモリア"}
+{"msgctxt":"roster","msgid":"Leane Stormlance","msgstr":"リーネ ストームランス"}
+{"msgctxt":"roster","msgid":"Maylander ","msgstr":"メイランダー "}
+{"msgctxt":"roster","msgid":"Nathaniel Roberts","msgstr":"ナサニエル ロバーツ"}
+{"msgctxt":"roster","msgid":"Nelix Uriel","msgstr":"ネリクス ウリエル"}
+{"msgctxt":"roster","msgid":"Overdune Snapfinger","msgstr":"オバーデューン"}
+{"msgctxt":"roster","msgid":"Rionel","msgstr":"ライオネル"}
+{"msgctxt":"roster","msgid":"Rohani Oscleton","msgstr":"ロハニ オスクルトン"}
+{"msgctxt":"roster","msgid":"Sethrc Thistlebone","msgstr":"セスルク ティッスルボーン"}
+{"msgctxt":"roster","msgid":"Simon Templar","msgstr":"サイモン テンプラー"}
+{"msgctxt":"roster","msgid":"Tempus ","msgstr":"テンパス"}
+{"msgctxt":"roster","msgid":"Thanys","msgstr":"タニス"}
+{"msgctxt":"roster","msgid":"Thorne Understone","msgstr":"ソーン アンダーストーン"}
+{"msgctxt":"roster","msgid":"Ulbrecht","msgstr":"ユルブレヒト"}
+{"msgctxt":"roster","msgid":"Verish ","msgstr":"ヴェリッシュ"}
+{"msgctxt":"roster","msgid":"Vetrinus Taleshire","msgstr":"ベトリヌス テイルシャイア"}
+{"msgctxt":"roster","msgid":"Volog Sandwind","msgstr":"ヴォログ サンドウィンド"}
+{"msgctxt":"roster","msgid":"cleric","msgstr":"クレリック"}
+{"msgctxt":"roster","msgid":"darkelf","msgstr":"ダークエルフ"}
+{"msgctxt":"roster","msgid":"dragon","msgstr":"ドラゴン"}
+{"msgctxt":"roster","msgid":"knight","msgstr":"ナイト"}
+{"msgctxt":"roster","msgid":"minotaur","msgstr":"ミノタウロス"}
+{"msgctxt":"roster","msgid":"necromancer","msgstr":"ネクロマンサー"}
+{"msgctxt":"roster","msgid":"troll","msgstr":"トロール"}
+{"msgctxt":"roster","msgid":"vampire","msgstr":"ヴァンパイア"}
 {"msgctxt":"skilldes","msgid":"Air","msgstr":"風魔法"}
 {"msgctxt":"skilldes","msgid":"Air Magic","msgstr":"風魔法"}
 {"msgctxt":"skilldes","msgid":"Alchemy","msgstr":"錬金術"}
@@ -2040,7 +4814,7 @@
 {"msgctxt":"skilldes","msgid":"Earth Magic","msgstr":"地魔法"}
 {"msgctxt":"skilldes","msgid":"Fire","msgstr":"火魔法"}
 {"msgctxt":"skilldes","msgid":"Fire Magic","msgstr":"火魔法"}
-{"msgctxt":"skilldes","msgid":"Identify","msgstr":"鑑定"}
+{"msgctxt":"global","msgid":"Identify","msgstr":"鑑定"}
 {"msgctxt":"skilldes","msgid":"Identify Item","msgstr":"アイテム鑑定"}
 {"msgctxt":"skilldes","msgid":"Identify Monster","msgstr":"モンスター鑑定"}
 {"msgctxt":"skilldes","msgid":"Learning","msgstr":"学習"}
@@ -2312,7 +5086,6 @@
 {"msgctxt":"spells","msgid":"Ring of Fire","msgstr":"火の輪"}
 {"msgctxt":"spells","msgid":"Rmv. Curse","msgstr":"リムーブカース"}
 {"msgctxt":"spells","msgid":"Rock Blast","msgstr":"ロックブラスト"}
-{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"サクリファイス"}
 {"msgctxt":"spells","msgid":"Shared Life","msgstr":"シェアードライフ"}
 {"msgctxt":"spells","msgid":"Shield","msgstr":"シールド"}
 {"msgctxt":"spells","msgid":"Shrapmetal","msgstr":"シュラップメタル"}
@@ -2356,6 +5129,7 @@
 {"msgctxt":"spells","msgid":"Water Walk","msgstr":"ウォーターウォーク"}
 {"msgctxt":"spells","msgid":"Wing Buffet","msgstr":"翼撃"}
 {"msgctxt":"spells","msgid":"Wizard Eye","msgstr":"ウィザードアイ"}
+{"msgctxt":"spells","msgid":"Protection from Elec","msgstr":"電気防護"}
 {"msgctxt":"spells vampire","msgid":"Charm","msgstr":"チャーム"}
 {"msgctxt":"stats","msgid":"AC","msgstr":"AC"}
 {"msgctxt":"stats","msgid":"Accuracy","msgstr":"正確さ"}
@@ -2401,6 +5175,23 @@
 {"msgctxt":"stats","msgid":"Speed","msgstr":"速さ"}
 {"msgctxt":"stats","msgid":"Spell Points","msgstr":"呪文ポイント"}
 {"msgctxt":"stats","msgid":"Water","msgstr":"水耐性"}
+{"msgctxt":"stats","msgid":"Air Resistance","msgstr":"「風」への抵抗力"}
+{"msgctxt":"stats","msgid":"Alchemy skill","msgstr":"「錬金術」技能"}
+{"msgctxt":"stats","msgid":"Armsmaster skill","msgstr":"「修練」技能"}
+{"msgctxt":"stats","msgid":"Body Resistance","msgstr":"「肉体」への抵抗力"}
+{"msgctxt":"stats","msgid":"Cold Resistance","msgstr":"「冷気」への抵抗力"}
+{"msgctxt":"stats","msgid":"Disarm skill","msgstr":"「解除」技能"}
+{"msgctxt":"stats","msgid":"Dodge skill","msgstr":"「回避」技能"}
+{"msgctxt":"stats","msgid":"Earth Resistance","msgstr":"「地」への抵抗力"}
+{"msgctxt":"stats","msgid":"Elec Resistance","msgstr":"「電気」への抵抗力"}
+{"msgctxt":"stats","msgid":"Fire Resistance","msgstr":"「炎」への抵抗力"}
+{"msgctxt":"stats","msgid":"ID Item skill","msgstr":"「アイテム鑑定」技能"}
+{"msgctxt":"stats","msgid":"ID Monster skill","msgstr":"「モンスター識別」技能"}
+{"msgctxt":"stats","msgid":"Mind Resistance","msgstr":"「精神」への抵抗力"}
+{"msgctxt":"stats","msgid":"Poison Resistance","msgstr":"「毒」への抵抗力"}
+{"msgctxt":"stats","msgid":"Stealing skill","msgstr":"「窃盗」技能"}
+{"msgctxt":"stats","msgid":"Unarmed skill","msgstr":"「格闘」技能"}
+{"msgctxt":"stats","msgid":"Water Resistance","msgstr":"「水」への抵抗力"}
 {"msgctxt":"stditems","msgid":"of Air Resistance","msgstr":"風耐性の"}
 {"msgctxt":"stditems","msgid":"of Alchemy","msgstr":"錬金術の"}
 {"msgctxt":"stditems","msgid":"of Arms","msgstr":"武具の"}

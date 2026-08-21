@@ -162,6 +162,8 @@
 {"msgctxt":"class","msgid":"Warlock","msgstr":"Hexenmeister"}
 {"msgctxt":"class","msgid":"Warrior Mage","msgstr":"Kampfmagier"}
 {"msgctxt":"class","msgid":"Wizard","msgstr":"Zauberer"}
+{"msgctxt":"class","msgid":"Archmage","msgstr":"Erzmagier"}
+{"msgctxt":"class","msgid":"Greater Druid","msgstr":"Großdruide"}
 {"msgctxt":"condition","msgid":"Afraid","msgstr":"Verängstigt"}
 {"msgctxt":"condition","msgid":"Asleep","msgstr":"Schlafend"}
 {"msgctxt":"condition","msgid":"Cursed","msgstr":"Verflucht"}
@@ -980,7 +982,7 @@
 {"msgctxt":"items","msgid":"Rusty Mail Vest","msgstr":"Rostige Kettenweste"}
 {"msgctxt":"items","msgid":"Sacred Chalice","msgstr":"Heiliger Kelch"}
 {"msgctxt":"items","msgid":"Sacred Spear","msgstr":"Heiliger Speer"}
-{"msgctxt":"items","msgid":"Sacrifice","msgstr":"Opferung"}
+{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"Opferung"}
 {"msgctxt":"items","msgid":"Sapphire","msgstr":"Saphir"}
 {"msgctxt":"items","msgid":"Sapphire Ring","msgstr":"Saphirring"}
 {"msgctxt":"items","msgid":"Sarcophagus of Korbu","msgstr":"Sarkophag von Korbu"}
@@ -1242,6 +1244,293 @@
 {"msgctxt":"items","msgid":"Zircon","msgstr":"Zirkon"}
 {"msgctxt":"items","msgid":"Zokarr IV's Skull","msgstr":"Schädel von Zokarr IV"}
 {"msgctxt":"items","msgid":"Zokarr's Axe","msgstr":"Zokarrs Axt"}
+{"msgctxt":"items","msgid":"Acid Burst","msgstr":"Säurestrahl"}
+{"msgctxt":"items","msgid":"Advertisment","msgstr":"Anzeige"}
+{"msgctxt":"items","msgid":"Amulet","msgstr":"Amulett"}
+{"msgctxt":"items","msgid":"Ancient Part","msgstr":"Gegenstand der Alten"}
+{"msgctxt":"items","msgid":"Ancient Weapon","msgstr":"Waffe der Alten"}
+{"msgctxt":"items","msgid":"Armageddon","msgstr":"Armageddon"}
+{"msgctxt":"items","msgid":"Artifact","msgstr":"Artefakt"}
+{"msgctxt":"items","msgid":"Artifact Axe","msgstr":"Artefakt-Axt"}
+{"msgctxt":"items","msgid":"Artifact Belt","msgstr":"Artefakt-Gürtel"}
+{"msgctxt":"items","msgid":"Artifact Boots","msgstr":"Artefakt-Stiefel"}
+{"msgctxt":"items","msgid":"Artifact Bow","msgstr":"Artefakt-Bogen"}
+{"msgctxt":"items","msgid":"Artifact Broadsword","msgstr":"Artefakt-Breitschwert"}
+{"msgctxt":"items","msgid":"Artifact Chain Mail","msgstr":"Artefakt-Kettenrüstung"}
+{"msgctxt":"items","msgid":"Artifact Chainmail","msgstr":"Artefakt-Kettenpanzer"}
+{"msgctxt":"items","msgid":"Artifact Cloak","msgstr":"Artefakt-Umhang"}
+{"msgctxt":"items","msgid":"Artifact Club","msgstr":"Artefakt-Keule"}
+{"msgctxt":"items","msgid":"Artifact Crown","msgstr":"Artefakt-Krone"}
+{"msgctxt":"items","msgid":"Artifact Cutlass","msgstr":"Artefakt-Krummsäbel"}
+{"msgctxt":"items","msgid":"Artifact Gauntlets","msgstr":"Artefakt-Panzerhandschuhe"}
+{"msgctxt":"items","msgid":"Artifact Halberd","msgstr":"Artefakt-Hellebarde"}
+{"msgctxt":"items","msgid":"Artifact Helm","msgstr":"Artefakt-Helm"}
+{"msgctxt":"items","msgid":"Artifact Large Shield","msgstr":"Großer Artefakt-Schild"}
+{"msgctxt":"items","msgid":"Artifact Leather Armor","msgstr":"Artefakt-Lederrüstung"}
+{"msgctxt":"items","msgid":"Artifact Long Dagger","msgstr":"Artefakt-Langdolch"}
+{"msgctxt":"items","msgid":"Artifact Longsword","msgstr":"Artefakt-Langschwert"}
+{"msgctxt":"items","msgid":"Artifact Mace","msgstr":"Artefakt-Streitkolben"}
+{"msgctxt":"items","msgid":"Artifact Plate Armor","msgstr":"Artefakt-Plattenrüstung"}
+{"msgctxt":"items","msgid":"Artifact Ring","msgstr":"Artefakt-Ring"}
+{"msgctxt":"items","msgid":"Artifact Spear","msgstr":"Artefakt-Speer"}
+{"msgctxt":"items","msgid":"Artifact Staff","msgstr":"Artefakt-Stab"}
+{"msgctxt":"items","msgid":"Artifact Two-Handed Axe","msgstr":"Artefakt-Zweihandaxt"}
+{"msgctxt":"items","msgid":"Artifact Two-Handed Sword","msgstr":"Artefakt-Zweihandschwert"}
+{"msgctxt":"items","msgid":"Axe","msgstr":"Axt"}
+{"msgctxt":"items","msgid":"Barbarian Axe","msgstr":"Barbarenaxt"}
+{"msgctxt":"items","msgid":"Barbarian Flamberge","msgstr":"Barbaren-Flamberge"}
+{"msgctxt":"items","msgid":"Basic Steel Chain Mail","msgstr":"Einfache Stahlkettenrüstung"}
+{"msgctxt":"items","msgid":"Battle Hammer","msgstr":"Streithammer"}
+{"msgctxt":"items","msgid":"Bell","msgstr":"Glocke"}
+{"msgctxt":"items","msgid":"Belt","msgstr":"Gürtel"}
+{"msgctxt":"items","msgid":"Black Pearl","msgstr":"Schwarze Perle"}
+{"msgctxt":"items","msgid":"Black Potion","msgstr":"Schwarzer Trank"}
+{"msgctxt":"items","msgid":"Blades","msgstr":"Klinge"}
+{"msgctxt":"items","msgid":"Blue Potion","msgstr":"Blauer Trank"}
+{"msgctxt":"items","msgid":"Book","msgstr":"Buch"}
+{"msgctxt":"items","msgid":"Book of Learning","msgstr":"Lernbuch"}
+{"msgctxt":"items","msgid":"Boots","msgstr":"Stiefel"}
+{"msgctxt":"items","msgid":"Bottle","msgstr":"Flasche"}
+{"msgctxt":"items","msgid":"Bow","msgstr":"Bogen"}
+{"msgctxt":"items","msgid":"Box","msgstr":"Kästchen"}
+{"msgctxt":"items","msgid":"Brandy","msgstr":"Brandy"}
+{"msgctxt":"items","msgid":"Brazier","msgstr":"Feuerschale"}
+{"msgctxt":"items","msgid":"Cannonball","msgstr":"Kanonenkugel"}
+{"msgctxt":"items","msgid":"Case of Jars","msgstr":"Gefäßschachtel"}
+{"msgctxt":"items","msgid":"Catalyst potion","msgstr":"Katalysatortrank"}
+{"msgctxt":"items","msgid":"Certificate","msgstr":"Urkunde"}
+{"msgctxt":"items","msgid":"Chainmail","msgstr":"Kettenpanzer"}
+{"msgctxt":"items","msgid":"Chalice","msgstr":"Becher"}
+{"msgctxt":"items","msgid":"Charm","msgstr":"Charme"}
+{"msgctxt":"items","msgid":"Cheese","msgstr":"Käse"}
+{"msgctxt":"items","msgid":"Chime","msgstr":"Geläut"}
+{"msgctxt":"items","msgid":"Circlet","msgstr":"Diadem"}
+{"msgctxt":"items","msgid":"Citizen Hat","msgstr":"Bürgerhut"}
+{"msgctxt":"items","msgid":"Claymore","msgstr":"Zweihänder"}
+{"msgctxt":"items","msgid":"Cloak","msgstr":"Umhang"}
+{"msgctxt":"items","msgid":"Conqueror Sword","msgstr":"Eroberer-Schwert"}
+{"msgctxt":"items","msgid":"Crate","msgstr":"Kiste"}
+{"msgctxt":"items","msgid":"Crude Buckler","msgstr":"Primitiver Faustschild"}
+{"msgctxt":"items","msgid":"Crude Leather Belt","msgstr":"Primitiver Ledergürtel"}
+{"msgctxt":"items","msgid":"Cruel Wand of Acid","msgstr":"Grausamer Zauberstab der Säure"}
+{"msgctxt":"items","msgid":"Cruel Wand of Berzerking","msgstr":"Grausamer Zauberstab der Berserkerwut"}
+{"msgctxt":"items","msgid":"Cruel Wand of Blades","msgstr":"Grausamer Zauberstab der Klingen"}
+{"msgctxt":"items","msgid":"Cruel Wand of Fireballs","msgstr":"Grausamer Zauberstab der Feuerbälle"}
+{"msgctxt":"items","msgid":"Cruel Wand of Lightning","msgstr":"Grausamer Zauberstab des Blitzes"}
+{"msgctxt":"items","msgid":"Crystal","msgstr":"Kristall"}
+{"msgctxt":"items","msgid":"Cube","msgstr":"Kubus"}
+{"msgctxt":"items","msgid":"Dandy Hat","msgstr":"Dandyhut"}
+{"msgctxt":"items","msgid":"Day of Protection","msgstr":"Tag des Schutzes"}
+{"msgctxt":"items","msgid":"Day of the Gods","msgstr":"Tag der Götter"}
+{"msgctxt":"items","msgid":"Deadly Swarm","msgstr":"Todesschwarm"}
+{"msgctxt":"items","msgid":"Death Blossom","msgstr":"Todesblüte"}
+{"msgctxt":"items","msgid":"Deck","msgstr":"Karten"}
+{"msgctxt":"items","msgid":"Destroy Undead","msgstr":"Untote vernichten"}
+{"msgctxt":"items","msgid":"Dispel Magic","msgstr":"Magie vertreiben"}
+{"msgctxt":"items","msgid":"Divine Intervention","msgstr":"Göttliche Intervention"}
+{"msgctxt":"items","msgid":"Dragon Breath","msgstr":"Drachenhauch"}
+{"msgctxt":"items","msgid":"Dragon Wand of Distortion","msgstr":"Drachen-Zauberstab der Verzerrung"}
+{"msgctxt":"items","msgid":"Dragon Wand of Implosion","msgstr":"Drachen-Zauberstab der Implosion"}
+{"msgctxt":"items","msgid":"Dragon Wand of Incineration","msgstr":"Drachen-Zauberstab der Einäscherung"}
+{"msgctxt":"items","msgid":"Dragon Wand of Shrapmetal","msgstr":"Drachen-Zauberstab des Schrapnells"}
+{"msgctxt":"items","msgid":"Dragon Wand of Shrinking","msgstr":"Drachen-Zauberstab des Schrumpfens"}
+{"msgctxt":"items","msgid":"Druid Wand of Ice","msgstr":"Druiden-Zauberstab des Eises"}
+{"msgctxt":"items","msgid":"Druid Wand of Lashing","msgstr":"Druiden-Zauberstab der Peitschenhiebe"}
+{"msgctxt":"items","msgid":"Druid Wand of Light","msgstr":"Druiden-Zauberstab des Lichts"}
+{"msgctxt":"items","msgid":"Druid Wand of Mind","msgstr":"Druiden-Zauberstab des Geistes"}
+{"msgctxt":"items","msgid":"Druid Wand of Swarms","msgstr":"Druiden-Zauberstab der Schwärme"}
+{"msgctxt":"items","msgid":"Drum","msgstr":"Trommel"}
+{"msgctxt":"items","msgid":"Dwarven Noble Axe","msgstr":"Edle Zwergenaxt"}
+{"msgctxt":"items","msgid":"Ear","msgstr":"Ohr"}
+{"msgctxt":"items","msgid":"Egg","msgstr":"Ei"}
+{"msgctxt":"items","msgid":"Elven Helm","msgstr":"Elfenhelm"}
+{"msgctxt":"items","msgid":"Enchant Item","msgstr":"Verzaubern"}
+{"msgctxt":"items","msgid":"Exquisite Cutlass","msgstr":"Erlesener Krummsäbel"}
+{"msgctxt":"items","msgid":"Feather Fall","msgstr":"Federfall"}
+{"msgctxt":"items","msgid":"Fine Broadsword","msgstr":"Feines Breitschwert"}
+{"msgctxt":"items","msgid":"Fine Leather Cloak","msgstr":"Feiner Lederumhang"}
+{"msgctxt":"items","msgid":"Fine Long Dagger","msgstr":"Feiner Langdolch"}
+{"msgctxt":"items","msgid":"Fire Bolt","msgstr":"Feuerstrahl"}
+{"msgctxt":"items","msgid":"Fireball","msgstr":"Feuerball"}
+{"msgctxt":"items","msgid":"Flower","msgstr":"Blume"}
+{"msgctxt":"items","msgid":"Fly","msgstr":"Fliegen"}
+{"msgctxt":"items","msgid":"Flying Fist","msgstr":"Fliegende Faust"}
+{"msgctxt":"items","msgid":"Fruit","msgstr":"Frucht"}
+{"msgctxt":"items","msgid":"Gem","msgstr":"Edelstein"}
+{"msgctxt":"items","msgid":"Gemstone","msgstr":"Edelstein"}
+{"msgctxt":"items","msgid":"Golden Plate Mail","msgstr":"Goldener Plattenpanzer"}
+{"msgctxt":"items","msgid":"Golem part","msgstr":"Golemteil"}
+{"msgctxt":"items","msgid":"Gong","msgstr":"Gong"}
+{"msgctxt":"items","msgid":"Gray Potion","msgstr":"Grauer Trank"}
+{"msgctxt":"items","msgid":"Green Potion","msgstr":"Grüner Trank"}
+{"msgctxt":"items","msgid":"Grey Potion","msgstr":"grauer Trank"}
+{"msgctxt":"items","msgid":"Harm","msgstr":"Verletzen"}
+{"msgctxt":"items","msgid":"Hat","msgstr":"Hut"}
+{"msgctxt":"items","msgid":"Heart","msgstr":"Herz"}
+{"msgctxt":"items","msgid":"Heartstone","msgstr":"Herzstein"}
+{"msgctxt":"items","msgid":"Herb","msgstr":"Kraut"}
+{"msgctxt":"items","msgid":"Hide","msgstr":"Haut"}
+{"msgctxt":"items","msgid":"History Book","msgstr":"Geschichtsbuch"}
+{"msgctxt":"items","msgid":"Horn","msgstr":"Horn"}
+{"msgctxt":"items","msgid":"Hour of Power","msgstr":"Stunde der Macht"}
+{"msgctxt":"items","msgid":"Hourglass","msgstr":"Sanduhr"}
+{"msgctxt":"items","msgid":"Ice Blast","msgstr":"Eissturm"}
+{"msgctxt":"items","msgid":"Ice Bolt","msgstr":"Eisstrahl"}
+{"msgctxt":"items","msgid":"Idol","msgstr":"Götze"}
+{"msgctxt":"items","msgid":"Implosion","msgstr":"Implosion"}
+{"msgctxt":"items","msgid":"Improvised Dagger","msgstr":"Improvisierter Dolch"}
+{"msgctxt":"items","msgid":"Incinerate","msgstr":"Verbrennen"}
+{"msgctxt":"items","msgid":"Inferno","msgstr":"Inferno"}
+{"msgctxt":"items","msgid":"Instrument","msgstr":"Instrument"}
+{"msgctxt":"items","msgid":"Iron Longsword","msgstr":"Eisernes Langschwert"}
+{"msgctxt":"items","msgid":"Iron Two-Handed Sword","msgstr":"Eisernes Zweihandschwert"}
+{"msgctxt":"items","msgid":"Jar","msgstr":"Gefäß"}
+{"msgctxt":"items","msgid":"Jelly","msgstr":"Gelee"}
+{"msgctxt":"items","msgid":"Journal Notes","msgstr":"Notizen aus einem Tagebuch"}
+{"msgctxt":"items","msgid":"Jump","msgstr":"Sprung"}
+{"msgctxt":"items","msgid":"Keg","msgstr":"Fäßchen"}
+{"msgctxt":"items","msgid":"Key ring","msgstr":"Schlüsselring"}
+{"msgctxt":"items","msgid":"Lamp","msgstr":"Lampe"}
+{"msgctxt":"items","msgid":"Lantern","msgstr":"Laterne"}
+{"msgctxt":"items","msgid":"Large Shield","msgstr":"Großer Schild"}
+{"msgctxt":"items","msgid":"Layered Potion","msgstr":"Gemischter Trank"}
+{"msgctxt":"items","msgid":"Learning Book","msgstr":"Lernbuch"}
+{"msgctxt":"items","msgid":"Light Dragon Leather","msgstr":"Leichtes Drachenleder"}
+{"msgctxt":"items","msgid":"Lightning Bolt","msgstr":"Blitzstrahl"}
+{"msgctxt":"items","msgid":"Lloyd's Beacon","msgstr":"Leuchtfeuer"}
+{"msgctxt":"items","msgid":"Lump of Ore","msgstr":"Erzklumpen"}
+{"msgctxt":"items","msgid":"Magic lamp","msgstr":"Wunderlampe"}
+{"msgctxt":"items","msgid":"Makeshift Hammer","msgstr":"Behelfshammer"}
+{"msgctxt":"items","msgid":"Mass Distortion","msgstr":"Schwerezauber"}
+{"msgctxt":"items","msgid":"Mass Fear","msgstr":"Massenfurcht"}
+{"msgctxt":"items","msgid":"Massive Steel Broadsword","msgstr":"Massives Stahlbreitschwert"}
+{"msgctxt":"items","msgid":"Master Broadsword","msgstr":"Meisterbreitschwert"}
+{"msgctxt":"items","msgid":"Memory Crystal","msgstr":"Speicherkristall"}
+{"msgctxt":"items","msgid":"Message Scroll","msgstr":"Schriftrolle"}
+{"msgctxt":"items","msgid":"Metal Rod","msgstr":"Metallstab"}
+{"msgctxt":"items","msgid":"Meteor Shower","msgstr":"Meteorregen"}
+{"msgctxt":"items","msgid":"Mind Blast","msgstr":"Nervenschock"}
+{"msgctxt":"items","msgid":"Notes","msgstr":"Notizen"}
+{"msgctxt":"items","msgid":"Old Leather Boots","msgstr":"Alte Lederstiefel"}
+{"msgctxt":"items","msgid":"Orange Potion","msgstr":"Orangefarbiger Trank"}
+{"msgctxt":"items","msgid":"Painting","msgstr":"Gemälde"}
+{"msgctxt":"items","msgid":"Paralyze","msgstr":"Lähmen"}
+{"msgctxt":"items","msgid":"Pelt","msgstr":"Pelz"}
+{"msgctxt":"items","msgid":"Pinched Gauntlets","msgstr":"Zwickende Panzerhandschuhe"}
+{"msgctxt":"items","msgid":"Plate Mail","msgstr":"Plattenpanzer"}
+{"msgctxt":"items","msgid":"Poison Spray","msgstr":"Giftnebel"}
+{"msgctxt":"items","msgid":"Potion Recipe","msgstr":"Trankrezepte"}
+{"msgctxt":"items","msgid":"Power Cure","msgstr":"Kraftheilung"}
+{"msgctxt":"items","msgid":"Primitive Club","msgstr":"Primitive Keule"}
+{"msgctxt":"items","msgid":"Prismatic Light","msgstr":"Prismenfeuer"}
+{"msgctxt":"items","msgid":"Psychic Shock","msgstr":"Hirnschlag"}
+{"msgctxt":"items","msgid":"Pulp","msgstr":"Mark"}
+{"msgctxt":"items","msgid":"Pure Intelect","msgstr":"Purer Intellekt"}
+{"msgctxt":"items","msgid":"Purple Potion","msgstr":"Purpurner Trank"}
+{"msgctxt":"items","msgid":"Pyramid","msgstr":"Pyramide"}
+{"msgctxt":"items","msgid":"Quill","msgstr":"Federkiel"}
+{"msgctxt":"items","msgid":"Raise Dead","msgstr":"Tote auferwecken"}
+{"msgctxt":"items","msgid":"Reagent","msgstr":"Reagenz"}
+{"msgctxt":"items","msgid":"Reanimate","msgstr":"Wiederbeleben"}
+{"msgctxt":"items","msgid":"Red Potion","msgstr":"Roter Trank"}
+{"msgctxt":"items","msgid":"Reinforced Leather","msgstr":"Verstärkte Lederrüstung"}
+{"msgctxt":"items","msgid":"Rejuvination","msgstr":"Verjüngung"}
+{"msgctxt":"items","msgid":"Relic","msgstr":"Relikt"}
+{"msgctxt":"items","msgid":"Relic Axe","msgstr":"Relikt-Axt"}
+{"msgctxt":"items","msgid":"Relic Belt","msgstr":"Relikt-Gürtel"}
+{"msgctxt":"items","msgid":"Relic Bow","msgstr":"Relikt-Bogen"}
+{"msgctxt":"items","msgid":"Relic Crossbow","msgstr":"Relikt-Armbrust"}
+{"msgctxt":"items","msgid":"Relic Dagger","msgstr":"Relikt-Dolch"}
+{"msgctxt":"items","msgid":"Relic Hat","msgstr":"Relikt-Hut"}
+{"msgctxt":"items","msgid":"Relic Leather Armor","msgstr":"Relikt-Lederrüstung"}
+{"msgctxt":"items","msgid":"Relic Longsword","msgstr":"Relikt-Langschwert"}
+{"msgctxt":"items","msgid":"Relic Ring","msgstr":"Relikt-Ring"}
+{"msgctxt":"items","msgid":"Relic Small Shield","msgstr":"Kleiner Relikt-Schild"}
+{"msgctxt":"items","msgid":"Relic Spear","msgstr":"Relikt-Speer"}
+{"msgctxt":"items","msgid":"Relic Staff","msgstr":"Relikt-Stab"}
+{"msgctxt":"items","msgid":"Relic Two-Handed Sword","msgstr":"Relikt-Zweihandschwert"}
+{"msgctxt":"items","msgid":"Remains","msgstr":"Überreste"}
+{"msgctxt":"items","msgid":"Report","msgstr":"Bericht"}
+{"msgctxt":"items","msgid":"Resurrection","msgstr":"Auferstehung"}
+{"msgctxt":"items","msgid":"Ring","msgstr":"Ring"}
+{"msgctxt":"items","msgid":"Rock Blast","msgstr":"Felsen-Attacke"}
+{"msgctxt":"items","msgid":"Root Club","msgstr":"Wurzelkeule"}
+{"msgctxt":"items","msgid":"Round crystal","msgstr":"Runder Kristall"}
+{"msgctxt":"items","msgid":"Royal Crown","msgstr":"Königliche Krone"}
+{"msgctxt":"items","msgid":"Rusty Bronze Shield","msgstr":"Rostiger Bronzeschild"}
+{"msgctxt":"items","msgid":"Saber","msgstr":"Säbel"}
+{"msgctxt":"items","msgid":"Sandals","msgstr":"Sandalen"}
+{"msgctxt":"items","msgid":"Sarcophagus","msgstr":"Sarkophag"}
+{"msgctxt":"items","msgid":"Scarf","msgstr":"Gewand"}
+{"msgctxt":"items","msgid":"Scroll","msgstr":"Schriftrolle"}
+{"msgctxt":"items","msgid":"Serpent Wand of Clouds","msgstr":"Schlangenzauberstab der Wolken"}
+{"msgctxt":"items","msgid":"Shared Life","msgstr":"Geteiltes Leben"}
+{"msgctxt":"items","msgid":"Shoddy Long Dagger","msgstr":"Schäbiger Langdolch"}
+{"msgctxt":"items","msgid":"Shrapmetal","msgstr":"Schrapnell"}
+{"msgctxt":"items","msgid":"Shrinking Ray","msgstr":"Schrumpfstrahl"}
+{"msgctxt":"items","msgid":"Skull","msgstr":"Schädel"}
+{"msgctxt":"items","msgid":"Slow","msgstr":"Verlangsamen"}
+{"msgctxt":"items","msgid":"Small Shield","msgstr":"Kleiner Schild"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Fire","msgstr":"Funkelnder Zauberstab des Feuers"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Harming","msgstr":"Funkelnder Zauberstab des Verletzens"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Poison","msgstr":"Funkelnder Zauberstab des Gifts"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Sparks","msgstr":"Funkelnder Zauberstab des Funkenflugs"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Stunning","msgstr":"Funkelnder Betäubungszauberstab"}
+{"msgctxt":"items","msgid":"Sparks","msgstr":"Funkenflug"}
+{"msgctxt":"items","msgid":"Special Amulet","msgstr":"Spezial-Amulett"}
+{"msgctxt":"items","msgid":"Special Axe","msgstr":"Spezial-Axt"}
+{"msgctxt":"items","msgid":"Special Bow","msgstr":"Spezial-Bogen"}
+{"msgctxt":"items","msgid":"Special Cloak","msgstr":"Spezial-Umhang"}
+{"msgctxt":"items","msgid":"Special Cutlass","msgstr":"Spezial-Krummsäbel"}
+{"msgctxt":"items","msgid":"Special Dagger","msgstr":"Spezial-Dolch"}
+{"msgctxt":"items","msgid":"Special Helm","msgstr":"Spezial-Helm"}
+{"msgctxt":"items","msgid":"Special Mace","msgstr":"Spezial-Streitkolben"}
+{"msgctxt":"items","msgid":"Special Ring","msgstr":"Spezial-Ring"}
+{"msgctxt":"items","msgid":"Special Spear","msgstr":"Spezial-Speer"}
+{"msgctxt":"items","msgid":"Special Sword","msgstr":"Spezial-Schwert"}
+{"msgctxt":"items","msgid":"Special Two-Handed Axe","msgstr":"Spezial-Zweihandaxt"}
+{"msgctxt":"items","msgid":"Special Two-Handed Sword","msgstr":"Spezial-Zweihandschwert"}
+{"msgctxt":"items","msgid":"Spell Scroll","msgstr":"Spruchrolle"}
+{"msgctxt":"items","msgid":"Splintery Buckler","msgstr":"Splittriger Faustschild"}
+{"msgctxt":"items","msgid":"Starburst","msgstr":"Sternenfeuer"}
+{"msgctxt":"items","msgid":"Statuette","msgstr":"Statuette"}
+{"msgctxt":"items","msgid":"Steel Club","msgstr":"Stahlknüppel"}
+{"msgctxt":"items","msgid":"Steel Plate Mail","msgstr":"Stählerner Plattenpanzer"}
+{"msgctxt":"items","msgid":"Stinger","msgstr":"Stacheln"}
+{"msgctxt":"items","msgid":"Stone","msgstr":"Stein"}
+{"msgctxt":"items","msgid":"Strange Suit","msgstr":"seltsamer Anzug"}
+{"msgctxt":"items","msgid":"Studded Leather Belt","msgstr":"Beschlagener Ledergürtel"}
+{"msgctxt":"items","msgid":"Stun","msgstr":"Betäuben"}
+{"msgctxt":"items","msgid":"Sturdy Mace","msgstr":"Robuster Streitkolben"}
+{"msgctxt":"items","msgid":"Sword","msgstr":"Schwert"}
+{"msgctxt":"items","msgid":"Tapestry","msgstr":"Wandteppich"}
+{"msgctxt":"items","msgid":"Telekinesis","msgstr":"Telekinese"}
+{"msgctxt":"items","msgid":"Thorned Club","msgstr":"Dornenkeule"}
+{"msgctxt":"items","msgid":"Tile","msgstr":"Kachel"}
+{"msgctxt":"items","msgid":"Torch Light","msgstr":"Fackellicht"}
+{"msgctxt":"items","msgid":"Town Portal","msgstr":"Stadtportal"}
+{"msgctxt":"items","msgid":"Toxic Cloud","msgstr":"Giftwolke"}
+{"msgctxt":"items","msgid":"Turn Undead","msgstr":"Untote verjagen"}
+{"msgctxt":"items","msgid":"Urn","msgstr":"Urne"}
+{"msgctxt":"items","msgid":"Vanquisher Sword","msgstr":"Bezwingerschwert"}
+{"msgctxt":"items","msgid":"Vial","msgstr":"Phiole"}
+{"msgctxt":"items","msgid":"Vouchers","msgstr":"Gutscheine"}
+{"msgctxt":"items","msgid":"Wand","msgstr":"Zauberstab"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Blasting","msgstr":"Hexenmeister-Zauberstab der Sprengung"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Clouds","msgstr":"Hexenmeister-Zauberstab der Wolken"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Paralyzing","msgstr":"Hexenmeister-Zauberstab der Lähmung"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Rocks","msgstr":"Hexenmeister-Zauberstab der Steine"}
+{"msgctxt":"items","msgid":"Warlock's Wand of The Fist","msgstr":"Hexenmeister-Zauberstab der Faust"}
+{"msgctxt":"items","msgid":"Water Walk","msgstr":"Wasserwandeln"}
+{"msgctxt":"items","msgid":"White Pearl","msgstr":"Weiße Perle"}
+{"msgctxt":"items","msgid":"White Potion","msgstr":"Weißer Trank"}
+{"msgctxt":"items","msgid":"Wizard Eye","msgstr":"Magisches Auge"}
+{"msgctxt":"items","msgid":"Wonder Dagger","msgstr":"Wunderdolch"}
+{"msgctxt":"items","msgid":"Wood","msgstr":"Holz"}
+{"msgctxt":"items","msgid":"Wooden Helm","msgstr":"Holzhelm"}
+{"msgctxt":"items","msgid":"Wreath Crown","msgstr":"Kranzkrone"}
+{"msgctxt":"items","msgid":"Yellow Potion","msgstr":"Gelber Trank"}
+{"msgctxt":"items","msgid":"gold","msgstr":"Gold"}
 {"msgctxt":"location","msgid":"Abandoned Pirate Keep","msgstr":"Verlassene Piratenfestung"}
 {"msgctxt":"location","msgid":"Abandoned Temple","msgstr":"Verlassener Tempel"}
 {"msgctxt":"location","msgid":"Agar's Laboratory","msgstr":"Agars Labor"}
@@ -1899,6 +2188,2281 @@
 {"msgctxt":"monsters","msgid":"Young Dragon","msgstr":"Junger Drache"}
 {"msgctxt":"monsters","msgid":"Young Dragon Turtle","msgstr":"Junge Drachenschildkröte"}
 {"msgctxt":"monsters","msgid":"Zombie","msgstr":"Zombie"}
+{"msgctxt":"monsters","msgid":"peasant","msgstr":"Bürger"}
+{"msgctxt":"npcdata","msgid":"Aaron Castro","msgstr":"Aaron Castro"}
+{"msgctxt":"npcdata","msgid":"Aaron Strongmun","msgstr":"Aaron Strongmun"}
+{"msgctxt":"npcdata","msgid":"Abdul","msgstr":"Derek Fender"}
+{"msgctxt":"npcdata","msgid":"Abdulai Mahgreb","msgstr":"Abdulai Mahgreb"}
+{"msgctxt":"npcdata","msgid":"Abe Markoviac","msgstr":"Abe Markoviac"}
+{"msgctxt":"npcdata","msgid":"Ackbar","msgstr":"Ackbar"}
+{"msgctxt":"npcdata","msgid":"Acwalander","msgstr":"Acwalander"}
+{"msgctxt":"npcdata","msgid":"Adam McCarthy","msgstr":"Adam McCarthy"}
+{"msgctxt":"npcdata","msgid":"Adric Stellare","msgstr":"Adric Stellare"}
+{"msgctxt":"npcdata","msgid":"Aerie Luodrin","msgstr":"Aerie Luodrin"}
+{"msgctxt":"npcdata","msgid":"Agatha Noble","msgstr":"Agatha Noble"}
+{"msgctxt":"npcdata","msgid":"Agatha Putnam","msgstr":"Agatha Putnam"}
+{"msgctxt":"npcdata","msgid":"Ahmed A'sanzi","msgstr":"Ahmed A'sanzi"}
+{"msgctxt":"npcdata","msgid":"Ailyssa the Bard","msgstr":"Ailyssa die Bardin"}
+{"msgctxt":"npcdata","msgid":"Aislen","msgstr":"Aislen"}
+{"msgctxt":"npcdata","msgid":"Alain Hani","msgstr":"Alain Hani"}
+{"msgctxt":"npcdata","msgid":"Alashandra Reese","msgstr":"Alashandra Reese"}
+{"msgctxt":"npcdata","msgid":"Albert Newton","msgstr":"Albert Newton"}
+{"msgctxt":"npcdata","msgid":"Aldrin Cleareye","msgstr":"Aldrin Cleareye"}
+{"msgctxt":"npcdata","msgid":"Aldrin Tamloc","msgstr":"Aldrin Tamloc"}
+{"msgctxt":"npcdata","msgid":"Alex Morrow","msgstr":"Alex Morrow"}
+{"msgctxt":"npcdata","msgid":"Alex Sherman","msgstr":"Alex Sherman"}
+{"msgctxt":"npcdata","msgid":"Alice Hargreaves","msgstr":"Alice Hargreaves"}
+{"msgctxt":"npcdata","msgid":"Alice Ofenhauser","msgstr":"Alice Ofenhauser"}
+{"msgctxt":"npcdata","msgid":"Alik Whitemoon","msgstr":"Alik Weißmond"}
+{"msgctxt":"npcdata","msgid":"Alise Nightwood","msgstr":"Alise Nightwood"}
+{"msgctxt":"npcdata","msgid":"Alliane Frelsig","msgstr":"Alliane Frelsig"}
+{"msgctxt":"npcdata","msgid":"Alton Black","msgstr":"Alton Schwarz"}
+{"msgctxt":"npcdata","msgid":"Alton Putnam","msgstr":"Alton Putnam"}
+{"msgctxt":"npcdata","msgid":"Amanda Van De Camp","msgstr":"Amanda Van De Camp"}
+{"msgctxt":"npcdata","msgid":"Ambassador Scale","msgstr":"Botschafter Scale"}
+{"msgctxt":"npcdata","msgid":"Ambassador Wright","msgstr":"Botschafter Wright"}
+{"msgctxt":"npcdata","msgid":"Amber Praetor","msgstr":"Amber Praetor"}
+{"msgctxt":"npcdata","msgid":"Ambrose Brusse","msgstr":"Ambrose Brusse"}
+{"msgctxt":"npcdata","msgid":"Amethyst Gemstone","msgstr":"Amethyst Edelstein"}
+{"msgctxt":"npcdata","msgid":"Anawah","msgstr":"Anawah"}
+{"msgctxt":"npcdata","msgid":"Andover Potbello","msgstr":"Andover Potbello"}
+{"msgctxt":"npcdata","msgid":"Andrew Besper","msgstr":"Andrew Besper"}
+{"msgctxt":"npcdata","msgid":"Andrew Grumm","msgstr":"Andrew Grumm"}
+{"msgctxt":"npcdata","msgid":"Andrew YC Pupedis","msgstr":"Andrew YC Pupedis"}
+{"msgctxt":"npcdata","msgid":"Angela Dawson","msgstr":"Angela Dawson"}
+{"msgctxt":"npcdata","msgid":"Anna Wooll","msgstr":"Anna Wooll"}
+{"msgctxt":"npcdata","msgid":"Anthony Green","msgstr":"Anthony Green"}
+{"msgctxt":"npcdata","msgid":"Anthony Hargraine","msgstr":"Anthony Hargraine"}
+{"msgctxt":"npcdata","msgid":"Anthony Stone","msgstr":"Anthony Stone"}
+{"msgctxt":"npcdata","msgid":"Aori Derrisai","msgstr":"Aori Derrisai"}
+{"msgctxt":"npcdata","msgid":"April Lee","msgstr":"April Lee"}
+{"msgctxt":"npcdata","msgid":"Archibald Dawnsglow","msgstr":"Archibald Dawnsglow"}
+{"msgctxt":"npcdata","msgid":"Archibald Ironfist","msgstr":"Archibald Ironfist"}
+{"msgctxt":"npcdata","msgid":"Arena Master","msgstr":"Arenameister"}
+{"msgctxt":"npcdata","msgid":"Arion Hunter","msgstr":"Arion Hunter"}
+{"msgctxt":"npcdata","msgid":"Arius","msgstr":"Arius"}
+{"msgctxt":"npcdata","msgid":"Arius Peleth","msgstr":"Arius Peleth"}
+{"msgctxt":"npcdata","msgid":"Arlen Sailor","msgstr":"Arlen Sailor"}
+{"msgctxt":"npcdata","msgid":"Arther Jelnic","msgstr":"Arther Jelnic"}
+{"msgctxt":"npcdata","msgid":"Arthur O'Leery","msgstr":"Arthur O'Leery"}
+{"msgctxt":"npcdata","msgid":"Artorius Veritas","msgstr":"Artorius Veritas"}
+{"msgctxt":"npcdata","msgid":"Arvin Beneclowd","msgstr":"Arvin Beneclowd"}
+{"msgctxt":"npcdata","msgid":"Arvin Keldin","msgstr":"Arvin Keldin"}
+{"msgctxt":"npcdata","msgid":"Asael Fromago","msgstr":"Asael Fromago"}
+{"msgctxt":"npcdata","msgid":"Ashandra Snowtree","msgstr":"Ashandra Snowtree"}
+{"msgctxt":"npcdata","msgid":"Ashandra Withersmythe","msgstr":"Ashandra Withersmythe"}
+{"msgctxt":"npcdata","msgid":"Ashen Fiddlebone","msgstr":"Ashen Fiddlebone"}
+{"msgctxt":"npcdata","msgid":"Ashen Temper","msgstr":"Ashen Temper"}
+{"msgctxt":"npcdata","msgid":"Auric Goldsmith","msgstr":"Auric Goldschmied"}
+{"msgctxt":"npcdata","msgid":"Avalanche","msgstr":"Avalanche"}
+{"msgctxt":"npcdata","msgid":"Avalon","msgstr":"Avalon"}
+{"msgctxt":"npcdata","msgid":"Avilia Asheed","msgstr":"Avilia Asheed"}
+{"msgctxt":"npcdata","msgid":"Avinril Smythers ","msgstr":"Avinril Smythers "}
+{"msgctxt":"npcdata","msgid":"Aznog Black","msgstr":"Aznog Black"}
+{"msgctxt":"npcdata","msgid":"Aznog Slasher","msgstr":"Aznog Schnitter"}
+{"msgctxt":"npcdata","msgid":"Azure Windsong","msgstr":"Azure Windsong"}
+{"msgctxt":"npcdata","msgid":"Baby Dragon","msgstr":"Drachenbaby"}
+{"msgctxt":"npcdata","msgid":"Balan Gizmo","msgstr":"Balan Gizmo"}
+{"msgctxt":"npcdata","msgid":"Balan Suretrail","msgstr":"Balan Suretrail"}
+{"msgctxt":"npcdata","msgid":"Balion Tearwing","msgstr":"Balion Tearwing"}
+{"msgctxt":"npcdata","msgid":"Bandar Jahrom","msgstr":"Lucia Chow"}
+{"msgctxt":"npcdata","msgid":"Barbara Lotts","msgstr":"Barbara Lotts"}
+{"msgctxt":"npcdata","msgid":"Barbara Wiseman","msgstr":"Barbara Weisemann"}
+{"msgctxt":"npcdata","msgid":"Barrad Unter","msgstr":"Barrad Unter"}
+{"msgctxt":"npcdata","msgid":"Barry Shepherd","msgstr":"Barry Shepherd"}
+{"msgctxt":"npcdata","msgid":"Bartholomew Hume","msgstr":"Bartholomew Hume"}
+{"msgctxt":"npcdata","msgid":"Bastian Loudrin","msgstr":"Bastian Loudrin"}
+{"msgctxt":"npcdata","msgid":"Bazalath","msgstr":"Bazalath"}
+{"msgctxt":"npcdata","msgid":"Beauregard Wolf","msgstr":"Beauregard Wolf"}
+{"msgctxt":"npcdata","msgid":"Becky Holmes","msgstr":"Becky Holmes"}
+{"msgctxt":"npcdata","msgid":"Bejamin Sotherland","msgstr":"Bejamin Sotherland"}
+{"msgctxt":"npcdata","msgid":"Belinda Pikeman","msgstr":"Belinda Pikeman"}
+{"msgctxt":"npcdata","msgid":"Benefice","msgstr":"Benefice"}
+{"msgctxt":"npcdata","msgid":"Benito Tellman","msgstr":"Benito Tellman"}
+{"msgctxt":"npcdata","msgid":"Benjamin Bent","msgstr":"Benjamin Bent"}
+{"msgctxt":"npcdata","msgid":"Benjamin Greenstorm","msgstr":"Benjamin Greenstorm"}
+{"msgctxt":"npcdata","msgid":"Benjamin the Balanced","msgstr":"Benjamin der Ausgeglichene"}
+{"msgctxt":"npcdata","msgid":"Bernard Jacobs","msgstr":"Bernard Jacobs"}
+{"msgctxt":"npcdata","msgid":"Bernice Hatter","msgstr":"Bernice Hatter"}
+{"msgctxt":"npcdata","msgid":"Bernice Weaver","msgstr":"Bernice Weaver"}
+{"msgctxt":"npcdata","msgid":"Bertram Stillwater","msgstr":"Bertram Stillwasser"}
+{"msgctxt":"npcdata","msgid":"Bertrand Scrivner","msgstr":"Bertrand Scrivner"}
+{"msgctxt":"npcdata","msgid":"Beth Thompson","msgstr":"Beth Thompson"}
+{"msgctxt":"npcdata","msgid":"Bethold Caverhill","msgstr":"Bethold Höhlenberg"}
+{"msgctxt":"npcdata","msgid":"Bethold Kern","msgstr":"Bethold Kern"}
+{"msgctxt":"npcdata","msgid":"Beverly Sweetwater","msgstr":"Beverly Sweetwater"}
+{"msgctxt":"npcdata","msgid":"Bigfist Slowstepper","msgstr":"Bigfist Slowstepper"}
+{"msgctxt":"npcdata","msgid":"Bill Nesemeier","msgstr":"Bill Nesemeier"}
+{"msgctxt":"npcdata","msgid":"Bill Stoneham","msgstr":"Bill Stoneham"}
+{"msgctxt":"npcdata","msgid":"Bishop Iquisitorio","msgstr":"Bishop Iquisitorio"}
+{"msgctxt":"npcdata","msgid":"Black Current","msgstr":"Black Current"}
+{"msgctxt":"npcdata","msgid":"Blacken Reaverston","msgstr":"Blacken Reaverston"}
+{"msgctxt":"npcdata","msgid":"Blacken Stonecleaver","msgstr":"Blacken Stonecleaver"}
+{"msgctxt":"npcdata","msgid":"Blayze ","msgstr":"Blayze "}
+{"msgctxt":"npcdata","msgid":"Blaze the Circus Master","msgstr":"Blaze der Zirkusmeister"}
+{"msgctxt":"npcdata","msgid":"Blazen Stormlance","msgstr":"Blazen Stormlance"}
+{"msgctxt":"npcdata","msgid":"Bob Young","msgstr":"Bob Young"}
+{"msgctxt":"npcdata","msgid":"Bone","msgstr":"Bone"}
+{"msgctxt":"npcdata","msgid":"Bonnie Long-Hemsath","msgstr":"Bonnie Long-Hemsath"}
+{"msgctxt":"npcdata","msgid":"Bonnie Long-Hemssath","msgstr":"Bonnie Long-Hemssath"}
+{"msgctxt":"npcdata","msgid":"Bonnie Rotterdam","msgstr":"Bonnie Rotterdam"}
+{"msgctxt":"npcdata","msgid":"Boob","msgstr":"Boob"}
+{"msgctxt":"npcdata","msgid":"Botham","msgstr":"Botham"}
+{"msgctxt":"npcdata","msgid":"Brahein Kadarr","msgstr":"Brahein Kadarr"}
+{"msgctxt":"npcdata","msgid":"Brand Featherwind","msgstr":"Brand Featherwind"}
+{"msgctxt":"npcdata","msgid":"Brand the Maker","msgstr":"Brand der Schöpfer"}
+{"msgctxt":"npcdata","msgid":"Brekish Onefang","msgstr":"Brekish Onefang"}
+{"msgctxt":"npcdata","msgid":"Brent Filiant","msgstr":"Brent Filiant"}
+{"msgctxt":"npcdata","msgid":"Brian DeMetz","msgstr":"Brian DeMetz"}
+{"msgctxt":"npcdata","msgid":"Brian Kemper","msgstr":"Brian Kemper"}
+{"msgctxt":"npcdata","msgid":"Brian Telemere","msgstr":"Brian Telemere"}
+{"msgctxt":"npcdata","msgid":"Brigham Kinney","msgstr":"Brigham Kinney"}
+{"msgctxt":"npcdata","msgid":"Brigham the Frugal","msgstr":"Brigham der Sparsame"}
+{"msgctxt":"npcdata","msgid":"Brimstone","msgstr":"Brimstone"}
+{"msgctxt":"npcdata","msgid":"Bronwyn Blue","msgstr":"Bronwyn Blue"}
+{"msgctxt":"npcdata","msgid":"Bronwyn Meck","msgstr":"Bronwyn Meck"}
+{"msgctxt":"npcdata","msgid":"Brother Bombah","msgstr":"Bruder Bombah"}
+{"msgctxt":"npcdata","msgid":"Brother Crane","msgstr":"Bruder Crane"}
+{"msgctxt":"npcdata","msgid":"Brother Hearthsworn","msgstr":"Bruder Hearthsworn"}
+{"msgctxt":"npcdata","msgid":"Brother Rothham","msgstr":"Bruder Rothham"}
+{"msgctxt":"npcdata","msgid":"Bryan Farina","msgstr":"Bryan Farina"}
+{"msgctxt":"npcdata","msgid":"Bryant Conlan","msgstr":"Bryant Conlan"}
+{"msgctxt":"npcdata","msgid":"Bryce Watershed","msgstr":"Bryce Wasserfluß"}
+{"msgctxt":"npcdata","msgid":"Buford T. Allman","msgstr":"Buford T. Allman"}
+{"msgctxt":"npcdata","msgid":"Burn","msgstr":"Burn"}
+{"msgctxt":"npcdata","msgid":"Burton Rutherford","msgstr":"Burton Rutherford"}
+{"msgctxt":"npcdata","msgid":"Butler","msgstr":"Butler"}
+{"msgctxt":"npcdata","msgid":"Caao Salem","msgstr":"Caao Salem"}
+{"msgctxt":"npcdata","msgid":"Cagnor","msgstr":"Cagnor"}
+{"msgctxt":"npcdata","msgid":"Cahalli Evenall","msgstr":"Cahalli Evenall"}
+{"msgctxt":"npcdata","msgid":"Calindra Goldensight","msgstr":"Calindra Goldenblick"}
+{"msgctxt":"npcdata","msgid":"Calindril","msgstr":"Calindril"}
+{"msgctxt":"npcdata","msgid":"Calvin Black","msgstr":"Calvin Black"}
+{"msgctxt":"npcdata","msgid":"Candice Streep","msgstr":"Candice Streep"}
+{"msgctxt":"npcdata","msgid":"Cardric Caverhill","msgstr":"Cardric Caverhill"}
+{"msgctxt":"npcdata","msgid":"Cardric the Steady","msgstr":"Cardric der Ruhige"}
+{"msgctxt":"npcdata","msgid":"Carl Moramir","msgstr":"Carl Moramir"}
+{"msgctxt":"npcdata","msgid":"Carl Pinder","msgstr":"Carl Pinder"}
+{"msgctxt":"npcdata","msgid":"Carl Pindor","msgstr":"Carl Pindor"}
+{"msgctxt":"npcdata","msgid":"Carla Tarent","msgstr":"Carla Tarent"}
+{"msgctxt":"npcdata","msgid":"Carla Umberpool","msgstr":"Carla Umberpool"}
+{"msgctxt":"npcdata","msgid":"Carlo Tormini","msgstr":"Carlo Tormini"}
+{"msgctxt":"npcdata","msgid":"Carly Rotterdam","msgstr":"Carly Rotterdam"}
+{"msgctxt":"npcdata","msgid":"Carol Rossini","msgstr":"Carol Rossini"}
+{"msgctxt":"npcdata","msgid":"Carolyn Weathers","msgstr":"Carolyn Weathers"}
+{"msgctxt":"npcdata","msgid":"Carrie Calaway","msgstr":"Carrie Small"}
+{"msgctxt":"npcdata","msgid":"Casey Ludwig","msgstr":"Casey Ludwig"}
+{"msgctxt":"npcdata","msgid":"Cassandra Holden","msgstr":"Cassandra Holden"}
+{"msgctxt":"npcdata","msgid":"Cassandra Timmon","msgstr":"Cassandra Timmon"}
+{"msgctxt":"npcdata","msgid":"Castigeir","msgstr":"Castigeir"}
+{"msgctxt":"npcdata","msgid":"Castle Guard","msgstr":"Schloßwache"}
+{"msgctxt":"npcdata","msgid":"Castor Lithgow","msgstr":"Castor Lithgow"}
+{"msgctxt":"npcdata","msgid":"Cauri Blackthorne","msgstr":"Cauri Blackthorne"}
+{"msgctxt":"npcdata","msgid":"Celia Sparkmen","msgstr":"Celia Sparkmen"}
+{"msgctxt":"npcdata","msgid":"Celia Stone","msgstr":"Celia Stone"}
+{"msgctxt":"npcdata","msgid":"Chadric Benson","msgstr":"Chadric Benson"}
+{"msgctxt":"npcdata","msgid":"Chadric Townsaver","msgstr":"Chadric Dorfretter"}
+{"msgctxt":"npcdata","msgid":"Chadwick Blackpoole","msgstr":"Chadwick Blackpoole"}
+{"msgctxt":"npcdata","msgid":"Chandra Stripling","msgstr":"Chandra Stripling"}
+{"msgctxt":"npcdata","msgid":"Charles D'Sorpigal","msgstr":"Charles D'Sorpigal"}
+{"msgctxt":"npcdata","msgid":"Charles Zilm","msgstr":"Charles Zilm"}
+{"msgctxt":"npcdata","msgid":"Cheryl Ahmanson","msgstr":"Cheryl Ahmanson"}
+{"msgctxt":"npcdata","msgid":"Cheryl Duncan","msgstr":"Cheryl Duncan"}
+{"msgctxt":"npcdata","msgid":"Chevon Wist","msgstr":"Chevon Wist"}
+{"msgctxt":"npcdata","msgid":"Chitania Retiani","msgstr":"Chitania Retiani"}
+{"msgctxt":"npcdata","msgid":"Chris Bates","msgstr":"Chris Bates"}
+{"msgctxt":"npcdata","msgid":"Chris Miller","msgstr":"Chris Miller"}
+{"msgctxt":"npcdata","msgid":"Chris Rock","msgstr":"Chris Krass"}
+{"msgctxt":"npcdata","msgid":"Christian Vanover","msgstr":"Christian Vanover"}
+{"msgctxt":"npcdata","msgid":"Christian Vela","msgstr":"Christian Vela"}
+{"msgctxt":"npcdata","msgid":"Christie Nosewort","msgstr":"Christie Nosewort"}
+{"msgctxt":"npcdata","msgid":"Christopher Smith","msgstr":"Christopher Smith"}
+{"msgctxt":"npcdata","msgid":"Chuck Russom","msgstr":"Chuck Russom"}
+{"msgctxt":"npcdata","msgid":"Claderin Brightspear","msgstr":"Claderin Brightspear"}
+{"msgctxt":"npcdata","msgid":"Claderin Silverpoint","msgstr":"Claderin Silberspitz"}
+{"msgctxt":"npcdata","msgid":"Claes Mogren","msgstr":"Claes Mogren"}
+{"msgctxt":"npcdata","msgid":"Clearcreek","msgstr":"Clearcreek"}
+{"msgctxt":"npcdata","msgid":"Cleric Peasant","msgstr":"Bauer des Klerikertempels"}
+{"msgctxt":"npcdata","msgid":"Cleric of the Sun","msgstr":"Kleriker des Sonnentempels"}
+{"msgctxt":"npcdata","msgid":"Cloud Agraynel","msgstr":"Cloud Agraynel"}
+{"msgctxt":"npcdata","msgid":"Cloud Nedlon","msgstr":"Cloud Nedlon"}
+{"msgctxt":"npcdata","msgid":"Clyde Dagget","msgstr":"Clyde Dagget"}
+{"msgctxt":"npcdata","msgid":"Cody Ripper","msgstr":"Cody Ripper"}
+{"msgctxt":"npcdata","msgid":"Connie Lettering","msgstr":"Connie Lettering"}
+{"msgctxt":"npcdata","msgid":"Contest Winner 7","msgstr":"Wettbewerbs - Sieger 7"}
+{"msgctxt":"npcdata","msgid":"Corey Rozburg","msgstr":"Corey Rozburg"}
+{"msgctxt":"npcdata","msgid":"Crag Hack","msgstr":"Crag Hack"}
+{"msgctxt":"npcdata","msgid":"Critias Burnkindle","msgstr":"Critias Loderflamme"}
+{"msgctxt":"npcdata","msgid":"Critias Snowtree","msgstr":"Critias Snowtree"}
+{"msgctxt":"npcdata","msgid":"Cyrus Montebleu","msgstr":"Cyrus Montebleu"}
+{"msgctxt":"npcdata","msgid":"Dadeross","msgstr":"Dadeross"}
+{"msgctxt":"npcdata","msgid":"Daedalus Falk","msgstr":"Daedalus Falk"}
+{"msgctxt":"npcdata","msgid":"Daila Chow","msgstr":"Daila Chow"}
+{"msgctxt":"npcdata","msgid":"Dalin Keenedge","msgstr":"Dalin Keenedge"}
+{"msgctxt":"npcdata","msgid":"Dallia Sparks","msgstr":"Dallia Sparks"}
+{"msgctxt":"npcdata","msgid":"Damon Hawker","msgstr":"Damon Hawker"}
+{"msgctxt":"npcdata","msgid":"Dana Fenster","msgstr":"Dana Fenster"}
+{"msgctxt":"npcdata","msgid":"Daniel Carnegie","msgstr":"Daniel Carnegie"}
+{"msgctxt":"npcdata","msgid":"Daniel Forosmini","msgstr":"Daniel Forosmini"}
+{"msgctxt":"npcdata","msgid":"Dantillion ","msgstr":"Dantillion "}
+{"msgctxt":"npcdata","msgid":"Daphne Calloway","msgstr":"Daphne Calloway"}
+{"msgctxt":"npcdata","msgid":"Darek Halover","msgstr":"Darek Halover"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Guard","msgstr":"Dunkelelf-Wache"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Peasant","msgstr":"Dunkelelf-Bauer"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Pilgrim","msgstr":"Dunkelelf-Pilger"}
+{"msgctxt":"npcdata","msgid":"Dark Shade","msgstr":"Nachtschatten"}
+{"msgctxt":"npcdata","msgid":"Darron Temper","msgstr":"Darron Temper"}
+{"msgctxt":"npcdata","msgid":"Darth Cartwright","msgstr":"Darth Cartwright"}
+{"msgctxt":"npcdata","msgid":"Dave Botan","msgstr":"Dave Botan"}
+{"msgctxt":"npcdata","msgid":"Davee Sail","msgstr":"Davee Sail"}
+{"msgctxt":"npcdata","msgid":"David Feather","msgstr":"David Feather"}
+{"msgctxt":"npcdata","msgid":"David Mullich","msgstr":"David Mullich"}
+{"msgctxt":"npcdata","msgid":"David Pike","msgstr":"David Pike"}
+{"msgctxt":"npcdata","msgid":"David Richey","msgstr":"David Richey"}
+{"msgctxt":"npcdata","msgid":"David Vela","msgstr":"David Vela"}
+{"msgctxt":"npcdata","msgid":"Davis Carp","msgstr":"Davis Carp"}
+{"msgctxt":"npcdata","msgid":"Davrik Peladium","msgstr":"Davrik Peladium"}
+{"msgctxt":"npcdata","msgid":"Dean Frimple","msgstr":"Dean Frimple"}
+{"msgctxt":"npcdata","msgid":"Dean Gibson","msgstr":"Dean Gibson"}
+{"msgctxt":"npcdata","msgid":"Deedra Brewer","msgstr":"Deedra Brewer"}
+{"msgctxt":"npcdata","msgid":"Deftclaw Redreaver","msgstr":"Deftclaw Redreaver"}
+{"msgctxt":"npcdata","msgid":"Dekian Farswell","msgstr":"Dekian Farswell"}
+{"msgctxt":"npcdata","msgid":"Dekian Forgewright","msgstr":"Dekian Schmiedenstahl"}
+{"msgctxt":"npcdata","msgid":"Deliah Bwana","msgstr":"Deliah Bwana"}
+{"msgctxt":"npcdata","msgid":"Dennis Caverhill","msgstr":"Dennis Caverhill"}
+{"msgctxt":"npcdata","msgid":"Dennis Johnson","msgstr":"Dennis Johnson"}
+{"msgctxt":"npcdata","msgid":"Derek Chester","msgstr":"Derek Chester"}
+{"msgctxt":"npcdata","msgid":"Derrin Delver","msgstr":"Derrin Delver"}
+{"msgctxt":"npcdata","msgid":"Dervish Chevron","msgstr":"Dervish Chevron"}
+{"msgctxt":"npcdata","msgid":"Desmond Weller","msgstr":"Desmond Weller"}
+{"msgctxt":"npcdata","msgid":"Deth Macbre","msgstr":"Deth Macbre"}
+{"msgctxt":"npcdata","msgid":"Devin Chapman","msgstr":"Devin Chapman"}
+{"msgctxt":"npcdata","msgid":"Devlin Arcanus","msgstr":"Devlin Arcanus"}
+{"msgctxt":"npcdata","msgid":"Devon Ivers","msgstr":"Devon Ivers"}
+{"msgctxt":"npcdata","msgid":"Diana Dedrick","msgstr":"Diana Dedrick"}
+{"msgctxt":"npcdata","msgid":"Dickson Parks","msgstr":"Dickson Parks"}
+{"msgctxt":"npcdata","msgid":"Dierdra Wallace","msgstr":"Dierdra Wallace"}
+{"msgctxt":"npcdata","msgid":"Dillan Robinson","msgstr":"Dillan Robinson"}
+{"msgctxt":"npcdata","msgid":"Dini Mahgreb","msgstr":"Dini Mahgreb"}
+{"msgctxt":"npcdata","msgid":"Dirthic","msgstr":"Dirthic"}
+{"msgctxt":"npcdata","msgid":"Dolores Craft","msgstr":"Dolores Craft"}
+{"msgctxt":"npcdata","msgid":"Dolores Fischer","msgstr":"Dolores Fischer"}
+{"msgctxt":"npcdata","msgid":"Dom Malikto","msgstr":"Dom Malikto"}
+{"msgctxt":"npcdata","msgid":"Dominique Juarez","msgstr":"Dominique Juarez"}
+{"msgctxt":"npcdata","msgid":"Donald Dorfus","msgstr":"Donald Dorfus"}
+{"msgctxt":"npcdata","msgid":"Donald Retzer","msgstr":"Donald Retzer"}
+{"msgctxt":"npcdata","msgid":"Donna Wyrith","msgstr":"Donna Wyrith"}
+{"msgctxt":"npcdata","msgid":"Doreen Espana","msgstr":"Doreen Espana"}
+{"msgctxt":"npcdata","msgid":"Dorf","msgstr":"Dorv"}
+{"msgctxt":"npcdata","msgid":"Dorothy Sablewood","msgstr":"Dorothy Sablewood"}
+{"msgctxt":"npcdata","msgid":"Dorothy Senjac","msgstr":"Dorothy Senjac"}
+{"msgctxt":"npcdata","msgid":"Dotes","msgstr":"Dotes"}
+{"msgctxt":"npcdata","msgid":"Douglas Dirthmoore","msgstr":"Douglas Dirthmoore"}
+{"msgctxt":"npcdata","msgid":"Douglas Hill","msgstr":"Douglas Hill"}
+{"msgctxt":"npcdata","msgid":"Douglas Iverson","msgstr":"Douglas Iverson"}
+{"msgctxt":"npcdata","msgid":"Dragon Hunter","msgstr":"Drachenjäger"}
+{"msgctxt":"npcdata","msgid":"Drathen Keldin","msgstr":"Drathen Keldin"}
+{"msgctxt":"npcdata","msgid":"Dread Pirate Stanley","msgstr":"Todespirat Stanley"}
+{"msgctxt":"npcdata","msgid":"Droppa MaPantz","msgstr":"Droppa MaPantz"}
+{"msgctxt":"npcdata","msgid":"Drusis Tiberio","msgstr":"Drusis Tiberio"}
+{"msgctxt":"npcdata","msgid":"Duroth the Eternal","msgstr":"Duroth der Ewige"}
+{"msgctxt":"npcdata","msgid":"Dyson Leland","msgstr":"Dyson Leland"}
+{"msgctxt":"npcdata","msgid":"Dyson Leyland","msgstr":"Dyson Leyland"}
+{"msgctxt":"npcdata","msgid":"Earnest","msgstr":"Earnest"}
+{"msgctxt":"npcdata","msgid":"Ebednezer Sower","msgstr":"Ebednezer Sauer"}
+{"msgctxt":"npcdata","msgid":"Edgar Botham","msgstr":"Edgar Botham"}
+{"msgctxt":"npcdata","msgid":"Edgar Carpenter","msgstr":"Edgar Carpenter"}
+{"msgctxt":"npcdata","msgid":"Edgar Willowbark","msgstr":"Edgar Weideneiche"}
+{"msgctxt":"npcdata","msgid":"Edna Harmenov","msgstr":"Edna Harmenov"}
+{"msgctxt":"npcdata","msgid":"Edward Hudson","msgstr":"Edward Hudson"}
+{"msgctxt":"npcdata","msgid":"Egor Ivanovich","msgstr":"Egor Ivanovich"}
+{"msgctxt":"npcdata","msgid":"Eithian ","msgstr":"Eithian"}
+{"msgctxt":"npcdata","msgid":"Eleanor Vanderbilt","msgstr":"Eleanor Vanderbilt"}
+{"msgctxt":"npcdata","msgid":"ElfKing","msgstr":"Elfenkönig"}
+{"msgctxt":"npcdata","msgid":"Elgar Fellmoon","msgstr":"Elgar Fellmoon"}
+{"msgctxt":"npcdata","msgid":"Elijah Skylark","msgstr":"Elijah Skylark"}
+{"msgctxt":"npcdata","msgid":"Ellen Rockway","msgstr":"Ellen Rockway"}
+{"msgctxt":"npcdata","msgid":"Elmo the Pincher","msgstr":"Elmo der Greifer"}
+{"msgctxt":"npcdata","msgid":"Elsbeth Lamentia","msgstr":"Elsbeth Lamentia"}
+{"msgctxt":"npcdata","msgid":"Elsie Apple","msgstr":"Elsie Apple"}
+{"msgctxt":"npcdata","msgid":"Elsie Freedman","msgstr":"Elsie Freedman"}
+{"msgctxt":"npcdata","msgid":"Elsie Pederton","msgstr":"Elsie Pederton"}
+{"msgctxt":"npcdata","msgid":"Elton Astrogate","msgstr":"Elton Astrogate"}
+{"msgctxt":"npcdata","msgid":"Elzbet Roggen","msgstr":"Elzbet Roggen"}
+{"msgctxt":"npcdata","msgid":"Elzbet Winterspoon","msgstr":"Elzbet Wintermaß"}
+{"msgctxt":"npcdata","msgid":"Ember","msgstr":"Ember"}
+{"msgctxt":"npcdata","msgid":"Emil Lime","msgstr":"Emil Lime"}
+{"msgctxt":"npcdata","msgid":"Emma Terrance","msgstr":"Emma Terrance"}
+{"msgctxt":"npcdata","msgid":"Emmanuel Cravitz","msgstr":"Emmanuel Cravitz"}
+{"msgctxt":"npcdata","msgid":"Enoch Highridge","msgstr":"Enoch Highridge"}
+{"msgctxt":"npcdata","msgid":"Eric Heffron","msgstr":"Eric Heffron"}
+{"msgctxt":"npcdata","msgid":"Eric Swarrel","msgstr":"Eric Swarrel"}
+{"msgctxt":"npcdata","msgid":"Eric Williamson","msgstr":"Eric Williamson"}
+{"msgctxt":"npcdata","msgid":"Erik Jarblower","msgstr":"Erik Jarblower"}
+{"msgctxt":"npcdata","msgid":"Erik Salzburg","msgstr":"Erik Salzburg"}
+{"msgctxt":"npcdata","msgid":"Erik Von Stromgard","msgstr":"Erik von Stromgard"}
+{"msgctxt":"npcdata","msgid":"Ernie Gallardo","msgstr":"Ernie Gallardo"}
+{"msgctxt":"npcdata","msgid":"Errol Ostermann","msgstr":"Errol Ostermann"}
+{"msgctxt":"npcdata","msgid":"Erthint","msgstr":"Erthint"}
+{"msgctxt":"npcdata","msgid":"Escaton","msgstr":"Escaton"}
+{"msgctxt":"npcdata","msgid":"Ethan Hillsman","msgstr":"Ethan Hillsman"}
+{"msgctxt":"npcdata","msgid":"Ethan Lightsworn","msgstr":"Ethan Lichtschwur"}
+{"msgctxt":"npcdata","msgid":"Ethel Armstrong","msgstr":"Ethel Armstrong"}
+{"msgctxt":"npcdata","msgid":"Euclid Kepler","msgstr":"Euclid Kepler"}
+{"msgctxt":"npcdata","msgid":"Eunbo Kim","msgstr":"Eunbo Kim"}
+{"msgctxt":"npcdata","msgid":"Eva Semple","msgstr":"Eva Semple"}
+{"msgctxt":"npcdata","msgid":"Evandar Lotts","msgstr":"Evandar Lotts"}
+{"msgctxt":"npcdata","msgid":"Evandar Thomas","msgstr":"Evandar Thomas"}
+{"msgctxt":"npcdata","msgid":"Evenblaze","msgstr":"Evenblaze"}
+{"msgctxt":"npcdata","msgid":"Everil Nightwalker","msgstr":"Everil Nachtwandler"}
+{"msgctxt":"npcdata","msgid":"Ex-captain Terrence","msgstr":"Ex-Captain Terrence"}
+{"msgctxt":"npcdata","msgid":"Expert Blaster","msgstr":"Experte Blaster"}
+{"msgctxt":"npcdata","msgid":"Expert Diplomacy","msgstr":"Expert Diplomacy"}
+{"msgctxt":"npcdata","msgid":"Expert Thievery","msgstr":"Expert Thievery"}
+{"msgctxt":"npcdata","msgid":"Fabian Sun","msgstr":"Fabian Sun"}
+{"msgctxt":"npcdata","msgid":"Faerie King","msgstr":"Feenkönig"}
+{"msgctxt":"npcdata","msgid":"Faith Kellenmoor","msgstr":"Faith Kellenmoor"}
+{"msgctxt":"npcdata","msgid":"Fake Loren","msgstr":"Falscher Loren"}
+{"msgctxt":"npcdata","msgid":"Falagar","msgstr":"Falagar"}
+{"msgctxt":"npcdata","msgid":"Farhill Snapfinger","msgstr":"Farhill Snapfinger"}
+{"msgctxt":"npcdata","msgid":"Fausil Keldin","msgstr":"Fausil Keldin"}
+{"msgctxt":"npcdata","msgid":"Fedwin Dervish","msgstr":"Fedwin Dervish"}
+{"msgctxt":"npcdata","msgid":"Fedwin Smithson","msgstr":"Fedwin Smithson"}
+{"msgctxt":"npcdata","msgid":"Feldin Urthsmite","msgstr":"Feldin Urthsmite"}
+{"msgctxt":"npcdata","msgid":"Feldspar Toolmen","msgstr":"Feldspar Toolmen"}
+{"msgctxt":"npcdata","msgid":"Fenella Ferne","msgstr":"Fenella Ferne"}
+{"msgctxt":"npcdata","msgid":"Fenton Iverson","msgstr":"Fenton Iverson"}
+{"msgctxt":"npcdata","msgid":"Fenton Krewlen","msgstr":"Fenton Krewlen"}
+{"msgctxt":"npcdata","msgid":"Ferdinand Visconti","msgstr":"Ferdinand Visconti"}
+{"msgctxt":"npcdata","msgid":"Fernando Castillo","msgstr":"Fernando Castillo"}
+{"msgctxt":"npcdata","msgid":"Ferris","msgstr":"Ferris"}
+{"msgctxt":"npcdata","msgid":"Ferris Oxhide","msgstr":"Ferris Ochsenfell"}
+{"msgctxt":"npcdata","msgid":"Fishner Thomb","msgstr":"Fishner Thomb"}
+{"msgctxt":"npcdata","msgid":"Flamdring","msgstr":"Flamdring"}
+{"msgctxt":"npcdata","msgid":"Fletcher Tormengast","msgstr":"Fletcher Tormengast"}
+{"msgctxt":"npcdata","msgid":"Florimel Evylen","msgstr":"Florimel Evylen"}
+{"msgctxt":"npcdata","msgid":"Flossie Setering","msgstr":"Flossie Setering"}
+{"msgctxt":"npcdata","msgid":"Flynn Arin","msgstr":"Flynn Arin"}
+{"msgctxt":"npcdata","msgid":"Flynn Shador","msgstr":"Flynn Shador"}
+{"msgctxt":"npcdata","msgid":"Forrest Suthers","msgstr":"Forrest Suthers"}
+{"msgctxt":"npcdata","msgid":"Frank Fairchild","msgstr":"Frank Fairchild"}
+{"msgctxt":"npcdata","msgid":"Frederick Org","msgstr":"Frederick Org"}
+{"msgctxt":"npcdata","msgid":"Fredrick Piles","msgstr":"Fredrick Piles"}
+{"msgctxt":"npcdata","msgid":"Fredrick Talimere","msgstr":"Fredrick Talimere"}
+{"msgctxt":"npcdata","msgid":"Gabe Lester","msgstr":"Gabe Lester"}
+{"msgctxt":"npcdata","msgid":"Gabriel Cartman","msgstr":"Gabriel Cartman"}
+{"msgctxt":"npcdata","msgid":"Gail Ashtengard","msgstr":"Gail Ashtengard"}
+{"msgctxt":"npcdata","msgid":"Galvinus","msgstr":"Galvinus"}
+{"msgctxt":"npcdata","msgid":"Gareth Lifter","msgstr":"Gareth Lifter"}
+{"msgctxt":"npcdata","msgid":"Gareth the Fixer","msgstr":"Gareth der Ganzmacher"}
+{"msgctxt":"npcdata","msgid":"Garic Hawthorne","msgstr":"Garic Hawthorne"}
+{"msgctxt":"npcdata","msgid":"Garic Senjac","msgstr":"Garic Senjac"}
+{"msgctxt":"npcdata","msgid":"Garion Ramiez","msgstr":"Garion Ramiez"}
+{"msgctxt":"npcdata","msgid":"Garret Deverro","msgstr":"Garret Deverro"}
+{"msgctxt":"npcdata","msgid":"Garret Dotes","msgstr":"Garret Dotes"}
+{"msgctxt":"npcdata","msgid":"Garret Mistspring","msgstr":"Garret Mistspring"}
+{"msgctxt":"npcdata","msgid":"Gary Zimm","msgstr":"Gary Zimm"}
+{"msgctxt":"npcdata","msgid":"Gavin Magnus","msgstr":"Gavin Magnus"}
+{"msgctxt":"npcdata","msgid":"Gayle","msgstr":"Gayle"}
+{"msgctxt":"npcdata","msgid":"Geofery Hamic","msgstr":"Geofery Hamic"}
+{"msgctxt":"npcdata","msgid":"Geoff Southy","msgstr":"Geoff Southy"}
+{"msgctxt":"npcdata","msgid":"George Almond","msgstr":"George Almond"}
+{"msgctxt":"npcdata","msgid":"George Ruof","msgstr":"George Ruof"}
+{"msgctxt":"npcdata","msgid":"Gerrold Dane","msgstr":"Gerrold Dane"}
+{"msgctxt":"npcdata","msgid":"Gertrude Whaler","msgstr":"Gertrude Whaler"}
+{"msgctxt":"npcdata","msgid":"Gethric Mercutura","msgstr":"Gethric Mercutura"}
+{"msgctxt":"npcdata","msgid":"Ghim Hammond","msgstr":"Ghim Hammond"}
+{"msgctxt":"npcdata","msgid":"Ghost of Balthasar","msgstr":"Geist von Balthasar"}
+{"msgctxt":"npcdata","msgid":"Ghost of John Silver","msgstr":"Geist von John Silver"}
+{"msgctxt":"npcdata","msgid":"Gibere","msgstr":"Gibere"}
+{"msgctxt":"npcdata","msgid":"Gilad Bith","msgstr":"Gilad Bith"}
+{"msgctxt":"npcdata","msgid":"Gilad Dreamwright","msgstr":"Gilad Dreamwright"}
+{"msgctxt":"npcdata","msgid":"Gilbert Hammer","msgstr":"Gilbert Hammer"}
+{"msgctxt":"npcdata","msgid":"Giliyan Redfern","msgstr":"Giliyan Redfern"}
+{"msgctxt":"npcdata","msgid":"Gina Barnes","msgstr":"Gina Barnes"}
+{"msgctxt":"npcdata","msgid":"Ginger Astor","msgstr":"Ginger Astor"}
+{"msgctxt":"npcdata","msgid":"Gizmo Bertram ","msgstr":"Gizmo Bertram "}
+{"msgctxt":"npcdata","msgid":"Gnimish Goroth","msgstr":"Gnimish Goroth"}
+{"msgctxt":"npcdata","msgid":"Gohei Matsu","msgstr":"Gohei Matsu"}
+{"msgctxt":"npcdata","msgid":"Golem","msgstr":"Golem"}
+{"msgctxt":"npcdata","msgid":"Gonzalo Ramirez","msgstr":"Gonzalo Ramirez"}
+{"msgctxt":"npcdata","msgid":"Gordon Styles","msgstr":"Gordon Styles"}
+{"msgctxt":"npcdata","msgid":"Graham Dancey","msgstr":"Graham Dancey"}
+{"msgctxt":"npcdata","msgid":"Gralkor the Cruel","msgstr":"Gralkor der Grausame"}
+{"msgctxt":"npcdata","msgid":"Grand Master Blaster","msgstr":"Großmeister Blaster"}
+{"msgctxt":"npcdata","msgid":"Grand Master Thievery","msgstr":"Grand Master Thievery"}
+{"msgctxt":"npcdata","msgid":"Grant Valandir","msgstr":"Grant Valandir"}
+{"msgctxt":"npcdata","msgid":"Greg Fulton","msgstr":"Greg Fulton"}
+{"msgctxt":"npcdata","msgid":"Gregory Mist","msgstr":"Gregory Mist"}
+{"msgctxt":"npcdata","msgid":"Gregory Weider","msgstr":"Gregory Weider"}
+{"msgctxt":"npcdata","msgid":"Gretchen Fallzen","msgstr":"Gretchen Fallzen"}
+{"msgctxt":"npcdata","msgid":"Gretchin Fiddlebone","msgstr":"Gretchin Fidelholz"}
+{"msgctxt":"npcdata","msgid":"Gretchin Nevermore","msgstr":"Gretchin Nevermore"}
+{"msgctxt":"npcdata","msgid":"Griven","msgstr":"Griven"}
+{"msgctxt":"npcdata","msgid":"Guard","msgstr":"Wache"}
+{"msgctxt":"npcdata","msgid":"Gus Smedstad ","msgstr":"Gus Smedstad "}
+{"msgctxt":"npcdata","msgid":"Guthwulf","msgstr":"Guthwulf"}
+{"msgctxt":"npcdata","msgid":"Guy Hampton","msgstr":"Guy Hampton"}
+{"msgctxt":"npcdata","msgid":"Hairbaugh","msgstr":"Hairbaugh"}
+{"msgctxt":"npcdata","msgid":"Halain Sampson","msgstr":"Halain Sampson"}
+{"msgctxt":"npcdata","msgid":"Halfgild Wynac","msgstr":"Halfgild Wynac"}
+{"msgctxt":"npcdata","msgid":"Halian Eversmyle","msgstr":"Halian Eversmyle"}
+{"msgctxt":"npcdata","msgid":"Halian Nevermore","msgstr":"Halian Nevermore"}
+{"msgctxt":"npcdata","msgid":"Hallien","msgstr":"Hallien"}
+{"msgctxt":"npcdata","msgid":"Hans Gifford","msgstr":"Hans Gifford"}
+{"msgctxt":"npcdata","msgid":"Hans Schultz","msgstr":"Hans Schultz"}
+{"msgctxt":"npcdata","msgid":"Harli Quinn","msgstr":"Harli Quinn"}
+{"msgctxt":"npcdata","msgid":"Harold Amwen","msgstr":"Harold Amwen"}
+{"msgctxt":"npcdata","msgid":"Harold Hess","msgstr":"Harold Hess"}
+{"msgctxt":"npcdata","msgid":"Harper Collins","msgstr":"Harper Collins"}
+{"msgctxt":"npcdata","msgid":"Harper Nike","msgstr":"Harper Nike"}
+{"msgctxt":"npcdata","msgid":"Harriet Waters","msgstr":"Harriet Waters"}
+{"msgctxt":"npcdata","msgid":"Harry Merit","msgstr":"Harry Merit"}
+{"msgctxt":"npcdata","msgid":"Heather Cardron","msgstr":"Heather Cardron"}
+{"msgctxt":"npcdata","msgid":"Heather Dreamwright","msgstr":"Heather Traumgeber"}
+{"msgctxt":"npcdata","msgid":"Heather Goblinreaver","msgstr":"Heather Goblinreaver"}
+{"msgctxt":"npcdata","msgid":"Heather Hughes","msgstr":"Heather Hughes"}
+{"msgctxt":"npcdata","msgid":"Heather Mitchell","msgstr":"Heather Mitchell"}
+{"msgctxt":"npcdata","msgid":"Hector Dragged","msgstr":"Hector Dragged"}
+{"msgctxt":"npcdata","msgid":"Heidi Strumper","msgstr":"Heidi Strumper"}
+{"msgctxt":"npcdata","msgid":"Hejaz Mawsil","msgstr":"Hejaz Mawsil"}
+{"msgctxt":"npcdata","msgid":"Helen Teal","msgstr":"Helen Teal"}
+{"msgctxt":"npcdata","msgid":"Helena Morningstar","msgstr":"Helena Morgenstern"}
+{"msgctxt":"npcdata","msgid":"Helga Steeleye","msgstr":"Helga Steeleye"}
+{"msgctxt":"npcdata","msgid":"Helga Whitesky","msgstr":"Helga Weißwolke"}
+{"msgctxt":"npcdata","msgid":"Helius","msgstr":"Helius"}
+{"msgctxt":"npcdata","msgid":"Herald Foestryke","msgstr":"Herald Foestryke"}
+{"msgctxt":"npcdata","msgid":"Herald Whitecap","msgstr":"Herald Weißkappe"}
+{"msgctxt":"npcdata","msgid":"Hevatia Deverbero","msgstr":"Hevatia Deverbero"}
+{"msgctxt":"npcdata","msgid":"Hiss","msgstr":"Hiss"}
+{"msgctxt":"npcdata","msgid":"Hitomi Mirumoto","msgstr":"Hitomi Mirumoto"}
+{"msgctxt":"npcdata","msgid":"Hobb Sandwind","msgstr":"Hobb Sandwind"}
+{"msgctxt":"npcdata","msgid":"Hobert","msgstr":"Hobert"}
+{"msgctxt":"npcdata","msgid":"Holden","msgstr":"Holden"}
+{"msgctxt":"npcdata","msgid":"Hollis Stormeye","msgstr":"Hollis Stormeye"}
+{"msgctxt":"npcdata","msgid":"Hollis the True","msgstr":"Hollis der Reine"}
+{"msgctxt":"npcdata","msgid":"Holly Struthers","msgstr":"Holly Struthers"}
+{"msgctxt":"npcdata","msgid":"Horace Rose","msgstr":"Horace Rose"}
+{"msgctxt":"npcdata","msgid":"Hothfarr IX","msgstr":"Hothfarr IX"}
+{"msgctxt":"npcdata","msgid":"Hugger Brother","msgstr":"Hugger-Bruder"}
+{"msgctxt":"npcdata","msgid":"Husk","msgstr":"Husk"}
+{"msgctxt":"npcdata","msgid":"Ian Bullard","msgstr":"Ian Bullard"}
+{"msgctxt":"npcdata","msgid":"Ian Trom","msgstr":"Ian Trom"}
+{"msgctxt":"npcdata","msgid":"Icarus Dire","msgstr":"Icarus Dire"}
+{"msgctxt":"npcdata","msgid":"Ich ","msgstr":"Ich"}
+{"msgctxt":"npcdata","msgid":"Igor","msgstr":"Igor"}
+{"msgctxt":"npcdata","msgid":"Ike Pargrew","msgstr":"Ike Pargrew"}
+{"msgctxt":"npcdata","msgid":"Illene Farswell","msgstr":"Illene Farswell"}
+{"msgctxt":"npcdata","msgid":"Indihir Vilandi","msgstr":"Indihir Vilandi"}
+{"msgctxt":"npcdata","msgid":"Infaustus ","msgstr":"Infaustus "}
+{"msgctxt":"npcdata","msgid":"Infernon","msgstr":"Infernon"}
+{"msgctxt":"npcdata","msgid":"Inja Yew","msgstr":"Inja Yew"}
+{"msgctxt":"npcdata","msgid":"Irabelle Hunter","msgstr":"Irabelle Hunter"}
+{"msgctxt":"npcdata","msgid":"Irbil Baktarian","msgstr":"Wilma Avis"}
+{"msgctxt":"npcdata","msgid":"Iris Amble","msgstr":"Iris Amble"}
+{"msgctxt":"npcdata","msgid":"Iris Poppyfield","msgstr":"Iris Poppyfield"}
+{"msgctxt":"npcdata","msgid":"Irving Kull","msgstr":"Irving Kull"}
+{"msgctxt":"npcdata","msgid":"Isaac Rockwell","msgstr":"Isaac Rockwell"}
+{"msgctxt":"npcdata","msgid":"Isaac Streetman","msgstr":"Isaac Streetman"}
+{"msgctxt":"npcdata","msgid":"Isao Magistrus","msgstr":"Isao Magistrus"}
+{"msgctxt":"npcdata","msgid":"Isao Tizare","msgstr":"Isao Tizare"}
+{"msgctxt":"npcdata","msgid":"Ishton","msgstr":"Ishton"}
+{"msgctxt":"npcdata","msgid":"Isram Delver","msgstr":"Isram Delver"}
+{"msgctxt":"npcdata","msgid":"Isram Gallowswell","msgstr":"Isram Galgenberg"}
+{"msgctxt":"npcdata","msgid":"Issac Applebee","msgstr":"Issac Apfelbiene"}
+{"msgctxt":"npcdata","msgid":"Isthric the Tongue","msgstr":"Isthric die Zunge"}
+{"msgctxt":"npcdata","msgid":"Ithilgore","msgstr":"Ithilgore"}
+{"msgctxt":"npcdata","msgid":"Ivan Magyar","msgstr":"Ivan Magyar"}
+{"msgctxt":"npcdata","msgid":"Jack Crow","msgstr":"Jack Crow"}
+{"msgctxt":"npcdata","msgid":"Jack Russell","msgstr":"Jack Russell"}
+{"msgctxt":"npcdata","msgid":"Jack Van Imp","msgstr":"Jack Van Imp"}
+{"msgctxt":"npcdata","msgid":"Jacques Kohl","msgstr":"Jacques Kohl"}
+{"msgctxt":"npcdata","msgid":"Jacques Roscomon","msgstr":"Jacques Roscomon"}
+{"msgctxt":"npcdata","msgid":"Jake","msgstr":"Jake"}
+{"msgctxt":"npcdata","msgid":"Jake Green","msgstr":"Jake Green"}
+{"msgctxt":"npcdata","msgid":"James Dickinson","msgstr":"James Dickinson"}
+{"msgctxt":"npcdata","msgid":"Janet Thomas","msgstr":"Janet Thomas"}
+{"msgctxt":"npcdata","msgid":"Janice","msgstr":"Janice"}
+{"msgctxt":"npcdata","msgid":"Jarrena Marmon","msgstr":"Jarrena Marmon"}
+{"msgctxt":"npcdata","msgid":"Jasmine Jeavers","msgstr":"Jasmine Jeavers"}
+{"msgctxt":"npcdata","msgid":"Jasmine Spicer","msgstr":"Jasmine Spicer"}
+{"msgctxt":"npcdata","msgid":"Jason Duster","msgstr":"Jason Duster"}
+{"msgctxt":"npcdata","msgid":"Jason Traveler","msgstr":"Jason Traveler"}
+{"msgctxt":"npcdata","msgid":"Jasp Hunter","msgstr":"Jasp Hunter"}
+{"msgctxt":"npcdata","msgid":"Jasp Thelbourne","msgstr":"Jasp Thelbourne"}
+{"msgctxt":"npcdata","msgid":"Jasp the Nightcrawler","msgstr":"Jasp der Nachtläufer"}
+{"msgctxt":"npcdata","msgid":"Jasper Fissure","msgstr":"Jasper Riß"}
+{"msgctxt":"npcdata","msgid":"Jasper Rice","msgstr":"Jasper Rice"}
+{"msgctxt":"npcdata","msgid":"Jasper Steelcoif","msgstr":"Jasper Steelcoif"}
+{"msgctxt":"npcdata","msgid":"Jasper Welman","msgstr":"Jasper Welman"}
+{"msgctxt":"npcdata","msgid":"Jayce Kedrin","msgstr":"Jayce Kedrin"}
+{"msgctxt":"npcdata","msgid":"Jaycen Keldin","msgstr":"Jaycen Keldin"}
+{"msgctxt":"npcdata","msgid":"Jaycin Cardron","msgstr":"Jaycin Cardron"}
+{"msgctxt":"npcdata","msgid":"Jaycin Suretrail","msgstr":"Jaycin Festpfad"}
+{"msgctxt":"npcdata","msgid":"Jean Acton","msgstr":"Jean Acton"}
+{"msgctxt":"npcdata","msgid":"Jed Morrison","msgstr":"Jed Morrison"}
+{"msgctxt":"npcdata","msgid":"Jeff Bigman","msgstr":"Jeff Bigman"}
+{"msgctxt":"npcdata","msgid":"Jeff Blattner","msgstr":"Jeff Blattner"}
+{"msgctxt":"npcdata","msgid":"Jeff Leggett","msgstr":"Jeff Leggett"}
+{"msgctxt":"npcdata","msgid":"Jeni Swiftfoot","msgstr":"Jeni Flinkfuß"}
+{"msgctxt":"npcdata","msgid":"Jennifer Bullard","msgstr":"Jennifer Bullard"}
+{"msgctxt":"npcdata","msgid":"Jennifer Herzl","msgstr":"Jennifer Herzl"}
+{"msgctxt":"npcdata","msgid":"Jeric Whistlebone","msgstr":"Jeric Whistlebone"}
+{"msgctxt":"npcdata","msgid":"Jerin Flame-eye","msgstr":"Jerin Flame-eye"}
+{"msgctxt":"npcdata","msgid":"Jessica Carson","msgstr":"Jessica Carson"}
+{"msgctxt":"npcdata","msgid":"Jezebel","msgstr":"Jezebel"}
+{"msgctxt":"npcdata","msgid":"Jillian Applebee","msgstr":"Jillian Applebee"}
+{"msgctxt":"npcdata","msgid":"Jillian Mithrit","msgstr":"Jillian Mithrit"}
+{"msgctxt":"npcdata","msgid":"Jo Handlebaum","msgstr":"Jo Handlebaum"}
+{"msgctxt":"npcdata","msgid":"Joanne Cravitz","msgstr":"Joanne Cravitz"}
+{"msgctxt":"npcdata","msgid":"Jobber ","msgstr":"Jobber"}
+{"msgctxt":"npcdata","msgid":"Jobber Thain","msgstr":"Jobber Thain"}
+{"msgctxt":"npcdata","msgid":"Joe McGuffin","msgstr":"Joe McGuffin"}
+{"msgctxt":"npcdata","msgid":"Joel Kelly ","msgstr":"Joel Kelly"}
+{"msgctxt":"npcdata","msgid":"Johann Kerrid","msgstr":"Johann Kerrid"}
+{"msgctxt":"npcdata","msgid":"Johanson Kern","msgstr":"Johanson Kern"}
+{"msgctxt":"npcdata","msgid":"John Bolton","msgstr":"John Bolton"}
+{"msgctxt":"npcdata","msgid":"John Gibson","msgstr":"John Gibson"}
+{"msgctxt":"npcdata","msgid":"John Krause","msgstr":"John Krause"}
+{"msgctxt":"npcdata","msgid":"John Machin","msgstr":"John Machin"}
+{"msgctxt":"npcdata","msgid":"John Machin (Mac)","msgstr":"John Machin (Mac)"}
+{"msgctxt":"npcdata","msgid":"John Slowsky","msgstr":"John Slowsky"}
+{"msgctxt":"npcdata","msgid":"John Tuck","msgstr":"John Tuck"}
+{"msgctxt":"npcdata","msgid":"Jon Van Caneghem","msgstr":"Jon Van Caneghem"}
+{"msgctxt":"npcdata","msgid":"Josef Logger","msgstr":"Josef Logger"}
+{"msgctxt":"npcdata","msgid":"Joseph Buron","msgstr":"Joseph Buron"}
+{"msgctxt":"npcdata","msgid":"Journey","msgstr":"Journey"}
+{"msgctxt":"npcdata","msgid":"Joy Brown","msgstr":"Joy Brown"}
+{"msgctxt":"npcdata","msgid":"Judge Fairweather","msgstr":"Richter Fairweather"}
+{"msgctxt":"npcdata","msgid":"Judge Grey","msgstr":"Richter Grey"}
+{"msgctxt":"npcdata","msgid":"Judge Sleen","msgstr":"Richter Sleen"}
+{"msgctxt":"npcdata","msgid":"Judith Shoemaker","msgstr":"Judith Shoemaker"}
+{"msgctxt":"npcdata","msgid":"Jules Miles","msgstr":"Jules Miles"}
+{"msgctxt":"npcdata","msgid":"Julia Ulano","msgstr":"Julia Ulano"}
+{"msgctxt":"npcdata","msgid":"Julian Greensward","msgstr":"Julian Greensward"}
+{"msgctxt":"npcdata","msgid":"Julian the Delver","msgstr":"Julian der Forscher"}
+{"msgctxt":"npcdata","msgid":"Julie Cooper","msgstr":"Julie Cooper"}
+{"msgctxt":"npcdata","msgid":"Jult Bandito","msgstr":"Jult Bandito"}
+{"msgctxt":"npcdata","msgid":"Just_A_Brain","msgstr":"Nur_Ein_Gehirn"}
+{"msgctxt":"npcdata","msgid":"Kachiko Toranaga","msgstr":"Kachiko Toranaga"}
+{"msgctxt":"npcdata","msgid":"Kai Lian","msgstr":"Kai Lian"}
+{"msgctxt":"npcdata","msgid":"Kaine","msgstr":"Kaine"}
+{"msgctxt":"npcdata","msgid":"Karanya Memoria","msgstr":"Karanya Memoria"}
+{"msgctxt":"npcdata","msgid":"Karl Drown","msgstr":"Karl Drown"}
+{"msgctxt":"npcdata","msgid":"Karla Nirses","msgstr":"Karla Nirses"}
+{"msgctxt":"npcdata","msgid":"Karla Ravenhair","msgstr":"Karla Rabenhaar"}
+{"msgctxt":"npcdata","msgid":"Karlin Arachnia","msgstr":"Karlin Arachnia"}
+{"msgctxt":"npcdata","msgid":"Karlin Ivers","msgstr":"Karlin Ivers"}
+{"msgctxt":"npcdata","msgid":"Karlin Talion","msgstr":"Karlin Talion"}
+{"msgctxt":"npcdata","msgid":"Karn Bowes","msgstr":"Karn Bowes"}
+{"msgctxt":"npcdata","msgid":"Karn Stonecleaver","msgstr":"Karn Steinspalter"}
+{"msgctxt":"npcdata","msgid":"Karzon Skyefyre","msgstr":"Karzon Himmelsfeuer"}
+{"msgctxt":"npcdata","msgid":"Kastore","msgstr":"Kastore"}
+{"msgctxt":"npcdata","msgid":"Kate Vanover","msgstr":"Kate Vanover"}
+{"msgctxt":"npcdata","msgid":"Kathleen Mester","msgstr":"Kathleen Mester"}
+{"msgctxt":"npcdata","msgid":"Keith Francart","msgstr":"Keith Francart"}
+{"msgctxt":"npcdata","msgid":"Keith Talanay","msgstr":"Keith Talanay"}
+{"msgctxt":"npcdata","msgid":"Keldon","msgstr":"Keldon"}
+{"msgctxt":"npcdata","msgid":"Kelli Hollyfield","msgstr":"Kelli Hollyfield"}
+{"msgctxt":"npcdata","msgid":"Kelli Lightfingers","msgstr":"Kelli Lightfingers"}
+{"msgctxt":"npcdata","msgid":"Kelly Garnet","msgstr":"Kelly Garnet"}
+{"msgctxt":"npcdata","msgid":"Kelvin","msgstr":"Kelvin"}
+{"msgctxt":"npcdata","msgid":"Ken Chomais","msgstr":"Ken Chomais"}
+{"msgctxt":"npcdata","msgid":"Ken Spencer","msgstr":"Ken Spencer"}
+{"msgctxt":"npcdata","msgid":"Ken Thomson","msgstr":"Ken Thomson"}
+{"msgctxt":"npcdata","msgid":"Kenneth Otterton","msgstr":"Kenneth Otterton"}
+{"msgctxt":"npcdata","msgid":"Kenneth Wain","msgstr":"Kenneth Wain"}
+{"msgctxt":"npcdata","msgid":"Kent Williams","msgstr":"Kent Williams"}
+{"msgctxt":"npcdata","msgid":"Kerin Bremen","msgstr":"Kerin Bremen"}
+{"msgctxt":"npcdata","msgid":"Kerin Greydawn","msgstr":"Kerin Graumorgen"}
+{"msgctxt":"npcdata","msgid":"Kerman Murian","msgstr":"Tran Arvid"}
+{"msgctxt":"npcdata","msgid":"Kern Carnegie","msgstr":"Kern Carnegie"}
+{"msgctxt":"npcdata","msgid":"Kethric Otterton","msgstr":"Kethric Otterton"}
+{"msgctxt":"npcdata","msgid":"Kethric Tarent","msgstr":"Kethric Tarent"}
+{"msgctxt":"npcdata","msgid":"Kethry Dawnsglow","msgstr":"Kethry Dawnsglow"}
+{"msgctxt":"npcdata","msgid":"Kethry Treasurestone","msgstr":"Kethry Treasurestone"}
+{"msgctxt":"npcdata","msgid":"Kevin Watch","msgstr":"Kevin Watch"}
+{"msgctxt":"npcdata","msgid":"Ki Lo Nee","msgstr":"Ki Lo Nee"}
+{"msgctxt":"npcdata","msgid":"Kim Astrogate","msgstr":"Kim Astrogate"}
+{"msgctxt":"npcdata","msgid":"Kindle Fellburn","msgstr":"Kindle Fellburn"}
+{"msgctxt":"npcdata","msgid":"Kindle Treasurestone","msgstr":"Kindle Schatzstein"}
+{"msgctxt":"npcdata","msgid":"King Louis","msgstr":"König Louis"}
+{"msgctxt":"npcdata","msgid":"King Roland","msgstr":"König Roland"}
+{"msgctxt":"npcdata","msgid":"Kira Cardrin","msgstr":"Kira Cardrin"}
+{"msgctxt":"npcdata","msgid":"Kira Steeleye","msgstr":"Kira Stahlblick"}
+{"msgctxt":"npcdata","msgid":"Klain Scarwing","msgstr":"Klain Scarwing"}
+{"msgctxt":"npcdata","msgid":"Kurt McKeever","msgstr":"Kurt McKeever"}
+{"msgctxt":"npcdata","msgid":"Kyle Lutvig","msgstr":"Kyle Lutvig"}
+{"msgctxt":"npcdata","msgid":"Kyra Sparkmen","msgstr":"Kyra Sparkmen"}
+{"msgctxt":"npcdata","msgid":"Kyra Stormeye","msgstr":"Kyra Sturmauge"}
+{"msgctxt":"npcdata","msgid":"Lady Carmine","msgstr":"Lady Carmine"}
+{"msgctxt":"npcdata","msgid":"Languid","msgstr":"Languid"}
+{"msgctxt":"npcdata","msgid":"Lanshee Caverhill","msgstr":"Lanshee Caverhill"}
+{"msgctxt":"npcdata","msgid":"Lanshee Ravensight","msgstr":"Lanshee Rabensicht"}
+{"msgctxt":"npcdata","msgid":"Lara Gallowswell","msgstr":"Lara Gallowswell"}
+{"msgctxt":"npcdata","msgid":"Lara Stonewright","msgstr":"Lara Steinbrecher"}
+{"msgctxt":"npcdata","msgid":"Larry Dorfmann","msgstr":"Larry Dorfmann"}
+{"msgctxt":"npcdata","msgid":"Lasatin the Scarred","msgstr":"Lasatin der Narbige"}
+{"msgctxt":"npcdata","msgid":"Lasiter Ravensight","msgstr":"Lasiter Ravensight"}
+{"msgctxt":"npcdata","msgid":"Lasiter the Slayer","msgstr":"Lasiter der Schlächter"}
+{"msgctxt":"npcdata","msgid":"Lathean","msgstr":"Lathean"}
+{"msgctxt":"npcdata","msgid":"Lathius","msgstr":"Lathius"}
+{"msgctxt":"npcdata","msgid":"Lawrence Aleman","msgstr":"Lawrence Aleman"}
+{"msgctxt":"npcdata","msgid":"Lawrence Mark","msgstr":"Lawrence Mark"}
+{"msgctxt":"npcdata","msgid":"Leah Lu","msgstr":"Leah Lu"}
+{"msgctxt":"npcdata","msgid":"Leane Shadowrunner","msgstr":"Leane Schattenläufer"}
+{"msgctxt":"npcdata","msgid":"Leane Stormlance","msgstr":"Leane Stormlance"}
+{"msgctxt":"npcdata","msgid":"Leda Rowan","msgstr":"Leda Rowan"}
+{"msgctxt":"npcdata","msgid":"Lenord Nightcrawler","msgstr":"Lenord Nightcrawler"}
+{"msgctxt":"npcdata","msgid":"Lenord Skinner","msgstr":"Lenord Pelzer"}
+{"msgctxt":"npcdata","msgid":"Leo Grant","msgstr":"Leo Grant"}
+{"msgctxt":"npcdata","msgid":"Leon Lazaru","msgstr":"Leon Lazaru"}
+{"msgctxt":"npcdata","msgid":"Les Parker","msgstr":"Les Parker"}
+{"msgctxt":"npcdata","msgid":"Lesiah Marduk","msgstr":"Lesiah Marduk"}
+{"msgctxt":"npcdata","msgid":"Li Tizare","msgstr":"Li Tizare"}
+{"msgctxt":"npcdata","msgid":"Licia Rivenrock","msgstr":"Licia Spaltfels"}
+{"msgctxt":"npcdata","msgid":"Lilly June","msgstr":"Lilly June"}
+{"msgctxt":"npcdata","msgid":"Linda Draken","msgstr":"Linda Draken"}
+{"msgctxt":"npcdata","msgid":"Linda Nichols","msgstr":"Linda Nichols"}
+{"msgctxt":"npcdata","msgid":"Lisa Janway","msgstr":"Lisa Janway"}
+{"msgctxt":"npcdata","msgid":"Lisa Whitman","msgstr":"Lisa Whitman"}
+{"msgctxt":"npcdata","msgid":"Lisha Redding","msgstr":"Lisha Redding"}
+{"msgctxt":"npcdata","msgid":"Lisha Sourbrow","msgstr":"Lisha Sourbrow"}
+{"msgctxt":"npcdata","msgid":"Lita Roggen","msgstr":"Lita Roggen"}
+{"msgctxt":"npcdata","msgid":"Livia Farrel","msgstr":"Livia Farrel"}
+{"msgctxt":"npcdata","msgid":"Lizardman Guard","msgstr":"Echsenmann-Wache"}
+{"msgctxt":"npcdata","msgid":"Lizardman Peasant","msgstr":"Echsenmann-Bauer"}
+{"msgctxt":"npcdata","msgid":"Loamwalker","msgstr":"Loamwalker"}
+{"msgctxt":"npcdata","msgid":"Logan Dasher","msgstr":"Logan Dasher"}
+{"msgctxt":"npcdata","msgid":"Lon Miller","msgstr":"Lon Miller"}
+{"msgctxt":"npcdata","msgid":"Long-Tail","msgstr":"Long-Tail"}
+{"msgctxt":"npcdata","msgid":"Lord Markham","msgstr":"Lord Markham"}
+{"msgctxt":"npcdata","msgid":"Lord Roberts","msgstr":"Lord Roberts"}
+{"msgctxt":"npcdata","msgid":"Lord of Fire","msgstr":"Feuerlord"}
+{"msgctxt":"npcdata","msgid":"Loren Steel","msgstr":"Loren Steel"}
+{"msgctxt":"npcdata","msgid":"Loretta Fleise","msgstr":"Loretta Fleise"}
+{"msgctxt":"npcdata","msgid":"Lori Tao","msgstr":"Lori Tao"}
+{"msgctxt":"npcdata","msgid":"Lori Vespers","msgstr":"Lori Vespers"}
+{"msgctxt":"npcdata","msgid":"Lori Winterbright","msgstr":"Lori Winterlicht"}
+{"msgctxt":"npcdata","msgid":"Lorn Hammer","msgstr":"Lorn Hammer"}
+{"msgctxt":"npcdata","msgid":"Lou Henderson","msgstr":"Lou Henderson"}
+{"msgctxt":"npcdata","msgid":"Lucid Apple","msgstr":"Lucid Apple"}
+{"msgctxt":"npcdata","msgid":"Lucky Oster","msgstr":"Lucky Oster"}
+{"msgctxt":"npcdata","msgid":"Lunius Dawnbringer","msgstr":"Lunius Dawnbringer"}
+{"msgctxt":"npcdata","msgid":"Lunius Shador","msgstr":"Lunius Shador"}
+{"msgctxt":"npcdata","msgid":"Lyle Roma","msgstr":"Lyle Roma"}
+{"msgctxt":"npcdata","msgid":"Lysander Farrel","msgstr":"Lysander Farrel"}
+{"msgctxt":"npcdata","msgid":"Lysander Sweet","msgstr":"Lysander Süß"}
+{"msgctxt":"npcdata","msgid":"Macro Caligula","msgstr":"Macro Caligula"}
+{"msgctxt":"npcdata","msgid":"Maddigan the Tracker","msgstr":"Maddigan der Fährtenleser"}
+{"msgctxt":"npcdata","msgid":"Madeleine Towers","msgstr":"Madeleine Towers"}
+{"msgctxt":"npcdata","msgid":"Madigan Tarent","msgstr":"Madigan Tarent"}
+{"msgctxt":"npcdata","msgid":"Malisha Karrand","msgstr":"Malisha Karrand"}
+{"msgctxt":"npcdata","msgid":"Marc Teagan","msgstr":"Marc Teagan"}
+{"msgctxt":"npcdata","msgid":"Marcellus Lutvig","msgstr":"Marcellus Lutvig"}
+{"msgctxt":"npcdata","msgid":"Marcus Pregent","msgstr":"Marcus Pregent"}
+{"msgctxt":"npcdata","msgid":"Margaret the Docent","msgstr":"Margaret die Führerin"}
+{"msgctxt":"npcdata","msgid":"Maria","msgstr":"Maria"}
+{"msgctxt":"npcdata","msgid":"Maria Trepan","msgstr":"Maria Trepan"}
+{"msgctxt":"npcdata","msgid":"Mark Caldwell","msgstr":"Mark Caldwell"}
+{"msgctxt":"npcdata","msgid":"Mark Miller","msgstr":"Mark Miller"}
+{"msgctxt":"npcdata","msgid":"Marton Ferris","msgstr":"Marton Ferris"}
+{"msgctxt":"npcdata","msgid":"Mary Ellen Babson","msgstr":"Mary Ellen Babson"}
+{"msgctxt":"npcdata","msgid":"Master Thievery","msgstr":"Master Thievery"}
+{"msgctxt":"npcdata","msgid":"Masul","msgstr":"Masul"}
+{"msgctxt":"npcdata","msgid":"Matric Bowes","msgstr":"Matric Bowes"}
+{"msgctxt":"npcdata","msgid":"Matric Keenedge","msgstr":"Matric Keenedge"}
+{"msgctxt":"npcdata","msgid":"Matric Townsaver","msgstr":"Matric Townsaver"}
+{"msgctxt":"npcdata","msgid":"Matric Weatherson","msgstr":"Matric Weatherson"}
+{"msgctxt":"npcdata","msgid":"Matthias Bearheart","msgstr":"Matthias Bärenherz"}
+{"msgctxt":"npcdata","msgid":"Mattric Bowes","msgstr":"Mattric Bowes"}
+{"msgctxt":"npcdata","msgid":"Maximus","msgstr":"Maximus"}
+{"msgctxt":"npcdata","msgid":"Maylander ","msgstr":"Maylander "}
+{"msgctxt":"npcdata","msgid":"Mazim Dusk","msgstr":"Mazim Dämmer"}
+{"msgctxt":"npcdata","msgid":"Medwari Dragontracker","msgstr":"Medwari Drachenfinder"}
+{"msgctxt":"npcdata","msgid":"Medwari Elmsmire","msgstr":"Medwari Elmsmire"}
+{"msgctxt":"npcdata","msgid":"Melody Silver","msgstr":"Melody Silver"}
+{"msgctxt":"npcdata","msgid":"Melody Stone","msgstr":"Melody Stone"}
+{"msgctxt":"npcdata","msgid":"Menasaur ","msgstr":"Menasaur"}
+{"msgctxt":"npcdata","msgid":"Mephisto, Ancient Sorcerer","msgstr":"Mephisto, Uralter Zauberer"}
+{"msgctxt":"npcdata","msgid":"Messenger","msgstr":"Bote"}
+{"msgctxt":"npcdata","msgid":"Mia Lucille","msgstr":"Mia Lucille"}
+{"msgctxt":"npcdata","msgid":"Michael Ogilvy","msgstr":"Michael Ogilvy"}
+{"msgctxt":"npcdata","msgid":"Michael Tuck","msgstr":"Michael Tuck"}
+{"msgctxt":"npcdata","msgid":"Michael Wolf ","msgstr":"Michael Wolf"}
+{"msgctxt":"npcdata","msgid":"Michele Blackshire","msgstr":"Michele Blackshire"}
+{"msgctxt":"npcdata","msgid":"Mihi Mihi Nanook","msgstr":"Mihi Mihi Nanook"}
+{"msgctxt":"npcdata","msgid":"Mikel Deerhunter","msgstr":"Mikel Rehjäger"}
+{"msgctxt":"npcdata","msgid":"Mikel Smithson","msgstr":"Mikel Smithson"}
+{"msgctxt":"npcdata","msgid":"Miles Loman","msgstr":"Miles Loman"}
+{"msgctxt":"npcdata","msgid":"Minotaur Peasant","msgstr":"Minotauren-Bauer"}
+{"msgctxt":"npcdata","msgid":"Mireille Warlin","msgstr":"Mireille Warlin"}
+{"msgctxt":"npcdata","msgid":"Miriam Boyer","msgstr":"Miriam Boyer"}
+{"msgctxt":"npcdata","msgid":"Miriam Goodwife","msgstr":"Miriam Goodwife"}
+{"msgctxt":"npcdata","msgid":"Miro Shinek","msgstr":"Miro Shinek"}
+{"msgctxt":"npcdata","msgid":"Miyon Dragontracker","msgstr":"Miyon Dragontracker"}
+{"msgctxt":"npcdata","msgid":"Miyon the Quick","msgstr":"Miyon der Flinke"}
+{"msgctxt":"npcdata","msgid":"Mort Arnosti","msgstr":"Mort Arnosti"}
+{"msgctxt":"npcdata","msgid":"Mortie Bith","msgstr":"Mortie Bith"}
+{"msgctxt":"npcdata","msgid":"Mortie Ottin","msgstr":"Mortie Ottin"}
+{"msgctxt":"npcdata","msgid":"Morton Holovin","msgstr":"Morton Holovin"}
+{"msgctxt":"npcdata","msgid":"Mr. Malwick","msgstr":"Herr Malwick"}
+{"msgctxt":"npcdata","msgid":"Mylander","msgstr":"Mylander"}
+{"msgctxt":"npcdata","msgid":"Myles Featherwind","msgstr":"Myles Federwind"}
+{"msgctxt":"npcdata","msgid":"Myles Greydawn","msgstr":"Myles Greydawn"}
+{"msgctxt":"npcdata","msgid":"Mynasia","msgstr":"Mynasia"}
+{"msgctxt":"npcdata","msgid":"Myyra Hian","msgstr":"Myyra Hian"}
+{"msgctxt":"npcdata","msgid":"Nadine Hayden","msgstr":"Nadine Hayden"}
+{"msgctxt":"npcdata","msgid":"Najat Ramadi","msgstr":"Lester Farnsworth"}
+{"msgctxt":"npcdata","msgid":"Nalani","msgstr":"Nalani"}
+{"msgctxt":"npcdata","msgid":"Naomi Highland","msgstr":"Naomi Highland"}
+{"msgctxt":"npcdata","msgid":"Naomi Wind","msgstr":"Naomi Wind"}
+{"msgctxt":"npcdata","msgid":"Nathaniel Roberts","msgstr":"Nathaniel Roberts"}
+{"msgctxt":"npcdata","msgid":"Neblick","msgstr":"Neblick"}
+{"msgctxt":"npcdata","msgid":"Necromancer Peasant","msgstr":"Bauer der Nekromantengilde"}
+{"msgctxt":"npcdata","msgid":"Nelix Uriel","msgstr":"Nelix Uriel"}
+{"msgctxt":"npcdata","msgid":"Nero Claudius","msgstr":"Nero Claudius"}
+{"msgctxt":"npcdata","msgid":"Newt Headrow","msgstr":"Newt Headrow"}
+{"msgctxt":"npcdata","msgid":"Nicco Wargon ","msgstr":"Nicco Wargon"}
+{"msgctxt":"npcdata","msgid":"Nicholas Roth","msgstr":"Nicholas Roth"}
+{"msgctxt":"npcdata","msgid":"Nick Fenster","msgstr":"Nick Fenster"}
+{"msgctxt":"npcdata","msgid":"Nicolai Ironfist","msgstr":"Nicolai Ironfist"}
+{"msgctxt":"npcdata","msgid":"Nigan","msgstr":"Nigan"}
+{"msgctxt":"npcdata","msgid":"Nikobi","msgstr":"Nikobi"}
+{"msgctxt":"npcdata","msgid":"Niles Stantley","msgstr":"Niles Stantley"}
+{"msgctxt":"npcdata","msgid":"Nivek Arlond","msgstr":"Nivek Arlond"}
+{"msgctxt":"npcdata","msgid":"Noah White","msgstr":"Noah White"}
+{"msgctxt":"npcdata","msgid":"Norbert Havest","msgstr":"Norbert Havest"}
+{"msgctxt":"npcdata","msgid":"Norbert Slayer","msgstr":"Norbert Slayer"}
+{"msgctxt":"npcdata","msgid":"Norbert Thrush","msgstr":"Norbert Thrush"}
+{"msgctxt":"npcdata","msgid":"Norio Ariganaka","msgstr":"Norio Ariganaka"}
+{"msgctxt":"npcdata","msgid":"Norris ","msgstr":"Norris "}
+{"msgctxt":"npcdata","msgid":"Norris Horton","msgstr":"Norris Horton"}
+{"msgctxt":"npcdata","msgid":"Nowa Morisaku","msgstr":"Nowa Morisaku"}
+{"msgctxt":"npcdata","msgid":"Oberic Crane","msgstr":"Oberic Crane"}
+{"msgctxt":"npcdata","msgid":"Oberic Nosewort","msgstr":"Oberic Nosewort"}
+{"msgctxt":"npcdata","msgid":"Ogre Peasant","msgstr":"Oger-Bauer"}
+{"msgctxt":"npcdata","msgid":"Olaf Berring","msgstr":"Olaf Berring"}
+{"msgctxt":"npcdata","msgid":"Olaf Heimdall","msgstr":"Olaf Heimdall"}
+{"msgctxt":"npcdata","msgid":"Oliver Wendell","msgstr":"Oliver Wendell"}
+{"msgctxt":"npcdata","msgid":"Olivia Trumpet","msgstr":"Olivia Trumpet"}
+{"msgctxt":"npcdata","msgid":"One-Eye","msgstr":"One-Eye"}
+{"msgctxt":"npcdata","msgid":"Oracle","msgstr":"Orakel"}
+{"msgctxt":"npcdata","msgid":"Orville Corvair","msgstr":"Orville Corvair"}
+{"msgctxt":"npcdata","msgid":"Oskar Tyre","msgstr":"Oskar Tyre"}
+{"msgctxt":"npcdata","msgid":"Osric Temper","msgstr":"Osric Temper"}
+{"msgctxt":"npcdata","msgid":"Ostrin Grivic","msgstr":"Ostrin Grivic"}
+{"msgctxt":"npcdata","msgid":"Overdune Snapfinger","msgstr":"Overdune Snapfinger"}
+{"msgctxt":"npcdata","msgid":"Overdune Snaprfinger","msgstr":"Overdune Snapfinger"}
+{"msgctxt":"npcdata","msgid":"Pascella Tisk","msgstr":"Pascella Tisk"}
+{"msgctxt":"npcdata","msgid":"Pat","msgstr":"Pat"}
+{"msgctxt":"npcdata","msgid":"Pat Skylark","msgstr":"Pat Skylark"}
+{"msgctxt":"npcdata","msgid":"Patrice Vespers","msgstr":"Patrice Vespers"}
+{"msgctxt":"npcdata","msgid":"Patwin Darkenmore","msgstr":"Patwin Darkenmore"}
+{"msgctxt":"npcdata","msgid":"Patwin Fellbern","msgstr":"Patwin Fellbern"}
+{"msgctxt":"npcdata","msgid":"Paul Hapsburg","msgstr":"Paul Hapsburg"}
+{"msgctxt":"npcdata","msgid":"Paul Rattner","msgstr":"Paul Rattner"}
+{"msgctxt":"npcdata","msgid":"Paula Brightspear","msgstr":"Paula Lichtspeer"}
+{"msgctxt":"npcdata","msgid":"Pavel","msgstr":"Pavel"}
+{"msgctxt":"npcdata","msgid":"Payge Arachnia","msgstr":"Payge Arachnia"}
+{"msgctxt":"npcdata","msgid":"Payge Blueswan","msgstr":"Payge Blauschwan"}
+{"msgctxt":"npcdata","msgid":"Payge Karrand","msgstr":"Payge Karrand"}
+{"msgctxt":"npcdata","msgid":"Payge Rivenhill","msgstr":"Payge Rabenberg"}
+{"msgctxt":"npcdata","msgid":"Peace Stringer","msgstr":"Peace Stringer"}
+{"msgctxt":"npcdata","msgid":"Pedron Sablewood","msgstr":"Pedron Sablewood"}
+{"msgctxt":"npcdata","msgid":"Peggy Tish","msgstr":"Peggy Tish"}
+{"msgctxt":"npcdata","msgid":"Peggy Woods","msgstr":"Peggy Woods"}
+{"msgctxt":"npcdata","msgid":"Peni Pretty","msgstr":"Peni Pretty"}
+{"msgctxt":"npcdata","msgid":"Peryn Lightfingers","msgstr":"Peryn Leichtfinger"}
+{"msgctxt":"npcdata","msgid":"Peryn Reaverston","msgstr":"Peryn Reaverston"}
+{"msgctxt":"npcdata","msgid":"Pete Ryu","msgstr":"Pete Ryu"}
+{"msgctxt":"npcdata","msgid":"Peter \"Zoop\" Ryu","msgstr":"Peter \"Zoop\" Ryu"}
+{"msgctxt":"npcdata","msgid":"Peter Ivanovich","msgstr":"Peter Ivanovich"}
+{"msgctxt":"npcdata","msgid":"Petra Cleareye","msgstr":"Petra Klarsicht"}
+{"msgctxt":"npcdata","msgid":"Petra Mithrit","msgstr":"Petra Mithrit"}
+{"msgctxt":"npcdata","msgid":"Phelan Sykes","msgstr":"Phelan Sykes"}
+{"msgctxt":"npcdata","msgid":"Pip Darkstone","msgstr":"Pip Darkstone"}
+{"msgctxt":"npcdata","msgid":"Pip Hillier","msgstr":"Pip Hillier"}
+{"msgctxt":"npcdata","msgid":"Pirate Paul","msgstr":"Pirat Paul"}
+{"msgctxt":"npcdata","msgid":"Piter Harkonnen","msgstr":"Piter Harkonnen"}
+{"msgctxt":"npcdata","msgid":"Pole","msgstr":"Pole"}
+{"msgctxt":"npcdata","msgid":"Polera Skulk","msgstr":"Polera Skulk"}
+{"msgctxt":"npcdata","msgid":"Pordo","msgstr":"Pordo"}
+{"msgctxt":"npcdata","msgid":"Poundlin Deerhunter","msgstr":"Poundlin Deerhunter"}
+{"msgctxt":"npcdata","msgid":"Poundlin Lotts","msgstr":"Poundlin Lotts"}
+{"msgctxt":"npcdata","msgid":"Preston Harper","msgstr":"Preston Harper"}
+{"msgctxt":"npcdata","msgid":"Preston Steel","msgstr":"Preston Steel"}
+{"msgctxt":"npcdata","msgid":"Puddle Stone","msgstr":"Puddle Stein"}
+{"msgctxt":"npcdata","msgid":"Puddle Thain","msgstr":"Puddle Thain"}
+{"msgctxt":"npcdata","msgid":"Pyrannaste","msgstr":"Pyrannaste"}
+{"msgctxt":"npcdata","msgid":"Qethrin Tonk","msgstr":"Qethrin Tonk"}
+{"msgctxt":"npcdata","msgid":"Qillain Laraselle","msgstr":"Qillain Laraselle"}
+{"msgctxt":"npcdata","msgid":"Qillain Moore","msgstr":"Qillain Moore"}
+{"msgctxt":"npcdata","msgid":"Queen Catherine","msgstr":"Königin Catherine"}
+{"msgctxt":"npcdata","msgid":"Quick Jeni ","msgstr":"Schnelle Jeni"}
+{"msgctxt":"npcdata","msgid":"Rabisa Nedlon","msgstr":"Rabisa Nedlon"}
+{"msgctxt":"npcdata","msgid":"Rachel Herzl","msgstr":"Rachel Herzl"}
+{"msgctxt":"npcdata","msgid":"Rainyn Rivencrest","msgstr":"Rainyn Rivencrest"}
+{"msgctxt":"npcdata","msgid":"Ral","msgstr":"Ral"}
+{"msgctxt":"npcdata","msgid":"Randal Wolverton","msgstr":"Randal Wolverton"}
+{"msgctxt":"npcdata","msgid":"Randall Norris","msgstr":"Randall Norris"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 1","msgstr":"Zufalls-Karten-NPC 1"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 10","msgstr":"Zufalls-Karten-NPC 10"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 11","msgstr":"Zufalls-Karten-NPC 11"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 12","msgstr":"Zufalls-Karten-NPC 12"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 13","msgstr":"Zufalls-Karten-NPC 13"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 14","msgstr":"Zufalls-Karten-NPC 14"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 15","msgstr":"Zufalls-Karten-NPC 15"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 16","msgstr":"Zufalls-Karten-NPC 16"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 17","msgstr":"Zufalls-Karten-NPC 17"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 18","msgstr":"Zufalls-Karten-NPC 18"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 19","msgstr":"Zufalls-Karten-NPC 19"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 2","msgstr":"Zufalls-Karten-NPC 2"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 20","msgstr":"Zufalls-Karten-NPC 20"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 21","msgstr":"Zufalls-Karten-NPC 21"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 22","msgstr":"Zufalls-Karten-NPC 22"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 23","msgstr":"Zufalls-Karten-NPC 23"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 24","msgstr":"Zufalls-Karten-NPC 24"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 25","msgstr":"Zufalls-Karten-NPC 25"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 26","msgstr":"Zufalls-Karten-NPC 26"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 27","msgstr":"Zufalls-Karten-NPC 27"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 28","msgstr":"Zufalls-Karten-NPC 28"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 29","msgstr":"Zufalls-Karten-NPC 29"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 3","msgstr":"Zufalls-Karten-NPC 3"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 30","msgstr":"Zufalls-Karten-NPC 30"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 31","msgstr":"Zufalls-Karten-NPC 31"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 32","msgstr":"Zufalls-Karten-NPC 32"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 33","msgstr":"Zufalls-Karten-NPC 33"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 34","msgstr":"Zufalls-Karten-NPC 34"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 35","msgstr":"Zufalls-Karten-NPC 35"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 36","msgstr":"Zufalls-Karten-NPC 36"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 37","msgstr":"Zufalls-Karten-NPC 37"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 38","msgstr":"Zufalls-Karten-NPC 38"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 39","msgstr":"Zufalls-Karten-NPC 39"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 4","msgstr":"Zufalls-Karten-NPC 4"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 40","msgstr":"Zufalls-Karten-NPC 40"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 41","msgstr":"Zufalls-Karten-NPC 41"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 5","msgstr":"Zufalls-Karten-NPC 5"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 6","msgstr":"Zufalls-Karten-NPC 6"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 7","msgstr":"Zufalls-Karten-NPC 7"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 8","msgstr":"Zufalls-Karten-NPC 8"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 9","msgstr":"Zufalls-Karten-NPC 9"}
+{"msgctxt":"npcdata","msgid":"Raven Quicktoungue","msgstr":"Raven Quicktoungue"}
+{"msgctxt":"npcdata","msgid":"Raven the Hunter","msgstr":"Raven der Jäger"}
+{"msgctxt":"npcdata","msgid":"Rawn Dervish","msgstr":"Rawn Dervish"}
+{"msgctxt":"npcdata","msgid":"Rawn Talreisch","msgstr":"Rawn Talreisch"}
+{"msgctxt":"npcdata","msgid":"Ray Boswell","msgstr":"Ray Boswell"}
+{"msgctxt":"npcdata","msgid":"Reaver","msgstr":"Reaver"}
+{"msgctxt":"npcdata","msgid":"Rebecca Calaway","msgstr":"Rebecca Calaway"}
+{"msgctxt":"npcdata","msgid":"Rebecca Christel","msgstr":"Rebecca Christel"}
+{"msgctxt":"npcdata","msgid":"Rebecca Devine","msgstr":"Rebecca Gotteslicht"}
+{"msgctxt":"npcdata","msgid":"Rebecca Traveler","msgstr":"Rebecca Traveler"}
+{"msgctxt":"npcdata","msgid":"Red Keldin","msgstr":"Red Keldin"}
+{"msgctxt":"npcdata","msgid":"Regina Fern","msgstr":"Regina Fern"}
+{"msgctxt":"npcdata","msgid":"Reginald Dorray","msgstr":"Reginald Dorray"}
+{"msgctxt":"npcdata","msgid":"Regnan Peasant","msgstr":"Regnanischer Bauer"}
+{"msgctxt":"npcdata","msgid":"Relburn Ditch","msgstr":"Relburn Ditch"}
+{"msgctxt":"npcdata","msgid":"Relburn Jeebes","msgstr":"Relburn Jeebes"}
+{"msgctxt":"npcdata","msgid":"Renee Blackburn","msgstr":"Renee Blackburn"}
+{"msgctxt":"npcdata","msgid":"Reshie ","msgstr":"Reshie"}
+{"msgctxt":"npcdata","msgid":"Resurectra","msgstr":"Resurectra"}
+{"msgctxt":"npcdata","msgid":"Revee Botania","msgstr":"Revee Botania"}
+{"msgctxt":"npcdata","msgid":"Rexella ","msgstr":"Rexella "}
+{"msgctxt":"npcdata","msgid":"Rexella Van Imp","msgstr":"Rexella Van Imp"}
+{"msgctxt":"npcdata","msgid":"Rhetta Mercer","msgstr":"Rhetta Mercer"}
+{"msgctxt":"npcdata","msgid":"Rich Hamburg","msgstr":"Rich Hamburg"}
+{"msgctxt":"npcdata","msgid":"Richard Harp","msgstr":"Richard Harp"}
+{"msgctxt":"npcdata","msgid":"Rihansi","msgstr":"Rihansi"}
+{"msgctxt":"npcdata","msgid":"Riki Corredera ","msgstr":"Riki Corredera"}
+{"msgctxt":"npcdata","msgid":"Rionel","msgstr":"Rionel"}
+{"msgctxt":"npcdata","msgid":"Rislyn Greenstorm","msgstr":"Rislyn Grünsturm"}
+{"msgctxt":"npcdata","msgid":"Riverglass","msgstr":"Riverglass"}
+{"msgctxt":"npcdata","msgid":"Robert Belknap","msgstr":"Robert Belknap"}
+{"msgctxt":"npcdata","msgid":"Robert King","msgstr":"Oli Joe"}
+{"msgctxt":"npcdata","msgid":"Robert Morningstar","msgstr":"Robert Morningstar"}
+{"msgctxt":"npcdata","msgid":"Robert Sourbrow","msgstr":"Robert Sourbrow"}
+{"msgctxt":"npcdata","msgid":"Robert the Wise","msgstr":"Robert der Weise"}
+{"msgctxt":"npcdata","msgid":"Roberta Theben","msgstr":"Roberta Theben"}
+{"msgctxt":"npcdata","msgid":"Robin Lang","msgstr":"Robin Lang"}
+{"msgctxt":"npcdata","msgid":"Rockwell Humdring","msgstr":"Rockwell Humdring"}
+{"msgctxt":"npcdata","msgid":"Rodinia Sidara","msgstr":"Rodinia Sidara"}
+{"msgctxt":"npcdata","msgid":"Roger Tellmar","msgstr":"Roger Tellmar"}
+{"msgctxt":"npcdata","msgid":"Rohani Oscleton","msgstr":"Rohani Oscleton"}
+{"msgctxt":"npcdata","msgid":"Rohtnax","msgstr":"Rohtnax"}
+{"msgctxt":"npcdata","msgid":"Roland Ironfist","msgstr":"Roland Ironfist"}
+{"msgctxt":"npcdata","msgid":"Ronald Kinney","msgstr":"Ronald Kinney"}
+{"msgctxt":"npcdata","msgid":"Rosemarie Reyjavik","msgstr":"Rosemarie Reyjavik"}
+{"msgctxt":"npcdata","msgid":"Rosita Alexander","msgstr":"Rosita Alexander"}
+{"msgctxt":"npcdata","msgid":"Roxanne Sheltan","msgstr":"Roxanne Sheltan"}
+{"msgctxt":"npcdata","msgid":"Roxina Smolenska","msgstr":"Roxina Smolenska"}
+{"msgctxt":"npcdata","msgid":"Runaway Chaos","msgstr":"Entlaufenes Chaos"}
+{"msgctxt":"npcdata","msgid":"Rus Hockwoller","msgstr":"Rus Hockwoller"}
+{"msgctxt":"npcdata","msgid":"Ryan Den","msgstr":"Ryan Den"}
+{"msgctxt":"npcdata","msgid":"Ryan Treacle","msgstr":"Ryan Treacle"}
+{"msgctxt":"npcdata","msgid":"Rydric","msgstr":"Rydric"}
+{"msgctxt":"npcdata","msgid":"S'ton","msgstr":"S'ton"}
+{"msgctxt":"npcdata","msgid":"Saad Shamel","msgstr":"Saad Shamel"}
+{"msgctxt":"npcdata","msgid":"Sahil Ittalle","msgstr":"Sahil Ittalle"}
+{"msgctxt":"npcdata","msgid":"Sal Sharktooth","msgstr":"Sal Säbelzahn"}
+{"msgctxt":"npcdata","msgid":"Sally","msgstr":"Sally"}
+{"msgctxt":"npcdata","msgid":"Samantha Kilvers","msgstr":"Samantha Kilvers"}
+{"msgctxt":"npcdata","msgid":"Samson Tess","msgstr":"Samson Tess"}
+{"msgctxt":"npcdata","msgid":"Samuel Benson","msgstr":"Samuel Benson"}
+{"msgctxt":"npcdata","msgid":"Samuel Jack","msgstr":"Samuel Jack"}
+{"msgctxt":"npcdata","msgid":"Sandra Trudoor","msgstr":"Sandra Trudoor"}
+{"msgctxt":"npcdata","msgid":"Sandro","msgstr":"Sandro"}
+{"msgctxt":"npcdata","msgid":"Saul Fogg","msgstr":"Saul Fogg"}
+{"msgctxt":"npcdata","msgid":"Schmecker","msgstr":"Schmecker"}
+{"msgctxt":"npcdata","msgid":"Scott White","msgstr":"Scott White"}
+{"msgctxt":"npcdata","msgid":"Seknit Undershadow","msgstr":"Seknit Unterschatten"}
+{"msgctxt":"npcdata","msgid":"Selena Stipe","msgstr":"Selena Stipe"}
+{"msgctxt":"npcdata","msgid":"Seline Burnkindle","msgstr":"Seline Burnkindle"}
+{"msgctxt":"npcdata","msgid":"Seline Falconeye","msgstr":"Seline Falkenblick"}
+{"msgctxt":"npcdata","msgid":"Sergio Carrington","msgstr":"Sergio Carrington"}
+{"msgctxt":"npcdata","msgid":"Seth Darkenmore","msgstr":"Seth Finsterschmerz"}
+{"msgctxt":"npcdata","msgid":"Seth Drakkson","msgstr":"Seth Drakkson"}
+{"msgctxt":"npcdata","msgid":"Sethine Ironfist","msgstr":"Sethine Ironfist"}
+{"msgctxt":"npcdata","msgid":"Sethrc Thistlebone","msgstr":"Sethrc Thistlebone"}
+{"msgctxt":"npcdata","msgid":"Sethrik Fist ","msgstr":"Sethrik Fist "}
+{"msgctxt":"npcdata","msgid":"Sethrik Windsong","msgstr":"Sethrik Windlied"}
+{"msgctxt":"npcdata","msgid":"Shalaz Zalas","msgstr":"Shalaz Zalas"}
+{"msgctxt":"npcdata","msgid":"Shalwend","msgstr":"Shalwend"}
+{"msgctxt":"npcdata","msgid":"Shamus Dawnbringer","msgstr":"Shamus Nachtbringer"}
+{"msgctxt":"npcdata","msgid":"Shamus Hollyfield","msgstr":"Shamus Hollyfield"}
+{"msgctxt":"npcdata","msgid":"Shane Krewlen","msgstr":"Shane Krewlen"}
+{"msgctxt":"npcdata","msgid":"Shane Thomas","msgstr":"Shane Thomas"}
+{"msgctxt":"npcdata","msgid":"Sharla Quinn","msgstr":"Sharla Quinn"}
+{"msgctxt":"npcdata","msgid":"Sharry Carnegie","msgstr":"Sharry Carnegie"}
+{"msgctxt":"npcdata","msgid":"Sheila Loompus","msgstr":"Sheila Loompus"}
+{"msgctxt":"npcdata","msgid":"Shel Stineway","msgstr":"Shel Stineway"}
+{"msgctxt":"npcdata","msgid":"Sheldon Mist","msgstr":"Sheldon Nebel"}
+{"msgctxt":"npcdata","msgid":"Sheldon Nightwood","msgstr":"Sheldon Nightwood"}
+{"msgctxt":"npcdata","msgid":"Sherell Ivanaveh","msgstr":"Sherell Ivanaveh"}
+{"msgctxt":"npcdata","msgid":"Shiara FireOpal","msgstr":"Shiara Feueropal"}
+{"msgctxt":"npcdata","msgid":"Shiela Wind","msgstr":"Shiela Wind"}
+{"msgctxt":"npcdata","msgid":"Shileka Toreena","msgstr":"Shileka Toreena"}
+{"msgctxt":"npcdata","msgid":"Shivan Keeneye","msgstr":"Shivan Keeneye"}
+{"msgctxt":"npcdata","msgid":"Shoshi Pertoniki","msgstr":"Shoshi Pertoniki"}
+{"msgctxt":"npcdata","msgid":"Sigriv","msgstr":"Sigriv"}
+{"msgctxt":"npcdata","msgid":"Sila Daewon","msgstr":"Sila Daewon"}
+{"msgctxt":"npcdata","msgid":"Silk Nightwalker","msgstr":"Silk Nightwalker"}
+{"msgctxt":"npcdata","msgid":"Silk Quicktoungue","msgstr":"Silk Schnellzunge"}
+{"msgctxt":"npcdata","msgid":"Simon Templar","msgstr":"Simon Tampler"}
+{"msgctxt":"npcdata","msgid":"Sioned Warsen","msgstr":"Sioned Warsen"}
+{"msgctxt":"npcdata","msgid":"Sir Caneghem","msgstr":"Sir Caneghem"}
+{"msgctxt":"npcdata","msgid":"Sir Charles Quixote","msgstr":"Sir Charles Quixote"}
+{"msgctxt":"npcdata","msgid":"Sir William Tarquin","msgstr":"Sir William Tarquin"}
+{"msgctxt":"npcdata","msgid":"Sithicus Shadowrunner","msgstr":"Sithicus Shadowrunner"}
+{"msgctxt":"npcdata","msgid":"Slicker Silvertongue","msgstr":"Slicker Silvertongue"}
+{"msgctxt":"npcdata","msgid":"Slovang Arcanos","msgstr":"Slovang Arcanos"}
+{"msgctxt":"npcdata","msgid":"Sly Silverstone","msgstr":"Sly Silverstone"}
+{"msgctxt":"npcdata","msgid":"Smiling Jack","msgstr":"Grinsender Jack"}
+{"msgctxt":"npcdata","msgid":"Soil","msgstr":"Soil"}
+{"msgctxt":"npcdata","msgid":"Solis","msgstr":"Solis"}
+{"msgctxt":"npcdata","msgid":"Solitare Bainful","msgstr":"Solitare Bainful"}
+{"msgctxt":"npcdata","msgid":"Solomon Riverstone","msgstr":"Solomon Flußfels"}
+{"msgctxt":"npcdata","msgid":"Solomon Steele","msgstr":"Solomon Steele"}
+{"msgctxt":"npcdata","msgid":"Soon Lu","msgstr":"Soon Lu"}
+{"msgctxt":"npcdata","msgid":"Spark Burnkindle","msgstr":"Spark Loderflamme"}
+{"msgctxt":"npcdata","msgid":"Spyder ","msgstr":"Spyder "}
+{"msgctxt":"npcdata","msgid":"Sri Retiani","msgstr":"Sri Retiani"}
+{"msgctxt":"npcdata","msgid":"Stacy Flanders","msgstr":"Stacy Flanders"}
+{"msgctxt":"npcdata","msgid":"Steagal Snick","msgstr":"Steagal Snick"}
+{"msgctxt":"npcdata","msgid":"Stephan Sand","msgstr":"Stephan Sand"}
+{"msgctxt":"npcdata","msgid":"Stephanie Pavlov","msgstr":"Stephanie Pavlov"}
+{"msgctxt":"npcdata","msgid":"Stephen","msgstr":"Stephen"}
+{"msgctxt":"npcdata","msgid":"Stephen Biggs","msgstr":"Stephen Biggs"}
+{"msgctxt":"npcdata","msgid":"Stephen Iago","msgstr":"Stephen Iago"}
+{"msgctxt":"npcdata","msgid":"Steve Baca","msgstr":"Steve Baca"}
+{"msgctxt":"npcdata","msgid":"Steve Jasper","msgstr":"Steve Jasper"}
+{"msgctxt":"npcdata","msgid":"Steve Wasaff","msgstr":"Steve Wasaff"}
+{"msgctxt":"npcdata","msgid":"Stewart Whitesky","msgstr":"Stewart Weißwolke"}
+{"msgctxt":"npcdata","msgid":"Stile Bloke","msgstr":"Stile Bloke"}
+{"msgctxt":"npcdata","msgid":"Straton Hawthorne","msgstr":"Straton Hawthorne"}
+{"msgctxt":"npcdata","msgid":"Straton Hillsman","msgstr":"Straton Hügelmann"}
+{"msgctxt":"npcdata","msgid":"Su Lang Manchu","msgstr":"Su Lang Manchu"}
+{"msgctxt":"npcdata","msgid":"Susan Handlebaum","msgstr":"Susan Handlebaum"}
+{"msgctxt":"npcdata","msgid":"Svetlanta Irktusk","msgstr":"Svetlanta Irktusk"}
+{"msgctxt":"npcdata","msgid":"Sy Roth","msgstr":"Sy Roth"}
+{"msgctxt":"npcdata","msgid":"Sylvester Moor","msgstr":"Sylvester Moor"}
+{"msgctxt":"npcdata","msgid":"Ta Li No Gharma","msgstr":"Ta Li No Gharma"}
+{"msgctxt":"npcdata","msgid":"Tabitha Mistspring","msgstr":"Tabitha Mistspring"}
+{"msgctxt":"npcdata","msgid":"Tabitha Watershed","msgstr":"Tabitha Watershed"}
+{"msgctxt":"npcdata","msgid":"Tabitha Yerin","msgstr":"Tabitha Yerin"}
+{"msgctxt":"npcdata","msgid":"Takao","msgstr":"Takao"}
+{"msgctxt":"npcdata","msgid":"Talion","msgstr":"Talion"}
+{"msgctxt":"npcdata","msgid":"Tallia Ravenswood","msgstr":"Tallia Rabenforst"}
+{"msgctxt":"npcdata","msgid":"Tamara Anders","msgstr":"Tamara Anders"}
+{"msgctxt":"npcdata","msgid":"Tantilion","msgstr":"Tantilion"}
+{"msgctxt":"npcdata","msgid":"Tanya Kirklynn","msgstr":"Tanya Kirklynn"}
+{"msgctxt":"npcdata","msgid":"Tara D'Cathay","msgstr":"Tara D'Cathay"}
+{"msgctxt":"npcdata","msgid":"Taren Temper","msgstr":"Taren Temper"}
+{"msgctxt":"npcdata","msgid":"Taren the Lifter","msgstr":"Taren der Schnelle"}
+{"msgctxt":"npcdata","msgid":"Tarin Withern","msgstr":"Tarin Withern"}
+{"msgctxt":"npcdata","msgid":"Taro","msgstr":"Taro"}
+{"msgctxt":"npcdata","msgid":"Tasha Vale","msgstr":"Tasha Vale"}
+{"msgctxt":"npcdata","msgid":"Telelocator","msgstr":"Telelokator"}
+{"msgctxt":"npcdata","msgid":"Teleron Prentice","msgstr":"Teleron Prentice"}
+{"msgctxt":"npcdata","msgid":"Temple of Dark","msgstr":"Tempel der Finsternis"}
+{"msgctxt":"npcdata","msgid":"Temple of Light","msgstr":"Tempel des Lichts"}
+{"msgctxt":"npcdata","msgid":"Tempus ","msgstr":"Tempus "}
+{"msgctxt":"npcdata","msgid":"Terrance Smith","msgstr":"Terrance Smith"}
+{"msgctxt":"npcdata","msgid":"Terry Ros","msgstr":"Terry Ros"}
+{"msgctxt":"npcdata","msgid":"Tess Tucker","msgstr":"Tess Tucker"}
+{"msgctxt":"npcdata","msgid":"Tessa Greensward","msgstr":"Tessa Grünwart"}
+{"msgctxt":"npcdata","msgid":"Tessa Maker","msgstr":"Tessa Maker"}
+{"msgctxt":"npcdata","msgid":"Tessalar","msgstr":"Tessalar"}
+{"msgctxt":"npcdata","msgid":"Thadin ","msgstr":"Thadin"}
+{"msgctxt":"npcdata","msgid":"Thane Roper","msgstr":"Thane Roper"}
+{"msgctxt":"npcdata","msgid":"Thant","msgstr":"Thant"}
+{"msgctxt":"npcdata","msgid":"Thanys","msgstr":"Thanys"}
+{"msgctxt":"npcdata","msgid":"Thari Mirumoto","msgstr":"Thari Mirumoto"}
+{"msgctxt":"npcdata","msgid":"The Hermit on the Mountain","msgstr":"Der Einsiedler auf dem Berg"}
+{"msgctxt":"npcdata","msgid":"The Oldest Tree","msgstr":"Der älteste Baum"}
+{"msgctxt":"npcdata","msgid":"The Prince of Thieves","msgstr":"Der Prinz der Diebe"}
+{"msgctxt":"npcdata","msgid":"The Seer","msgstr":"Der Seher"}
+{"msgctxt":"npcdata","msgid":"Thed Robynson","msgstr":"Thed Robynson"}
+{"msgctxt":"npcdata","msgid":"Therenda Evermorn","msgstr":"Therenda Evermorn"}
+{"msgctxt":"npcdata","msgid":"Therese Umberpool","msgstr":"Therese Umberpool"}
+{"msgctxt":"npcdata","msgid":"Thistle","msgstr":"Thistle"}
+{"msgctxt":"npcdata","msgid":"Thom Keldin","msgstr":"Thom Keldin"}
+{"msgctxt":"npcdata","msgid":"Thom Lumbra","msgstr":"Thom Lumbra"}
+{"msgctxt":"npcdata","msgid":"Thomas Grey","msgstr":"Thomas Grey"}
+{"msgctxt":"npcdata","msgid":"Thomas Laraselle","msgstr":"Thomas Laraselle"}
+{"msgctxt":"npcdata","msgid":"Thomas Moore","msgstr":"Thomas Moore"}
+{"msgctxt":"npcdata","msgid":"Thomas the Judge","msgstr":"Thomas der Schiedsrichter"}
+{"msgctxt":"npcdata","msgid":"Thorne Understone","msgstr":"Thorne Understone"}
+{"msgctxt":"npcdata","msgid":"Tiana Withern","msgstr":"Tiana Withern"}
+{"msgctxt":"npcdata","msgid":"Tilgar Dirthmoore","msgstr":"Tilgar Dirthmoore"}
+{"msgctxt":"npcdata","msgid":"Tim Lang","msgstr":"Tim Lang"}
+{"msgctxt":"npcdata","msgid":"Tim O'Hoolihan","msgstr":"Tim O'Hoolihan"}
+{"msgctxt":"npcdata","msgid":"Timothy Hawk","msgstr":"Timothy Hawk"}
+{"msgctxt":"npcdata","msgid":"Tina Sheltan","msgstr":"Tina Sheltan"}
+{"msgctxt":"npcdata","msgid":"Tiricia Lambert","msgstr":"Tiricia Lambert"}
+{"msgctxt":"npcdata","msgid":"Tobren Forgewright","msgstr":"Tobren Forgewright"}
+{"msgctxt":"npcdata","msgid":"Tobren Rainshield","msgstr":"Tobren Regenschild"}
+{"msgctxt":"npcdata","msgid":"Todd Smailes","msgstr":"Todd Smailes"}
+{"msgctxt":"npcdata","msgid":"Tolberti","msgstr":"Tolberti"}
+{"msgctxt":"npcdata","msgid":"Tom Ono","msgstr":"Tom Ono"}
+{"msgctxt":"npcdata","msgid":"Tom Zeliff","msgstr":"Tom Zeliff"}
+{"msgctxt":"npcdata","msgid":"Ton Agraynel","msgstr":"Ton Agraynel"}
+{"msgctxt":"npcdata","msgid":"Ton Withersmythe","msgstr":"Ton Withersmythe"}
+{"msgctxt":"npcdata","msgid":"Tonk Blueswan","msgstr":"Tonk Blueswan"}
+{"msgctxt":"npcdata","msgid":"Tonken Fist","msgstr":"Tonken Faust"}
+{"msgctxt":"npcdata","msgid":"Tony Evans","msgstr":"Tony Evans"}
+{"msgctxt":"npcdata","msgid":"Tor Anwyn","msgstr":"Tor Anwyn"}
+{"msgctxt":"npcdata","msgid":"Tor Brock","msgstr":"Tor Brock"}
+{"msgctxt":"npcdata","msgid":"Tori Goldman","msgstr":"Tori Goldman"}
+{"msgctxt":"npcdata","msgid":"Torrent","msgstr":"Torrent"}
+{"msgctxt":"npcdata","msgid":"Tracy Flauta","msgstr":"Tracy Flauta"}
+{"msgctxt":"npcdata","msgid":"Tracy Iwata","msgstr":"Tracy Iwata"}
+{"msgctxt":"npcdata","msgid":"Tracy Neather","msgstr":"Tracy Neather"}
+{"msgctxt":"npcdata","msgid":"Treblid","msgstr":"Treblid"}
+{"msgctxt":"npcdata","msgid":"Trent Jameson","msgstr":"Trent Jameson"}
+{"msgctxt":"npcdata","msgid":"Trent Steele","msgstr":"Trent Steele"}
+{"msgctxt":"npcdata","msgid":"Trevor Jones","msgstr":"Trevor Jones"}
+{"msgctxt":"npcdata","msgid":"Tricia Steelcoif","msgstr":"Tricia Steelcoif"}
+{"msgctxt":"npcdata","msgid":"Trip Thorinson","msgstr":"Trip Thorinson"}
+{"msgctxt":"npcdata","msgid":"Tristen Hearthsworn","msgstr":"Tristen Herzensschwur"}
+{"msgctxt":"npcdata","msgid":"Tristen Stillwater","msgstr":"Tristen Stillwater"}
+{"msgctxt":"npcdata","msgid":"Troll Peasant","msgstr":"Troll-Bauer"}
+{"msgctxt":"npcdata","msgid":"Tugor Arin","msgstr":"Tugor Arin"}
+{"msgctxt":"npcdata","msgid":"Tugor Slicer","msgstr":"Tugor Schlitzer"}
+{"msgctxt":"npcdata","msgid":"Turgon Bombah","msgstr":"Turgon Bombah"}
+{"msgctxt":"npcdata","msgid":"Turgon Woodsplitter","msgstr":"Turgon Woodsplitter"}
+{"msgctxt":"npcdata","msgid":"Twillen","msgstr":"Twillen"}
+{"msgctxt":"npcdata","msgid":"Ty Cognac","msgstr":"Ty Cognac"}
+{"msgctxt":"npcdata","msgid":"Tyger Helms","msgstr":"Tyger Helms"}
+{"msgctxt":"npcdata","msgid":"Tyler Tailor","msgstr":"Tyler Tailor"}
+{"msgctxt":"npcdata","msgid":"Ulbrecht","msgstr":"Ulbrecht"}
+{"msgctxt":"npcdata","msgid":"Ulbrecht Pederton","msgstr":"Ulbrecht Pederton"}
+{"msgctxt":"npcdata","msgid":"Ulbrecht the Brawler","msgstr":"Ulbrecht der Schläger"}
+{"msgctxt":"npcdata","msgid":"Urok","msgstr":"Urok"}
+{"msgctxt":"npcdata","msgid":"Ush the Many Tailed","msgstr":"Ush der Vielschwänzige"}
+{"msgctxt":"npcdata","msgid":"Vance Cornelius","msgstr":"Vance Cornelius"}
+{"msgctxt":"npcdata","msgid":"Vapor","msgstr":"Vapor"}
+{"msgctxt":"npcdata","msgid":"Veldon","msgstr":"Veldon"}
+{"msgctxt":"npcdata","msgid":"Vera Grasslin","msgstr":"Vera Grasslin"}
+{"msgctxt":"npcdata","msgid":"Verdant","msgstr":"Verdant"}
+{"msgctxt":"npcdata","msgid":"Verish ","msgstr":"Verish "}
+{"msgctxt":"npcdata","msgid":"Vetrinus Taleshire","msgstr":"Vetrinus Taleshire"}
+{"msgctxt":"npcdata","msgid":"Victor Hosen","msgstr":"Victor Hosen"}
+{"msgctxt":"npcdata","msgid":"Vincent Albers","msgstr":"Vincent Albers"}
+{"msgctxt":"npcdata","msgid":"Violet Dawson","msgstr":"Violet Dawson"}
+{"msgctxt":"npcdata","msgid":"Virgil Holiday","msgstr":"Virgil Holiday"}
+{"msgctxt":"npcdata","msgid":"Virginia Standridge","msgstr":"Virginia Standridge"}
+{"msgctxt":"npcdata","msgid":"Vish","msgstr":"Vish"}
+{"msgctxt":"npcdata","msgid":"Volog Sandwind","msgstr":"Volog Sandwind"}
+{"msgctxt":"npcdata","msgid":"Wacko","msgstr":"Wacko"}
+{"msgctxt":"npcdata","msgid":"Wacko the Ninja","msgstr":"Wacko der Ninja"}
+{"msgctxt":"npcdata","msgid":"Walter Hargreaves","msgstr":"Walter Hargreaves"}
+{"msgctxt":"npcdata","msgid":"Walter Johnson","msgstr":"Walter Johnson"}
+{"msgctxt":"npcdata","msgid":"Wanda Foestryke","msgstr":"Wanda Feindestod"}
+{"msgctxt":"npcdata","msgid":"Wanda Lightsworn","msgstr":"Wanda Lightsworn"}
+{"msgctxt":"npcdata","msgid":"Warren Holmes","msgstr":"Warren Holmes"}
+{"msgctxt":"npcdata","msgid":"Weldrik Falconeye","msgstr":"Weldrik Falconeye"}
+{"msgctxt":"npcdata","msgid":"Weldrik Lotts","msgstr":"Weldrik Lotts"}
+{"msgctxt":"npcdata","msgid":"Wendy Featherhill","msgstr":"Wendy Featherhill"}
+{"msgctxt":"npcdata","msgid":"Wererat Peasants","msgstr":"Werratten-Bauer"}
+{"msgctxt":"npcdata","msgid":"Whisper","msgstr":"Whisper"}
+{"msgctxt":"npcdata","msgid":"Wil Rudyman","msgstr":"Wil Rudyman"}
+{"msgctxt":"npcdata","msgid":"Wilbur Eversmyle","msgstr":"Wilbur Eversmyle"}
+{"msgctxt":"npcdata","msgid":"Wilbur Humphrey","msgstr":"Wilbur Humphrey"}
+{"msgctxt":"npcdata","msgid":"Wilburt","msgstr":"Wilburt"}
+{"msgctxt":"npcdata","msgid":"Will Ottoman","msgstr":"Will Ottoman"}
+{"msgctxt":"npcdata","msgid":"William Darvees","msgstr":"William Darvees"}
+{"msgctxt":"npcdata","msgid":"William Lasker","msgstr":"William Lasker"}
+{"msgctxt":"npcdata","msgid":"William Sampson","msgstr":"William Sampson"}
+{"msgctxt":"npcdata","msgid":"William Setag","msgstr":"William Setag"}
+{"msgctxt":"npcdata","msgid":"William Smithson","msgstr":"William Smithson"}
+{"msgctxt":"npcdata","msgid":"William Tucker","msgstr":"William Tucker"}
+{"msgctxt":"npcdata","msgid":"Wilma Cook","msgstr":"Wilma Cook"}
+{"msgctxt":"npcdata","msgid":"Wilma Rothwing","msgstr":"Wilma Rothwing"}
+{"msgctxt":"npcdata","msgid":"Wingsail","msgstr":"Wingsail"}
+{"msgctxt":"npcdata","msgid":"Winston Historian","msgstr":"Winston Historian"}
+{"msgctxt":"npcdata","msgid":"Winston Schezar","msgstr":"Winston Schezar"}
+{"msgctxt":"npcdata","msgid":"Wolf Armstrong","msgstr":"Wolf Armstrong"}
+{"msgctxt":"npcdata","msgid":"Woodrow Albright","msgstr":"Woodrow Albright"}
+{"msgctxt":"npcdata","msgid":"Wort Goblinreaver","msgstr":"Wort Goblintöter"}
+{"msgctxt":"npcdata","msgid":"Xanthor","msgstr":"Xanthor"}
+{"msgctxt":"npcdata","msgid":"Xavier Bremen","msgstr":"Xavier Bremen"}
+{"msgctxt":"npcdata","msgid":"Xavier Havest","msgstr":"Xavier Havest"}
+{"msgctxt":"npcdata","msgid":"Xevius","msgstr":"Xevius"}
+{"msgctxt":"npcdata","msgid":"Yarrow","msgstr":"Yarrow"}
+{"msgctxt":"npcdata","msgid":"Yarrow Elmsmire","msgstr":"Yarrow Elmsmire"}
+{"msgctxt":"npcdata","msgid":"Yarrow Keldin","msgstr":"Yarrow Keldin"}
+{"msgctxt":"npcdata","msgid":"Yoel Wargreen","msgstr":"Yoel Wargreen"}
+{"msgctxt":"npcdata","msgid":"Your Conscience","msgstr":"Euer Gewissen"}
+{"msgctxt":"npcdata","msgid":"Yves Meeks","msgstr":"Yves Meeks"}
+{"msgctxt":"npcdata","msgid":"Yvonne D'arcy","msgstr":"Yvonne D'arcy"}
+{"msgctxt":"npcdata","msgid":"Zanthora","msgstr":"Zanthora"}
+{"msgctxt":"npcdata","msgid":"Zeke Magellan","msgstr":"Zeke Magellan"}
+{"msgctxt":"npcdata","msgid":"Zelim","msgstr":"Zelim"}
+{"msgctxt":"npcdata","msgid":"Zephyr","msgstr":"Zephyr"}
+{"msgctxt":"npcdata","msgid":"Zevah Poised","msgstr":"Zevah Poised"}
+{"msgctxt":"npcdata","msgid":"Zodahn Delphi","msgstr":"Zodahn Delphi"}
+{"msgctxt":"npcdata","msgid":"Zog the Jackal","msgstr":"Zog der Schakal"}
+{"msgctxt":"npcdata","msgid":"Zoltan Phelps","msgstr":"Zoltan Phelps"}
+{"msgctxt":"npcdata","msgid":"cleric","msgstr":"Kleriker"}
+{"msgctxt":"npcdata","msgid":"darkelf","msgstr":"Dunkelelf"}
+{"msgctxt":"npcdata","msgid":"dragon","msgstr":"Drache"}
+{"msgctxt":"npcdata","msgid":"knight","msgstr":"Ritter"}
+{"msgctxt":"npcdata","msgid":"minotaur","msgstr":"Minotaur"}
+{"msgctxt":"npcdata","msgid":"necromancer","msgstr":"Nekromant"}
+{"msgctxt":"npcdata","msgid":"troll","msgstr":"Troll"}
+{"msgctxt":"npcdata","msgid":"vampire","msgstr":"Vampir"}
+{"msgctxt":"npcnames","msgid":"Aaron","msgstr":"Aaron"}
+{"msgctxt":"npcnames","msgid":"Abe","msgstr":"Abe"}
+{"msgctxt":"npcnames","msgid":"Abel","msgstr":"Abel"}
+{"msgctxt":"npcnames","msgid":"Abellona","msgstr":"Abellona"}
+{"msgctxt":"npcnames","msgid":"Abigail","msgstr":"Abigail"}
+{"msgctxt":"npcnames","msgid":"Acacia","msgstr":"Acacia"}
+{"msgctxt":"npcnames","msgid":"Adalgisa","msgstr":"Adalgisa"}
+{"msgctxt":"npcnames","msgid":"Adam","msgstr":"Adam"}
+{"msgctxt":"npcnames","msgid":"Adrian","msgstr":"Adrian"}
+{"msgctxt":"npcnames","msgid":"Adrienne","msgstr":"Adrienne"}
+{"msgctxt":"npcnames","msgid":"Adrrienne","msgstr":"Adrienne"}
+{"msgctxt":"npcnames","msgid":"Ahmed","msgstr":"Ahmed"}
+{"msgctxt":"npcnames","msgid":"Aisilinn","msgstr":"Aisilinn"}
+{"msgctxt":"npcnames","msgid":"Akio","msgstr":"Akio"}
+{"msgctxt":"npcnames","msgid":"Akira","msgstr":"Akira"}
+{"msgctxt":"npcnames","msgid":"Al","msgstr":"Al"}
+{"msgctxt":"npcnames","msgid":"Alain","msgstr":"Alain"}
+{"msgctxt":"npcnames","msgid":"Alaine","msgstr":"Alaine"}
+{"msgctxt":"npcnames","msgid":"Alan","msgstr":"Alan"}
+{"msgctxt":"npcnames","msgid":"Albert","msgstr":"Albert"}
+{"msgctxt":"npcnames","msgid":"Alec","msgstr":"Alec"}
+{"msgctxt":"npcnames","msgid":"Alejandro","msgstr":"Alejandro"}
+{"msgctxt":"npcnames","msgid":"Alemada","msgstr":"Alemada"}
+{"msgctxt":"npcnames","msgid":"Alethea","msgstr":"Alethea"}
+{"msgctxt":"npcnames","msgid":"Aleton","msgstr":"Aleton"}
+{"msgctxt":"npcnames","msgid":"Alexander","msgstr":"Alexander"}
+{"msgctxt":"npcnames","msgid":"Alexandra","msgstr":"Alexandra"}
+{"msgctxt":"npcnames","msgid":"Alfred","msgstr":"Alfred"}
+{"msgctxt":"npcnames","msgid":"Alice","msgstr":"Alice"}
+{"msgctxt":"npcnames","msgid":"Allison","msgstr":"Allison"}
+{"msgctxt":"npcnames","msgid":"Alton","msgstr":"Alton"}
+{"msgctxt":"npcnames","msgid":"Altred","msgstr":"Altred"}
+{"msgctxt":"npcnames","msgid":"Alvin","msgstr":"Alvin"}
+{"msgctxt":"npcnames","msgid":"Amadrea","msgstr":"Amadrea"}
+{"msgctxt":"npcnames","msgid":"Amanda","msgstr":"Amanda"}
+{"msgctxt":"npcnames","msgid":"Amber","msgstr":"Amber"}
+{"msgctxt":"npcnames","msgid":"Ambrose","msgstr":"Ambrose"}
+{"msgctxt":"npcnames","msgid":"Amelia","msgstr":"Amelia"}
+{"msgctxt":"npcnames","msgid":"Amos","msgstr":"Amos"}
+{"msgctxt":"npcnames","msgid":"Amy","msgstr":"Amy"}
+{"msgctxt":"npcnames","msgid":"Andrea","msgstr":"Andrea"}
+{"msgctxt":"npcnames","msgid":"Andrew","msgstr":"Andrew"}
+{"msgctxt":"npcnames","msgid":"Andy","msgstr":"Andy"}
+{"msgctxt":"npcnames","msgid":"Angeama","msgstr":"Angeama"}
+{"msgctxt":"npcnames","msgid":"Angebria","msgstr":"Angebria"}
+{"msgctxt":"npcnames","msgid":"Angela","msgstr":"Angela"}
+{"msgctxt":"npcnames","msgid":"Angie","msgstr":"Angie"}
+{"msgctxt":"npcnames","msgid":"Anita","msgstr":"Anita"}
+{"msgctxt":"npcnames","msgid":"Ann","msgstr":"Ann"}
+{"msgctxt":"npcnames","msgid":"Anna","msgstr":"Anna"}
+{"msgctxt":"npcnames","msgid":"Annaju","msgstr":"Annaju"}
+{"msgctxt":"npcnames","msgid":"Anthony","msgstr":"Anthony"}
+{"msgctxt":"npcnames","msgid":"Anton","msgstr":"Anton"}
+{"msgctxt":"npcnames","msgid":"April","msgstr":"April"}
+{"msgctxt":"npcnames","msgid":"Arby","msgstr":"Arby"}
+{"msgctxt":"npcnames","msgid":"Arda","msgstr":"Arda"}
+{"msgctxt":"npcnames","msgid":"Arden","msgstr":"Arden"}
+{"msgctxt":"npcnames","msgid":"Ariasti","msgstr":"Ariasti"}
+{"msgctxt":"npcnames","msgid":"Ariel","msgstr":"Ariel"}
+{"msgctxt":"npcnames","msgid":"Aristeo","msgstr":"Aristeo"}
+{"msgctxt":"npcnames","msgid":"Aristidis","msgstr":"Aristidis"}
+{"msgctxt":"npcnames","msgid":"Arlen","msgstr":"Arlen"}
+{"msgctxt":"npcnames","msgid":"Arlo","msgstr":"Arlo"}
+{"msgctxt":"npcnames","msgid":"Armand ","msgstr":"Armand "}
+{"msgctxt":"npcnames","msgid":"Arnie","msgstr":"Arnie"}
+{"msgctxt":"npcnames","msgid":"Arnold","msgstr":"Arnold"}
+{"msgctxt":"npcnames","msgid":"Arthur","msgstr":"Arthur"}
+{"msgctxt":"npcnames","msgid":"Aryeh","msgstr":"Aryeh"}
+{"msgctxt":"npcnames","msgid":"Ash","msgstr":"Ash"}
+{"msgctxt":"npcnames","msgid":"Ashburn","msgstr":"Ashburn"}
+{"msgctxt":"npcnames","msgid":"Ashton","msgstr":"Ashton"}
+{"msgctxt":"npcnames","msgid":"Austin","msgstr":"Austin"}
+{"msgctxt":"npcnames","msgid":"Aylin","msgstr":"Aylin"}
+{"msgctxt":"npcnames","msgid":"Baimaria","msgstr":"Baimaria"}
+{"msgctxt":"npcnames","msgid":"Barbara","msgstr":"Barbara"}
+{"msgctxt":"npcnames","msgid":"Barett","msgstr":"Barett"}
+{"msgctxt":"npcnames","msgid":"Barney","msgstr":"Barney"}
+{"msgctxt":"npcnames","msgid":"Bart","msgstr":"Bart"}
+{"msgctxt":"npcnames","msgid":"Basher","msgstr":"Basher"}
+{"msgctxt":"npcnames","msgid":"Basilia","msgstr":"Basilia"}
+{"msgctxt":"npcnames","msgid":"Beatrice","msgstr":"Beatrice"}
+{"msgctxt":"npcnames","msgid":"Beauregard","msgstr":"Beauregard"}
+{"msgctxt":"npcnames","msgid":"Becky","msgstr":"Becky"}
+{"msgctxt":"npcnames","msgid":"Belinda ","msgstr":"Belinda "}
+{"msgctxt":"npcnames","msgid":"Ben","msgstr":"Ben"}
+{"msgctxt":"npcnames","msgid":"Benedict","msgstr":"Benedict"}
+{"msgctxt":"npcnames","msgid":"Benedicta","msgstr":"Benedicta"}
+{"msgctxt":"npcnames","msgid":"Benito","msgstr":"Benito"}
+{"msgctxt":"npcnames","msgid":"Benjamin","msgstr":"Benjamin"}
+{"msgctxt":"npcnames","msgid":"Bennett","msgstr":"Bennett"}
+{"msgctxt":"npcnames","msgid":"Benny","msgstr":"Benny"}
+{"msgctxt":"npcnames","msgid":"Benoit","msgstr":"Benoit"}
+{"msgctxt":"npcnames","msgid":"Beren","msgstr":"Beren"}
+{"msgctxt":"npcnames","msgid":"Bernadette","msgstr":"Bernadette"}
+{"msgctxt":"npcnames","msgid":"Bernard","msgstr":"Bernard"}
+{"msgctxt":"npcnames","msgid":"Bernice","msgstr":"Bernice"}
+{"msgctxt":"npcnames","msgid":"Bert","msgstr":"Bert"}
+{"msgctxt":"npcnames","msgid":"Bertrand","msgstr":"Bertrand"}
+{"msgctxt":"npcnames","msgid":"Beth","msgstr":"Beth"}
+{"msgctxt":"npcnames","msgid":"Betsy","msgstr":"Betsy"}
+{"msgctxt":"npcnames","msgid":"Betty","msgstr":"Betty"}
+{"msgctxt":"npcnames","msgid":"Beverly","msgstr":"Beverly"}
+{"msgctxt":"npcnames","msgid":"Billie","msgstr":"Billie"}
+{"msgctxt":"npcnames","msgid":"Billy","msgstr":"Billy"}
+{"msgctxt":"npcnames","msgid":"Bishop","msgstr":"Bishop"}
+{"msgctxt":"npcnames","msgid":"Blaine","msgstr":"Blaine"}
+{"msgctxt":"npcnames","msgid":"Blajake","msgstr":"Blajake"}
+{"msgctxt":"npcnames","msgid":"Blajuan","msgstr":"Blajuan"}
+{"msgctxt":"npcnames","msgid":"Blake","msgstr":"Blake"}
+{"msgctxt":"npcnames","msgid":"Blondeau","msgstr":"Blondeau"}
+{"msgctxt":"npcnames","msgid":"Bo","msgstr":"Bo"}
+{"msgctxt":"npcnames","msgid":"Bob","msgstr":"Bob"}
+{"msgctxt":"npcnames","msgid":"Bobby","msgstr":"Bobby"}
+{"msgctxt":"npcnames","msgid":"Bodo","msgstr":"Bodo"}
+{"msgctxt":"npcnames","msgid":"Bonnie","msgstr":"Bonnie"}
+{"msgctxt":"npcnames","msgid":"Boris","msgstr":"Boris"}
+{"msgctxt":"npcnames","msgid":"Brad","msgstr":"Brad"}
+{"msgctxt":"npcnames","msgid":"Braden","msgstr":"Braden"}
+{"msgctxt":"npcnames","msgid":"Bradford","msgstr":"Bradford"}
+{"msgctxt":"npcnames","msgid":"Bradley","msgstr":"Bradley"}
+{"msgctxt":"npcnames","msgid":"Brain","msgstr":"Brain"}
+{"msgctxt":"npcnames","msgid":"Brale","msgstr":"Brale"}
+{"msgctxt":"npcnames","msgid":"Brandon","msgstr":"Brandon"}
+{"msgctxt":"npcnames","msgid":"Breed","msgstr":"Breed"}
+{"msgctxt":"npcnames","msgid":"Brenda","msgstr":"Brenda"}
+{"msgctxt":"npcnames","msgid":"Brendon","msgstr":"Brendon"}
+{"msgctxt":"npcnames","msgid":"Brent","msgstr":"Brent"}
+{"msgctxt":"npcnames","msgid":"Brett","msgstr":"Brett"}
+{"msgctxt":"npcnames","msgid":"Brida","msgstr":"Brida"}
+{"msgctxt":"npcnames","msgid":"Brierly","msgstr":"Brierly"}
+{"msgctxt":"npcnames","msgid":"Bronwyn","msgstr":"Bronwyn"}
+{"msgctxt":"npcnames","msgid":"Bronwynn","msgstr":"Bronwynn"}
+{"msgctxt":"npcnames","msgid":"Brook","msgstr":"Brook"}
+{"msgctxt":"npcnames","msgid":"Bruce","msgstr":"Bruce"}
+{"msgctxt":"npcnames","msgid":"Bruno","msgstr":"Bruno"}
+{"msgctxt":"npcnames","msgid":"Bryce","msgstr":"Bryce"}
+{"msgctxt":"npcnames","msgid":"Bud","msgstr":"Bud"}
+{"msgctxt":"npcnames","msgid":"Buford","msgstr":"Buford"}
+{"msgctxt":"npcnames","msgid":"Burton","msgstr":"Burton"}
+{"msgctxt":"npcnames","msgid":"Butch","msgstr":"Butch"}
+{"msgctxt":"npcnames","msgid":"Byire","msgstr":"Byire"}
+{"msgctxt":"npcnames","msgid":"Byron","msgstr":"Byron"}
+{"msgctxt":"npcnames","msgid":"Caao","msgstr":"Caao"}
+{"msgctxt":"npcnames","msgid":"Cal","msgstr":"Cal"}
+{"msgctxt":"npcnames","msgid":"Calandra","msgstr":"Calandra"}
+{"msgctxt":"npcnames","msgid":"Caleb","msgstr":"Caleb"}
+{"msgctxt":"npcnames","msgid":"Callista","msgstr":"Callista"}
+{"msgctxt":"npcnames","msgid":"Callo","msgstr":"Callo"}
+{"msgctxt":"npcnames","msgid":"Calvin","msgstr":"Calvin"}
+{"msgctxt":"npcnames","msgid":"Cameron","msgstr":"Cameron"}
+{"msgctxt":"npcnames","msgid":"Candace","msgstr":"Candace"}
+{"msgctxt":"npcnames","msgid":"Carissa","msgstr":"Carissa"}
+{"msgctxt":"npcnames","msgid":"Carl","msgstr":"Carl"}
+{"msgctxt":"npcnames","msgid":"Carlo","msgstr":"Carlo"}
+{"msgctxt":"npcnames","msgid":"Carlos","msgstr":"Carlos"}
+{"msgctxt":"npcnames","msgid":"Carly ","msgstr":"Carly "}
+{"msgctxt":"npcnames","msgid":"Carmen","msgstr":"Carmen"}
+{"msgctxt":"npcnames","msgid":"Carol","msgstr":"Carol"}
+{"msgctxt":"npcnames","msgid":"Carolann","msgstr":"Carolann"}
+{"msgctxt":"npcnames","msgid":"Carolyn","msgstr":"Carolyn"}
+{"msgctxt":"npcnames","msgid":"Carrie","msgstr":"Carrie"}
+{"msgctxt":"npcnames","msgid":"Carrion","msgstr":"Carrion"}
+{"msgctxt":"npcnames","msgid":"Carter","msgstr":"Carter"}
+{"msgctxt":"npcnames","msgid":"Cary","msgstr":"Cary"}
+{"msgctxt":"npcnames","msgid":"Casey","msgstr":"Casey"}
+{"msgctxt":"npcnames","msgid":"Cassandra","msgstr":"Cassandra"}
+{"msgctxt":"npcnames","msgid":"Cassandraree","msgstr":"Cassandraree"}
+{"msgctxt":"npcnames","msgid":"Catherine","msgstr":"Catherine"}
+{"msgctxt":"npcnames","msgid":"Cathy","msgstr":"Cathy"}
+{"msgctxt":"npcnames","msgid":"Cavein","msgstr":"Cavein"}
+{"msgctxt":"npcnames","msgid":"Cecil","msgstr":"Cecil"}
+{"msgctxt":"npcnames","msgid":"Ceclia ","msgstr":"Ceclia "}
+{"msgctxt":"npcnames","msgid":"Cedric","msgstr":"Cedric"}
+{"msgctxt":"npcnames","msgid":"Celeste","msgstr":"Celeste"}
+{"msgctxt":"npcnames","msgid":"Cesar","msgstr":"Cesar"}
+{"msgctxt":"npcnames","msgid":"Cewe","msgstr":"Cewe"}
+{"msgctxt":"npcnames","msgid":"Chad","msgstr":"Chad"}
+{"msgctxt":"npcnames","msgid":"Chandra","msgstr":"Chandra"}
+{"msgctxt":"npcnames","msgid":"Charles","msgstr":"Charles"}
+{"msgctxt":"npcnames","msgid":"Charlie","msgstr":"Charlie"}
+{"msgctxt":"npcnames","msgid":"Chaseleon","msgstr":"Chaseleon"}
+{"msgctxt":"npcnames","msgid":"Cheryl","msgstr":"Cheryl"}
+{"msgctxt":"npcnames","msgid":"Chester","msgstr":"Chester"}
+{"msgctxt":"npcnames","msgid":"Chet","msgstr":"Chet"}
+{"msgctxt":"npcnames","msgid":"Cheyelerie","msgstr":"Cheyelerie"}
+{"msgctxt":"npcnames","msgid":"Chip","msgstr":"Chip"}
+{"msgctxt":"npcnames","msgid":"Chris","msgstr":"Chris"}
+{"msgctxt":"npcnames","msgid":"Christa","msgstr":"Christa"}
+{"msgctxt":"npcnames","msgid":"Christine","msgstr":"Christine"}
+{"msgctxt":"npcnames","msgid":"Christopher","msgstr":"Christopher"}
+{"msgctxt":"npcnames","msgid":"Chuck","msgstr":"Chuck"}
+{"msgctxt":"npcnames","msgid":"Cian","msgstr":"Cian"}
+{"msgctxt":"npcnames","msgid":"Cindy","msgstr":"Cindy"}
+{"msgctxt":"npcnames","msgid":"Claire","msgstr":"Claire"}
+{"msgctxt":"npcnames","msgid":"Clarence","msgstr":"Clarence"}
+{"msgctxt":"npcnames","msgid":"Clark","msgstr":"Clark"}
+{"msgctxt":"npcnames","msgid":"Clay","msgstr":"Clay"}
+{"msgctxt":"npcnames","msgid":"Clifford","msgstr":"Clifford"}
+{"msgctxt":"npcnames","msgid":"Clyde","msgstr":"Clyde"}
+{"msgctxt":"npcnames","msgid":"Cody","msgstr":"Cody"}
+{"msgctxt":"npcnames","msgid":"Colin","msgstr":"Colin"}
+{"msgctxt":"npcnames","msgid":"Connie","msgstr":"Connie"}
+{"msgctxt":"npcnames","msgid":"Connor","msgstr":"Connor"}
+{"msgctxt":"npcnames","msgid":"Conrad","msgstr":"Conrad"}
+{"msgctxt":"npcnames","msgid":"Constance","msgstr":"Constance"}
+{"msgctxt":"npcnames","msgid":"Constantin","msgstr":"Constantin"}
+{"msgctxt":"npcnames","msgid":"Cora","msgstr":"Cora"}
+{"msgctxt":"npcnames","msgid":"Corbet","msgstr":"Corbet"}
+{"msgctxt":"npcnames","msgid":"Cord","msgstr":"Cord"}
+{"msgctxt":"npcnames","msgid":"Corey","msgstr":"Corey"}
+{"msgctxt":"npcnames","msgid":"Coreywyn","msgstr":"Coreywyn"}
+{"msgctxt":"npcnames","msgid":"Cornelia","msgstr":"Cornelia"}
+{"msgctxt":"npcnames","msgid":"Cornelius","msgstr":"Cornelius"}
+{"msgctxt":"npcnames","msgid":"Cory","msgstr":"Cory"}
+{"msgctxt":"npcnames","msgid":"Couisa","msgstr":"Couisa"}
+{"msgctxt":"npcnames","msgid":"Craig","msgstr":"Craig"}
+{"msgctxt":"npcnames","msgid":"Cyndy","msgstr":"Cyndy"}
+{"msgctxt":"npcnames","msgid":"Cynthia","msgstr":"Cynthia"}
+{"msgctxt":"npcnames","msgid":"Cyrus","msgstr":"Cyrus"}
+{"msgctxt":"npcnames","msgid":"Daale","msgstr":"Daale"}
+{"msgctxt":"npcnames","msgid":"Daet","msgstr":"Daet"}
+{"msgctxt":"npcnames","msgid":"Daiyve","msgstr":"Daiyve"}
+{"msgctxt":"npcnames","msgid":"Dal","msgstr":"Dal"}
+{"msgctxt":"npcnames","msgid":"Dale","msgstr":"Dale"}
+{"msgctxt":"npcnames","msgid":"Dalilia","msgstr":"Dalilia"}
+{"msgctxt":"npcnames","msgid":"Dallas","msgstr":"Dallas"}
+{"msgctxt":"npcnames","msgid":"Dalo","msgstr":"Dalo"}
+{"msgctxt":"npcnames","msgid":"Damaris","msgstr":"Damaris"}
+{"msgctxt":"npcnames","msgid":"Damien","msgstr":"Damien"}
+{"msgctxt":"npcnames","msgid":"Damitia","msgstr":"Damitia"}
+{"msgctxt":"npcnames","msgid":"Dan","msgstr":"Dan"}
+{"msgctxt":"npcnames","msgid":"Dana","msgstr":"Dana"}
+{"msgctxt":"npcnames","msgid":"Danelis","msgstr":"Danelis"}
+{"msgctxt":"npcnames","msgid":"Daniel","msgstr":"Daniel"}
+{"msgctxt":"npcnames","msgid":"Danny","msgstr":"Danny"}
+{"msgctxt":"npcnames","msgid":"Dante","msgstr":"Dante"}
+{"msgctxt":"npcnames","msgid":"Daphne","msgstr":"Daphne"}
+{"msgctxt":"npcnames","msgid":"Dara","msgstr":"Dara"}
+{"msgctxt":"npcnames","msgid":"Darcy","msgstr":"Darcy"}
+{"msgctxt":"npcnames","msgid":"Darina","msgstr":"Darina"}
+{"msgctxt":"npcnames","msgid":"Darlene","msgstr":"Darlene"}
+{"msgctxt":"npcnames","msgid":"Daron","msgstr":"Daron"}
+{"msgctxt":"npcnames","msgid":"Dave","msgstr":"Dave"}
+{"msgctxt":"npcnames","msgid":"Davey","msgstr":"Davey"}
+{"msgctxt":"npcnames","msgid":"David","msgstr":"David"}
+{"msgctxt":"npcnames","msgid":"Dawn","msgstr":"Dawn"}
+{"msgctxt":"npcnames","msgid":"Deane","msgstr":"Deane"}
+{"msgctxt":"npcnames","msgid":"Deanna","msgstr":"Deanna"}
+{"msgctxt":"npcnames","msgid":"Debbie","msgstr":"Debbie"}
+{"msgctxt":"npcnames","msgid":"Deborah","msgstr":"Deborah"}
+{"msgctxt":"npcnames","msgid":"Debrie","msgstr":"Debrie"}
+{"msgctxt":"npcnames","msgid":"Deed","msgstr":"Deed"}
+{"msgctxt":"npcnames","msgid":"Del","msgstr":"Del"}
+{"msgctxt":"npcnames","msgid":"Deloris ","msgstr":"Deloris "}
+{"msgctxt":"npcnames","msgid":"Delphine","msgstr":"Delphine"}
+{"msgctxt":"npcnames","msgid":"Demetria","msgstr":"Demetria"}
+{"msgctxt":"npcnames","msgid":"Denise","msgstr":"Denise"}
+{"msgctxt":"npcnames","msgid":"Dennis","msgstr":"Dennis"}
+{"msgctxt":"npcnames","msgid":"Denny","msgstr":"Denny"}
+{"msgctxt":"npcnames","msgid":"Deolinda","msgstr":"Deolinda"}
+{"msgctxt":"npcnames","msgid":"Derek","msgstr":"Derek"}
+{"msgctxt":"npcnames","msgid":"Desmond","msgstr":"Desmond"}
+{"msgctxt":"npcnames","msgid":"Devon","msgstr":"Devon"}
+{"msgctxt":"npcnames","msgid":"Dextra","msgstr":"Dextra"}
+{"msgctxt":"npcnames","msgid":"Dialia","msgstr":"Dialia"}
+{"msgctxt":"npcnames","msgid":"Diana","msgstr":"Diana"}
+{"msgctxt":"npcnames","msgid":"Diane","msgstr":"Diane"}
+{"msgctxt":"npcnames","msgid":"Diari","msgstr":"Diari"}
+{"msgctxt":"npcnames","msgid":"Dieter","msgstr":"Dieter"}
+{"msgctxt":"npcnames","msgid":"Dimona","msgstr":"Dimona"}
+{"msgctxt":"npcnames","msgid":"Doc","msgstr":"Doc"}
+{"msgctxt":"npcnames","msgid":"Dodridge","msgstr":"Dodridge"}
+{"msgctxt":"npcnames","msgid":"Dolores","msgstr":"Dolores"}
+{"msgctxt":"npcnames","msgid":"Dolph","msgstr":"Dolph"}
+{"msgctxt":"npcnames","msgid":"Domade","msgstr":"Domade"}
+{"msgctxt":"npcnames","msgid":"Dominic","msgstr":"Dominic"}
+{"msgctxt":"npcnames","msgid":"Dominique","msgstr":"Dominique"}
+{"msgctxt":"npcnames","msgid":"Don","msgstr":"Don"}
+{"msgctxt":"npcnames","msgid":"Donald","msgstr":"Donald"}
+{"msgctxt":"npcnames","msgid":"Donie","msgstr":"Donie"}
+{"msgctxt":"npcnames","msgid":"Donna","msgstr":"Donna"}
+{"msgctxt":"npcnames","msgid":"Doreen","msgstr":"Doreen"}
+{"msgctxt":"npcnames","msgid":"Doris","msgstr":"Doris"}
+{"msgctxt":"npcnames","msgid":"Dorothy","msgstr":"Dorothy"}
+{"msgctxt":"npcnames","msgid":"Douglas","msgstr":"Douglas"}
+{"msgctxt":"npcnames","msgid":"Drew","msgstr":"Drew"}
+{"msgctxt":"npcnames","msgid":"Dseyria","msgstr":"Dseyria"}
+{"msgctxt":"npcnames","msgid":"Duke","msgstr":"Duke"}
+{"msgctxt":"npcnames","msgid":"Duncan","msgstr":"Duncan"}
+{"msgctxt":"npcnames","msgid":"Dunerider","msgstr":"Dunerider"}
+{"msgctxt":"npcnames","msgid":"Dust","msgstr":"Dust"}
+{"msgctxt":"npcnames","msgid":"Dustin","msgstr":"Dustin"}
+{"msgctxt":"npcnames","msgid":"Dwane","msgstr":"Dwane"}
+{"msgctxt":"npcnames","msgid":"Dwight","msgstr":"Dwight"}
+{"msgctxt":"npcnames","msgid":"Dylan","msgstr":"Dylan"}
+{"msgctxt":"npcnames","msgid":"Dylanna","msgstr":"Dylanna"}
+{"msgctxt":"npcnames","msgid":"Earl","msgstr":"Earl"}
+{"msgctxt":"npcnames","msgid":"Ebony","msgstr":"Ebony"}
+{"msgctxt":"npcnames","msgid":"Ed","msgstr":"Ed"}
+{"msgctxt":"npcnames","msgid":"Eddie","msgstr":"Eddie"}
+{"msgctxt":"npcnames","msgid":"Edelmira","msgstr":"Edelmira"}
+{"msgctxt":"npcnames","msgid":"Edgar","msgstr":"Edgar"}
+{"msgctxt":"npcnames","msgid":"Edison","msgstr":"Edison"}
+{"msgctxt":"npcnames","msgid":"Edith","msgstr":"Edith"}
+{"msgctxt":"npcnames","msgid":"Edmond","msgstr":"Edmond"}
+{"msgctxt":"npcnames","msgid":"Edna","msgstr":"Edna"}
+{"msgctxt":"npcnames","msgid":"Egelinna","msgstr":"Egelinna"}
+{"msgctxt":"npcnames","msgid":"Eileen","msgstr":"Eileen"}
+{"msgctxt":"npcnames","msgid":"Elaine","msgstr":"Elaine"}
+{"msgctxt":"npcnames","msgid":"Eleanor","msgstr":"Eleanor"}
+{"msgctxt":"npcnames","msgid":"Electra","msgstr":"Electra"}
+{"msgctxt":"npcnames","msgid":"Elijah","msgstr":"Elijah"}
+{"msgctxt":"npcnames","msgid":"Elizabeth","msgstr":"Elizabeth"}
+{"msgctxt":"npcnames","msgid":"Ella","msgstr":"Ella"}
+{"msgctxt":"npcnames","msgid":"Ellen","msgstr":"Ellen"}
+{"msgctxt":"npcnames","msgid":"Elliott","msgstr":"Elliott"}
+{"msgctxt":"npcnames","msgid":"Elmwater","msgstr":"Elmwater"}
+{"msgctxt":"npcnames","msgid":"Elsie","msgstr":"Elsie"}
+{"msgctxt":"npcnames","msgid":"Elton","msgstr":"Elton"}
+{"msgctxt":"npcnames","msgid":"Elyssa","msgstr":"Elyssa"}
+{"msgctxt":"npcnames","msgid":"Emeline","msgstr":"Emeline"}
+{"msgctxt":"npcnames","msgid":"Emil","msgstr":"Emil"}
+{"msgctxt":"npcnames","msgid":"Emma","msgstr":"Emma"}
+{"msgctxt":"npcnames","msgid":"Emmanuel","msgstr":"Emmanuel"}
+{"msgctxt":"npcnames","msgid":"Emmett","msgstr":"Emmett"}
+{"msgctxt":"npcnames","msgid":"Enoch","msgstr":"Enoch"}
+{"msgctxt":"npcnames","msgid":"Eric","msgstr":"Eric"}
+{"msgctxt":"npcnames","msgid":"Erin","msgstr":"Erin"}
+{"msgctxt":"npcnames","msgid":"Ernest","msgstr":"Ernest"}
+{"msgctxt":"npcnames","msgid":"Ernie","msgstr":"Ernie"}
+{"msgctxt":"npcnames","msgid":"Errol","msgstr":"Errol"}
+{"msgctxt":"npcnames","msgid":"Ervin","msgstr":"Ervin"}
+{"msgctxt":"npcnames","msgid":"Ethan","msgstr":"Ethan"}
+{"msgctxt":"npcnames","msgid":"Ethel","msgstr":"Ethel"}
+{"msgctxt":"npcnames","msgid":"Eton","msgstr":"Eton"}
+{"msgctxt":"npcnames","msgid":"Eudocia","msgstr":"Eudocia"}
+{"msgctxt":"npcnames","msgid":"Eugene","msgstr":"Eugene"}
+{"msgctxt":"npcnames","msgid":"Eva","msgstr":"Eva"}
+{"msgctxt":"npcnames","msgid":"Evan","msgstr":"Evan"}
+{"msgctxt":"npcnames","msgid":"Evelyn","msgstr":"Evelyn"}
+{"msgctxt":"npcnames","msgid":"Fabian","msgstr":"Fabian"}
+{"msgctxt":"npcnames","msgid":"Faith","msgstr":"Faith"}
+{"msgctxt":"npcnames","msgid":"Farrell","msgstr":"Farrell"}
+{"msgctxt":"npcnames","msgid":"Felicia","msgstr":"Felicia"}
+{"msgctxt":"npcnames","msgid":"Felix","msgstr":"Felix"}
+{"msgctxt":"npcnames","msgid":"Ferdinand","msgstr":"Ferdinand"}
+{"msgctxt":"npcnames","msgid":"Fiammetta","msgstr":"Fiammetta"}
+{"msgctxt":"npcnames","msgid":"Fiosama","msgstr":"Fiosama"}
+{"msgctxt":"npcnames","msgid":"Fletcher","msgstr":"Fletcher"}
+{"msgctxt":"npcnames","msgid":"Flonah","msgstr":"Flonah"}
+{"msgctxt":"npcnames","msgid":"Florence","msgstr":"Florence"}
+{"msgctxt":"npcnames","msgid":"Flossie","msgstr":"Flossie"}
+{"msgctxt":"npcnames","msgid":"Floyd","msgstr":"Floyd"}
+{"msgctxt":"npcnames","msgid":"Forrest","msgstr":"Forrest"}
+{"msgctxt":"npcnames","msgid":"Forsythia","msgstr":"Forsythia"}
+{"msgctxt":"npcnames","msgid":"Fralie","msgstr":"Fralie"}
+{"msgctxt":"npcnames","msgid":"Francesca","msgstr":"Francesca"}
+{"msgctxt":"npcnames","msgid":"Francisco","msgstr":"Francisco"}
+{"msgctxt":"npcnames","msgid":"Frank","msgstr":"Frank"}
+{"msgctxt":"npcnames","msgid":"Franklin","msgstr":"Franklin"}
+{"msgctxt":"npcnames","msgid":"Franz","msgstr":"Franz"}
+{"msgctxt":"npcnames","msgid":"Fred","msgstr":"Fred"}
+{"msgctxt":"npcnames","msgid":"Frederick","msgstr":"Frederick"}
+{"msgctxt":"npcnames","msgid":"Freya","msgstr":"Freya"}
+{"msgctxt":"npcnames","msgid":"Gabe","msgstr":"Gabe"}
+{"msgctxt":"npcnames","msgid":"Gabriel","msgstr":"Gabriel"}
+{"msgctxt":"npcnames","msgid":"Gaetano","msgstr":"Gaetano"}
+{"msgctxt":"npcnames","msgid":"Gail","msgstr":"Gail"}
+{"msgctxt":"npcnames","msgid":"Gaivan","msgstr":"Gaivan"}
+{"msgctxt":"npcnames","msgid":"Ganah","msgstr":"Ganah"}
+{"msgctxt":"npcnames","msgid":"Garett","msgstr":"Garett"}
+{"msgctxt":"npcnames","msgid":"Gary ","msgstr":"Gary "}
+{"msgctxt":"npcnames","msgid":"Ged","msgstr":"Ged"}
+{"msgctxt":"npcnames","msgid":"Gelsominia","msgstr":"Gelsominia"}
+{"msgctxt":"npcnames","msgid":"Gemah","msgstr":"Gemah"}
+{"msgctxt":"npcnames","msgid":"Geme","msgstr":"Geme"}
+{"msgctxt":"npcnames","msgid":"Genikki","msgstr":"Genikki"}
+{"msgctxt":"npcnames","msgid":"Geoffrey","msgstr":"Geoffrey"}
+{"msgctxt":"npcnames","msgid":"George","msgstr":"George"}
+{"msgctxt":"npcnames","msgid":"Georgina","msgstr":"Georgina"}
+{"msgctxt":"npcnames","msgid":"Gerald","msgstr":"Gerald"}
+{"msgctxt":"npcnames","msgid":"Geraldine","msgstr":"Geraldine"}
+{"msgctxt":"npcnames","msgid":"Gerry","msgstr":"Gerry"}
+{"msgctxt":"npcnames","msgid":"Gertrude","msgstr":"Gertrude"}
+{"msgctxt":"npcnames","msgid":"Gilbert","msgstr":"Gilbert"}
+{"msgctxt":"npcnames","msgid":"Gillian","msgstr":"Gillian"}
+{"msgctxt":"npcnames","msgid":"Gilmore","msgstr":"Gilmore"}
+{"msgctxt":"npcnames","msgid":"Gina","msgstr":"Gina"}
+{"msgctxt":"npcnames","msgid":"Ginger","msgstr":"Ginger"}
+{"msgctxt":"npcnames","msgid":"Ginny","msgstr":"Ginny"}
+{"msgctxt":"npcnames","msgid":"Gino","msgstr":"Gino"}
+{"msgctxt":"npcnames","msgid":"Glenda","msgstr":"Glenda"}
+{"msgctxt":"npcnames","msgid":"Glenn","msgstr":"Glenn"}
+{"msgctxt":"npcnames","msgid":"Gloria","msgstr":"Gloria"}
+{"msgctxt":"npcnames","msgid":"Glynis","msgstr":"Glynis"}
+{"msgctxt":"npcnames","msgid":"Gobra","msgstr":"Gobra"}
+{"msgctxt":"npcnames","msgid":"Gonzalo","msgstr":"Gonzalo"}
+{"msgctxt":"npcnames","msgid":"Gordon","msgstr":"Gordon"}
+{"msgctxt":"npcnames","msgid":"Graham","msgstr":"Graham"}
+{"msgctxt":"npcnames","msgid":"Grant","msgstr":"Grant"}
+{"msgctxt":"npcnames","msgid":"Greg","msgstr":"Greg"}
+{"msgctxt":"npcnames","msgid":"Gregory","msgstr":"Gregory"}
+{"msgctxt":"npcnames","msgid":"Gretchen","msgstr":"Gretchen"}
+{"msgctxt":"npcnames","msgid":"Grey","msgstr":"Grey"}
+{"msgctxt":"npcnames","msgid":"Guillerno","msgstr":"Guillerno"}
+{"msgctxt":"npcnames","msgid":"Gus","msgstr":"Gus"}
+{"msgctxt":"npcnames","msgid":"Guy","msgstr":"Guy"}
+{"msgctxt":"npcnames","msgid":"Gwenda","msgstr":"Gwenda"}
+{"msgctxt":"npcnames","msgid":"Gwendolyn","msgstr":"Gwendolyn"}
+{"msgctxt":"npcnames","msgid":"Gwenn","msgstr":"Gwenn"}
+{"msgctxt":"npcnames","msgid":"Hal","msgstr":"Hal"}
+{"msgctxt":"npcnames","msgid":"Haleyther","msgstr":"Haleyther"}
+{"msgctxt":"npcnames","msgid":"Hampton","msgstr":"Hampton"}
+{"msgctxt":"npcnames","msgid":"Han","msgstr":"Han"}
+{"msgctxt":"npcnames","msgid":"Hana","msgstr":"Hana"}
+{"msgctxt":"npcnames","msgid":"Hank","msgstr":"Hank"}
+{"msgctxt":"npcnames","msgid":"Hannah","msgstr":"Hannah"}
+{"msgctxt":"npcnames","msgid":"Hans","msgstr":"Hans"}
+{"msgctxt":"npcnames","msgid":"Hara","msgstr":"Hara"}
+{"msgctxt":"npcnames","msgid":"Hardy","msgstr":"Hardy"}
+{"msgctxt":"npcnames","msgid":"Harlan","msgstr":"Harlan"}
+{"msgctxt":"npcnames","msgid":"Harley","msgstr":"Harley"}
+{"msgctxt":"npcnames","msgid":"Harold","msgstr":"Harold"}
+{"msgctxt":"npcnames","msgid":"Harriet","msgstr":"Harriet"}
+{"msgctxt":"npcnames","msgid":"Harrison","msgstr":"Harrison"}
+{"msgctxt":"npcnames","msgid":"Harry","msgstr":"Harry"}
+{"msgctxt":"npcnames","msgid":"Harvey","msgstr":"Harvey"}
+{"msgctxt":"npcnames","msgid":"Hayden","msgstr":"Hayden"}
+{"msgctxt":"npcnames","msgid":"Heath","msgstr":"Heath"}
+{"msgctxt":"npcnames","msgid":"Heather","msgstr":"Heather"}
+{"msgctxt":"npcnames","msgid":"Heathet","msgstr":"Heathet"}
+{"msgctxt":"npcnames","msgid":"Hector","msgstr":"Hector"}
+{"msgctxt":"npcnames","msgid":"Heidi","msgstr":"Heidi"}
+{"msgctxt":"npcnames","msgid":"Heladia","msgstr":"Heladia"}
+{"msgctxt":"npcnames","msgid":"Helen","msgstr":"Helen"}
+{"msgctxt":"npcnames","msgid":"Helmut","msgstr":"Helmut"}
+{"msgctxt":"npcnames","msgid":"Henry","msgstr":"Henry"}
+{"msgctxt":"npcnames","msgid":"Herb","msgstr":"Herb"}
+{"msgctxt":"npcnames","msgid":"Herbert","msgstr":"Herbert"}
+{"msgctxt":"npcnames","msgid":"Herman","msgstr":"Herman"}
+{"msgctxt":"npcnames","msgid":"Herzl","msgstr":"Herzl"}
+{"msgctxt":"npcnames","msgid":"Hibernia","msgstr":"Hibernia"}
+{"msgctxt":"npcnames","msgid":"Hilda","msgstr":"Hilda"}
+{"msgctxt":"npcnames","msgid":"Hildereth","msgstr":"Hildereth"}
+{"msgctxt":"npcnames","msgid":"Hitomi","msgstr":"Hitomi"}
+{"msgctxt":"npcnames","msgid":"Hoc","msgstr":"Hoc"}
+{"msgctxt":"npcnames","msgid":"Holden","msgstr":"Holden"}
+{"msgctxt":"npcnames","msgid":"Holly","msgstr":"Holly"}
+{"msgctxt":"npcnames","msgid":"Homer","msgstr":"Homer"}
+{"msgctxt":"npcnames","msgid":"Horace","msgstr":"Horace"}
+{"msgctxt":"npcnames","msgid":"Howard","msgstr":"Howard"}
+{"msgctxt":"npcnames","msgid":"Hued","msgstr":"Hued"}
+{"msgctxt":"npcnames","msgid":"Hugh","msgstr":"Hugh"}
+{"msgctxt":"npcnames","msgid":"Hugo","msgstr":"Hugo"}
+{"msgctxt":"npcnames","msgid":"Hunter","msgstr":"Hunter"}
+{"msgctxt":"npcnames","msgid":"Ian","msgstr":"Ian"}
+{"msgctxt":"npcnames","msgid":"Ida","msgstr":"Ida"}
+{"msgctxt":"npcnames","msgid":"Idona","msgstr":"Idona"}
+{"msgctxt":"npcnames","msgid":"Ignacio","msgstr":"Ignacio"}
+{"msgctxt":"npcnames","msgid":"Igor","msgstr":"Igor"}
+{"msgctxt":"npcnames","msgid":"Ike","msgstr":"Ike"}
+{"msgctxt":"npcnames","msgid":"Ilene","msgstr":"Ilene"}
+{"msgctxt":"npcnames","msgid":"Imelda","msgstr":"Imelda"}
+{"msgctxt":"npcnames","msgid":"Inocencia","msgstr":"Inocencia"}
+{"msgctxt":"npcnames","msgid":"Ira","msgstr":"Ira"}
+{"msgctxt":"npcnames","msgid":"Irelerie","msgstr":"Irelerie"}
+{"msgctxt":"npcnames","msgid":"Irene","msgstr":"Irene"}
+{"msgctxt":"npcnames","msgid":"Irewa","msgstr":"Irewa"}
+{"msgctxt":"npcnames","msgid":"Irina","msgstr":"Irina"}
+{"msgctxt":"npcnames","msgid":"Iris","msgstr":"Iris"}
+{"msgctxt":"npcnames","msgid":"Irma","msgstr":"Irma"}
+{"msgctxt":"npcnames","msgid":"Irving","msgstr":"Irving"}
+{"msgctxt":"npcnames","msgid":"Irwin","msgstr":"Irwin"}
+{"msgctxt":"npcnames","msgid":"Isaac","msgstr":"Isaac"}
+{"msgctxt":"npcnames","msgid":"Isadora","msgstr":"Isadora"}
+{"msgctxt":"npcnames","msgid":"Isaeli","msgstr":"Isaeli"}
+{"msgctxt":"npcnames","msgid":"Isafe","msgstr":"Isafe"}
+{"msgctxt":"npcnames","msgid":"Isao","msgstr":"Isao"}
+{"msgctxt":"npcnames","msgid":"Ismael","msgstr":"Ismael"}
+{"msgctxt":"npcnames","msgid":"Ivan","msgstr":"Ivan"}
+{"msgctxt":"npcnames","msgid":"Ivar","msgstr":"Ivar"}
+{"msgctxt":"npcnames","msgid":"Ivy","msgstr":"Ivy"}
+{"msgctxt":"npcnames","msgid":"Jack","msgstr":"Jack"}
+{"msgctxt":"npcnames","msgid":"Jackie","msgstr":"Jackie"}
+{"msgctxt":"npcnames","msgid":"Jacob","msgstr":"Jacob"}
+{"msgctxt":"npcnames","msgid":"Jacobina","msgstr":"Jacobina"}
+{"msgctxt":"npcnames","msgid":"Jacquline","msgstr":"Jacquline"}
+{"msgctxt":"npcnames","msgid":"Jade","msgstr":"Jade"}
+{"msgctxt":"npcnames","msgid":"Jaerin","msgstr":"Jaerin"}
+{"msgctxt":"npcnames","msgid":"Jake","msgstr":"Jake"}
+{"msgctxt":"npcnames","msgid":"James","msgstr":"James"}
+{"msgctxt":"npcnames","msgid":"Jamie","msgstr":"Jamie"}
+{"msgctxt":"npcnames","msgid":"Jane","msgstr":"Jane"}
+{"msgctxt":"npcnames","msgid":"Janet","msgstr":"Janet"}
+{"msgctxt":"npcnames","msgid":"Janice","msgstr":"Janice"}
+{"msgctxt":"npcnames","msgid":"Janine","msgstr":"Janine"}
+{"msgctxt":"npcnames","msgid":"Janna","msgstr":"Janna"}
+{"msgctxt":"npcnames","msgid":"Jarrod","msgstr":"Jarrod"}
+{"msgctxt":"npcnames","msgid":"Jasmine","msgstr":"Jasmine"}
+{"msgctxt":"npcnames","msgid":"Jason","msgstr":"Jason"}
+{"msgctxt":"npcnames","msgid":"Jasper","msgstr":"Jasper"}
+{"msgctxt":"npcnames","msgid":"Javane","msgstr":"Javane"}
+{"msgctxt":"npcnames","msgid":"Javier","msgstr":"Javier"}
+{"msgctxt":"npcnames","msgid":"Jay","msgstr":"Jay"}
+{"msgctxt":"npcnames","msgid":"Jayne","msgstr":"Jayne"}
+{"msgctxt":"npcnames","msgid":"Jean","msgstr":"Jean"}
+{"msgctxt":"npcnames","msgid":"Jean-Paul","msgstr":"Jean-Paul"}
+{"msgctxt":"npcnames","msgid":"Jean-Pierre","msgstr":"Jean-Pierre"}
+{"msgctxt":"npcnames","msgid":"Jeanette","msgstr":"Jeanette"}
+{"msgctxt":"npcnames","msgid":"Jeanne","msgstr":"Jeanne"}
+{"msgctxt":"npcnames","msgid":"Jeannette","msgstr":"Jeannette"}
+{"msgctxt":"npcnames","msgid":"Jed","msgstr":"Jed"}
+{"msgctxt":"npcnames","msgid":"Jeisa","msgstr":"Jeisa"}
+{"msgctxt":"npcnames","msgid":"Jenna","msgstr":"Jenna"}
+{"msgctxt":"npcnames","msgid":"Jennifer","msgstr":"Jennifer"}
+{"msgctxt":"npcnames","msgid":"Jennilee","msgstr":"Jennilee"}
+{"msgctxt":"npcnames","msgid":"Jenny","msgstr":"Jenny"}
+{"msgctxt":"npcnames","msgid":"Jeremiah","msgstr":"Jeremiah"}
+{"msgctxt":"npcnames","msgid":"Jeremy","msgstr":"Jeremy"}
+{"msgctxt":"npcnames","msgid":"Jerome","msgstr":"Jerome"}
+{"msgctxt":"npcnames","msgid":"Jessaa","msgstr":"Jessaa"}
+{"msgctxt":"npcnames","msgid":"Jesse","msgstr":"Jesse"}
+{"msgctxt":"npcnames","msgid":"Jessica","msgstr":"Jessica"}
+{"msgctxt":"npcnames","msgid":"Jeuna","msgstr":"Jeuna"}
+{"msgctxt":"npcnames","msgid":"Jim","msgstr":"Jim"}
+{"msgctxt":"npcnames","msgid":"Jo","msgstr":"Jo"}
+{"msgctxt":"npcnames","msgid":"JoAnne","msgstr":"JoAnne"}
+{"msgctxt":"npcnames","msgid":"Joan","msgstr":"Joan"}
+{"msgctxt":"npcnames","msgid":"Joann","msgstr":"Joann"}
+{"msgctxt":"npcnames","msgid":"Joe","msgstr":"Joe"}
+{"msgctxt":"npcnames","msgid":"Joel","msgstr":"Joel"}
+{"msgctxt":"npcnames","msgid":"Joeseph","msgstr":"Joeseph"}
+{"msgctxt":"npcnames","msgid":"Johann","msgstr":"Johann"}
+{"msgctxt":"npcnames","msgid":"Johanna","msgstr":"Johanna"}
+{"msgctxt":"npcnames","msgid":"John","msgstr":"John"}
+{"msgctxt":"npcnames","msgid":"Jon","msgstr":"Jon"}
+{"msgctxt":"npcnames","msgid":"Jonah","msgstr":"Jonah"}
+{"msgctxt":"npcnames","msgid":"Jonathan","msgstr":"Jonathan"}
+{"msgctxt":"npcnames","msgid":"Jordan","msgstr":"Jordan"}
+{"msgctxt":"npcnames","msgid":"Joren","msgstr":"Joren"}
+{"msgctxt":"npcnames","msgid":"Joshua","msgstr":"Joshua"}
+{"msgctxt":"npcnames","msgid":"Jotha","msgstr":"Jotha"}
+{"msgctxt":"npcnames","msgid":"Joyce","msgstr":"Joyce"}
+{"msgctxt":"npcnames","msgid":"Judan","msgstr":"Judan"}
+{"msgctxt":"npcnames","msgid":"Judd","msgstr":"Judd"}
+{"msgctxt":"npcnames","msgid":"Judi","msgstr":"Judi"}
+{"msgctxt":"npcnames","msgid":"Judith","msgstr":"Judith"}
+{"msgctxt":"npcnames","msgid":"Judy","msgstr":"Judy"}
+{"msgctxt":"npcnames","msgid":"Juevan","msgstr":"Juevan"}
+{"msgctxt":"npcnames","msgid":"Jules","msgstr":"Jules"}
+{"msgctxt":"npcnames","msgid":"Julie","msgstr":"Julie"}
+{"msgctxt":"npcnames","msgid":"June","msgstr":"June"}
+{"msgctxt":"npcnames","msgid":"Juphi","msgstr":"Juphi"}
+{"msgctxt":"npcnames","msgid":"Justice","msgstr":"Justice"}
+{"msgctxt":"npcnames","msgid":"Justin","msgstr":"Justin"}
+{"msgctxt":"npcnames","msgid":"Kade","msgstr":"Kade"}
+{"msgctxt":"npcnames","msgid":"Kai","msgstr":"Kai"}
+{"msgctxt":"npcnames","msgid":"Kaitlin","msgstr":"Kaitlin"}
+{"msgctxt":"npcnames","msgid":"Kandie","msgstr":"Kandie"}
+{"msgctxt":"npcnames","msgid":"Kareen","msgstr":"Kareen"}
+{"msgctxt":"npcnames","msgid":"Karen","msgstr":"Karen"}
+{"msgctxt":"npcnames","msgid":"Kariad","msgstr":"Kariad"}
+{"msgctxt":"npcnames","msgid":"Karie","msgstr":"Karie"}
+{"msgctxt":"npcnames","msgid":"Kariti","msgstr":"Kariti"}
+{"msgctxt":"npcnames","msgid":"Karl","msgstr":"Karl"}
+{"msgctxt":"npcnames","msgid":"Kassandra","msgstr":"Kassandra"}
+{"msgctxt":"npcnames","msgid":"Kathleen","msgstr":"Kathleen"}
+{"msgctxt":"npcnames","msgid":"Kay","msgstr":"Kay"}
+{"msgctxt":"npcnames","msgid":"Kayleen","msgstr":"Kayleen"}
+{"msgctxt":"npcnames","msgid":"Kayley","msgstr":"Kayley"}
+{"msgctxt":"npcnames","msgid":"Kearia","msgstr":"Kearia"}
+{"msgctxt":"npcnames","msgid":"Keegan","msgstr":"Keegan"}
+{"msgctxt":"npcnames","msgid":"Kegar","msgstr":"Kegar"}
+{"msgctxt":"npcnames","msgid":"Keith","msgstr":"Keith"}
+{"msgctxt":"npcnames","msgid":"Kel","msgstr":"Kel"}
+{"msgctxt":"npcnames","msgid":"Kelley","msgstr":"Kelley"}
+{"msgctxt":"npcnames","msgid":"Kelly","msgstr":"Kelly"}
+{"msgctxt":"npcnames","msgid":"Ken","msgstr":"Ken"}
+{"msgctxt":"npcnames","msgid":"Kenneth","msgstr":"Kenneth"}
+{"msgctxt":"npcnames","msgid":"Keri","msgstr":"Keri"}
+{"msgctxt":"npcnames","msgid":"Kern","msgstr":"Kern"}
+{"msgctxt":"npcnames","msgid":"Kesel","msgstr":"Kesel"}
+{"msgctxt":"npcnames","msgid":"Kevin","msgstr":"Kevin"}
+{"msgctxt":"npcnames","msgid":"Kezia","msgstr":"Kezia"}
+{"msgctxt":"npcnames","msgid":"Khanh","msgstr":"Khanh"}
+{"msgctxt":"npcnames","msgid":"Kieri","msgstr":"Kieri"}
+{"msgctxt":"npcnames","msgid":"Kiir","msgstr":"Kiir"}
+{"msgctxt":"npcnames","msgid":"Kile","msgstr":"Kile"}
+{"msgctxt":"npcnames","msgid":"Kim","msgstr":"Kim"}
+{"msgctxt":"npcnames","msgid":"Kimberly","msgstr":"Kimberly"}
+{"msgctxt":"npcnames","msgid":"Kira","msgstr":"Kira"}
+{"msgctxt":"npcnames","msgid":"Kirk","msgstr":"Kirk"}
+{"msgctxt":"npcnames","msgid":"Kosto","msgstr":"Kosto"}
+{"msgctxt":"npcnames","msgid":"Krira","msgstr":"Krira"}
+{"msgctxt":"npcnames","msgid":"Kristen","msgstr":"Kristen"}
+{"msgctxt":"npcnames","msgid":"Kristina","msgstr":"Kristina"}
+{"msgctxt":"npcnames","msgid":"Kynthia","msgstr":"Kynthia"}
+{"msgctxt":"npcnames","msgid":"Lainey","msgstr":"Lainey"}
+{"msgctxt":"npcnames","msgid":"Lakeshia","msgstr":"Lakeshia"}
+{"msgctxt":"npcnames","msgid":"Lana","msgstr":"Lana"}
+{"msgctxt":"npcnames","msgid":"Lance","msgstr":"Lance"}
+{"msgctxt":"npcnames","msgid":"Lara","msgstr":"Lara"}
+{"msgctxt":"npcnames","msgid":"Larry","msgstr":"Larry"}
+{"msgctxt":"npcnames","msgid":"Lars","msgstr":"Lars"}
+{"msgctxt":"npcnames","msgid":"Latanya","msgstr":"Latanya"}
+{"msgctxt":"npcnames","msgid":"Laueli","msgstr":"Laueli"}
+{"msgctxt":"npcnames","msgid":"Laura","msgstr":"Laura"}
+{"msgctxt":"npcnames","msgid":"Lauren","msgstr":"Lauren"}
+{"msgctxt":"npcnames","msgid":"Laurie","msgstr":"Laurie"}
+{"msgctxt":"npcnames","msgid":"Lauuna","msgstr":"Lauuna"}
+{"msgctxt":"npcnames","msgid":"Lazare","msgstr":"Lazare"}
+{"msgctxt":"npcnames","msgid":"Leah","msgstr":"Leah"}
+{"msgctxt":"npcnames","msgid":"Leasa","msgstr":"Leasa"}
+{"msgctxt":"npcnames","msgid":"Lee","msgstr":"Lee"}
+{"msgctxt":"npcnames","msgid":"Lee Ann","msgstr":"Lee Ann"}
+{"msgctxt":"npcnames","msgid":"Leif","msgstr":"Leif"}
+{"msgctxt":"npcnames","msgid":"Leland","msgstr":"Leland"}
+{"msgctxt":"npcnames","msgid":"Leo","msgstr":"Leo"}
+{"msgctxt":"npcnames","msgid":"Leola","msgstr":"Leola"}
+{"msgctxt":"npcnames","msgid":"Leon","msgstr":"Leon"}
+{"msgctxt":"npcnames","msgid":"Leonard","msgstr":"Leonard"}
+{"msgctxt":"npcnames","msgid":"Leora","msgstr":"Leora"}
+{"msgctxt":"npcnames","msgid":"Leriedan","msgstr":"Leriedan"}
+{"msgctxt":"npcnames","msgid":"Leroy","msgstr":"Leroy"}
+{"msgctxt":"npcnames","msgid":"Leslie","msgstr":"Leslie"}
+{"msgctxt":"npcnames","msgid":"Lester","msgstr":"Lester"}
+{"msgctxt":"npcnames","msgid":"Lewe","msgstr":"Lewe"}
+{"msgctxt":"npcnames","msgid":"Lewis","msgstr":"Lewis"}
+{"msgctxt":"npcnames","msgid":"Liabra","msgstr":"Liabra"}
+{"msgctxt":"npcnames","msgid":"Liam","msgstr":"Liam"}
+{"msgctxt":"npcnames","msgid":"Liana","msgstr":"Liana"}
+{"msgctxt":"npcnames","msgid":"Lilith","msgstr":"Lilith"}
+{"msgctxt":"npcnames","msgid":"Lilly","msgstr":"Lilly"}
+{"msgctxt":"npcnames","msgid":"Linda","msgstr":"Linda"}
+{"msgctxt":"npcnames","msgid":"Lindsey","msgstr":"Lindsey"}
+{"msgctxt":"npcnames","msgid":"Lionel","msgstr":"Lionel"}
+{"msgctxt":"npcnames","msgid":"Lisa","msgstr":"Lisa"}
+{"msgctxt":"npcnames","msgid":"Livia","msgstr":"Livia"}
+{"msgctxt":"npcnames","msgid":"Lloyd","msgstr":"Lloyd"}
+{"msgctxt":"npcnames","msgid":"Logan","msgstr":"Logan"}
+{"msgctxt":"npcnames","msgid":"Lois","msgstr":"Lois"}
+{"msgctxt":"npcnames","msgid":"Lon","msgstr":"Lon"}
+{"msgctxt":"npcnames","msgid":"Lonny","msgstr":"Lonny"}
+{"msgctxt":"npcnames","msgid":"Lora","msgstr":"Lora"}
+{"msgctxt":"npcnames","msgid":"Lorelie","msgstr":"Lorelie"}
+{"msgctxt":"npcnames","msgid":"Loric","msgstr":"Loric"}
+{"msgctxt":"npcnames","msgid":"Lorraine","msgstr":"Lorraine"}
+{"msgctxt":"npcnames","msgid":"Lou","msgstr":"Lou"}
+{"msgctxt":"npcnames","msgid":"Louie","msgstr":"Louie"}
+{"msgctxt":"npcnames","msgid":"Louis","msgstr":"Louis"}
+{"msgctxt":"npcnames","msgid":"Louise","msgstr":"Louise"}
+{"msgctxt":"npcnames","msgid":"Lowell","msgstr":"Lowell"}
+{"msgctxt":"npcnames","msgid":"Lucile","msgstr":"Lucile"}
+{"msgctxt":"npcnames","msgid":"Lucky","msgstr":"Lucky"}
+{"msgctxt":"npcnames","msgid":"Ludwig","msgstr":"Ludwig"}
+{"msgctxt":"npcnames","msgid":"Luigi","msgstr":"Luigi"}
+{"msgctxt":"npcnames","msgid":"Luke","msgstr":"Luke"}
+{"msgctxt":"npcnames","msgid":"Luther","msgstr":"Luther"}
+{"msgctxt":"npcnames","msgid":"Lyman","msgstr":"Lyman"}
+{"msgctxt":"npcnames","msgid":"Lynden","msgstr":"Lynden"}
+{"msgctxt":"npcnames","msgid":"Lynne","msgstr":"Lynne"}
+{"msgctxt":"npcnames","msgid":"Lyra","msgstr":"Lyra"}
+{"msgctxt":"npcnames","msgid":"Lysandra","msgstr":"Lysandra"}
+{"msgctxt":"npcnames","msgid":"Maaly","msgstr":"Maaly"}
+{"msgctxt":"npcnames","msgid":"Mac","msgstr":"Mac"}
+{"msgctxt":"npcnames","msgid":"Macro","msgstr":"Macro"}
+{"msgctxt":"npcnames","msgid":"Madeleine","msgstr":"Madeleine"}
+{"msgctxt":"npcnames","msgid":"Maggie","msgstr":"Maggie"}
+{"msgctxt":"npcnames","msgid":"Maje","msgstr":"Maje"}
+{"msgctxt":"npcnames","msgid":"Malcolm","msgstr":"Malcolm"}
+{"msgctxt":"npcnames","msgid":"Mallcora","msgstr":"Mallcora"}
+{"msgctxt":"npcnames","msgid":"Mamie","msgstr":"Mamie"}
+{"msgctxt":"npcnames","msgid":"Mandy","msgstr":"Mandy"}
+{"msgctxt":"npcnames","msgid":"Manfred","msgstr":"Manfred"}
+{"msgctxt":"npcnames","msgid":"Manny","msgstr":"Manny"}
+{"msgctxt":"npcnames","msgid":"Marc","msgstr":"Marc"}
+{"msgctxt":"npcnames","msgid":"Marcello","msgstr":"Marcello"}
+{"msgctxt":"npcnames","msgid":"Marcia","msgstr":"Marcia"}
+{"msgctxt":"npcnames","msgid":"Marco","msgstr":"Marco"}
+{"msgctxt":"npcnames","msgid":"Marcus","msgstr":"Marcus"}
+{"msgctxt":"npcnames","msgid":"Marcy","msgstr":"Marcy"}
+{"msgctxt":"npcnames","msgid":"Margaret","msgstr":"Margaret"}
+{"msgctxt":"npcnames","msgid":"Marge","msgstr":"Marge"}
+{"msgctxt":"npcnames","msgid":"Maria","msgstr":"Maria"}
+{"msgctxt":"npcnames","msgid":"Marian","msgstr":"Marian"}
+{"msgctxt":"npcnames","msgid":"Marianne","msgstr":"Marianne"}
+{"msgctxt":"npcnames","msgid":"Marie","msgstr":"Marie"}
+{"msgctxt":"npcnames","msgid":"Mariline","msgstr":"Mariline"}
+{"msgctxt":"npcnames","msgid":"Marilyn","msgstr":"Marilyn"}
+{"msgctxt":"npcnames","msgid":"Marinie","msgstr":"Marinie"}
+{"msgctxt":"npcnames","msgid":"Mario","msgstr":"Mario"}
+{"msgctxt":"npcnames","msgid":"Marion","msgstr":"Marion"}
+{"msgctxt":"npcnames","msgid":"Marisa","msgstr":"Marisa"}
+{"msgctxt":"npcnames","msgid":"Marjorie","msgstr":"Marjorie"}
+{"msgctxt":"npcnames","msgid":"Mark","msgstr":"Mark"}
+{"msgctxt":"npcnames","msgid":"Marlene","msgstr":"Marlene"}
+{"msgctxt":"npcnames","msgid":"Marlon","msgstr":"Marlon"}
+{"msgctxt":"npcnames","msgid":"Marnie","msgstr":"Marnie"}
+{"msgctxt":"npcnames","msgid":"Marsha","msgstr":"Marsha"}
+{"msgctxt":"npcnames","msgid":"Marshal","msgstr":"Marshal"}
+{"msgctxt":"npcnames","msgid":"Martha","msgstr":"Martha"}
+{"msgctxt":"npcnames","msgid":"Martin","msgstr":"Martin"}
+{"msgctxt":"npcnames","msgid":"Martyl","msgstr":"Martyl"}
+{"msgctxt":"npcnames","msgid":"Marvin","msgstr":"Marvin"}
+{"msgctxt":"npcnames","msgid":"Mary","msgstr":"Mary"}
+{"msgctxt":"npcnames","msgid":"Mary Jo","msgstr":"Mary Jo"}
+{"msgctxt":"npcnames","msgid":"Maryli","msgstr":"Maryli"}
+{"msgctxt":"npcnames","msgid":"Maryse","msgstr":"Maryse"}
+{"msgctxt":"npcnames","msgid":"Mathew","msgstr":"Mathew"}
+{"msgctxt":"npcnames","msgid":"Matt","msgstr":"Matt"}
+{"msgctxt":"npcnames","msgid":"Maul","msgstr":"Maul"}
+{"msgctxt":"npcnames","msgid":"Maureen","msgstr":"Maureen"}
+{"msgctxt":"npcnames","msgid":"Max","msgstr":"Max"}
+{"msgctxt":"npcnames","msgid":"Maxwell","msgstr":"Maxwell"}
+{"msgctxt":"npcnames","msgid":"Mayme","msgstr":"Mayme"}
+{"msgctxt":"npcnames","msgid":"Mel","msgstr":"Mel"}
+{"msgctxt":"npcnames","msgid":"Melanie","msgstr":"Melanie"}
+{"msgctxt":"npcnames","msgid":"Melinda","msgstr":"Melinda"}
+{"msgctxt":"npcnames","msgid":"Melissa","msgstr":"Melissa"}
+{"msgctxt":"npcnames","msgid":"Melody","msgstr":"Melody"}
+{"msgctxt":"npcnames","msgid":"Melvin","msgstr":"Melvin"}
+{"msgctxt":"npcnames","msgid":"Mercedes","msgstr":"Mercedes"}
+{"msgctxt":"npcnames","msgid":"Michele","msgstr":"Michele"}
+{"msgctxt":"npcnames","msgid":"Mick","msgstr":"Mick"}
+{"msgctxt":"npcnames","msgid":"Mike","msgstr":"Mike"}
+{"msgctxt":"npcnames","msgid":"Miles","msgstr":"Miles"}
+{"msgctxt":"npcnames","msgid":"Mina","msgstr":"Mina"}
+{"msgctxt":"npcnames","msgid":"Mindy","msgstr":"Mindy"}
+{"msgctxt":"npcnames","msgid":"Minnie","msgstr":"Minnie"}
+{"msgctxt":"npcnames","msgid":"Miraan","msgstr":"Miraan"}
+{"msgctxt":"npcnames","msgid":"Miriam","msgstr":"Miriam"}
+{"msgctxt":"npcnames","msgid":"Mitch","msgstr":"Mitch"}
+{"msgctxt":"npcnames","msgid":"Mohammed","msgstr":"Mohammed"}
+{"msgctxt":"npcnames","msgid":"Moira","msgstr":"Moira"}
+{"msgctxt":"npcnames","msgid":"Monica","msgstr":"Monica"}
+{"msgctxt":"npcnames","msgid":"Monte","msgstr":"Monte"}
+{"msgctxt":"npcnames","msgid":"Morel","msgstr":"Morel"}
+{"msgctxt":"npcnames","msgid":"Morris","msgstr":"Morris"}
+{"msgctxt":"npcnames","msgid":"Morton","msgstr":"Morton"}
+{"msgctxt":"npcnames","msgid":"Moven","msgstr":"Moven"}
+{"msgctxt":"npcnames","msgid":"Muriel","msgstr":"Muriel"}
+{"msgctxt":"npcnames","msgid":"Murray","msgstr":"Murray"}
+{"msgctxt":"npcnames","msgid":"Myles","msgstr":"Myles"}
+{"msgctxt":"npcnames","msgid":"Mylix","msgstr":"Mylix"}
+{"msgctxt":"npcnames","msgid":"Nadine","msgstr":"Nadine"}
+{"msgctxt":"npcnames","msgid":"Nahen","msgstr":"Nahen"}
+{"msgctxt":"npcnames","msgid":"Nancie","msgstr":"Nancie"}
+{"msgctxt":"npcnames","msgid":"Nancy","msgstr":"Nancy"}
+{"msgctxt":"npcnames","msgid":"Naomi","msgstr":"Naomi"}
+{"msgctxt":"npcnames","msgid":"Natalie","msgstr":"Natalie"}
+{"msgctxt":"npcnames","msgid":"Nate","msgstr":"Nate"}
+{"msgctxt":"npcnames","msgid":"Nathan","msgstr":"Nathan"}
+{"msgctxt":"npcnames","msgid":"Nathaniel","msgstr":"Nathaniel"}
+{"msgctxt":"npcnames","msgid":"Navin","msgstr":"Navin"}
+{"msgctxt":"npcnames","msgid":"Neal","msgstr":"Neal"}
+{"msgctxt":"npcnames","msgid":"Ned","msgstr":"Ned"}
+{"msgctxt":"npcnames","msgid":"Nedra","msgstr":"Nedra"}
+{"msgctxt":"npcnames","msgid":"Nelix","msgstr":"Nelix"}
+{"msgctxt":"npcnames","msgid":"Nelson","msgstr":"Nelson"}
+{"msgctxt":"npcnames","msgid":"Nerys","msgstr":"Nerys"}
+{"msgctxt":"npcnames","msgid":"Newt","msgstr":"Newt"}
+{"msgctxt":"npcnames","msgid":"Nichoisaiah","msgstr":"Nichoisaiah"}
+{"msgctxt":"npcnames","msgid":"Nicholas","msgstr":"Nicholas"}
+{"msgctxt":"npcnames","msgid":"Nick","msgstr":"Nick"}
+{"msgctxt":"npcnames","msgid":"Nickolas","msgstr":"Nickolas"}
+{"msgctxt":"npcnames","msgid":"Nicoire","msgstr":"Nicoire"}
+{"msgctxt":"npcnames","msgid":"Nicole","msgstr":"Nicole"}
+{"msgctxt":"npcnames","msgid":"Nicosi","msgstr":"Nicosi"}
+{"msgctxt":"npcnames","msgid":"Niki","msgstr":"Niki"}
+{"msgctxt":"npcnames","msgid":"Nilsine","msgstr":"Nilsine"}
+{"msgctxt":"npcnames","msgid":"Niqueale","msgstr":"Niqueale"}
+{"msgctxt":"npcnames","msgid":"Noah","msgstr":"Noah"}
+{"msgctxt":"npcnames","msgid":"Noreen","msgstr":"Noreen"}
+{"msgctxt":"npcnames","msgid":"Norene","msgstr":"Norene"}
+{"msgctxt":"npcnames","msgid":"Norm","msgstr":"Norm"}
+{"msgctxt":"npcnames","msgid":"Norma","msgstr":"Norma"}
+{"msgctxt":"npcnames","msgid":"Norman","msgstr":"Norman"}
+{"msgctxt":"npcnames","msgid":"Norris","msgstr":"Norris"}
+{"msgctxt":"npcnames","msgid":"Odelia","msgstr":"Odelia"}
+{"msgctxt":"npcnames","msgid":"Odethe","msgstr":"Odethe"}
+{"msgctxt":"npcnames","msgid":"Odeva","msgstr":"Odeva"}
+{"msgctxt":"npcnames","msgid":"Olaf","msgstr":"Olaf"}
+{"msgctxt":"npcnames","msgid":"Olesia","msgstr":"Olesia"}
+{"msgctxt":"npcnames","msgid":"Oliver","msgstr":"Oliver"}
+{"msgctxt":"npcnames","msgid":"Olivia","msgstr":"Olivia"}
+{"msgctxt":"npcnames","msgid":"Ophira","msgstr":"Ophira"}
+{"msgctxt":"npcnames","msgid":"Otis","msgstr":"Otis"}
+{"msgctxt":"npcnames","msgid":"Owen","msgstr":"Owen"}
+{"msgctxt":"npcnames","msgid":"Pacifica","msgstr":"Pacifica"}
+{"msgctxt":"npcnames","msgid":"Pago","msgstr":"Pago"}
+{"msgctxt":"npcnames","msgid":"Paige ","msgstr":"Paige"}
+{"msgctxt":"npcnames","msgid":"Pam","msgstr":"Pam"}
+{"msgctxt":"npcnames","msgid":"Pamela","msgstr":"Pamela"}
+{"msgctxt":"npcnames","msgid":"Pandora","msgstr":"Pandora"}
+{"msgctxt":"npcnames","msgid":"Parker","msgstr":"Parker"}
+{"msgctxt":"npcnames","msgid":"Parthenia","msgstr":"Parthenia"}
+{"msgctxt":"npcnames","msgid":"Pat","msgstr":"Pat"}
+{"msgctxt":"npcnames","msgid":"Patricia","msgstr":"Patricia"}
+{"msgctxt":"npcnames","msgid":"Patrick","msgstr":"Patrick"}
+{"msgctxt":"npcnames","msgid":"Patty","msgstr":"Patty"}
+{"msgctxt":"npcnames","msgid":"Paul","msgstr":"Paul"}
+{"msgctxt":"npcnames","msgid":"Pavel","msgstr":"Pavel"}
+{"msgctxt":"npcnames","msgid":"Payne","msgstr":"Payne"}
+{"msgctxt":"npcnames","msgid":"Peg","msgstr":"Peg"}
+{"msgctxt":"npcnames","msgid":"Peggy","msgstr":"Peggy"}
+{"msgctxt":"npcnames","msgid":"Penny","msgstr":"Penny"}
+{"msgctxt":"npcnames","msgid":"Percival","msgstr":"Percival"}
+{"msgctxt":"npcnames","msgid":"Percy","msgstr":"Percy"}
+{"msgctxt":"npcnames","msgid":"Perfecta","msgstr":"Perfecta"}
+{"msgctxt":"npcnames","msgid":"Perry","msgstr":"Perry"}
+{"msgctxt":"npcnames","msgid":"Pete","msgstr":"Pete"}
+{"msgctxt":"npcnames","msgid":"Peter","msgstr":"Peter"}
+{"msgctxt":"npcnames","msgid":"Phaedrus","msgstr":"Phaedrus"}
+{"msgctxt":"npcnames","msgid":"Pherebe","msgstr":"Pherebe"}
+{"msgctxt":"npcnames","msgid":"Phil","msgstr":"Phil"}
+{"msgctxt":"npcnames","msgid":"Philip","msgstr":"Philip"}
+{"msgctxt":"npcnames","msgid":"Philomena","msgstr":"Philomena"}
+{"msgctxt":"npcnames","msgid":"Phyllis","msgstr":"Phyllis"}
+{"msgctxt":"npcnames","msgid":"Pierce","msgstr":"Pierce"}
+{"msgctxt":"npcnames","msgid":"Pierre","msgstr":"Pierre"}
+{"msgctxt":"npcnames","msgid":"Pixie","msgstr":"Pixie"}
+{"msgctxt":"npcnames","msgid":"Preston","msgstr":"Preston"}
+{"msgctxt":"npcnames","msgid":"Quan","msgstr":"Quan"}
+{"msgctxt":"npcnames","msgid":"Quentin","msgstr":"Quentin"}
+{"msgctxt":"npcnames","msgid":"Quinn","msgstr":"Quinn"}
+{"msgctxt":"npcnames","msgid":"Quirina","msgstr":"Quirina"}
+{"msgctxt":"npcnames","msgid":"Rachel","msgstr":"Rachel"}
+{"msgctxt":"npcnames","msgid":"Radu","msgstr":"Radu"}
+{"msgctxt":"npcnames","msgid":"Rafael","msgstr":"Rafael"}
+{"msgctxt":"npcnames","msgid":"Rahu","msgstr":"Rahu"}
+{"msgctxt":"npcnames","msgid":"Raign","msgstr":"Raign"}
+{"msgctxt":"npcnames","msgid":"Ralph","msgstr":"Ralph"}
+{"msgctxt":"npcnames","msgid":"Rama","msgstr":"Rama"}
+{"msgctxt":"npcnames","msgid":"Ramey","msgstr":"Ramey"}
+{"msgctxt":"npcnames","msgid":"Ramsey","msgstr":"Ramsey"}
+{"msgctxt":"npcnames","msgid":"Randall","msgstr":"Randall"}
+{"msgctxt":"npcnames","msgid":"Randolph","msgstr":"Randolph"}
+{"msgctxt":"npcnames","msgid":"Randy","msgstr":"Randy"}
+{"msgctxt":"npcnames","msgid":"Rare","msgstr":"Rare"}
+{"msgctxt":"npcnames","msgid":"Ratha","msgstr":"Ratha"}
+{"msgctxt":"npcnames","msgid":"Raul","msgstr":"Raul"}
+{"msgctxt":"npcnames","msgid":"Raven","msgstr":"Großer Rabe"}
+{"msgctxt":"npcnames","msgid":"Raymond","msgstr":"Raymond"}
+{"msgctxt":"npcnames","msgid":"Rebecca","msgstr":"Rebecca"}
+{"msgctxt":"npcnames","msgid":"Redrea","msgstr":"Redrea"}
+{"msgctxt":"npcnames","msgid":"Reg","msgstr":"Reg"}
+{"msgctxt":"npcnames","msgid":"Regina","msgstr":"Regina"}
+{"msgctxt":"npcnames","msgid":"Reginald","msgstr":"Reginald"}
+{"msgctxt":"npcnames","msgid":"Rene","msgstr":"Rene"}
+{"msgctxt":"npcnames","msgid":"Renee","msgstr":"Renee"}
+{"msgctxt":"npcnames","msgid":"Renzo","msgstr":"Renzo"}
+{"msgctxt":"npcnames","msgid":"Resanda","msgstr":"Resanda"}
+{"msgctxt":"npcnames","msgid":"Revee","msgstr":"Revee"}
+{"msgctxt":"npcnames","msgid":"Rex","msgstr":"Rex"}
+{"msgctxt":"npcnames","msgid":"Reynaldo","msgstr":"Reynaldo"}
+{"msgctxt":"npcnames","msgid":"Rhonda","msgstr":"Rhonda"}
+{"msgctxt":"npcnames","msgid":"Riakari","msgstr":"Riakari"}
+{"msgctxt":"npcnames","msgid":"Riara","msgstr":"Riara"}
+{"msgctxt":"npcnames","msgid":"Richard","msgstr":"Richard"}
+{"msgctxt":"npcnames","msgid":"Ricky","msgstr":"Ricky"}
+{"msgctxt":"npcnames","msgid":"Rierina","msgstr":"Rierina"}
+{"msgctxt":"npcnames","msgid":"Rija","msgstr":"Rija"}
+{"msgctxt":"npcnames","msgid":"Rilix","msgstr":"Rilix"}
+{"msgctxt":"npcnames","msgid":"Rita","msgstr":"Rita"}
+{"msgctxt":"npcnames","msgid":"Rob","msgstr":"Rob"}
+{"msgctxt":"npcnames","msgid":"Robby","msgstr":"Robby"}
+{"msgctxt":"npcnames","msgid":"Robert","msgstr":"Robert"}
+{"msgctxt":"npcnames","msgid":"Roberta","msgstr":"Roberta"}
+{"msgctxt":"npcnames","msgid":"Robin","msgstr":"Robin"}
+{"msgctxt":"npcnames","msgid":"Rochelle","msgstr":"Rochelle"}
+{"msgctxt":"npcnames","msgid":"Rocky","msgstr":"Rocky"}
+{"msgctxt":"npcnames","msgid":"Rodney","msgstr":"Rodney"}
+{"msgctxt":"npcnames","msgid":"Roland","msgstr":"Roland"}
+{"msgctxt":"npcnames","msgid":"Romona","msgstr":"Romona"}
+{"msgctxt":"npcnames","msgid":"Ron","msgstr":"Ron"}
+{"msgctxt":"npcnames","msgid":"Ronald","msgstr":"Ronald"}
+{"msgctxt":"npcnames","msgid":"Ronimira","msgstr":"Ronimira"}
+{"msgctxt":"npcnames","msgid":"Rook","msgstr":"Krähe"}
+{"msgctxt":"npcnames","msgid":"Rore","msgstr":"Rore"}
+{"msgctxt":"npcnames","msgid":"Rory","msgstr":"Rory"}
+{"msgctxt":"npcnames","msgid":"Rosa","msgstr":"Rosa"}
+{"msgctxt":"npcnames","msgid":"Rosalee","msgstr":"Rosalee"}
+{"msgctxt":"npcnames","msgid":"Rosanna","msgstr":"Rosanna"}
+{"msgctxt":"npcnames","msgid":"Rose","msgstr":"Rose"}
+{"msgctxt":"npcnames","msgid":"Rosemarie","msgstr":"Rosemarie"}
+{"msgctxt":"npcnames","msgid":"Rosemary","msgstr":"Rosemary"}
+{"msgctxt":"npcnames","msgid":"Rosie","msgstr":"Rosie"}
+{"msgctxt":"npcnames","msgid":"Ross","msgstr":"Ross"}
+{"msgctxt":"npcnames","msgid":"Roy","msgstr":"Roy"}
+{"msgctxt":"npcnames","msgid":"Rudy","msgstr":"Rudy"}
+{"msgctxt":"npcnames","msgid":"Rulilian","msgstr":"Rulilian"}
+{"msgctxt":"npcnames","msgid":"Rupert","msgstr":"Rupert"}
+{"msgctxt":"npcnames","msgid":"Russell","msgstr":"Russell"}
+{"msgctxt":"npcnames","msgid":"Rusty","msgstr":"Rusty"}
+{"msgctxt":"npcnames","msgid":"Ruth","msgstr":"Ruth"}
+{"msgctxt":"npcnames","msgid":"Ruthie","msgstr":"Ruthie"}
+{"msgctxt":"npcnames","msgid":"Ruthina","msgstr":"Ruthina"}
+{"msgctxt":"npcnames","msgid":"Ryan","msgstr":"Ryan"}
+{"msgctxt":"npcnames","msgid":"Saad","msgstr":"Saad"}
+{"msgctxt":"npcnames","msgid":"Sabrina","msgstr":"Sabrina"}
+{"msgctxt":"npcnames","msgid":"Sadie","msgstr":"Sadie"}
+{"msgctxt":"npcnames","msgid":"Saemi","msgstr":"Saemi"}
+{"msgctxt":"npcnames","msgid":"Sal","msgstr":"Sal"}
+{"msgctxt":"npcnames","msgid":"Sally","msgstr":"Sally"}
+{"msgctxt":"npcnames","msgid":"Salvatore","msgstr":"Salvatore"}
+{"msgctxt":"npcnames","msgid":"Sam","msgstr":"Sam"}
+{"msgctxt":"npcnames","msgid":"Sammantha","msgstr":"Sammantha"}
+{"msgctxt":"npcnames","msgid":"Samuel","msgstr":"Samuel"}
+{"msgctxt":"npcnames","msgid":"Sandeep","msgstr":"Sandeep"}
+{"msgctxt":"npcnames","msgid":"Sandie","msgstr":"Sandie"}
+{"msgctxt":"npcnames","msgid":"Sandra","msgstr":"Sandra"}
+{"msgctxt":"npcnames","msgid":"Sandy","msgstr":"Sandy"}
+{"msgctxt":"npcnames","msgid":"Sanina","msgstr":"Sanina"}
+{"msgctxt":"npcnames","msgid":"Santos","msgstr":"Santos"}
+{"msgctxt":"npcnames","msgid":"Sapphire","msgstr":"Sapphire"}
+{"msgctxt":"npcnames","msgid":"Sara","msgstr":"Sara"}
+{"msgctxt":"npcnames","msgid":"Sarah","msgstr":"Sarah"}
+{"msgctxt":"npcnames","msgid":"Saul","msgstr":"Saul"}
+{"msgctxt":"npcnames","msgid":"Savale","msgstr":"Savale"}
+{"msgctxt":"npcnames","msgid":"Savasarah","msgstr":"Savasarah"}
+{"msgctxt":"npcnames","msgid":"Scalise","msgstr":"Scalise"}
+{"msgctxt":"npcnames","msgid":"Scarlet","msgstr":"Scarlet"}
+{"msgctxt":"npcnames","msgid":"Scott","msgstr":"Scott"}
+{"msgctxt":"npcnames","msgid":"Sean","msgstr":"Sean"}
+{"msgctxt":"npcnames","msgid":"Sebastian","msgstr":"Sebastian"}
+{"msgctxt":"npcnames","msgid":"Selby","msgstr":"Selby"}
+{"msgctxt":"npcnames","msgid":"Selena","msgstr":"Selena"}
+{"msgctxt":"npcnames","msgid":"Sergio","msgstr":"Sergio"}
+{"msgctxt":"npcnames","msgid":"Seth","msgstr":"Seth"}
+{"msgctxt":"npcnames","msgid":"Seymour","msgstr":"Seymour"}
+{"msgctxt":"npcnames","msgid":"Shanon","msgstr":"Shanon"}
+{"msgctxt":"npcnames","msgid":"Sharon","msgstr":"Sharon"}
+{"msgctxt":"npcnames","msgid":"Sharry","msgstr":"Sharry"}
+{"msgctxt":"npcnames","msgid":"Shawna","msgstr":"Shawna"}
+{"msgctxt":"npcnames","msgid":"Sheila","msgstr":"Sheila"}
+{"msgctxt":"npcnames","msgid":"Sheldon","msgstr":"Sheldon"}
+{"msgctxt":"npcnames","msgid":"Shelley","msgstr":"Shelley"}
+{"msgctxt":"npcnames","msgid":"Shelly","msgstr":"Shelly"}
+{"msgctxt":"npcnames","msgid":"Shene","msgstr":"Shene"}
+{"msgctxt":"npcnames","msgid":"Sherdon","msgstr":"Sherdon"}
+{"msgctxt":"npcnames","msgid":"Sheri","msgstr":"Sheri"}
+{"msgctxt":"npcnames","msgid":"Sherman ","msgstr":"Sherman "}
+{"msgctxt":"npcnames","msgid":"Sherry","msgstr":"Sherry"}
+{"msgctxt":"npcnames","msgid":"Shiela","msgstr":"Shiela"}
+{"msgctxt":"npcnames","msgid":"Shimon","msgstr":"Shimon"}
+{"msgctxt":"npcnames","msgid":"Sidney","msgstr":"Sidney"}
+{"msgctxt":"npcnames","msgid":"Siealy","msgstr":"Siealy"}
+{"msgctxt":"npcnames","msgid":"Sieemi","msgstr":"Sieemi"}
+{"msgctxt":"npcnames","msgid":"Sija","msgstr":"Sija"}
+{"msgctxt":"npcnames","msgid":"Simon","msgstr":"Simon"}
+{"msgctxt":"npcnames","msgid":"Simona","msgstr":"Simona"}
+{"msgctxt":"npcnames","msgid":"Slade","msgstr":"Slade"}
+{"msgctxt":"npcnames","msgid":"Sonny","msgstr":"Sonny"}
+{"msgctxt":"npcnames","msgid":"Sophia","msgstr":"Sophia"}
+{"msgctxt":"npcnames","msgid":"Spencer","msgstr":"Spencer"}
+{"msgctxt":"npcnames","msgid":"Stacey","msgstr":"Stacey"}
+{"msgctxt":"npcnames","msgid":"Stan","msgstr":"Stan"}
+{"msgctxt":"npcnames","msgid":"Stanley","msgstr":"Stanley"}
+{"msgctxt":"npcnames","msgid":"Stephanie","msgstr":"Stephanie"}
+{"msgctxt":"npcnames","msgid":"Stephen","msgstr":"Stephen"}
+{"msgctxt":"npcnames","msgid":"Steve","msgstr":"Steve"}
+{"msgctxt":"npcnames","msgid":"Steven","msgstr":"Steven"}
+{"msgctxt":"npcnames","msgid":"Stogan","msgstr":"Stogan"}
+{"msgctxt":"npcnames","msgid":"Stoken","msgstr":"Stoken"}
+{"msgctxt":"npcnames","msgid":"Stuart","msgstr":"Stuart"}
+{"msgctxt":"npcnames","msgid":"Suanne","msgstr":"Suanne"}
+{"msgctxt":"npcnames","msgid":"Suju","msgstr":"Suju"}
+{"msgctxt":"npcnames","msgid":"Suleman","msgstr":"Suleman"}
+{"msgctxt":"npcnames","msgid":"Sumanu","msgstr":"Sumanu"}
+{"msgctxt":"npcnames","msgid":"Susan","msgstr":"Susan"}
+{"msgctxt":"npcnames","msgid":"Susanne","msgstr":"Susanne"}
+{"msgctxt":"npcnames","msgid":"Suzie","msgstr":"Suzie"}
+{"msgctxt":"npcnames","msgid":"Sven","msgstr":"Sven"}
+{"msgctxt":"npcnames","msgid":"Svetlana","msgstr":"Svetlana"}
+{"msgctxt":"npcnames","msgid":"Syfe","msgstr":"Syfe"}
+{"msgctxt":"npcnames","msgid":"Syke","msgstr":"Syke"}
+{"msgctxt":"npcnames","msgid":"Sylvester ","msgstr":"Sylvester "}
+{"msgctxt":"npcnames","msgid":"Tabitha","msgstr":"Tabitha"}
+{"msgctxt":"npcnames","msgid":"Tad","msgstr":"Tad"}
+{"msgctxt":"npcnames","msgid":"Tadal","msgstr":"Tadal"}
+{"msgctxt":"npcnames","msgid":"Tajos","msgstr":"Tajos"}
+{"msgctxt":"npcnames","msgid":"Taka","msgstr":"Taka"}
+{"msgctxt":"npcnames","msgid":"Tamara","msgstr":"Tamara"}
+{"msgctxt":"npcnames","msgid":"Tammie","msgstr":"Tammie"}
+{"msgctxt":"npcnames","msgid":"Tanat","msgstr":"Tanat"}
+{"msgctxt":"npcnames","msgid":"Tanisha","msgstr":"Tanisha"}
+{"msgctxt":"npcnames","msgid":"Tanya","msgstr":"Tanya"}
+{"msgctxt":"npcnames","msgid":"Tara","msgstr":"Tara"}
+{"msgctxt":"npcnames","msgid":"Tayfra","msgstr":"Tayfra"}
+{"msgctxt":"npcnames","msgid":"Tayrod","msgstr":"Tayrod"}
+{"msgctxt":"npcnames","msgid":"Tempest","msgstr":"Sturm"}
+{"msgctxt":"npcnames","msgid":"Teresa","msgstr":"Teresa"}
+{"msgctxt":"npcnames","msgid":"Terrance","msgstr":"Terrance"}
+{"msgctxt":"npcnames","msgid":"Terri","msgstr":"Terri"}
+{"msgctxt":"npcnames","msgid":"Terry","msgstr":"Terry"}
+{"msgctxt":"npcnames","msgid":"Thaaly","msgstr":"Thaaly"}
+{"msgctxt":"npcnames","msgid":"Thaddeus","msgstr":"Thaddeus"}
+{"msgctxt":"npcnames","msgid":"Thade","msgstr":"Thade"}
+{"msgctxt":"npcnames","msgid":"Thane","msgstr":"Thane"}
+{"msgctxt":"npcnames","msgid":"Theodore","msgstr":"Theodore"}
+{"msgctxt":"npcnames","msgid":"Theresa","msgstr":"Theresa"}
+{"msgctxt":"npcnames","msgid":"Thomas","msgstr":"Thomas"}
+{"msgctxt":"npcnames","msgid":"Thrax","msgstr":"Thrax"}
+{"msgctxt":"npcnames","msgid":"Tiffani","msgstr":"Tiffani"}
+{"msgctxt":"npcnames","msgid":"Tim","msgstr":"Tim"}
+{"msgctxt":"npcnames","msgid":"Timothy","msgstr":"Timothy"}
+{"msgctxt":"npcnames","msgid":"Tina","msgstr":"Tina"}
+{"msgctxt":"npcnames","msgid":"Tivian","msgstr":"Tivian"}
+{"msgctxt":"npcnames","msgid":"Tobias","msgstr":"Tobias"}
+{"msgctxt":"npcnames","msgid":"Todd","msgstr":"Todd"}
+{"msgctxt":"npcnames","msgid":"Tom","msgstr":"Tom"}
+{"msgctxt":"npcnames","msgid":"Tony","msgstr":"Tony"}
+{"msgctxt":"npcnames","msgid":"Topaz","msgstr":"Topaz"}
+{"msgctxt":"npcnames","msgid":"Tracie","msgstr":"Tracie"}
+{"msgctxt":"npcnames","msgid":"Tran","msgstr":"Tran"}
+{"msgctxt":"npcnames","msgid":"Travis","msgstr":"Travis"}
+{"msgctxt":"npcnames","msgid":"Trent","msgstr":"Trent"}
+{"msgctxt":"npcnames","msgid":"Trenton","msgstr":"Trenton"}
+{"msgctxt":"npcnames","msgid":"Trevor","msgstr":"Trevor"}
+{"msgctxt":"npcnames","msgid":"Tricia","msgstr":"Tricia"}
+{"msgctxt":"npcnames","msgid":"Triian","msgstr":"Triian"}
+{"msgctxt":"npcnames","msgid":"Trimark","msgstr":"Trimark"}
+{"msgctxt":"npcnames","msgid":"Trina","msgstr":"Trina"}
+{"msgctxt":"npcnames","msgid":"Trip","msgstr":"Trip"}
+{"msgctxt":"npcnames","msgid":"Tyler","msgstr":"Tyler"}
+{"msgctxt":"npcnames","msgid":"Tyson","msgstr":"Tyson"}
+{"msgctxt":"npcnames","msgid":"Ulminia","msgstr":"Ulminia"}
+{"msgctxt":"npcnames","msgid":"Ultima","msgstr":"Ultima"}
+{"msgctxt":"npcnames","msgid":"Uname","msgstr":"Uname"}
+{"msgctxt":"npcnames","msgid":"Ursula","msgstr":"Ursula"}
+{"msgctxt":"npcnames","msgid":"Vadim","msgstr":"Vadim"}
+{"msgctxt":"npcnames","msgid":"Val","msgstr":"Val"}
+{"msgctxt":"npcnames","msgid":"Valentia","msgstr":"Valentia"}
+{"msgctxt":"npcnames","msgid":"Valerie","msgstr":"Valerie"}
+{"msgctxt":"npcnames","msgid":"Vance","msgstr":"Vance"}
+{"msgctxt":"npcnames","msgid":"Vanessa","msgstr":"Vanessa"}
+{"msgctxt":"npcnames","msgid":"Vaune","msgstr":"Vaune"}
+{"msgctxt":"npcnames","msgid":"Vera","msgstr":"Vera"}
+{"msgctxt":"npcnames","msgid":"Verne","msgstr":"Verne"}
+{"msgctxt":"npcnames","msgid":"Vernon","msgstr":"Vernon"}
+{"msgctxt":"npcnames","msgid":"Veron","msgstr":"Veron"}
+{"msgctxt":"npcnames","msgid":"Veronica","msgstr":"Veronica"}
+{"msgctxt":"npcnames","msgid":"Viaas","msgstr":"Viaas"}
+{"msgctxt":"npcnames","msgid":"Viain","msgstr":"Viain"}
+{"msgctxt":"npcnames","msgid":"Viarene","msgstr":"Viarene"}
+{"msgctxt":"npcnames","msgid":"Vicki","msgstr":"Vicki"}
+{"msgctxt":"npcnames","msgid":"Victor","msgstr":"Victor"}
+{"msgctxt":"npcnames","msgid":"Victoria","msgstr":"Victoria"}
+{"msgctxt":"npcnames","msgid":"Viktor","msgstr":"Viktor"}
+{"msgctxt":"npcnames","msgid":"Vincenzo","msgstr":"Vincenzo"}
+{"msgctxt":"npcnames","msgid":"Violet","msgstr":"Violet"}
+{"msgctxt":"npcnames","msgid":"Virgil","msgstr":"Virgil"}
+{"msgctxt":"npcnames","msgid":"Virginia","msgstr":"Virginia"}
+{"msgctxt":"npcnames","msgid":"Vivian","msgstr":"Vivian"}
+{"msgctxt":"npcnames","msgid":"Vladimir","msgstr":"Vladimir"}
+{"msgctxt":"npcnames","msgid":"Volg","msgstr":"Volg"}
+{"msgctxt":"npcnames","msgid":"Wade","msgstr":"Wade"}
+{"msgctxt":"npcnames","msgid":"Waldo","msgstr":"Waldo"}
+{"msgctxt":"npcnames","msgid":"Waler","msgstr":"Waler"}
+{"msgctxt":"npcnames","msgid":"Wallace","msgstr":"Wallace"}
+{"msgctxt":"npcnames","msgid":"Walter","msgstr":"Walter"}
+{"msgctxt":"npcnames","msgid":"Waluke","msgstr":"Waluke"}
+{"msgctxt":"npcnames","msgid":"Wanda","msgstr":"Wanda"}
+{"msgctxt":"npcnames","msgid":"Wanetta","msgstr":"Wanetta"}
+{"msgctxt":"npcnames","msgid":"Wanic","msgstr":"Wanic"}
+{"msgctxt":"npcnames","msgid":"Wanye","msgstr":"Wanye"}
+{"msgctxt":"npcnames","msgid":"Warren","msgstr":"Warren"}
+{"msgctxt":"npcnames","msgid":"Wayne","msgstr":"Wayne"}
+{"msgctxt":"npcnames","msgid":"Webb","msgstr":"Webb"}
+{"msgctxt":"npcnames","msgid":"Wela","msgstr":"Wela"}
+{"msgctxt":"npcnames","msgid":"Wendell","msgstr":"Wendell"}
+{"msgctxt":"npcnames","msgid":"Wendy","msgstr":"Wendy"}
+{"msgctxt":"npcnames","msgid":"Wesley","msgstr":"Wesley"}
+{"msgctxt":"npcnames","msgid":"Weslia","msgstr":"Weslia"}
+{"msgctxt":"npcnames","msgid":"Wilam","msgstr":"Wilam"}
+{"msgctxt":"npcnames","msgid":"Wilbert","msgstr":"Wilbert"}
+{"msgctxt":"npcnames","msgid":"Wilfred ","msgstr":"Wilfred "}
+{"msgctxt":"npcnames","msgid":"Wiliam","msgstr":"William"}
+{"msgctxt":"npcnames","msgid":"Will","msgstr":"Will"}
+{"msgctxt":"npcnames","msgid":"Willard","msgstr":"Willard"}
+{"msgctxt":"npcnames","msgid":"William","msgstr":"William"}
+{"msgctxt":"npcnames","msgid":"Wilma","msgstr":"Wilma"}
+{"msgctxt":"npcnames","msgid":"Wilson","msgstr":"Wilson"}
+{"msgctxt":"npcnames","msgid":"Winona","msgstr":"Winona"}
+{"msgctxt":"npcnames","msgid":"Winston","msgstr":"Winston"}
+{"msgctxt":"npcnames","msgid":"Woodrow","msgstr":"Woodrow"}
+{"msgctxt":"npcnames","msgid":"Wysandra","msgstr":"Wysandra"}
+{"msgctxt":"npcnames","msgid":"Xafra","msgstr":"Xafra"}
+{"msgctxt":"npcnames","msgid":"Xasi","msgstr":"Xasi"}
+{"msgctxt":"npcnames","msgid":"Xuan ","msgstr":"Xuan "}
+{"msgctxt":"npcnames","msgid":"Xylia","msgstr":"Xylia"}
+{"msgctxt":"npcnames","msgid":"Yancy","msgstr":"Yancy"}
+{"msgctxt":"npcnames","msgid":"Yessica","msgstr":"Yessica"}
+{"msgctxt":"npcnames","msgid":"Yolanda","msgstr":"Yolanda"}
+{"msgctxt":"npcnames","msgid":"Yuri","msgstr":"Yuri"}
+{"msgctxt":"npcnames","msgid":"Yvedsey","msgstr":"Yvedsey"}
+{"msgctxt":"npcnames","msgid":"Yveral","msgstr":"Yveral"}
+{"msgctxt":"npcnames","msgid":"Yves","msgstr":"Yves"}
+{"msgctxt":"npcnames","msgid":"Yvoire","msgstr":"Yvoire"}
+{"msgctxt":"npcnames","msgid":"Yvomine","msgstr":"Yvomine"}
+{"msgctxt":"npcnames","msgid":"Yvonne","msgstr":"Yvonne"}
+{"msgctxt":"npcnames","msgid":"Yvovia","msgstr":"Yvovia"}
+{"msgctxt":"npcnames","msgid":"Zaccharia","msgstr":"Zaccharia"}
+{"msgctxt":"npcnames","msgid":"Zack","msgstr":"Zack"}
+{"msgctxt":"npcnames","msgid":"Zaje","msgstr":"Zaje"}
+{"msgctxt":"npcnames","msgid":"Zebulon","msgstr":"Zebulon"}
+{"msgctxt":"npcnames","msgid":"Zeke","msgstr":"Zeke"}
+{"msgctxt":"npcnames","msgid":"Zephyr","msgstr":"Zephyr"}
+{"msgctxt":"npcnames","msgid":"Zoele","msgstr":"Zoele"}
+{"msgctxt":"npcnames","msgid":"Zoltan","msgstr":"Zoltan"}
+{"msgctxt":"npcnames","msgid":"Zorex","msgstr":"Zorex"}
+{"msgctxt":"npcnames","msgid":"Zyggie","msgstr":"Zyggie"}
 {"msgctxt":"npcprof","msgid":"Acolyte","msgstr":"Akolyth"}
 {"msgctxt":"npcprof","msgid":"Alchemist","msgstr":"Alchimist"}
 {"msgctxt":"npcprof","msgid":"Apothecary","msgstr":"Apotheker"}
@@ -2003,6 +4567,173 @@
 {"msgctxt":"npcprof","msgid":"Weaver","msgstr":"Weber"}
 {"msgctxt":"npcprof","msgid":"Wererat Smuggler","msgstr":"Werratten-Schmuggler"}
 {"msgctxt":"npcprof","msgid":"Wind Master","msgstr":"Windmeister"}
+{"msgctxt":"npcprof","msgid":"Bless Party","msgstr":"Gruppe segnen"}
+{"msgctxt":"npcprof","msgid":"Cross Water","msgstr":"Wasserwandeln"}
+{"msgctxt":"npcprof","msgid":"Fanatic","msgstr":"Fanatiker"}
+{"msgctxt":"npcprof","msgid":"Gate to Town","msgstr":"Stadtportal"}
+{"msgctxt":"npcprof","msgid":"Heal Party","msgstr":"Gruppe heilen"}
+{"msgctxt":"npcprof","msgid":"Hour of Power","msgstr":"Stunde der Macht"}
+{"msgctxt":"npcprof","msgid":"Official","msgstr":"Offizieller"}
+{"msgctxt":"npcprof","msgid":"Play Tune","msgstr":"Melodie spielen"}
+{"msgctxt":"npcprof","msgid":"Prepare Feast","msgstr":"Mahl zubereiten"}
+{"msgctxt":"npcprof","msgid":"Prepare Meal","msgstr":"Nahrung zubereiten"}
+{"msgctxt":"npcprof","msgid":"Wind Walk","msgstr":"Fliegen"}
+{"msgctxt":"placemon","msgid":"Adam McCarthy","msgstr":"Adam McCarthy"}
+{"msgctxt":"placemon","msgid":"Admiral Clausewitz","msgstr":"Admiral Clausewitz"}
+{"msgctxt":"placemon","msgid":"Admiral Nelson","msgstr":"Admiral Nelson"}
+{"msgctxt":"placemon","msgid":"Agar","msgstr":"Agar"}
+{"msgctxt":"placemon","msgid":"Alex Sherman","msgstr":"Alex Sherman"}
+{"msgctxt":"placemon","msgid":"Andrew Grumm","msgstr":"Andrew Grumm"}
+{"msgctxt":"placemon","msgid":"Andy Grumm","msgstr":"Andy Grumm"}
+{"msgctxt":"placemon","msgid":"Anna Wooll","msgstr":"Anna Wooll"}
+{"msgctxt":"placemon","msgid":"Anthony Rizo","msgstr":"Anthony Rizo"}
+{"msgctxt":"placemon","msgid":"April Lee","msgstr":"April Lee"}
+{"msgctxt":"placemon","msgid":"Becky Christel","msgstr":"Becky Christel"}
+{"msgctxt":"placemon","msgid":"Benjamin Bent","msgstr":"Benjamin Bent"}
+{"msgctxt":"placemon","msgid":"Bill Nesemeier","msgstr":"Bill Nesemeier"}
+{"msgctxt":"placemon","msgid":"Bill Stoneham","msgstr":"Bill Stoneham"}
+{"msgctxt":"placemon","msgid":"Blackwell Cooper","msgstr":"Blackwell Cooper"}
+{"msgctxt":"placemon","msgid":"Bob Young","msgstr":"Bob Young"}
+{"msgctxt":"placemon","msgid":"Bonnie Long-Hemsath","msgstr":"Bonnie Long-Hemsath"}
+{"msgctxt":"placemon","msgid":"Bonnie Long-Hemssath","msgstr":"Bonnie Long-Hemssath"}
+{"msgctxt":"placemon","msgid":"Brian DeMetz","msgstr":"Brian DeMetz"}
+{"msgctxt":"placemon","msgid":"Brian Kemper","msgstr":"Brian Kemper"}
+{"msgctxt":"placemon","msgid":"Bruce Miyake","msgstr":"Bruce Miyake"}
+{"msgctxt":"placemon","msgid":"Bryan Farina","msgstr":"Bryan Farina"}
+{"msgctxt":"placemon","msgid":"Captain Zyrain","msgstr":"Captain Zyrain"}
+{"msgctxt":"placemon","msgid":"Carl Pinder","msgstr":"Carl Pinder"}
+{"msgctxt":"placemon","msgid":"Charles Zilm","msgstr":"Charles Zilm"}
+{"msgctxt":"placemon","msgid":"Chlala","msgstr":"Chlala"}
+{"msgctxt":"placemon","msgid":"Chris Bates","msgstr":"Chris Bates"}
+{"msgctxt":"placemon","msgid":"Chris Miller","msgstr":"Chris Miller"}
+{"msgctxt":"placemon","msgid":"Christian Vanover","msgstr":"Christian Vanover"}
+{"msgctxt":"placemon","msgid":"Chuck Russom","msgstr":"Chuck Russom"}
+{"msgctxt":"placemon","msgid":"Cleric of Baa","msgstr":"Kleriker von Baa"}
+{"msgctxt":"placemon","msgid":"Cool Jerk","msgstr":"Lässiger Idiot"}
+{"msgctxt":"placemon","msgid":"Dave Botan","msgstr":"Dave Botan"}
+{"msgctxt":"placemon","msgid":"DaveO","msgstr":"DaveO"}
+{"msgctxt":"placemon","msgid":"David Casso","msgstr":"David Casso"}
+{"msgctxt":"placemon","msgid":"David Mullich","msgstr":"David Mullich"}
+{"msgctxt":"placemon","msgid":"David Richey","msgstr":"David Richey"}
+{"msgctxt":"placemon","msgid":"David Vela","msgstr":"David Vela"}
+{"msgctxt":"placemon","msgid":"Dean Gibson","msgstr":"Dean Gibson"}
+{"msgctxt":"placemon","msgid":"Devil of Baa","msgstr":"Teufel von Baa"}
+{"msgctxt":"placemon","msgid":"Devin Chapman","msgstr":"Devin Chapman"}
+{"msgctxt":"placemon","msgid":"Dragon Hunter Pet","msgstr":"Haustier der Drachenjäger"}
+{"msgctxt":"placemon","msgid":"Edward Hudson","msgstr":"Edward Hudson"}
+{"msgctxt":"placemon","msgid":"Elara","msgstr":"Elara"}
+{"msgctxt":"placemon","msgid":"Eric Williamson","msgstr":"Eric Williamson"}
+{"msgctxt":"placemon","msgid":"Ernie Gallardo","msgstr":"Ernie Gallardo"}
+{"msgctxt":"placemon","msgid":"Ethric","msgstr":"Ethric"}
+{"msgctxt":"placemon","msgid":"Fallen Defender","msgstr":"Gefallener Verteidiger"}
+{"msgctxt":"placemon","msgid":"Fernando Castillo","msgstr":"Fernando Castillo"}
+{"msgctxt":"placemon","msgid":"George Almond","msgstr":"George Almond"}
+{"msgctxt":"placemon","msgid":"George Ruof","msgstr":"George Ruof"}
+{"msgctxt":"placemon","msgid":"Greg Fulton","msgstr":"Greg Fulton"}
+{"msgctxt":"placemon","msgid":"Grognard","msgstr":"Grognard"}
+{"msgctxt":"placemon","msgid":"Guard","msgstr":"Wache"}
+{"msgctxt":"placemon","msgid":"Gus Smedstad ","msgstr":"Gus Smedstad "}
+{"msgctxt":"placemon","msgid":"Guthwulf","msgstr":"Guthwulf"}
+{"msgctxt":"placemon","msgid":"Hairbaugh","msgstr":"Hairbaugh"}
+{"msgctxt":"placemon","msgid":"Helena Wickberg","msgstr":"Helena Wickberg"}
+{"msgctxt":"placemon","msgid":"High Priest of Baa","msgstr":"Hohepriester von Baa"}
+{"msgctxt":"placemon","msgid":"HodgePodge","msgstr":"HodgePodge"}
+{"msgctxt":"placemon","msgid":"Ian Bullard","msgstr":"Ian Bullard"}
+{"msgctxt":"placemon","msgid":"Ilsingore","msgstr":"Ilsingore"}
+{"msgctxt":"placemon","msgid":"Jack Russell","msgstr":"Jack Russell"}
+{"msgctxt":"placemon","msgid":"James Dickinson","msgstr":"James Dickinson"}
+{"msgctxt":"placemon","msgid":"Jeff Bigman","msgstr":"Jeff Bigman"}
+{"msgctxt":"placemon","msgid":"Jeff Blattner","msgstr":"Jeff Blattner"}
+{"msgctxt":"placemon","msgid":"Jeff Leggett","msgstr":"Jeff Leggett"}
+{"msgctxt":"placemon","msgid":"Jennifer Bullard","msgstr":"Jennifer Bullard"}
+{"msgctxt":"placemon","msgid":"Jeric Whistlebone","msgstr":"Jeric Whistlebone"}
+{"msgctxt":"placemon","msgid":"Joe McGuffin","msgstr":"Joe McGuffin"}
+{"msgctxt":"placemon","msgid":"Joel Kelly","msgstr":"Joel Kelly"}
+{"msgctxt":"placemon","msgid":"John Bolton","msgstr":"John Bolton"}
+{"msgctxt":"placemon","msgid":"John Gibson","msgstr":"John Gibson"}
+{"msgctxt":"placemon","msgid":"John Krause","msgstr":"John Krause"}
+{"msgctxt":"placemon","msgid":"John Machin (Mac)","msgstr":"John Machin (Mac)"}
+{"msgctxt":"placemon","msgid":"John Slowsky","msgstr":"John Slowsky"}
+{"msgctxt":"placemon","msgid":"Jon Van Caneghem","msgstr":"Jon Van Caneghem"}
+{"msgctxt":"placemon","msgid":"Joseph Buron","msgstr":"Joseph Buron"}
+{"msgctxt":"placemon","msgid":"Julia Ulano","msgstr":"Julia Ulano"}
+{"msgctxt":"placemon","msgid":"Just_A_Brain","msgstr":"Just_A_Brain"}
+{"msgctxt":"placemon","msgid":"Karl Drown","msgstr":"Karl Drown"}
+{"msgctxt":"placemon","msgid":"Karl Fischer","msgstr":"Karl Fischer"}
+{"msgctxt":"placemon","msgid":"Kate Vanover","msgstr":"Kate Vanover"}
+{"msgctxt":"placemon","msgid":"Keith Francart","msgstr":"Keith Francart"}
+{"msgctxt":"placemon","msgid":"Keith Talanay","msgstr":"Keith Talanay"}
+{"msgctxt":"placemon","msgid":"Ken Spencer","msgstr":"Ken Spencer"}
+{"msgctxt":"placemon","msgid":"Ken Thomson","msgstr":"Ken Thomson"}
+{"msgctxt":"placemon","msgid":"King Louise","msgstr":"King Louise"}
+{"msgctxt":"placemon","msgid":"Kurt McKeever","msgstr":"Kurt McKeever"}
+{"msgctxt":"placemon","msgid":"Lesser Genie","msgstr":"Niederer Dschinn"}
+{"msgctxt":"placemon","msgid":"Lich King","msgstr":"Lichkönig"}
+{"msgctxt":"placemon","msgid":"Lisa Whitman","msgstr":"Lisa Whitman"}
+{"msgctxt":"placemon","msgid":"Lizardman Lookout","msgstr":"Echsenmann-Posten"}
+{"msgctxt":"placemon","msgid":"Longfang Witherhide","msgstr":"Longfang Witherhide"}
+{"msgctxt":"placemon","msgid":"Lord Kilburn","msgstr":"Lord Kilburn"}
+{"msgctxt":"placemon","msgid":"Lou Henderson","msgstr":"Lou Henderson"}
+{"msgctxt":"placemon","msgid":"Lurch","msgstr":"Lurch"}
+{"msgctxt":"placemon","msgid":"Marcus Pregent","msgstr":"Marcus Pregent"}
+{"msgctxt":"placemon","msgid":"Mark Caldwell","msgstr":"Mark Caldwell"}
+{"msgctxt":"placemon","msgid":"Mark Miller","msgstr":"Mark Miller"}
+{"msgctxt":"placemon","msgid":"Mary Ellen Babson","msgstr":"Mary Ellen Babson"}
+{"msgctxt":"placemon","msgid":"Mega-Dragon","msgstr":"Mega-Drache"}
+{"msgctxt":"placemon","msgid":"Michael Wolf","msgstr":"Michael Wolf"}
+{"msgctxt":"placemon","msgid":"Morcarack","msgstr":"Morcarack"}
+{"msgctxt":"placemon","msgid":"NWC Employee","msgstr":"NWC-Mitarbeiter"}
+{"msgctxt":"placemon","msgid":"Nicco Wargon","msgstr":"Nicco Wargon"}
+{"msgctxt":"placemon","msgid":"Nowa Morisaku","msgstr":"Nowa Morisaku"}
+{"msgctxt":"placemon","msgid":"Old Loeb","msgstr":"Der alte Loeb"}
+{"msgctxt":"placemon","msgid":"Pack Master","msgstr":"Rudelführer"}
+{"msgctxt":"placemon","msgid":"Paul Rattner","msgstr":"Paul Rattner"}
+{"msgctxt":"placemon","msgid":"Pete Ryu","msgstr":"Pete Ryu"}
+{"msgctxt":"placemon","msgid":"Peter Ryu","msgstr":"Pete Ryu"}
+{"msgctxt":"placemon","msgid":"Phelan Sykes","msgstr":"Phelan Sykes"}
+{"msgctxt":"placemon","msgid":"Q","msgstr":"Q"}
+{"msgctxt":"placemon","msgid":"Queen Spider","msgstr":"Spinnenkönigin"}
+{"msgctxt":"placemon","msgid":"Randy Ruckel","msgstr":"Randy Ruckel"}
+{"msgctxt":"placemon","msgid":"Rebecca Christel","msgstr":"Rebecca Christel"}
+{"msgctxt":"placemon","msgid":"Ribannah","msgstr":"Ribannah"}
+{"msgctxt":"placemon","msgid":"Rick Sanchez","msgstr":"Rick Sanchez"}
+{"msgctxt":"placemon","msgid":"Riki Corredera","msgstr":"Riki Corredera"}
+{"msgctxt":"placemon","msgid":"Rob King","msgstr":"Rob King"}
+{"msgctxt":"placemon","msgid":"Robert the Wise","msgstr":"Robert der Weise"}
+{"msgctxt":"placemon","msgid":"Rogue Leader","msgstr":"Schurkenanführer"}
+{"msgctxt":"placemon","msgid":"Ryan Den","msgstr":"Ryan Den"}
+{"msgctxt":"placemon","msgid":"Scott McDaniel","msgstr":"Scott McDaniel"}
+{"msgctxt":"placemon","msgid":"Scott White","msgstr":"Scott White"}
+{"msgctxt":"placemon","msgid":"Sentinel of Varn","msgstr":"Varn-Wache"}
+{"msgctxt":"placemon","msgid":"Slicker Silvertongue","msgstr":"Slicker Silvertongue"}
+{"msgctxt":"placemon","msgid":"Snergle","msgstr":"Snergal"}
+{"msgctxt":"placemon","msgid":"Steve Baca","msgstr":"Steve Baca"}
+{"msgctxt":"placemon","msgid":"Steve Jaqvaar","msgstr":"Steve Jaqvaar"}
+{"msgctxt":"placemon","msgid":"Steve Jasper","msgstr":"Steve Jasper"}
+{"msgctxt":"placemon","msgid":"Steve Wasaff","msgstr":"Steve Wasaff"}
+{"msgctxt":"placemon","msgid":"Super Vampire","msgstr":"Herr der Vampire"}
+{"msgctxt":"placemon","msgid":"Super Vampire (fix)","msgstr":"Herr der Vampire"}
+{"msgctxt":"placemon","msgid":"TenErnieFord","msgstr":"TenErnieFord"}
+{"msgctxt":"placemon","msgid":"Tim Lang","msgstr":"Tim Lang"}
+{"msgctxt":"placemon","msgid":"Todd Smailes","msgstr":"Todd Smailes"}
+{"msgctxt":"placemon","msgid":"Tolberti","msgstr":"Tolberti"}
+{"msgctxt":"placemon","msgid":"Tom Ono","msgstr":"Tom Ono"}
+{"msgctxt":"placemon","msgid":"Tom Zeliff","msgstr":"Tom Zeliff"}
+{"msgctxt":"placemon","msgid":"Tony Evans","msgstr":"Tony Evans"}
+{"msgctxt":"placemon","msgid":"Tracy Iwata","msgstr":"Tracy Iwata"}
+{"msgctxt":"placemon","msgid":"Trip Hawkins","msgstr":"Trip Hawkins"}
+{"msgctxt":"placemon","msgid":"Unicorn King","msgstr":"Einhorn-König"}
+{"msgctxt":"placemon","msgid":"Walter Johnson","msgstr":"Walter Johnson"}
+{"msgctxt":"placemon","msgid":"Werewolf Leader","msgstr":"Werwolf-Anführer"}
+{"msgctxt":"placemon","msgid":"William Nesemeier","msgstr":"William Nesemeier"}
+{"msgctxt":"placemon","msgid":"William Setag","msgstr":"William Setag"}
+{"msgctxt":"placemon","msgid":"Wromthrax","msgstr":"Wromthrax"}
+{"msgctxt":"placemon","msgid":"Xenofex","msgstr":"Xenofex"}
+{"msgctxt":"placemon","msgid":"Yaardrake","msgstr":"Yaardrake"}
+{"msgctxt":"placemon","msgid":"Zog","msgstr":"Zog"}
+{"msgctxt":"placemon","msgid":"gamegurl","msgstr":"gamegurl"}
+{"msgctxt":"placemon","msgid":"guard","msgstr":"Wächter"}
+{"msgctxt":"placemon","msgid":"kyberkisu","msgstr":"Kyberkisu"}
 {"msgctxt":"reputation","msgid":"Angelic","msgstr":"Engelsgleich"}
 {"msgctxt":"reputation","msgid":"Average","msgstr":"Durchschnittlich"}
 {"msgctxt":"reputation","msgid":"Bad","msgstr":"Schlecht"}
@@ -2015,6 +4746,49 @@
 {"msgctxt":"reputation","msgid":"Respectable","msgstr":"Angesehen"}
 {"msgctxt":"reputation","msgid":"Saintly","msgstr":"Heilig"}
 {"msgctxt":"reputation","msgid":"Vile","msgstr":"Niederträchtig"}
+{"msgctxt":"roster","msgid":"Adric Stellare","msgstr":"Adric Stellare"}
+{"msgctxt":"roster","msgid":"Arius","msgstr":"Arius"}
+{"msgctxt":"roster","msgid":"Artorius Veritas","msgstr":"Artorius Veritas"}
+{"msgctxt":"roster","msgid":"Blazen Stormlance","msgstr":"Blazen Stormlance"}
+{"msgctxt":"roster","msgid":"Brimstone","msgstr":"Brimstone"}
+{"msgctxt":"roster","msgid":"Cauri Blackthorne","msgstr":"Cauri Blackthorne"}
+{"msgctxt":"roster","msgid":"Dervish Chevron","msgstr":"Dervish Chevron"}
+{"msgctxt":"roster","msgid":"Devlin Arcanus","msgstr":"Devlin Arcanus"}
+{"msgctxt":"roster","msgid":"Duroth the Eternal","msgstr":"Duroth der Ewige"}
+{"msgctxt":"roster","msgid":"Dyson Leyland","msgstr":"Dyson Leyland"}
+{"msgctxt":"roster","msgid":"Elsbeth Lamentia","msgstr":"Elsbeth Lamentia"}
+{"msgctxt":"roster","msgid":"Flamdring","msgstr":"Flamdring"}
+{"msgctxt":"roster","msgid":"Fredrick Talimere","msgstr":"Fredrick Talimere"}
+{"msgctxt":"roster","msgid":"Gethric Mercutura","msgstr":"Gethric Mercutura"}
+{"msgctxt":"roster","msgid":"Hevatia Deverbero","msgstr":"Hevatia Deverbero"}
+{"msgctxt":"roster","msgid":"Infaustus ","msgstr":"Infaustus "}
+{"msgctxt":"roster","msgid":"Ithilgore","msgstr":"Ithilgore"}
+{"msgctxt":"roster","msgid":"Jasp Thelbourne","msgstr":"Jasp Thelbourne"}
+{"msgctxt":"roster","msgid":"Karanya Memoria","msgstr":"Karanya Memoria"}
+{"msgctxt":"roster","msgid":"Leane Stormlance","msgstr":"Leane Stormlance"}
+{"msgctxt":"roster","msgid":"Maylander ","msgstr":"Maylander "}
+{"msgctxt":"roster","msgid":"Nathaniel Roberts","msgstr":"Nathaniel Roberts"}
+{"msgctxt":"roster","msgid":"Nelix Uriel","msgstr":"Nelix Uriel"}
+{"msgctxt":"roster","msgid":"Overdune Snapfinger","msgstr":"Overdune Snapfinger"}
+{"msgctxt":"roster","msgid":"Rionel","msgstr":"Rionel"}
+{"msgctxt":"roster","msgid":"Rohani Oscleton","msgstr":"Rohani Oscleton"}
+{"msgctxt":"roster","msgid":"Sethrc Thistlebone","msgstr":"Sethrc Thistlebone"}
+{"msgctxt":"roster","msgid":"Simon Templar","msgstr":"Simon Tamplers"}
+{"msgctxt":"roster","msgid":"Tempus ","msgstr":"Tempus "}
+{"msgctxt":"roster","msgid":"Thanys","msgstr":"Thanys"}
+{"msgctxt":"roster","msgid":"Thorne Understone","msgstr":"Thorne Understone"}
+{"msgctxt":"roster","msgid":"Ulbrecht","msgstr":"Ulbrecht"}
+{"msgctxt":"roster","msgid":"Verish ","msgstr":"Verish "}
+{"msgctxt":"roster","msgid":"Vetrinus Taleshire","msgstr":"Vetrinus Taleshire"}
+{"msgctxt":"roster","msgid":"Volog Sandwind","msgstr":"Volog Sandwind"}
+{"msgctxt":"roster","msgid":"cleric","msgstr":"Kleriker"}
+{"msgctxt":"roster","msgid":"darkelf","msgstr":"Dunkelelf"}
+{"msgctxt":"roster","msgid":"dragon","msgstr":"Drache"}
+{"msgctxt":"roster","msgid":"knight","msgstr":"Ritter"}
+{"msgctxt":"roster","msgid":"minotaur","msgstr":"Minotaur"}
+{"msgctxt":"roster","msgid":"necromancer","msgstr":"Nekromant"}
+{"msgctxt":"roster","msgid":"troll","msgstr":"Troll"}
+{"msgctxt":"roster","msgid":"vampire","msgstr":"Vampir"}
 {"msgctxt":"skilldes","msgid":"Air","msgstr":"Luft"}
 {"msgctxt":"skilldes","msgid":"Air Magic","msgstr":"Luftmagie"}
 {"msgctxt":"skilldes","msgid":"Alchemy","msgstr":"Alchemie"}
@@ -2040,7 +4814,7 @@
 {"msgctxt":"skilldes","msgid":"Earth Magic","msgstr":"Erdmagie"}
 {"msgctxt":"skilldes","msgid":"Fire","msgstr":"Feuer"}
 {"msgctxt":"skilldes","msgid":"Fire Magic","msgstr":"Feuermagie"}
-{"msgctxt":"skilldes","msgid":"Identify","msgstr":"Identifizieren"}
+{"msgctxt":"global","msgid":"Identify","msgstr":"Identifizieren"}
 {"msgctxt":"skilldes","msgid":"Identify Item","msgstr":"Gegenstand identifizieren"}
 {"msgctxt":"skilldes","msgid":"Identify Monster","msgstr":"Monster identifizieren"}
 {"msgctxt":"skilldes","msgid":"Learning","msgstr":"Lernen"}
@@ -2312,7 +5086,6 @@
 {"msgctxt":"spells","msgid":"Ring of Fire","msgstr":"Feuerring"}
 {"msgctxt":"spells","msgid":"Rmv. Curse","msgstr":"Fluch brechen"}
 {"msgctxt":"spells","msgid":"Rock Blast","msgstr":"Felsexplosion"}
-{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"Opferung"}
 {"msgctxt":"spells","msgid":"Shared Life","msgstr":"Geteiltes Leben"}
 {"msgctxt":"spells","msgid":"Shield","msgstr":"Schild"}
 {"msgctxt":"spells","msgid":"Shrapmetal","msgstr":"Schrapnell"}
@@ -2356,6 +5129,7 @@
 {"msgctxt":"spells","msgid":"Water Walk","msgstr":"Wasserwandeln"}
 {"msgctxt":"spells","msgid":"Wing Buffet","msgstr":"Flügelschlag"}
 {"msgctxt":"spells","msgid":"Wizard Eye","msgstr":"Auge des Zauberers"}
+{"msgctxt":"spells","msgid":"Protection from Elec","msgstr":"Schutz vor Elektrizität"}
 {"msgctxt":"spells vampire","msgid":"Charm","msgstr":"Bezaubern"}
 {"msgctxt":"stats","msgid":"AC","msgstr":"RK"}
 {"msgctxt":"stats","msgid":"Accuracy","msgstr":"Genauigkeit"}
@@ -2401,6 +5175,23 @@
 {"msgctxt":"stats","msgid":"Speed","msgstr":"Schnelligkeit"}
 {"msgctxt":"stats","msgid":"Spell Points","msgstr":"Zauberpunkte"}
 {"msgctxt":"stats","msgid":"Water","msgstr":"Wasser"}
+{"msgctxt":"stats","msgid":"Air Resistance","msgstr":"Luft-Resistenz"}
+{"msgctxt":"stats","msgid":"Alchemy skill","msgstr":"Alchimie-Fertigkeit"}
+{"msgctxt":"stats","msgid":"Armsmaster skill","msgstr":"Fechtkunst-Fertigkeit"}
+{"msgctxt":"stats","msgid":"Body Resistance","msgstr":"Körper-Resistenz"}
+{"msgctxt":"stats","msgid":"Cold Resistance","msgstr":"Kälteresistenz"}
+{"msgctxt":"stats","msgid":"Disarm skill","msgstr":"Entschärfen-Fertigkeit"}
+{"msgctxt":"stats","msgid":"Dodge skill","msgstr":"Ausweichen-Fertigkeit"}
+{"msgctxt":"stats","msgid":"Earth Resistance","msgstr":"Erd-Resistenz"}
+{"msgctxt":"stats","msgid":"Elec Resistance","msgstr":"Elektroresistenz"}
+{"msgctxt":"stats","msgid":"Fire Resistance","msgstr":"Feuer-Resistenz"}
+{"msgctxt":"stats","msgid":"ID Item skill","msgstr":"Gegenstand-identifizieren-Fertigkeit"}
+{"msgctxt":"stats","msgid":"ID Monster skill","msgstr":"Monster-identifizieren-Fertigkeit"}
+{"msgctxt":"stats","msgid":"Mind Resistance","msgstr":"Geist-Resistenz"}
+{"msgctxt":"stats","msgid":"Poison Resistance","msgstr":"Giftresistenz"}
+{"msgctxt":"stats","msgid":"Stealing skill","msgstr":"Stehlen-Fertigkeit"}
+{"msgctxt":"stats","msgid":"Unarmed skill","msgstr":"Waffenloser Kampf-Fertigkeit"}
+{"msgctxt":"stats","msgid":"Water Resistance","msgstr":"Wasser-Resistenz"}
 {"msgctxt":"stditems","msgid":"of Air Resistance","msgstr":"der Luftresistenz"}
 {"msgctxt":"stditems","msgid":"of Alchemy","msgstr":"der Alchemie"}
 {"msgctxt":"stditems","msgid":"of Arms","msgstr":"der Waffenkunst"}

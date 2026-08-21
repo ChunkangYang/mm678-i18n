@@ -162,6 +162,8 @@
 {"msgctxt":"class","msgid":"Warlock","msgstr":"Чернокнижник"}
 {"msgctxt":"class","msgid":"Warrior Mage","msgstr":"Воин-маг"}
 {"msgctxt":"class","msgid":"Wizard","msgstr":"Волшебник"}
+{"msgctxt":"class","msgid":"Archmage","msgstr":"Архимаг"}
+{"msgctxt":"class","msgid":"Greater Druid","msgstr":"Великий друид"}
 {"msgctxt":"condition","msgid":"Afraid","msgstr":"Напуган(а)"}
 {"msgctxt":"condition","msgid":"Asleep","msgstr":"Спит"}
 {"msgctxt":"condition","msgid":"Cursed","msgstr":"Проклятие"}
@@ -980,7 +982,7 @@
 {"msgctxt":"items","msgid":"Rusty Mail Vest","msgstr":"Ржавый кольчужный жилет"}
 {"msgctxt":"items","msgid":"Sacred Chalice","msgstr":"Священная чаша"}
 {"msgctxt":"items","msgid":"Sacred Spear","msgstr":"Священное копьё"}
-{"msgctxt":"items","msgid":"Sacrifice","msgstr":"Жертвоприношение"}
+{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"Жертвоприношение"}
 {"msgctxt":"items","msgid":"Sapphire","msgstr":"Сапфир"}
 {"msgctxt":"items","msgid":"Sapphire Ring","msgstr":"Кольцо с сапфиром"}
 {"msgctxt":"items","msgid":"Sarcophagus of Korbu","msgstr":"Саркофаг Корбу"}
@@ -1242,6 +1244,293 @@
 {"msgctxt":"items","msgid":"Zircon","msgstr":"Циркон"}
 {"msgctxt":"items","msgid":"Zokarr IV's Skull","msgstr":"Череп Зокарра IV"}
 {"msgctxt":"items","msgid":"Zokarr's Axe","msgstr":"Топор Зокарра"}
+{"msgctxt":"items","msgid":"Acid Burst","msgstr":"Струя Кислоты"}
+{"msgctxt":"items","msgid":"Advertisment","msgstr":"Объявление"}
+{"msgctxt":"items","msgid":"Amulet","msgstr":"Амулет"}
+{"msgctxt":"items","msgid":"Ancient Part","msgstr":"Древность"}
+{"msgctxt":"items","msgid":"Ancient Weapon","msgstr":"Древнее оружие"}
+{"msgctxt":"items","msgid":"Armageddon","msgstr":"Армагеддон"}
+{"msgctxt":"items","msgid":"Artifact","msgstr":"Артефакт"}
+{"msgctxt":"items","msgid":"Artifact Axe","msgstr":"Артефактный топор"}
+{"msgctxt":"items","msgid":"Artifact Belt","msgstr":"Артефактный пояс"}
+{"msgctxt":"items","msgid":"Artifact Boots","msgstr":"Артефактные сапоги"}
+{"msgctxt":"items","msgid":"Artifact Bow","msgstr":"Артефактный лук"}
+{"msgctxt":"items","msgid":"Artifact Broadsword","msgstr":"Артефактный палаш"}
+{"msgctxt":"items","msgid":"Artifact Chain Mail","msgstr":"Артефактная кольчуга"}
+{"msgctxt":"items","msgid":"Artifact Chainmail","msgstr":"Артефактная кольчуга"}
+{"msgctxt":"items","msgid":"Artifact Cloak","msgstr":"Артефактный плащ"}
+{"msgctxt":"items","msgid":"Artifact Club","msgstr":"Артефактная дубинка"}
+{"msgctxt":"items","msgid":"Artifact Crown","msgstr":"Артефактная корона"}
+{"msgctxt":"items","msgid":"Artifact Cutlass","msgstr":"Артефактная абордажная сабля"}
+{"msgctxt":"items","msgid":"Artifact Gauntlets","msgstr":"Артефактные латные рукавицы"}
+{"msgctxt":"items","msgid":"Artifact Halberd","msgstr":"Артефактная алебарда"}
+{"msgctxt":"items","msgid":"Artifact Helm","msgstr":"Артефактный шлем"}
+{"msgctxt":"items","msgid":"Artifact Large Shield","msgstr":"Артефактный большой щит"}
+{"msgctxt":"items","msgid":"Artifact Leather Armor","msgstr":"Артефактные кожаные доспехи"}
+{"msgctxt":"items","msgid":"Artifact Long Dagger","msgstr":"Артефактный длинный кинжал"}
+{"msgctxt":"items","msgid":"Artifact Longsword","msgstr":"Артефактный длинный меч"}
+{"msgctxt":"items","msgid":"Artifact Mace","msgstr":"Артефактная булава"}
+{"msgctxt":"items","msgid":"Artifact Plate Armor","msgstr":"Артефактные латы"}
+{"msgctxt":"items","msgid":"Artifact Ring","msgstr":"Артефактное кольцо"}
+{"msgctxt":"items","msgid":"Artifact Spear","msgstr":"Артефактное копьё"}
+{"msgctxt":"items","msgid":"Artifact Staff","msgstr":"Артефактный посох"}
+{"msgctxt":"items","msgid":"Artifact Two-Handed Axe","msgstr":"Артефактный двуручный топор"}
+{"msgctxt":"items","msgid":"Artifact Two-Handed Sword","msgstr":"Артефактный двуручный меч"}
+{"msgctxt":"items","msgid":"Axe","msgstr":"Топор"}
+{"msgctxt":"items","msgid":"Barbarian Axe","msgstr":"Варварский топор"}
+{"msgctxt":"items","msgid":"Barbarian Flamberge","msgstr":"Варварский фламберг"}
+{"msgctxt":"items","msgid":"Basic Steel Chain Mail","msgstr":"Простая стальная кольчуга"}
+{"msgctxt":"items","msgid":"Battle Hammer","msgstr":"Боевой молот"}
+{"msgctxt":"items","msgid":"Bell","msgstr":"Колокол"}
+{"msgctxt":"items","msgid":"Belt","msgstr":"Пояс"}
+{"msgctxt":"items","msgid":"Black Pearl","msgstr":"Черная жемчужина "}
+{"msgctxt":"items","msgid":"Black Potion","msgstr":"Черное зелье"}
+{"msgctxt":"items","msgid":"Blades","msgstr":"Лезвия"}
+{"msgctxt":"items","msgid":"Blue Potion","msgstr":"Синее зелье"}
+{"msgctxt":"items","msgid":"Book","msgstr":"Книга"}
+{"msgctxt":"items","msgid":"Book of Learning","msgstr":"Книга Заклинаний"}
+{"msgctxt":"items","msgid":"Boots","msgstr":"Обувь"}
+{"msgctxt":"items","msgid":"Bottle","msgstr":"Бутылка"}
+{"msgctxt":"items","msgid":"Bow","msgstr":"Лук"}
+{"msgctxt":"items","msgid":"Box","msgstr":"Ларец"}
+{"msgctxt":"items","msgid":"Brandy","msgstr":"Бренди"}
+{"msgctxt":"items","msgid":"Brazier","msgstr":"Светильник"}
+{"msgctxt":"items","msgid":"Cannonball","msgstr":"Ядро"}
+{"msgctxt":"items","msgid":"Case of Jars","msgstr":"Ларец с Сосудами Души"}
+{"msgctxt":"items","msgid":"Catalyst potion","msgstr":"Зелье-катализатор"}
+{"msgctxt":"items","msgid":"Certificate","msgstr":"Сертификат подлинности Топора"}
+{"msgctxt":"items","msgid":"Chainmail","msgstr":"Кольчуга"}
+{"msgctxt":"items","msgid":"Chalice","msgstr":"Потир"}
+{"msgctxt":"items","msgid":"Charm","msgstr":"Очарование"}
+{"msgctxt":"items","msgid":"Cheese","msgstr":"Сыр"}
+{"msgctxt":"items","msgid":"Chime","msgstr":"Колокольчик"}
+{"msgctxt":"items","msgid":"Circlet","msgstr":"Браслет"}
+{"msgctxt":"items","msgid":"Citizen Hat","msgstr":"Шапка горожанина"}
+{"msgctxt":"items","msgid":"Claymore","msgstr":"Клеймор"}
+{"msgctxt":"items","msgid":"Cloak","msgstr":"Плащ"}
+{"msgctxt":"items","msgid":"Conqueror Sword","msgstr":"Меч завоевателя"}
+{"msgctxt":"items","msgid":"Crate","msgstr":"Мусор"}
+{"msgctxt":"items","msgid":"Crude Buckler","msgstr":"Грубый баклер"}
+{"msgctxt":"items","msgid":"Crude Leather Belt","msgstr":"Грубый кожаный пояс"}
+{"msgctxt":"items","msgid":"Cruel Wand of Acid","msgstr":"Жестокий жезл кислоты"}
+{"msgctxt":"items","msgid":"Cruel Wand of Berzerking","msgstr":"Жестокий жезл берсерка"}
+{"msgctxt":"items","msgid":"Cruel Wand of Blades","msgstr":"Жестокий жезл Лезвий"}
+{"msgctxt":"items","msgid":"Cruel Wand of Fireballs","msgstr":"Жестокий жезл огненных шаров"}
+{"msgctxt":"items","msgid":"Cruel Wand of Lightning","msgstr":"Жестокий жезл молнии"}
+{"msgctxt":"items","msgid":"Crystal","msgstr":"Кристалл"}
+{"msgctxt":"items","msgid":"Cube","msgstr":"Куб"}
+{"msgctxt":"items","msgid":"Dandy Hat","msgstr":"Щегольская шляпа"}
+{"msgctxt":"items","msgid":"Day of Protection","msgstr":"День Защиты"}
+{"msgctxt":"items","msgid":"Day of the Gods","msgstr":"День Богов"}
+{"msgctxt":"items","msgid":"Deadly Swarm","msgstr":"Рой Смерти"}
+{"msgctxt":"items","msgid":"Death Blossom","msgstr":"Бутон Смерти"}
+{"msgctxt":"items","msgid":"Deck","msgstr":"Колода"}
+{"msgctxt":"items","msgid":"Destroy Undead","msgstr":"Разрушение Нежити"}
+{"msgctxt":"items","msgid":"Dispel Magic","msgstr":"Снятие Магии"}
+{"msgctxt":"items","msgid":"Divine Intervention","msgstr":"Божественное Вмешательство"}
+{"msgctxt":"items","msgid":"Dragon Breath","msgstr":"Дыхание Дракона"}
+{"msgctxt":"items","msgid":"Dragon Wand of Distortion","msgstr":"Драконий жезл искажения"}
+{"msgctxt":"items","msgid":"Dragon Wand of Implosion","msgstr":"Драконий жезл имплозии"}
+{"msgctxt":"items","msgid":"Dragon Wand of Incineration","msgstr":"Драконий жезл испепеления"}
+{"msgctxt":"items","msgid":"Dragon Wand of Shrapmetal","msgstr":"Драконий жезл осколков металла"}
+{"msgctxt":"items","msgid":"Dragon Wand of Shrinking","msgstr":"Драконий жезл уменьшения"}
+{"msgctxt":"items","msgid":"Druid Wand of Ice","msgstr":"Друидский жезл льда"}
+{"msgctxt":"items","msgid":"Druid Wand of Lashing","msgstr":"Друидский жезл плети"}
+{"msgctxt":"items","msgid":"Druid Wand of Light","msgstr":"Друидский жезл Света"}
+{"msgctxt":"items","msgid":"Druid Wand of Mind","msgstr":"Друидский жезл Разума"}
+{"msgctxt":"items","msgid":"Druid Wand of Swarms","msgstr":"Друидский жезл роя"}
+{"msgctxt":"items","msgid":"Drum","msgstr":"Барабан"}
+{"msgctxt":"items","msgid":"Dwarven Noble Axe","msgstr":"Благородный гномий топор"}
+{"msgctxt":"items","msgid":"Ear","msgstr":"Ухо"}
+{"msgctxt":"items","msgid":"Egg","msgstr":"Яйцо"}
+{"msgctxt":"items","msgid":"Elven Helm","msgstr":"Эльфийский шлем"}
+{"msgctxt":"items","msgid":"Enchant Item","msgstr":"Зачаровывание Предмета"}
+{"msgctxt":"items","msgid":"Exquisite Cutlass","msgstr":"Изысканная абордажная сабля"}
+{"msgctxt":"items","msgid":"Feather Fall","msgstr":"Падение Перышком"}
+{"msgctxt":"items","msgid":"Fine Broadsword","msgstr":"Добротный палаш"}
+{"msgctxt":"items","msgid":"Fine Leather Cloak","msgstr":"Добротный кожаный плащ"}
+{"msgctxt":"items","msgid":"Fine Long Dagger","msgstr":"Добротный длинный кинжал"}
+{"msgctxt":"items","msgid":"Fire Bolt","msgstr":"Огненная Стрела"}
+{"msgctxt":"items","msgid":"Fireball","msgstr":"Огненный Шар"}
+{"msgctxt":"items","msgid":"Flower","msgstr":"Цветок"}
+{"msgctxt":"items","msgid":"Fly","msgstr":"Полет"}
+{"msgctxt":"items","msgid":"Flying Fist","msgstr":"Летящий Кулак"}
+{"msgctxt":"items","msgid":"Fruit","msgstr":"Плоды"}
+{"msgctxt":"items","msgid":"Gem","msgstr":"Драгоценность"}
+{"msgctxt":"items","msgid":"Gemstone","msgstr":"Драгоценный камень"}
+{"msgctxt":"items","msgid":"Golden Plate Mail","msgstr":"Золотые латы"}
+{"msgctxt":"items","msgid":"Golem part","msgstr":"Часть голема"}
+{"msgctxt":"items","msgid":"Gong","msgstr":"Гонг"}
+{"msgctxt":"items","msgid":"Gray Potion","msgstr":"Серое зелье"}
+{"msgctxt":"items","msgid":"Green Potion","msgstr":"Зеленое зелье"}
+{"msgctxt":"items","msgid":"Grey Potion","msgstr":"Серое снадобье"}
+{"msgctxt":"items","msgid":"Harm","msgstr":"Вред"}
+{"msgctxt":"items","msgid":"Hat","msgstr":"Шапка"}
+{"msgctxt":"items","msgid":"Heart","msgstr":"Сердце"}
+{"msgctxt":"items","msgid":"Heartstone","msgstr":"Камень"}
+{"msgctxt":"items","msgid":"Herb","msgstr":"Трава"}
+{"msgctxt":"items","msgid":"Hide","msgstr":"Кожа"}
+{"msgctxt":"items","msgid":"History Book","msgstr":"Историческая Книга"}
+{"msgctxt":"items","msgid":"Horn","msgstr":"Рог"}
+{"msgctxt":"items","msgid":"Hour of Power","msgstr":"Час Силы"}
+{"msgctxt":"items","msgid":"Hourglass","msgstr":"Песочные Часы"}
+{"msgctxt":"items","msgid":"Ice Blast","msgstr":"Ледяной Взрыв"}
+{"msgctxt":"items","msgid":"Ice Bolt","msgstr":"Ледяная Стрела"}
+{"msgctxt":"items","msgid":"Idol","msgstr":"Идол"}
+{"msgctxt":"items","msgid":"Implosion","msgstr":"Коллапс"}
+{"msgctxt":"items","msgid":"Improvised Dagger","msgstr":"Самодельный кинжал"}
+{"msgctxt":"items","msgid":"Incinerate","msgstr":"Испепеление"}
+{"msgctxt":"items","msgid":"Inferno","msgstr":"Адское Пламя"}
+{"msgctxt":"items","msgid":"Instrument","msgstr":"Инструмент"}
+{"msgctxt":"items","msgid":"Iron Longsword","msgstr":"Железный длинный меч"}
+{"msgctxt":"items","msgid":"Iron Two-Handed Sword","msgstr":"Железный двуручный меч"}
+{"msgctxt":"items","msgid":"Jar","msgstr":"Сосуд"}
+{"msgctxt":"items","msgid":"Jelly","msgstr":"Мед"}
+{"msgctxt":"items","msgid":"Journal Notes","msgstr":"Дорожные Записки"}
+{"msgctxt":"items","msgid":"Jump","msgstr":"Прыжок"}
+{"msgctxt":"items","msgid":"Keg","msgstr":"Бочонок"}
+{"msgctxt":"items","msgid":"Key ring","msgstr":"Связка ключей"}
+{"msgctxt":"items","msgid":"Lamp","msgstr":"Лампа"}
+{"msgctxt":"items","msgid":"Lantern","msgstr":"Фонарь"}
+{"msgctxt":"items","msgid":"Large Shield","msgstr":"Большой щит"}
+{"msgctxt":"items","msgid":"Layered Potion","msgstr":"Специальное зелье"}
+{"msgctxt":"items","msgid":"Learning Book","msgstr":"Учебная Книга"}
+{"msgctxt":"items","msgid":"Light Dragon Leather","msgstr":"Лёгкие доспехи из драконьей кожи"}
+{"msgctxt":"items","msgid":"Lightning Bolt","msgstr":"Молния"}
+{"msgctxt":"items","msgid":"Lloyd's Beacon","msgstr":"Маяк"}
+{"msgctxt":"items","msgid":"Lump of Ore","msgstr":"Кусок Руды"}
+{"msgctxt":"items","msgid":"Magic lamp","msgstr":"Волшебная лампа"}
+{"msgctxt":"items","msgid":"Makeshift Hammer","msgstr":"Кустарный молот"}
+{"msgctxt":"items","msgid":"Mass Distortion","msgstr":"Искажение Массы"}
+{"msgctxt":"items","msgid":"Mass Fear","msgstr":"Всеобщий Ужас"}
+{"msgctxt":"items","msgid":"Massive Steel Broadsword","msgstr":"Массивный стальной палаш"}
+{"msgctxt":"items","msgid":"Master Broadsword","msgstr":"Палаш мастера"}
+{"msgctxt":"items","msgid":"Memory Crystal","msgstr":"Кристалл памяти"}
+{"msgctxt":"items","msgid":"Message Scroll","msgstr":"Свиток с сообщением"}
+{"msgctxt":"items","msgid":"Metal Rod","msgstr":"Металлический стержень"}
+{"msgctxt":"items","msgid":"Meteor Shower","msgstr":"Метеорный Поток"}
+{"msgctxt":"items","msgid":"Mind Blast","msgstr":"Телепатический Удар"}
+{"msgctxt":"items","msgid":"Notes","msgstr":"Записка"}
+{"msgctxt":"items","msgid":"Old Leather Boots","msgstr":"Старые кожаные сапоги"}
+{"msgctxt":"items","msgid":"Orange Potion","msgstr":"Оранжевое зелье"}
+{"msgctxt":"items","msgid":"Painting","msgstr":"Рисунок"}
+{"msgctxt":"items","msgid":"Paralyze","msgstr":"Паралич"}
+{"msgctxt":"items","msgid":"Pelt","msgstr":"Шкура"}
+{"msgctxt":"items","msgid":"Pinched Gauntlets","msgstr":"Тесные латные рукавицы"}
+{"msgctxt":"items","msgid":"Plate Mail","msgstr":"Латы"}
+{"msgctxt":"items","msgid":"Poison Spray","msgstr":"Ядовитые Брызги"}
+{"msgctxt":"items","msgid":"Potion Recipe","msgstr":"Рецепты зелий"}
+{"msgctxt":"items","msgid":"Power Cure","msgstr":"Могущественное Исцеление"}
+{"msgctxt":"items","msgid":"Primitive Club","msgstr":"Примитивная дубинка"}
+{"msgctxt":"items","msgid":"Prismatic Light","msgstr":"Радужный Свет"}
+{"msgctxt":"items","msgid":"Psychic Shock","msgstr":"Душевный Шок"}
+{"msgctxt":"items","msgid":"Pulp","msgstr":"Мякоть"}
+{"msgctxt":"items","msgid":"Pure Intelect","msgstr":"Абсолютный Интеллект"}
+{"msgctxt":"items","msgid":"Purple Potion","msgstr":"Пурпурное зелье"}
+{"msgctxt":"items","msgid":"Pyramid","msgstr":"Пирамида"}
+{"msgctxt":"items","msgid":"Quill","msgstr":"Перо"}
+{"msgctxt":"items","msgid":"Raise Dead","msgstr":"Оживление"}
+{"msgctxt":"items","msgid":"Reagent","msgstr":"Реагент"}
+{"msgctxt":"items","msgid":"Reanimate","msgstr":"Поднятие Нежити"}
+{"msgctxt":"items","msgid":"Red Potion","msgstr":"Красное зелье"}
+{"msgctxt":"items","msgid":"Reinforced Leather","msgstr":"Укреплённые кожаные доспехи"}
+{"msgctxt":"items","msgid":"Rejuvination","msgstr":"Омоложение"}
+{"msgctxt":"items","msgid":"Relic","msgstr":"Реликвия"}
+{"msgctxt":"items","msgid":"Relic Axe","msgstr":"Реликтовый топор"}
+{"msgctxt":"items","msgid":"Relic Belt","msgstr":"Реликтовый пояс"}
+{"msgctxt":"items","msgid":"Relic Bow","msgstr":"Реликтовый лук"}
+{"msgctxt":"items","msgid":"Relic Crossbow","msgstr":"Реликтовый арбалет"}
+{"msgctxt":"items","msgid":"Relic Dagger","msgstr":"Реликтовый кинжал"}
+{"msgctxt":"items","msgid":"Relic Hat","msgstr":"Реликтовая шляпа"}
+{"msgctxt":"items","msgid":"Relic Leather Armor","msgstr":"Реликтовые кожаные доспехи"}
+{"msgctxt":"items","msgid":"Relic Longsword","msgstr":"Реликтовый длинный меч"}
+{"msgctxt":"items","msgid":"Relic Ring","msgstr":"Реликтовое кольцо"}
+{"msgctxt":"items","msgid":"Relic Small Shield","msgstr":"Реликтовый малый щит"}
+{"msgctxt":"items","msgid":"Relic Spear","msgstr":"Реликтовое копьё"}
+{"msgctxt":"items","msgid":"Relic Staff","msgstr":"Реликтовый посох"}
+{"msgctxt":"items","msgid":"Relic Two-Handed Sword","msgstr":"Реликтовый двуручный меч"}
+{"msgctxt":"items","msgid":"Remains","msgstr":"Останки"}
+{"msgctxt":"items","msgid":"Report","msgstr":"Донесение"}
+{"msgctxt":"items","msgid":"Resurrection","msgstr":"Воскрешение"}
+{"msgctxt":"items","msgid":"Ring","msgstr":"Кольцо"}
+{"msgctxt":"items","msgid":"Rock Blast","msgstr":"Каменный Взрыв"}
+{"msgctxt":"items","msgid":"Root Club","msgstr":"Дубинка из корня"}
+{"msgctxt":"items","msgid":"Round crystal","msgstr":"Круглый кристалл"}
+{"msgctxt":"items","msgid":"Royal Crown","msgstr":"Королевская корона"}
+{"msgctxt":"items","msgid":"Rusty Bronze Shield","msgstr":"Ржавый бронзовый щит"}
+{"msgctxt":"items","msgid":"Saber","msgstr":"Сабля"}
+{"msgctxt":"items","msgid":"Sandals","msgstr":"Сандалии"}
+{"msgctxt":"items","msgid":"Sarcophagus","msgstr":"Саркофаг"}
+{"msgctxt":"items","msgid":"Scarf","msgstr":"Епитрахиль"}
+{"msgctxt":"items","msgid":"Scroll","msgstr":"Свиток "}
+{"msgctxt":"items","msgid":"Serpent Wand of Clouds","msgstr":"Змеиный жезл Облаков"}
+{"msgctxt":"items","msgid":"Shared Life","msgstr":"Разделение Жизни"}
+{"msgctxt":"items","msgid":"Shoddy Long Dagger","msgstr":"Дрянной длинный кинжал"}
+{"msgctxt":"items","msgid":"Shrapmetal","msgstr":"Осколки Металла"}
+{"msgctxt":"items","msgid":"Shrinking Ray","msgstr":"Сжимающий Луч"}
+{"msgctxt":"items","msgid":"Skull","msgstr":"Череп"}
+{"msgctxt":"items","msgid":"Slow","msgstr":"Замедление"}
+{"msgctxt":"items","msgid":"Small Shield","msgstr":"Малый щит"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Fire","msgstr":"Сверкающий жезл Огня"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Harming","msgstr":"Сверкающий жезл вреда"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Poison","msgstr":"Сверкающий жезл яда"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Sparks","msgstr":"Сверкающий жезл искр"}
+{"msgctxt":"items","msgid":"Sparkling Wand of Stunning","msgstr":"Сверкающий жезл оглушения"}
+{"msgctxt":"items","msgid":"Sparks","msgstr":"Искры"}
+{"msgctxt":"items","msgid":"Special Amulet","msgstr":"Особый амулет"}
+{"msgctxt":"items","msgid":"Special Axe","msgstr":"Особый топор"}
+{"msgctxt":"items","msgid":"Special Bow","msgstr":"Особый лук"}
+{"msgctxt":"items","msgid":"Special Cloak","msgstr":"Особый плащ"}
+{"msgctxt":"items","msgid":"Special Cutlass","msgstr":"Особая абордажная сабля"}
+{"msgctxt":"items","msgid":"Special Dagger","msgstr":"Особый кинжал"}
+{"msgctxt":"items","msgid":"Special Helm","msgstr":"Особый шлем"}
+{"msgctxt":"items","msgid":"Special Mace","msgstr":"Особая булава"}
+{"msgctxt":"items","msgid":"Special Ring","msgstr":"Особое кольцо"}
+{"msgctxt":"items","msgid":"Special Spear","msgstr":"Особое копьё"}
+{"msgctxt":"items","msgid":"Special Sword","msgstr":"Особый меч"}
+{"msgctxt":"items","msgid":"Special Two-Handed Axe","msgstr":"Особый двуручный топор"}
+{"msgctxt":"items","msgid":"Special Two-Handed Sword","msgstr":"Особый двуручный меч"}
+{"msgctxt":"items","msgid":"Spell Scroll","msgstr":"Свиток с заклинанием"}
+{"msgctxt":"items","msgid":"Splintery Buckler","msgstr":"Занозистый баклер"}
+{"msgctxt":"items","msgid":"Starburst","msgstr":"Звездный Взрыв"}
+{"msgctxt":"items","msgid":"Statuette","msgstr":"Статуэтка"}
+{"msgctxt":"items","msgid":"Steel Club","msgstr":"Стальная палица"}
+{"msgctxt":"items","msgid":"Steel Plate Mail","msgstr":"Стальные латы"}
+{"msgctxt":"items","msgid":"Stinger","msgstr":"Жало"}
+{"msgctxt":"items","msgid":"Stone","msgstr":"Камень"}
+{"msgctxt":"items","msgid":"Strange Suit","msgstr":"Странный костюм"}
+{"msgctxt":"items","msgid":"Studded Leather Belt","msgstr":"Клёпаный кожаный пояс"}
+{"msgctxt":"items","msgid":"Stun","msgstr":"Оглушение"}
+{"msgctxt":"items","msgid":"Sturdy Mace","msgstr":"Прочная булава"}
+{"msgctxt":"items","msgid":"Sword","msgstr":"Меч"}
+{"msgctxt":"items","msgid":"Tapestry","msgstr":"Гобелен"}
+{"msgctxt":"items","msgid":"Telekinesis","msgstr":"Телекинез"}
+{"msgctxt":"items","msgid":"Thorned Club","msgstr":"Колючая дубинка"}
+{"msgctxt":"items","msgid":"Tile","msgstr":"Плитка"}
+{"msgctxt":"items","msgid":"Torch Light","msgstr":"Факел"}
+{"msgctxt":"items","msgid":"Town Portal","msgstr":"Портал в Город"}
+{"msgctxt":"items","msgid":"Toxic Cloud","msgstr":"Ядовитое Облако"}
+{"msgctxt":"items","msgid":"Turn Undead","msgstr":"Изгнание Нежити"}
+{"msgctxt":"items","msgid":"Urn","msgstr":"Урна"}
+{"msgctxt":"items","msgid":"Vanquisher Sword","msgstr":"Меч победителя"}
+{"msgctxt":"items","msgid":"Vial","msgstr":"Сосуд"}
+{"msgctxt":"items","msgid":"Vouchers","msgstr":"Чеки"}
+{"msgctxt":"items","msgid":"Wand","msgstr":"Жезл"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Blasting","msgstr":"Чернокнижный жезл взрыва"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Clouds","msgstr":"Чернокнижный жезл Облаков"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Paralyzing","msgstr":"Чернокнижный жезл паралича"}
+{"msgctxt":"items","msgid":"Warlock's Wand of Rocks","msgstr":"Чернокнижный жезл Камней"}
+{"msgctxt":"items","msgid":"Warlock's Wand of The Fist","msgstr":"Чернокнижный жезл Кулака"}
+{"msgctxt":"items","msgid":"Water Walk","msgstr":"Хождение по Воде"}
+{"msgctxt":"items","msgid":"White Pearl","msgstr":"Белая жемчужина "}
+{"msgctxt":"items","msgid":"White Potion","msgstr":"Белое зелье"}
+{"msgctxt":"items","msgid":"Wizard Eye","msgstr":"Волшебный Глаз"}
+{"msgctxt":"items","msgid":"Wonder Dagger","msgstr":"Кинжал чудес"}
+{"msgctxt":"items","msgid":"Wood","msgstr":"Древесина"}
+{"msgctxt":"items","msgid":"Wooden Helm","msgstr":"Деревянный шлем"}
+{"msgctxt":"items","msgid":"Wreath Crown","msgstr":"Корона-венок"}
+{"msgctxt":"items","msgid":"Yellow Potion","msgstr":"Желтое зелье"}
+{"msgctxt":"items","msgid":"gold","msgstr":"золото"}
 {"msgctxt":"location","msgid":"Abandoned Pirate Keep","msgstr":"Заброшенная пиратская крепость"}
 {"msgctxt":"location","msgid":"Abandoned Temple","msgstr":"Заброшенный храм"}
 {"msgctxt":"location","msgid":"Agar's Laboratory","msgstr":"Лаборатория Агара"}
@@ -1899,6 +2188,2281 @@
 {"msgctxt":"monsters","msgid":"Young Dragon","msgstr":"Молодой дракон"}
 {"msgctxt":"monsters","msgid":"Young Dragon Turtle","msgstr":"Молодая драконья черепаха"}
 {"msgctxt":"monsters","msgid":"Zombie","msgstr":"Зомби"}
+{"msgctxt":"monsters","msgid":"peasant","msgstr":"Местная жительница"}
+{"msgctxt":"npcdata","msgid":"Aaron Castro","msgstr":"Арон Кастро"}
+{"msgctxt":"npcdata","msgid":"Aaron Strongmun","msgstr":"Арон Стронгмун"}
+{"msgctxt":"npcdata","msgid":"Abdul","msgstr":"Абдулла "}
+{"msgctxt":"npcdata","msgid":"Abdulai Mahgreb","msgstr":"Абдулай Магреб"}
+{"msgctxt":"npcdata","msgid":"Abe Markoviac","msgstr":"Эйб Марковяк"}
+{"msgctxt":"npcdata","msgid":"Ackbar","msgstr":"Акбар"}
+{"msgctxt":"npcdata","msgid":"Acwalander","msgstr":"Акваландр"}
+{"msgctxt":"npcdata","msgid":"Adam McCarthy","msgstr":"Адам МакКарти"}
+{"msgctxt":"npcdata","msgid":"Adric Stellare","msgstr":"Адрик Стеллар"}
+{"msgctxt":"npcdata","msgid":"Aerie Luodrin","msgstr":"Эри Лудрэ"}
+{"msgctxt":"npcdata","msgid":"Agatha Noble","msgstr":"Агата Нобл"}
+{"msgctxt":"npcdata","msgid":"Agatha Putnam","msgstr":"Агата Путнам"}
+{"msgctxt":"npcdata","msgid":"Ahmed A'sanzi","msgstr":"Ахмед А'Санзи"}
+{"msgctxt":"npcdata","msgid":"Ailyssa the Bard","msgstr":"Айлисса музыкантка"}
+{"msgctxt":"npcdata","msgid":"Aislen","msgstr":"Эйслен"}
+{"msgctxt":"npcdata","msgid":"Alain Hani","msgstr":"Ален Хани"}
+{"msgctxt":"npcdata","msgid":"Alashandra Reese","msgstr":"Алашандра Риз"}
+{"msgctxt":"npcdata","msgid":"Albert Newton","msgstr":"Альберт Ньютон"}
+{"msgctxt":"npcdata","msgid":"Aldrin Cleareye","msgstr":"Альдрин Клирай"}
+{"msgctxt":"npcdata","msgid":"Aldrin Tamloc","msgstr":"Олдрин Тамлок"}
+{"msgctxt":"npcdata","msgid":"Alex Morrow","msgstr":"Алекс Морроу"}
+{"msgctxt":"npcdata","msgid":"Alex Sherman","msgstr":"Алекс Шерман"}
+{"msgctxt":"npcdata","msgid":"Alice Hargreaves","msgstr":"Алиса Харгривс"}
+{"msgctxt":"npcdata","msgid":"Alice Ofenhauser","msgstr":"Алиса Офенхаузер"}
+{"msgctxt":"npcdata","msgid":"Alik Whitemoon","msgstr":"Алик Уайтмун"}
+{"msgctxt":"npcdata","msgid":"Alise Nightwood","msgstr":"Алиса Найтвуд"}
+{"msgctxt":"npcdata","msgid":"Alliane Frelsig","msgstr":"Эллиэйн Фрельзиг"}
+{"msgctxt":"npcdata","msgid":"Alton Black","msgstr":"Альтон Блэк"}
+{"msgctxt":"npcdata","msgid":"Alton Putnam","msgstr":"Альтон Путнам"}
+{"msgctxt":"npcdata","msgid":"Amanda Van De Camp","msgstr":"Аманда ван де Камп"}
+{"msgctxt":"npcdata","msgid":"Ambassador Scale","msgstr":"Посол Скейл"}
+{"msgctxt":"npcdata","msgid":"Ambassador Wright","msgstr":"Посол Райт"}
+{"msgctxt":"npcdata","msgid":"Amber Praetor","msgstr":"Амбер Претор"}
+{"msgctxt":"npcdata","msgid":"Ambrose Brusse","msgstr":"Амброзий Брюсс"}
+{"msgctxt":"npcdata","msgid":"Amethyst Gemstone","msgstr":"Аметист Гемстон"}
+{"msgctxt":"npcdata","msgid":"Anawah","msgstr":"Анава"}
+{"msgctxt":"npcdata","msgid":"Andover Potbello","msgstr":"Андовер Портбелло"}
+{"msgctxt":"npcdata","msgid":"Andrew Besper","msgstr":"Андрей Беспер"}
+{"msgctxt":"npcdata","msgid":"Andrew Grumm","msgstr":"Эндрю Грамм"}
+{"msgctxt":"npcdata","msgid":"Andrew YC Pupedis","msgstr":"Андрей ИС Пупедис"}
+{"msgctxt":"npcdata","msgid":"Angela Dawson","msgstr":"Анжела Доусон"}
+{"msgctxt":"npcdata","msgid":"Anna Wooll","msgstr":"Анна Вул"}
+{"msgctxt":"npcdata","msgid":"Anthony Green","msgstr":"Энтони Грин"}
+{"msgctxt":"npcdata","msgid":"Anthony Hargraine","msgstr":"Антоний Харгрейн"}
+{"msgctxt":"npcdata","msgid":"Anthony Stone","msgstr":"Энтони Стоун"}
+{"msgctxt":"npcdata","msgid":"Aori Derrisai","msgstr":"Аори Деррисей"}
+{"msgctxt":"npcdata","msgid":"April Lee","msgstr":"Эйприл Ли"}
+{"msgctxt":"npcdata","msgid":"Archibald Dawnsglow","msgstr":"Арчибальд Даунгслоу"}
+{"msgctxt":"npcdata","msgid":"Archibald Ironfist","msgstr":"Арчибальд Айронфист"}
+{"msgctxt":"npcdata","msgid":"Arena Master","msgstr":"Мастер Арены"}
+{"msgctxt":"npcdata","msgid":"Arion Hunter","msgstr":"Арион Хантер"}
+{"msgctxt":"npcdata","msgid":"Arius","msgstr":"Ариус"}
+{"msgctxt":"npcdata","msgid":"Arius Peleth","msgstr":"Ариус Пелет"}
+{"msgctxt":"npcdata","msgid":"Arlen Sailor","msgstr":"Арлен Сейлор"}
+{"msgctxt":"npcdata","msgid":"Arther Jelnic","msgstr":"Артер Йелник"}
+{"msgctxt":"npcdata","msgid":"Arthur O'Leery","msgstr":"Артур О'Лири"}
+{"msgctxt":"npcdata","msgid":"Artorius Veritas","msgstr":"Арториус Веритас"}
+{"msgctxt":"npcdata","msgid":"Arvin Beneclowd","msgstr":"Арвин Бенеклауд"}
+{"msgctxt":"npcdata","msgid":"Arvin Keldin","msgstr":"Арвин Келдин"}
+{"msgctxt":"npcdata","msgid":"Asael Fromago","msgstr":"Азаэль Фромаго"}
+{"msgctxt":"npcdata","msgid":"Ashandra Snowtree","msgstr":"Ашандра Сноутри"}
+{"msgctxt":"npcdata","msgid":"Ashandra Withersmythe","msgstr":"Ашандра Витерсмайт"}
+{"msgctxt":"npcdata","msgid":"Ashen Fiddlebone","msgstr":"Эшен Фиддбон"}
+{"msgctxt":"npcdata","msgid":"Ashen Temper","msgstr":"Ашен Темпер"}
+{"msgctxt":"npcdata","msgid":"Auric Goldsmith","msgstr":"Орик Голдсмит"}
+{"msgctxt":"npcdata","msgid":"Avalanche","msgstr":"Аваланш"}
+{"msgctxt":"npcdata","msgid":"Avalon","msgstr":"Аваллон"}
+{"msgctxt":"npcdata","msgid":"Avilia Asheed","msgstr":"Авилия Ашид"}
+{"msgctxt":"npcdata","msgid":"Avinril Smythers ","msgstr":"Авинрил Смитерс "}
+{"msgctxt":"npcdata","msgid":"Aznog Black","msgstr":"Азног Черный"}
+{"msgctxt":"npcdata","msgid":"Aznog Slasher","msgstr":"Азног Слэшер"}
+{"msgctxt":"npcdata","msgid":"Azure Windsong","msgstr":"Азур Виндсонг"}
+{"msgctxt":"npcdata","msgid":"Baby Dragon","msgstr":"Детеныш дракона"}
+{"msgctxt":"npcdata","msgid":"Balan Gizmo","msgstr":"Балан Гизмо"}
+{"msgctxt":"npcdata","msgid":"Balan Suretrail","msgstr":"Балан Шуртрейл"}
+{"msgctxt":"npcdata","msgid":"Balion Tearwing","msgstr":"Бейлион Крылодер"}
+{"msgctxt":"npcdata","msgid":"Bandar Jahrom","msgstr":"Бандар Джэром"}
+{"msgctxt":"npcdata","msgid":"Barbara Lotts","msgstr":"Бартин Лоттс"}
+{"msgctxt":"npcdata","msgid":"Barbara Wiseman","msgstr":"Барбара Вайзман"}
+{"msgctxt":"npcdata","msgid":"Barrad Unter","msgstr":"Баррад Унтер"}
+{"msgctxt":"npcdata","msgid":"Barry Shepherd","msgstr":"Барри Шеферд"}
+{"msgctxt":"npcdata","msgid":"Bartholomew Hume","msgstr":"Варфоломей Хьюм"}
+{"msgctxt":"npcdata","msgid":"Bastian Loudrin","msgstr":"Бастиан Лудрэ"}
+{"msgctxt":"npcdata","msgid":"Bazalath","msgstr":"Балазат"}
+{"msgctxt":"npcdata","msgid":"Beauregard Wolf","msgstr":"Борегард Вульф"}
+{"msgctxt":"npcdata","msgid":"Becky Holmes","msgstr":"Беки Холмс"}
+{"msgctxt":"npcdata","msgid":"Bejamin Sotherland","msgstr":"Бенджамин Сотерланд"}
+{"msgctxt":"npcdata","msgid":"Belinda Pikeman","msgstr":"Белинда Пайкман"}
+{"msgctxt":"npcdata","msgid":"Benefice","msgstr":"Бенефиц"}
+{"msgctxt":"npcdata","msgid":"Benito Tellman","msgstr":"Бенито Теллман"}
+{"msgctxt":"npcdata","msgid":"Benjamin Bent","msgstr":"Бенджамин Бент"}
+{"msgctxt":"npcdata","msgid":"Benjamin Greenstorm","msgstr":"Бенджамин Гринсторм"}
+{"msgctxt":"npcdata","msgid":"Benjamin the Balanced","msgstr":"Бенджамин Спокойный"}
+{"msgctxt":"npcdata","msgid":"Bernard Jacobs","msgstr":"Бернард Якобс"}
+{"msgctxt":"npcdata","msgid":"Bernice Hatter","msgstr":"Бернис Хэттер"}
+{"msgctxt":"npcdata","msgid":"Bernice Weaver","msgstr":"Бернис Вивер"}
+{"msgctxt":"npcdata","msgid":"Bertram Stillwater","msgstr":"Бертрам Стилвотер"}
+{"msgctxt":"npcdata","msgid":"Bertrand Scrivner","msgstr":"Бертран Скривнер"}
+{"msgctxt":"npcdata","msgid":"Beth Thompson","msgstr":"Бет Томпсон"}
+{"msgctxt":"npcdata","msgid":"Bethold Caverhill","msgstr":"Бетольд Каверхилл"}
+{"msgctxt":"npcdata","msgid":"Bethold Kern","msgstr":"Бетольд Керн"}
+{"msgctxt":"npcdata","msgid":"Beverly Sweetwater","msgstr":"Беверли Свитвотер"}
+{"msgctxt":"npcdata","msgid":"Bigfist Slowstepper","msgstr":"Кулачище Слоустеппер"}
+{"msgctxt":"npcdata","msgid":"Bill Nesemeier","msgstr":"Билл Неземейер"}
+{"msgctxt":"npcdata","msgid":"Bill Stoneham","msgstr":"Билл Стоунхейм"}
+{"msgctxt":"npcdata","msgid":"Bishop Iquisitorio","msgstr":"Бишоп Инквизиторио"}
+{"msgctxt":"npcdata","msgid":"Black Current","msgstr":"Темное Течение"}
+{"msgctxt":"npcdata","msgid":"Blacken Reaverston","msgstr":"Блакен Риверстон"}
+{"msgctxt":"npcdata","msgid":"Blacken Stonecleaver","msgstr":"Блейкен Стоункливер"}
+{"msgctxt":"npcdata","msgid":"Blayze ","msgstr":"Блейз "}
+{"msgctxt":"npcdata","msgid":"Blaze the Circus Master","msgstr":"Блейз Хозяин Цирка"}
+{"msgctxt":"npcdata","msgid":"Blazen Stormlance","msgstr":"Блейзен Штормлэнс"}
+{"msgctxt":"npcdata","msgid":"Bob Young","msgstr":"Боб Янг"}
+{"msgctxt":"npcdata","msgid":"Bone","msgstr":"Бон"}
+{"msgctxt":"npcdata","msgid":"Bonnie Long-Hemsath","msgstr":"Бонни Лонг-Хемсаф"}
+{"msgctxt":"npcdata","msgid":"Bonnie Long-Hemssath","msgstr":"Бонни Лонг-Хемсат"}
+{"msgctxt":"npcdata","msgid":"Bonnie Rotterdam","msgstr":"Бонни Роттердам"}
+{"msgctxt":"npcdata","msgid":"Boob","msgstr":"Буб"}
+{"msgctxt":"npcdata","msgid":"Botham","msgstr":"Ботам"}
+{"msgctxt":"npcdata","msgid":"Brahein Kadarr","msgstr":"Брахейн Кадарр"}
+{"msgctxt":"npcdata","msgid":"Brand Featherwind","msgstr":"Брэнд Фивервинд"}
+{"msgctxt":"npcdata","msgid":"Brand the Maker","msgstr":"Брэнд Мастер"}
+{"msgctxt":"npcdata","msgid":"Brekish Onefang","msgstr":"Брекиш Однозуб"}
+{"msgctxt":"npcdata","msgid":"Brent Filiant","msgstr":"Брент Филиант"}
+{"msgctxt":"npcdata","msgid":"Brian DeMetz","msgstr":"Брайан ДеМец"}
+{"msgctxt":"npcdata","msgid":"Brian Kemper","msgstr":"Брайан Кемпер"}
+{"msgctxt":"npcdata","msgid":"Brian Telemere","msgstr":"Брайан Телемер"}
+{"msgctxt":"npcdata","msgid":"Brigham Kinney","msgstr":"Брайам Кинни"}
+{"msgctxt":"npcdata","msgid":"Brigham the Frugal","msgstr":"Бригхэм Скромный"}
+{"msgctxt":"npcdata","msgid":"Brimstone","msgstr":"Бримстоун"}
+{"msgctxt":"npcdata","msgid":"Bronwyn Blue","msgstr":"Бронвин Блю"}
+{"msgctxt":"npcdata","msgid":"Bronwyn Meck","msgstr":"Бронвин Мек"}
+{"msgctxt":"npcdata","msgid":"Brother Bombah","msgstr":"Брат Бомбах"}
+{"msgctxt":"npcdata","msgid":"Brother Crane","msgstr":"Брат Крейн"}
+{"msgctxt":"npcdata","msgid":"Brother Hearthsworn","msgstr":"Брат Хартсворн"}
+{"msgctxt":"npcdata","msgid":"Brother Rothham","msgstr":"Брат Ротхэм"}
+{"msgctxt":"npcdata","msgid":"Bryan Farina","msgstr":"Брайан Фарина"}
+{"msgctxt":"npcdata","msgid":"Bryant Conlan","msgstr":"Брайант Конлэн"}
+{"msgctxt":"npcdata","msgid":"Bryce Watershed","msgstr":"Брайс Вотершед"}
+{"msgctxt":"npcdata","msgid":"Buford T. Allman","msgstr":"Буфорд Т. Олман"}
+{"msgctxt":"npcdata","msgid":"Burn","msgstr":"Берн"}
+{"msgctxt":"npcdata","msgid":"Burton Rutherford","msgstr":"Бёртон Рутерфорд"}
+{"msgctxt":"npcdata","msgid":"Butler","msgstr":"Дворецкий"}
+{"msgctxt":"npcdata","msgid":"Caao Salem","msgstr":"Каао Салем"}
+{"msgctxt":"npcdata","msgid":"Cagnor","msgstr":"Каньор"}
+{"msgctxt":"npcdata","msgid":"Cahalli Evenall","msgstr":"Кахалли Ивнол"}
+{"msgctxt":"npcdata","msgid":"Calindra Goldensight","msgstr":"Калиндра Голденсайт"}
+{"msgctxt":"npcdata","msgid":"Calindril","msgstr":"Калиндриль"}
+{"msgctxt":"npcdata","msgid":"Calvin Black","msgstr":"Кальвин Блэк"}
+{"msgctxt":"npcdata","msgid":"Candice Streep","msgstr":"Кандис Стрип"}
+{"msgctxt":"npcdata","msgid":"Cardric Caverhill","msgstr":"Кэдрик Кэверхилл"}
+{"msgctxt":"npcdata","msgid":"Cardric the Steady","msgstr":"Кардрик Верный"}
+{"msgctxt":"npcdata","msgid":"Carl Moramir","msgstr":"Карл Морамир"}
+{"msgctxt":"npcdata","msgid":"Carl Pinder","msgstr":"Карл Пиндер"}
+{"msgctxt":"npcdata","msgid":"Carl Pindor","msgstr":"Карл Пиндор"}
+{"msgctxt":"npcdata","msgid":"Carla Tarent","msgstr":"Карла Тарент"}
+{"msgctxt":"npcdata","msgid":"Carla Umberpool","msgstr":"Карла Амберпул"}
+{"msgctxt":"npcdata","msgid":"Carlo Tormini","msgstr":"Карло Тормини"}
+{"msgctxt":"npcdata","msgid":"Carly Rotterdam","msgstr":"Карли Роттердам"}
+{"msgctxt":"npcdata","msgid":"Carol Rossini","msgstr":"Кэрол Россини"}
+{"msgctxt":"npcdata","msgid":"Carolyn Weathers","msgstr":"Кэролин Витерс"}
+{"msgctxt":"npcdata","msgid":"Carrie Calaway","msgstr":"Кэрри Калавей"}
+{"msgctxt":"npcdata","msgid":"Casey Ludwig","msgstr":"Кэси Людвиг"}
+{"msgctxt":"npcdata","msgid":"Cassandra Holden","msgstr":"Касандра Холден"}
+{"msgctxt":"npcdata","msgid":"Cassandra Timmon","msgstr":"Касандра Тиммон"}
+{"msgctxt":"npcdata","msgid":"Castigeir","msgstr":"Кастигир"}
+{"msgctxt":"npcdata","msgid":"Castle Guard","msgstr":"Стражник замка"}
+{"msgctxt":"npcdata","msgid":"Castor Lithgow","msgstr":"Кастор Литгоу"}
+{"msgctxt":"npcdata","msgid":"Cauri Blackthorne","msgstr":"Каури Черный Шип"}
+{"msgctxt":"npcdata","msgid":"Celia Sparkmen","msgstr":"Селия Спаркмен"}
+{"msgctxt":"npcdata","msgid":"Celia Stone","msgstr":"Селия Стоун"}
+{"msgctxt":"npcdata","msgid":"Chadric Benson","msgstr":"Чедрик Бенсон"}
+{"msgctxt":"npcdata","msgid":"Chadric Townsaver","msgstr":"Чедрик Таунсейвер"}
+{"msgctxt":"npcdata","msgid":"Chadwick Blackpoole","msgstr":"Чедвик Блэкпул"}
+{"msgctxt":"npcdata","msgid":"Chandra Stripling","msgstr":"Чандра Стриплинг"}
+{"msgctxt":"npcdata","msgid":"Charles D'Sorpigal","msgstr":"Чарльз д'Сорпигаль"}
+{"msgctxt":"npcdata","msgid":"Charles Zilm","msgstr":"Чарльз Цилм"}
+{"msgctxt":"npcdata","msgid":"Cheryl Ahmanson","msgstr":"Шерил Ахмансон"}
+{"msgctxt":"npcdata","msgid":"Cheryl Duncan","msgstr":"Шерил Дункан"}
+{"msgctxt":"npcdata","msgid":"Chevon Wist","msgstr":"Шевон Вист"}
+{"msgctxt":"npcdata","msgid":"Chitania Retiani","msgstr":"Китания Ретиани"}
+{"msgctxt":"npcdata","msgid":"Chris Bates","msgstr":"Крис Бейтс"}
+{"msgctxt":"npcdata","msgid":"Chris Miller","msgstr":"Крис Миллер"}
+{"msgctxt":"npcdata","msgid":"Chris Rock","msgstr":"Крис Рок"}
+{"msgctxt":"npcdata","msgid":"Christian Vanover","msgstr":"Кристиан Вановер"}
+{"msgctxt":"npcdata","msgid":"Christian Vela","msgstr":"Кристиан Вела"}
+{"msgctxt":"npcdata","msgid":"Christie Nosewort","msgstr":"Кристи Ноузворт"}
+{"msgctxt":"npcdata","msgid":"Christopher Smith","msgstr":"Кристофер Смит"}
+{"msgctxt":"npcdata","msgid":"Chuck Russom","msgstr":"Чак Рассом"}
+{"msgctxt":"npcdata","msgid":"Claderin Brightspear","msgstr":"Кладерин Брайтспир"}
+{"msgctxt":"npcdata","msgid":"Claderin Silverpoint","msgstr":"Кладерин Сильверпойнт"}
+{"msgctxt":"npcdata","msgid":"Claes Mogren","msgstr":"Клэс Могрен"}
+{"msgctxt":"npcdata","msgid":"Clearcreek","msgstr":"Прозрачный Ручеек"}
+{"msgctxt":"npcdata","msgid":"Cleric Peasant","msgstr":"обычный клерик"}
+{"msgctxt":"npcdata","msgid":"Cleric of the Sun","msgstr":"Клирик Солнца"}
+{"msgctxt":"npcdata","msgid":"Cloud Agraynel","msgstr":"Клауд Агрейнел"}
+{"msgctxt":"npcdata","msgid":"Cloud Nedlon","msgstr":"Облако Нэлдон"}
+{"msgctxt":"npcdata","msgid":"Clyde Dagget","msgstr":"Клайд Даггет"}
+{"msgctxt":"npcdata","msgid":"Cody Ripper","msgstr":"Коди Риппер"}
+{"msgctxt":"npcdata","msgid":"Connie Lettering","msgstr":"Конни Леттеринг"}
+{"msgctxt":"npcdata","msgid":"Contest Winner 7","msgstr":"Победитель состязания 7"}
+{"msgctxt":"npcdata","msgid":"Corey Rozburg","msgstr":"Кори Розбург"}
+{"msgctxt":"npcdata","msgid":"Crag Hack","msgstr":"Крэг Хак"}
+{"msgctxt":"npcdata","msgid":"Critias Burnkindle","msgstr":"Критиас Бернкайндл"}
+{"msgctxt":"npcdata","msgid":"Critias Snowtree","msgstr":"Критиас Сноутри"}
+{"msgctxt":"npcdata","msgid":"Cyrus Montebleu","msgstr":"Кирус Монтебло"}
+{"msgctxt":"npcdata","msgid":"Dadeross","msgstr":"Дадеросс"}
+{"msgctxt":"npcdata","msgid":"Daedalus Falk","msgstr":"Дедал Фальк"}
+{"msgctxt":"npcdata","msgid":"Daila Chow","msgstr":"Дайла Чау"}
+{"msgctxt":"npcdata","msgid":"Dalin Keenedge","msgstr":"Далин Кинэдж"}
+{"msgctxt":"npcdata","msgid":"Dallia Sparks","msgstr":"Даллия Спаркс"}
+{"msgctxt":"npcdata","msgid":"Damon Hawker","msgstr":"Дэмон Хокер"}
+{"msgctxt":"npcdata","msgid":"Dana Fenster","msgstr":"Дана Фенстер"}
+{"msgctxt":"npcdata","msgid":"Daniel Carnegie","msgstr":"Даниэль Карнеги"}
+{"msgctxt":"npcdata","msgid":"Daniel Forosmini","msgstr":"Даниэль Форосмини"}
+{"msgctxt":"npcdata","msgid":"Dantillion ","msgstr":"Дантильон"}
+{"msgctxt":"npcdata","msgid":"Daphne Calloway","msgstr":"Дафна Калловей"}
+{"msgctxt":"npcdata","msgid":"Darek Halover","msgstr":"Дарек Халовер"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Guard","msgstr":"стражник темный эльф"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Peasant","msgstr":"обычный темный эльф"}
+{"msgctxt":"npcdata","msgid":"Dark Elf Pilgrim","msgstr":"Странник - Темный Эльф"}
+{"msgctxt":"npcdata","msgid":"Dark Shade","msgstr":"Дарк Шэйд"}
+{"msgctxt":"npcdata","msgid":"Darron Temper","msgstr":"Даррон Темпер"}
+{"msgctxt":"npcdata","msgid":"Darth Cartwright","msgstr":"Дарт Картрайт"}
+{"msgctxt":"npcdata","msgid":"Dave Botan","msgstr":"Дэйв Ботан"}
+{"msgctxt":"npcdata","msgid":"Davee Sail","msgstr":"Дэви Сэйл"}
+{"msgctxt":"npcdata","msgid":"David Feather","msgstr":"Давид Фезер"}
+{"msgctxt":"npcdata","msgid":"David Mullich","msgstr":"Дэвид Муллих"}
+{"msgctxt":"npcdata","msgid":"David Pike","msgstr":"Давид Пайк"}
+{"msgctxt":"npcdata","msgid":"David Richey","msgstr":"Дэвид Ричи"}
+{"msgctxt":"npcdata","msgid":"David Vela","msgstr":"Дэвид Вела"}
+{"msgctxt":"npcdata","msgid":"Davis Carp","msgstr":"Дэвис Карп"}
+{"msgctxt":"npcdata","msgid":"Davrik Peladium","msgstr":"Дэврик Пеладиум"}
+{"msgctxt":"npcdata","msgid":"Dean Frimple","msgstr":"Дин Фримпл"}
+{"msgctxt":"npcdata","msgid":"Dean Gibson","msgstr":"Дин Гибсон"}
+{"msgctxt":"npcdata","msgid":"Deedra Brewer","msgstr":"Дедра Брювер"}
+{"msgctxt":"npcdata","msgid":"Deftclaw Redreaver","msgstr":"Терзающий Коготь"}
+{"msgctxt":"npcdata","msgid":"Dekian Farswell","msgstr":"Декиан Фарсвелл"}
+{"msgctxt":"npcdata","msgid":"Dekian Forgewright","msgstr":"Декиан Форджрайт"}
+{"msgctxt":"npcdata","msgid":"Deliah Bwana","msgstr":"Дилайя Бвана"}
+{"msgctxt":"npcdata","msgid":"Dennis Caverhill","msgstr":"Денис Каверхилл"}
+{"msgctxt":"npcdata","msgid":"Dennis Johnson","msgstr":"Денис Джонсон"}
+{"msgctxt":"npcdata","msgid":"Derek Chester","msgstr":"Дерек Честер"}
+{"msgctxt":"npcdata","msgid":"Derrin Delver","msgstr":"Деррин Делвир"}
+{"msgctxt":"npcdata","msgid":"Dervish Chevron","msgstr":"Дервиш Шеврон"}
+{"msgctxt":"npcdata","msgid":"Desmond Weller","msgstr":"Десмонд Веллер"}
+{"msgctxt":"npcdata","msgid":"Deth Macbre","msgstr":"Дет Макбр"}
+{"msgctxt":"npcdata","msgid":"Devin Chapman","msgstr":"Девин Чапман"}
+{"msgctxt":"npcdata","msgid":"Devlin Arcanus","msgstr":"Дэвлин Арканус"}
+{"msgctxt":"npcdata","msgid":"Devon Ivers","msgstr":"Девон Айверс"}
+{"msgctxt":"npcdata","msgid":"Diana Dedrick","msgstr":"Диана Дедрик"}
+{"msgctxt":"npcdata","msgid":"Dickson Parks","msgstr":"Диксон Паркс"}
+{"msgctxt":"npcdata","msgid":"Dierdra Wallace","msgstr":"Дейдра Уоллес"}
+{"msgctxt":"npcdata","msgid":"Dillan Robinson","msgstr":"Диллан Робинсон"}
+{"msgctxt":"npcdata","msgid":"Dini Mahgreb","msgstr":"Дини Магреб"}
+{"msgctxt":"npcdata","msgid":"Dirthic","msgstr":"Дирсик"}
+{"msgctxt":"npcdata","msgid":"Dolores Craft","msgstr":"Долорес Крафт"}
+{"msgctxt":"npcdata","msgid":"Dolores Fischer","msgstr":"Долорес Фишер"}
+{"msgctxt":"npcdata","msgid":"Dom Malikto","msgstr":"Дом Маликто"}
+{"msgctxt":"npcdata","msgid":"Dominique Juarez","msgstr":"Доминика Хуарес"}
+{"msgctxt":"npcdata","msgid":"Donald Dorfus","msgstr":"Дональд Дорфус"}
+{"msgctxt":"npcdata","msgid":"Donald Retzer","msgstr":"Дональд Ретцер"}
+{"msgctxt":"npcdata","msgid":"Donna Wyrith","msgstr":"Донна Вирит"}
+{"msgctxt":"npcdata","msgid":"Doreen Espana","msgstr":"Дорин Эспана"}
+{"msgctxt":"npcdata","msgid":"Dorf","msgstr":"Дорф"}
+{"msgctxt":"npcdata","msgid":"Dorothy Sablewood","msgstr":"Дорроти Сэблвуд"}
+{"msgctxt":"npcdata","msgid":"Dorothy Senjac","msgstr":"Дороти Сеньяк"}
+{"msgctxt":"npcdata","msgid":"Dotes","msgstr":"Доутс"}
+{"msgctxt":"npcdata","msgid":"Douglas Dirthmoore","msgstr":"Дуглас Диртмур"}
+{"msgctxt":"npcdata","msgid":"Douglas Hill","msgstr":"Дуглас Хилл"}
+{"msgctxt":"npcdata","msgid":"Douglas Iverson","msgstr":"Дуглас Иверсон"}
+{"msgctxt":"npcdata","msgid":"Dragon Hunter","msgstr":"Охотник за драконами"}
+{"msgctxt":"npcdata","msgid":"Drathen Keldin","msgstr":"Дратен Келдин"}
+{"msgctxt":"npcdata","msgid":"Dread Pirate Stanley","msgstr":"Ужасный Пират Стэнли"}
+{"msgctxt":"npcdata","msgid":"Droppa MaPantz","msgstr":"Дроппа МаПантс"}
+{"msgctxt":"npcdata","msgid":"Drusis Tiberio","msgstr":"Друсис Тиберио"}
+{"msgctxt":"npcdata","msgid":"Duroth the Eternal","msgstr":"Дюрот Вечный"}
+{"msgctxt":"npcdata","msgid":"Dyson Leland","msgstr":"Дайсон Лиланд"}
+{"msgctxt":"npcdata","msgid":"Dyson Leyland","msgstr":"Дайсон Лиланд"}
+{"msgctxt":"npcdata","msgid":"Earnest","msgstr":"Эрнест"}
+{"msgctxt":"npcdata","msgid":"Ebednezer Sower","msgstr":"Эбеднизер Соуэр"}
+{"msgctxt":"npcdata","msgid":"Edgar Botham","msgstr":"Эдгар Ботхэм"}
+{"msgctxt":"npcdata","msgid":"Edgar Carpenter","msgstr":"Эдгар Карпентер"}
+{"msgctxt":"npcdata","msgid":"Edgar Willowbark","msgstr":"Эдгар Виллоубарк"}
+{"msgctxt":"npcdata","msgid":"Edna Harmenov","msgstr":"Эдна Харменов"}
+{"msgctxt":"npcdata","msgid":"Edward Hudson","msgstr":"Эдвард Хадсон"}
+{"msgctxt":"npcdata","msgid":"Egor Ivanovich","msgstr":"Егор Иванович"}
+{"msgctxt":"npcdata","msgid":"Eithian ","msgstr":"Эйтиан"}
+{"msgctxt":"npcdata","msgid":"Eleanor Vanderbilt","msgstr":"Элеонора Вандербильт"}
+{"msgctxt":"npcdata","msgid":"ElfKing","msgstr":"Король эльфов"}
+{"msgctxt":"npcdata","msgid":"Elgar Fellmoon","msgstr":"Эльгар Феллмун"}
+{"msgctxt":"npcdata","msgid":"Elijah Skylark","msgstr":"Илья Скайларк"}
+{"msgctxt":"npcdata","msgid":"Ellen Rockway","msgstr":"Эллен Роквей"}
+{"msgctxt":"npcdata","msgid":"Elmo the Pincher","msgstr":"Эльмо Щипач"}
+{"msgctxt":"npcdata","msgid":"Elsbeth Lamentia","msgstr":"Элсбет Ламентиа"}
+{"msgctxt":"npcdata","msgid":"Elsie Apple","msgstr":"Элси Эппл"}
+{"msgctxt":"npcdata","msgid":"Elsie Freedman","msgstr":"Элси Фридман"}
+{"msgctxt":"npcdata","msgid":"Elsie Pederton","msgstr":"Элси Педертон"}
+{"msgctxt":"npcdata","msgid":"Elton Astrogate","msgstr":"Элтон Астрогейт"}
+{"msgctxt":"npcdata","msgid":"Elzbet Roggen","msgstr":"Элсбет Рогген"}
+{"msgctxt":"npcdata","msgid":"Elzbet Winterspoon","msgstr":"Элзбет Винтерспун"}
+{"msgctxt":"npcdata","msgid":"Ember","msgstr":"Янтарь"}
+{"msgctxt":"npcdata","msgid":"Emil Lime","msgstr":"Эмиль Лайм"}
+{"msgctxt":"npcdata","msgid":"Emma Terrance","msgstr":"Эмма Терранс"}
+{"msgctxt":"npcdata","msgid":"Emmanuel Cravitz","msgstr":"Эммануил Кравиц"}
+{"msgctxt":"npcdata","msgid":"Enoch Highridge","msgstr":"Энок Хайридж"}
+{"msgctxt":"npcdata","msgid":"Eric Heffron","msgstr":"Эрик Хеффрон"}
+{"msgctxt":"npcdata","msgid":"Eric Swarrel","msgstr":"Эрик Своррел"}
+{"msgctxt":"npcdata","msgid":"Eric Williamson","msgstr":"Эрик Вильямсон"}
+{"msgctxt":"npcdata","msgid":"Erik Jarblower","msgstr":"Эрик Хвастун"}
+{"msgctxt":"npcdata","msgid":"Erik Salzburg","msgstr":"Эрик Зальцбург"}
+{"msgctxt":"npcdata","msgid":"Erik Von Stromgard","msgstr":"Эрик Ван Стронгард"}
+{"msgctxt":"npcdata","msgid":"Ernie Gallardo","msgstr":"Эрни Галлардо"}
+{"msgctxt":"npcdata","msgid":"Errol Ostermann","msgstr":"Эрол Остерман"}
+{"msgctxt":"npcdata","msgid":"Erthint","msgstr":"Эртинт"}
+{"msgctxt":"npcdata","msgid":"Escaton","msgstr":"Эскатон"}
+{"msgctxt":"npcdata","msgid":"Ethan Hillsman","msgstr":"Этен Хиллсмэн"}
+{"msgctxt":"npcdata","msgid":"Ethan Lightsworn","msgstr":"Этан Лайтсворн"}
+{"msgctxt":"npcdata","msgid":"Ethel Armstrong","msgstr":"Этель Армстронг"}
+{"msgctxt":"npcdata","msgid":"Euclid Kepler","msgstr":"Евклид Кеплер"}
+{"msgctxt":"npcdata","msgid":"Eunbo Kim","msgstr":"Онбо Ким"}
+{"msgctxt":"npcdata","msgid":"Eva Semple","msgstr":"Ева Семпл"}
+{"msgctxt":"npcdata","msgid":"Evandar Lotts","msgstr":"Эвендар Лоттс"}
+{"msgctxt":"npcdata","msgid":"Evandar Thomas","msgstr":"Эвандар Томас"}
+{"msgctxt":"npcdata","msgid":"Evenblaze","msgstr":"Равновеликий"}
+{"msgctxt":"npcdata","msgid":"Everil Nightwalker","msgstr":"Эверил Найтвокер"}
+{"msgctxt":"npcdata","msgid":"Ex-captain Terrence","msgstr":"Капитан в отставке Терренс"}
+{"msgctxt":"npcdata","msgid":"Expert Blaster","msgstr":"Эксперт Бластера"}
+{"msgctxt":"npcdata","msgid":"Expert Diplomacy","msgstr":"Эксперт по дипломатии"}
+{"msgctxt":"npcdata","msgid":"Expert Thievery","msgstr":"Экспертное воровство"}
+{"msgctxt":"npcdata","msgid":"Fabian Sun","msgstr":"Фабиан Сан"}
+{"msgctxt":"npcdata","msgid":"Faerie King","msgstr":"Король фей"}
+{"msgctxt":"npcdata","msgid":"Faith Kellenmoor","msgstr":"Фейт Келленмур"}
+{"msgctxt":"npcdata","msgid":"Fake Loren","msgstr":"Лже - Лорен"}
+{"msgctxt":"npcdata","msgid":"Falagar","msgstr":"Фалагар"}
+{"msgctxt":"npcdata","msgid":"Farhill Snapfinger","msgstr":"Фархиль Пальцелом"}
+{"msgctxt":"npcdata","msgid":"Fausil Keldin","msgstr":"Фазиль Келдин"}
+{"msgctxt":"npcdata","msgid":"Fedwin Dervish","msgstr":"Федвин Дервиш"}
+{"msgctxt":"npcdata","msgid":"Fedwin Smithson","msgstr":"Федвин Смитсон"}
+{"msgctxt":"npcdata","msgid":"Feldin Urthsmite","msgstr":"Фелдин Уртсмайт"}
+{"msgctxt":"npcdata","msgid":"Feldspar Toolmen","msgstr":"Фельдспар Тулмен"}
+{"msgctxt":"npcdata","msgid":"Fenella Ferne","msgstr":"Фенелла Ферн"}
+{"msgctxt":"npcdata","msgid":"Fenton Iverson","msgstr":"Фентон Иверсон"}
+{"msgctxt":"npcdata","msgid":"Fenton Krewlen","msgstr":"Фентон Крюлен"}
+{"msgctxt":"npcdata","msgid":"Ferdinand Visconti","msgstr":"Фердинант Висконти"}
+{"msgctxt":"npcdata","msgid":"Fernando Castillo","msgstr":"Фернандо Кастильо"}
+{"msgctxt":"npcdata","msgid":"Ferris","msgstr":"Феррис"}
+{"msgctxt":"npcdata","msgid":"Ferris Oxhide","msgstr":"Феррис Оксид"}
+{"msgctxt":"npcdata","msgid":"Fishner Thomb","msgstr":"Фишнер Томб"}
+{"msgctxt":"npcdata","msgid":"Flamdring","msgstr":"Фламдринг"}
+{"msgctxt":"npcdata","msgid":"Fletcher Tormengast","msgstr":"Флетчер Торменгаст"}
+{"msgctxt":"npcdata","msgid":"Florimel Evylen","msgstr":"Флоримел Эвилен"}
+{"msgctxt":"npcdata","msgid":"Flossie Setering","msgstr":"Флосси Сетеринг"}
+{"msgctxt":"npcdata","msgid":"Flynn Arin","msgstr":"Флинн Эрин"}
+{"msgctxt":"npcdata","msgid":"Flynn Shador","msgstr":"Флинн Шадор"}
+{"msgctxt":"npcdata","msgid":"Forrest Suthers","msgstr":"Форрест Сутерс"}
+{"msgctxt":"npcdata","msgid":"Frank Fairchild","msgstr":"Франк Фейрчальд"}
+{"msgctxt":"npcdata","msgid":"Frederick Org","msgstr":"Фредерик Орг"}
+{"msgctxt":"npcdata","msgid":"Fredrick Piles","msgstr":"Фредерик Пайлс"}
+{"msgctxt":"npcdata","msgid":"Fredrick Talimere","msgstr":"Фредерик Талимер"}
+{"msgctxt":"npcdata","msgid":"Gabe Lester","msgstr":"Гейб Лестер"}
+{"msgctxt":"npcdata","msgid":"Gabriel Cartman","msgstr":"Габриэль Картман"}
+{"msgctxt":"npcdata","msgid":"Gail Ashtengard","msgstr":"Гейл Аштенгард"}
+{"msgctxt":"npcdata","msgid":"Galvinus","msgstr":"Гальвинус"}
+{"msgctxt":"npcdata","msgid":"Gareth Lifter","msgstr":"Гарет Лифтэр"}
+{"msgctxt":"npcdata","msgid":"Gareth the Fixer","msgstr":"Гарет Умелец"}
+{"msgctxt":"npcdata","msgid":"Garic Hawthorne","msgstr":"Гарик Хоторн"}
+{"msgctxt":"npcdata","msgid":"Garic Senjac","msgstr":"Гэрик Сеньяк"}
+{"msgctxt":"npcdata","msgid":"Garion Ramiez","msgstr":"Гарион Рамирез"}
+{"msgctxt":"npcdata","msgid":"Garret Deverro","msgstr":"Гаррет Деверро"}
+{"msgctxt":"npcdata","msgid":"Garret Dotes","msgstr":"Гаррет Доутс"}
+{"msgctxt":"npcdata","msgid":"Garret Mistspring","msgstr":"Гаррет Мистспринг"}
+{"msgctxt":"npcdata","msgid":"Gary Zimm","msgstr":"Гэри Зимм"}
+{"msgctxt":"npcdata","msgid":"Gavin Magnus","msgstr":"Гэвин Магнус "}
+{"msgctxt":"npcdata","msgid":"Gayle","msgstr":"Гейл"}
+{"msgctxt":"npcdata","msgid":"Geofery Hamic","msgstr":"Жоффрей Хамик"}
+{"msgctxt":"npcdata","msgid":"Geoff Southy","msgstr":"Джефф Саути"}
+{"msgctxt":"npcdata","msgid":"George Almond","msgstr":"Джордж Альмонд"}
+{"msgctxt":"npcdata","msgid":"George Ruof","msgstr":"Джордж Руоф"}
+{"msgctxt":"npcdata","msgid":"Gerrold Dane","msgstr":"Джеррольд Дейн"}
+{"msgctxt":"npcdata","msgid":"Gertrude Whaler","msgstr":"Гертруда Валер"}
+{"msgctxt":"npcdata","msgid":"Gethric Mercutura","msgstr":"Кетрик Меркутура"}
+{"msgctxt":"npcdata","msgid":"Ghim Hammond","msgstr":"Гим Хаммонд"}
+{"msgctxt":"npcdata","msgid":"Ghost of Balthasar","msgstr":"Призрак Бальтазара"}
+{"msgctxt":"npcdata","msgid":"Ghost of John Silver","msgstr":"Призрак Джона Сильвера"}
+{"msgctxt":"npcdata","msgid":"Gibere","msgstr":"Жибер"}
+{"msgctxt":"npcdata","msgid":"Gilad Bith","msgstr":"Джилад Бит"}
+{"msgctxt":"npcdata","msgid":"Gilad Dreamwright","msgstr":"Гилад Кузнец Снов"}
+{"msgctxt":"npcdata","msgid":"Gilbert Hammer","msgstr":"Жильбер Хаммер"}
+{"msgctxt":"npcdata","msgid":"Giliyan Redfern","msgstr":"Джиллиан Редферн"}
+{"msgctxt":"npcdata","msgid":"Gina Barnes","msgstr":"Джина Барнс"}
+{"msgctxt":"npcdata","msgid":"Ginger Astor","msgstr":"Джинжер Астор"}
+{"msgctxt":"npcdata","msgid":"Gizmo Bertram ","msgstr":"Джизмо Бертрам"}
+{"msgctxt":"npcdata","msgid":"Gnimish Goroth","msgstr":"Гнимиш Горот"}
+{"msgctxt":"npcdata","msgid":"Gohei Matsu","msgstr":"Гохей Матсу"}
+{"msgctxt":"npcdata","msgid":"Golem","msgstr":"Голем"}
+{"msgctxt":"npcdata","msgid":"Gonzalo Ramirez","msgstr":"Гонзало Рамирес"}
+{"msgctxt":"npcdata","msgid":"Gordon Styles","msgstr":"Гордон Стайлс"}
+{"msgctxt":"npcdata","msgid":"Graham Dancey","msgstr":"Грахэм Данси"}
+{"msgctxt":"npcdata","msgid":"Gralkor the Cruel","msgstr":"Гралкор Жестокий"}
+{"msgctxt":"npcdata","msgid":"Grand Master Blaster","msgstr":"Великий магистр Бластера"}
+{"msgctxt":"npcdata","msgid":"Grand Master Thievery","msgstr":"Магистерское воровство"}
+{"msgctxt":"npcdata","msgid":"Grant Valandir","msgstr":"Грант Валандир"}
+{"msgctxt":"npcdata","msgid":"Greg Fulton","msgstr":"Грег Фултон"}
+{"msgctxt":"npcdata","msgid":"Gregory Mist","msgstr":"Грегори Мист"}
+{"msgctxt":"npcdata","msgid":"Gregory Weider","msgstr":"Грегори Вейдер"}
+{"msgctxt":"npcdata","msgid":"Gretchen Fallzen","msgstr":"Гретхен Фальцен"}
+{"msgctxt":"npcdata","msgid":"Gretchin Fiddlebone","msgstr":"Гретхен Фидлбоун"}
+{"msgctxt":"npcdata","msgid":"Gretchin Nevermore","msgstr":"Гретчин Невермор"}
+{"msgctxt":"npcdata","msgid":"Griven","msgstr":"Гривен"}
+{"msgctxt":"npcdata","msgid":"Guard","msgstr":"Стражник"}
+{"msgctxt":"npcdata","msgid":"Gus Smedstad ","msgstr":"Гус Смедстат"}
+{"msgctxt":"npcdata","msgid":"Guthwulf","msgstr":"Гулвульф"}
+{"msgctxt":"npcdata","msgid":"Guy Hampton","msgstr":"Гай Хэмптон"}
+{"msgctxt":"npcdata","msgid":"Hairbaugh","msgstr":"Хейрбау"}
+{"msgctxt":"npcdata","msgid":"Halain Sampson","msgstr":"Халейн Сэмпсон"}
+{"msgctxt":"npcdata","msgid":"Halfgild Wynac","msgstr":"Хавгилд Вайнак"}
+{"msgctxt":"npcdata","msgid":"Halian Eversmyle","msgstr":"Галиен Эверсмайл"}
+{"msgctxt":"npcdata","msgid":"Halian Nevermore","msgstr":"Халиан Невемор"}
+{"msgctxt":"npcdata","msgid":"Hallien","msgstr":"Хэллин"}
+{"msgctxt":"npcdata","msgid":"Hans Gifford","msgstr":"Ганс Гиффорд"}
+{"msgctxt":"npcdata","msgid":"Hans Schultz","msgstr":"Ганс Шульц"}
+{"msgctxt":"npcdata","msgid":"Harli Quinn","msgstr":"Харли Квинн"}
+{"msgctxt":"npcdata","msgid":"Harold Amwen","msgstr":"Харольд Амвен"}
+{"msgctxt":"npcdata","msgid":"Harold Hess","msgstr":"Харольд Гесс"}
+{"msgctxt":"npcdata","msgid":"Harper Collins","msgstr":"Харпер Коллинз"}
+{"msgctxt":"npcdata","msgid":"Harper Nike","msgstr":"Харпер Найк"}
+{"msgctxt":"npcdata","msgid":"Harriet Waters","msgstr":"Хариетта Вотерс"}
+{"msgctxt":"npcdata","msgid":"Harry Merit","msgstr":"Гарри Мерит"}
+{"msgctxt":"npcdata","msgid":"Heather Cardron","msgstr":"Хитер Кардрон"}
+{"msgctxt":"npcdata","msgid":"Heather Dreamwright","msgstr":"Хитер Дримрайт"}
+{"msgctxt":"npcdata","msgid":"Heather Goblinreaver","msgstr":"Хитер Гоблинривер"}
+{"msgctxt":"npcdata","msgid":"Heather Hughes","msgstr":"Хитер Хьюз"}
+{"msgctxt":"npcdata","msgid":"Heather Mitchell","msgstr":"Хитер Митчелл"}
+{"msgctxt":"npcdata","msgid":"Hector Dragged","msgstr":"Гектор Драггед"}
+{"msgctxt":"npcdata","msgid":"Heidi Strumper","msgstr":"Хайди Стумпер"}
+{"msgctxt":"npcdata","msgid":"Hejaz Mawsil","msgstr":"Хейяц Моусил"}
+{"msgctxt":"npcdata","msgid":"Helen Teal","msgstr":"Хелен Тил"}
+{"msgctxt":"npcdata","msgid":"Helena Morningstar","msgstr":"Хелена Морнингстар"}
+{"msgctxt":"npcdata","msgid":"Helga Steeleye","msgstr":"Хельга Стилай"}
+{"msgctxt":"npcdata","msgid":"Helga Whitesky","msgstr":"Хельга Вайтскай"}
+{"msgctxt":"npcdata","msgid":"Helius","msgstr":"Гелиос"}
+{"msgctxt":"npcdata","msgid":"Herald Foestryke","msgstr":"Гарольд Фострайк"}
+{"msgctxt":"npcdata","msgid":"Herald Whitecap","msgstr":"Джеральд Белый Колпак"}
+{"msgctxt":"npcdata","msgid":"Hevatia Deverbero","msgstr":"Геватия Деверберо"}
+{"msgctxt":"npcdata","msgid":"Hiss","msgstr":"Шшш"}
+{"msgctxt":"npcdata","msgid":"Hitomi Mirumoto","msgstr":"Хитоми Мирумото"}
+{"msgctxt":"npcdata","msgid":"Hobb Sandwind","msgstr":"Хобб Сэндвинд"}
+{"msgctxt":"npcdata","msgid":"Hobert","msgstr":"Хоберт"}
+{"msgctxt":"npcdata","msgid":"Holden","msgstr":"Холден"}
+{"msgctxt":"npcdata","msgid":"Hollis Stormeye","msgstr":"Холлис Глаз Бури"}
+{"msgctxt":"npcdata","msgid":"Hollis the True","msgstr":"Холлис Верный"}
+{"msgctxt":"npcdata","msgid":"Holly Struthers","msgstr":"Холли Струтерс"}
+{"msgctxt":"npcdata","msgid":"Horace Rose","msgstr":"Гораций Роуз"}
+{"msgctxt":"npcdata","msgid":"Hothfarr IX","msgstr":"Готфарр IX"}
+{"msgctxt":"npcdata","msgid":"Hugger Brother","msgstr":"Хаггер Бразер"}
+{"msgctxt":"npcdata","msgid":"Husk","msgstr":"Хаск"}
+{"msgctxt":"npcdata","msgid":"Ian Bullard","msgstr":"Ян Баллард"}
+{"msgctxt":"npcdata","msgid":"Ian Trom","msgstr":"Ян Тром"}
+{"msgctxt":"npcdata","msgid":"Icarus Dire","msgstr":"Икарус Дайр"}
+{"msgctxt":"npcdata","msgid":"Ich ","msgstr":"Ич"}
+{"msgctxt":"npcdata","msgid":"Igor","msgstr":"Игорь "}
+{"msgctxt":"npcdata","msgid":"Ike Pargrew","msgstr":"Ике Паргрю"}
+{"msgctxt":"npcdata","msgid":"Illene Farswell","msgstr":"Иллен Фарсвелл"}
+{"msgctxt":"npcdata","msgid":"Indihir Vilandi","msgstr":"Индигир Виланди"}
+{"msgctxt":"npcdata","msgid":"Infaustus ","msgstr":"Инфаустус"}
+{"msgctxt":"npcdata","msgid":"Infernon","msgstr":"Инфернон"}
+{"msgctxt":"npcdata","msgid":"Inja Yew","msgstr":"Иня Ю"}
+{"msgctxt":"npcdata","msgid":"Irabelle Hunter","msgstr":"Ирабелла Хантер"}
+{"msgctxt":"npcdata","msgid":"Irbil Baktarian","msgstr":"Ирбил Бактариан"}
+{"msgctxt":"npcdata","msgid":"Iris Amble","msgstr":"Ирис Эмбл"}
+{"msgctxt":"npcdata","msgid":"Iris Poppyfield","msgstr":"Ирис Поппифилд"}
+{"msgctxt":"npcdata","msgid":"Irving Kull","msgstr":"Ирвин Кулл"}
+{"msgctxt":"npcdata","msgid":"Isaac Rockwell","msgstr":"Исаак Роквелл"}
+{"msgctxt":"npcdata","msgid":"Isaac Streetman","msgstr":"Исаак Стритман"}
+{"msgctxt":"npcdata","msgid":"Isao Magistrus","msgstr":"Исао Магиструс"}
+{"msgctxt":"npcdata","msgid":"Isao Tizare","msgstr":"Исао Тизаре"}
+{"msgctxt":"npcdata","msgid":"Ishton","msgstr":"Иштон"}
+{"msgctxt":"npcdata","msgid":"Isram Delver","msgstr":"Исрам Дельвер"}
+{"msgctxt":"npcdata","msgid":"Isram Gallowswell","msgstr":"Исрам Галлоусвелл"}
+{"msgctxt":"npcdata","msgid":"Issac Applebee","msgstr":"Исаак Эпплби"}
+{"msgctxt":"npcdata","msgid":"Isthric the Tongue","msgstr":"Истрик Языкастый"}
+{"msgctxt":"npcdata","msgid":"Ithilgore","msgstr":"Итильгор"}
+{"msgctxt":"npcdata","msgid":"Ivan Magyar","msgstr":"Иван Мадьяр"}
+{"msgctxt":"npcdata","msgid":"Jack Crow","msgstr":"Джек Кроу"}
+{"msgctxt":"npcdata","msgid":"Jack Russell","msgstr":"Джек Рассел"}
+{"msgctxt":"npcdata","msgid":"Jack Van Imp","msgstr":"Джек Ван Имп"}
+{"msgctxt":"npcdata","msgid":"Jacques Kohl","msgstr":"Жак Коль"}
+{"msgctxt":"npcdata","msgid":"Jacques Roscomon","msgstr":"Жак Роскомон"}
+{"msgctxt":"npcdata","msgid":"Jake","msgstr":"Джейк "}
+{"msgctxt":"npcdata","msgid":"Jake Green","msgstr":"Джейк Грин"}
+{"msgctxt":"npcdata","msgid":"James Dickinson","msgstr":"Джеймс Диккинсон"}
+{"msgctxt":"npcdata","msgid":"Janet Thomas","msgstr":"Жанетт Томас"}
+{"msgctxt":"npcdata","msgid":"Janice","msgstr":"Жанис "}
+{"msgctxt":"npcdata","msgid":"Jarrena Marmon","msgstr":"Яррена Мармун"}
+{"msgctxt":"npcdata","msgid":"Jasmine Jeavers","msgstr":"Жасмин Живерс"}
+{"msgctxt":"npcdata","msgid":"Jasmine Spicer","msgstr":"Жасмин Спайсер"}
+{"msgctxt":"npcdata","msgid":"Jason Duster","msgstr":"Джейсон Дастер"}
+{"msgctxt":"npcdata","msgid":"Jason Traveler","msgstr":"Джейсон Травелер"}
+{"msgctxt":"npcdata","msgid":"Jasp Hunter","msgstr":"Джасп Хантер"}
+{"msgctxt":"npcdata","msgid":"Jasp Thelbourne","msgstr":"Джасп Телбурн"}
+{"msgctxt":"npcdata","msgid":"Jasp the Nightcrawler","msgstr":"Ясп Найткроулер"}
+{"msgctxt":"npcdata","msgid":"Jasper Fissure","msgstr":"Яспер Фиссур"}
+{"msgctxt":"npcdata","msgid":"Jasper Rice","msgstr":"Яспер Райс"}
+{"msgctxt":"npcdata","msgid":"Jasper Steelcoif","msgstr":"Джаспер Стиллкойф"}
+{"msgctxt":"npcdata","msgid":"Jasper Welman","msgstr":"Яспер Велман"}
+{"msgctxt":"npcdata","msgid":"Jayce Kedrin","msgstr":"Джейс Кедрин"}
+{"msgctxt":"npcdata","msgid":"Jaycen Keldin","msgstr":"Джейсен Келдин"}
+{"msgctxt":"npcdata","msgid":"Jaycin Cardron","msgstr":"Джейсин Кардрон"}
+{"msgctxt":"npcdata","msgid":"Jaycin Suretrail","msgstr":"Джейсин Шуртрейл"}
+{"msgctxt":"npcdata","msgid":"Jean Acton","msgstr":"Джин Актон"}
+{"msgctxt":"npcdata","msgid":"Jed Morrison","msgstr":"Джед Моррисон"}
+{"msgctxt":"npcdata","msgid":"Jeff Bigman","msgstr":"Джефф Бигман"}
+{"msgctxt":"npcdata","msgid":"Jeff Blattner","msgstr":"Джефф Блатнер"}
+{"msgctxt":"npcdata","msgid":"Jeff Leggett","msgstr":"Джефф Леге"}
+{"msgctxt":"npcdata","msgid":"Jeni Swiftfoot","msgstr":"Джени Свифтфут"}
+{"msgctxt":"npcdata","msgid":"Jennifer Bullard","msgstr":"Дженнифер Баллард"}
+{"msgctxt":"npcdata","msgid":"Jennifer Herzl","msgstr":"Дженифер Герц"}
+{"msgctxt":"npcdata","msgid":"Jeric Whistlebone","msgstr":"Джерик Уислбон"}
+{"msgctxt":"npcdata","msgid":"Jerin Flame-eye","msgstr":"Джерин Глаз Огня"}
+{"msgctxt":"npcdata","msgid":"Jessica Carson","msgstr":"Джессика Карсон"}
+{"msgctxt":"npcdata","msgid":"Jezebel","msgstr":"Йезебель"}
+{"msgctxt":"npcdata","msgid":"Jillian Applebee","msgstr":"Джиллиэн Пчелка"}
+{"msgctxt":"npcdata","msgid":"Jillian Mithrit","msgstr":"Джиллиан Митрит"}
+{"msgctxt":"npcdata","msgid":"Jo Handlebaum","msgstr":"Джо Хандельбаум"}
+{"msgctxt":"npcdata","msgid":"Joanne Cravitz","msgstr":"Джоанна Кравиц"}
+{"msgctxt":"npcdata","msgid":"Jobber ","msgstr":"Джоббер"}
+{"msgctxt":"npcdata","msgid":"Jobber Thain","msgstr":"Йоббер Тейн"}
+{"msgctxt":"npcdata","msgid":"Joe McGuffin","msgstr":"Джо МакГаффин"}
+{"msgctxt":"npcdata","msgid":"Joel Kelly ","msgstr":"Джоэль Келли"}
+{"msgctxt":"npcdata","msgid":"Johann Kerrid","msgstr":"Иоханн Керрид"}
+{"msgctxt":"npcdata","msgid":"Johanson Kern","msgstr":"Йохансон Керн"}
+{"msgctxt":"npcdata","msgid":"John Bolton","msgstr":"Джон Болтон"}
+{"msgctxt":"npcdata","msgid":"John Gibson","msgstr":"Джон Гибсон"}
+{"msgctxt":"npcdata","msgid":"John Krause","msgstr":"Джон Краузе"}
+{"msgctxt":"npcdata","msgid":"John Machin","msgstr":"Джон Макин"}
+{"msgctxt":"npcdata","msgid":"John Machin (Mac)","msgstr":"Джон Машин (Мак)"}
+{"msgctxt":"npcdata","msgid":"John Slowsky","msgstr":"Джон Словский"}
+{"msgctxt":"npcdata","msgid":"John Tuck","msgstr":"Джон Так"}
+{"msgctxt":"npcdata","msgid":"Jon Van Caneghem","msgstr":"Джон Ван Канегем"}
+{"msgctxt":"npcdata","msgid":"Josef Logger","msgstr":"Джозеф Логгер"}
+{"msgctxt":"npcdata","msgid":"Joseph Buron","msgstr":"Джозеф Бурон"}
+{"msgctxt":"npcdata","msgid":"Journey","msgstr":"Джорни"}
+{"msgctxt":"npcdata","msgid":"Joy Brown","msgstr":"Джой Браун"}
+{"msgctxt":"npcdata","msgid":"Judge Fairweather","msgstr":"Судья Фейрвезер"}
+{"msgctxt":"npcdata","msgid":"Judge Grey","msgstr":"Судья Грей"}
+{"msgctxt":"npcdata","msgid":"Judge Sleen","msgstr":"Судья Слин"}
+{"msgctxt":"npcdata","msgid":"Judith Shoemaker","msgstr":"Юдифь Шомейкер"}
+{"msgctxt":"npcdata","msgid":"Jules Miles","msgstr":"Жуль Майлз"}
+{"msgctxt":"npcdata","msgid":"Julia Ulano","msgstr":"Джулия Улано"}
+{"msgctxt":"npcdata","msgid":"Julian Greensward","msgstr":"Джулиан Гринсвард"}
+{"msgctxt":"npcdata","msgid":"Julian the Delver","msgstr":"Джулиан копатель"}
+{"msgctxt":"npcdata","msgid":"Julie Cooper","msgstr":"Джули Купер"}
+{"msgctxt":"npcdata","msgid":"Jult Bandito","msgstr":"Жульт Бандито"}
+{"msgctxt":"npcdata","msgid":"Just_A_Brain","msgstr":"Прос_О_Мозг"}
+{"msgctxt":"npcdata","msgid":"Kachiko Toranaga","msgstr":"Кашико Торагана"}
+{"msgctxt":"npcdata","msgid":"Kai Lian","msgstr":"Кай Лиан"}
+{"msgctxt":"npcdata","msgid":"Kaine","msgstr":"Кейн"}
+{"msgctxt":"npcdata","msgid":"Karanya Memoria","msgstr":"Каранья Мемориа"}
+{"msgctxt":"npcdata","msgid":"Karl Drown","msgstr":"Карл Драун"}
+{"msgctxt":"npcdata","msgid":"Karla Nirses","msgstr":"Калла Нирсес"}
+{"msgctxt":"npcdata","msgid":"Karla Ravenhair","msgstr":"Карла Равенхейр"}
+{"msgctxt":"npcdata","msgid":"Karlin Arachnia","msgstr":"Карлин Арахниа"}
+{"msgctxt":"npcdata","msgid":"Karlin Ivers","msgstr":"Карлин Иверс"}
+{"msgctxt":"npcdata","msgid":"Karlin Talion","msgstr":"Карлин Талион"}
+{"msgctxt":"npcdata","msgid":"Karn Bowes","msgstr":"Керн Боувз"}
+{"msgctxt":"npcdata","msgid":"Karn Stonecleaver","msgstr":"Карн Стоунклевер"}
+{"msgctxt":"npcdata","msgid":"Karzon Skyefyre","msgstr":"Карсон Скайфайр"}
+{"msgctxt":"npcdata","msgid":"Kastore","msgstr":"Кастор"}
+{"msgctxt":"npcdata","msgid":"Kate Vanover","msgstr":"Кейт Вановер"}
+{"msgctxt":"npcdata","msgid":"Kathleen Mester","msgstr":"Катлин Местер"}
+{"msgctxt":"npcdata","msgid":"Keith Francart","msgstr":"Кит Франкарт"}
+{"msgctxt":"npcdata","msgid":"Keith Talanay","msgstr":"Кит Таланей"}
+{"msgctxt":"npcdata","msgid":"Keldon","msgstr":"Келдон"}
+{"msgctxt":"npcdata","msgid":"Kelli Hollyfield","msgstr":"Келли Холифилд"}
+{"msgctxt":"npcdata","msgid":"Kelli Lightfingers","msgstr":"Келли Лайтфингерс"}
+{"msgctxt":"npcdata","msgid":"Kelly Garnet","msgstr":"Келли Гарнет"}
+{"msgctxt":"npcdata","msgid":"Kelvin","msgstr":"Келвин"}
+{"msgctxt":"npcdata","msgid":"Ken Chomais","msgstr":"Кен Хомаис"}
+{"msgctxt":"npcdata","msgid":"Ken Spencer","msgstr":"Кен Спенсер"}
+{"msgctxt":"npcdata","msgid":"Ken Thomson","msgstr":"Кен Томсон"}
+{"msgctxt":"npcdata","msgid":"Kenneth Otterton","msgstr":"Кеннет Оттертон"}
+{"msgctxt":"npcdata","msgid":"Kenneth Wain","msgstr":"Кеннет Вейн"}
+{"msgctxt":"npcdata","msgid":"Kent Williams","msgstr":"Кент Вильямс"}
+{"msgctxt":"npcdata","msgid":"Kerin Bremen","msgstr":"Керин Бремен"}
+{"msgctxt":"npcdata","msgid":"Kerin Greydawn","msgstr":"Керин Грейдон"}
+{"msgctxt":"npcdata","msgid":"Kerman Murian","msgstr":"Керман Муриан"}
+{"msgctxt":"npcdata","msgid":"Kern Carnegie","msgstr":"Керн Карнеги"}
+{"msgctxt":"npcdata","msgid":"Kethric Otterton","msgstr":"Кеттер Оттертон"}
+{"msgctxt":"npcdata","msgid":"Kethric Tarent","msgstr":"Кэтрик Тарент"}
+{"msgctxt":"npcdata","msgid":"Kethry Dawnsglow","msgstr":"Кетри Донсглоу"}
+{"msgctxt":"npcdata","msgid":"Kethry Treasurestone","msgstr":"Кэтрин Трэжерстоун"}
+{"msgctxt":"npcdata","msgid":"Kevin Watch","msgstr":"Кевин Уотч"}
+{"msgctxt":"npcdata","msgid":"Ki Lo Nee","msgstr":"Ки Ло Ни"}
+{"msgctxt":"npcdata","msgid":"Kim Astrogate","msgstr":"Ким Астрогейт"}
+{"msgctxt":"npcdata","msgid":"Kindle Fellburn","msgstr":"Флэш Фелбурн"}
+{"msgctxt":"npcdata","msgid":"Kindle Treasurestone","msgstr":"Киндл Трежурстоун"}
+{"msgctxt":"npcdata","msgid":"King Louis","msgstr":"Король Луис"}
+{"msgctxt":"npcdata","msgid":"King Roland","msgstr":"Король Роланд"}
+{"msgctxt":"npcdata","msgid":"Kira Cardrin","msgstr":"Кира Кардрин"}
+{"msgctxt":"npcdata","msgid":"Kira Steeleye","msgstr":"Кира Стилай"}
+{"msgctxt":"npcdata","msgid":"Klain Scarwing","msgstr":"Клейн Шрамокрылый"}
+{"msgctxt":"npcdata","msgid":"Kurt McKeever","msgstr":"Курт МакКивер"}
+{"msgctxt":"npcdata","msgid":"Kyle Lutvig","msgstr":"Кайл Лютвиг"}
+{"msgctxt":"npcdata","msgid":"Kyra Sparkmen","msgstr":"Кира Спаркмен"}
+{"msgctxt":"npcdata","msgid":"Kyra Stormeye","msgstr":"Кира Стормай"}
+{"msgctxt":"npcdata","msgid":"Lady Carmine","msgstr":"Леди Кармин"}
+{"msgctxt":"npcdata","msgid":"Languid","msgstr":"Зануда"}
+{"msgctxt":"npcdata","msgid":"Lanshee Caverhill","msgstr":"Ланши Каверхилл"}
+{"msgctxt":"npcdata","msgid":"Lanshee Ravensight","msgstr":"Ланши Равенсайт"}
+{"msgctxt":"npcdata","msgid":"Lara Gallowswell","msgstr":"Лара Гэллоусвелл"}
+{"msgctxt":"npcdata","msgid":"Lara Stonewright","msgstr":"Лара Стоунрайт"}
+{"msgctxt":"npcdata","msgid":"Larry Dorfmann","msgstr":"Ларри Дорфман"}
+{"msgctxt":"npcdata","msgid":"Lasatin the Scarred","msgstr":"Лазатин Разитель"}
+{"msgctxt":"npcdata","msgid":"Lasiter Ravensight","msgstr":"Ласитер Рэвенсайт"}
+{"msgctxt":"npcdata","msgid":"Lasiter the Slayer","msgstr":"Ласитер Убийца"}
+{"msgctxt":"npcdata","msgid":"Lathean","msgstr":"Латеан"}
+{"msgctxt":"npcdata","msgid":"Lathius","msgstr":"Латеан"}
+{"msgctxt":"npcdata","msgid":"Lawrence Aleman","msgstr":"Лоуренс Алеман"}
+{"msgctxt":"npcdata","msgid":"Lawrence Mark","msgstr":"Лоренс Марк"}
+{"msgctxt":"npcdata","msgid":"Leah Lu","msgstr":"Леа Лу"}
+{"msgctxt":"npcdata","msgid":"Leane Shadowrunner","msgstr":"Лин Шадоураннер"}
+{"msgctxt":"npcdata","msgid":"Leane Stormlance","msgstr":"Лин Штормлэнс"}
+{"msgctxt":"npcdata","msgid":"Leda Rowan","msgstr":"Леда Роуэн"}
+{"msgctxt":"npcdata","msgid":"Lenord Nightcrawler","msgstr":"Ленорд Найткраулер"}
+{"msgctxt":"npcdata","msgid":"Lenord Skinner","msgstr":"Ленорд Скиннер"}
+{"msgctxt":"npcdata","msgid":"Leo Grant","msgstr":"Лео Грант"}
+{"msgctxt":"npcdata","msgid":"Leon Lazaru","msgstr":"Лион Лазару"}
+{"msgctxt":"npcdata","msgid":"Les Parker","msgstr":"Лес Паркер"}
+{"msgctxt":"npcdata","msgid":"Lesiah Marduk","msgstr":"Лесия Мардук"}
+{"msgctxt":"npcdata","msgid":"Li Tizare","msgstr":"Ли Тизаре"}
+{"msgctxt":"npcdata","msgid":"Licia Rivenrock","msgstr":"Лисия Ривенрок"}
+{"msgctxt":"npcdata","msgid":"Lilly June","msgstr":"Лилли Джун"}
+{"msgctxt":"npcdata","msgid":"Linda Draken","msgstr":"Линда Дракен"}
+{"msgctxt":"npcdata","msgid":"Linda Nichols","msgstr":"Линда Николс"}
+{"msgctxt":"npcdata","msgid":"Lisa Janway","msgstr":"Лиза Йанвей"}
+{"msgctxt":"npcdata","msgid":"Lisa Whitman","msgstr":"Лиза Витман"}
+{"msgctxt":"npcdata","msgid":"Lisha Redding","msgstr":"Лиша Реддинг"}
+{"msgctxt":"npcdata","msgid":"Lisha Sourbrow","msgstr":"Лиша Саурброу"}
+{"msgctxt":"npcdata","msgid":"Lita Roggen","msgstr":"Лита Рогген"}
+{"msgctxt":"npcdata","msgid":"Livia Farrel","msgstr":"Ливия Фаррел"}
+{"msgctxt":"npcdata","msgid":"Lizardman Guard","msgstr":"стражник человекоящер"}
+{"msgctxt":"npcdata","msgid":"Lizardman Peasant","msgstr":"обычный человекоящер"}
+{"msgctxt":"npcdata","msgid":"Loamwalker","msgstr":"Лоумвокер"}
+{"msgctxt":"npcdata","msgid":"Logan Dasher","msgstr":"Логан Дашер"}
+{"msgctxt":"npcdata","msgid":"Lon Miller","msgstr":"Лон Миллер"}
+{"msgctxt":"npcdata","msgid":"Long-Tail","msgstr":"Длиннохвостый"}
+{"msgctxt":"npcdata","msgid":"Lord Markham","msgstr":"Лорд Мархэм"}
+{"msgctxt":"npcdata","msgid":"Lord Roberts","msgstr":"Лорд Робертс"}
+{"msgctxt":"npcdata","msgid":"Lord of Fire","msgstr":"Лорд Огня"}
+{"msgctxt":"npcdata","msgid":"Loren Steel","msgstr":"Лорен Стил"}
+{"msgctxt":"npcdata","msgid":"Loretta Fleise","msgstr":"Леретта Флисс"}
+{"msgctxt":"npcdata","msgid":"Lori Tao","msgstr":"Лори Тао"}
+{"msgctxt":"npcdata","msgid":"Lori Vespers","msgstr":"Лори Весперс"}
+{"msgctxt":"npcdata","msgid":"Lori Winterbright","msgstr":"Лори Винтербрайт"}
+{"msgctxt":"npcdata","msgid":"Lorn Hammer","msgstr":"Лорн Хаммер"}
+{"msgctxt":"npcdata","msgid":"Lou Henderson","msgstr":"Лу Хендерсон"}
+{"msgctxt":"npcdata","msgid":"Lucid Apple","msgstr":"Люсид Эппл"}
+{"msgctxt":"npcdata","msgid":"Lucky Oster","msgstr":"Лаки Остер"}
+{"msgctxt":"npcdata","msgid":"Lunius Dawnbringer","msgstr":"Луниус Донбрингер"}
+{"msgctxt":"npcdata","msgid":"Lunius Shador","msgstr":"Луний Шадор"}
+{"msgctxt":"npcdata","msgid":"Lyle Roma","msgstr":"Лайл Рома"}
+{"msgctxt":"npcdata","msgid":"Lysander Farrel","msgstr":"Лисандер Фаррел"}
+{"msgctxt":"npcdata","msgid":"Lysander Sweet","msgstr":"Лисандр Свит"}
+{"msgctxt":"npcdata","msgid":"Macro Caligula","msgstr":"Макро Калигула"}
+{"msgctxt":"npcdata","msgid":"Maddigan the Tracker","msgstr":"Мэддиган Следопыт"}
+{"msgctxt":"npcdata","msgid":"Madeleine Towers","msgstr":"Маделена Тауэрс"}
+{"msgctxt":"npcdata","msgid":"Madigan Tarent","msgstr":"Мадиган Тарент"}
+{"msgctxt":"npcdata","msgid":"Malisha Karrand","msgstr":"Малиша Карранд"}
+{"msgctxt":"npcdata","msgid":"Marc Teagan","msgstr":"Марк Тиган"}
+{"msgctxt":"npcdata","msgid":"Marcellus Lutvig","msgstr":"Марселлиус Лютвиг"}
+{"msgctxt":"npcdata","msgid":"Marcus Pregent","msgstr":"Маркус Прегент"}
+{"msgctxt":"npcdata","msgid":"Margaret the Docent","msgstr":"Маргарита проводница"}
+{"msgctxt":"npcdata","msgid":"Maria","msgstr":"Мария"}
+{"msgctxt":"npcdata","msgid":"Maria Trepan","msgstr":"Мария Трепан"}
+{"msgctxt":"npcdata","msgid":"Mark Caldwell","msgstr":"Марк Калдвелл"}
+{"msgctxt":"npcdata","msgid":"Mark Miller","msgstr":"Марк Миллер"}
+{"msgctxt":"npcdata","msgid":"Marton Ferris","msgstr":"Мартон Феррис"}
+{"msgctxt":"npcdata","msgid":"Mary Ellen Babson","msgstr":"Мери Эллен Бабсон"}
+{"msgctxt":"npcdata","msgid":"Master Thievery","msgstr":"Мастерское воровство"}
+{"msgctxt":"npcdata","msgid":"Masul","msgstr":"Масул"}
+{"msgctxt":"npcdata","msgid":"Matric Bowes","msgstr":"Матрик Боуз"}
+{"msgctxt":"npcdata","msgid":"Matric Keenedge","msgstr":"Матрик Кинэдж"}
+{"msgctxt":"npcdata","msgid":"Matric Townsaver","msgstr":"Матрик Таунсэйвер"}
+{"msgctxt":"npcdata","msgid":"Matric Weatherson","msgstr":"Матрик Везерсон"}
+{"msgctxt":"npcdata","msgid":"Matthias Bearheart","msgstr":"Матиас Медвежье Сердце"}
+{"msgctxt":"npcdata","msgid":"Mattric Bowes","msgstr":"Маттрик Боувс"}
+{"msgctxt":"npcdata","msgid":"Maximus","msgstr":"Максимус"}
+{"msgctxt":"npcdata","msgid":"Maylander ","msgstr":"Мэйлэндер"}
+{"msgctxt":"npcdata","msgid":"Mazim Dusk","msgstr":"Мэзим Даск"}
+{"msgctxt":"npcdata","msgid":"Medwari Dragontracker","msgstr":"Медвари Драконтрекер"}
+{"msgctxt":"npcdata","msgid":"Medwari Elmsmire","msgstr":"Медвари Эльмсшир"}
+{"msgctxt":"npcdata","msgid":"Melody Silver","msgstr":"Мелоди Сильвер"}
+{"msgctxt":"npcdata","msgid":"Melody Stone","msgstr":"Мелоди Стоун"}
+{"msgctxt":"npcdata","msgid":"Menasaur ","msgstr":"Меназавр"}
+{"msgctxt":"npcdata","msgid":"Mephisto, Ancient Sorcerer","msgstr":"Мефисто, Древний Волхв"}
+{"msgctxt":"npcdata","msgid":"Messenger","msgstr":"Гонец"}
+{"msgctxt":"npcdata","msgid":"Mia Lucille","msgstr":"Миа Люсиль"}
+{"msgctxt":"npcdata","msgid":"Michael Ogilvy","msgstr":"Майкл Огилви"}
+{"msgctxt":"npcdata","msgid":"Michael Tuck","msgstr":"Майкл Так"}
+{"msgctxt":"npcdata","msgid":"Michael Wolf ","msgstr":"Майкл Вулф"}
+{"msgctxt":"npcdata","msgid":"Michele Blackshire","msgstr":"Мишель Блэкшир"}
+{"msgctxt":"npcdata","msgid":"Mihi Mihi Nanook","msgstr":"Михи Михи Нанук"}
+{"msgctxt":"npcdata","msgid":"Mikel Deerhunter","msgstr":"Мигель Дирхантер"}
+{"msgctxt":"npcdata","msgid":"Mikel Smithson","msgstr":"Микель Смитсон"}
+{"msgctxt":"npcdata","msgid":"Miles Loman","msgstr":"Майлз Ломан"}
+{"msgctxt":"npcdata","msgid":"Minotaur Peasant","msgstr":"обычный минотавр"}
+{"msgctxt":"npcdata","msgid":"Mireille Warlin","msgstr":"Мирей Варлен"}
+{"msgctxt":"npcdata","msgid":"Miriam Boyer","msgstr":"Мириам Бойер"}
+{"msgctxt":"npcdata","msgid":"Miriam Goodwife","msgstr":"Мириам Гудвайф"}
+{"msgctxt":"npcdata","msgid":"Miro Shinek","msgstr":"Миро Шинек"}
+{"msgctxt":"npcdata","msgid":"Miyon Dragontracker","msgstr":"Майон Драконтрэкер"}
+{"msgctxt":"npcdata","msgid":"Miyon the Quick","msgstr":"Мийон Быстрый"}
+{"msgctxt":"npcdata","msgid":"Mort Arnosti","msgstr":"Морт Арности"}
+{"msgctxt":"npcdata","msgid":"Mortie Bith","msgstr":"Морти Бис"}
+{"msgctxt":"npcdata","msgid":"Mortie Ottin","msgstr":"Морти Оттин"}
+{"msgctxt":"npcdata","msgid":"Morton Holovin","msgstr":"Мортон Холовин"}
+{"msgctxt":"npcdata","msgid":"Mr. Malwick","msgstr":"Г-н Мальвик"}
+{"msgctxt":"npcdata","msgid":"Mylander","msgstr":"Земляк"}
+{"msgctxt":"npcdata","msgid":"Myles Featherwind","msgstr":"Майлс Фезервинд"}
+{"msgctxt":"npcdata","msgid":"Myles Greydawn","msgstr":"Майлз Грейдон"}
+{"msgctxt":"npcdata","msgid":"Mynasia","msgstr":"Минасиа"}
+{"msgctxt":"npcdata","msgid":"Myyra Hian","msgstr":"Миира Хиан"}
+{"msgctxt":"npcdata","msgid":"Nadine Hayden","msgstr":"Надина Хайден"}
+{"msgctxt":"npcdata","msgid":"Najat Ramadi","msgstr":"Найят Рамади"}
+{"msgctxt":"npcdata","msgid":"Nalani","msgstr":"Налани"}
+{"msgctxt":"npcdata","msgid":"Naomi Highland","msgstr":"Наоми Хайланд"}
+{"msgctxt":"npcdata","msgid":"Naomi Wind","msgstr":"Наоми Винд"}
+{"msgctxt":"npcdata","msgid":"Nathaniel Roberts","msgstr":"Натаниэль "}
+{"msgctxt":"npcdata","msgid":"Neblick","msgstr":"Неблик"}
+{"msgctxt":"npcdata","msgid":"Necromancer Peasant","msgstr":"обычный некромант"}
+{"msgctxt":"npcdata","msgid":"Nelix Uriel","msgstr":"Неликс Уриэль"}
+{"msgctxt":"npcdata","msgid":"Nero Claudius","msgstr":"Ниро Клаудиус"}
+{"msgctxt":"npcdata","msgid":"Newt Headrow","msgstr":"Ньют Хедроу"}
+{"msgctxt":"npcdata","msgid":"Nicco Wargon ","msgstr":"Никко Варгон"}
+{"msgctxt":"npcdata","msgid":"Nicholas Roth","msgstr":"Николас Рот"}
+{"msgctxt":"npcdata","msgid":"Nick Fenster","msgstr":"Ник Фенстер"}
+{"msgctxt":"npcdata","msgid":"Nicolai Ironfist","msgstr":"Николай Айронфист"}
+{"msgctxt":"npcdata","msgid":"Nigan","msgstr":"Ниган"}
+{"msgctxt":"npcdata","msgid":"Nikobi","msgstr":"Никоби"}
+{"msgctxt":"npcdata","msgid":"Niles Stantley","msgstr":"Найлз Стэнтли"}
+{"msgctxt":"npcdata","msgid":"Nivek Arlond","msgstr":"Нивек Арлонд"}
+{"msgctxt":"npcdata","msgid":"Noah White","msgstr":"Ной Уайт"}
+{"msgctxt":"npcdata","msgid":"Norbert Havest","msgstr":"Норберт Хавест"}
+{"msgctxt":"npcdata","msgid":"Norbert Slayer","msgstr":"Норберт Слэйер"}
+{"msgctxt":"npcdata","msgid":"Norbert Thrush","msgstr":"Норберт Траш"}
+{"msgctxt":"npcdata","msgid":"Norio Ariganaka","msgstr":"Норио Ариганака"}
+{"msgctxt":"npcdata","msgid":"Norris ","msgstr":"Норрис "}
+{"msgctxt":"npcdata","msgid":"Norris Horton","msgstr":"Норрис Хортон"}
+{"msgctxt":"npcdata","msgid":"Nowa Morisaku","msgstr":"Нова Морисаку"}
+{"msgctxt":"npcdata","msgid":"Oberic Crane","msgstr":"Оберик Крейн"}
+{"msgctxt":"npcdata","msgid":"Oberic Nosewort","msgstr":"Оберик Ноусворт"}
+{"msgctxt":"npcdata","msgid":"Ogre Peasant","msgstr":"обычный огр"}
+{"msgctxt":"npcdata","msgid":"Olaf Berring","msgstr":"Олаф Берринг"}
+{"msgctxt":"npcdata","msgid":"Olaf Heimdall","msgstr":"Олаф Хеймдал"}
+{"msgctxt":"npcdata","msgid":"Oliver Wendell","msgstr":"Оливер Венделл"}
+{"msgctxt":"npcdata","msgid":"Olivia Trumpet","msgstr":"Оливия Трампет"}
+{"msgctxt":"npcdata","msgid":"One-Eye","msgstr":"Одноглазый"}
+{"msgctxt":"npcdata","msgid":"Oracle","msgstr":"Оракул"}
+{"msgctxt":"npcdata","msgid":"Orville Corvair","msgstr":"Орвилл Корвейр"}
+{"msgctxt":"npcdata","msgid":"Oskar Tyre","msgstr":"Оскар Тайр"}
+{"msgctxt":"npcdata","msgid":"Osric Temper","msgstr":"Озрик Темпер"}
+{"msgctxt":"npcdata","msgid":"Ostrin Grivic","msgstr":"Острин Гривич"}
+{"msgctxt":"npcdata","msgid":"Overdune Snapfinger","msgstr":"Овердюн Пальцелом"}
+{"msgctxt":"npcdata","msgid":"Overdune Snaprfinger","msgstr":"Овердюн Пальцелом"}
+{"msgctxt":"npcdata","msgid":"Pascella Tisk","msgstr":"Парцелла Тиск"}
+{"msgctxt":"npcdata","msgid":"Pat","msgstr":"Пэт"}
+{"msgctxt":"npcdata","msgid":"Pat Skylark","msgstr":"Пэт Скайларк"}
+{"msgctxt":"npcdata","msgid":"Patrice Vespers","msgstr":"Патрис Висперс"}
+{"msgctxt":"npcdata","msgid":"Patwin Darkenmore","msgstr":"Пэтвин Даркенмор"}
+{"msgctxt":"npcdata","msgid":"Patwin Fellbern","msgstr":"Пэтвин Феллберн"}
+{"msgctxt":"npcdata","msgid":"Paul Hapsburg","msgstr":"Пол Хапсбург"}
+{"msgctxt":"npcdata","msgid":"Paul Rattner","msgstr":"Пол Раттнер"}
+{"msgctxt":"npcdata","msgid":"Paula Brightspear","msgstr":"Паула Брайтспир"}
+{"msgctxt":"npcdata","msgid":"Pavel","msgstr":"Павел"}
+{"msgctxt":"npcdata","msgid":"Payge Arachnia","msgstr":"Пейдж Арахния"}
+{"msgctxt":"npcdata","msgid":"Payge Blueswan","msgstr":"Пейдж Блюсван"}
+{"msgctxt":"npcdata","msgid":"Payge Karrand","msgstr":"Пэйджи Карранд"}
+{"msgctxt":"npcdata","msgid":"Payge Rivenhill","msgstr":"Пейдж Ривенхилл"}
+{"msgctxt":"npcdata","msgid":"Peace Stringer","msgstr":"Пис Стрингер"}
+{"msgctxt":"npcdata","msgid":"Pedron Sablewood","msgstr":"Педрон Сейблвуд"}
+{"msgctxt":"npcdata","msgid":"Peggy Tish","msgstr":"Пегги Тиш"}
+{"msgctxt":"npcdata","msgid":"Peggy Woods","msgstr":"Пегги Вудз"}
+{"msgctxt":"npcdata","msgid":"Peni Pretty","msgstr":"Пени Прити"}
+{"msgctxt":"npcdata","msgid":"Peryn Lightfingers","msgstr":"Перин Лайтфингер"}
+{"msgctxt":"npcdata","msgid":"Peryn Reaverston","msgstr":"Перин Риверстон"}
+{"msgctxt":"npcdata","msgid":"Pete Ryu","msgstr":"Пит Рю"}
+{"msgctxt":"npcdata","msgid":"Peter \"Zoop\" Ryu","msgstr":"Петер Рай"}
+{"msgctxt":"npcdata","msgid":"Peter Ivanovich","msgstr":"Петр Иванович"}
+{"msgctxt":"npcdata","msgid":"Petra Cleareye","msgstr":"Петра Клеарай"}
+{"msgctxt":"npcdata","msgid":"Petra Mithrit","msgstr":"Петра Митрит"}
+{"msgctxt":"npcdata","msgid":"Phelan Sykes","msgstr":"Фелан Сайкс"}
+{"msgctxt":"npcdata","msgid":"Pip Darkstone","msgstr":"Пип Даркстоун"}
+{"msgctxt":"npcdata","msgid":"Pip Hillier","msgstr":"Пип Хиллер"}
+{"msgctxt":"npcdata","msgid":"Pirate Paul","msgstr":"Пират Пол"}
+{"msgctxt":"npcdata","msgid":"Piter Harkonnen","msgstr":"Питер Харконнен"}
+{"msgctxt":"npcdata","msgid":"Pole","msgstr":"Пол"}
+{"msgctxt":"npcdata","msgid":"Polera Skulk","msgstr":"Полера Скулк"}
+{"msgctxt":"npcdata","msgid":"Pordo","msgstr":"Пордо"}
+{"msgctxt":"npcdata","msgid":"Poundlin Deerhunter","msgstr":"Пондлин Охотник на Оленей"}
+{"msgctxt":"npcdata","msgid":"Poundlin Lotts","msgstr":"Паундин Лоттс"}
+{"msgctxt":"npcdata","msgid":"Preston Harper","msgstr":"Престон Харпер"}
+{"msgctxt":"npcdata","msgid":"Preston Steel","msgstr":"Престон Стил"}
+{"msgctxt":"npcdata","msgid":"Puddle Stone","msgstr":"Пуддл Стоун"}
+{"msgctxt":"npcdata","msgid":"Puddle Thain","msgstr":"Паддл Файн"}
+{"msgctxt":"npcdata","msgid":"Pyrannaste","msgstr":"Пираннаст"}
+{"msgctxt":"npcdata","msgid":"Qethrin Tonk","msgstr":"Кветерин Тонк"}
+{"msgctxt":"npcdata","msgid":"Qillain Laraselle","msgstr":"Квиллен Ларасель"}
+{"msgctxt":"npcdata","msgid":"Qillain Moore","msgstr":"Киллен Мур"}
+{"msgctxt":"npcdata","msgid":"Queen Catherine","msgstr":"Королева Катарина"}
+{"msgctxt":"npcdata","msgid":"Quick Jeni ","msgstr":"Квик Джени"}
+{"msgctxt":"npcdata","msgid":"Rabisa Nedlon","msgstr":"Рабиса Недлон"}
+{"msgctxt":"npcdata","msgid":"Rachel Herzl","msgstr":"Рашель Герц"}
+{"msgctxt":"npcdata","msgid":"Rainyn Rivencrest","msgstr":"Рейнин Ривенкрест"}
+{"msgctxt":"npcdata","msgid":"Ral","msgstr":"Рал"}
+{"msgctxt":"npcdata","msgid":"Randal Wolverton","msgstr":"Рэндал Вольвертон"}
+{"msgctxt":"npcdata","msgid":"Randall Norris","msgstr":"Рэндал Норрис"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 1","msgstr":"Случайный NPC карты 1"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 10","msgstr":"Случайный NPC карты 10"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 11","msgstr":"Случайный NPC карты 11"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 12","msgstr":"Случайный NPC карты 12"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 13","msgstr":"Случайный NPC карты 13"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 14","msgstr":"Случайный NPC карты 14"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 15","msgstr":"Случайный NPC карты 15"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 16","msgstr":"Случайный NPC карты 16"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 17","msgstr":"Случайный NPC карты 17"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 18","msgstr":"Случайный NPC карты 18"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 19","msgstr":"Случайный NPC карты 19"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 2","msgstr":"Случайный NPC карты 2"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 20","msgstr":"Случайный NPC карты 20"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 21","msgstr":"Случайный NPC карты 21"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 22","msgstr":"Случайный NPC карты 22"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 23","msgstr":"Случайный NPC карты 23"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 24","msgstr":"Случайный NPC карты 24"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 25","msgstr":"Случайный NPC карты 25"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 26","msgstr":"Случайный NPC карты 26"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 27","msgstr":"Случайный NPC карты 27"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 28","msgstr":"Случайный NPC карты 28"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 29","msgstr":"Случайный NPC карты 29"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 3","msgstr":"Случайный NPC карты 3"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 30","msgstr":"Случайный NPC карты 30"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 31","msgstr":"Случайный NPC карты 31"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 32","msgstr":"Случайный NPC карты 32"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 33","msgstr":"Случайный NPC карты 33"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 34","msgstr":"Случайный NPC карты 34"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 35","msgstr":"Случайный NPC карты 35"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 36","msgstr":"Случайный NPC карты 36"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 37","msgstr":"Случайный NPC карты 37"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 38","msgstr":"Случайный NPC карты 38"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 39","msgstr":"Случайный NPC карты 39"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 4","msgstr":"Случайный NPC карты 4"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 40","msgstr":"Случайный NPC карты 40"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 41","msgstr":"Случайный NPC карты 41"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 5","msgstr":"Случайный NPC карты 5"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 6","msgstr":"Случайный NPC карты 6"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 7","msgstr":"Случайный NPC карты 7"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 8","msgstr":"Случайный NPC карты 8"}
+{"msgctxt":"npcdata","msgid":"Random MapNPC 9","msgstr":"Случайный NPC карты 9"}
+{"msgctxt":"npcdata","msgid":"Raven Quicktoungue","msgstr":"Рейвен Квикстанг"}
+{"msgctxt":"npcdata","msgid":"Raven the Hunter","msgstr":"Райвен Охотник"}
+{"msgctxt":"npcdata","msgid":"Rawn Dervish","msgstr":"Роун Дервиш"}
+{"msgctxt":"npcdata","msgid":"Rawn Talreisch","msgstr":"Рон Талрейш"}
+{"msgctxt":"npcdata","msgid":"Ray Boswell","msgstr":"Рей Босвелл"}
+{"msgctxt":"npcdata","msgid":"Reaver","msgstr":"Ривер"}
+{"msgctxt":"npcdata","msgid":"Rebecca Calaway","msgstr":"Ребекка Калавей"}
+{"msgctxt":"npcdata","msgid":"Rebecca Christel","msgstr":"Ребекка Кристел"}
+{"msgctxt":"npcdata","msgid":"Rebecca Devine","msgstr":"Ребекка Дивайн"}
+{"msgctxt":"npcdata","msgid":"Rebecca Traveler","msgstr":"Ребекка Травелер"}
+{"msgctxt":"npcdata","msgid":"Red Keldin","msgstr":"Ред Келдин"}
+{"msgctxt":"npcdata","msgid":"Regina Fern","msgstr":"Регина Ферн"}
+{"msgctxt":"npcdata","msgid":"Reginald Dorray","msgstr":"Реджинальд Доррэй"}
+{"msgctxt":"npcdata","msgid":"Regnan Peasant","msgstr":"житель Регны"}
+{"msgctxt":"npcdata","msgid":"Relburn Ditch","msgstr":"Релбурн Дитч"}
+{"msgctxt":"npcdata","msgid":"Relburn Jeebes","msgstr":"Рилбурн Джибс"}
+{"msgctxt":"npcdata","msgid":"Renee Blackburn","msgstr":"Рени Блэкберн"}
+{"msgctxt":"npcdata","msgid":"Reshie ","msgstr":"Риши"}
+{"msgctxt":"npcdata","msgid":"Resurectra","msgstr":"Ресуректра"}
+{"msgctxt":"npcdata","msgid":"Revee Botania","msgstr":"Реви Ботаниа"}
+{"msgctxt":"npcdata","msgid":"Rexella ","msgstr":"Рекселла "}
+{"msgctxt":"npcdata","msgid":"Rexella Van Imp","msgstr":"Рекселла Ван Имп"}
+{"msgctxt":"npcdata","msgid":"Rhetta Mercer","msgstr":"Ретта Мерсер"}
+{"msgctxt":"npcdata","msgid":"Rich Hamburg","msgstr":"Рич Хамбург"}
+{"msgctxt":"npcdata","msgid":"Richard Harp","msgstr":"Ричард Харп"}
+{"msgctxt":"npcdata","msgid":"Rihansi","msgstr":"Рианси"}
+{"msgctxt":"npcdata","msgid":"Riki Corredera ","msgstr":"Рики Корредера"}
+{"msgctxt":"npcdata","msgid":"Rionel","msgstr":"Рионель"}
+{"msgctxt":"npcdata","msgid":"Rislyn Greenstorm","msgstr":"Рислин Гринсторм"}
+{"msgctxt":"npcdata","msgid":"Riverglass","msgstr":"Ривергласс"}
+{"msgctxt":"npcdata","msgid":"Robert Belknap","msgstr":"Роберт Белкнап"}
+{"msgctxt":"npcdata","msgid":"Robert King","msgstr":"Роберт Кинг"}
+{"msgctxt":"npcdata","msgid":"Robert Morningstar","msgstr":"Роберт Моргенштерн"}
+{"msgctxt":"npcdata","msgid":"Robert Sourbrow","msgstr":"Роберт Саурбрау"}
+{"msgctxt":"npcdata","msgid":"Robert the Wise","msgstr":"Роберт Мудрый"}
+{"msgctxt":"npcdata","msgid":"Roberta Theben","msgstr":"Роберта Тебен"}
+{"msgctxt":"npcdata","msgid":"Robin Lang","msgstr":"Робин Ланг"}
+{"msgctxt":"npcdata","msgid":"Rockwell Humdring","msgstr":"Роквелл Хумдринг"}
+{"msgctxt":"npcdata","msgid":"Rodinia Sidara","msgstr":"Родиния Сидара"}
+{"msgctxt":"npcdata","msgid":"Roger Tellmar","msgstr":"Роджер Теллмар"}
+{"msgctxt":"npcdata","msgid":"Rohani Oscleton","msgstr":"Рохани Осклетон"}
+{"msgctxt":"npcdata","msgid":"Rohtnax","msgstr":"Ротнакс"}
+{"msgctxt":"npcdata","msgid":"Roland Ironfist","msgstr":"Роланд Айронфист"}
+{"msgctxt":"npcdata","msgid":"Ronald Kinney","msgstr":"Рональд Кинни"}
+{"msgctxt":"npcdata","msgid":"Rosemarie Reyjavik","msgstr":"Розмари Рейявик"}
+{"msgctxt":"npcdata","msgid":"Rosita Alexander","msgstr":"Розита Александер"}
+{"msgctxt":"npcdata","msgid":"Roxanne Sheltan","msgstr":"Роксана Шелтан"}
+{"msgctxt":"npcdata","msgid":"Roxina Smolenska","msgstr":"Роксина Смоленска"}
+{"msgctxt":"npcdata","msgid":"Runaway Chaos","msgstr":"Беглый Хаос"}
+{"msgctxt":"npcdata","msgid":"Rus Hockwoller","msgstr":"Рус Хокволлер"}
+{"msgctxt":"npcdata","msgid":"Ryan Den","msgstr":"Райан Ден"}
+{"msgctxt":"npcdata","msgid":"Ryan Treacle","msgstr":"Райан Трикл"}
+{"msgctxt":"npcdata","msgid":"Rydric","msgstr":"Ридрик"}
+{"msgctxt":"npcdata","msgid":"S'ton","msgstr":"С'тон"}
+{"msgctxt":"npcdata","msgid":"Saad Shamel","msgstr":"Саад Шамель"}
+{"msgctxt":"npcdata","msgid":"Sahil Ittalle","msgstr":"Сахиль Иттале"}
+{"msgctxt":"npcdata","msgid":"Sal Sharktooth","msgstr":"Сал Шарктус"}
+{"msgctxt":"npcdata","msgid":"Sally","msgstr":"Салли"}
+{"msgctxt":"npcdata","msgid":"Samantha Kilvers","msgstr":"Саманта Килверс"}
+{"msgctxt":"npcdata","msgid":"Samson Tess","msgstr":"Самсон Тесс"}
+{"msgctxt":"npcdata","msgid":"Samuel Benson","msgstr":"Самюэль Бенсон"}
+{"msgctxt":"npcdata","msgid":"Samuel Jack","msgstr":"Сэмюэл Джек"}
+{"msgctxt":"npcdata","msgid":"Sandra Trudoor","msgstr":"Сандра Трудор"}
+{"msgctxt":"npcdata","msgid":"Sandro","msgstr":"Сандро"}
+{"msgctxt":"npcdata","msgid":"Saul Fogg","msgstr":"Сол Фогг"}
+{"msgctxt":"npcdata","msgid":"Schmecker","msgstr":"Шмекер"}
+{"msgctxt":"npcdata","msgid":"Scott White","msgstr":"Скотт Вайт"}
+{"msgctxt":"npcdata","msgid":"Seknit Undershadow","msgstr":"Секнит Андершадоу"}
+{"msgctxt":"npcdata","msgid":"Selena Stipe","msgstr":"Селена Страйп"}
+{"msgctxt":"npcdata","msgid":"Seline Burnkindle","msgstr":"Селин Бернкайндл"}
+{"msgctxt":"npcdata","msgid":"Seline Falconeye","msgstr":"Селин Фальконай"}
+{"msgctxt":"npcdata","msgid":"Sergio Carrington","msgstr":"Сергио Каррингтон"}
+{"msgctxt":"npcdata","msgid":"Seth Darkenmore","msgstr":"Сет Даркенмор"}
+{"msgctxt":"npcdata","msgid":"Seth Drakkson","msgstr":"Сэт Дракксон"}
+{"msgctxt":"npcdata","msgid":"Sethine Ironfist","msgstr":"Сет Айронфист"}
+{"msgctxt":"npcdata","msgid":"Sethrc Thistlebone","msgstr":"Сетрик Сислбон"}
+{"msgctxt":"npcdata","msgid":"Sethrik Fist ","msgstr":"Сезрик Фист"}
+{"msgctxt":"npcdata","msgid":"Sethrik Windsong","msgstr":"Сетрик Виндсонг"}
+{"msgctxt":"npcdata","msgid":"Shalaz Zalas","msgstr":"Шалаз Залас"}
+{"msgctxt":"npcdata","msgid":"Shalwend","msgstr":"Шальветр"}
+{"msgctxt":"npcdata","msgid":"Shamus Dawnbringer","msgstr":"Шамус Донбрингер"}
+{"msgctxt":"npcdata","msgid":"Shamus Hollyfield","msgstr":"Шамус Холифильд"}
+{"msgctxt":"npcdata","msgid":"Shane Krewlen","msgstr":"Шейн Кревлен"}
+{"msgctxt":"npcdata","msgid":"Shane Thomas","msgstr":"Шейн Томас"}
+{"msgctxt":"npcdata","msgid":"Sharla Quinn","msgstr":"Шарла Квинн"}
+{"msgctxt":"npcdata","msgid":"Sharry Carnegie","msgstr":"Шерри Карнеги"}
+{"msgctxt":"npcdata","msgid":"Sheila Loompus","msgstr":"Шейла Лумпус"}
+{"msgctxt":"npcdata","msgid":"Shel Stineway","msgstr":"Шейл Стайнвей"}
+{"msgctxt":"npcdata","msgid":"Sheldon Mist","msgstr":"Шелдон Мист"}
+{"msgctxt":"npcdata","msgid":"Sheldon Nightwood","msgstr":"Шелдон Найтвуд"}
+{"msgctxt":"npcdata","msgid":"Sherell Ivanaveh","msgstr":"Шерелл Иванаве"}
+{"msgctxt":"npcdata","msgid":"Shiara FireOpal","msgstr":"Шиара Огненный Опал"}
+{"msgctxt":"npcdata","msgid":"Shiela Wind","msgstr":"Шейла Винд"}
+{"msgctxt":"npcdata","msgid":"Shileka Toreena","msgstr":"Шилека Торина"}
+{"msgctxt":"npcdata","msgid":"Shivan Keeneye","msgstr":"Шиван Острый Глаз"}
+{"msgctxt":"npcdata","msgid":"Shoshi Pertoniki","msgstr":"Шоши Пертоники"}
+{"msgctxt":"npcdata","msgid":"Sigriv","msgstr":"Сигрив"}
+{"msgctxt":"npcdata","msgid":"Sila Daewon","msgstr":"Сила Девон"}
+{"msgctxt":"npcdata","msgid":"Silk Nightwalker","msgstr":"Силк Найтвокер"}
+{"msgctxt":"npcdata","msgid":"Silk Quicktoungue","msgstr":"Силк Квиктанг"}
+{"msgctxt":"npcdata","msgid":"Simon Templar","msgstr":"Саймон Темплар"}
+{"msgctxt":"npcdata","msgid":"Sioned Warsen","msgstr":"Сионед Варсен"}
+{"msgctxt":"npcdata","msgid":"Sir Caneghem","msgstr":"Сэр Канегхем"}
+{"msgctxt":"npcdata","msgid":"Sir Charles Quixote","msgstr":"Сэр Карл Кихот"}
+{"msgctxt":"npcdata","msgid":"Sir William Tarquin","msgstr":"Сэр Вильям Тарквин"}
+{"msgctxt":"npcdata","msgid":"Sithicus Shadowrunner","msgstr":"Ситикус Шэдоураннер"}
+{"msgctxt":"npcdata","msgid":"Slicker Silvertongue","msgstr":"Сликер Сильвертонг"}
+{"msgctxt":"npcdata","msgid":"Slovang Arcanos","msgstr":"Слованг Арканос"}
+{"msgctxt":"npcdata","msgid":"Sly Silverstone","msgstr":"Слай Сильверстоун"}
+{"msgctxt":"npcdata","msgid":"Smiling Jack","msgstr":"Веселый Джек"}
+{"msgctxt":"npcdata","msgid":"Soil","msgstr":"Земля"}
+{"msgctxt":"npcdata","msgid":"Solis","msgstr":"Солис"}
+{"msgctxt":"npcdata","msgid":"Solitare Bainful","msgstr":"Солитэр Бейнфул"}
+{"msgctxt":"npcdata","msgid":"Solomon Riverstone","msgstr":"Соломон Риверстоун"}
+{"msgctxt":"npcdata","msgid":"Solomon Steele","msgstr":"Соломон Стил"}
+{"msgctxt":"npcdata","msgid":"Soon Lu","msgstr":"Сун Лу"}
+{"msgctxt":"npcdata","msgid":"Spark Burnkindle","msgstr":"Спарк Бернкайндл"}
+{"msgctxt":"npcdata","msgid":"Spyder ","msgstr":"Спайдер "}
+{"msgctxt":"npcdata","msgid":"Sri Retiani","msgstr":"Шри Ретиани"}
+{"msgctxt":"npcdata","msgid":"Stacy Flanders","msgstr":"Стейси Фландерс"}
+{"msgctxt":"npcdata","msgid":"Steagal Snick","msgstr":"Стегал Сник"}
+{"msgctxt":"npcdata","msgid":"Stephan Sand","msgstr":"Стефан Сэнд"}
+{"msgctxt":"npcdata","msgid":"Stephanie Pavlov","msgstr":"Стефани Павлова"}
+{"msgctxt":"npcdata","msgid":"Stephen","msgstr":"Стивен"}
+{"msgctxt":"npcdata","msgid":"Stephen Biggs","msgstr":"Стефан Биггз"}
+{"msgctxt":"npcdata","msgid":"Stephen Iago","msgstr":"Стефан Яго"}
+{"msgctxt":"npcdata","msgid":"Steve Baca","msgstr":"Стив Бака"}
+{"msgctxt":"npcdata","msgid":"Steve Jasper","msgstr":"Стив Джаспер"}
+{"msgctxt":"npcdata","msgid":"Steve Wasaff","msgstr":"Стив Васафф"}
+{"msgctxt":"npcdata","msgid":"Stewart Whitesky","msgstr":"Стюарт Вайтскай"}
+{"msgctxt":"npcdata","msgid":"Stile Bloke","msgstr":"Стайл Блоук"}
+{"msgctxt":"npcdata","msgid":"Straton Hawthorne","msgstr":"Стратон Хауторн"}
+{"msgctxt":"npcdata","msgid":"Straton Hillsman","msgstr":"Стратон Хиллсман"}
+{"msgctxt":"npcdata","msgid":"Su Lang Manchu","msgstr":"Су Ланг Манчу"}
+{"msgctxt":"npcdata","msgid":"Susan Handlebaum","msgstr":"Сьюзан Хандельбаум"}
+{"msgctxt":"npcdata","msgid":"Svetlanta Irktusk","msgstr":"Светлана Ирктуск"}
+{"msgctxt":"npcdata","msgid":"Sy Roth","msgstr":"Си Рот"}
+{"msgctxt":"npcdata","msgid":"Sylvester Moor","msgstr":"Сильвестр Мор"}
+{"msgctxt":"npcdata","msgid":"Ta Li No Gharma","msgstr":"Та Ли Но Гарма"}
+{"msgctxt":"npcdata","msgid":"Tabitha Mistspring","msgstr":"Табита Мистспринг"}
+{"msgctxt":"npcdata","msgid":"Tabitha Watershed","msgstr":"Табита Вотершед"}
+{"msgctxt":"npcdata","msgid":"Tabitha Yerin","msgstr":"Табита Йерин"}
+{"msgctxt":"npcdata","msgid":"Takao","msgstr":"Такао"}
+{"msgctxt":"npcdata","msgid":"Talion","msgstr":"Талион"}
+{"msgctxt":"npcdata","msgid":"Tallia Ravenswood","msgstr":"Таллия Равенсвуд"}
+{"msgctxt":"npcdata","msgid":"Tamara Anders","msgstr":"Тамара Андерс"}
+{"msgctxt":"npcdata","msgid":"Tantilion","msgstr":"Тантиллион"}
+{"msgctxt":"npcdata","msgid":"Tanya Kirklynn","msgstr":"Таня Кирклин"}
+{"msgctxt":"npcdata","msgid":"Tara D'Cathay","msgstr":"Тара д'Катей"}
+{"msgctxt":"npcdata","msgid":"Taren Temper","msgstr":"Тарен Темпер"}
+{"msgctxt":"npcdata","msgid":"Taren the Lifter","msgstr":"Тарен Сильный"}
+{"msgctxt":"npcdata","msgid":"Tarin Withern","msgstr":"Тарин Витерн"}
+{"msgctxt":"npcdata","msgid":"Taro","msgstr":"Таро"}
+{"msgctxt":"npcdata","msgid":"Tasha Vale","msgstr":"Таша Вейл"}
+{"msgctxt":"npcdata","msgid":"Telelocator","msgstr":"Телелокатор"}
+{"msgctxt":"npcdata","msgid":"Teleron Prentice","msgstr":"Телерон Прентис"}
+{"msgctxt":"npcdata","msgid":"Temple of Dark","msgstr":"Храм Тьмы"}
+{"msgctxt":"npcdata","msgid":"Temple of Light","msgstr":"Храм Света"}
+{"msgctxt":"npcdata","msgid":"Tempus ","msgstr":"Темпус"}
+{"msgctxt":"npcdata","msgid":"Terrance Smith","msgstr":"Терранс Смит"}
+{"msgctxt":"npcdata","msgid":"Terry Ros","msgstr":"Тэрри Рос"}
+{"msgctxt":"npcdata","msgid":"Tess Tucker","msgstr":"Тесс Такер"}
+{"msgctxt":"npcdata","msgid":"Tessa Greensward","msgstr":"Тесса Гринсвард"}
+{"msgctxt":"npcdata","msgid":"Tessa Maker","msgstr":"Тесса Мейкер"}
+{"msgctxt":"npcdata","msgid":"Tessalar","msgstr":"Тессалар"}
+{"msgctxt":"npcdata","msgid":"Thadin ","msgstr":"Фадин"}
+{"msgctxt":"npcdata","msgid":"Thane Roper","msgstr":"Тейн Ропер"}
+{"msgctxt":"npcdata","msgid":"Thant","msgstr":"Фант"}
+{"msgctxt":"npcdata","msgid":"Thanys","msgstr":"Танис"}
+{"msgctxt":"npcdata","msgid":"Thari Mirumoto","msgstr":"Тари Мирумото"}
+{"msgctxt":"npcdata","msgid":"The Hermit on the Mountain","msgstr":"Отшельник на Горе"}
+{"msgctxt":"npcdata","msgid":"The Oldest Tree","msgstr":"Самое Старое дерево"}
+{"msgctxt":"npcdata","msgid":"The Prince of Thieves","msgstr":"Принц Воров"}
+{"msgctxt":"npcdata","msgid":"The Seer","msgstr":"Провидец"}
+{"msgctxt":"npcdata","msgid":"Thed Robynson","msgstr":"Тед Робинсон"}
+{"msgctxt":"npcdata","msgid":"Therenda Evermorn","msgstr":"Теренда Эверморн"}
+{"msgctxt":"npcdata","msgid":"Therese Umberpool","msgstr":"Тереза Умберпул"}
+{"msgctxt":"npcdata","msgid":"Thistle","msgstr":"Сисл"}
+{"msgctxt":"npcdata","msgid":"Thom Keldin","msgstr":"Том Келдин"}
+{"msgctxt":"npcdata","msgid":"Thom Lumbra","msgstr":"Том Ламбра"}
+{"msgctxt":"npcdata","msgid":"Thomas Grey","msgstr":"Томас Грей"}
+{"msgctxt":"npcdata","msgid":"Thomas Laraselle","msgstr":"Томас Релселл"}
+{"msgctxt":"npcdata","msgid":"Thomas Moore","msgstr":"Томас Мор"}
+{"msgctxt":"npcdata","msgid":"Thomas the Judge","msgstr":"Судья Томас"}
+{"msgctxt":"npcdata","msgid":"Thorne Understone","msgstr":"Торн Под-Камнем"}
+{"msgctxt":"npcdata","msgid":"Tiana Withern","msgstr":"Тиана Витерн"}
+{"msgctxt":"npcdata","msgid":"Tilgar Dirthmoore","msgstr":"Тилгар Диртмур"}
+{"msgctxt":"npcdata","msgid":"Tim Lang","msgstr":"Тим Ланг"}
+{"msgctxt":"npcdata","msgid":"Tim O'Hoolihan","msgstr":"Тим О'Хулихан"}
+{"msgctxt":"npcdata","msgid":"Timothy Hawk","msgstr":"Тимоти Хок"}
+{"msgctxt":"npcdata","msgid":"Tina Sheltan","msgstr":"Тина Шелтан"}
+{"msgctxt":"npcdata","msgid":"Tiricia Lambert","msgstr":"Трисия Ламберт"}
+{"msgctxt":"npcdata","msgid":"Tobren Forgewright","msgstr":"Тобрен Форджрайт"}
+{"msgctxt":"npcdata","msgid":"Tobren Rainshield","msgstr":"Тобрен Рейншильд"}
+{"msgctxt":"npcdata","msgid":"Todd Smailes","msgstr":"Тодд Смайлс"}
+{"msgctxt":"npcdata","msgid":"Tolberti","msgstr":"Толберти"}
+{"msgctxt":"npcdata","msgid":"Tom Ono","msgstr":"Том Оно"}
+{"msgctxt":"npcdata","msgid":"Tom Zeliff","msgstr":"Том Зелифф"}
+{"msgctxt":"npcdata","msgid":"Ton Agraynel","msgstr":"Тон Аграйнел"}
+{"msgctxt":"npcdata","msgid":"Ton Withersmythe","msgstr":"Тон Витерсмит"}
+{"msgctxt":"npcdata","msgid":"Tonk Blueswan","msgstr":"Тонк Блюсван"}
+{"msgctxt":"npcdata","msgid":"Tonken Fist","msgstr":"Токен Фист"}
+{"msgctxt":"npcdata","msgid":"Tony Evans","msgstr":"Тони Эванс"}
+{"msgctxt":"npcdata","msgid":"Tor Anwyn","msgstr":"Тор Анвин"}
+{"msgctxt":"npcdata","msgid":"Tor Brock","msgstr":"Тор Блок"}
+{"msgctxt":"npcdata","msgid":"Tori Goldman","msgstr":"Тори Голдман"}
+{"msgctxt":"npcdata","msgid":"Torrent","msgstr":"Торрент"}
+{"msgctxt":"npcdata","msgid":"Tracy Flauta","msgstr":"Трейси Флаута"}
+{"msgctxt":"npcdata","msgid":"Tracy Iwata","msgstr":"Трэйси Ивата"}
+{"msgctxt":"npcdata","msgid":"Tracy Neather","msgstr":"Трейси Нитер"}
+{"msgctxt":"npcdata","msgid":"Treblid","msgstr":"Триблид"}
+{"msgctxt":"npcdata","msgid":"Trent Jameson","msgstr":"Трент Джеймсон"}
+{"msgctxt":"npcdata","msgid":"Trent Steele","msgstr":"Трент Стил"}
+{"msgctxt":"npcdata","msgid":"Trevor Jones","msgstr":"Трувор Джонс"}
+{"msgctxt":"npcdata","msgid":"Tricia Steelcoif","msgstr":"Трисия Стилкойф"}
+{"msgctxt":"npcdata","msgid":"Trip Thorinson","msgstr":"Трип Торинсон"}
+{"msgctxt":"npcdata","msgid":"Tristen Hearthsworn","msgstr":"Тристен Хартсворн"}
+{"msgctxt":"npcdata","msgid":"Tristen Stillwater","msgstr":"Тристан Стиллуотер"}
+{"msgctxt":"npcdata","msgid":"Troll Peasant","msgstr":"обычный тролль"}
+{"msgctxt":"npcdata","msgid":"Tugor Arin","msgstr":"Тугор Арин"}
+{"msgctxt":"npcdata","msgid":"Tugor Slicer","msgstr":"Тугор Слайсер"}
+{"msgctxt":"npcdata","msgid":"Turgon Bombah","msgstr":"Тургон Бомба"}
+{"msgctxt":"npcdata","msgid":"Turgon Woodsplitter","msgstr":"Тургон Вудсплиттер"}
+{"msgctxt":"npcdata","msgid":"Twillen","msgstr":"Твиллен"}
+{"msgctxt":"npcdata","msgid":"Ty Cognac","msgstr":"Ти Коньяк"}
+{"msgctxt":"npcdata","msgid":"Tyger Helms","msgstr":"Тайгер Хелмс"}
+{"msgctxt":"npcdata","msgid":"Tyler Tailor","msgstr":"Тайлер Тейлор"}
+{"msgctxt":"npcdata","msgid":"Ulbrecht","msgstr":"Ульбрехт "}
+{"msgctxt":"npcdata","msgid":"Ulbrecht Pederton","msgstr":"Ульбрихт Пэдертон"}
+{"msgctxt":"npcdata","msgid":"Ulbrecht the Brawler","msgstr":"Ульбрехт Дебошир"}
+{"msgctxt":"npcdata","msgid":"Urok","msgstr":"Урок"}
+{"msgctxt":"npcdata","msgid":"Ush the Many Tailed","msgstr":"Аш Многохвостый"}
+{"msgctxt":"npcdata","msgid":"Vance Cornelius","msgstr":"Ванс Корнилий"}
+{"msgctxt":"npcdata","msgid":"Vapor","msgstr":"Пар"}
+{"msgctxt":"npcdata","msgid":"Veldon","msgstr":"Велдон"}
+{"msgctxt":"npcdata","msgid":"Vera Grasslin","msgstr":"Вера Грасслин"}
+{"msgctxt":"npcdata","msgid":"Verdant","msgstr":"Вердант"}
+{"msgctxt":"npcdata","msgid":"Verish ","msgstr":"Вериш"}
+{"msgctxt":"npcdata","msgid":"Vetrinus Taleshire","msgstr":"Ветринус Тейлшир"}
+{"msgctxt":"npcdata","msgid":"Victor Hosen","msgstr":"Виктор Хозен"}
+{"msgctxt":"npcdata","msgid":"Vincent Albers","msgstr":"Винсент Альберс"}
+{"msgctxt":"npcdata","msgid":"Violet Dawson","msgstr":"Виолет Доусон"}
+{"msgctxt":"npcdata","msgid":"Virgil Holiday","msgstr":"Виргилий Холидей"}
+{"msgctxt":"npcdata","msgid":"Virginia Standridge","msgstr":"Виргиния Стандридж"}
+{"msgctxt":"npcdata","msgid":"Vish","msgstr":"Виш"}
+{"msgctxt":"npcdata","msgid":"Volog Sandwind","msgstr":"Волог Сэндвинд"}
+{"msgctxt":"npcdata","msgid":"Wacko","msgstr":"Вако"}
+{"msgctxt":"npcdata","msgid":"Wacko the Ninja","msgstr":"Вако Ниндзя"}
+{"msgctxt":"npcdata","msgid":"Walter Hargreaves","msgstr":"Вальтер Харгривз"}
+{"msgctxt":"npcdata","msgid":"Walter Johnson","msgstr":"Волтер Джонсон"}
+{"msgctxt":"npcdata","msgid":"Wanda Foestryke","msgstr":"Ванда Фоустрайк"}
+{"msgctxt":"npcdata","msgid":"Wanda Lightsworn","msgstr":"Ванда Лайтсворн"}
+{"msgctxt":"npcdata","msgid":"Warren Holmes","msgstr":"Уоррен Холмс"}
+{"msgctxt":"npcdata","msgid":"Weldrik Falconeye","msgstr":"Уэлдрик Соколиный Глаз"}
+{"msgctxt":"npcdata","msgid":"Weldrik Lotts","msgstr":"Велдрик Лоттс"}
+{"msgctxt":"npcdata","msgid":"Wendy Featherhill","msgstr":"Венди Фезерхилл"}
+{"msgctxt":"npcdata","msgid":"Wererat Peasants","msgstr":"обычный крысолак"}
+{"msgctxt":"npcdata","msgid":"Whisper","msgstr":"Шептун"}
+{"msgctxt":"npcdata","msgid":"Wil Rudyman","msgstr":"Вил Рудиман"}
+{"msgctxt":"npcdata","msgid":"Wilbur Eversmyle","msgstr":"Уилбур Эверсмайл"}
+{"msgctxt":"npcdata","msgid":"Wilbur Humphrey","msgstr":"Уилбур Хамфри"}
+{"msgctxt":"npcdata","msgid":"Wilburt","msgstr":"Уилбурт"}
+{"msgctxt":"npcdata","msgid":"Will Ottoman","msgstr":"Вилл Оттоман"}
+{"msgctxt":"npcdata","msgid":"William Darvees","msgstr":"Вильям Дарвис"}
+{"msgctxt":"npcdata","msgid":"William Lasker","msgstr":"Вильям Ласкер"}
+{"msgctxt":"npcdata","msgid":"William Sampson","msgstr":"Вильям Сэмпсон"}
+{"msgctxt":"npcdata","msgid":"William Setag","msgstr":"Вильям Сетаг"}
+{"msgctxt":"npcdata","msgid":"William Smithson","msgstr":"Вильям Смитсон"}
+{"msgctxt":"npcdata","msgid":"William Tucker","msgstr":"Вильям Такер"}
+{"msgctxt":"npcdata","msgid":"Wilma Cook","msgstr":"Вильма Кук"}
+{"msgctxt":"npcdata","msgid":"Wilma Rothwing","msgstr":"Вильма Ротвинг"}
+{"msgctxt":"npcdata","msgid":"Wingsail","msgstr":"Вингсэйл"}
+{"msgctxt":"npcdata","msgid":"Winston Historian","msgstr":"Винстон Хисториан"}
+{"msgctxt":"npcdata","msgid":"Winston Schezar","msgstr":"Винстон Шезар"}
+{"msgctxt":"npcdata","msgid":"Wolf Armstrong","msgstr":"Вольф Армстронг"}
+{"msgctxt":"npcdata","msgid":"Woodrow Albright","msgstr":"Вудро Олбрайт"}
+{"msgctxt":"npcdata","msgid":"Wort Goblinreaver","msgstr":"Ворт Гоблинривер"}
+{"msgctxt":"npcdata","msgid":"Xanthor","msgstr":"Ксантор"}
+{"msgctxt":"npcdata","msgid":"Xavier Bremen","msgstr":"Ксавьер Бремен"}
+{"msgctxt":"npcdata","msgid":"Xavier Havest","msgstr":"Ксавье Хэвест"}
+{"msgctxt":"npcdata","msgid":"Xevius","msgstr":"Ксевиус"}
+{"msgctxt":"npcdata","msgid":"Yarrow","msgstr":"Ярроу"}
+{"msgctxt":"npcdata","msgid":"Yarrow Elmsmire","msgstr":"Ярроу Элмсмир"}
+{"msgctxt":"npcdata","msgid":"Yarrow Keldin","msgstr":"Ярроу Келдин"}
+{"msgctxt":"npcdata","msgid":"Yoel Wargreen","msgstr":"Иоэль Уоргрин"}
+{"msgctxt":"npcdata","msgid":"Your Conscience","msgstr":"Ваша Совесть"}
+{"msgctxt":"npcdata","msgid":"Yves Meeks","msgstr":"Ив Микс"}
+{"msgctxt":"npcdata","msgid":"Yvonne D'arcy","msgstr":"Ивонна д'Арси"}
+{"msgctxt":"npcdata","msgid":"Zanthora","msgstr":"Зантора"}
+{"msgctxt":"npcdata","msgid":"Zeke Magellan","msgstr":"Зик Магеллан"}
+{"msgctxt":"npcdata","msgid":"Zelim","msgstr":"Зелим"}
+{"msgctxt":"npcdata","msgid":"Zephyr","msgstr":"Зефир"}
+{"msgctxt":"npcdata","msgid":"Zevah Poised","msgstr":"Зева Пойзед"}
+{"msgctxt":"npcdata","msgid":"Zodahn Delphi","msgstr":"Зодан Дельфи"}
+{"msgctxt":"npcdata","msgid":"Zog the Jackal","msgstr":"Зог Шакал"}
+{"msgctxt":"npcdata","msgid":"Zoltan Phelps","msgstr":"Золтан Фелпс"}
+{"msgctxt":"npcdata","msgid":"cleric","msgstr":"клирик"}
+{"msgctxt":"npcdata","msgid":"darkelf","msgstr":"темный эльф"}
+{"msgctxt":"npcdata","msgid":"dragon","msgstr":"дракон"}
+{"msgctxt":"npcdata","msgid":"knight","msgstr":"рыцарь"}
+{"msgctxt":"npcdata","msgid":"minotaur","msgstr":"минотавр"}
+{"msgctxt":"npcdata","msgid":"necromancer","msgstr":"некромант"}
+{"msgctxt":"npcdata","msgid":"troll","msgstr":"тролль"}
+{"msgctxt":"npcdata","msgid":"vampire","msgstr":"вампир"}
+{"msgctxt":"npcnames","msgid":"Aaron","msgstr":"Аарон"}
+{"msgctxt":"npcnames","msgid":"Abe","msgstr":"Эйб"}
+{"msgctxt":"npcnames","msgid":"Abel","msgstr":"Абель"}
+{"msgctxt":"npcnames","msgid":"Abellona","msgstr":"Абеллона"}
+{"msgctxt":"npcnames","msgid":"Abigail","msgstr":"Абигайль"}
+{"msgctxt":"npcnames","msgid":"Acacia","msgstr":"Акакия"}
+{"msgctxt":"npcnames","msgid":"Adalgisa","msgstr":"Адальгиса"}
+{"msgctxt":"npcnames","msgid":"Adam","msgstr":"Адам"}
+{"msgctxt":"npcnames","msgid":"Adrian","msgstr":"Адриан"}
+{"msgctxt":"npcnames","msgid":"Adrienne","msgstr":"Эдриенн"}
+{"msgctxt":"npcnames","msgid":"Adrrienne","msgstr":"Адриенн"}
+{"msgctxt":"npcnames","msgid":"Ahmed","msgstr":"Ахмед"}
+{"msgctxt":"npcnames","msgid":"Aisilinn","msgstr":"Айзилинн"}
+{"msgctxt":"npcnames","msgid":"Akio","msgstr":"Акио"}
+{"msgctxt":"npcnames","msgid":"Akira","msgstr":"Акира"}
+{"msgctxt":"npcnames","msgid":"Al","msgstr":"Ал"}
+{"msgctxt":"npcnames","msgid":"Alain","msgstr":"Алайн"}
+{"msgctxt":"npcnames","msgid":"Alaine","msgstr":"Алэйн"}
+{"msgctxt":"npcnames","msgid":"Alan","msgstr":"Алан"}
+{"msgctxt":"npcnames","msgid":"Albert","msgstr":"Альберт"}
+{"msgctxt":"npcnames","msgid":"Alec","msgstr":"Алек"}
+{"msgctxt":"npcnames","msgid":"Alejandro","msgstr":"Алехандро"}
+{"msgctxt":"npcnames","msgid":"Alemada","msgstr":"Алемада"}
+{"msgctxt":"npcnames","msgid":"Alethea","msgstr":"Элетеа"}
+{"msgctxt":"npcnames","msgid":"Aleton","msgstr":"Алетон"}
+{"msgctxt":"npcnames","msgid":"Alexander","msgstr":"Алекснар"}
+{"msgctxt":"npcnames","msgid":"Alexandra","msgstr":"Александра"}
+{"msgctxt":"npcnames","msgid":"Alfred","msgstr":"Альфред"}
+{"msgctxt":"npcnames","msgid":"Alice","msgstr":"Алиса"}
+{"msgctxt":"npcnames","msgid":"Allison","msgstr":"Элисон"}
+{"msgctxt":"npcnames","msgid":"Alton","msgstr":"Альтон"}
+{"msgctxt":"npcnames","msgid":"Altred","msgstr":"Альтред"}
+{"msgctxt":"npcnames","msgid":"Alvin","msgstr":"Альвин"}
+{"msgctxt":"npcnames","msgid":"Amadrea","msgstr":"Амадреа"}
+{"msgctxt":"npcnames","msgid":"Amanda","msgstr":"Аманда"}
+{"msgctxt":"npcnames","msgid":"Amber","msgstr":"Амбер"}
+{"msgctxt":"npcnames","msgid":"Ambrose","msgstr":"Эмброуз"}
+{"msgctxt":"npcnames","msgid":"Amelia","msgstr":"Амелия"}
+{"msgctxt":"npcnames","msgid":"Amos","msgstr":"Амос"}
+{"msgctxt":"npcnames","msgid":"Amy","msgstr":"Эми"}
+{"msgctxt":"npcnames","msgid":"Andrea","msgstr":"Андреа"}
+{"msgctxt":"npcnames","msgid":"Andrew","msgstr":"Андрей"}
+{"msgctxt":"npcnames","msgid":"Andy","msgstr":"Энди"}
+{"msgctxt":"npcnames","msgid":"Angeama","msgstr":"Ангеама"}
+{"msgctxt":"npcnames","msgid":"Angebria","msgstr":"Ангебрия"}
+{"msgctxt":"npcnames","msgid":"Angela","msgstr":"Анжела"}
+{"msgctxt":"npcnames","msgid":"Angie","msgstr":"Энджи"}
+{"msgctxt":"npcnames","msgid":"Anita","msgstr":"Анита"}
+{"msgctxt":"npcnames","msgid":"Ann","msgstr":"Энн"}
+{"msgctxt":"npcnames","msgid":"Anna","msgstr":"Анна"}
+{"msgctxt":"npcnames","msgid":"Annaju","msgstr":"Аннаю"}
+{"msgctxt":"npcnames","msgid":"Anthony","msgstr":"Энтони"}
+{"msgctxt":"npcnames","msgid":"Anton","msgstr":"Антон"}
+{"msgctxt":"npcnames","msgid":"April","msgstr":"Эйприл"}
+{"msgctxt":"npcnames","msgid":"Arby","msgstr":"Арби"}
+{"msgctxt":"npcnames","msgid":"Arda","msgstr":"Арда"}
+{"msgctxt":"npcnames","msgid":"Arden","msgstr":"Арден"}
+{"msgctxt":"npcnames","msgid":"Ariasti","msgstr":"Араисти"}
+{"msgctxt":"npcnames","msgid":"Ariel","msgstr":"Ариэль"}
+{"msgctxt":"npcnames","msgid":"Aristeo","msgstr":"Аристео"}
+{"msgctxt":"npcnames","msgid":"Aristidis","msgstr":"Аристидис"}
+{"msgctxt":"npcnames","msgid":"Arlen","msgstr":"Арлен"}
+{"msgctxt":"npcnames","msgid":"Arlo","msgstr":"Арло"}
+{"msgctxt":"npcnames","msgid":"Armand ","msgstr":"Арманд"}
+{"msgctxt":"npcnames","msgid":"Arnie","msgstr":"Эрни"}
+{"msgctxt":"npcnames","msgid":"Arnold","msgstr":"Арнольд"}
+{"msgctxt":"npcnames","msgid":"Arthur","msgstr":"Артур"}
+{"msgctxt":"npcnames","msgid":"Aryeh","msgstr":"Эрайф"}
+{"msgctxt":"npcnames","msgid":"Ash","msgstr":"Эш"}
+{"msgctxt":"npcnames","msgid":"Ashburn","msgstr":"Эшберн"}
+{"msgctxt":"npcnames","msgid":"Ashton","msgstr":"Эштон"}
+{"msgctxt":"npcnames","msgid":"Austin","msgstr":"Остин"}
+{"msgctxt":"npcnames","msgid":"Aylin","msgstr":"Айлин"}
+{"msgctxt":"npcnames","msgid":"Baimaria","msgstr":"Баймария"}
+{"msgctxt":"npcnames","msgid":"Barbara","msgstr":"Барбара"}
+{"msgctxt":"npcnames","msgid":"Barett","msgstr":"Баррет"}
+{"msgctxt":"npcnames","msgid":"Barney","msgstr":"Барни"}
+{"msgctxt":"npcnames","msgid":"Bart","msgstr":"Барт"}
+{"msgctxt":"npcnames","msgid":"Basher","msgstr":"Башер"}
+{"msgctxt":"npcnames","msgid":"Basilia","msgstr":"Василиса"}
+{"msgctxt":"npcnames","msgid":"Beatrice","msgstr":"Беатрис"}
+{"msgctxt":"npcnames","msgid":"Beauregard","msgstr":"Бьюрегард"}
+{"msgctxt":"npcnames","msgid":"Becky","msgstr":"Беки"}
+{"msgctxt":"npcnames","msgid":"Belinda ","msgstr":"Белинда"}
+{"msgctxt":"npcnames","msgid":"Ben","msgstr":"Бен"}
+{"msgctxt":"npcnames","msgid":"Benedict","msgstr":"Бенедикт"}
+{"msgctxt":"npcnames","msgid":"Benedicta","msgstr":"Бенедикта"}
+{"msgctxt":"npcnames","msgid":"Benito","msgstr":"Бенито"}
+{"msgctxt":"npcnames","msgid":"Benjamin","msgstr":"Бенджамин"}
+{"msgctxt":"npcnames","msgid":"Bennett","msgstr":"Беннет"}
+{"msgctxt":"npcnames","msgid":"Benny","msgstr":"Бенни"}
+{"msgctxt":"npcnames","msgid":"Benoit","msgstr":"Бенуа"}
+{"msgctxt":"npcnames","msgid":"Beren","msgstr":"Берен"}
+{"msgctxt":"npcnames","msgid":"Bernadette","msgstr":"Бернадетт"}
+{"msgctxt":"npcnames","msgid":"Bernard","msgstr":"Бернард"}
+{"msgctxt":"npcnames","msgid":"Bernice","msgstr":"Бернис"}
+{"msgctxt":"npcnames","msgid":"Bert","msgstr":"Берт"}
+{"msgctxt":"npcnames","msgid":"Bertrand","msgstr":"Бертранд"}
+{"msgctxt":"npcnames","msgid":"Beth","msgstr":"Бет"}
+{"msgctxt":"npcnames","msgid":"Betsy","msgstr":"Бетси"}
+{"msgctxt":"npcnames","msgid":"Betty","msgstr":"Бетти"}
+{"msgctxt":"npcnames","msgid":"Beverly","msgstr":"Беверли"}
+{"msgctxt":"npcnames","msgid":"Billie","msgstr":"Биллис"}
+{"msgctxt":"npcnames","msgid":"Billy","msgstr":"Билли"}
+{"msgctxt":"npcnames","msgid":"Bishop","msgstr":"Бишоп"}
+{"msgctxt":"npcnames","msgid":"Blaine","msgstr":"Блейн"}
+{"msgctxt":"npcnames","msgid":"Blajake","msgstr":"Блэджейк"}
+{"msgctxt":"npcnames","msgid":"Blajuan","msgstr":"Блаян"}
+{"msgctxt":"npcnames","msgid":"Blake","msgstr":"Блейк"}
+{"msgctxt":"npcnames","msgid":"Blondeau","msgstr":"Блондо"}
+{"msgctxt":"npcnames","msgid":"Bo","msgstr":"Бо"}
+{"msgctxt":"npcnames","msgid":"Bob","msgstr":"Боб"}
+{"msgctxt":"npcnames","msgid":"Bobby","msgstr":"Бобби"}
+{"msgctxt":"npcnames","msgid":"Bodo","msgstr":"Бодо"}
+{"msgctxt":"npcnames","msgid":"Bonnie","msgstr":"Бонни"}
+{"msgctxt":"npcnames","msgid":"Boris","msgstr":"Борис"}
+{"msgctxt":"npcnames","msgid":"Brad","msgstr":"Брэд"}
+{"msgctxt":"npcnames","msgid":"Braden","msgstr":"Брэден"}
+{"msgctxt":"npcnames","msgid":"Bradford","msgstr":"Брэдфорд"}
+{"msgctxt":"npcnames","msgid":"Bradley","msgstr":"Брэдли"}
+{"msgctxt":"npcnames","msgid":"Brain","msgstr":"Брейн"}
+{"msgctxt":"npcnames","msgid":"Brale","msgstr":"Брэль"}
+{"msgctxt":"npcnames","msgid":"Brandon","msgstr":"Брэндон"}
+{"msgctxt":"npcnames","msgid":"Breed","msgstr":"Брид"}
+{"msgctxt":"npcnames","msgid":"Brenda","msgstr":"Бренда"}
+{"msgctxt":"npcnames","msgid":"Brendon","msgstr":"Брендон"}
+{"msgctxt":"npcnames","msgid":"Brent","msgstr":"Брент"}
+{"msgctxt":"npcnames","msgid":"Brett","msgstr":"Бретт"}
+{"msgctxt":"npcnames","msgid":"Brida","msgstr":"Брида"}
+{"msgctxt":"npcnames","msgid":"Brierly","msgstr":"Брирли"}
+{"msgctxt":"npcnames","msgid":"Bronwyn","msgstr":"Бронвин"}
+{"msgctxt":"npcnames","msgid":"Bronwynn","msgstr":"Вронвинн"}
+{"msgctxt":"npcnames","msgid":"Brook","msgstr":"Брук"}
+{"msgctxt":"npcnames","msgid":"Bruce","msgstr":"Врюс"}
+{"msgctxt":"npcnames","msgid":"Bruno","msgstr":"Вруно"}
+{"msgctxt":"npcnames","msgid":"Bryce","msgstr":"Брюс"}
+{"msgctxt":"npcnames","msgid":"Bud","msgstr":"Бад"}
+{"msgctxt":"npcnames","msgid":"Buford","msgstr":"Баффорд"}
+{"msgctxt":"npcnames","msgid":"Burton","msgstr":"Бёртон"}
+{"msgctxt":"npcnames","msgid":"Butch","msgstr":"Батч"}
+{"msgctxt":"npcnames","msgid":"Byire","msgstr":"Байр"}
+{"msgctxt":"npcnames","msgid":"Byron","msgstr":"Байрон"}
+{"msgctxt":"npcnames","msgid":"Caao","msgstr":"Каао"}
+{"msgctxt":"npcnames","msgid":"Cal","msgstr":"Кел"}
+{"msgctxt":"npcnames","msgid":"Calandra","msgstr":"Каландра"}
+{"msgctxt":"npcnames","msgid":"Caleb","msgstr":"Калеб"}
+{"msgctxt":"npcnames","msgid":"Callista","msgstr":"Каллиста"}
+{"msgctxt":"npcnames","msgid":"Callo","msgstr":"Калло"}
+{"msgctxt":"npcnames","msgid":"Calvin","msgstr":"Кельвин"}
+{"msgctxt":"npcnames","msgid":"Cameron","msgstr":"Камерон"}
+{"msgctxt":"npcnames","msgid":"Candace","msgstr":"Кандейс"}
+{"msgctxt":"npcnames","msgid":"Carissa","msgstr":"Карисса"}
+{"msgctxt":"npcnames","msgid":"Carl","msgstr":"Карл"}
+{"msgctxt":"npcnames","msgid":"Carlo","msgstr":"Карло"}
+{"msgctxt":"npcnames","msgid":"Carlos","msgstr":"Карлос"}
+{"msgctxt":"npcnames","msgid":"Carly ","msgstr":"Карли"}
+{"msgctxt":"npcnames","msgid":"Carmen","msgstr":"Кармен"}
+{"msgctxt":"npcnames","msgid":"Carol","msgstr":"Кэрол"}
+{"msgctxt":"npcnames","msgid":"Carolann","msgstr":"Кэролан"}
+{"msgctxt":"npcnames","msgid":"Carolyn","msgstr":"Кэролин"}
+{"msgctxt":"npcnames","msgid":"Carrie","msgstr":"Кэрри"}
+{"msgctxt":"npcnames","msgid":"Carrion","msgstr":"Кэррион"}
+{"msgctxt":"npcnames","msgid":"Carter","msgstr":"Картер"}
+{"msgctxt":"npcnames","msgid":"Cary","msgstr":"Кэри"}
+{"msgctxt":"npcnames","msgid":"Casey","msgstr":"Кейси"}
+{"msgctxt":"npcnames","msgid":"Cassandra","msgstr":"Касандра"}
+{"msgctxt":"npcnames","msgid":"Cassandraree","msgstr":"Кассандра"}
+{"msgctxt":"npcnames","msgid":"Catherine","msgstr":"Катерина"}
+{"msgctxt":"npcnames","msgid":"Cathy","msgstr":"Кати"}
+{"msgctxt":"npcnames","msgid":"Cavein","msgstr":"Кэвьен"}
+{"msgctxt":"npcnames","msgid":"Cecil","msgstr":"Сесиль"}
+{"msgctxt":"npcnames","msgid":"Ceclia ","msgstr":"Секлия"}
+{"msgctxt":"npcnames","msgid":"Cedric","msgstr":"Седрик"}
+{"msgctxt":"npcnames","msgid":"Celeste","msgstr":"Целесте"}
+{"msgctxt":"npcnames","msgid":"Cesar","msgstr":"Цезарь"}
+{"msgctxt":"npcnames","msgid":"Cewe","msgstr":"Цефе"}
+{"msgctxt":"npcnames","msgid":"Chad","msgstr":"Чед"}
+{"msgctxt":"npcnames","msgid":"Chandra","msgstr":"Чандра"}
+{"msgctxt":"npcnames","msgid":"Charles","msgstr":"Карл"}
+{"msgctxt":"npcnames","msgid":"Charlie","msgstr":"Чарли"}
+{"msgctxt":"npcnames","msgid":"Chaseleon","msgstr":"Хазелеон"}
+{"msgctxt":"npcnames","msgid":"Cheryl","msgstr":"Шерил"}
+{"msgctxt":"npcnames","msgid":"Chester","msgstr":"Честер"}
+{"msgctxt":"npcnames","msgid":"Chet","msgstr":"Чет"}
+{"msgctxt":"npcnames","msgid":"Cheyelerie","msgstr":"Кейлери"}
+{"msgctxt":"npcnames","msgid":"Chip","msgstr":"Чип"}
+{"msgctxt":"npcnames","msgid":"Chris","msgstr":"Крис"}
+{"msgctxt":"npcnames","msgid":"Christa","msgstr":"Криста"}
+{"msgctxt":"npcnames","msgid":"Christine","msgstr":"Кристина"}
+{"msgctxt":"npcnames","msgid":"Christopher","msgstr":"Кристофер"}
+{"msgctxt":"npcnames","msgid":"Chuck","msgstr":"Чак"}
+{"msgctxt":"npcnames","msgid":"Cian","msgstr":"Циан"}
+{"msgctxt":"npcnames","msgid":"Cindy","msgstr":"Синди"}
+{"msgctxt":"npcnames","msgid":"Claire","msgstr":"Клэр"}
+{"msgctxt":"npcnames","msgid":"Clarence","msgstr":"Кларенс"}
+{"msgctxt":"npcnames","msgid":"Clark","msgstr":"Кларк"}
+{"msgctxt":"npcnames","msgid":"Clay","msgstr":"Клей"}
+{"msgctxt":"npcnames","msgid":"Clifford","msgstr":"Клиффорд"}
+{"msgctxt":"npcnames","msgid":"Clyde","msgstr":"Клайд"}
+{"msgctxt":"npcnames","msgid":"Cody","msgstr":"Коди"}
+{"msgctxt":"npcnames","msgid":"Colin","msgstr":"Колин"}
+{"msgctxt":"npcnames","msgid":"Connie","msgstr":"Конни"}
+{"msgctxt":"npcnames","msgid":"Connor","msgstr":"Коннор"}
+{"msgctxt":"npcnames","msgid":"Conrad","msgstr":"Конрад"}
+{"msgctxt":"npcnames","msgid":"Constance","msgstr":"Констанция"}
+{"msgctxt":"npcnames","msgid":"Constantin","msgstr":"Константин"}
+{"msgctxt":"npcnames","msgid":"Cora","msgstr":"Кора"}
+{"msgctxt":"npcnames","msgid":"Corbet","msgstr":"Корбет"}
+{"msgctxt":"npcnames","msgid":"Cord","msgstr":"Корд"}
+{"msgctxt":"npcnames","msgid":"Corey","msgstr":"Корри"}
+{"msgctxt":"npcnames","msgid":"Coreywyn","msgstr":"Коривин"}
+{"msgctxt":"npcnames","msgid":"Cornelia","msgstr":"Корнелия"}
+{"msgctxt":"npcnames","msgid":"Cornelius","msgstr":"Корнелиус"}
+{"msgctxt":"npcnames","msgid":"Cory","msgstr":"Кори"}
+{"msgctxt":"npcnames","msgid":"Couisa","msgstr":"Квиза"}
+{"msgctxt":"npcnames","msgid":"Craig","msgstr":"Крэг"}
+{"msgctxt":"npcnames","msgid":"Cyndy","msgstr":"Синдис"}
+{"msgctxt":"npcnames","msgid":"Cynthia","msgstr":"Синтия"}
+{"msgctxt":"npcnames","msgid":"Cyrus","msgstr":"Сайрус"}
+{"msgctxt":"npcnames","msgid":"Daale","msgstr":"Дэйл"}
+{"msgctxt":"npcnames","msgid":"Daet","msgstr":"Дает"}
+{"msgctxt":"npcnames","msgid":"Daiyve","msgstr":"Дайве"}
+{"msgctxt":"npcnames","msgid":"Dal","msgstr":"Дэл"}
+{"msgctxt":"npcnames","msgid":"Dale","msgstr":"Дейл"}
+{"msgctxt":"npcnames","msgid":"Dalilia","msgstr":"Далилья"}
+{"msgctxt":"npcnames","msgid":"Dallas","msgstr":"Даллас"}
+{"msgctxt":"npcnames","msgid":"Dalo","msgstr":"Дало"}
+{"msgctxt":"npcnames","msgid":"Damaris","msgstr":"Дамарис"}
+{"msgctxt":"npcnames","msgid":"Damien","msgstr":"Дэмьен"}
+{"msgctxt":"npcnames","msgid":"Damitia","msgstr":"Дамития"}
+{"msgctxt":"npcnames","msgid":"Dan","msgstr":"Дэн"}
+{"msgctxt":"npcnames","msgid":"Dana","msgstr":"Дана"}
+{"msgctxt":"npcnames","msgid":"Danelis","msgstr":"Данелис"}
+{"msgctxt":"npcnames","msgid":"Daniel","msgstr":"Дэниел"}
+{"msgctxt":"npcnames","msgid":"Danny","msgstr":"Денни"}
+{"msgctxt":"npcnames","msgid":"Dante","msgstr":"Данте"}
+{"msgctxt":"npcnames","msgid":"Daphne","msgstr":"Дафна"}
+{"msgctxt":"npcnames","msgid":"Dara","msgstr":"Дара"}
+{"msgctxt":"npcnames","msgid":"Darcy","msgstr":"Дарси"}
+{"msgctxt":"npcnames","msgid":"Darina","msgstr":"Дарина"}
+{"msgctxt":"npcnames","msgid":"Darlene","msgstr":"Дарлин"}
+{"msgctxt":"npcnames","msgid":"Daron","msgstr":"Дарон"}
+{"msgctxt":"npcnames","msgid":"Dave","msgstr":"Дэйв"}
+{"msgctxt":"npcnames","msgid":"Davey","msgstr":"Дэйви"}
+{"msgctxt":"npcnames","msgid":"David","msgstr":"Давид"}
+{"msgctxt":"npcnames","msgid":"Dawn","msgstr":"Донайс"}
+{"msgctxt":"npcnames","msgid":"Deane","msgstr":"Дин"}
+{"msgctxt":"npcnames","msgid":"Deanna","msgstr":"Деанна"}
+{"msgctxt":"npcnames","msgid":"Debbie","msgstr":"Дебби"}
+{"msgctxt":"npcnames","msgid":"Deborah","msgstr":"Дебора"}
+{"msgctxt":"npcnames","msgid":"Debrie","msgstr":"Дэбри"}
+{"msgctxt":"npcnames","msgid":"Deed","msgstr":"Дид"}
+{"msgctxt":"npcnames","msgid":"Del","msgstr":"Дел"}
+{"msgctxt":"npcnames","msgid":"Deloris ","msgstr":"Делорис"}
+{"msgctxt":"npcnames","msgid":"Delphine","msgstr":"Дельфин"}
+{"msgctxt":"npcnames","msgid":"Demetria","msgstr":"Деметрия"}
+{"msgctxt":"npcnames","msgid":"Denise","msgstr":"Денис"}
+{"msgctxt":"npcnames","msgid":"Dennis","msgstr":"Дэннис"}
+{"msgctxt":"npcnames","msgid":"Denny","msgstr":"Дэнни"}
+{"msgctxt":"npcnames","msgid":"Deolinda","msgstr":"Деолинда"}
+{"msgctxt":"npcnames","msgid":"Derek","msgstr":"Дерек"}
+{"msgctxt":"npcnames","msgid":"Desmond","msgstr":"Дезмонд"}
+{"msgctxt":"npcnames","msgid":"Devon","msgstr":"Девон"}
+{"msgctxt":"npcnames","msgid":"Dextra","msgstr":"Дэкстра"}
+{"msgctxt":"npcnames","msgid":"Dialia","msgstr":"Дайлия"}
+{"msgctxt":"npcnames","msgid":"Diana","msgstr":"Диана"}
+{"msgctxt":"npcnames","msgid":"Diane","msgstr":"Дайана"}
+{"msgctxt":"npcnames","msgid":"Diari","msgstr":"Дайри"}
+{"msgctxt":"npcnames","msgid":"Dieter","msgstr":"Дитер"}
+{"msgctxt":"npcnames","msgid":"Dimona","msgstr":"Димона"}
+{"msgctxt":"npcnames","msgid":"Doc","msgstr":"Док"}
+{"msgctxt":"npcnames","msgid":"Dodridge","msgstr":"Додридж"}
+{"msgctxt":"npcnames","msgid":"Dolores","msgstr":"Долорес"}
+{"msgctxt":"npcnames","msgid":"Dolph","msgstr":"Дольф"}
+{"msgctxt":"npcnames","msgid":"Domade","msgstr":"Домейд"}
+{"msgctxt":"npcnames","msgid":"Dominic","msgstr":"Доминик"}
+{"msgctxt":"npcnames","msgid":"Dominique","msgstr":"Доминика"}
+{"msgctxt":"npcnames","msgid":"Don","msgstr":"Дон"}
+{"msgctxt":"npcnames","msgid":"Donald","msgstr":"Дональд"}
+{"msgctxt":"npcnames","msgid":"Donie","msgstr":"Дони"}
+{"msgctxt":"npcnames","msgid":"Donna","msgstr":"Донна"}
+{"msgctxt":"npcnames","msgid":"Doreen","msgstr":"Дорин"}
+{"msgctxt":"npcnames","msgid":"Doris","msgstr":"Дорис"}
+{"msgctxt":"npcnames","msgid":"Dorothy","msgstr":"Дороти"}
+{"msgctxt":"npcnames","msgid":"Douglas","msgstr":"Дуглас"}
+{"msgctxt":"npcnames","msgid":"Drew","msgstr":"Дрю"}
+{"msgctxt":"npcnames","msgid":"Dseyria","msgstr":"Дсейрия"}
+{"msgctxt":"npcnames","msgid":"Duke","msgstr":"Дюк"}
+{"msgctxt":"npcnames","msgid":"Duncan","msgstr":"Дункан"}
+{"msgctxt":"npcnames","msgid":"Dunerider","msgstr":"Дюнрайдер"}
+{"msgctxt":"npcnames","msgid":"Dust","msgstr":"Даст"}
+{"msgctxt":"npcnames","msgid":"Dustin","msgstr":"Дастин"}
+{"msgctxt":"npcnames","msgid":"Dwane","msgstr":"Двейн"}
+{"msgctxt":"npcnames","msgid":"Dwight","msgstr":"Двайт"}
+{"msgctxt":"npcnames","msgid":"Dylan","msgstr":"Дилан"}
+{"msgctxt":"npcnames","msgid":"Dylanna","msgstr":"Диланна"}
+{"msgctxt":"npcnames","msgid":"Earl","msgstr":"Эрл"}
+{"msgctxt":"npcnames","msgid":"Ebony","msgstr":"Эбони"}
+{"msgctxt":"npcnames","msgid":"Ed","msgstr":"Эд"}
+{"msgctxt":"npcnames","msgid":"Eddie","msgstr":"Эдди"}
+{"msgctxt":"npcnames","msgid":"Edelmira","msgstr":"Эдельмира"}
+{"msgctxt":"npcnames","msgid":"Edgar","msgstr":"Эдгар"}
+{"msgctxt":"npcnames","msgid":"Edison","msgstr":"Эдизон"}
+{"msgctxt":"npcnames","msgid":"Edith","msgstr":"Эдит"}
+{"msgctxt":"npcnames","msgid":"Edmond","msgstr":"Эдмонд"}
+{"msgctxt":"npcnames","msgid":"Edna","msgstr":"Эдна"}
+{"msgctxt":"npcnames","msgid":"Egelinna","msgstr":"Эгелинна"}
+{"msgctxt":"npcnames","msgid":"Eileen","msgstr":"Эйлин"}
+{"msgctxt":"npcnames","msgid":"Elaine","msgstr":"Элен"}
+{"msgctxt":"npcnames","msgid":"Eleanor","msgstr":"Элеонора"}
+{"msgctxt":"npcnames","msgid":"Electra","msgstr":"Электра"}
+{"msgctxt":"npcnames","msgid":"Elijah","msgstr":"Илия"}
+{"msgctxt":"npcnames","msgid":"Elizabeth","msgstr":"Елизавета"}
+{"msgctxt":"npcnames","msgid":"Ella","msgstr":"Элла"}
+{"msgctxt":"npcnames","msgid":"Ellen","msgstr":"Эллен"}
+{"msgctxt":"npcnames","msgid":"Elliott","msgstr":"Эллиот"}
+{"msgctxt":"npcnames","msgid":"Elmwater","msgstr":"Эльмвотер"}
+{"msgctxt":"npcnames","msgid":"Elsie","msgstr":"Элси"}
+{"msgctxt":"npcnames","msgid":"Elton","msgstr":"Элтон"}
+{"msgctxt":"npcnames","msgid":"Elyssa","msgstr":"Элисса"}
+{"msgctxt":"npcnames","msgid":"Emeline","msgstr":"Эмелин"}
+{"msgctxt":"npcnames","msgid":"Emil","msgstr":"Эмиль"}
+{"msgctxt":"npcnames","msgid":"Emma","msgstr":"Эмма"}
+{"msgctxt":"npcnames","msgid":"Emmanuel","msgstr":"Эммануэль"}
+{"msgctxt":"npcnames","msgid":"Emmett","msgstr":"Эммет"}
+{"msgctxt":"npcnames","msgid":"Enoch","msgstr":"Энох"}
+{"msgctxt":"npcnames","msgid":"Eric","msgstr":"Эрик"}
+{"msgctxt":"npcnames","msgid":"Erin","msgstr":"Эрин"}
+{"msgctxt":"npcnames","msgid":"Ernest","msgstr":"Эрнест"}
+{"msgctxt":"npcnames","msgid":"Ernie","msgstr":"Эрни"}
+{"msgctxt":"npcnames","msgid":"Errol","msgstr":"Эррол"}
+{"msgctxt":"npcnames","msgid":"Ervin","msgstr":"Эрвин"}
+{"msgctxt":"npcnames","msgid":"Ethan","msgstr":"Этан"}
+{"msgctxt":"npcnames","msgid":"Ethel","msgstr":"Этель"}
+{"msgctxt":"npcnames","msgid":"Eton","msgstr":"Итон"}
+{"msgctxt":"npcnames","msgid":"Eudocia","msgstr":"Эудоция"}
+{"msgctxt":"npcnames","msgid":"Eugene","msgstr":"Евгений"}
+{"msgctxt":"npcnames","msgid":"Eva","msgstr":"Ева"}
+{"msgctxt":"npcnames","msgid":"Evan","msgstr":"Эван"}
+{"msgctxt":"npcnames","msgid":"Evelyn","msgstr":"Эвелин"}
+{"msgctxt":"npcnames","msgid":"Fabian","msgstr":"Фабиан"}
+{"msgctxt":"npcnames","msgid":"Faith","msgstr":"Фейт"}
+{"msgctxt":"npcnames","msgid":"Farrell","msgstr":"Фаррел"}
+{"msgctxt":"npcnames","msgid":"Felicia","msgstr":"Фелиция"}
+{"msgctxt":"npcnames","msgid":"Felix","msgstr":"Феликс"}
+{"msgctxt":"npcnames","msgid":"Ferdinand","msgstr":"Фердинанд"}
+{"msgctxt":"npcnames","msgid":"Fiammetta","msgstr":"Фиаметта"}
+{"msgctxt":"npcnames","msgid":"Fiosama","msgstr":"Фьосам"}
+{"msgctxt":"npcnames","msgid":"Fletcher","msgstr":"Флетчер"}
+{"msgctxt":"npcnames","msgid":"Flonah","msgstr":"Флона"}
+{"msgctxt":"npcnames","msgid":"Florence","msgstr":"Флоренция"}
+{"msgctxt":"npcnames","msgid":"Flossie","msgstr":"Флосси"}
+{"msgctxt":"npcnames","msgid":"Floyd","msgstr":"Флойд"}
+{"msgctxt":"npcnames","msgid":"Forrest","msgstr":"Форрест"}
+{"msgctxt":"npcnames","msgid":"Forsythia","msgstr":"Форсития"}
+{"msgctxt":"npcnames","msgid":"Fralie","msgstr":"Фрали"}
+{"msgctxt":"npcnames","msgid":"Francesca","msgstr":"Франческа"}
+{"msgctxt":"npcnames","msgid":"Francisco","msgstr":"Франциско"}
+{"msgctxt":"npcnames","msgid":"Frank","msgstr":"Франк"}
+{"msgctxt":"npcnames","msgid":"Franklin","msgstr":"Франклин"}
+{"msgctxt":"npcnames","msgid":"Franz","msgstr":"Франц"}
+{"msgctxt":"npcnames","msgid":"Fred","msgstr":"Фред"}
+{"msgctxt":"npcnames","msgid":"Frederick","msgstr":"Фредерик"}
+{"msgctxt":"npcnames","msgid":"Freya","msgstr":"Фрейа"}
+{"msgctxt":"npcnames","msgid":"Gabe","msgstr":"Габэ"}
+{"msgctxt":"npcnames","msgid":"Gabriel","msgstr":"Габриэль"}
+{"msgctxt":"npcnames","msgid":"Gaetano","msgstr":"Гаэтано"}
+{"msgctxt":"npcnames","msgid":"Gail","msgstr":"Гейл"}
+{"msgctxt":"npcnames","msgid":"Gaivan","msgstr":"Гайван"}
+{"msgctxt":"npcnames","msgid":"Ganah","msgstr":"Гана"}
+{"msgctxt":"npcnames","msgid":"Garett","msgstr":"Гаррет"}
+{"msgctxt":"npcnames","msgid":"Gary ","msgstr":"Гэри"}
+{"msgctxt":"npcnames","msgid":"Ged","msgstr":"Джед"}
+{"msgctxt":"npcnames","msgid":"Gelsominia","msgstr":"Джелсоминия"}
+{"msgctxt":"npcnames","msgid":"Gemah","msgstr":"Гема"}
+{"msgctxt":"npcnames","msgid":"Geme","msgstr":"Джем"}
+{"msgctxt":"npcnames","msgid":"Genikki","msgstr":"Геникки"}
+{"msgctxt":"npcnames","msgid":"Geoffrey","msgstr":"Джоффрей"}
+{"msgctxt":"npcnames","msgid":"George","msgstr":"Джордж"}
+{"msgctxt":"npcnames","msgid":"Georgina","msgstr":"Георгина"}
+{"msgctxt":"npcnames","msgid":"Gerald","msgstr":"Джеральд"}
+{"msgctxt":"npcnames","msgid":"Geraldine","msgstr":"Джеральдина"}
+{"msgctxt":"npcnames","msgid":"Gerry","msgstr":"Джерри"}
+{"msgctxt":"npcnames","msgid":"Gertrude","msgstr":"Гертруда"}
+{"msgctxt":"npcnames","msgid":"Gilbert","msgstr":"Гилберт"}
+{"msgctxt":"npcnames","msgid":"Gillian","msgstr":"Джиллиан"}
+{"msgctxt":"npcnames","msgid":"Gilmore","msgstr":"Гилмор"}
+{"msgctxt":"npcnames","msgid":"Gina","msgstr":"Джина"}
+{"msgctxt":"npcnames","msgid":"Ginger","msgstr":"Джинжер"}
+{"msgctxt":"npcnames","msgid":"Ginny","msgstr":"Джинни"}
+{"msgctxt":"npcnames","msgid":"Gino","msgstr":"Джино"}
+{"msgctxt":"npcnames","msgid":"Glenda","msgstr":"Гленда"}
+{"msgctxt":"npcnames","msgid":"Glenn","msgstr":"Гленн"}
+{"msgctxt":"npcnames","msgid":"Gloria","msgstr":"Глория"}
+{"msgctxt":"npcnames","msgid":"Glynis","msgstr":"Глайнис"}
+{"msgctxt":"npcnames","msgid":"Gobra","msgstr":"Гобра"}
+{"msgctxt":"npcnames","msgid":"Gonzalo","msgstr":"Гонсало"}
+{"msgctxt":"npcnames","msgid":"Gordon","msgstr":"Гордон"}
+{"msgctxt":"npcnames","msgid":"Graham","msgstr":"Грэм"}
+{"msgctxt":"npcnames","msgid":"Grant","msgstr":"Грант"}
+{"msgctxt":"npcnames","msgid":"Greg","msgstr":"Грег"}
+{"msgctxt":"npcnames","msgid":"Gregory","msgstr":"Грегори"}
+{"msgctxt":"npcnames","msgid":"Gretchen","msgstr":"Гретхен"}
+{"msgctxt":"npcnames","msgid":"Grey","msgstr":"Грей"}
+{"msgctxt":"npcnames","msgid":"Guillerno","msgstr":"Гиллерно"}
+{"msgctxt":"npcnames","msgid":"Gus","msgstr":"Гус"}
+{"msgctxt":"npcnames","msgid":"Guy","msgstr":"Гай"}
+{"msgctxt":"npcnames","msgid":"Gwenda","msgstr":"Гвенда"}
+{"msgctxt":"npcnames","msgid":"Gwendolyn","msgstr":"Гвендолин"}
+{"msgctxt":"npcnames","msgid":"Gwenn","msgstr":"Гвенн"}
+{"msgctxt":"npcnames","msgid":"Hal","msgstr":"Хал"}
+{"msgctxt":"npcnames","msgid":"Haleyther","msgstr":"Хэлите"}
+{"msgctxt":"npcnames","msgid":"Hampton","msgstr":"Хэмптон"}
+{"msgctxt":"npcnames","msgid":"Han","msgstr":"Хан"}
+{"msgctxt":"npcnames","msgid":"Hana","msgstr":"Хана"}
+{"msgctxt":"npcnames","msgid":"Hank","msgstr":"Ханк"}
+{"msgctxt":"npcnames","msgid":"Hannah","msgstr":"Ханна"}
+{"msgctxt":"npcnames","msgid":"Hans","msgstr":"Ханс"}
+{"msgctxt":"npcnames","msgid":"Hara","msgstr":"Хара"}
+{"msgctxt":"npcnames","msgid":"Hardy","msgstr":"Харди"}
+{"msgctxt":"npcnames","msgid":"Harlan","msgstr":"Харлан"}
+{"msgctxt":"npcnames","msgid":"Harley","msgstr":"Харли"}
+{"msgctxt":"npcnames","msgid":"Harold","msgstr":"Гарольд"}
+{"msgctxt":"npcnames","msgid":"Harriet","msgstr":"Хариетта"}
+{"msgctxt":"npcnames","msgid":"Harrison","msgstr":"Харрисон"}
+{"msgctxt":"npcnames","msgid":"Harry","msgstr":"Харри"}
+{"msgctxt":"npcnames","msgid":"Harvey","msgstr":"Харви"}
+{"msgctxt":"npcnames","msgid":"Hayden","msgstr":"Гайден"}
+{"msgctxt":"npcnames","msgid":"Heath","msgstr":"Хиф"}
+{"msgctxt":"npcnames","msgid":"Heather","msgstr":"Хифер"}
+{"msgctxt":"npcnames","msgid":"Heathet","msgstr":"Хифет"}
+{"msgctxt":"npcnames","msgid":"Hector","msgstr":"Гектор"}
+{"msgctxt":"npcnames","msgid":"Heidi","msgstr":"Хайди"}
+{"msgctxt":"npcnames","msgid":"Heladia","msgstr":"Эладия"}
+{"msgctxt":"npcnames","msgid":"Helen","msgstr":"Хелен"}
+{"msgctxt":"npcnames","msgid":"Helmut","msgstr":"Гельмут"}
+{"msgctxt":"npcnames","msgid":"Henry","msgstr":"Генри"}
+{"msgctxt":"npcnames","msgid":"Herb","msgstr":"Герб"}
+{"msgctxt":"npcnames","msgid":"Herbert","msgstr":"Герберт"}
+{"msgctxt":"npcnames","msgid":"Herman","msgstr":"Герман"}
+{"msgctxt":"npcnames","msgid":"Herzl","msgstr":"Герцл"}
+{"msgctxt":"npcnames","msgid":"Hibernia","msgstr":"Иберния"}
+{"msgctxt":"npcnames","msgid":"Hilda","msgstr":"Хильда"}
+{"msgctxt":"npcnames","msgid":"Hildereth","msgstr":"Гильдерет"}
+{"msgctxt":"npcnames","msgid":"Hitomi","msgstr":"Хитоми"}
+{"msgctxt":"npcnames","msgid":"Hoc","msgstr":"Хок"}
+{"msgctxt":"npcnames","msgid":"Holden","msgstr":"Холден"}
+{"msgctxt":"npcnames","msgid":"Holly","msgstr":"Холли"}
+{"msgctxt":"npcnames","msgid":"Homer","msgstr":"Гомер"}
+{"msgctxt":"npcnames","msgid":"Horace","msgstr":"Гораций"}
+{"msgctxt":"npcnames","msgid":"Howard","msgstr":"Говард"}
+{"msgctxt":"npcnames","msgid":"Hued","msgstr":"Хуэд"}
+{"msgctxt":"npcnames","msgid":"Hugh","msgstr":"Хаф"}
+{"msgctxt":"npcnames","msgid":"Hugo","msgstr":"Хьюго"}
+{"msgctxt":"npcnames","msgid":"Hunter","msgstr":"Хантер"}
+{"msgctxt":"npcnames","msgid":"Ian","msgstr":"Ян"}
+{"msgctxt":"npcnames","msgid":"Ida","msgstr":"Ида"}
+{"msgctxt":"npcnames","msgid":"Idona","msgstr":"Идона"}
+{"msgctxt":"npcnames","msgid":"Ignacio","msgstr":"Игнасио"}
+{"msgctxt":"npcnames","msgid":"Igor","msgstr":"Игорь"}
+{"msgctxt":"npcnames","msgid":"Ike","msgstr":"Айк"}
+{"msgctxt":"npcnames","msgid":"Ilene","msgstr":"Илена"}
+{"msgctxt":"npcnames","msgid":"Imelda","msgstr":"Имельда"}
+{"msgctxt":"npcnames","msgid":"Inocencia","msgstr":"Инокентия"}
+{"msgctxt":"npcnames","msgid":"Ira","msgstr":"Айра"}
+{"msgctxt":"npcnames","msgid":"Irelerie","msgstr":"Айрелери"}
+{"msgctxt":"npcnames","msgid":"Irene","msgstr":"Ирена"}
+{"msgctxt":"npcnames","msgid":"Irewa","msgstr":"Ирева"}
+{"msgctxt":"npcnames","msgid":"Irina","msgstr":"Ирина"}
+{"msgctxt":"npcnames","msgid":"Iris","msgstr":"Ирис"}
+{"msgctxt":"npcnames","msgid":"Irma","msgstr":"Ирма"}
+{"msgctxt":"npcnames","msgid":"Irving","msgstr":"Ирвинг"}
+{"msgctxt":"npcnames","msgid":"Irwin","msgstr":"Ирвин"}
+{"msgctxt":"npcnames","msgid":"Isaac","msgstr":"Исаак"}
+{"msgctxt":"npcnames","msgid":"Isadora","msgstr":"Исадора"}
+{"msgctxt":"npcnames","msgid":"Isaeli","msgstr":"Исаэли"}
+{"msgctxt":"npcnames","msgid":"Isafe","msgstr":"Исаф"}
+{"msgctxt":"npcnames","msgid":"Isao","msgstr":"Исао"}
+{"msgctxt":"npcnames","msgid":"Ismael","msgstr":"Измаил"}
+{"msgctxt":"npcnames","msgid":"Ivan","msgstr":"Иван"}
+{"msgctxt":"npcnames","msgid":"Ivar","msgstr":"Ивар"}
+{"msgctxt":"npcnames","msgid":"Ivy","msgstr":"Айви"}
+{"msgctxt":"npcnames","msgid":"Jack","msgstr":"Джек"}
+{"msgctxt":"npcnames","msgid":"Jackie","msgstr":"Джеки"}
+{"msgctxt":"npcnames","msgid":"Jacob","msgstr":"Якоб"}
+{"msgctxt":"npcnames","msgid":"Jacobina","msgstr":"Якобина"}
+{"msgctxt":"npcnames","msgid":"Jacquline","msgstr":"Жаквилин"}
+{"msgctxt":"npcnames","msgid":"Jade","msgstr":"Джейд"}
+{"msgctxt":"npcnames","msgid":"Jaerin","msgstr":"Джерин"}
+{"msgctxt":"npcnames","msgid":"Jake","msgstr":"Джейк"}
+{"msgctxt":"npcnames","msgid":"James","msgstr":"Джеймс"}
+{"msgctxt":"npcnames","msgid":"Jamie","msgstr":"Джеми"}
+{"msgctxt":"npcnames","msgid":"Jane","msgstr":"Джейн"}
+{"msgctxt":"npcnames","msgid":"Janet","msgstr":"Жанетт"}
+{"msgctxt":"npcnames","msgid":"Janice","msgstr":"Жанис"}
+{"msgctxt":"npcnames","msgid":"Janine","msgstr":"Жанин"}
+{"msgctxt":"npcnames","msgid":"Janna","msgstr":"Жанна"}
+{"msgctxt":"npcnames","msgid":"Jarrod","msgstr":"Джарод"}
+{"msgctxt":"npcnames","msgid":"Jasmine","msgstr":"Жасмин"}
+{"msgctxt":"npcnames","msgid":"Jason","msgstr":"Джейсон"}
+{"msgctxt":"npcnames","msgid":"Jasper","msgstr":"Джаспер"}
+{"msgctxt":"npcnames","msgid":"Javane","msgstr":"Джавейн"}
+{"msgctxt":"npcnames","msgid":"Javier","msgstr":"Джавир"}
+{"msgctxt":"npcnames","msgid":"Jay","msgstr":"джей"}
+{"msgctxt":"npcnames","msgid":"Jayne","msgstr":"Жейн"}
+{"msgctxt":"npcnames","msgid":"Jean","msgstr":"Джин"}
+{"msgctxt":"npcnames","msgid":"Jean-Paul","msgstr":"Жан-Пол"}
+{"msgctxt":"npcnames","msgid":"Jean-Pierre","msgstr":"Жан-Пьер"}
+{"msgctxt":"npcnames","msgid":"Jeanette","msgstr":"Жанетта"}
+{"msgctxt":"npcnames","msgid":"Jeanne","msgstr":"Джанис"}
+{"msgctxt":"npcnames","msgid":"Jeannette","msgstr":"Жанета"}
+{"msgctxt":"npcnames","msgid":"Jed","msgstr":"Джед"}
+{"msgctxt":"npcnames","msgid":"Jeisa","msgstr":"Джейса"}
+{"msgctxt":"npcnames","msgid":"Jenna","msgstr":"Женна"}
+{"msgctxt":"npcnames","msgid":"Jennifer","msgstr":"Дженифер"}
+{"msgctxt":"npcnames","msgid":"Jennilee","msgstr":"Дженнили"}
+{"msgctxt":"npcnames","msgid":"Jenny","msgstr":"Дженни"}
+{"msgctxt":"npcnames","msgid":"Jeremiah","msgstr":"Иеремия"}
+{"msgctxt":"npcnames","msgid":"Jeremy","msgstr":"Джереми"}
+{"msgctxt":"npcnames","msgid":"Jerome","msgstr":"Джером"}
+{"msgctxt":"npcnames","msgid":"Jessaa","msgstr":"Джесса"}
+{"msgctxt":"npcnames","msgid":"Jesse","msgstr":"Джесс"}
+{"msgctxt":"npcnames","msgid":"Jessica","msgstr":"Джессика"}
+{"msgctxt":"npcnames","msgid":"Jeuna","msgstr":"Джуна"}
+{"msgctxt":"npcnames","msgid":"Jim","msgstr":"Джим"}
+{"msgctxt":"npcnames","msgid":"Jo","msgstr":"Жо"}
+{"msgctxt":"npcnames","msgid":"JoAnne","msgstr":"ДжоАнна"}
+{"msgctxt":"npcnames","msgid":"Joan","msgstr":"Джоан"}
+{"msgctxt":"npcnames","msgid":"Joann","msgstr":"Джоанн"}
+{"msgctxt":"npcnames","msgid":"Joe","msgstr":"Джо"}
+{"msgctxt":"npcnames","msgid":"Joel","msgstr":"Жоэль"}
+{"msgctxt":"npcnames","msgid":"Joeseph","msgstr":"Жозеф"}
+{"msgctxt":"npcnames","msgid":"Johann","msgstr":"Йохан"}
+{"msgctxt":"npcnames","msgid":"Johanna","msgstr":"Джоанна"}
+{"msgctxt":"npcnames","msgid":"John","msgstr":"Джон"}
+{"msgctxt":"npcnames","msgid":"Jon","msgstr":"Йон"}
+{"msgctxt":"npcnames","msgid":"Jonah","msgstr":"Иона"}
+{"msgctxt":"npcnames","msgid":"Jonathan","msgstr":"Джонатан"}
+{"msgctxt":"npcnames","msgid":"Jordan","msgstr":"Джордан"}
+{"msgctxt":"npcnames","msgid":"Joren","msgstr":"Йорен"}
+{"msgctxt":"npcnames","msgid":"Joshua","msgstr":"Джошуа"}
+{"msgctxt":"npcnames","msgid":"Jotha","msgstr":"Йота"}
+{"msgctxt":"npcnames","msgid":"Joyce","msgstr":"Джойсин"}
+{"msgctxt":"npcnames","msgid":"Judan","msgstr":"Йудан"}
+{"msgctxt":"npcnames","msgid":"Judd","msgstr":"Джадд"}
+{"msgctxt":"npcnames","msgid":"Judi","msgstr":"Джуди"}
+{"msgctxt":"npcnames","msgid":"Judith","msgstr":"Юдифь"}
+{"msgctxt":"npcnames","msgid":"Judy","msgstr":"Джудис"}
+{"msgctxt":"npcnames","msgid":"Juevan","msgstr":"Джеван"}
+{"msgctxt":"npcnames","msgid":"Jules","msgstr":"Жулес"}
+{"msgctxt":"npcnames","msgid":"Julie","msgstr":"Джули"}
+{"msgctxt":"npcnames","msgid":"June","msgstr":"Джун"}
+{"msgctxt":"npcnames","msgid":"Juphi","msgstr":"Джуфи"}
+{"msgctxt":"npcnames","msgid":"Justice","msgstr":"Джастис"}
+{"msgctxt":"npcnames","msgid":"Justin","msgstr":"Джастин"}
+{"msgctxt":"npcnames","msgid":"Kade","msgstr":"Каде"}
+{"msgctxt":"npcnames","msgid":"Kai","msgstr":"Кай"}
+{"msgctxt":"npcnames","msgid":"Kaitlin","msgstr":"Кэйтлин"}
+{"msgctxt":"npcnames","msgid":"Kandie","msgstr":"Кэнди"}
+{"msgctxt":"npcnames","msgid":"Kareen","msgstr":"Карен"}
+{"msgctxt":"npcnames","msgid":"Karen","msgstr":"Карен"}
+{"msgctxt":"npcnames","msgid":"Kariad","msgstr":"Кариад"}
+{"msgctxt":"npcnames","msgid":"Karie","msgstr":"Кэри"}
+{"msgctxt":"npcnames","msgid":"Kariti","msgstr":"Карити"}
+{"msgctxt":"npcnames","msgid":"Karl","msgstr":"Карл"}
+{"msgctxt":"npcnames","msgid":"Kassandra","msgstr":"Кассандра"}
+{"msgctxt":"npcnames","msgid":"Kathleen","msgstr":"Катлин"}
+{"msgctxt":"npcnames","msgid":"Kay","msgstr":"Кэй"}
+{"msgctxt":"npcnames","msgid":"Kayleen","msgstr":"Кейлин"}
+{"msgctxt":"npcnames","msgid":"Kayley","msgstr":"Кейли"}
+{"msgctxt":"npcnames","msgid":"Kearia","msgstr":"Кеария"}
+{"msgctxt":"npcnames","msgid":"Keegan","msgstr":"Киган"}
+{"msgctxt":"npcnames","msgid":"Kegar","msgstr":"Кегар"}
+{"msgctxt":"npcnames","msgid":"Keith","msgstr":"Кейт"}
+{"msgctxt":"npcnames","msgid":"Kel","msgstr":"Кел"}
+{"msgctxt":"npcnames","msgid":"Kelley","msgstr":"Келли"}
+{"msgctxt":"npcnames","msgid":"Kelly","msgstr":"Келли"}
+{"msgctxt":"npcnames","msgid":"Ken","msgstr":"Кен"}
+{"msgctxt":"npcnames","msgid":"Kenneth","msgstr":"Кеннет"}
+{"msgctxt":"npcnames","msgid":"Keri","msgstr":"Кери"}
+{"msgctxt":"npcnames","msgid":"Kern","msgstr":"Керн"}
+{"msgctxt":"npcnames","msgid":"Kesel","msgstr":"Кесель"}
+{"msgctxt":"npcnames","msgid":"Kevin","msgstr":"Кевин"}
+{"msgctxt":"npcnames","msgid":"Kezia","msgstr":"Кезия"}
+{"msgctxt":"npcnames","msgid":"Khanh","msgstr":"Хан"}
+{"msgctxt":"npcnames","msgid":"Kieri","msgstr":"Кьери"}
+{"msgctxt":"npcnames","msgid":"Kiir","msgstr":"Киир"}
+{"msgctxt":"npcnames","msgid":"Kile","msgstr":"Килэ"}
+{"msgctxt":"npcnames","msgid":"Kim","msgstr":"Ким"}
+{"msgctxt":"npcnames","msgid":"Kimberly","msgstr":"Кимберли"}
+{"msgctxt":"npcnames","msgid":"Kira","msgstr":"Кира"}
+{"msgctxt":"npcnames","msgid":"Kirk","msgstr":"Кирк"}
+{"msgctxt":"npcnames","msgid":"Kosto","msgstr":"Косто"}
+{"msgctxt":"npcnames","msgid":"Krira","msgstr":"Крира"}
+{"msgctxt":"npcnames","msgid":"Kristen","msgstr":"Кристен"}
+{"msgctxt":"npcnames","msgid":"Kristina","msgstr":"Кристис"}
+{"msgctxt":"npcnames","msgid":"Kynthia","msgstr":"Кинтия"}
+{"msgctxt":"npcnames","msgid":"Lainey","msgstr":"Лейни"}
+{"msgctxt":"npcnames","msgid":"Lakeshia","msgstr":"Лейктия"}
+{"msgctxt":"npcnames","msgid":"Lana","msgstr":"Лана"}
+{"msgctxt":"npcnames","msgid":"Lance","msgstr":"Лэнс"}
+{"msgctxt":"npcnames","msgid":"Lara","msgstr":"Лара"}
+{"msgctxt":"npcnames","msgid":"Larry","msgstr":"Ларри"}
+{"msgctxt":"npcnames","msgid":"Lars","msgstr":"Ларс"}
+{"msgctxt":"npcnames","msgid":"Latanya","msgstr":"Латания"}
+{"msgctxt":"npcnames","msgid":"Laueli","msgstr":"Лоэли"}
+{"msgctxt":"npcnames","msgid":"Laura","msgstr":"Лаура"}
+{"msgctxt":"npcnames","msgid":"Lauren","msgstr":"Лорен"}
+{"msgctxt":"npcnames","msgid":"Laurie","msgstr":"Лаури"}
+{"msgctxt":"npcnames","msgid":"Lauuna","msgstr":"Лойуна"}
+{"msgctxt":"npcnames","msgid":"Lazare","msgstr":"Лазарь"}
+{"msgctxt":"npcnames","msgid":"Leah","msgstr":"Леа"}
+{"msgctxt":"npcnames","msgid":"Leasa","msgstr":"Леаса"}
+{"msgctxt":"npcnames","msgid":"Lee","msgstr":"Ли"}
+{"msgctxt":"npcnames","msgid":"Lee Ann","msgstr":"Ли Энн"}
+{"msgctxt":"npcnames","msgid":"Leif","msgstr":"Лейф"}
+{"msgctxt":"npcnames","msgid":"Leland","msgstr":"Леланд"}
+{"msgctxt":"npcnames","msgid":"Leo","msgstr":"Лео"}
+{"msgctxt":"npcnames","msgid":"Leola","msgstr":"Лила"}
+{"msgctxt":"npcnames","msgid":"Leon","msgstr":"Леон"}
+{"msgctxt":"npcnames","msgid":"Leonard","msgstr":"Леонард"}
+{"msgctxt":"npcnames","msgid":"Leora","msgstr":"Леора"}
+{"msgctxt":"npcnames","msgid":"Leriedan","msgstr":"Леридан"}
+{"msgctxt":"npcnames","msgid":"Leroy","msgstr":"Лерой"}
+{"msgctxt":"npcnames","msgid":"Leslie","msgstr":"Лесли"}
+{"msgctxt":"npcnames","msgid":"Lester","msgstr":"Лестер"}
+{"msgctxt":"npcnames","msgid":"Lewe","msgstr":"Леве"}
+{"msgctxt":"npcnames","msgid":"Lewis","msgstr":"Льюис"}
+{"msgctxt":"npcnames","msgid":"Liabra","msgstr":"Лиабра"}
+{"msgctxt":"npcnames","msgid":"Liam","msgstr":"Лиам"}
+{"msgctxt":"npcnames","msgid":"Liana","msgstr":"Лиана"}
+{"msgctxt":"npcnames","msgid":"Lilith","msgstr":"Лилит"}
+{"msgctxt":"npcnames","msgid":"Lilly","msgstr":"Лилли"}
+{"msgctxt":"npcnames","msgid":"Linda","msgstr":"Линда"}
+{"msgctxt":"npcnames","msgid":"Lindsey","msgstr":"Линдси"}
+{"msgctxt":"npcnames","msgid":"Lionel","msgstr":"Лайонел"}
+{"msgctxt":"npcnames","msgid":"Lisa","msgstr":"Лиза"}
+{"msgctxt":"npcnames","msgid":"Livia","msgstr":"Ливия"}
+{"msgctxt":"npcnames","msgid":"Lloyd","msgstr":"Ллойд"}
+{"msgctxt":"npcnames","msgid":"Logan","msgstr":"Логан"}
+{"msgctxt":"npcnames","msgid":"Lois","msgstr":"Луиса"}
+{"msgctxt":"npcnames","msgid":"Lon","msgstr":"Лон"}
+{"msgctxt":"npcnames","msgid":"Lonny","msgstr":"Лонни"}
+{"msgctxt":"npcnames","msgid":"Lora","msgstr":"Лора"}
+{"msgctxt":"npcnames","msgid":"Lorelie","msgstr":"Лорели"}
+{"msgctxt":"npcnames","msgid":"Loric","msgstr":"Лорик"}
+{"msgctxt":"npcnames","msgid":"Lorraine","msgstr":"Лорена"}
+{"msgctxt":"npcnames","msgid":"Lou","msgstr":"Лои"}
+{"msgctxt":"npcnames","msgid":"Louie","msgstr":"Луи"}
+{"msgctxt":"npcnames","msgid":"Louis","msgstr":"Луис"}
+{"msgctxt":"npcnames","msgid":"Louise","msgstr":"Луиза"}
+{"msgctxt":"npcnames","msgid":"Lowell","msgstr":"Лоуэлл"}
+{"msgctxt":"npcnames","msgid":"Lucile","msgstr":"Люсиль"}
+{"msgctxt":"npcnames","msgid":"Lucky","msgstr":"Лаки"}
+{"msgctxt":"npcnames","msgid":"Ludwig","msgstr":"Людвиг"}
+{"msgctxt":"npcnames","msgid":"Luigi","msgstr":"Луиджи"}
+{"msgctxt":"npcnames","msgid":"Luke","msgstr":"Люк"}
+{"msgctxt":"npcnames","msgid":"Luther","msgstr":"Лютер"}
+{"msgctxt":"npcnames","msgid":"Lyman","msgstr":"Лайман"}
+{"msgctxt":"npcnames","msgid":"Lynden","msgstr":"Линден"}
+{"msgctxt":"npcnames","msgid":"Lynne","msgstr":"Линн"}
+{"msgctxt":"npcnames","msgid":"Lyra","msgstr":"Лира"}
+{"msgctxt":"npcnames","msgid":"Lysandra","msgstr":"Лисандра"}
+{"msgctxt":"npcnames","msgid":"Maaly","msgstr":"Мали"}
+{"msgctxt":"npcnames","msgid":"Mac","msgstr":"Мак"}
+{"msgctxt":"npcnames","msgid":"Macro","msgstr":"Макро"}
+{"msgctxt":"npcnames","msgid":"Madeleine","msgstr":"Маделена"}
+{"msgctxt":"npcnames","msgid":"Maggie","msgstr":"Мэгги"}
+{"msgctxt":"npcnames","msgid":"Maje","msgstr":"Майе"}
+{"msgctxt":"npcnames","msgid":"Malcolm","msgstr":"Малькольм"}
+{"msgctxt":"npcnames","msgid":"Mallcora","msgstr":"Малькора"}
+{"msgctxt":"npcnames","msgid":"Mamie","msgstr":"Мами"}
+{"msgctxt":"npcnames","msgid":"Mandy","msgstr":"Мэнди"}
+{"msgctxt":"npcnames","msgid":"Manfred","msgstr":"Манфред"}
+{"msgctxt":"npcnames","msgid":"Manny","msgstr":"Мэнни"}
+{"msgctxt":"npcnames","msgid":"Marc","msgstr":"Марк"}
+{"msgctxt":"npcnames","msgid":"Marcello","msgstr":"Марселло"}
+{"msgctxt":"npcnames","msgid":"Marcia","msgstr":"Марсия"}
+{"msgctxt":"npcnames","msgid":"Marco","msgstr":"Марко"}
+{"msgctxt":"npcnames","msgid":"Marcus","msgstr":"Маркус"}
+{"msgctxt":"npcnames","msgid":"Marcy","msgstr":"Марси"}
+{"msgctxt":"npcnames","msgid":"Margaret","msgstr":"Маргарита"}
+{"msgctxt":"npcnames","msgid":"Marge","msgstr":"Марж"}
+{"msgctxt":"npcnames","msgid":"Maria","msgstr":"Мария"}
+{"msgctxt":"npcnames","msgid":"Marian","msgstr":"Мариана"}
+{"msgctxt":"npcnames","msgid":"Marianne","msgstr":"Марианна"}
+{"msgctxt":"npcnames","msgid":"Marie","msgstr":"Маришаль"}
+{"msgctxt":"npcnames","msgid":"Mariline","msgstr":"Мэрилен"}
+{"msgctxt":"npcnames","msgid":"Marilyn","msgstr":"Мэрилин"}
+{"msgctxt":"npcnames","msgid":"Marinie","msgstr":"Марини"}
+{"msgctxt":"npcnames","msgid":"Mario","msgstr":"Марио"}
+{"msgctxt":"npcnames","msgid":"Marion","msgstr":"Марион"}
+{"msgctxt":"npcnames","msgid":"Marisa","msgstr":"Мариса"}
+{"msgctxt":"npcnames","msgid":"Marjorie","msgstr":"Марджори"}
+{"msgctxt":"npcnames","msgid":"Mark","msgstr":"Марк"}
+{"msgctxt":"npcnames","msgid":"Marlene","msgstr":"Марлен"}
+{"msgctxt":"npcnames","msgid":"Marlon","msgstr":"Марлон"}
+{"msgctxt":"npcnames","msgid":"Marnie","msgstr":"Марни"}
+{"msgctxt":"npcnames","msgid":"Marsha","msgstr":"Марша"}
+{"msgctxt":"npcnames","msgid":"Marshal","msgstr":"Маршалл"}
+{"msgctxt":"npcnames","msgid":"Martha","msgstr":"Марта"}
+{"msgctxt":"npcnames","msgid":"Martin","msgstr":"Мартин"}
+{"msgctxt":"npcnames","msgid":"Martyl","msgstr":"Мартил"}
+{"msgctxt":"npcnames","msgid":"Marvin","msgstr":"Марвин"}
+{"msgctxt":"npcnames","msgid":"Mary","msgstr":"Мэри"}
+{"msgctxt":"npcnames","msgid":"Mary Jo","msgstr":"Мэри Джо"}
+{"msgctxt":"npcnames","msgid":"Maryli","msgstr":"Мэрили"}
+{"msgctxt":"npcnames","msgid":"Maryse","msgstr":"Марис"}
+{"msgctxt":"npcnames","msgid":"Mathew","msgstr":"Мэттью"}
+{"msgctxt":"npcnames","msgid":"Matt","msgstr":"Мэтт"}
+{"msgctxt":"npcnames","msgid":"Maul","msgstr":"Маул"}
+{"msgctxt":"npcnames","msgid":"Maureen","msgstr":"Морина"}
+{"msgctxt":"npcnames","msgid":"Max","msgstr":"Макс"}
+{"msgctxt":"npcnames","msgid":"Maxwell","msgstr":"Максвел"}
+{"msgctxt":"npcnames","msgid":"Mayme","msgstr":"Мейм"}
+{"msgctxt":"npcnames","msgid":"Mel","msgstr":"Мэл"}
+{"msgctxt":"npcnames","msgid":"Melanie","msgstr":"Мелани"}
+{"msgctxt":"npcnames","msgid":"Melinda","msgstr":"Мелинда"}
+{"msgctxt":"npcnames","msgid":"Melissa","msgstr":"Мелисса"}
+{"msgctxt":"npcnames","msgid":"Melody","msgstr":"Мелоди"}
+{"msgctxt":"npcnames","msgid":"Melvin","msgstr":"Мэлвин"}
+{"msgctxt":"npcnames","msgid":"Mercedes","msgstr":"Мерседес"}
+{"msgctxt":"npcnames","msgid":"Michele","msgstr":"Мишель"}
+{"msgctxt":"npcnames","msgid":"Mick","msgstr":"Мик"}
+{"msgctxt":"npcnames","msgid":"Mike","msgstr":"Майк"}
+{"msgctxt":"npcnames","msgid":"Miles","msgstr":"Майлс"}
+{"msgctxt":"npcnames","msgid":"Mina","msgstr":"Мина"}
+{"msgctxt":"npcnames","msgid":"Mindy","msgstr":"Минди"}
+{"msgctxt":"npcnames","msgid":"Minnie","msgstr":"Минни"}
+{"msgctxt":"npcnames","msgid":"Miraan","msgstr":"Мираан"}
+{"msgctxt":"npcnames","msgid":"Miriam","msgstr":"Мириам"}
+{"msgctxt":"npcnames","msgid":"Mitch","msgstr":"Митч"}
+{"msgctxt":"npcnames","msgid":"Mohammed","msgstr":"Мохаммед"}
+{"msgctxt":"npcnames","msgid":"Moira","msgstr":"Мойра"}
+{"msgctxt":"npcnames","msgid":"Monica","msgstr":"Моника"}
+{"msgctxt":"npcnames","msgid":"Monte","msgstr":"Монте"}
+{"msgctxt":"npcnames","msgid":"Morel","msgstr":"Морель"}
+{"msgctxt":"npcnames","msgid":"Morris","msgstr":"Моррис"}
+{"msgctxt":"npcnames","msgid":"Morton","msgstr":"Мортон"}
+{"msgctxt":"npcnames","msgid":"Moven","msgstr":"Мовен"}
+{"msgctxt":"npcnames","msgid":"Muriel","msgstr":"Мюрель"}
+{"msgctxt":"npcnames","msgid":"Murray","msgstr":"Мюррей"}
+{"msgctxt":"npcnames","msgid":"Myles","msgstr":"Майлз"}
+{"msgctxt":"npcnames","msgid":"Mylix","msgstr":"Майликс"}
+{"msgctxt":"npcnames","msgid":"Nadine","msgstr":"Надина"}
+{"msgctxt":"npcnames","msgid":"Nahen","msgstr":"Наэн"}
+{"msgctxt":"npcnames","msgid":"Nancie","msgstr":"Нэнси"}
+{"msgctxt":"npcnames","msgid":"Nancy","msgstr":"Нэнсис"}
+{"msgctxt":"npcnames","msgid":"Naomi","msgstr":"Наоми"}
+{"msgctxt":"npcnames","msgid":"Natalie","msgstr":"Натали"}
+{"msgctxt":"npcnames","msgid":"Nate","msgstr":"Нэйт"}
+{"msgctxt":"npcnames","msgid":"Nathan","msgstr":"Натан"}
+{"msgctxt":"npcnames","msgid":"Nathaniel","msgstr":"Натаниэль"}
+{"msgctxt":"npcnames","msgid":"Navin","msgstr":"Навин"}
+{"msgctxt":"npcnames","msgid":"Neal","msgstr":"Нил"}
+{"msgctxt":"npcnames","msgid":"Ned","msgstr":"Нэд"}
+{"msgctxt":"npcnames","msgid":"Nedra","msgstr":"Нидра"}
+{"msgctxt":"npcnames","msgid":"Nelix","msgstr":"Неликс"}
+{"msgctxt":"npcnames","msgid":"Nelson","msgstr":"Нельсон"}
+{"msgctxt":"npcnames","msgid":"Nerys","msgstr":"Нерис"}
+{"msgctxt":"npcnames","msgid":"Newt","msgstr":"Ньют"}
+{"msgctxt":"npcnames","msgid":"Nichoisaiah","msgstr":"Нихозайа"}
+{"msgctxt":"npcnames","msgid":"Nicholas","msgstr":"Николас"}
+{"msgctxt":"npcnames","msgid":"Nick","msgstr":"Ник"}
+{"msgctxt":"npcnames","msgid":"Nickolas","msgstr":"Николай"}
+{"msgctxt":"npcnames","msgid":"Nicoire","msgstr":"Никойр"}
+{"msgctxt":"npcnames","msgid":"Nicole","msgstr":"Николь"}
+{"msgctxt":"npcnames","msgid":"Nicosi","msgstr":"Никози"}
+{"msgctxt":"npcnames","msgid":"Niki","msgstr":"Ники"}
+{"msgctxt":"npcnames","msgid":"Nilsine","msgstr":"Нильсин"}
+{"msgctxt":"npcnames","msgid":"Niqueale","msgstr":"Никеаль"}
+{"msgctxt":"npcnames","msgid":"Noah","msgstr":"Ной"}
+{"msgctxt":"npcnames","msgid":"Noreen","msgstr":"Норина"}
+{"msgctxt":"npcnames","msgid":"Norene","msgstr":"Норен"}
+{"msgctxt":"npcnames","msgid":"Norm","msgstr":"Норм"}
+{"msgctxt":"npcnames","msgid":"Norma","msgstr":"Норма"}
+{"msgctxt":"npcnames","msgid":"Norman","msgstr":"Норман"}
+{"msgctxt":"npcnames","msgid":"Norris","msgstr":"Норрис"}
+{"msgctxt":"npcnames","msgid":"Odelia","msgstr":"Оделия"}
+{"msgctxt":"npcnames","msgid":"Odethe","msgstr":"Одеф"}
+{"msgctxt":"npcnames","msgid":"Odeva","msgstr":"Одева"}
+{"msgctxt":"npcnames","msgid":"Olaf","msgstr":"Олаф"}
+{"msgctxt":"npcnames","msgid":"Olesia","msgstr":"Олесия"}
+{"msgctxt":"npcnames","msgid":"Oliver","msgstr":"Оливер"}
+{"msgctxt":"npcnames","msgid":"Olivia","msgstr":"Оливия"}
+{"msgctxt":"npcnames","msgid":"Ophira","msgstr":"Офира"}
+{"msgctxt":"npcnames","msgid":"Otis","msgstr":"Отис"}
+{"msgctxt":"npcnames","msgid":"Owen","msgstr":"Оуэн"}
+{"msgctxt":"npcnames","msgid":"Pacifica","msgstr":"Пасифика"}
+{"msgctxt":"npcnames","msgid":"Pago","msgstr":"Паго"}
+{"msgctxt":"npcnames","msgid":"Paige ","msgstr":"Пейдж"}
+{"msgctxt":"npcnames","msgid":"Pam","msgstr":"Пам"}
+{"msgctxt":"npcnames","msgid":"Pamela","msgstr":"Памела"}
+{"msgctxt":"npcnames","msgid":"Pandora","msgstr":"Пандора"}
+{"msgctxt":"npcnames","msgid":"Parker","msgstr":"Паркер"}
+{"msgctxt":"npcnames","msgid":"Parthenia","msgstr":"Партения"}
+{"msgctxt":"npcnames","msgid":"Pat","msgstr":"Пат"}
+{"msgctxt":"npcnames","msgid":"Patricia","msgstr":"Патрисия"}
+{"msgctxt":"npcnames","msgid":"Patrick","msgstr":"Патрик"}
+{"msgctxt":"npcnames","msgid":"Patty","msgstr":"Парти"}
+{"msgctxt":"npcnames","msgid":"Paul","msgstr":"Пол"}
+{"msgctxt":"npcnames","msgid":"Pavel","msgstr":"Павел"}
+{"msgctxt":"npcnames","msgid":"Payne","msgstr":"Пэйн"}
+{"msgctxt":"npcnames","msgid":"Peg","msgstr":"Пег"}
+{"msgctxt":"npcnames","msgid":"Peggy","msgstr":"Пегги"}
+{"msgctxt":"npcnames","msgid":"Penny","msgstr":"Пенни"}
+{"msgctxt":"npcnames","msgid":"Percival","msgstr":"Персиваль"}
+{"msgctxt":"npcnames","msgid":"Percy","msgstr":"Перси"}
+{"msgctxt":"npcnames","msgid":"Perfecta","msgstr":"Перфекта"}
+{"msgctxt":"npcnames","msgid":"Perry","msgstr":"Перри"}
+{"msgctxt":"npcnames","msgid":"Pete","msgstr":"Пит"}
+{"msgctxt":"npcnames","msgid":"Peter","msgstr":"Петр"}
+{"msgctxt":"npcnames","msgid":"Phaedrus","msgstr":"Федрус"}
+{"msgctxt":"npcnames","msgid":"Pherebe","msgstr":"Феребе"}
+{"msgctxt":"npcnames","msgid":"Phil","msgstr":"Фил"}
+{"msgctxt":"npcnames","msgid":"Philip","msgstr":"Филипп"}
+{"msgctxt":"npcnames","msgid":"Philomena","msgstr":"Филомена"}
+{"msgctxt":"npcnames","msgid":"Phyllis","msgstr":"Филлис"}
+{"msgctxt":"npcnames","msgid":"Pierce","msgstr":"Пирс"}
+{"msgctxt":"npcnames","msgid":"Pierre","msgstr":"Пьер"}
+{"msgctxt":"npcnames","msgid":"Pixie","msgstr":"Пикси"}
+{"msgctxt":"npcnames","msgid":"Preston","msgstr":"Престон"}
+{"msgctxt":"npcnames","msgid":"Quan","msgstr":"Кван"}
+{"msgctxt":"npcnames","msgid":"Quentin","msgstr":"Квентин"}
+{"msgctxt":"npcnames","msgid":"Quinn","msgstr":"Куинн"}
+{"msgctxt":"npcnames","msgid":"Quirina","msgstr":"Квирина"}
+{"msgctxt":"npcnames","msgid":"Rachel","msgstr":"Рахил"}
+{"msgctxt":"npcnames","msgid":"Radu","msgstr":"Раду"}
+{"msgctxt":"npcnames","msgid":"Rafael","msgstr":"Рафаил"}
+{"msgctxt":"npcnames","msgid":"Rahu","msgstr":"Раху"}
+{"msgctxt":"npcnames","msgid":"Raign","msgstr":"Рейн"}
+{"msgctxt":"npcnames","msgid":"Ralph","msgstr":"Ральф"}
+{"msgctxt":"npcnames","msgid":"Rama","msgstr":"Рама"}
+{"msgctxt":"npcnames","msgid":"Ramey","msgstr":"Рами"}
+{"msgctxt":"npcnames","msgid":"Ramsey","msgstr":"Рэмзи"}
+{"msgctxt":"npcnames","msgid":"Randall","msgstr":"Рэдолл"}
+{"msgctxt":"npcnames","msgid":"Randolph","msgstr":"Рэндольф"}
+{"msgctxt":"npcnames","msgid":"Randy","msgstr":"Рэнди"}
+{"msgctxt":"npcnames","msgid":"Rare","msgstr":"Рарэ"}
+{"msgctxt":"npcnames","msgid":"Ratha","msgstr":"Рафа"}
+{"msgctxt":"npcnames","msgid":"Raul","msgstr":"Рауль"}
+{"msgctxt":"npcnames","msgid":"Raven","msgstr":"Рэйвен"}
+{"msgctxt":"npcnames","msgid":"Raymond","msgstr":"Реймонд"}
+{"msgctxt":"npcnames","msgid":"Rebecca","msgstr":"Ребекка"}
+{"msgctxt":"npcnames","msgid":"Redrea","msgstr":"Редреа"}
+{"msgctxt":"npcnames","msgid":"Reg","msgstr":"Рег"}
+{"msgctxt":"npcnames","msgid":"Regina","msgstr":"Регина"}
+{"msgctxt":"npcnames","msgid":"Reginald","msgstr":"Реджинальд"}
+{"msgctxt":"npcnames","msgid":"Rene","msgstr":"Ренэ"}
+{"msgctxt":"npcnames","msgid":"Renee","msgstr":"Рени"}
+{"msgctxt":"npcnames","msgid":"Renzo","msgstr":"Рензо"}
+{"msgctxt":"npcnames","msgid":"Resanda","msgstr":"Ресанда"}
+{"msgctxt":"npcnames","msgid":"Revee","msgstr":"Реви"}
+{"msgctxt":"npcnames","msgid":"Rex","msgstr":"Рекс"}
+{"msgctxt":"npcnames","msgid":"Reynaldo","msgstr":"Ренальдо"}
+{"msgctxt":"npcnames","msgid":"Rhonda","msgstr":"Ронда"}
+{"msgctxt":"npcnames","msgid":"Riakari","msgstr":"Райкари"}
+{"msgctxt":"npcnames","msgid":"Riara","msgstr":"Райара"}
+{"msgctxt":"npcnames","msgid":"Richard","msgstr":"Ричард"}
+{"msgctxt":"npcnames","msgid":"Ricky","msgstr":"Рикки"}
+{"msgctxt":"npcnames","msgid":"Rierina","msgstr":"Рийрина"}
+{"msgctxt":"npcnames","msgid":"Rija","msgstr":"Рийа"}
+{"msgctxt":"npcnames","msgid":"Rilix","msgstr":"Риликс"}
+{"msgctxt":"npcnames","msgid":"Rita","msgstr":"Рита"}
+{"msgctxt":"npcnames","msgid":"Rob","msgstr":"Роб"}
+{"msgctxt":"npcnames","msgid":"Robby","msgstr":"Робби"}
+{"msgctxt":"npcnames","msgid":"Robert","msgstr":"Роберт"}
+{"msgctxt":"npcnames","msgid":"Roberta","msgstr":"Роберта"}
+{"msgctxt":"npcnames","msgid":"Robin","msgstr":"Робин"}
+{"msgctxt":"npcnames","msgid":"Rochelle","msgstr":"Рошель"}
+{"msgctxt":"npcnames","msgid":"Rocky","msgstr":"Роки"}
+{"msgctxt":"npcnames","msgid":"Rodney","msgstr":"Родни"}
+{"msgctxt":"npcnames","msgid":"Roland","msgstr":"Роланд"}
+{"msgctxt":"npcnames","msgid":"Romona","msgstr":"Ромона"}
+{"msgctxt":"npcnames","msgid":"Ron","msgstr":"Рон"}
+{"msgctxt":"npcnames","msgid":"Ronald","msgstr":"Рональд"}
+{"msgctxt":"npcnames","msgid":"Ronimira","msgstr":"Ронимира"}
+{"msgctxt":"npcnames","msgid":"Rook","msgstr":"Рук"}
+{"msgctxt":"npcnames","msgid":"Rore","msgstr":"Рорэ"}
+{"msgctxt":"npcnames","msgid":"Rory","msgstr":"Рори"}
+{"msgctxt":"npcnames","msgid":"Rosa","msgstr":"Роза"}
+{"msgctxt":"npcnames","msgid":"Rosalee","msgstr":"Розали"}
+{"msgctxt":"npcnames","msgid":"Rosanna","msgstr":"Розанна"}
+{"msgctxt":"npcnames","msgid":"Rose","msgstr":"Роза"}
+{"msgctxt":"npcnames","msgid":"Rosemarie","msgstr":"Розмари"}
+{"msgctxt":"npcnames","msgid":"Rosemary","msgstr":"Розмарина"}
+{"msgctxt":"npcnames","msgid":"Rosie","msgstr":"Рози"}
+{"msgctxt":"npcnames","msgid":"Ross","msgstr":"Росс"}
+{"msgctxt":"npcnames","msgid":"Roy","msgstr":"Рой"}
+{"msgctxt":"npcnames","msgid":"Rudy","msgstr":"Руди"}
+{"msgctxt":"npcnames","msgid":"Rulilian","msgstr":"Рулильян"}
+{"msgctxt":"npcnames","msgid":"Rupert","msgstr":"Руперт"}
+{"msgctxt":"npcnames","msgid":"Russell","msgstr":"Рассел"}
+{"msgctxt":"npcnames","msgid":"Rusty","msgstr":"Расти"}
+{"msgctxt":"npcnames","msgid":"Ruth","msgstr":"Рут"}
+{"msgctxt":"npcnames","msgid":"Ruthie","msgstr":"Рути"}
+{"msgctxt":"npcnames","msgid":"Ruthina","msgstr":"Руфина"}
+{"msgctxt":"npcnames","msgid":"Ryan","msgstr":"Райан"}
+{"msgctxt":"npcnames","msgid":"Saad","msgstr":"Саад"}
+{"msgctxt":"npcnames","msgid":"Sabrina","msgstr":"Сабрина"}
+{"msgctxt":"npcnames","msgid":"Sadie","msgstr":"Сади"}
+{"msgctxt":"npcnames","msgid":"Saemi","msgstr":"Зэми"}
+{"msgctxt":"npcnames","msgid":"Sal","msgstr":"Сэл"}
+{"msgctxt":"npcnames","msgid":"Sally","msgstr":"Салли"}
+{"msgctxt":"npcnames","msgid":"Salvatore","msgstr":"Сальвадор"}
+{"msgctxt":"npcnames","msgid":"Sam","msgstr":"Сэм"}
+{"msgctxt":"npcnames","msgid":"Sammantha","msgstr":"Самманта"}
+{"msgctxt":"npcnames","msgid":"Samuel","msgstr":"Самуил"}
+{"msgctxt":"npcnames","msgid":"Sandeep","msgstr":"Сандип"}
+{"msgctxt":"npcnames","msgid":"Sandie","msgstr":"Сэнди"}
+{"msgctxt":"npcnames","msgid":"Sandra","msgstr":"Сандра"}
+{"msgctxt":"npcnames","msgid":"Sandy","msgstr":"Сэндин"}
+{"msgctxt":"npcnames","msgid":"Sanina","msgstr":"Санина"}
+{"msgctxt":"npcnames","msgid":"Santos","msgstr":"Сантос"}
+{"msgctxt":"npcnames","msgid":"Sapphire","msgstr":"Сапфир"}
+{"msgctxt":"npcnames","msgid":"Sara","msgstr":"Сара"}
+{"msgctxt":"npcnames","msgid":"Sarah","msgstr":"Сэра"}
+{"msgctxt":"npcnames","msgid":"Saul","msgstr":"Сол"}
+{"msgctxt":"npcnames","msgid":"Savale","msgstr":"Савалэ"}
+{"msgctxt":"npcnames","msgid":"Savasarah","msgstr":"Савасара"}
+{"msgctxt":"npcnames","msgid":"Scalise","msgstr":"Скализ"}
+{"msgctxt":"npcnames","msgid":"Scarlet","msgstr":"Скарлет"}
+{"msgctxt":"npcnames","msgid":"Scott","msgstr":"Скотт"}
+{"msgctxt":"npcnames","msgid":"Sean","msgstr":"Шин"}
+{"msgctxt":"npcnames","msgid":"Sebastian","msgstr":"Себастьян"}
+{"msgctxt":"npcnames","msgid":"Selby","msgstr":"Сельби"}
+{"msgctxt":"npcnames","msgid":"Selena","msgstr":"Селена"}
+{"msgctxt":"npcnames","msgid":"Sergio","msgstr":"Серхио"}
+{"msgctxt":"npcnames","msgid":"Seth","msgstr":"Сет"}
+{"msgctxt":"npcnames","msgid":"Seymour","msgstr":"Сеймур"}
+{"msgctxt":"npcnames","msgid":"Shanon","msgstr":"Шэнон"}
+{"msgctxt":"npcnames","msgid":"Sharon","msgstr":"Шэрон"}
+{"msgctxt":"npcnames","msgid":"Sharry","msgstr":"Шерри"}
+{"msgctxt":"npcnames","msgid":"Shawna","msgstr":"Шоуна"}
+{"msgctxt":"npcnames","msgid":"Sheila","msgstr":"Шейла"}
+{"msgctxt":"npcnames","msgid":"Sheldon","msgstr":"Шелдон"}
+{"msgctxt":"npcnames","msgid":"Shelley","msgstr":"Шелли"}
+{"msgctxt":"npcnames","msgid":"Shelly","msgstr":"Шеллис"}
+{"msgctxt":"npcnames","msgid":"Shene","msgstr":"Шене"}
+{"msgctxt":"npcnames","msgid":"Sherdon","msgstr":"Шердон"}
+{"msgctxt":"npcnames","msgid":"Sheri","msgstr":"Шэри"}
+{"msgctxt":"npcnames","msgid":"Sherman ","msgstr":"Шерман"}
+{"msgctxt":"npcnames","msgid":"Sherry","msgstr":"Шеррин"}
+{"msgctxt":"npcnames","msgid":"Shiela","msgstr":"Шейлани"}
+{"msgctxt":"npcnames","msgid":"Shimon","msgstr":"Шимон"}
+{"msgctxt":"npcnames","msgid":"Sidney","msgstr":"Сидни"}
+{"msgctxt":"npcnames","msgid":"Siealy","msgstr":"Сьеали"}
+{"msgctxt":"npcnames","msgid":"Sieemi","msgstr":"Сиеми"}
+{"msgctxt":"npcnames","msgid":"Sija","msgstr":"Сийа"}
+{"msgctxt":"npcnames","msgid":"Simon","msgstr":"Симон"}
+{"msgctxt":"npcnames","msgid":"Simona","msgstr":"Симона"}
+{"msgctxt":"npcnames","msgid":"Slade","msgstr":"Слейд"}
+{"msgctxt":"npcnames","msgid":"Sonny","msgstr":"Сонни"}
+{"msgctxt":"npcnames","msgid":"Sophia","msgstr":"София"}
+{"msgctxt":"npcnames","msgid":"Spencer","msgstr":"Спенсер"}
+{"msgctxt":"npcnames","msgid":"Stacey","msgstr":"Стэйси"}
+{"msgctxt":"npcnames","msgid":"Stan","msgstr":"Стен"}
+{"msgctxt":"npcnames","msgid":"Stanley","msgstr":"Стенли"}
+{"msgctxt":"npcnames","msgid":"Stephanie","msgstr":"Стефани"}
+{"msgctxt":"npcnames","msgid":"Stephen","msgstr":"Стефан"}
+{"msgctxt":"npcnames","msgid":"Steve","msgstr":"Стив"}
+{"msgctxt":"npcnames","msgid":"Steven","msgstr":"Стивен"}
+{"msgctxt":"npcnames","msgid":"Stogan","msgstr":"Стоган"}
+{"msgctxt":"npcnames","msgid":"Stoken","msgstr":"Стокен"}
+{"msgctxt":"npcnames","msgid":"Stuart","msgstr":"Стюарт"}
+{"msgctxt":"npcnames","msgid":"Suanne","msgstr":"Суанна"}
+{"msgctxt":"npcnames","msgid":"Suju","msgstr":"Зуху"}
+{"msgctxt":"npcnames","msgid":"Suleman","msgstr":"Сулейман"}
+{"msgctxt":"npcnames","msgid":"Sumanu","msgstr":"Сумани"}
+{"msgctxt":"npcnames","msgid":"Susan","msgstr":"Сьюзан"}
+{"msgctxt":"npcnames","msgid":"Susanne","msgstr":"Сюзанна"}
+{"msgctxt":"npcnames","msgid":"Suzie","msgstr":"Сьюзи"}
+{"msgctxt":"npcnames","msgid":"Sven","msgstr":"Свен"}
+{"msgctxt":"npcnames","msgid":"Svetlana","msgstr":"Светлана"}
+{"msgctxt":"npcnames","msgid":"Syfe","msgstr":"Сайфе"}
+{"msgctxt":"npcnames","msgid":"Syke","msgstr":"Зике"}
+{"msgctxt":"npcnames","msgid":"Sylvester ","msgstr":"Сильвестр"}
+{"msgctxt":"npcnames","msgid":"Tabitha","msgstr":"Табита"}
+{"msgctxt":"npcnames","msgid":"Tad","msgstr":"Тад"}
+{"msgctxt":"npcnames","msgid":"Tadal","msgstr":"Тадал"}
+{"msgctxt":"npcnames","msgid":"Tajos","msgstr":"Тайос"}
+{"msgctxt":"npcnames","msgid":"Taka","msgstr":"Така"}
+{"msgctxt":"npcnames","msgid":"Tamara","msgstr":"Тамара"}
+{"msgctxt":"npcnames","msgid":"Tammie","msgstr":"Тамми"}
+{"msgctxt":"npcnames","msgid":"Tanat","msgstr":"Танат"}
+{"msgctxt":"npcnames","msgid":"Tanisha","msgstr":"Таниша"}
+{"msgctxt":"npcnames","msgid":"Tanya","msgstr":"Таня"}
+{"msgctxt":"npcnames","msgid":"Tara","msgstr":"Тара"}
+{"msgctxt":"npcnames","msgid":"Tayfra","msgstr":"Тайфра"}
+{"msgctxt":"npcnames","msgid":"Tayrod","msgstr":"Тайрод"}
+{"msgctxt":"npcnames","msgid":"Tempest","msgstr":"Темпест"}
+{"msgctxt":"npcnames","msgid":"Teresa","msgstr":"Тереза"}
+{"msgctxt":"npcnames","msgid":"Terrance","msgstr":"Терранс"}
+{"msgctxt":"npcnames","msgid":"Terri","msgstr":"Терри"}
+{"msgctxt":"npcnames","msgid":"Terry","msgstr":"Тэрри"}
+{"msgctxt":"npcnames","msgid":"Thaaly","msgstr":"Таали"}
+{"msgctxt":"npcnames","msgid":"Thaddeus","msgstr":"Тадеуш"}
+{"msgctxt":"npcnames","msgid":"Thade","msgstr":"Тадэ"}
+{"msgctxt":"npcnames","msgid":"Thane","msgstr":"Тан"}
+{"msgctxt":"npcnames","msgid":"Theodore","msgstr":"Теодор"}
+{"msgctxt":"npcnames","msgid":"Theresa","msgstr":"Тереса"}
+{"msgctxt":"npcnames","msgid":"Thomas","msgstr":"Томас"}
+{"msgctxt":"npcnames","msgid":"Thrax","msgstr":"Тракс"}
+{"msgctxt":"npcnames","msgid":"Tiffani","msgstr":"Тиффани"}
+{"msgctxt":"npcnames","msgid":"Tim","msgstr":"Тим"}
+{"msgctxt":"npcnames","msgid":"Timothy","msgstr":"Тимоти"}
+{"msgctxt":"npcnames","msgid":"Tina","msgstr":"Тина"}
+{"msgctxt":"npcnames","msgid":"Tivian","msgstr":"Тивиан"}
+{"msgctxt":"npcnames","msgid":"Tobias","msgstr":"Тобиас"}
+{"msgctxt":"npcnames","msgid":"Todd","msgstr":"Тодд"}
+{"msgctxt":"npcnames","msgid":"Tom","msgstr":"Томас"}
+{"msgctxt":"npcnames","msgid":"Tony","msgstr":"Тони"}
+{"msgctxt":"npcnames","msgid":"Topaz","msgstr":"Топаз"}
+{"msgctxt":"npcnames","msgid":"Tracie","msgstr":"Трейси"}
+{"msgctxt":"npcnames","msgid":"Tran","msgstr":"Тран"}
+{"msgctxt":"npcnames","msgid":"Travis","msgstr":"Тревис"}
+{"msgctxt":"npcnames","msgid":"Trent","msgstr":"Трент"}
+{"msgctxt":"npcnames","msgid":"Trenton","msgstr":"Трентон"}
+{"msgctxt":"npcnames","msgid":"Trevor","msgstr":"Тревор"}
+{"msgctxt":"npcnames","msgid":"Tricia","msgstr":"Трисия"}
+{"msgctxt":"npcnames","msgid":"Triian","msgstr":"Триийан"}
+{"msgctxt":"npcnames","msgid":"Trimark","msgstr":"Тримарк"}
+{"msgctxt":"npcnames","msgid":"Trina","msgstr":"Трина"}
+{"msgctxt":"npcnames","msgid":"Trip","msgstr":"Трип"}
+{"msgctxt":"npcnames","msgid":"Tyler","msgstr":"Тайлер"}
+{"msgctxt":"npcnames","msgid":"Tyson","msgstr":"Тайсон"}
+{"msgctxt":"npcnames","msgid":"Ulminia","msgstr":"Ульминия"}
+{"msgctxt":"npcnames","msgid":"Ultima","msgstr":"Ультима"}
+{"msgctxt":"npcnames","msgid":"Uname","msgstr":"Унаме"}
+{"msgctxt":"npcnames","msgid":"Ursula","msgstr":"Урсула"}
+{"msgctxt":"npcnames","msgid":"Vadim","msgstr":"Вадим"}
+{"msgctxt":"npcnames","msgid":"Val","msgstr":"Вэл"}
+{"msgctxt":"npcnames","msgid":"Valentia","msgstr":"Валентия"}
+{"msgctxt":"npcnames","msgid":"Valerie","msgstr":"Валерия"}
+{"msgctxt":"npcnames","msgid":"Vance","msgstr":"Ванс"}
+{"msgctxt":"npcnames","msgid":"Vanessa","msgstr":"Ванесса"}
+{"msgctxt":"npcnames","msgid":"Vaune","msgstr":"Воун"}
+{"msgctxt":"npcnames","msgid":"Vera","msgstr":"Вера"}
+{"msgctxt":"npcnames","msgid":"Verne","msgstr":"Верн"}
+{"msgctxt":"npcnames","msgid":"Vernon","msgstr":"Вернон"}
+{"msgctxt":"npcnames","msgid":"Veron","msgstr":"Верон"}
+{"msgctxt":"npcnames","msgid":"Veronica","msgstr":"Вероника"}
+{"msgctxt":"npcnames","msgid":"Viaas","msgstr":"Вийас"}
+{"msgctxt":"npcnames","msgid":"Viain","msgstr":"Вайин"}
+{"msgctxt":"npcnames","msgid":"Viarene","msgstr":"Виарене"}
+{"msgctxt":"npcnames","msgid":"Vicki","msgstr":"Вики"}
+{"msgctxt":"npcnames","msgid":"Victor","msgstr":"Виктор"}
+{"msgctxt":"npcnames","msgid":"Victoria","msgstr":"Виктория"}
+{"msgctxt":"npcnames","msgid":"Viktor","msgstr":"Виктор"}
+{"msgctxt":"npcnames","msgid":"Vincenzo","msgstr":"Винченцо"}
+{"msgctxt":"npcnames","msgid":"Violet","msgstr":"Виолет"}
+{"msgctxt":"npcnames","msgid":"Virgil","msgstr":"Вирджил"}
+{"msgctxt":"npcnames","msgid":"Virginia","msgstr":"Виргиния"}
+{"msgctxt":"npcnames","msgid":"Vivian","msgstr":"Вивьен"}
+{"msgctxt":"npcnames","msgid":"Vladimir","msgstr":"Владимир"}
+{"msgctxt":"npcnames","msgid":"Volg","msgstr":"Вольга"}
+{"msgctxt":"npcnames","msgid":"Wade","msgstr":"Уейд"}
+{"msgctxt":"npcnames","msgid":"Waldo","msgstr":"Вальдо"}
+{"msgctxt":"npcnames","msgid":"Waler","msgstr":"Уэлер"}
+{"msgctxt":"npcnames","msgid":"Wallace","msgstr":"Уоллейс"}
+{"msgctxt":"npcnames","msgid":"Walter","msgstr":"Вальтер"}
+{"msgctxt":"npcnames","msgid":"Waluke","msgstr":"Валюк"}
+{"msgctxt":"npcnames","msgid":"Wanda","msgstr":"Ванда"}
+{"msgctxt":"npcnames","msgid":"Wanetta","msgstr":"Ванетта"}
+{"msgctxt":"npcnames","msgid":"Wanic","msgstr":"Уаник"}
+{"msgctxt":"npcnames","msgid":"Wanye","msgstr":"Ванни"}
+{"msgctxt":"npcnames","msgid":"Warren","msgstr":"Уоррен"}
+{"msgctxt":"npcnames","msgid":"Wayne","msgstr":"Уейн"}
+{"msgctxt":"npcnames","msgid":"Webb","msgstr":"Уэбб"}
+{"msgctxt":"npcnames","msgid":"Wela","msgstr":"Вела"}
+{"msgctxt":"npcnames","msgid":"Wendell","msgstr":"Уэнделл"}
+{"msgctxt":"npcnames","msgid":"Wendy","msgstr":"Венди"}
+{"msgctxt":"npcnames","msgid":"Wesley","msgstr":"Уэсли"}
+{"msgctxt":"npcnames","msgid":"Weslia","msgstr":"Веслия"}
+{"msgctxt":"npcnames","msgid":"Wilam","msgstr":"Вилам"}
+{"msgctxt":"npcnames","msgid":"Wilbert","msgstr":"Уилберт"}
+{"msgctxt":"npcnames","msgid":"Wilfred ","msgstr":"Уилфред"}
+{"msgctxt":"npcnames","msgid":"Wiliam","msgstr":"Вильям"}
+{"msgctxt":"npcnames","msgid":"Will","msgstr":"Уилл"}
+{"msgctxt":"npcnames","msgid":"Willard","msgstr":"Уиллард"}
+{"msgctxt":"npcnames","msgid":"William","msgstr":"Уильям"}
+{"msgctxt":"npcnames","msgid":"Wilma","msgstr":"Вильма"}
+{"msgctxt":"npcnames","msgid":"Wilson","msgstr":"Уилсон"}
+{"msgctxt":"npcnames","msgid":"Winona","msgstr":"Винона"}
+{"msgctxt":"npcnames","msgid":"Winston","msgstr":"Уинстон"}
+{"msgctxt":"npcnames","msgid":"Woodrow","msgstr":"Вудро"}
+{"msgctxt":"npcnames","msgid":"Wysandra","msgstr":"Визандра"}
+{"msgctxt":"npcnames","msgid":"Xafra","msgstr":"Ксавра"}
+{"msgctxt":"npcnames","msgid":"Xasi","msgstr":"Ксази"}
+{"msgctxt":"npcnames","msgid":"Xuan ","msgstr":"Ксуан"}
+{"msgctxt":"npcnames","msgid":"Xylia","msgstr":"Ксилия"}
+{"msgctxt":"npcnames","msgid":"Yancy","msgstr":"Янси"}
+{"msgctxt":"npcnames","msgid":"Yessica","msgstr":"Йессика"}
+{"msgctxt":"npcnames","msgid":"Yolanda","msgstr":"Иоланда"}
+{"msgctxt":"npcnames","msgid":"Yuri","msgstr":"Юрий"}
+{"msgctxt":"npcnames","msgid":"Yvedsey","msgstr":"Явдсей"}
+{"msgctxt":"npcnames","msgid":"Yveral","msgstr":"Яверал"}
+{"msgctxt":"npcnames","msgid":"Yves","msgstr":"Яйвс"}
+{"msgctxt":"npcnames","msgid":"Yvoire","msgstr":"Явойр"}
+{"msgctxt":"npcnames","msgid":"Yvomine","msgstr":"Явомин"}
+{"msgctxt":"npcnames","msgid":"Yvonne","msgstr":"Ивонна"}
+{"msgctxt":"npcnames","msgid":"Yvovia","msgstr":"Явойа"}
+{"msgctxt":"npcnames","msgid":"Zaccharia","msgstr":"Захария"}
+{"msgctxt":"npcnames","msgid":"Zack","msgstr":"Зак"}
+{"msgctxt":"npcnames","msgid":"Zaje","msgstr":"Зее"}
+{"msgctxt":"npcnames","msgid":"Zebulon","msgstr":"Зебулон"}
+{"msgctxt":"npcnames","msgid":"Zeke","msgstr":"Зеке"}
+{"msgctxt":"npcnames","msgid":"Zephyr","msgstr":"Зефир"}
+{"msgctxt":"npcnames","msgid":"Zoele","msgstr":"Зоэль"}
+{"msgctxt":"npcnames","msgid":"Zoltan","msgstr":"Золтан"}
+{"msgctxt":"npcnames","msgid":"Zorex","msgstr":"Зорекс"}
+{"msgctxt":"npcnames","msgid":"Zyggie","msgstr":"Зигги"}
 {"msgctxt":"npcprof","msgid":"Acolyte","msgstr":"Послушник"}
 {"msgctxt":"npcprof","msgid":"Alchemist","msgstr":"Алхимик"}
 {"msgctxt":"npcprof","msgid":"Apothecary","msgstr":"Аптекарь"}
@@ -2003,6 +4567,173 @@
 {"msgctxt":"npcprof","msgid":"Weaver","msgstr":"Ткач"}
 {"msgctxt":"npcprof","msgid":"Wererat Smuggler","msgstr":"Крысолак-контрабандист"}
 {"msgctxt":"npcprof","msgid":"Wind Master","msgstr":"Мастер ветра"}
+{"msgctxt":"npcprof","msgid":"Bless Party","msgstr":"Благословение отряда"}
+{"msgctxt":"npcprof","msgid":"Cross Water","msgstr":"Хождение по воде"}
+{"msgctxt":"npcprof","msgid":"Fanatic","msgstr":"фанати"}
+{"msgctxt":"npcprof","msgid":"Gate to Town","msgstr":"Городские врата"}
+{"msgctxt":"npcprof","msgid":"Heal Party","msgstr":"Исцелить отряд"}
+{"msgctxt":"npcprof","msgid":"Hour of Power","msgstr":"Час Могущества"}
+{"msgctxt":"npcprof","msgid":"Official","msgstr":"Чиновник"}
+{"msgctxt":"npcprof","msgid":"Play Tune","msgstr":"Играет музыку"}
+{"msgctxt":"npcprof","msgid":"Prepare Feast","msgstr":"Готовит пиршество"}
+{"msgctxt":"npcprof","msgid":"Prepare Meal","msgstr":"Готовит еду"}
+{"msgctxt":"npcprof","msgid":"Wind Walk","msgstr":"Хождение по воздуху"}
+{"msgctxt":"placemon","msgid":"Adam McCarthy","msgstr":"Адам МакКарти"}
+{"msgctxt":"placemon","msgid":"Admiral Clausewitz","msgstr":"Адмирал Клаузевиц"}
+{"msgctxt":"placemon","msgid":"Admiral Nelson","msgstr":"Адмирал Нельсон"}
+{"msgctxt":"placemon","msgid":"Agar","msgstr":"Агар"}
+{"msgctxt":"placemon","msgid":"Alex Sherman","msgstr":"Алекс Шерман"}
+{"msgctxt":"placemon","msgid":"Andrew Grumm","msgstr":"Эндрю Грамм"}
+{"msgctxt":"placemon","msgid":"Andy Grumm","msgstr":"Энди Грамм"}
+{"msgctxt":"placemon","msgid":"Anna Wooll","msgstr":"Анна Вул"}
+{"msgctxt":"placemon","msgid":"Anthony Rizo","msgstr":"Энтони Ризо"}
+{"msgctxt":"placemon","msgid":"April Lee","msgstr":"Эйприл Ли"}
+{"msgctxt":"placemon","msgid":"Becky Christel","msgstr":"Бекки Кристел"}
+{"msgctxt":"placemon","msgid":"Benjamin Bent","msgstr":"Бенджамин Бент"}
+{"msgctxt":"placemon","msgid":"Bill Nesemeier","msgstr":"Билл Неземейер"}
+{"msgctxt":"placemon","msgid":"Bill Stoneham","msgstr":"Билл Стоунхейм"}
+{"msgctxt":"placemon","msgid":"Blackwell Cooper","msgstr":"Блэквел Купер"}
+{"msgctxt":"placemon","msgid":"Bob Young","msgstr":"Боб Янг"}
+{"msgctxt":"placemon","msgid":"Bonnie Long-Hemsath","msgstr":"Бонни Лонг-Хемсаф"}
+{"msgctxt":"placemon","msgid":"Bonnie Long-Hemssath","msgstr":"Бонни Лонг-Хемсат"}
+{"msgctxt":"placemon","msgid":"Brian DeMetz","msgstr":"Брайан ДеМец"}
+{"msgctxt":"placemon","msgid":"Brian Kemper","msgstr":"Брайан Кемпер"}
+{"msgctxt":"placemon","msgid":"Bruce Miyake","msgstr":"Брюс Мияке"}
+{"msgctxt":"placemon","msgid":"Bryan Farina","msgstr":"Брайан Фарина"}
+{"msgctxt":"placemon","msgid":"Captain Zyrain","msgstr":"Капитан Зирейн"}
+{"msgctxt":"placemon","msgid":"Carl Pinder","msgstr":"Карл Пиндер"}
+{"msgctxt":"placemon","msgid":"Charles Zilm","msgstr":"Чарльз Цилм"}
+{"msgctxt":"placemon","msgid":"Chlala","msgstr":"Члала"}
+{"msgctxt":"placemon","msgid":"Chris Bates","msgstr":"Крис Бейтс"}
+{"msgctxt":"placemon","msgid":"Chris Miller","msgstr":"Крис Миллер"}
+{"msgctxt":"placemon","msgid":"Christian Vanover","msgstr":"Кристиан Вановер"}
+{"msgctxt":"placemon","msgid":"Chuck Russom","msgstr":"Чак Рассом"}
+{"msgctxt":"placemon","msgid":"Cleric of Baa","msgstr":"Клирик Баа"}
+{"msgctxt":"placemon","msgid":"Cool Jerk","msgstr":"Классный Дурачок"}
+{"msgctxt":"placemon","msgid":"Dave Botan","msgstr":"Дэйв Ботан"}
+{"msgctxt":"placemon","msgid":"DaveO","msgstr":"ДэйвО"}
+{"msgctxt":"placemon","msgid":"David Casso","msgstr":"Дэвид Кассо"}
+{"msgctxt":"placemon","msgid":"David Mullich","msgstr":"Дэвид Муллих"}
+{"msgctxt":"placemon","msgid":"David Richey","msgstr":"Дэвид Ричи"}
+{"msgctxt":"placemon","msgid":"David Vela","msgstr":"Дэвид Вела"}
+{"msgctxt":"placemon","msgid":"Dean Gibson","msgstr":"Дин Гибсон"}
+{"msgctxt":"placemon","msgid":"Devil of Baa","msgstr":"Дьявол Баа"}
+{"msgctxt":"placemon","msgid":"Devin Chapman","msgstr":"Девин Чапман"}
+{"msgctxt":"placemon","msgid":"Dragon Hunter Pet","msgstr":"Ручной Зверек Охотника на Драконов"}
+{"msgctxt":"placemon","msgid":"Edward Hudson","msgstr":"Эдвард Хадсон"}
+{"msgctxt":"placemon","msgid":"Elara","msgstr":"Элара"}
+{"msgctxt":"placemon","msgid":"Eric Williamson","msgstr":"Эрик Вильямсон"}
+{"msgctxt":"placemon","msgid":"Ernie Gallardo","msgstr":"Эрни Галлардо"}
+{"msgctxt":"placemon","msgid":"Ethric","msgstr":"Этрик"}
+{"msgctxt":"placemon","msgid":"Fallen Defender","msgstr":"Павший защитник"}
+{"msgctxt":"placemon","msgid":"Fernando Castillo","msgstr":"Фернандо Кастильо"}
+{"msgctxt":"placemon","msgid":"George Almond","msgstr":"Джордж Альмонд"}
+{"msgctxt":"placemon","msgid":"George Ruof","msgstr":"Джордж Руоф"}
+{"msgctxt":"placemon","msgid":"Greg Fulton","msgstr":"Грег Фултон"}
+{"msgctxt":"placemon","msgid":"Grognard","msgstr":"Грогнард"}
+{"msgctxt":"placemon","msgid":"Guard","msgstr":"Стражник"}
+{"msgctxt":"placemon","msgid":"Gus Smedstad ","msgstr":"Гус Смедстат"}
+{"msgctxt":"placemon","msgid":"Guthwulf","msgstr":"Гуфвулв"}
+{"msgctxt":"placemon","msgid":"Hairbaugh","msgstr":"Хейрбау "}
+{"msgctxt":"placemon","msgid":"Helena Wickberg","msgstr":"Хелена Викберг"}
+{"msgctxt":"placemon","msgid":"High Priest of Baa","msgstr":"Верховный жрец Баа"}
+{"msgctxt":"placemon","msgid":"HodgePodge","msgstr":"Всякая Всячина"}
+{"msgctxt":"placemon","msgid":"Ian Bullard","msgstr":"Ян Баллард"}
+{"msgctxt":"placemon","msgid":"Ilsingore","msgstr":"Ильсингор"}
+{"msgctxt":"placemon","msgid":"Jack Russell","msgstr":"Джек Рассел"}
+{"msgctxt":"placemon","msgid":"James Dickinson","msgstr":"Джеймс Диккинсон"}
+{"msgctxt":"placemon","msgid":"Jeff Bigman","msgstr":"Джефф Бигман"}
+{"msgctxt":"placemon","msgid":"Jeff Blattner","msgstr":"Джефф Блатнер"}
+{"msgctxt":"placemon","msgid":"Jeff Leggett","msgstr":"Джефф Леге"}
+{"msgctxt":"placemon","msgid":"Jennifer Bullard","msgstr":"Дженнифер Баллард"}
+{"msgctxt":"placemon","msgid":"Jeric Whistlebone","msgstr":"Джерик Вистлбон"}
+{"msgctxt":"placemon","msgid":"Joe McGuffin","msgstr":"Джо МакГаффин"}
+{"msgctxt":"placemon","msgid":"Joel Kelly","msgstr":"Джоэль Келли"}
+{"msgctxt":"placemon","msgid":"John Bolton","msgstr":"Джон Болтон"}
+{"msgctxt":"placemon","msgid":"John Gibson","msgstr":"Джон Гибсон"}
+{"msgctxt":"placemon","msgid":"John Krause","msgstr":"Джон Краузе"}
+{"msgctxt":"placemon","msgid":"John Machin (Mac)","msgstr":"Джон Машин (Мак)"}
+{"msgctxt":"placemon","msgid":"John Slowsky","msgstr":"Джон Словский"}
+{"msgctxt":"placemon","msgid":"Jon Van Caneghem","msgstr":"Джон Ван Канегем"}
+{"msgctxt":"placemon","msgid":"Joseph Buron","msgstr":"Джозеф Бурон"}
+{"msgctxt":"placemon","msgid":"Julia Ulano","msgstr":"Джулия Улано"}
+{"msgctxt":"placemon","msgid":"Just_A_Brain","msgstr":"Просто_Мозг"}
+{"msgctxt":"placemon","msgid":"Karl Drown","msgstr":"Карл Драун"}
+{"msgctxt":"placemon","msgid":"Karl Fischer","msgstr":"Карл Фишер"}
+{"msgctxt":"placemon","msgid":"Kate Vanover","msgstr":"Кейт Вановер"}
+{"msgctxt":"placemon","msgid":"Keith Francart","msgstr":"Кит Франкарт"}
+{"msgctxt":"placemon","msgid":"Keith Talanay","msgstr":"Кит Таланей"}
+{"msgctxt":"placemon","msgid":"Ken Spencer","msgstr":"Кен Спенсер"}
+{"msgctxt":"placemon","msgid":"Ken Thomson","msgstr":"Кен Томсон"}
+{"msgctxt":"placemon","msgid":"King Louise","msgstr":"Король Луи"}
+{"msgctxt":"placemon","msgid":"Kurt McKeever","msgstr":"Курт МакКивер"}
+{"msgctxt":"placemon","msgid":"Lesser Genie","msgstr":"Малый джинн"}
+{"msgctxt":"placemon","msgid":"Lich King","msgstr":"Король личей"}
+{"msgctxt":"placemon","msgid":"Lisa Whitman","msgstr":"Лиза Витман"}
+{"msgctxt":"placemon","msgid":"Lizardman Lookout","msgstr":"Человекоящер - наблюдатель"}
+{"msgctxt":"placemon","msgid":"Longfang Witherhide","msgstr":"Длинный клык"}
+{"msgctxt":"placemon","msgid":"Lord Kilburn","msgstr":"Лорд Килбурн"}
+{"msgctxt":"placemon","msgid":"Lou Henderson","msgstr":"Лу Хендерсон"}
+{"msgctxt":"placemon","msgid":"Lurch","msgstr":"Лерч"}
+{"msgctxt":"placemon","msgid":"Marcus Pregent","msgstr":"Маркус Прегент"}
+{"msgctxt":"placemon","msgid":"Mark Caldwell","msgstr":"Марк Калдвелл"}
+{"msgctxt":"placemon","msgid":"Mark Miller","msgstr":"Марк Миллер"}
+{"msgctxt":"placemon","msgid":"Mary Ellen Babson","msgstr":"Мери Эллен Бабсон"}
+{"msgctxt":"placemon","msgid":"Mega-Dragon","msgstr":"Мегадракон"}
+{"msgctxt":"placemon","msgid":"Michael Wolf","msgstr":"Майкл Вулф"}
+{"msgctxt":"placemon","msgid":"Morcarack","msgstr":"Моркарак"}
+{"msgctxt":"placemon","msgid":"NWC Employee","msgstr":"Сотрудник NWC"}
+{"msgctxt":"placemon","msgid":"Nicco Wargon","msgstr":"Никко Варгон"}
+{"msgctxt":"placemon","msgid":"Nowa Morisaku","msgstr":"Нова Морисаку"}
+{"msgctxt":"placemon","msgid":"Old Loeb","msgstr":"Олд Лоб"}
+{"msgctxt":"placemon","msgid":"Pack Master","msgstr":"Вожак стаи"}
+{"msgctxt":"placemon","msgid":"Paul Rattner","msgstr":"Пол Раттнер"}
+{"msgctxt":"placemon","msgid":"Pete Ryu","msgstr":"Пит Рю"}
+{"msgctxt":"placemon","msgid":"Peter Ryu","msgstr":"Пит Рю"}
+{"msgctxt":"placemon","msgid":"Phelan Sykes","msgstr":"Фелан Сайкс"}
+{"msgctxt":"placemon","msgid":"Q","msgstr":"Кью"}
+{"msgctxt":"placemon","msgid":"Queen Spider","msgstr":"Царица пауков"}
+{"msgctxt":"placemon","msgid":"Randy Ruckel","msgstr":"Рэнди Ракел"}
+{"msgctxt":"placemon","msgid":"Rebecca Christel","msgstr":"Ребекка Кристел"}
+{"msgctxt":"placemon","msgid":"Ribannah","msgstr":"Рибанна"}
+{"msgctxt":"placemon","msgid":"Rick Sanchez","msgstr":"Рик Санчес"}
+{"msgctxt":"placemon","msgid":"Riki Corredera","msgstr":"Рики Корредера"}
+{"msgctxt":"placemon","msgid":"Rob King","msgstr":"Роб Кинг"}
+{"msgctxt":"placemon","msgid":"Robert the Wise","msgstr":"Роберт Мудрый"}
+{"msgctxt":"placemon","msgid":"Rogue Leader","msgstr":"Предводитель плутов"}
+{"msgctxt":"placemon","msgid":"Ryan Den","msgstr":"Райан Ден"}
+{"msgctxt":"placemon","msgid":"Scott McDaniel","msgstr":"Скотт МакДэниел"}
+{"msgctxt":"placemon","msgid":"Scott White","msgstr":"Скотт Вайт"}
+{"msgctxt":"placemon","msgid":"Sentinel of Varn","msgstr":"Часовой ВАРН"}
+{"msgctxt":"placemon","msgid":"Slicker Silvertongue","msgstr":"Сликер Сильвертонг"}
+{"msgctxt":"placemon","msgid":"Snergle","msgstr":"Снергл"}
+{"msgctxt":"placemon","msgid":"Steve Baca","msgstr":"Стив Бака"}
+{"msgctxt":"placemon","msgid":"Steve Jaqvaar","msgstr":"Стив Джакваар"}
+{"msgctxt":"placemon","msgid":"Steve Jasper","msgstr":"Стив Джаспер"}
+{"msgctxt":"placemon","msgid":"Steve Wasaff","msgstr":"Стив Васафф"}
+{"msgctxt":"placemon","msgid":"Super Vampire","msgstr":"Супер-вампир"}
+{"msgctxt":"placemon","msgid":"Super Vampire (fix)","msgstr":"Супер-вампир (испр.)"}
+{"msgctxt":"placemon","msgid":"TenErnieFord","msgstr":"ТенЭрниФорд"}
+{"msgctxt":"placemon","msgid":"Tim Lang","msgstr":"Тим Ланг"}
+{"msgctxt":"placemon","msgid":"Todd Smailes","msgstr":"Тодд Смайлс"}
+{"msgctxt":"placemon","msgid":"Tolberti","msgstr":"Толберти"}
+{"msgctxt":"placemon","msgid":"Tom Ono","msgstr":"Том Оно"}
+{"msgctxt":"placemon","msgid":"Tom Zeliff","msgstr":"Том Зелифф"}
+{"msgctxt":"placemon","msgid":"Tony Evans","msgstr":"Тони Эванс"}
+{"msgctxt":"placemon","msgid":"Tracy Iwata","msgstr":"Трэйси Ивата"}
+{"msgctxt":"placemon","msgid":"Trip Hawkins","msgstr":"Трип Хокинс"}
+{"msgctxt":"placemon","msgid":"Unicorn King","msgstr":"Король Единорогов"}
+{"msgctxt":"placemon","msgid":"Walter Johnson","msgstr":"Волтер Джонсон"}
+{"msgctxt":"placemon","msgid":"Werewolf Leader","msgstr":"Предводитель оборотней"}
+{"msgctxt":"placemon","msgid":"William Nesemeier","msgstr":"Вильям Неземейер"}
+{"msgctxt":"placemon","msgid":"William Setag","msgstr":"Вильям Сетаг"}
+{"msgctxt":"placemon","msgid":"Wromthrax","msgstr":"Ромтракс"}
+{"msgctxt":"placemon","msgid":"Xenofex","msgstr":"Ценофекс"}
+{"msgctxt":"placemon","msgid":"Yaardrake","msgstr":"Яаардрейк"}
+{"msgctxt":"placemon","msgid":"Zog","msgstr":"Зог"}
+{"msgctxt":"placemon","msgid":"gamegurl","msgstr":"геймгурл"}
+{"msgctxt":"placemon","msgid":"guard","msgstr":"Страж"}
+{"msgctxt":"placemon","msgid":"kyberkisu","msgstr":"киберкису"}
 {"msgctxt":"reputation","msgid":"Angelic","msgstr":"Ангельская"}
 {"msgctxt":"reputation","msgid":"Average","msgstr":"Средняя"}
 {"msgctxt":"reputation","msgid":"Bad","msgstr":"Плохая"}
@@ -2015,6 +4746,49 @@
 {"msgctxt":"reputation","msgid":"Respectable","msgstr":"Уважаемый"}
 {"msgctxt":"reputation","msgid":"Saintly","msgstr":"Святая"}
 {"msgctxt":"reputation","msgid":"Vile","msgstr":"Гнусная"}
+{"msgctxt":"roster","msgid":"Adric Stellare","msgstr":"Адрик Стеллар"}
+{"msgctxt":"roster","msgid":"Arius","msgstr":"Ариус"}
+{"msgctxt":"roster","msgid":"Artorius Veritas","msgstr":"Арториус Веритас"}
+{"msgctxt":"roster","msgid":"Blazen Stormlance","msgstr":"Блэйзен Штормлэнс"}
+{"msgctxt":"roster","msgid":"Brimstone","msgstr":"Бримстоун"}
+{"msgctxt":"roster","msgid":"Cauri Blackthorne","msgstr":"Каури Черный Шип"}
+{"msgctxt":"roster","msgid":"Dervish Chevron","msgstr":"Дервиш Чеврон"}
+{"msgctxt":"roster","msgid":"Devlin Arcanus","msgstr":"Дэвлин Арканус"}
+{"msgctxt":"roster","msgid":"Duroth the Eternal","msgstr":"Дюрот Вечный"}
+{"msgctxt":"roster","msgid":"Dyson Leyland","msgstr":"Дайсон Лиланд"}
+{"msgctxt":"roster","msgid":"Elsbeth Lamentia","msgstr":"Элсбет Ламентиа"}
+{"msgctxt":"roster","msgid":"Flamdring","msgstr":"Фламдринг"}
+{"msgctxt":"roster","msgid":"Fredrick Talimere","msgstr":"Фредерик Талимер"}
+{"msgctxt":"roster","msgid":"Gethric Mercutura","msgstr":"Гетрик Меркутура"}
+{"msgctxt":"roster","msgid":"Hevatia Deverbero","msgstr":"Геватия Деверберо"}
+{"msgctxt":"roster","msgid":"Infaustus ","msgstr":"Инфаустус"}
+{"msgctxt":"roster","msgid":"Ithilgore","msgstr":"Итильгор"}
+{"msgctxt":"roster","msgid":"Jasp Thelbourne","msgstr":"Джасп Телбурн"}
+{"msgctxt":"roster","msgid":"Karanya Memoria","msgstr":"Каранья Мемориа"}
+{"msgctxt":"roster","msgid":"Leane Stormlance","msgstr":"Лин Штормлэнс"}
+{"msgctxt":"roster","msgid":"Maylander ","msgstr":"Мэйлэндер"}
+{"msgctxt":"roster","msgid":"Nathaniel Roberts","msgstr":"Натаниэль "}
+{"msgctxt":"roster","msgid":"Nelix Uriel","msgstr":"Неликс Уриэль"}
+{"msgctxt":"roster","msgid":"Overdune Snapfinger","msgstr":"Овердюн Пальцелом"}
+{"msgctxt":"roster","msgid":"Rionel","msgstr":"Рионель"}
+{"msgctxt":"roster","msgid":"Rohani Oscleton","msgstr":"Рохани Осклетон"}
+{"msgctxt":"roster","msgid":"Sethrc Thistlebone","msgstr":"Сетрик Сислбон"}
+{"msgctxt":"roster","msgid":"Simon Templar","msgstr":"Саймон Темплар"}
+{"msgctxt":"roster","msgid":"Tempus ","msgstr":"Темпус"}
+{"msgctxt":"roster","msgid":"Thanys","msgstr":"Танис"}
+{"msgctxt":"roster","msgid":"Thorne Understone","msgstr":"Торн Под-Камнем"}
+{"msgctxt":"roster","msgid":"Ulbrecht","msgstr":"Ульбрехт "}
+{"msgctxt":"roster","msgid":"Verish ","msgstr":"Вериш"}
+{"msgctxt":"roster","msgid":"Vetrinus Taleshire","msgstr":"Ветринус Тейлшир"}
+{"msgctxt":"roster","msgid":"Volog Sandwind","msgstr":"Волог Сэндвинд"}
+{"msgctxt":"roster","msgid":"cleric","msgstr":"клерик"}
+{"msgctxt":"roster","msgid":"darkelf","msgstr":"эльф тьмы"}
+{"msgctxt":"roster","msgid":"dragon","msgstr":"дракон"}
+{"msgctxt":"roster","msgid":"knight","msgstr":"рыцарь"}
+{"msgctxt":"roster","msgid":"minotaur","msgstr":"минотавр"}
+{"msgctxt":"roster","msgid":"necromancer","msgstr":"некромансер"}
+{"msgctxt":"roster","msgid":"troll","msgstr":"тролль"}
+{"msgctxt":"roster","msgid":"vampire","msgstr":"вампир"}
 {"msgctxt":"skilldes","msgid":"Air","msgstr":"Воздух"}
 {"msgctxt":"skilldes","msgid":"Air Magic","msgstr":"Магия Воздуха"}
 {"msgctxt":"skilldes","msgid":"Alchemy","msgstr":"Алхимия"}
@@ -2040,7 +4814,7 @@
 {"msgctxt":"skilldes","msgid":"Earth Magic","msgstr":"Магия Земли"}
 {"msgctxt":"skilldes","msgid":"Fire","msgstr":"Огонь"}
 {"msgctxt":"skilldes","msgid":"Fire Magic","msgstr":"Магия Огня"}
-{"msgctxt":"skilldes","msgid":"Identify","msgstr":"Опознать"}
+{"msgctxt":"global","msgid":"Identify","msgstr":"Опознать"}
 {"msgctxt":"skilldes","msgid":"Identify Item","msgstr":"Опознание предмета"}
 {"msgctxt":"skilldes","msgid":"Identify Monster","msgstr":"Опознание монстров"}
 {"msgctxt":"skilldes","msgid":"Learning","msgstr":"Обучение"}
@@ -2312,7 +5086,6 @@
 {"msgctxt":"spells","msgid":"Ring of Fire","msgstr":"Кольцо огня"}
 {"msgctxt":"spells","msgid":"Rmv. Curse","msgstr":"Снятие проклятия"}
 {"msgctxt":"spells","msgid":"Rock Blast","msgstr":"Каменный взрыв"}
-{"msgctxt":"spells","msgid":"Sacrifice","msgstr":"Жертвоприношение"}
 {"msgctxt":"spells","msgid":"Shared Life","msgstr":"Общая жизнь"}
 {"msgctxt":"spells","msgid":"Shield","msgstr":"Щит"}
 {"msgctxt":"spells","msgid":"Shrapmetal","msgstr":"Осколки металла"}
@@ -2356,6 +5129,7 @@
 {"msgctxt":"spells","msgid":"Water Walk","msgstr":"Хождение по воде"}
 {"msgctxt":"spells","msgid":"Wing Buffet","msgstr":"Удар крыльями"}
 {"msgctxt":"spells","msgid":"Wizard Eye","msgstr":"Глаз волшебника"}
+{"msgctxt":"spells","msgid":"Protection from Elec","msgstr":"Защита от Грома"}
 {"msgctxt":"spells vampire","msgid":"Charm","msgstr":"Очарование"}
 {"msgctxt":"stats","msgid":"AC","msgstr":"КБ"}
 {"msgctxt":"stats","msgid":"Accuracy","msgstr":"Меткость"}
@@ -2401,6 +5175,23 @@
 {"msgctxt":"stats","msgid":"Speed","msgstr":"Скорость"}
 {"msgctxt":"stats","msgid":"Spell Points","msgstr":"Очки маны"}
 {"msgctxt":"stats","msgid":"Water","msgstr":"Вода"}
+{"msgctxt":"stats","msgid":"Air Resistance","msgstr":"Устойчивость к воздуху"}
+{"msgctxt":"stats","msgid":"Alchemy skill","msgstr":"Умение -  алхимия "}
+{"msgctxt":"stats","msgid":"Armsmaster skill","msgstr":"Умение - владение оружием"}
+{"msgctxt":"stats","msgid":"Body Resistance","msgstr":"Устойчивость тела "}
+{"msgctxt":"stats","msgid":"Cold Resistance","msgstr":"Устойчивость к Холоду"}
+{"msgctxt":"stats","msgid":"Disarm skill","msgstr":"Умение - разоружение ловушек "}
+{"msgctxt":"stats","msgid":"Dodge skill","msgstr":"Умение - уворачивание "}
+{"msgctxt":"stats","msgid":"Earth Resistance","msgstr":"Устойчивость к земле "}
+{"msgctxt":"stats","msgid":"Elec Resistance","msgstr":"Устойчивость к Грому"}
+{"msgctxt":"stats","msgid":"Fire Resistance","msgstr":"Устойчивость к огню"}
+{"msgctxt":"stats","msgid":"ID Item skill","msgstr":"Умение - опознание предмета "}
+{"msgctxt":"stats","msgid":"ID Monster skill","msgstr":"Умение - опознание монстра"}
+{"msgctxt":"stats","msgid":"Mind Resistance","msgstr":"Устойчивость разума "}
+{"msgctxt":"stats","msgid":"Poison Resistance","msgstr":"Устойчивость к Яду"}
+{"msgctxt":"stats","msgid":"Stealing skill","msgstr":"Умение - воровство "}
+{"msgctxt":"stats","msgid":"Unarmed skill","msgstr":"Умение - рукопашный бой"}
+{"msgctxt":"stats","msgid":"Water Resistance","msgstr":"Устойчивость к воде"}
 {"msgctxt":"stditems","msgid":"of Air Resistance","msgstr":"(Сопротивления воздуху)"}
 {"msgctxt":"stditems","msgid":"of Alchemy","msgstr":"алхимии"}
 {"msgctxt":"stditems","msgid":"of Arms","msgstr":"Оружейника"}

@@ -1,7 +1,8 @@
 # Regenerate the per-language translation glossaries from the .po files.
 #
-#   references/glossary/glossary-terms.tsv   curated, language-neutral term
-#                                            selection (msgctxt <TAB> English)
+#   references/glossary/glossary-terms.jsonl   curated, language-neutral term
+#                                              selection: one JSON object per
+#                                              term (msgctxt, msgid)
 #   references/glossary/<lang>/glossary.jsonl  generated: one JSON object per
 #                                              term, containing context,
 #                                              English, and the language's
@@ -21,7 +22,7 @@ from pathlib import Path
 import polib
 
 REPO = Path(__file__).resolve().parent.parent
-TERMS = REPO / 'references' / 'glossary' / 'glossary-terms.tsv'
+TERMS = REPO / 'references' / 'glossary' / 'glossary-terms.jsonl'
 
 sys.path.insert(0, str(REPO))
 from config.languages import DERIVED_LANGUAGES  # noqa: E402
@@ -34,10 +35,10 @@ def normWs(s):
 def loadTerms():
 	terms = []
 	for ln in TERMS.read_text(encoding = 'utf-8').splitlines():
-		if not ln.strip() or ln.startswith('#'):
+		if not ln.strip():
 			continue
-		ctx, en = ln.split('\t', 1)
-		terms.append((ctx.strip(), en.strip()))
+		row = json.loads(ln)
+		terms.append((row['msgctxt'], row['msgid']))
 	return terms
 
 
