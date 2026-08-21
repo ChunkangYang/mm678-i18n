@@ -7399,7 +7399,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:4
 msgctxt "roster"
 msgid "Devlin Arcanus"
-msgstr ""
+msgstr "데블린 아르카누스"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:4
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:4
@@ -7415,7 +7415,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:5
 msgctxt "roster"
 msgid "Fredrick Talimere"
-msgstr ""
+msgstr "프레드릭 탈리메어"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:5
 msgctxt "roster"
@@ -7440,7 +7440,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:6
 msgctxt "roster"
 msgid "Simon Templar"
-msgstr ""
+msgstr "시몬 템플라"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:6
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:6
@@ -7456,7 +7456,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:7
 msgctxt "roster"
 msgid "Overdune Snapfinger"
-msgstr ""
+msgstr "오버듄 스냅핑거"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:7
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:7
@@ -7472,7 +7472,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:8
 msgctxt "roster"
 msgid "Arius"
-msgstr ""
+msgstr "아리우스"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:8
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:8
@@ -7488,7 +7488,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:9
 msgctxt "roster"
 msgid "Rohani Oscleton"
-msgstr ""
+msgstr "로하니 오스클톤"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:9
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:9
@@ -7503,7 +7503,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:10
 msgctxt "roster"
 msgid "Elsbeth Lamentia"
-msgstr ""
+msgstr "엘스베스 라멘티아"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:10
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:10
@@ -7518,7 +7518,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:11
 msgctxt "roster"
 msgid "Ithilgore"
-msgstr ""
+msgstr "이실고어"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:11
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:11
@@ -7533,7 +7533,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:12
 msgctxt "roster"
 msgid "Karanya Memoria"
-msgstr ""
+msgstr "카라냐 메모리아"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:12
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:12
@@ -7548,7 +7548,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:13
 msgctxt "roster"
 msgid "Maylander "
-msgstr ""
+msgstr "메일랜더 "
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:13
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:13
@@ -7563,7 +7563,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:14
 msgctxt "roster"
 msgid "Leane Stormlance"
-msgstr ""
+msgstr "레안 스톰랜스"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:14
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:14
@@ -7578,7 +7578,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:15
 msgctxt "roster"
 msgid "Volog Sandwind"
-msgstr ""
+msgstr "볼로그 샌드윈드"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:15
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:15
@@ -7593,7 +7593,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:16
 msgctxt "roster"
 msgid "Thanys"
-msgstr ""
+msgstr "타니스"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:16
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:16
@@ -7607,7 +7607,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:17
 msgctxt "roster"
 msgid "Jasp Thelbourne"
-msgstr ""
+msgstr "쟈스 텔번"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:17
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:17
@@ -7623,7 +7623,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:18
 msgctxt "roster"
 msgid "Gethric Mercutura"
-msgstr ""
+msgstr "게드릭 메르쿠투라"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:18
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:18
@@ -7639,7 +7639,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:19
 msgctxt "roster"
 msgid "Flamdring"
-msgstr ""
+msgstr "플램드링"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:19
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:19
@@ -7654,7 +7654,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:20
 msgctxt "roster"
 msgid "Hevatia Deverbero"
-msgstr ""
+msgstr "헤바티아 데베르베로"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:20
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:20
@@ -7670,7 +7670,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:21
 msgctxt "roster"
 msgid "Verish "
-msgstr ""
+msgstr "베리시 "
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:21
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:21
@@ -7685,7 +7685,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:22
 msgctxt "roster"
 msgid "Nelix Uriel"
-msgstr ""
+msgstr "넬릭스 우리엘"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:22
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:22
@@ -7701,7 +7701,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:23
 msgctxt "roster"
 msgid "Sethrc Thistlebone"
-msgstr ""
+msgstr "세드릭 시슬본"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:23
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:23
@@ -7717,7 +7717,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:24
 msgctxt "roster"
 msgid "Rionel"
-msgstr ""
+msgstr "리오넬"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:24
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:24
@@ -7733,7 +7733,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:25
 msgctxt "roster"
 msgid "Adric Stellare"
-msgstr ""
+msgstr "아드릭 스텔라레"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:25
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:25
@@ -7749,7 +7749,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:26
 msgctxt "roster"
 msgid "Infaustus "
-msgstr ""
+msgstr "인파우스투스 "
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:26
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:26
@@ -7764,7 +7764,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:27
 msgctxt "roster"
 msgid "Brimstone"
-msgstr ""
+msgstr "브림스톤"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:27
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:27
@@ -7780,7 +7780,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:28
 msgctxt "roster"
 msgid "Vetrinus Taleshire"
-msgstr ""
+msgstr "베트리누스 테일셔"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:28
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:28
@@ -7795,7 +7795,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:29
 msgctxt "roster"
 msgid "Dervish Chevron"
-msgstr ""
+msgstr "더비쉬 셰브론"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:29
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:29
@@ -7825,7 +7825,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:31
 msgctxt "roster"
 msgid "Thorne Understone"
-msgstr ""
+msgstr "소른 언더스톤"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:31
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:31
@@ -7839,7 +7839,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:32
 msgctxt "roster"
 msgid "Ulbrecht"
-msgstr "Ubrecht"
+msgstr "울브레트"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:32
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:32
@@ -7854,7 +7854,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:33
 msgctxt "roster"
 msgid "Cauri Blackthorne"
-msgstr ""
+msgstr "카우리 블랙손"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:33
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:33
@@ -7870,7 +7870,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:34
 msgctxt "roster"
 msgid "Artorius Veritas"
-msgstr ""
+msgstr "아르토리우스 베리타스"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:34
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:34
@@ -7885,7 +7885,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:35
 msgctxt "roster"
 msgid "Duroth the Eternal"
-msgstr ""
+msgstr "영원한 두로스"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:35
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:35
@@ -7901,7 +7901,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:36
 msgctxt "roster"
 msgid "Nathaniel Roberts"
-msgstr ""
+msgstr "나다니엘 로버츠"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:36
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:36
@@ -7917,7 +7917,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:37
 msgctxt "roster"
 msgid "Dyson Leyland"
-msgstr ""
+msgstr "다이슨 릴런드"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:37
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:37
@@ -7932,7 +7932,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:38
 msgctxt "roster"
 msgid "Blazen Stormlance"
-msgstr ""
+msgstr "블레이즌 스톰랜스"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:38
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:38
@@ -7950,7 +7950,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:47
 msgctxt "roster"
 msgid "troll"
-msgstr ""
+msgstr "트롤"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:40
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:48
@@ -7958,7 +7958,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:48
 msgctxt "roster"
 msgid "minotaur"
-msgstr ""
+msgstr "미노타우로스"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:41
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:49
@@ -7966,7 +7966,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/roster.txt.py:49
 msgctxt "roster"
 msgid "darkelf"
-msgstr ""
+msgstr "다크 엘프"
 
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:42
 #: mmmerge/Data/10LocLANG.T/roster.txt.py:50
@@ -14421,7 +14421,7 @@ msgstr "해머와 집게"
 #: mm6/data/10LocLANG.icons/2DEvents.txt.py:4
 msgctxt "location"
 msgid "Brand "
-msgstr "Brand"
+msgstr "브랜드"
 
 #: mmmerge/Data/Text localization/LANG_2DEvents.txt.py:25
 #: mm6/data/10LocLANG.icons/2DEvents.txt.py:5
@@ -14545,7 +14545,7 @@ msgstr "마크 그리고 미사일"
 #: mm6/data/10LocLANG.icons/2DEvents.txt.py:14
 msgctxt "location"
 msgid "Julian "
-msgstr "Julian"
+msgstr "줄리안"
 
 #: mmmerge/Data/Text localization/LANG_2DEvents.txt.py:35
 #: mm6/data/10LocLANG.icons/2DEvents.txt.py:15
@@ -16080,7 +16080,7 @@ msgstr ""
 #: mm6/data/10LocLANG.icons/2DEvents.txt.py:127
 msgctxt "location"
 msgid "Lawrence "
-msgstr "Lawrence"
+msgstr "로렌스"
 
 #: mmmerge/Data/Text localization/LANG_2DEvents.txt.py:152
 #: mm6/data/10LocLANG.icons/2DEvents.txt.py:128
@@ -29564,7 +29564,7 @@ msgstr "달인 마법사"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:2
 msgctxt "items"
 msgid "Iron Longsword"
-msgstr ""
+msgstr "철제 장검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:2 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:3 mmmerge/Data/Text
@@ -29670,7 +29670,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:7
 msgctxt "items"
 msgid "Iron Two-Handed Sword"
-msgstr ""
+msgstr "철제 양손검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:7 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:8 mmmerge/Data/Text
@@ -30879,7 +30879,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:67
 msgctxt "items"
 msgid "Sturdy Mace"
-msgstr ""
+msgstr "견고한 철퇴"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:67 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:69 mmmerge/Data/Text
@@ -31886,7 +31886,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:115
 msgctxt "items"
 msgid "Citizen Hat"
-msgstr ""
+msgstr "시민 모자"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:115 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:116 mmmerge/Data/Text
@@ -31952,7 +31952,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:118
 msgctxt "items"
 msgid "Studded Leather Belt"
-msgstr ""
+msgstr "징 박힌 가죽 허리띠"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:118 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:119 mmmerge/Data/Text
@@ -33040,7 +33040,7 @@ msgstr "마비의 뱀 마법봉"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:172
 msgctxt "items"
 msgid "Serpent Wand of Clouds"
-msgstr ""
+msgstr "구름의 뱀 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:173
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:175
@@ -33531,7 +33531,7 @@ msgstr "차원의 문"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:753
 msgctxt "items"
 msgid "Scroll"
-msgstr ""
+msgstr "두루마리"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:191 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:301 mmmerge/Data/Text
@@ -36745,7 +36745,7 @@ msgstr "영혼 포식자"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:501
 msgctxt "items"
 msgid "Learning Book"
-msgstr ""
+msgstr "마법주문서"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:401 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:402 mmmerge/Data/Text
@@ -37018,7 +37018,7 @@ msgstr "엘센레일"
 #: localization/LANG_ItemsTxt.txt.py:502
 msgctxt "items"
 msgid "Artifact Longsword"
-msgstr ""
+msgstr "아티팩트 장검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:501
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:503
@@ -37055,7 +37055,7 @@ msgstr "테르미누스"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:503
 msgctxt "items"
 msgid "Artifact Broadsword"
-msgstr ""
+msgstr "아티팩트 브로드소드"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:503
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:505
@@ -37076,7 +37076,7 @@ msgstr "현명한 판단"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:504
 msgctxt "items"
 msgid "Artifact Cutlass"
-msgstr ""
+msgstr "아티팩트 커틀러스"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:504
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:506
@@ -37097,7 +37097,7 @@ msgstr "고대의 도끼"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:505
 msgctxt "items"
 msgid "Artifact Axe"
-msgstr ""
+msgstr "아티팩트 도끼"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:505
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:507
@@ -37117,7 +37117,7 @@ msgstr "화산"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:506
 msgctxt "items"
 msgid "Artifact Two-Handed Axe"
-msgstr ""
+msgstr "아티팩트 양손 도끼"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:506
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:508
@@ -37140,7 +37140,7 @@ msgstr "웜 스피터"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:507
 msgctxt "items"
 msgid "Artifact Spear"
-msgstr ""
+msgstr "아티팩트 창"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:507
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:509
@@ -37162,7 +37162,7 @@ msgstr "수호자"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:508
 msgctxt "items"
 msgid "Artifact Halberd"
-msgstr ""
+msgstr "아티팩트 할버드"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:508
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:510
@@ -37185,7 +37185,7 @@ msgstr "사악한 송곳니"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:509
 msgctxt "items"
 msgid "Artifact Long Dagger"
-msgstr ""
+msgstr "아티팩트 긴 단검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:509
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:511
@@ -37207,7 +37207,7 @@ msgstr "왕들의 홀"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:510
 msgctxt "items"
 msgid "Artifact Mace"
-msgstr ""
+msgstr "아티팩트 철퇴"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:510
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:512
@@ -37230,7 +37230,7 @@ msgstr "파괴자"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:511
 msgctxt "items"
 msgid "Artifact Club"
-msgstr ""
+msgstr "아티팩트 곤봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:511
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:513
@@ -37252,7 +37252,7 @@ msgstr "늪의 지팡이"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:512
 msgctxt "items"
 msgid "Artifact Staff"
-msgstr ""
+msgstr "아티팩트 지팡이"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:512
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:514
@@ -37273,7 +37273,7 @@ msgstr "롱시커"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:513
 msgctxt "items"
 msgid "Artifact Bow"
-msgstr ""
+msgstr "아티팩트 활"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:513
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:515
@@ -37294,7 +37294,7 @@ msgstr "세렌딘의 생명 보존"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:514
 msgctxt "items"
 msgid "Artifact Leather Armor"
-msgstr ""
+msgstr "아티팩트 가죽 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:514
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:516
@@ -37314,7 +37314,7 @@ msgstr "글로멘메일"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:515
 msgctxt "items"
 msgid "Artifact Chainmail"
-msgstr ""
+msgstr "아티팩트 사슬갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:515
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:517
@@ -37335,7 +37335,7 @@ msgstr "최상급 판금 갑옷"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:516
 msgctxt "items"
 msgid "Artifact Plate Armor"
-msgstr ""
+msgstr "아티팩트 판금 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:516
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:518
@@ -37356,7 +37356,7 @@ msgstr "이클립스"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:517
 msgctxt "items"
 msgid "Artifact Large Shield"
-msgstr ""
+msgstr "아티팩트 큰 방패"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:517
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:519
@@ -37379,7 +37379,7 @@ msgstr "날쌘손"
 #: localization/LANG_ItemsTxt.txt.py:1337
 msgctxt "items"
 msgid "Artifact Gauntlets"
-msgstr ""
+msgstr "아티팩트 건틀릿"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:518
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:520
@@ -37400,7 +37400,7 @@ msgstr "전령의 장화"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:519
 msgctxt "items"
 msgid "Artifact Boots"
-msgstr ""
+msgstr "아티팩트 장화"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:519
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:521
@@ -37422,7 +37422,7 @@ msgstr "차원계의 반지"
 #: localization/LANG_ItemsTxt.txt.py:1339
 msgctxt "items"
 msgid "Artifact Ring"
-msgstr ""
+msgstr "아티팩트 반지"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:520
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:522
@@ -37444,7 +37444,7 @@ msgstr "드로그의 투구"
 #: localization/LANG_ItemsTxt.txt.py:1335
 msgctxt "items"
 msgid "Artifact Helm"
-msgstr ""
+msgstr "아티팩트 투구"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:521
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:523
@@ -37467,7 +37467,7 @@ msgstr "궁극 지배의 왕관"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:522
 msgctxt "items"
 msgid "Artifact Crown"
-msgstr ""
+msgstr "아티팩트 왕관"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:522
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:524
@@ -37490,7 +37490,7 @@ msgstr "대천사의 날개"
 #: localization/LANG_ItemsTxt.txt.py:1333
 msgctxt "items"
 msgid "Artifact Cloak"
-msgstr ""
+msgstr "아티팩트 망토"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:523
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:525
@@ -37513,7 +37513,7 @@ msgstr "뱀"
 #: localization/LANG_ItemsTxt.txt.py:525
 msgctxt "items"
 msgid "Relic Longsword"
-msgstr ""
+msgstr "전설의 명품 장검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:524
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:526
@@ -37550,7 +37550,7 @@ msgstr "종언"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:526
 msgctxt "items"
 msgid "Relic Two-Handed Sword"
-msgstr ""
+msgstr "전설의 명품 양손검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:526
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:528
@@ -37572,7 +37572,7 @@ msgstr "지옥의 대도"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:527
 msgctxt "items"
 msgid "Relic Axe"
-msgstr ""
+msgstr "전설의 명품 도끼"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:527
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:529
@@ -37593,7 +37593,7 @@ msgstr "영혼 학살자"
 #: localization/LANG_ItemsTxt.txt.py:529
 msgctxt "items"
 msgid "Relic Spear"
-msgstr ""
+msgstr "전설의 명품 창"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:528
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:530
@@ -37631,7 +37631,7 @@ msgstr "자비의 칼날"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:530
 msgctxt "items"
 msgid "Relic Dagger"
-msgstr ""
+msgstr "전설의 명품 단검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:530
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:532
@@ -37653,7 +37653,7 @@ msgstr "원소의 지팡이"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:531
 msgctxt "items"
 msgid "Relic Staff"
-msgstr ""
+msgstr "전설의 명품 지팡이"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:531
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:533
@@ -37675,7 +37675,7 @@ msgstr "대회용 활"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:532
 msgctxt "items"
 msgid "Relic Bow"
-msgstr ""
+msgstr "전설의 명품 활"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:532
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:534
@@ -37697,7 +37697,7 @@ msgstr "번개의 석궁"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:533
 msgctxt "items"
 msgid "Relic Crossbow"
-msgstr ""
+msgstr "전설의 명품 석궁"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:533
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:535
@@ -37719,7 +37719,7 @@ msgstr "최종 단계의 흉갑"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:534
 msgctxt "items"
 msgid "Relic Leather Armor"
-msgstr ""
+msgstr "전설의 명품 가죽 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:534
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:536
@@ -37741,7 +37741,7 @@ msgstr "헤론데일의 잃어버린 방패"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:535
 msgctxt "items"
 msgid "Relic Small Shield"
-msgstr ""
+msgstr "전설의 명품 작은 방패"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:535
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:537
@@ -37762,7 +37762,7 @@ msgstr "융합의 반지"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:536
 msgctxt "items"
 msgid "Relic Ring"
-msgstr ""
+msgstr "전설의 명품 반지"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:536
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:538
@@ -37783,7 +37783,7 @@ msgstr "행운의 모자"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:537
 msgctxt "items"
 msgid "Relic Hat"
-msgstr ""
+msgstr "전설의 명품 모자"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:537
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:539
@@ -37802,7 +37802,7 @@ msgstr "광전사의 허리띠"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:538
 msgctxt "items"
 msgid "Relic Belt"
-msgstr ""
+msgstr "전설의 명품 벨트"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:538
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:540
@@ -37824,7 +37824,7 @@ msgstr "태양의 철퇴"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:539
 msgctxt "items"
 msgid "Special Mace"
-msgstr ""
+msgstr "특별한 철퇴"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:539
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:541
@@ -37843,7 +37843,7 @@ msgstr "칠흑"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:540
 msgctxt "items"
 msgid "Special Spear"
-msgstr ""
+msgstr "특별한 창"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:540
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:542
@@ -37863,7 +37863,7 @@ msgstr "휘슬본의 검"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:541
 msgctxt "items"
 msgid "Special Two-Handed Sword"
-msgstr ""
+msgstr "특별한 양손검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:541
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:543
@@ -37884,7 +37884,7 @@ msgstr "발타자르의 도끼"
 #: localization/LANG_ItemsTxt.txt.py:1352
 msgctxt "items"
 msgid "Special Two-Handed Axe"
-msgstr ""
+msgstr "특별한 양손 도끼"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:542
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:544
@@ -37908,7 +37908,7 @@ msgstr "귀족뼈 활"
 #: localization/LANG_ItemsTxt.txt.py:1346
 msgctxt "items"
 msgid "Special Bow"
-msgstr ""
+msgstr "특별한 활"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:543
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:545
@@ -37929,7 +37929,7 @@ msgstr "생명의 순환"
 #: localization/LANG_ItemsTxt.txt.py:1349
 msgctxt "items"
 msgid "Special Ring"
-msgstr ""
+msgstr "특별한 반지"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:544
 msgctxt "items"
@@ -37948,7 +37948,7 @@ msgstr "허위 보고서"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:605
 msgctxt "items"
 msgid "Report"
-msgstr ""
+msgstr "보고서"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:603
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:605
@@ -37968,7 +37968,7 @@ msgstr "유골 단지"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:606
 msgctxt "items"
 msgid "Urn"
-msgstr ""
+msgstr "단지"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:604
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:606
@@ -37988,7 +37988,7 @@ msgstr "나이트셰이드 화로"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:607
 msgctxt "items"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:605
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:607
@@ -38038,7 +38038,7 @@ msgstr "불의 심장"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:612
 msgctxt "items"
 msgid "Heartstone"
-msgstr ""
+msgstr "심장석"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:607
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:609
@@ -38227,7 +38227,7 @@ msgstr "켈의 잃어버린 책"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:655
 msgctxt "items"
 msgid "Book"
-msgstr ""
+msgstr "책"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:612
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:614
@@ -38270,7 +38270,7 @@ msgstr "수수께끼 상자"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:616
 msgctxt "items"
 msgid "Box"
-msgstr ""
+msgstr "상자"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:614
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:616
@@ -38291,7 +38291,7 @@ msgstr "무덤 흙이 든 약병"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:617
 msgctxt "items"
 msgid "Vial"
-msgstr ""
+msgstr "약병"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:615
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:617
@@ -38311,7 +38311,7 @@ msgstr "승리의 북"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:618
 msgctxt "items"
 msgid "Drum"
-msgstr ""
+msgstr "북"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:616
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:618
@@ -38494,7 +38494,7 @@ msgstr "코르부의 유해"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:630
 msgctxt "items"
 msgid "Remains"
-msgstr ""
+msgstr "유해"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:628
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:630
@@ -38559,7 +38559,7 @@ msgstr "뱀의 우상"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:633
 msgctxt "items"
 msgid "Idol"
-msgstr ""
+msgstr "우상"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:631
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:633
@@ -38593,7 +38593,7 @@ msgstr "나가 가죽"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:635
 msgctxt "items"
 msgid "Hide"
-msgstr ""
+msgstr "가죽"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:633
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:635
@@ -38611,7 +38611,7 @@ msgstr "다이어 울프 가죽"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:636
 msgctxt "items"
 msgid "Pelt"
-msgstr ""
+msgstr "모피"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:634
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:636
@@ -38643,7 +38643,7 @@ msgstr "왕말벌 젤리"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:638
 msgctxt "items"
 msgid "Jelly"
-msgstr ""
+msgstr "젤리"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:636
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:638
@@ -38697,7 +38697,7 @@ msgstr "힘의 드루이드 관"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:641
 msgctxt "items"
 msgid "Circlet"
-msgstr ""
+msgstr "관"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:639
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:641
@@ -38771,7 +38771,7 @@ msgstr "토버스크 열매"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:646
 msgctxt "items"
 msgid "Fruit"
-msgstr ""
+msgstr "열매"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:644
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:646
@@ -38791,7 +38791,7 @@ msgstr "토버스크 과육"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:647
 msgctxt "items"
 msgid "Pulp"
-msgstr ""
+msgstr "과육"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:645
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:647
@@ -38809,7 +38809,7 @@ msgstr "토버스크 브랜디"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:648
 msgctxt "items"
 msgid "Brandy"
-msgstr "Brand"
+msgstr "브랜디"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:646
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:648
@@ -38914,7 +38914,7 @@ msgstr "위조 교환권"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:653
 msgctxt "items"
 msgid "Vouchers"
-msgstr ""
+msgstr "교환권"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:651
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:653
@@ -38960,7 +38960,7 @@ msgstr "오우거의 귀"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:656
 msgctxt "items"
 msgid "Ear"
-msgstr ""
+msgstr "귀"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:654
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:656
@@ -38980,7 +38980,7 @@ msgstr "말벌 독침"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:657
 msgctxt "items"
 msgid "Stinger"
-msgstr ""
+msgstr "독침"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:655
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:657
@@ -39065,7 +39065,7 @@ msgstr "프렐랑도의 바퀴"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:663
 msgctxt "items"
 msgid "Cheese"
-msgstr ""
+msgstr "치즈"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:659
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:661
@@ -39130,7 +39130,7 @@ msgstr "지배의 대포알"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:665
 msgctxt "items"
 msgid "Cannonball"
-msgstr ""
+msgstr "대포알"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:663
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:665
@@ -39148,7 +39148,7 @@ msgstr "마력이 주입된 금속 막대"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:664
 msgctxt "items"
 msgid "Metal Rod"
-msgstr ""
+msgstr "금속 막대"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:664
 msgctxt "items"
@@ -39163,7 +39163,7 @@ msgstr "커다란 둥근 수정"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:665
 msgctxt "items"
 msgid "Round crystal"
-msgstr ""
+msgstr "둥근 수정"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:665
 msgctxt "items"
@@ -39407,7 +39407,7 @@ msgstr "회춘 제조법"
 #: localization/LANG_ItemsTxt.txt.py:770
 msgctxt "items"
 msgid "Potion Recipe"
-msgstr ""
+msgstr "물약 제조법"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:701 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:702 mmmerge/Data/Text
@@ -39757,7 +39757,7 @@ msgstr "진품 인증서"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:735
 msgctxt "items"
 msgid "Certificate"
-msgstr ""
+msgstr "증서"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:733
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:735
@@ -39888,7 +39888,7 @@ msgstr "시간의 금고의 역사"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:747
 msgctxt "items"
 msgid "History Book"
-msgstr ""
+msgstr "역사책"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:745
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:747
@@ -39908,7 +39908,7 @@ msgstr "단검 상처의 기이한 점"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:748
 msgctxt "items"
 msgid "Journal Notes"
-msgstr ""
+msgstr "일지 기록"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:746
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:748
@@ -39966,7 +39966,7 @@ msgstr "메모 - 긴급 회의"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:752
 msgctxt "items"
 msgid "Notes"
-msgstr ""
+msgstr "메모"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:749
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:751
@@ -40123,7 +40123,7 @@ msgstr "보물찾기."
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:775
 msgctxt "items"
 msgid "Advertisment"
-msgstr ""
+msgstr "광고지"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:801
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:803
@@ -40300,7 +40300,7 @@ msgstr "이 훌륭한 에라시아의 강철 브로드소드는 뛰어난 품질
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:814
 msgctxt "items"
 msgid "Master Broadsword"
-msgstr ""
+msgstr "달인의 브로드소드"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:814
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:13
@@ -40344,7 +40344,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:817
 msgctxt "items"
 msgid "Exquisite Cutlass"
-msgstr ""
+msgstr "정교한 커틀러스"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:817
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:16
@@ -40361,7 +40361,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:818
 msgctxt "items"
 msgid "Improvised Dagger"
-msgstr ""
+msgstr "급조한 단검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:818
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:17
@@ -40421,7 +40421,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:822
 msgctxt "items"
 msgid "Wonder Dagger"
-msgstr ""
+msgstr "경이의 단검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:822
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:21
@@ -40435,7 +40435,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:823
 msgctxt "items"
 msgid "Shoddy Long Dagger"
-msgstr ""
+msgstr "조악한 긴 단검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:823
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:22
@@ -41016,7 +41016,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:858
 msgctxt "items"
 msgid "Makeshift Hammer"
-msgstr ""
+msgstr "임시변통 망치"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:858
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:57
@@ -41029,7 +41029,7 @@ msgstr "조잡하고 연장같은 무기인, 이 망치는 손에서 떨어지�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:859
 msgctxt "items"
 msgid "Battle Hammer"
-msgstr ""
+msgstr "전투 망치"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:859
 msgctxt "items"
@@ -41060,7 +41060,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:861
 msgctxt "items"
 msgid "Primitive Club"
-msgstr ""
+msgstr "원시적인 곤봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:861
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:60
@@ -41073,7 +41073,7 @@ msgstr "아무리 멍청한 몬스터라도 쓸 수 있는 원시적인 무기�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:862
 msgctxt "items"
 msgid "Thorned Club"
-msgstr ""
+msgstr "가시 돋친 곤봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:862
 msgctxt "items"
@@ -41245,7 +41245,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:872
 msgctxt "items"
 msgid "Light Dragon Leather"
-msgstr ""
+msgstr "경량 드래곤 가죽 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:872
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:71
@@ -41526,7 +41526,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:887
 msgctxt "items"
 msgid "Crude Buckler"
-msgstr ""
+msgstr "조잡한 버클러"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:887
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:86
@@ -41647,7 +41647,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:894
 msgctxt "items"
 msgid "Elven Helm"
-msgstr ""
+msgstr "엘프 투구"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:894
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:93
@@ -41782,7 +41782,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:902
 msgctxt "items"
 msgid "Royal Crown"
-msgstr ""
+msgstr "왕실 왕관"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:902
 msgctxt "items"
@@ -41870,7 +41870,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:908
 msgctxt "items"
 msgid "Fine Leather Cloak"
-msgstr ""
+msgstr "고급 가죽 망토"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:908
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:107
@@ -41940,7 +41940,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:913
 msgctxt "items"
 msgid "Pinched Gauntlets"
-msgstr ""
+msgstr "싸구려 건틀릿"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:913
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:112
@@ -42454,7 +42454,7 @@ msgstr "매혹의 알라콘 마법봉"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:953
 msgctxt "items"
 msgid "Warlock's Wand of Blasting"
-msgstr ""
+msgstr "흑마법사의 폭발 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:953 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:954 mmmerge/Data/Text
@@ -42478,22 +42478,22 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:954
 msgctxt "items"
 msgid "Warlock's Wand of The Fist"
-msgstr ""
+msgstr "흑마법사의 주먹 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:955
 msgctxt "items"
 msgid "Warlock's Wand of Rocks"
-msgstr ""
+msgstr "흑마법사의 바위 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:956
 msgctxt "items"
 msgid "Warlock's Wand of Paralyzing"
-msgstr ""
+msgstr "흑마법사의 마비 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:957
 msgctxt "items"
 msgid "Warlock's Wand of Clouds"
-msgstr ""
+msgstr "흑마법사의 구름 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:958
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:157
@@ -46031,7 +46031,7 @@ msgstr "엘프의 파멸"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1334
 msgctxt "items"
 msgid "Artifact Two-Handed Sword"
-msgstr ""
+msgstr "아티팩트 양손검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1334
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:533
@@ -46078,7 +46078,7 @@ msgstr "엘프 사슬 갑옷"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1336
 msgctxt "items"
 msgid "Artifact Chain Mail"
-msgstr ""
+msgstr "아티팩트 사슬 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1336
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:535
@@ -46124,7 +46124,7 @@ msgstr "영웅의 허리띠"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1338
 msgctxt "items"
 msgid "Artifact Belt"
-msgstr ""
+msgstr "아티팩트 벨트"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1338
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:537
@@ -46170,7 +46170,7 @@ msgstr "클랭커의 부적"
 #: localization/LANG_ItemsTxt.txt.py:1342
 msgctxt "items"
 msgid "Special Amulet"
-msgstr ""
+msgstr "특별한 부적"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1340
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:539
@@ -46190,7 +46190,7 @@ msgstr "중위의 커틀러스"
 #: localization/LANG_ItemsTxt.txt.py:1355
 msgctxt "items"
 msgid "Special Cutlass"
-msgstr ""
+msgstr "특별한 커틀러스"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1341
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:540
@@ -46221,7 +46221,7 @@ msgstr "카민 여사의 단검"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1343
 msgctxt "items"
 msgid "Special Dagger"
-msgstr ""
+msgstr "특별한 단검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1343
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:542
@@ -46240,7 +46240,7 @@ msgstr "악당의 칼날"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1344
 msgctxt "items"
 msgid "Special Sword"
-msgstr ""
+msgstr "특별한 검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1344
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:543
@@ -46296,7 +46296,7 @@ msgstr "그림자의 가면"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1347
 msgctxt "items"
 msgid "Special Helm"
-msgstr ""
+msgstr "특별한 투구"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1347
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:546
@@ -46347,7 +46347,7 @@ msgstr "태양의 망토"
 #: localization/LANG_ItemsTxt.txt.py:1353
 msgctxt "items"
 msgid "Special Cloak"
-msgstr ""
+msgstr "특별한 망토"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1350
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:549
@@ -46415,7 +46415,7 @@ msgstr "미노타우로스의 도끼"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1354
 msgctxt "items"
 msgid "Special Axe"
-msgstr ""
+msgstr "특별한 도끼"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1354
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:553
@@ -48358,7 +48358,7 @@ msgstr "제노펙스가 보낸 편지"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1575
 msgctxt "items"
 msgid "Catalyst potion"
-msgstr ""
+msgstr "촉매 물약"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1604
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:4
@@ -48395,7 +48395,7 @@ msgstr "해머와 같은 모양을 한 장검은 드워프들이 만든 것만�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1607
 msgctxt "items"
 msgid "Conqueror Sword"
-msgstr ""
+msgstr "정복자의 검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1607
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:7
@@ -48424,7 +48424,7 @@ msgstr "이 무기는 고대의 보기드문 것으로 고대시대때 만들어
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1609
 msgctxt "items"
 msgid "Claymore"
-msgstr ""
+msgstr "클레이모어"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1609
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:9
@@ -48437,7 +48437,7 @@ msgstr "양손을 쓰는 기본적인 검이다.이 검은 엔로스 전역에�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1610
 msgctxt "items"
 msgid "Barbarian Flamberge"
-msgstr ""
+msgstr "야만인의 플랑베르주"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1610
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:10
@@ -48451,7 +48451,7 @@ msgstr "보통의 양손검이고, 이 야만인들의 무기는 파상의 칼�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1611
 msgctxt "items"
 msgid "Vanquisher Sword"
-msgstr ""
+msgstr "승리자의 검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1611
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:11
@@ -48464,7 +48464,7 @@ msgstr "쓸 만한 높은 가치를 가진 양손으로 쓰는 검.파워가 있
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1612
 msgctxt "items"
 msgid "Fine Broadsword"
-msgstr ""
+msgstr "고급 브로드소드"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1612
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:12
@@ -48477,7 +48477,7 @@ msgstr "보통의 동검. 아무나 다 가지고 있음."
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1613
 msgctxt "items"
 msgid "Massive Steel Broadsword"
-msgstr ""
+msgstr "거대한 강철 브로드소드"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1613
 msgctxt "items"
@@ -48617,7 +48617,7 @@ msgstr "신비에 세계에서 만들어진 무기. 상당히 오래됐고 또�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1623
 msgctxt "items"
 msgid "Fine Long Dagger"
-msgstr ""
+msgstr "고급 긴 단검"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1623
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:23
@@ -48676,7 +48676,7 @@ msgstr "무기보다는 하나의 도구, 이 간단한 도끼는 적을 괴롭�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1627
 msgctxt "items"
 msgid "Barbarian Axe"
-msgstr ""
+msgstr "야만인의 도끼"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1627
 msgctxt "items"
@@ -48706,7 +48706,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1629
 msgctxt "items"
 msgid "Dwarven Noble Axe"
-msgstr ""
+msgstr "드워프 귀족의 도끼"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1629
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:29
@@ -49167,7 +49167,7 @@ msgstr "마법적으로 만들어졌다. 이 해머는 카리고에 있는 달�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1661
 msgctxt "items"
 msgid "Root Club"
-msgstr ""
+msgstr "나무뿌리 곤봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1661
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:61
@@ -49275,7 +49275,7 @@ msgstr "가볍고 아주 간단하게 만들어진 갑옷, 가죽갑옷은 최�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1670
 msgctxt "items"
 msgid "Reinforced Leather"
-msgstr ""
+msgstr "강화 가죽 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1670
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:70
@@ -49343,7 +49343,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1675
 msgctxt "items"
 msgid "Basic Steel Chain Mail"
-msgstr ""
+msgstr "기본 강철 사슬 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1675
 msgctxt "items"
@@ -49405,7 +49405,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1679
 msgctxt "items"
 msgid "Plate Mail"
-msgstr ""
+msgstr "판금 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1679
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:79
@@ -49422,7 +49422,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1680
 msgctxt "items"
 msgid "Steel Plate Mail"
-msgstr ""
+msgstr "강철 판금 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1680
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:80
@@ -49436,7 +49436,7 @@ msgstr "강철을 판금시켜 잘 만들어진 갑옷이다. 오른팔 아래�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1681
 msgctxt "items"
 msgid "Golden Plate Mail"
-msgstr ""
+msgstr "황금 판금 갑옷"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1681
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:81
@@ -49521,7 +49521,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1687
 msgctxt "items"
 msgid "Splintery Buckler"
-msgstr ""
+msgstr "가시투성이 버클러"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1687
 msgctxt "items"
@@ -49535,7 +49535,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1688
 msgctxt "items"
 msgid "Rusty Bronze Shield"
-msgstr ""
+msgstr "녹슨 청동 방패"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1688
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:87
@@ -49600,7 +49600,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1692
 msgctxt "items"
 msgid "Wooden Helm"
-msgstr ""
+msgstr "나무 투구"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1692
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:92
@@ -49695,7 +49695,7 @@ msgstr "보통의 모자. 이 모자는 모직과 면으로 만들어졌고 깃�
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1698
 msgctxt "items"
 msgid "Dandy Hat"
-msgstr ""
+msgstr "멋쟁이 모자"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1698
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:98
@@ -49728,7 +49728,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1700
 msgctxt "items"
 msgid "Wreath Crown"
-msgstr ""
+msgstr "화환 왕관"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1700
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:100
@@ -49779,7 +49779,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1703
 msgctxt "items"
 msgid "Crude Leather Belt"
-msgstr ""
+msgstr "조잡한 가죽 허리띠"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1703
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:103
@@ -50007,7 +50007,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1718
 msgctxt "items"
 msgid "Old Leather Boots"
-msgstr ""
+msgstr "낡은 가죽 장화"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1718
 msgctxt "items"
@@ -50295,7 +50295,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1738
 msgctxt "items"
 msgid "Sparkling Wand of Fire"
-msgstr ""
+msgstr "반짝이는 불의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1738 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1739 mmmerge/Data/Text
@@ -50316,27 +50316,27 @@ msgstr "파란쇠로 만들어진 지팡이 그리고 파란 머릿돌로 씌여
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1739
 msgctxt "items"
 msgid "Sparkling Wand of Sparks"
-msgstr ""
+msgstr "반짝이는 전기 불꽃의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1740
 msgctxt "items"
 msgid "Sparkling Wand of Poison"
-msgstr ""
+msgstr "반짝이는 독의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1741
 msgctxt "items"
 msgid "Sparkling Wand of Stunning"
-msgstr ""
+msgstr "반짝이는 기절의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1742
 msgctxt "items"
 msgid "Sparkling Wand of Harming"
-msgstr ""
+msgstr "반짝이는 해악의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1743
 msgctxt "items"
 msgid "Druid Wand of Light"
-msgstr ""
+msgstr "빛의 드루이드 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1743 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1744 mmmerge/Data/Text
@@ -50360,27 +50360,27 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1744
 msgctxt "items"
 msgid "Druid Wand of Ice"
-msgstr ""
+msgstr "얼음의 드루이드 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1745
 msgctxt "items"
 msgid "Druid Wand of Lashing"
-msgstr ""
+msgstr "채찍질의 드루이드 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1746
 msgctxt "items"
 msgid "Druid Wand of Mind"
-msgstr ""
+msgstr "정신의 드루이드 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1747
 msgctxt "items"
 msgid "Druid Wand of Swarms"
-msgstr ""
+msgstr "곤충 떼의 드루이드 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1748
 msgctxt "items"
 msgid "Cruel Wand of Fireballs"
-msgstr ""
+msgstr "잔혹한 불덩이의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1748 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1749 mmmerge/Data/Text
@@ -50407,22 +50407,22 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1749
 msgctxt "items"
 msgid "Cruel Wand of Acid"
-msgstr ""
+msgstr "잔혹한 산성의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1750
 msgctxt "items"
 msgid "Cruel Wand of Lightning"
-msgstr ""
+msgstr "잔혹한 번개의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1751
 msgctxt "items"
 msgid "Cruel Wand of Blades"
-msgstr ""
+msgstr "잔혹한 칼날의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1752
 msgctxt "items"
 msgid "Cruel Wand of Berzerking"
-msgstr ""
+msgstr "잔혹한 광폭화의 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1753
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:152
@@ -50479,7 +50479,7 @@ msgstr "구름의 비전 마법봉"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1758
 msgctxt "items"
 msgid "Dragon Wand of Implosion"
-msgstr ""
+msgstr "내파의 드래곤 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1758 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1759 mmmerge/Data/Text
@@ -50502,22 +50502,22 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1759
 msgctxt "items"
 msgid "Dragon Wand of Distortion"
-msgstr ""
+msgstr "왜곡의 드래곤 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1760
 msgctxt "items"
 msgid "Dragon Wand of Shrapmetal"
-msgstr ""
+msgstr "금속 파편의 드래곤 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1761
 msgctxt "items"
 msgid "Dragon Wand of Shrinking"
-msgstr ""
+msgstr "축소의 드래곤 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1762
 msgctxt "items"
 msgid "Dragon Wand of Incineration"
-msgstr ""
+msgstr "소각의 드래곤 마법봉"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1763 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1764 mmmerge/Data/Text
@@ -59109,7 +59109,7 @@ msgstr "선인장"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:37
 msgctxt "npcdata"
 msgid "Brekish Onefang"
-msgstr ""
+msgstr "외송곳니 브레키시"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:4 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:34
@@ -59117,7 +59117,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:38
 msgctxt "npcdata"
 msgid "Dadeross"
-msgstr ""
+msgstr "다데로스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:5 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:42
@@ -59125,37 +59125,37 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:55
 msgctxt "npcdata"
 msgid "Elgar Fellmoon"
-msgstr ""
+msgstr "엘가 펠문"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:6
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:6
 msgctxt "npcdata"
 msgid "Arion Hunter"
-msgstr ""
+msgstr "아리온 헌터"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:7
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:7
 msgctxt "npcdata"
 msgid "Bastian Loudrin"
-msgstr ""
+msgstr "바스티안 로드린"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:8
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:8
 msgctxt "npcdata"
 msgid "Alliane Frelsig"
-msgstr ""
+msgstr "알리안 프렐시그"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:9
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:9
 msgctxt "npcdata"
 msgid "Overdune Snapfinger"
-msgstr ""
+msgstr "오버듄 스냅핑거"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:10
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:10
 msgctxt "npcdata"
 msgid "Aori Derrisai"
-msgstr ""
+msgstr "아오리 데리사이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:11 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:58
@@ -59171,7 +59171,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:78
 msgctxt "npcdata"
 msgid "Thant"
-msgstr ""
+msgstr "탄트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:13
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:13
@@ -59183,7 +59183,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:14
 msgctxt "npcdata"
 msgid "Icarus Dire"
-msgstr ""
+msgstr "이카루스 다이어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:15 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:57
@@ -59191,13 +59191,13 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:70
 msgctxt "npcdata"
 msgid "Masul"
-msgstr ""
+msgstr "마술"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:16
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:16
 msgctxt "npcdata"
 msgid "Helius"
-msgstr ""
+msgstr "헬리우스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:17 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:54 mmmerge/Data/Text
@@ -59213,7 +59213,7 @@ msgstr "찰스 퀵소테경"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:22
 msgctxt "npcdata"
 msgid "Reginald Dorray"
-msgstr ""
+msgstr "레지날드 도레이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:19 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:55
@@ -59221,19 +59221,19 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:68
 msgctxt "npcdata"
 msgid "Deftclaw Redreaver"
-msgstr ""
+msgstr "데프트클로 레드리버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:20
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:24
 msgctxt "npcdata"
 msgid "Zog the Jackal"
-msgstr ""
+msgstr "자칼 조그"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:21
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:25
 msgctxt "npcdata"
 msgid "Xanthor"
-msgstr ""
+msgstr "잔소르"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:22 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:410
@@ -59259,31 +59259,31 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:29
 msgctxt "npcdata"
 msgid "Pyrannaste"
-msgstr ""
+msgstr "피란나스테"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:26
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:30
 msgctxt "npcdata"
 msgid "Acwalander"
-msgstr ""
+msgstr "아크왈랜더"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:27
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:31
 msgctxt "npcdata"
 msgid "Gralkor the Cruel"
-msgstr ""
+msgstr "잔혹한 그랄코르"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:28
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:32
 msgctxt "npcdata"
 msgid "Shalwend"
-msgstr ""
+msgstr "샬웬드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:29
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:33
 msgctxt "npcdata"
 msgid "S'ton"
-msgstr ""
+msgstr "스톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:30 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:265
@@ -59291,19 +59291,19 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:453
 msgctxt "npcdata"
 msgid "Fredrick Talimere"
-msgstr ""
+msgstr "프레드릭 탈리메어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:31
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:35
 msgctxt "npcdata"
 msgid "Rohtnax"
-msgstr ""
+msgstr "로트낙스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:32
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:36
 msgctxt "npcdata"
 msgid "Pascella Tisk"
-msgstr ""
+msgstr "파스켈라 티스크"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:35 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:56
@@ -59311,7 +59311,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:69
 msgctxt "npcdata"
 msgid "Oskar Tyre"
-msgstr ""
+msgstr "오스카 타이어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:36 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:37 mmmerge/Data/Text
@@ -59345,19 +59345,19 @@ msgstr "수비대"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:44
 msgctxt "npcdata"
 msgid "Jeric Whistlebone"
-msgstr ""
+msgstr "제릭 휘슬본"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:41
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:54
 msgctxt "npcdata"
 msgid "Relburn Jeebes"
-msgstr ""
+msgstr "렐번 지브스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:43
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:56
 msgctxt "npcdata"
 msgid "Dantillion "
-msgstr ""
+msgstr "단틸리온 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:44 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:293
@@ -59365,7 +59365,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:481
 msgctxt "npcdata"
 msgid "Cauri Blackthorne"
-msgstr ""
+msgstr "카우리 블랙손"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:45 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:275
@@ -59373,31 +59373,31 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:463
 msgctxt "npcdata"
 msgid "Volog Sandwind"
-msgstr ""
+msgstr "볼로그 샌드윈드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:46
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:59
 msgctxt "npcdata"
 msgid "Sahil Ittalle"
-msgstr ""
+msgstr "사힐 이탈레"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:48
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:61
 msgctxt "npcdata"
 msgid "Dark Elf Pilgrim"
-msgstr ""
+msgstr "다크 엘프 순례자"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:49
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:62
 msgctxt "npcdata"
 msgid "Farhill Snapfinger"
-msgstr ""
+msgstr "파힐 스냅핑거"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:50
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:63
 msgctxt "npcdata"
 msgid "Zanthora"
-msgstr ""
+msgstr "잔소라"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:51 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:274
@@ -59405,7 +59405,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:462
 msgctxt "npcdata"
 msgid "Leane Stormlance"
-msgstr ""
+msgstr "레안 스톰랜스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:52 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:289
@@ -59413,13 +59413,13 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:477
 msgctxt "npcdata"
 msgid "Dervish Chevron"
-msgstr ""
+msgstr "더비쉬 셰브론"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:53
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:66
 msgctxt "npcdata"
 msgid "Garret Deverro"
-msgstr ""
+msgstr "개랫 데베로"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:59 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:276
@@ -59427,13 +59427,13 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:464
 msgctxt "npcdata"
 msgid "Thanys"
-msgstr ""
+msgstr "타니스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:60
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:73
 msgctxt "npcdata"
 msgid "Tessalar"
-msgstr ""
+msgstr "테살라"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:61
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:74
@@ -59453,127 +59453,127 @@ msgstr "태양의 성직자"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:476
 msgctxt "npcdata"
 msgid "Vetrinus Taleshire"
-msgstr ""
+msgstr "베트리누스 테일셔"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:64
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:77
 msgctxt "npcdata"
 msgid "Lathean"
-msgstr ""
+msgstr "라시안"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:66
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:79
 msgctxt "npcdata"
 msgid "Derrin Delver"
-msgstr ""
+msgstr "데린 델버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:67
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:80
 msgctxt "npcdata"
 msgid "Aislen"
-msgstr ""
+msgstr "아이슬렌"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:68
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:81
 msgctxt "npcdata"
 msgid "Languid"
-msgstr ""
+msgstr "랭귀드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:69
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:82
 msgctxt "npcdata"
 msgid "Hobb Sandwind"
-msgstr ""
+msgstr "호브 샌드윈드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:70
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:90
 msgctxt "npcdata"
 msgid "Thistle"
-msgstr ""
+msgstr "시슬"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:71
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:91
 msgctxt "npcdata"
 msgid "Hiss"
-msgstr ""
+msgstr "히스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:72
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:92
 msgctxt "npcdata"
 msgid "Isthric the Tongue"
-msgstr ""
+msgstr "달변가 이스릭"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:73
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:93
 msgctxt "npcdata"
 msgid "Maddigan the Tracker"
-msgstr ""
+msgstr "추적자 매디건"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:74
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:94
 msgctxt "npcdata"
 msgid "Wilburt"
-msgstr ""
+msgstr "윌버트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:75
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:100
 msgctxt "npcdata"
 msgid "Lathius"
-msgstr ""
+msgstr "라시우스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:76
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:101
 msgctxt "npcdata"
 msgid "Rihansi"
-msgstr ""
+msgstr "리한시"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:77
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:124
 msgctxt "npcdata"
 msgid "Reaver"
-msgstr ""
+msgstr "리버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:78
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:125
 msgctxt "npcdata"
 msgid "Keldon"
-msgstr ""
+msgstr "켈던"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:79
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:126
 msgctxt "npcdata"
 msgid "Galvinus"
-msgstr ""
+msgstr "갈비누스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:80
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:162
 msgctxt "npcdata"
 msgid "Talion"
-msgstr ""
+msgstr "탈리온"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:81
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:165
 msgctxt "npcdata"
 msgid "Veldon"
-msgstr ""
+msgstr "벨돈"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:82
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:184
 msgctxt "npcdata"
 msgid "Dirthic"
-msgstr ""
+msgstr "더식"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:83
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:185
 msgctxt "npcdata"
 msgid "Husk"
-msgstr ""
+msgstr "허스크"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:84
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:186
 msgctxt "npcdata"
 msgid "Hobert"
-msgstr ""
+msgstr "호버트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:85
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:187
@@ -59585,115 +59585,115 @@ msgstr "케빈"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:188
 msgctxt "npcdata"
 msgid "Pole"
-msgstr ""
+msgstr "폴"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:87
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:189
 msgctxt "npcdata"
 msgid "Xevius"
-msgstr ""
+msgstr "제비우스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:88
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:221
 msgctxt "npcdata"
 msgid "Schmecker"
-msgstr ""
+msgstr "슈메커"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:89
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:233
 msgctxt "npcdata"
 msgid "Calindril"
-msgstr ""
+msgstr "칼린드릴"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:90
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:234
 msgctxt "npcdata"
 msgid "Castigeir"
-msgstr ""
+msgstr "카스티게이르"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:91
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:241
 msgctxt "npcdata"
 msgid "Balion Tearwing"
-msgstr ""
+msgstr "발리온 티어윙"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:92
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:242
 msgctxt "npcdata"
 msgid "Avalon"
-msgstr ""
+msgstr "아발론"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:93
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:275
 msgctxt "npcdata"
 msgid "Jerin Flame-eye"
-msgstr ""
+msgstr "제린 플레임아이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:94
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:276
 msgctxt "npcdata"
 msgid "Zelim"
-msgstr ""
+msgstr "젤림"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:95
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:277
 msgctxt "npcdata"
 msgid "Tantilion"
-msgstr ""
+msgstr "탄틸리온"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:96
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:278
 msgctxt "npcdata"
 msgid "Benefice"
-msgstr ""
+msgstr "베네피스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:97
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:279
 msgctxt "npcdata"
 msgid "Hallien"
-msgstr ""
+msgstr "할리엔"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:98
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:280
 msgctxt "npcdata"
 msgid "One-Eye"
-msgstr "One-Eye"
+msgstr "원아이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:99
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:281
 msgctxt "npcdata"
 msgid "Long-Tail"
-msgstr ""
+msgstr "롱테일"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:100
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:282
 msgctxt "npcdata"
 msgid "Treblid"
-msgstr ""
+msgstr "트레블리드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:101
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:283
 msgctxt "npcdata"
 msgid "Gibere"
-msgstr ""
+msgstr "기베레"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:102
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:284
 msgctxt "npcdata"
 msgid "Mylander"
-msgstr ""
+msgstr "마일랜더"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:103
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:285
 msgctxt "npcdata"
 msgid "Whisper"
-msgstr ""
+msgstr "위스퍼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:104
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:287
 msgctxt "npcdata"
 msgid "Irabelle Hunter"
-msgstr ""
+msgstr "아이라벨 헌터"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:105
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:293
@@ -59705,19 +59705,19 @@ msgstr "파벨"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:294
 msgctxt "npcdata"
 msgid "Journey"
-msgstr ""
+msgstr "저니"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:107
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:295
 msgctxt "npcdata"
 msgid "Neblick"
-msgstr ""
+msgstr "네블릭"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:108
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:296
 msgctxt "npcdata"
 msgid "Cagnor"
-msgstr ""
+msgstr "카그노르"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:109 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:298
@@ -59725,97 +59725,97 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:486
 msgctxt "npcdata"
 msgid "Blazen Stormlance"
-msgstr ""
+msgstr "블레이즌 스톰랜스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:110
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:298
 msgctxt "npcdata"
 msgid "Dread Pirate Stanley"
-msgstr ""
+msgstr "공포의 해적 스탠리"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:111
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:299
 msgctxt "npcdata"
 msgid "Bryant Conlan"
-msgstr ""
+msgstr "브라이언트 콘란"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:112
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:300
 msgctxt "npcdata"
 msgid "Cahalli Evenall"
-msgstr ""
+msgstr "카할리 에벤올"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:113
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:301
 msgctxt "npcdata"
 msgid "Harry Merit"
-msgstr ""
+msgstr "해리 메리트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:114
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:302
 msgctxt "npcdata"
 msgid "Aerie Luodrin"
-msgstr ""
+msgstr "에어리 루오드린"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:115
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:303
 msgctxt "npcdata"
 msgid "Jaycin Cardron"
-msgstr ""
+msgstr "제이슨 카드론"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:116
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:304
 msgctxt "npcdata"
 msgid "Miyon Dragontracker"
-msgstr ""
+msgstr "마이욘 드래곤트래커"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:117
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:305
 msgctxt "npcdata"
 msgid "Herald Foestryke"
-msgstr ""
+msgstr "헤랄드 포스트리케"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:118
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:306
 msgctxt "npcdata"
 msgid "Jasp Hunter"
-msgstr ""
+msgstr "쟈스 헌터"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:119
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:307
 msgctxt "npcdata"
 msgid "Garic Senjac"
-msgstr ""
+msgstr "개릭 센작"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:120
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:308
 msgctxt "npcdata"
 msgid "Puddle Thain"
-msgstr ""
+msgstr "푸들 태인"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:121
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:309
 msgctxt "npcdata"
 msgid "Celia Stone"
-msgstr ""
+msgstr "셀리아 스톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:122
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:310
 msgctxt "npcdata"
 msgid "Tristen Stillwater"
-msgstr ""
+msgstr "트리슨 스틸워터"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:123
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:311
 msgctxt "npcdata"
 msgid "Matric Townsaver"
-msgstr ""
+msgstr "매트릭 타운세이버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:124
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:312
 msgctxt "npcdata"
 msgid "Ashandra Withersmythe"
-msgstr ""
+msgstr "아산드라 위더스미스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:125
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:313
@@ -59827,91 +59827,91 @@ msgstr "화살"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:314
 msgctxt "npcdata"
 msgid "Lori Vespers"
-msgstr ""
+msgstr "로리 베스퍼스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:127
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:315
 msgctxt "npcdata"
 msgid "Jobber "
-msgstr ""
+msgstr "자버 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:128
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:316
 msgctxt "npcdata"
 msgid "Karla Nirses"
-msgstr ""
+msgstr "카라 니르세스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:129
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:317
 msgctxt "npcdata"
 msgid "Shivan Keeneye"
-msgstr ""
+msgstr "쉬반 킨아이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:130
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:318
 msgctxt "npcdata"
 msgid "Oberic Nosewort"
-msgstr ""
+msgstr "오베릭 노즈워트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:131
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:319
 msgctxt "npcdata"
 msgid "Solis"
-msgstr ""
+msgstr "솔리스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:132
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:320
 msgctxt "npcdata"
 msgid "Lisha Sourbrow"
-msgstr ""
+msgstr "리사 소브로우"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:133
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:321
 msgctxt "npcdata"
 msgid "Robert Morningstar"
-msgstr ""
+msgstr "로버트 모닝스타"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:134
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:322
 msgctxt "npcdata"
 msgid "Brother Hearthsworn"
-msgstr ""
+msgstr "헐스원 사제"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:135
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:323
 msgctxt "npcdata"
 msgid "Thadin "
-msgstr ""
+msgstr "타딘 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:136
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:324
 msgctxt "npcdata"
 msgid "Shamus Hollyfield"
-msgstr ""
+msgstr "쉐머스 홀리필드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:137
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:325
 msgctxt "npcdata"
 msgid "Medwari Elmsmire"
-msgstr ""
+msgstr "메드와리 엘스마이어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:138
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:326
 msgctxt "npcdata"
 msgid "Tobren Forgewright"
-msgstr ""
+msgstr "토브렌 포지라이트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:139
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:327
 msgctxt "npcdata"
 msgid "Halian Eversmyle"
-msgstr ""
+msgstr "할리안 에버스마일"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:140
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:328
 msgctxt "npcdata"
 msgid "Seline Burnkindle"
-msgstr ""
+msgstr "셀린 번킨들"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:141
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:329
@@ -59923,595 +59923,595 @@ msgstr "뼈"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:330
 msgctxt "npcdata"
 msgid "Botham"
-msgstr ""
+msgstr "보담"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:143
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:331
 msgctxt "npcdata"
 msgid "Sethine Ironfist"
-msgstr ""
+msgstr "세신 아이언피스트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:144
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:332
 msgctxt "npcdata"
 msgid "Qillain Moore"
-msgstr ""
+msgstr "퀼라인 무어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:145
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:333
 msgctxt "npcdata"
 msgid "Sheldon Nightwood"
-msgstr ""
+msgstr "셀던 나이트우드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:146
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:334
 msgctxt "npcdata"
 msgid "Peryn Reaverston"
-msgstr ""
+msgstr "페린 리버스톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:147
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:335
 msgctxt "npcdata"
 msgid "Taren Temper"
-msgstr ""
+msgstr "타렌 템퍼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:148
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:336
 msgctxt "npcdata"
 msgid "Solomon Steele"
-msgstr ""
+msgstr "솔로몬 스틸"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:149
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:337
 msgctxt "npcdata"
 msgid "Burn"
-msgstr ""
+msgstr "번"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:150
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:338
 msgctxt "npcdata"
 msgid "Ulbrecht Pederton"
-msgstr ""
+msgstr "울브레트 페더톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:151
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:339
 msgctxt "npcdata"
 msgid "Gregory Mist"
-msgstr ""
+msgstr "그레고리 미스트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:152
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:340
 msgctxt "npcdata"
 msgid "Black Current"
-msgstr ""
+msgstr "블랙 커런트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:153
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:341
 msgctxt "npcdata"
 msgid "Reshie "
-msgstr ""
+msgstr "레쉬 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:154
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:342
 msgctxt "npcdata"
 msgid "Hollis Stormeye"
-msgstr ""
+msgstr "홀리스 스톰아이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:155
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:343
 msgctxt "npcdata"
 msgid "Cloud Nedlon"
-msgstr ""
+msgstr "클라우드 네들론"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:156
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:344
 msgctxt "npcdata"
 msgid "Ostrin Grivic"
-msgstr ""
+msgstr "오스트린 그리빅"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:157
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:345
 msgctxt "npcdata"
 msgid "Dorothy Sablewood"
-msgstr ""
+msgstr "도로시 사블우드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:158
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:346
 msgctxt "npcdata"
 msgid "Griven"
-msgstr ""
+msgstr "그리븐"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:159
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:347
 msgctxt "npcdata"
 msgid "Straton Hawthorne"
-msgstr ""
+msgstr "스트라톤 호손"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:160
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:348
 msgctxt "npcdata"
 msgid "Bethold Kern"
-msgstr ""
+msgstr "베솔드 컨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:161
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:349
 msgctxt "npcdata"
 msgid "Lasiter Ravensight"
-msgstr ""
+msgstr "래지터 레이븐사이트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:162
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:350
 msgctxt "npcdata"
 msgid "Shane Krewlen"
-msgstr ""
+msgstr "쉐인 크룰렌"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:163
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:351
 msgctxt "npcdata"
 msgid "Barbara Lotts"
-msgstr ""
+msgstr "바바라 로츠"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:164
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:352
 msgctxt "npcdata"
 msgid "Gilad Dreamwright"
-msgstr ""
+msgstr "길라드 드림라이트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:165
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:353
 msgctxt "npcdata"
 msgid "Zevah Poised"
-msgstr ""
+msgstr "제바 포이즈드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:166
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:354
 msgctxt "npcdata"
 msgid "Tugor Arin"
-msgstr ""
+msgstr "투고르 아린"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:167
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:355
 msgctxt "npcdata"
 msgid "Critias Snowtree"
-msgstr ""
+msgstr "크리샤스 스노우트리"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:168
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:356
 msgctxt "npcdata"
 msgid "Archibald Dawnsglow"
-msgstr ""
+msgstr "아치발드 던스글로우"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:169
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:357
 msgctxt "npcdata"
 msgid "Lunius Dawnbringer"
-msgstr ""
+msgstr "루니어스 돈브링어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:170
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:358
 msgctxt "npcdata"
 msgid "Aldrin Cleareye"
-msgstr ""
+msgstr "앨드린 클리어라이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:171
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:359
 msgctxt "npcdata"
 msgid "Patwin Darkenmore"
-msgstr ""
+msgstr "패트윈 다큰무어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:172
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:360
 msgctxt "npcdata"
 msgid "Carla Umberpool"
-msgstr ""
+msgstr "카라 움버풀"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:173
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:361
 msgctxt "npcdata"
 msgid "Sithicus Shadowrunner"
-msgstr ""
+msgstr "시티쿠스 쉐도우러너"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:174
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:362
 msgctxt "npcdata"
 msgid "Flynn Shador"
-msgstr ""
+msgstr "플린 쉐도"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:175
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:363
 msgctxt "npcdata"
 msgid "Douglas Dirthmoore"
-msgstr ""
+msgstr "더글라스 더스무어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:176
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:364
 msgctxt "npcdata"
 msgid "Payge Arachnia"
-msgstr ""
+msgstr "페이지 아라크니아"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:177
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:365
 msgctxt "npcdata"
 msgid "Fedwin Dervish"
-msgstr ""
+msgstr "패드윈 더비쉬"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:178
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:366
 msgctxt "npcdata"
 msgid "Lanshee Caverhill"
-msgstr ""
+msgstr "랜시 케이버힐"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:179
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:367
 msgctxt "npcdata"
 msgid "Ton Agraynel"
-msgstr ""
+msgstr "톤 아그레이넬"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:180
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:368
 msgctxt "npcdata"
 msgid "Ishton"
-msgstr ""
+msgstr "이시톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:181
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:369
 msgctxt "npcdata"
 msgid "Erthint"
-msgstr ""
+msgstr "어신트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:182
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:370
 msgctxt "npcdata"
 msgid "Klain Scarwing"
-msgstr ""
+msgstr "클레인 스카윙"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:183
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:371
 msgctxt "npcdata"
 msgid "Chevon Wist"
-msgstr ""
+msgstr "셰본 위스트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:184
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:372
 msgctxt "npcdata"
 msgid "Kelli Lightfingers"
-msgstr ""
+msgstr "켈리 라이터핑거스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:185
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:373
 msgctxt "npcdata"
 msgid "Gareth Lifter"
-msgstr ""
+msgstr "개레스 리프터"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:186
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:374
 msgctxt "npcdata"
 msgid "Silk Nightwalker"
-msgstr ""
+msgstr "실크 나이트워커"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:187
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:375
 msgctxt "npcdata"
 msgid "Helga Steeleye"
-msgstr ""
+msgstr "헬가 스틸아이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:188
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:376
 msgctxt "npcdata"
 msgid "Balan Suretrail"
-msgstr ""
+msgstr "바란 서레트레일"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:189
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:377
 msgctxt "npcdata"
 msgid "Fishner Thomb"
-msgstr ""
+msgstr "피시너 톰"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:190
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:378
 msgctxt "npcdata"
 msgid "Fenton Iverson"
-msgstr ""
+msgstr "펜톤 아이버슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:191
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:379
 msgctxt "npcdata"
 msgid "Raven Quicktoungue"
-msgstr ""
+msgstr "레이븐 퀵텅"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:192
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:380
 msgctxt "npcdata"
 msgid "Petra Mithrit"
-msgstr ""
+msgstr "페트라 미드릿"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:193
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:381
 msgctxt "npcdata"
 msgid "Garret Mistspring"
-msgstr ""
+msgstr "개랫 미스프링"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:194
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:382
 msgctxt "npcdata"
 msgid "Wanda Lightsworn"
-msgstr ""
+msgstr "완다 라이츠원"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:195
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:383
 msgctxt "npcdata"
 msgid "Alton Putnam"
-msgstr ""
+msgstr "알톤 퍼트남"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:196
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:384
 msgctxt "npcdata"
 msgid "Gretchin Nevermore"
-msgstr ""
+msgstr "그레칠 네버모어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:197
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:385
 msgctxt "npcdata"
 msgid "Lenord Nightcrawler"
-msgstr ""
+msgstr "레노드 나이트크롤러"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:198
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:386
 msgctxt "npcdata"
 msgid "Menasaur "
-msgstr ""
+msgstr "메나사우르 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:199
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:387
 msgctxt "npcdata"
 msgid "Kenneth Otterton"
-msgstr ""
+msgstr "케네스 오터톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:200
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:388
 msgctxt "npcdata"
 msgid "Mikel Smithson"
-msgstr ""
+msgstr "미켈 스미슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:201
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:389
 msgctxt "npcdata"
 msgid "Kyra Sparkmen"
-msgstr ""
+msgstr "카이라 스파크먼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:202
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:390
 msgctxt "npcdata"
 msgid "Eithian "
-msgstr ""
+msgstr "에이시안 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:203
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:391
 msgctxt "npcdata"
 msgid "Elzbet Roggen"
-msgstr ""
+msgstr "엘즈벳 로겐"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:204
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:392
 msgctxt "npcdata"
 msgid "Evandar Lotts"
-msgstr ""
+msgstr "에반다 로츠"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:205
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:393
 msgctxt "npcdata"
 msgid "Quick Jeni "
-msgstr ""
+msgstr "날렵한 제니 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:206
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:394
 msgctxt "npcdata"
 msgid "Qethrin Tonk"
-msgstr ""
+msgstr "케드린 통크"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:207
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:395
 msgctxt "npcdata"
 msgid "Tessa Maker"
-msgstr ""
+msgstr "테사 메이커"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:208
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:396
 msgctxt "npcdata"
 msgid "Matric Keenedge"
-msgstr ""
+msgstr "매트릭 키네지"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:209
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:397
 msgctxt "npcdata"
 msgid "Blacken Stonecleaver"
-msgstr ""
+msgstr "블래큰 스톤클리버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:210
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:398
 msgctxt "npcdata"
 msgid "Norbert Slayer"
-msgstr ""
+msgstr "노버트 슬레이어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:211
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:399
 msgctxt "npcdata"
 msgid "Lasatin the Scarred"
-msgstr ""
+msgstr "상처투성이 라사틴"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:212
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:400
 msgctxt "npcdata"
 msgid "Jasper Steelcoif"
-msgstr ""
+msgstr "쟈스퍼 스틸코이프"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:213
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:401
 msgctxt "npcdata"
 msgid "Tabitha Watershed"
-msgstr ""
+msgstr "타비사 워터쉐드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:214
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:402
 msgctxt "npcdata"
 msgid "Kethry Treasurestone"
-msgstr ""
+msgstr "케드리 트레저스톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:215
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:403
 msgctxt "npcdata"
 msgid "Ich "
-msgstr ""
+msgstr "이크 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:216
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:404
 msgctxt "npcdata"
 msgid "Kethric Tarent"
-msgstr ""
+msgstr "케드릭 타렌트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:217
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:405
 msgctxt "npcdata"
 msgid "William Sampson"
-msgstr ""
+msgstr "윌리암 샘슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:218
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:406
 msgctxt "npcdata"
 msgid "Ush the Many Tailed"
-msgstr ""
+msgstr "꼬리 많은 우시"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:219
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:407
 msgctxt "npcdata"
 msgid "Elsie Apple"
-msgstr ""
+msgstr "엘시 애플"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:220
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:408
 msgctxt "npcdata"
 msgid "Jillian Applebee"
-msgstr ""
+msgstr "질리안 애플비"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:221
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:409
 msgctxt "npcdata"
 msgid "Chadric Benson"
-msgstr ""
+msgstr "채드릭 벤슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:222
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:410
 msgctxt "npcdata"
 msgid "Mortie Bith"
-msgstr ""
+msgstr "모티 비스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:223
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:411
 msgctxt "npcdata"
 msgid "Aznog Black"
-msgstr ""
+msgstr "아즈녹 블랙"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:224
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:412
 msgctxt "npcdata"
 msgid "Tonk Blueswan"
-msgstr ""
+msgstr "톤크 블루스완"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:225
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:413
 msgctxt "npcdata"
 msgid "Turgon Bombah"
-msgstr ""
+msgstr "투곤 봄바"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:226
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:414
 msgctxt "npcdata"
 msgid "Karn Bowes"
-msgstr ""
+msgstr "칸 보우즈"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:227
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:415
 msgctxt "npcdata"
 msgid "Kerin Bremen"
-msgstr ""
+msgstr "케린 브레멘"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:228
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:416
 msgctxt "npcdata"
 msgid "Claderin Brightspear"
-msgstr ""
+msgstr "클래더린 브라이트스피어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:229
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:417
 msgctxt "npcdata"
 msgid "Cardric Caverhill"
-msgstr ""
+msgstr "캐더릭 케이버힐"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:230
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:418
 msgctxt "npcdata"
 msgid "Brother Crane"
-msgstr ""
+msgstr "크레인 사제"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:231
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:419
 msgctxt "npcdata"
 msgid "Poundlin Deerhunter"
-msgstr ""
+msgstr "포운들린 디어헌터"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:232
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:420
 msgctxt "npcdata"
 msgid "Isram Delver"
-msgstr ""
+msgstr "이스람 델버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:233
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:421
 msgctxt "npcdata"
 msgid "Dotes"
-msgstr ""
+msgstr "도츠"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:234
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:422
 msgctxt "npcdata"
 msgid "Weldrik Falconeye"
-msgstr ""
+msgstr "웰드릭 팔콘아이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:235
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:423
 msgctxt "npcdata"
 msgid "Dekian Farswell"
-msgstr ""
+msgstr "데키안 파스웰"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:236
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:424
 msgctxt "npcdata"
 msgid "Brand Featherwind"
-msgstr ""
+msgstr "브랜드 패더윈드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:237
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:425
 msgctxt "npcdata"
 msgid "Kindle Fellburn"
-msgstr ""
+msgstr "킨들 펠번"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:238
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:426
 msgctxt "npcdata"
 msgid "Ashen Fiddlebone"
-msgstr ""
+msgstr "아센 피들본"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:239
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:427
 msgctxt "npcdata"
 msgid "Sethrik Fist "
-msgstr ""
+msgstr "세드릭 피스트 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:240
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:428
 msgctxt "npcdata"
 msgid "Bigfist Slowstepper"
-msgstr ""
+msgstr "빅피스트 슬로스테퍼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:241
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:429
@@ -60523,49 +60523,49 @@ msgstr "서풍"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:430
 msgctxt "npcdata"
 msgid "Lara Gallowswell"
-msgstr ""
+msgstr "라라 겔로우슬램"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:243
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:431
 msgctxt "npcdata"
 msgid "Gizmo Bertram "
-msgstr ""
+msgstr "기즈모 버트람 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:244
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:432
 msgctxt "npcdata"
 msgid "Heather Goblinreaver"
-msgstr ""
+msgstr "히더 고블린리버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:245
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:433
 msgctxt "npcdata"
 msgid "Benjamin Greenstorm"
-msgstr ""
+msgstr "벤자민 그린스톰"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:246
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:434
 msgctxt "npcdata"
 msgid "Julian Greensward"
-msgstr ""
+msgstr "줄리안 그린스워드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:247
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:435
 msgctxt "npcdata"
 msgid "Myles Greydawn"
-msgstr ""
+msgstr "밀레스 그레이던"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:248
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:436
 msgctxt "npcdata"
 msgid "Xavier Havest"
-msgstr ""
+msgstr "자비어 하베스트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:249
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:437
 msgctxt "npcdata"
 msgid "Ethan Hillsman"
-msgstr ""
+msgstr "에단 힐스만"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:250
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:438
@@ -60577,199 +60577,199 @@ msgstr "홀든"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:439
 msgctxt "npcdata"
 msgid "Karlin Ivers"
-msgstr ""
+msgstr "카린 아이버스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:252
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:440
 msgctxt "npcdata"
 msgid "Samuel Jack"
-msgstr ""
+msgstr "사무엘 잭"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:253
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:441
 msgctxt "npcdata"
 msgid "Payge Karrand"
-msgstr ""
+msgstr "페이지 카란드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:254
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:442
 msgctxt "npcdata"
 msgid "Brigham Kinney"
-msgstr ""
+msgstr "브리함 키니"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:255
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:443
 msgctxt "npcdata"
 msgid "Thomas Laraselle"
-msgstr ""
+msgstr "토마스 라라셀"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:256
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:444
 msgctxt "npcdata"
 msgid "Asael Fromago"
-msgstr ""
+msgstr "아사엘 프로마고"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:257
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:445
 msgctxt "npcdata"
 msgid "Bazalath"
-msgstr ""
+msgstr "바잘라스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:258
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:446
 msgctxt "npcdata"
 msgid "Loamwalker"
-msgstr ""
+msgstr "롬워커"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:259
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:447
 msgctxt "npcdata"
 msgid "Soil"
-msgstr ""
+msgstr "소일"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:260
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:448
 msgctxt "npcdata"
 msgid "Wingsail"
-msgstr ""
+msgstr "윙세일"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:261
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:449
 msgctxt "npcdata"
 msgid "Vapor"
-msgstr ""
+msgstr "베이퍼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:262
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:450
 msgctxt "npcdata"
 msgid "Riverglass"
-msgstr ""
+msgstr "리버글래스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:263
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:451
 msgctxt "npcdata"
 msgid "Clearcreek"
-msgstr ""
+msgstr "클리어크리크"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:264
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:452
 msgctxt "npcdata"
 msgid "Devlin Arcanus"
-msgstr ""
+msgstr "데블린 아르카누스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:266
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:454
 msgctxt "npcdata"
 msgid "Simon Templar"
-msgstr ""
+msgstr "시몬 템플라"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:267
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:455
 msgctxt "npcdata"
 msgid "Overdune Snaprfinger"
-msgstr ""
+msgstr "오버듄 스냅핑거"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:268
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:456
 msgctxt "npcdata"
 msgid "Arius"
-msgstr ""
+msgstr "아리우스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:269
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:457
 msgctxt "npcdata"
 msgid "Rohani Oscleton"
-msgstr ""
+msgstr "로하니 오스클톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:270
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:458
 msgctxt "npcdata"
 msgid "Elsbeth Lamentia"
-msgstr ""
+msgstr "엘스베스 라멘티아"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:271
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:459
 msgctxt "npcdata"
 msgid "Ithilgore"
-msgstr ""
+msgstr "이실고어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:272
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:460
 msgctxt "npcdata"
 msgid "Karanya Memoria"
-msgstr ""
+msgstr "카라냐 메모리아"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:273
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:461
 msgctxt "npcdata"
 msgid "Maylander "
-msgstr ""
+msgstr "메일랜더 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:277
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:465
 msgctxt "npcdata"
 msgid "Jasp Thelbourne"
-msgstr ""
+msgstr "쟈스 텔번"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:278
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:466
 msgctxt "npcdata"
 msgid "Gethric Mercutura"
-msgstr ""
+msgstr "게드릭 메르쿠투라"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:279
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:467
 msgctxt "npcdata"
 msgid "Flamdring"
-msgstr ""
+msgstr "플램드링"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:280
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:468
 msgctxt "npcdata"
 msgid "Hevatia Deverbero"
-msgstr ""
+msgstr "헤바티아 데베르베로"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:281
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:469
 msgctxt "npcdata"
 msgid "Verish "
-msgstr ""
+msgstr "베리시 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:282
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:470
 msgctxt "npcdata"
 msgid "Nelix Uriel"
-msgstr ""
+msgstr "넬릭스 우리엘"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:283
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:471
 msgctxt "npcdata"
 msgid "Sethrc Thistlebone"
-msgstr ""
+msgstr "세드릭 시슬본"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:284
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:472
 msgctxt "npcdata"
 msgid "Rionel"
-msgstr ""
+msgstr "리오넬"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:285
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:473
 msgctxt "npcdata"
 msgid "Adric Stellare"
-msgstr ""
+msgstr "아드릭 스텔라레"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:286
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:474
 msgctxt "npcdata"
 msgid "Infaustus "
-msgstr ""
+msgstr "인파우스투스 "
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:287
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:475
 msgctxt "npcdata"
 msgid "Brimstone"
-msgstr ""
+msgstr "브림스톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:290 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:498
@@ -60783,37 +60783,37 @@ msgstr "템퍼스"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:479
 msgctxt "npcdata"
 msgid "Thorne Understone"
-msgstr ""
+msgstr "소른 언더스톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:292
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:480
 msgctxt "npcdata"
 msgid "Ulbrecht"
-msgstr "Ubrecht"
+msgstr "울브레트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:294
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:482
 msgctxt "npcdata"
 msgid "Artorius Veritas"
-msgstr ""
+msgstr "아르토리우스 베리타스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:295
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:483
 msgctxt "npcdata"
 msgid "Duroth the Eternal"
-msgstr ""
+msgstr "영원한 두로스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:296
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:484
 msgctxt "npcdata"
 msgid "Nathaniel Roberts"
-msgstr ""
+msgstr "나다니엘 로버츠"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:297
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:485
 msgctxt "npcdata"
 msgid "Dyson Leyland"
-msgstr ""
+msgstr "다이슨 릴런드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:299 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:307
@@ -60821,7 +60821,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:495
 msgctxt "npcdata"
 msgid "troll"
-msgstr ""
+msgstr "트롤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:300 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:308
@@ -60829,7 +60829,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:496
 msgctxt "npcdata"
 msgid "minotaur"
-msgstr ""
+msgstr "미노타우로스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:301 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:309
@@ -60837,7 +60837,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:497
 msgctxt "npcdata"
 msgid "darkelf"
-msgstr ""
+msgstr "다크 엘프"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:302 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:310
@@ -60879,13 +60879,13 @@ msgstr "기사"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:501
 msgctxt "npcdata"
 msgid "Ember"
-msgstr ""
+msgstr "엠버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:314
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:502
 msgctxt "npcdata"
 msgid "Evenblaze"
-msgstr ""
+msgstr "이븐블레이즈"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:315 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:641
@@ -60908,79 +60908,79 @@ msgstr "오라클"
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:505
 msgctxt "npcdata"
 msgid "Davee Sail"
-msgstr ""
+msgstr "데이비 세일"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:318
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:506
 msgctxt "npcdata"
 msgid "Erik Jarblower"
-msgstr ""
+msgstr "에릭 자블로워"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:319
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:507
 msgctxt "npcdata"
 msgid "Jarrena Marmon"
-msgstr ""
+msgstr "자레나 마몬"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:320
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:508
 msgctxt "npcdata"
 msgid "Pirate Paul"
-msgstr ""
+msgstr "해적 폴"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:321
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:509
 msgctxt "npcdata"
 msgid "Yoel Wargreen"
-msgstr ""
+msgstr "요엘 워그린"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:322
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:510
 msgctxt "npcdata"
 msgid "Pordo"
-msgstr ""
+msgstr "포르도"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:323
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:511
 msgctxt "npcdata"
 msgid "Vish"
-msgstr ""
+msgstr "비쉬"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:324
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:512
 msgctxt "npcdata"
 msgid "Ferris"
-msgstr ""
+msgstr "페리스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:325
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:513
 msgctxt "npcdata"
 msgid "Ex-captain Terrence"
-msgstr ""
+msgstr "전직 선장 테렌스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:326
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:514
 msgctxt "npcdata"
 msgid "Fenella Ferne"
-msgstr ""
+msgstr "페넬라 펀"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:327
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:515
 msgctxt "npcdata"
 msgid "Dierdra Wallace"
-msgstr ""
+msgstr "디어드라 왈라스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:328
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:516
 msgctxt "npcdata"
 msgid "Nalani"
-msgstr ""
+msgstr "날라니"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:329
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:517
 msgctxt "npcdata"
 msgid "Rhetta Mercer"
-msgstr ""
+msgstr "레타 머서"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:330
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:518
@@ -60992,7 +60992,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:519
 msgctxt "npcdata"
 msgid "Lizardman Guard"
-msgstr ""
+msgstr "도마뱀 인간 경비병"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:332
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:520
@@ -61004,7 +61004,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:521
 msgctxt "npcdata"
 msgid "Dark Elf Guard"
-msgstr ""
+msgstr "다크 엘프 경비병"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:334
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:522
@@ -61016,7 +61016,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:523
 msgctxt "npcdata"
 msgid "Wererat Peasants"
-msgstr ""
+msgstr "쥐인간 농민"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:336
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:524
@@ -61034,19 +61034,19 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:526
 msgctxt "npcdata"
 msgid "Necromancer Peasant"
-msgstr ""
+msgstr "강령술사 농민"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:339
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:527
 msgctxt "npcdata"
 msgid "Cleric Peasant"
-msgstr ""
+msgstr "성직자 농민"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:340
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:528
 msgctxt "npcdata"
 msgid "Regnan Peasant"
-msgstr ""
+msgstr "레그나 농민"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:341
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:529
@@ -62695,159 +62695,159 @@ msgstr "달리아 스팍스"
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:303
 msgctxt "npcdata"
 msgid "Adam McCarthy"
-msgstr "Adam McCarthy"
+msgstr "아담 매카시"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:643
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:29
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:304
 msgctxt "npcdata"
 msgid "Alex Sherman"
-msgstr "Alex Sherman"
+msgstr "알렉스 셔먼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:644
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:30
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:305
 msgctxt "npcdata"
 msgid "Andrew Grumm"
-msgstr "Andrew Grumm"
+msgstr "앤드루 그럼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:645
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:32
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:306
 msgctxt "npcdata"
 msgid "April Lee"
-msgstr "April Lee"
+msgstr "에이프릴 리"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:646
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:33
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:307
 msgctxt "npcdata"
 msgid "Benjamin Bent"
-msgstr "Benjamin Bent"
+msgstr "벤자민 벤트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:647
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:34
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:308
 msgctxt "npcdata"
 msgid "Bill Nesemeier"
-msgstr "Bill Nesemeier"
+msgstr "빌 네세마이어"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:648
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:36
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:309
 msgctxt "npcdata"
 msgid "Bob Young"
-msgstr "Bob Young"
+msgstr "밥 영"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:649
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:310
 msgctxt "npcdata"
 msgid "Bonnie Long-Hemssath"
-msgstr "Bonnie Long-Hemssath"
+msgstr "보니 롱헴사스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:650
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:38
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:311
 msgctxt "npcdata"
 msgid "Brian DeMetz"
-msgstr "Brian DeMetz"
+msgstr "브라이언 드메츠"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:651
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:39
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:312
 msgctxt "npcdata"
 msgid "Brian Kemper"
-msgstr "Brian Kemper"
+msgstr "브라이언 켐퍼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:652
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:40
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:313
 msgctxt "npcdata"
 msgid "Bryan Farina"
-msgstr "Bryan Farina"
+msgstr "브라이언 파리나"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:653
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:41
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:314
 msgctxt "npcdata"
 msgid "Carl Pinder"
-msgstr "Carl Pinder"
+msgstr "칼 핀더"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:654
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:42
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:315
 msgctxt "npcdata"
 msgid "Charles Zilm"
-msgstr "Charles Zilm"
+msgstr "찰스 질름"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:655
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:43
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:316
 msgctxt "npcdata"
 msgid "Chris Bates"
-msgstr "Chris Bates"
+msgstr "크리스 베이츠"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:656
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:317
 msgctxt "npcdata"
 msgid "Chris Rock"
-msgstr "Chris Rock"
+msgstr "크리스 록"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:657
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:45
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:318
 msgctxt "npcdata"
 msgid "Christian Vanover"
-msgstr "Christian Vanover"
+msgstr "크리스티안 바노버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:658
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:46
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:319
 msgctxt "npcdata"
 msgid "Chuck Russom"
-msgstr "Chuck Russom"
+msgstr "척 러솜"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:659
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:47
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:320
 msgctxt "npcdata"
 msgid "Dave Botan"
-msgstr "Dave Botan"
+msgstr "데이브 보탄"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:660
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:48
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:321
 msgctxt "npcdata"
 msgid "David Mullich"
-msgstr "David Mullich"
+msgstr "데이비드 멀리치"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:661
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:49
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:322
 msgctxt "npcdata"
 msgid "David Richey"
-msgstr "David Richey"
+msgstr "데이비드 리치"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:662
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:50
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:323
 msgctxt "npcdata"
 msgid "David Vela"
-msgstr "David Vela"
+msgstr "데이비드 벨라"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:663
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:51
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:324
 msgctxt "npcdata"
 msgid "Dean Gibson"
-msgstr "Dean Gibson"
+msgstr "딘 깁슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:664
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:53
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:325
 msgctxt "npcdata"
 msgid "Edward Hudson"
-msgstr "Edward Hudson"
+msgstr "에드워드 허드슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:665 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:1071
@@ -62856,335 +62856,335 @@ msgstr "Edward Hudson"
 #: mm6/data/10LocLANG.icons/NPCdata.txt.py:286
 msgctxt "npcdata"
 msgid "George Almond"
-msgstr "George Almond"
+msgstr "조지 아몬드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:666
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:58
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:327
 msgctxt "npcdata"
 msgid "George Ruof"
-msgstr "George Ruof"
+msgstr "조지 루오프"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:667
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:328
 msgctxt "npcdata"
 msgid "Greg Fulton"
-msgstr "Greg Fulton"
+msgstr "그렉 풀턴"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:668
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:59
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:329
 msgctxt "npcdata"
 msgid "Gus Smedstad "
-msgstr "Gus Smedstad "
+msgstr "거스 스메드스타드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:669
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:60
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:330
 msgctxt "npcdata"
 msgid "Ian Bullard"
-msgstr "Ian Bullard"
+msgstr "이안 불러드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:670
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:61
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:331
 msgctxt "npcdata"
 msgid "Jack Russell"
-msgstr "Jack Russell"
+msgstr "잭 러셀"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:671
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:62
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:332
 msgctxt "npcdata"
 msgid "James Dickinson"
-msgstr "James Dickinson"
+msgstr "제임스 디킨슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:672
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:63
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:333
 msgctxt "npcdata"
 msgid "Jeff Bigman"
-msgstr "Jeff Bigman"
+msgstr "제프 빅맨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:673
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:64
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:334
 msgctxt "npcdata"
 msgid "Jeff Blattner"
-msgstr "Jeff Blattner"
+msgstr "제프 블래트너"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:674
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:65
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:335
 msgctxt "npcdata"
 msgid "Jeff Leggett"
-msgstr "Jeff Leggett"
+msgstr "제프 레깃"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:675
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:66
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:336
 msgctxt "npcdata"
 msgid "Jennifer Bullard"
-msgstr "Jennifer Bullard"
+msgstr "제니퍼 불러드"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:676
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:68
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:337
 msgctxt "npcdata"
 msgid "Joel Kelly "
-msgstr "Joel Kelly "
+msgstr "조엘 켈리"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:677
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:338
 msgctxt "npcdata"
 msgid "John Bolton"
-msgstr "John Bolton"
+msgstr "존 볼턴"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:678
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:69
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:339
 msgctxt "npcdata"
 msgid "John Gibson"
-msgstr "John Gibson"
+msgstr "존 깁슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:679
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:70
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:340
 msgctxt "npcdata"
 msgid "John Krause"
-msgstr "John Krause"
+msgstr "존 크라우제"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:680
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:341
 msgctxt "npcdata"
 msgid "John Machin"
-msgstr "John Machin"
+msgstr "존 매친"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:681
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:72
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:342
 msgctxt "npcdata"
 msgid "John Slowsky"
-msgstr "John Slowsky"
+msgstr "존 슬로스키"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:682
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:73
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:343
 msgctxt "npcdata"
 msgid "Jon Van Caneghem"
-msgstr "Jon Van Caneghem"
+msgstr "존 반 카네그햄"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:683
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:75
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:344
 msgctxt "npcdata"
 msgid "Julia Ulano"
-msgstr "Julia Ulano"
+msgstr "줄리아 울라노"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:684
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:78
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:345
 msgctxt "npcdata"
 msgid "Keith Francart"
-msgstr "Keith Francart"
+msgstr "케이스 프랑카트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:685
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:79
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:346
 msgctxt "npcdata"
 msgid "Keith Talanay"
-msgstr "Keith Talanay"
+msgstr "케이스 탈라네이"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:686
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:80
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:347
 msgctxt "npcdata"
 msgid "Ken Spencer"
-msgstr "Ken Spencer"
+msgstr "켄 스펜서"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:687
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:81
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:348
 msgctxt "npcdata"
 msgid "Ken Thomson"
-msgstr "Ken Thomson"
+msgstr "켄 톰슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:688
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:82
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:349
 msgctxt "npcdata"
 msgid "Kurt McKeever"
-msgstr "Kurt McKeever"
+msgstr "커트 매키버"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:689
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:83
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:350
 msgctxt "npcdata"
 msgid "Lisa Whitman"
-msgstr "Lisa Whitman"
+msgstr "리사 휘트먼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:690
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:84
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:351
 msgctxt "npcdata"
 msgid "Lou Henderson"
-msgstr "Lou Henderson"
+msgstr "로우 헨더슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:691
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:85
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:352
 msgctxt "npcdata"
 msgid "Marcus Pregent"
-msgstr "Marcus Pregent"
+msgstr "마커스 프레전트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:692
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:87
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:353
 msgctxt "npcdata"
 msgid "Mark Caldwell"
-msgstr "Mark Caldwell"
+msgstr "마크 콜드웰"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:693
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:89
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:354
 msgctxt "npcdata"
 msgid "Michael Wolf "
-msgstr "Michael Wolf "
+msgstr "마이클 울프"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:694
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:90
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:355
 msgctxt "npcdata"
 msgid "Nicco Wargon "
-msgstr "Nicco Wargon "
+msgstr "니코 와곤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:695
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:92
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:356
 msgctxt "npcdata"
 msgid "Paul Rattner"
-msgstr "Paul Rattner"
+msgstr "폴 래트너"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:696
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:357
 msgctxt "npcdata"
 msgid "Peter \"Zoop\" Ryu"
-msgstr "Peter \"Zoop\" Ryu"
+msgstr "피터 \"줍\" 류"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:697
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:94
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:358
 msgctxt "npcdata"
 msgid "Phelan Sykes"
-msgstr "Phelan Sykes"
+msgstr "펠란 사이크스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:698
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:95
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:359
 msgctxt "npcdata"
 msgid "Rebecca Christel"
-msgstr "Rebecca Christel"
+msgstr "레베카 크리스텔"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:699
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:96
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:360
 msgctxt "npcdata"
 msgid "Riki Corredera "
-msgstr "Riki Corredera "
+msgstr "리키 코레데라"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:700
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:361
 msgctxt "npcdata"
 msgid "Robert King"
-msgstr "Robert King"
+msgstr "로버트 킹"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:701
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:97
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:362
 msgctxt "npcdata"
 msgid "Ryan Den"
-msgstr "Ryan Den"
+msgstr "라이언 덴"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:702
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:98
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:363
 msgctxt "npcdata"
 msgid "Scott White"
-msgstr "Scott White"
+msgstr "스코트 화이트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:703
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:364
 msgctxt "npcdata"
 msgid "Steve Baca"
-msgstr "Steve Baca"
+msgstr "스티브 바카"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:704
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:99
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:365
 msgctxt "npcdata"
 msgid "Steve Jasper"
-msgstr "Steve Jasper"
+msgstr "스티브 재스퍼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:705
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:100
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:366
 msgctxt "npcdata"
 msgid "Steve Wasaff"
-msgstr "Steve Wasaff"
+msgstr "스티브 와사프"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:706
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:101
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:367
 msgctxt "npcdata"
 msgid "Tim Lang"
-msgstr "Tim Lang"
+msgstr "팀 랭"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:707
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:106
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:368
 msgctxt "npcdata"
 msgid "Tracy Iwata"
-msgstr "Tracy Iwata"
+msgstr "트래이시 이와타"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:708
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:107
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:369
 msgctxt "npcdata"
 msgid "Walter Johnson"
-msgstr "Walter Johnson"
+msgstr "월터 존슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:709
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:52
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:370
 msgctxt "npcdata"
 msgid "Devin Chapman"
-msgstr "Devin Chapman"
+msgstr "데빈 채프먼"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:710
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:371
 msgctxt "npcdata"
 msgid "Derek Chester"
-msgstr "Derek Chester"
+msgstr "데렉 체스터"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:711
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:55
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:372
 msgctxt "npcdata"
 msgid "Eric Williamson"
-msgstr "Eric Williamson"
+msgstr "에릭 윌리엄슨"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:712
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:104
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:373
 msgctxt "npcdata"
 msgid "Tom Zeliff"
-msgstr "Tom Zeliff"
+msgstr "톰 젤리프"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:713
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:374
 msgctxt "npcdata"
 msgid "Lord Roberts"
-msgstr "Lord Roberts"
+msgstr "로버츠 군주"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:714 mmmerge/Data/Text
 #: localization/LANG_NPCData.txt.py:729
@@ -63192,43 +63192,43 @@ msgstr "Lord Roberts"
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:390
 msgctxt "npcdata"
 msgid "Amethyst Gemstone"
-msgstr "Amethyst Gemstone"
+msgstr "아메시스트 젬스톤"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:715
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:376
 msgctxt "npcdata"
 msgid "Wacko the Ninja"
-msgstr "Wacko the Ninja"
+msgstr "닌자 와코"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:716
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:377
 msgctxt "npcdata"
 msgid "Andrew YC Pupedis"
-msgstr "Andrew YC Pupedis"
+msgstr "앤드루 YC 푸페디스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:717
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:378
 msgctxt "npcdata"
 msgid "Just_A_Brain"
-msgstr "Just_A_Brain"
+msgstr "그냥_뇌_하나"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:718
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:379
 msgctxt "npcdata"
 msgid "Mephisto, Ancient Sorcerer"
-msgstr "Mephisto, Ancient Sorcerer"
+msgstr "메피스토, 고대의 마법사"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:719
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:380
 msgctxt "npcdata"
 msgid "Contest Winner 7"
-msgstr "Contest Winner 7"
+msgstr "대회 우승자 7"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:720
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:381
 msgctxt "npcdata"
 msgid "King Louis"
-msgstr "King Louis"
+msgstr "루이스 왕"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:721
 #: mm7/DATA/10LocLANG.events/Npcdata.txt.py:382
@@ -63723,7 +63723,7 @@ msgstr "도적의 왕자"
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:805
 msgctxt "npcdata"
 msgid "Verdant"
-msgstr ""
+msgstr "버던트"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:806
 #: mm6/data/10LocLANG.icons/NPCdata.txt.py:21
@@ -65409,7 +65409,7 @@ msgstr "슬릭커 실버통"
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1094
 msgctxt "npcdata"
 msgid "Runaway Chaos"
-msgstr ""
+msgstr "런어웨이 카오스"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1095
 #: mm6/data/10LocLANG.icons/NPCdata.txt.py:310
@@ -65960,207 +65960,207 @@ msgstr "텔레론 프렌티스"
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1186
 msgctxt "npcdata"
 msgid "Random MapNPC 1"
-msgstr ""
+msgstr "무작위 맵 NPC 1"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1187
 msgctxt "npcdata"
 msgid "Random MapNPC 2"
-msgstr ""
+msgstr "무작위 맵 NPC 2"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1188
 msgctxt "npcdata"
 msgid "Random MapNPC 3"
-msgstr ""
+msgstr "무작위 맵 NPC 3"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1189
 msgctxt "npcdata"
 msgid "Random MapNPC 4"
-msgstr ""
+msgstr "무작위 맵 NPC 4"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1190
 msgctxt "npcdata"
 msgid "Random MapNPC 5"
-msgstr ""
+msgstr "무작위 맵 NPC 5"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1191
 msgctxt "npcdata"
 msgid "Random MapNPC 6"
-msgstr ""
+msgstr "무작위 맵 NPC 6"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1192
 msgctxt "npcdata"
 msgid "Random MapNPC 7"
-msgstr ""
+msgstr "무작위 맵 NPC 7"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1193
 msgctxt "npcdata"
 msgid "Random MapNPC 8"
-msgstr ""
+msgstr "무작위 맵 NPC 8"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1194
 msgctxt "npcdata"
 msgid "Random MapNPC 9"
-msgstr ""
+msgstr "무작위 맵 NPC 9"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1195
 msgctxt "npcdata"
 msgid "Random MapNPC 10"
-msgstr ""
+msgstr "무작위 맵 NPC 10"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1196
 msgctxt "npcdata"
 msgid "Random MapNPC 11"
-msgstr ""
+msgstr "무작위 맵 NPC 11"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1197
 msgctxt "npcdata"
 msgid "Random MapNPC 12"
-msgstr ""
+msgstr "무작위 맵 NPC 12"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1198
 msgctxt "npcdata"
 msgid "Random MapNPC 13"
-msgstr ""
+msgstr "무작위 맵 NPC 13"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1199
 msgctxt "npcdata"
 msgid "Random MapNPC 14"
-msgstr ""
+msgstr "무작위 맵 NPC 14"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1200
 msgctxt "npcdata"
 msgid "Random MapNPC 15"
-msgstr ""
+msgstr "무작위 맵 NPC 15"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1201
 msgctxt "npcdata"
 msgid "Random MapNPC 16"
-msgstr ""
+msgstr "무작위 맵 NPC 16"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1202
 msgctxt "npcdata"
 msgid "Random MapNPC 17"
-msgstr ""
+msgstr "무작위 맵 NPC 17"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1203
 msgctxt "npcdata"
 msgid "Random MapNPC 18"
-msgstr ""
+msgstr "무작위 맵 NPC 18"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1204
 msgctxt "npcdata"
 msgid "Random MapNPC 19"
-msgstr ""
+msgstr "무작위 맵 NPC 19"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1205
 msgctxt "npcdata"
 msgid "Random MapNPC 20"
-msgstr ""
+msgstr "무작위 맵 NPC 20"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1206
 msgctxt "npcdata"
 msgid "Random MapNPC 21"
-msgstr ""
+msgstr "무작위 맵 NPC 21"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1207
 msgctxt "npcdata"
 msgid "Random MapNPC 22"
-msgstr ""
+msgstr "무작위 맵 NPC 22"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1208
 msgctxt "npcdata"
 msgid "Random MapNPC 23"
-msgstr ""
+msgstr "무작위 맵 NPC 23"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1209
 msgctxt "npcdata"
 msgid "Random MapNPC 24"
-msgstr ""
+msgstr "무작위 맵 NPC 24"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1210
 msgctxt "npcdata"
 msgid "Random MapNPC 25"
-msgstr ""
+msgstr "무작위 맵 NPC 25"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1211
 msgctxt "npcdata"
 msgid "Random MapNPC 26"
-msgstr ""
+msgstr "무작위 맵 NPC 26"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1212
 msgctxt "npcdata"
 msgid "Random MapNPC 27"
-msgstr ""
+msgstr "무작위 맵 NPC 27"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1213
 msgctxt "npcdata"
 msgid "Random MapNPC 28"
-msgstr ""
+msgstr "무작위 맵 NPC 28"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1214
 msgctxt "npcdata"
 msgid "Random MapNPC 29"
-msgstr ""
+msgstr "무작위 맵 NPC 29"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1215
 msgctxt "npcdata"
 msgid "Random MapNPC 30"
-msgstr ""
+msgstr "무작위 맵 NPC 30"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1216
 msgctxt "npcdata"
 msgid "Random MapNPC 31"
-msgstr ""
+msgstr "무작위 맵 NPC 31"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1217
 msgctxt "npcdata"
 msgid "Random MapNPC 32"
-msgstr ""
+msgstr "무작위 맵 NPC 32"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1218
 msgctxt "npcdata"
 msgid "Random MapNPC 33"
-msgstr ""
+msgstr "무작위 맵 NPC 33"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1219
 msgctxt "npcdata"
 msgid "Random MapNPC 34"
-msgstr ""
+msgstr "무작위 맵 NPC 34"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1220
 msgctxt "npcdata"
 msgid "Random MapNPC 35"
-msgstr ""
+msgstr "무작위 맵 NPC 35"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1221
 msgctxt "npcdata"
 msgid "Random MapNPC 36"
-msgstr ""
+msgstr "무작위 맵 NPC 36"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1222
 msgctxt "npcdata"
 msgid "Random MapNPC 37"
-msgstr ""
+msgstr "무작위 맵 NPC 37"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1223
 msgctxt "npcdata"
 msgid "Random MapNPC 38"
-msgstr ""
+msgstr "무작위 맵 NPC 38"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1224
 msgctxt "npcdata"
 msgid "Random MapNPC 39"
-msgstr ""
+msgstr "무작위 맵 NPC 39"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1225
 msgctxt "npcdata"
 msgid "Random MapNPC 40"
-msgstr ""
+msgstr "무작위 맵 NPC 40"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1226
 msgctxt "npcdata"
 msgid "Random MapNPC 41"
-msgstr ""
+msgstr "무작위 맵 NPC 41"
 
 #: mmmerge/Data/Text localization/LANG_NPCGreet1.txt.py:3
 #: mm8/Data/10LocLANG.EnglishT/npcgreet.txt.py:2
@@ -123747,49 +123747,49 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:2
 msgctxt "placemon"
 msgid "Blackwell Cooper"
-msgstr ""
+msgstr "블랙웰 쿠퍼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:3 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:4
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:3
 msgctxt "placemon"
 msgid "Jeric Whistlebone"
-msgstr ""
+msgstr "제릭 휘슬본"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:4 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:5
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:4
 msgctxt "placemon"
 msgid "Dragon Hunter Pet"
-msgstr ""
+msgstr "드래곤 사냥꾼의 애완동물"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:5 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:6
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:5
 msgctxt "placemon"
 msgid "Admiral Nelson"
-msgstr ""
+msgstr "넬슨 제독"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:6 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:7
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:6
 msgctxt "placemon"
 msgid "Captain Zyrain"
-msgstr ""
+msgstr "자이레인 선장"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:7 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:8
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:7
 msgctxt "placemon"
 msgid "Admiral Clausewitz"
-msgstr ""
+msgstr "클라우제비츠 제독"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:8 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:9
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:8
 msgctxt "placemon"
 msgid "Unicorn King"
-msgstr ""
+msgstr "유니콘 왕"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:9 mmmerge/Data/Text
 #: localization/LANG_Placemon.txt.py:10 mmmerge/Data/Text
@@ -123799,7 +123799,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:10
 msgctxt "placemon"
 msgid "Lizardman Lookout"
-msgstr ""
+msgstr "도마뱀 인간 파수꾼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:11 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:12
@@ -123813,91 +123813,91 @@ msgstr "가드"
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:12
 msgctxt "placemon"
 msgid "Pack Master"
-msgstr ""
+msgstr "무리 대장"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:13 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:14
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:13
 msgctxt "placemon"
 msgid "Zog"
-msgstr ""
+msgstr "조그"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:14 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:15
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:14
 msgctxt "placemon"
 msgid "gamegurl"
-msgstr ""
+msgstr "게임걸"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:15 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:16
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:15
 msgctxt "placemon"
 msgid "DaveO"
-msgstr ""
+msgstr "데이브오"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:16 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:17
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:16
 msgctxt "placemon"
 msgid "Steve Jaqvaar"
-msgstr ""
+msgstr "스티브 자크바르"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:17 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:18
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:17
 msgctxt "placemon"
 msgid "HodgePodge"
-msgstr ""
+msgstr "뒤죽박죽"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:18 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:19
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:18
 msgctxt "placemon"
 msgid "Elara"
-msgstr ""
+msgstr "엘라라"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:19 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:20
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:19
 msgctxt "placemon"
 msgid "Ribannah"
-msgstr ""
+msgstr "리반나"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:20 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:21
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:20
 msgctxt "placemon"
 msgid "TenErnieFord"
-msgstr ""
+msgstr "텐어니포드"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:21 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:22
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:21
 msgctxt "placemon"
 msgid "Cool Jerk"
-msgstr ""
+msgstr "쿨한 얼간이"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:22 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:23
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:22
 msgctxt "placemon"
 msgid "Chlala"
-msgstr ""
+msgstr "클랄라"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:23 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:24
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:23
 msgctxt "placemon"
 msgid "kyberkisu"
-msgstr ""
+msgstr "키베르키수"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:24 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:25
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:24
 msgctxt "placemon"
 msgid "Just_A_Brain"
-msgstr "Just_A_Brain"
+msgstr "그냥_뇌_하나"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:25 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:26
@@ -123911,7 +123911,7 @@ msgstr "킬번 군주"
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:26
 msgctxt "placemon"
 msgid "King Louise"
-msgstr "King Louis"
+msgstr "루이스 왕"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:27 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:28
@@ -123924,97 +123924,97 @@ msgstr "구드울프"
 #: localization/LANG_PlaceMonTxt.txt.py:29
 msgctxt "placemon"
 msgid "Adam McCarthy"
-msgstr "Adam McCarthy"
+msgstr "아담 매카시"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:29 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:30
 msgctxt "placemon"
 msgid "Alex Sherman"
-msgstr "Alex Sherman"
+msgstr "알렉스 셔먼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:30 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:31
 msgctxt "placemon"
 msgid "Andrew Grumm"
-msgstr "Andrew Grumm"
+msgstr "앤드루 그럼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:31 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:32
 msgctxt "placemon"
 msgid "Anna Wooll"
-msgstr ""
+msgstr "안나 울"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:32 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:33
 msgctxt "placemon"
 msgid "April Lee"
-msgstr "April Lee"
+msgstr "에이프릴 리"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:33 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:34
 msgctxt "placemon"
 msgid "Benjamin Bent"
-msgstr "Benjamin Bent"
+msgstr "벤자민 벤트"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:34 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:35
 msgctxt "placemon"
 msgid "Bill Nesemeier"
-msgstr "Bill Nesemeier"
+msgstr "빌 네세마이어"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:35 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:36
 msgctxt "placemon"
 msgid "Bill Stoneham"
-msgstr ""
+msgstr "빌 스톤햄"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:36 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:37
 msgctxt "placemon"
 msgid "Bob Young"
-msgstr "Bob Young"
+msgstr "밥 영"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:37 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:38
 msgctxt "placemon"
 msgid "Bonnie Long-Hemsath"
-msgstr "Bonnie Long-Hemssath"
+msgstr "보니 롱헴사스"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:38 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:39
 msgctxt "placemon"
 msgid "Brian DeMetz"
-msgstr "Brian DeMetz"
+msgstr "브라이언 드메츠"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:39 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:40
 msgctxt "placemon"
 msgid "Brian Kemper"
-msgstr "Brian Kemper"
+msgstr "브라이언 켐퍼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:40 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:41
 msgctxt "placemon"
 msgid "Bryan Farina"
-msgstr "Bryan Farina"
+msgstr "브라이언 파리나"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:41 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:42
 msgctxt "placemon"
 msgid "Carl Pinder"
-msgstr "Carl Pinder"
+msgstr "칼 핀더"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:42 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:43
 msgctxt "placemon"
 msgid "Charles Zilm"
-msgstr "Charles Zilm"
+msgstr "찰스 질름"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:43 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:44
 msgctxt "placemon"
 msgid "Chris Bates"
-msgstr "Chris Bates"
+msgstr "크리스 베이츠"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:44 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:45
@@ -124026,187 +124026,187 @@ msgstr "크리스 밀러"
 #: localization/LANG_PlaceMonTxt.txt.py:46
 msgctxt "placemon"
 msgid "Christian Vanover"
-msgstr "Christian Vanover"
+msgstr "크리스티안 바노버"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:46 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:47
 msgctxt "placemon"
 msgid "Chuck Russom"
-msgstr "Chuck Russom"
+msgstr "척 러솜"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:47 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:48
 msgctxt "placemon"
 msgid "Dave Botan"
-msgstr "Dave Botan"
+msgstr "데이브 보탄"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:48 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:49
 msgctxt "placemon"
 msgid "David Mullich"
-msgstr "David Mullich"
+msgstr "데이비드 멀리치"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:49 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:50
 msgctxt "placemon"
 msgid "David Richey"
-msgstr "David Richey"
+msgstr "데이비드 리치"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:50 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:51
 msgctxt "placemon"
 msgid "David Vela"
-msgstr "David Vela"
+msgstr "데이비드 벨라"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:51 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:52
 msgctxt "placemon"
 msgid "Dean Gibson"
-msgstr "Dean Gibson"
+msgstr "딘 깁슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:52 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:53
 msgctxt "placemon"
 msgid "Devin Chapman"
-msgstr "Devin Chapman"
+msgstr "데빈 채프먼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:53 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:54
 msgctxt "placemon"
 msgid "Edward Hudson"
-msgstr "Edward Hudson"
+msgstr "에드워드 허드슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:54 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:55
 msgctxt "placemon"
 msgid "Ernie Gallardo"
-msgstr ""
+msgstr "어니 가야르도"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:55 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:56
 msgctxt "placemon"
 msgid "Eric Williamson"
-msgstr "Eric Williamson"
+msgstr "에릭 윌리엄슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:56 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:57
 msgctxt "placemon"
 msgid "Fernando Castillo"
-msgstr ""
+msgstr "페르난도 카스티요"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:57 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:58
 msgctxt "placemon"
 msgid "George Almond"
-msgstr "George Almond"
+msgstr "조지 아몬드"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:58 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:59
 msgctxt "placemon"
 msgid "George Ruof"
-msgstr "George Ruof"
+msgstr "조지 루오프"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:59 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:60
 msgctxt "placemon"
 msgid "Gus Smedstad "
-msgstr "Gus Smedstad "
+msgstr "거스 스메드스타드"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:60 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:61
 msgctxt "placemon"
 msgid "Ian Bullard"
-msgstr "Ian Bullard"
+msgstr "이안 불러드"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:61 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:62
 msgctxt "placemon"
 msgid "Jack Russell"
-msgstr "Jack Russell"
+msgstr "잭 러셀"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:62 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:63
 msgctxt "placemon"
 msgid "James Dickinson"
-msgstr "James Dickinson"
+msgstr "제임스 디킨슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:63 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:64
 msgctxt "placemon"
 msgid "Jeff Bigman"
-msgstr "Jeff Bigman"
+msgstr "제프 빅맨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:64 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:65
 msgctxt "placemon"
 msgid "Jeff Blattner"
-msgstr "Jeff Blattner"
+msgstr "제프 블래트너"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:65 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:66
 msgctxt "placemon"
 msgid "Jeff Leggett"
-msgstr "Jeff Leggett"
+msgstr "제프 레깃"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:66 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:67
 msgctxt "placemon"
 msgid "Jennifer Bullard"
-msgstr "Jennifer Bullard"
+msgstr "제니퍼 불러드"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:67 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:68
 msgctxt "placemon"
 msgid "Joe McGuffin"
-msgstr ""
+msgstr "조 맥거핀"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:68 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:69
 msgctxt "placemon"
 msgid "Joel Kelly"
-msgstr "Joel Kelly "
+msgstr "조엘 켈리"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:69 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:70
 msgctxt "placemon"
 msgid "John Gibson"
-msgstr "John Gibson"
+msgstr "존 깁슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:70 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:71
 msgctxt "placemon"
 msgid "John Krause"
-msgstr "John Krause"
+msgstr "존 크라우제"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:71 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:72
 msgctxt "placemon"
 msgid "John Machin (Mac)"
-msgstr ""
+msgstr "존 매친 (맥)"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:72 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:73
 msgctxt "placemon"
 msgid "John Slowsky"
-msgstr "John Slowsky"
+msgstr "존 슬로스키"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:73 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:74
 msgctxt "placemon"
 msgid "Jon Van Caneghem"
-msgstr "Jon Van Caneghem"
+msgstr "존 반 카네그햄"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:74 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:75
 msgctxt "placemon"
 msgid "Joseph Buron"
-msgstr ""
+msgstr "조셉 부론"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:75 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:76
 msgctxt "placemon"
 msgid "Julia Ulano"
-msgstr "Julia Ulano"
+msgstr "줄리아 울라노"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:76 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:77
@@ -124218,7 +124218,7 @@ msgstr "칼 드로운"
 #: localization/LANG_PlaceMonTxt.txt.py:78
 msgctxt "placemon"
 msgid "Kate Vanover"
-msgstr ""
+msgstr "케이트 바노버"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:78 mmmerge/Data/Text
 #: localization/LANG_Placemon.txt.py:147 mmmerge/Data/Text
@@ -124226,55 +124226,55 @@ msgstr ""
 #: localization/LANG_PlaceMonTxt.txt.py:148
 msgctxt "placemon"
 msgid "Keith Francart"
-msgstr "Keith Francart"
+msgstr "케이스 프랑카트"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:79 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:80
 msgctxt "placemon"
 msgid "Keith Talanay"
-msgstr "Keith Talanay"
+msgstr "케이스 탈라네이"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:80 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:81
 msgctxt "placemon"
 msgid "Ken Spencer"
-msgstr "Ken Spencer"
+msgstr "켄 스펜서"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:81 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:82
 msgctxt "placemon"
 msgid "Ken Thomson"
-msgstr "Ken Thomson"
+msgstr "켄 톰슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:82 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:83
 msgctxt "placemon"
 msgid "Kurt McKeever"
-msgstr "Kurt McKeever"
+msgstr "커트 매키버"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:83 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:84
 msgctxt "placemon"
 msgid "Lisa Whitman"
-msgstr "Lisa Whitman"
+msgstr "리사 휘트먼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:84 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:85
 msgctxt "placemon"
 msgid "Lou Henderson"
-msgstr "Lou Henderson"
+msgstr "로우 헨더슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:85 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:86
 msgctxt "placemon"
 msgid "Marcus Pregent"
-msgstr "Marcus Pregent"
+msgstr "마커스 프레전트"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:86 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:87
 msgctxt "placemon"
 msgid "Mary Ellen Babson"
-msgstr ""
+msgstr "매리 엘렌 밥슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:87 mmmerge/Data/Text
 #: localization/LANG_Placemon.txt.py:144 mmmerge/Data/Text
@@ -124282,97 +124282,97 @@ msgstr ""
 #: localization/LANG_PlaceMonTxt.txt.py:145
 msgctxt "placemon"
 msgid "Mark Caldwell"
-msgstr "Mark Caldwell"
+msgstr "마크 콜드웰"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:88 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:89
 msgctxt "placemon"
 msgid "Mark Miller"
-msgstr ""
+msgstr "마크 밀러"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:89 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:90
 msgctxt "placemon"
 msgid "Michael Wolf"
-msgstr "Michael Wolf "
+msgstr "마이클 울프"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:90 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:91
 msgctxt "placemon"
 msgid "Nicco Wargon"
-msgstr "Nicco Wargon "
+msgstr "니코 와곤"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:91 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:92
 msgctxt "placemon"
 msgid "Nowa Morisaku"
-msgstr ""
+msgstr "노와 모리사쿠"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:92 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:93
 msgctxt "placemon"
 msgid "Paul Rattner"
-msgstr "Paul Rattner"
+msgstr "폴 래트너"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:93 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:94
 msgctxt "placemon"
 msgid "Pete Ryu"
-msgstr ""
+msgstr "피트 류"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:94 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:95
 msgctxt "placemon"
 msgid "Phelan Sykes"
-msgstr "Phelan Sykes"
+msgstr "펠란 사이크스"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:95 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:96
 msgctxt "placemon"
 msgid "Rebecca Christel"
-msgstr "Rebecca Christel"
+msgstr "레베카 크리스텔"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:96 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:97
 msgctxt "placemon"
 msgid "Riki Corredera"
-msgstr "Riki Corredera "
+msgstr "리키 코레데라"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:97 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:98
 msgctxt "placemon"
 msgid "Ryan Den"
-msgstr "Ryan Den"
+msgstr "라이언 덴"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:98 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:99
 msgctxt "placemon"
 msgid "Scott White"
-msgstr "Scott White"
+msgstr "스코트 화이트"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:99 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:100
 msgctxt "placemon"
 msgid "Steve Jasper"
-msgstr "Steve Jasper"
+msgstr "스티브 재스퍼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:100 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:101
 msgctxt "placemon"
 msgid "Steve Wasaff"
-msgstr "Steve Wasaff"
+msgstr "스티브 와사프"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:101 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:102
 msgctxt "placemon"
 msgid "Tim Lang"
-msgstr "Tim Lang"
+msgstr "팀 랭"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:102 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:103
 msgctxt "placemon"
 msgid "Todd Smailes"
-msgstr ""
+msgstr "토드 스마일스"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:103 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:104
@@ -124384,7 +124384,7 @@ msgstr "톰 오노"
 #: localization/LANG_PlaceMonTxt.txt.py:105
 msgctxt "placemon"
 msgid "Tom Zeliff"
-msgstr "Tom Zeliff"
+msgstr "톰 젤리프"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:105 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:106
@@ -124396,34 +124396,34 @@ msgstr "토니 에반스"
 #: localization/LANG_PlaceMonTxt.txt.py:107
 msgctxt "placemon"
 msgid "Tracy Iwata"
-msgstr "Tracy Iwata"
+msgstr "트래이시 이와타"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:107 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:108
 msgctxt "placemon"
 msgid "Walter Johnson"
-msgstr "Walter Johnson"
+msgstr "월터 존슨"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:108 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:109
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:108
 msgctxt "placemon"
 msgid "Yaardrake"
-msgstr ""
+msgstr "야드레이크"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:109 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:110
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:109
 msgctxt "placemon"
 msgid "Old Loeb"
-msgstr ""
+msgstr "늙은 로브"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:110 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:111
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:110
 msgctxt "placemon"
 msgid "Ilsingore"
-msgstr ""
+msgstr "일싱고어"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:111 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:112
@@ -124459,7 +124459,7 @@ msgstr "모카랙(Morcarack)"
 #: localization/LANG_PlaceMonTxt.txt.py:116
 msgctxt "placemon"
 msgid "Super Vampire"
-msgstr ""
+msgstr "슈퍼 뱀파이어"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:116 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:117
@@ -124523,19 +124523,19 @@ msgstr "헤어보우(Hairbaugh)"
 #: localization/LANG_PlaceMonTxt.txt.py:135
 msgctxt "placemon"
 msgid "Q"
-msgstr ""
+msgstr "큐"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:125 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:126
 msgctxt "placemon"
 msgid "Queen Spider"
-msgstr ""
+msgstr "여왕 거미"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:126 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:127
 msgctxt "placemon"
 msgid "Fallen Defender"
-msgstr ""
+msgstr "타락한 수호자"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:127 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:128
@@ -124547,25 +124547,25 @@ msgstr "스너글"
 #: localization/LANG_PlaceMonTxt.txt.py:129
 msgctxt "placemon"
 msgid "Rogue Leader"
-msgstr ""
+msgstr "도적 우두머리"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:129 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:130
 msgctxt "placemon"
 msgid "Lesser Genie"
-msgstr ""
+msgstr "하급 지니"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:130 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:131
 msgctxt "placemon"
 msgid "Ethric"
-msgstr ""
+msgstr "에스릭"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:131 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:132
 msgctxt "placemon"
 msgid "Werewolf Leader"
-msgstr ""
+msgstr "늑대인간 우두머리"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:132 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:133
@@ -124589,7 +124589,7 @@ msgstr "리치 킹"
 #: localization/LANG_PlaceMonTxt.txt.py:137
 msgctxt "placemon"
 msgid "Lurch"
-msgstr ""
+msgstr "러치"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:137 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:138
@@ -124601,127 +124601,127 @@ msgstr "반의 보초"
 #: localization/LANG_PlaceMonTxt.txt.py:139
 msgctxt "placemon"
 msgid "Longfang Witherhide"
-msgstr ""
+msgstr "롱팽 위더하이드"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:139 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:140
 msgctxt "placemon"
 msgid "Devil of Baa"
-msgstr ""
+msgstr "바아의 악마"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:140 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:141
 msgctxt "placemon"
 msgid "Trip Hawkins"
-msgstr ""
+msgstr "트립 호킨스"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:141 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:142
 msgctxt "placemon"
 msgid "Greg Fulton"
-msgstr "Greg Fulton"
+msgstr "그렉 풀턴"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:142 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:143
 msgctxt "placemon"
 msgid "William Nesemeier"
-msgstr ""
+msgstr "윌리엄 네세마이어"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:143 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:144
 msgctxt "placemon"
 msgid "Andy Grumm"
-msgstr ""
+msgstr "앤디 그럼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:145 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:146
 msgctxt "placemon"
 msgid "Peter Ryu"
-msgstr ""
+msgstr "피터 류"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:146 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:147
 msgctxt "placemon"
 msgid "Scott McDaniel"
-msgstr ""
+msgstr "스코트 맥대니얼"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:148 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:149
 msgctxt "placemon"
 msgid "Bonnie Long-Hemssath"
-msgstr "Bonnie Long-Hemssath"
+msgstr "보니 롱헴사스"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:149 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:150
 msgctxt "placemon"
 msgid "Becky Christel"
-msgstr ""
+msgstr "벡키 크리스텔"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:150 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:151
 msgctxt "placemon"
 msgid "Rob King"
-msgstr ""
+msgstr "롭 킹"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:151 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:152
 msgctxt "placemon"
 msgid "Steve Baca"
-msgstr "Steve Baca"
+msgstr "스티브 바카"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:152 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:153
 msgctxt "placemon"
 msgid "Rick Sanchez"
-msgstr ""
+msgstr "릭 산체스"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:153 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:154
 msgctxt "placemon"
 msgid "Helena Wickberg"
-msgstr ""
+msgstr "헬레나 위크버그"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:154 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:155
 msgctxt "placemon"
 msgid "John Bolton"
-msgstr "John Bolton"
+msgstr "존 볼턴"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:155 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:156
 msgctxt "placemon"
 msgid "Anthony Rizo"
-msgstr ""
+msgstr "앤소니 리조"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:156 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:157
 msgctxt "placemon"
 msgid "Bruce Miyake"
-msgstr ""
+msgstr "브루스 미야케"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:157 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:158
 msgctxt "placemon"
 msgid "NWC Employee"
-msgstr ""
+msgstr "NWC 직원"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:158 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:159
 msgctxt "placemon"
 msgid "Randy Ruckel"
-msgstr ""
+msgstr "랜디 러켈"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:159 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:160
 msgctxt "placemon"
 msgid "Karl Fischer"
-msgstr ""
+msgstr "칼 피셔"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:160 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:161
 msgctxt "placemon"
 msgid "David Casso"
-msgstr ""
+msgstr "데이비드 카소"
 
 #: mmmerge/Data/Text localization/LANG_QuestsTxt.txt.py:5
 #: mm8/Data/10LocLANG.EnglishT/quests.txt.py:4
@@ -127847,7 +127847,9 @@ msgctxt "trans"
 msgid ""
 "As you go deeper into this vast network of tunnels, your instinct tells you "
 "that many dangerous creatures dwell within. You vow to remain vigilant."
-msgstr "Placeholder Text"
+msgstr ""
+"이 광대한 터널망 속으로 깊이 들어갈수록, 그 안에 위험한 생물들이 많이 살고 있다는 것을 본능이 일러 준다. 경계를 늦추지 않겠다고 "
+"다짐한다."
 
 #: mmmerge/Data/Text localization/LANG_TransTxt.txt.py:23 mmmerge/Data/Text
 #: localization/LANG_TransTxt.txt.py:158
@@ -127857,7 +127859,9 @@ msgid ""
 "A thunderous howl pierces your ears, provoking a feeling of dread. Whatever "
 "produced that sound is drawing near, with each step rocking the earth "
 "beneath your feet."
-msgstr "Placeholder Text"
+msgstr ""
+"천둥 같은 울부짖음이 귀를 꿰뚫으며 공포심을 불러일으킨다. 그 소리를 낸 것이 무엇이든 점점 다가오고 있으며, 한 걸음 내디딜 때마다 "
+"발밑의 땅이 뒤흔들린다."
 
 #: mmmerge/Data/Text localization/LANG_TransTxt.txt.py:26 mmmerge/Data/Text
 #: localization/LANG_TransTxt.txt.py:42
@@ -128816,7 +128820,7 @@ msgstr "컨트롤 센터는 사일렌스 때부터 닫았다, 한 12세기전부
 #: mm7/DATA/10LocLANG.events/TRANS.TXT.py:223
 msgctxt "trans"
 msgid "This tunnel leads to Stone City."
-msgstr "Placeholder Text"
+msgstr "이 터널은 스톤 시티로 이어진다."
 
 #: mmmerge/Data/Text localization/LANG_TransTxt.txt.py:195
 msgctxt "trans"
@@ -130428,7 +130432,7 @@ msgstr "그 %24 는 부서지지 않았어요!  부러지지 않은건 고치치
 #: mm8/Data/10LocLANG.EnglishT/NPCDATA.txt.py:1002
 msgctxt "npcdata"
 msgid "Boob"
-msgstr ""
+msgstr "부브"
 
 #: mm8/Data/10LocLANG.EnglishT/npcgreet.txt.py:4
 msgctxt "npc conversation"
@@ -131262,7 +131266,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:2
 msgctxt "npcnames"
 msgid "Alemada"
-msgstr ""
+msgstr "알레마다"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:2
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:17
@@ -131273,86 +131277,86 @@ msgstr "알톤"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:2
 msgctxt "npcnames"
 msgid "Abellona"
-msgstr ""
+msgstr "아벨로나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:3
 msgctxt "npcnames"
 msgid "Amadrea"
-msgstr ""
+msgstr "아마드레아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:3
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:18
 msgctxt "npcnames"
 msgid "Beren"
-msgstr ""
+msgstr "베렌"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:3
 msgctxt "npcnames"
 msgid "Ashburn"
-msgstr ""
+msgstr "아쉬번"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:3
 msgctxt "npcnames"
 msgid "Abigail"
-msgstr ""
+msgstr "아비게일"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:4
 msgctxt "npcnames"
 msgid "Angeama"
-msgstr ""
+msgstr "안제아마"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:4
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:19
 msgctxt "npcnames"
 msgid "Blajake"
-msgstr ""
+msgstr "블라제이크"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:4
 msgctxt "npcnames"
 msgid "Aylin"
-msgstr ""
+msgstr "아일린"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:4
 msgctxt "npcnames"
 msgid "Acacia"
-msgstr ""
+msgstr "아카시아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:5
 msgctxt "npcnames"
 msgid "Angebria"
-msgstr ""
+msgstr "안제브리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:5
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:20
 msgctxt "npcnames"
 msgid "Blajuan"
-msgstr ""
+msgstr "블라주안"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:5
 msgctxt "npcnames"
 msgid "Basher"
-msgstr ""
+msgstr "배셔"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:5
 msgctxt "npcnames"
 msgid "Adalgisa"
-msgstr ""
+msgstr "아달지사"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:6
 msgctxt "npcnames"
 msgid "Annaju"
-msgstr ""
+msgstr "안나주"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:6
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:21
 msgctxt "npcnames"
 msgid "Brale"
-msgstr ""
+msgstr "브레일"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:6
 msgctxt "npcnames"
 msgid "Aisilinn"
-msgstr ""
+msgstr "아이실린"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:7
 #: mm7/DATA/10LocLANG.events/NPCNAMES.TXT.py:7
@@ -131363,60 +131367,60 @@ msgstr "아드리에네"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:7
 msgctxt "npcnames"
 msgid "Ariasti"
-msgstr ""
+msgstr "아리아스티"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:7
 msgctxt "npcnames"
 msgid "Breed"
-msgstr ""
+msgstr "브리드"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:7
 msgctxt "npcnames"
 msgid "Alethea"
-msgstr ""
+msgstr "알레테아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:8
 msgctxt "npcnames"
 msgid "Baimaria"
-msgstr ""
+msgstr "바이마리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:8
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:23
 msgctxt "npcnames"
 msgid "Chaseleon"
-msgstr ""
+msgstr "체이스레온"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:8
 msgctxt "npcnames"
 msgid "Alexandra"
-msgstr ""
+msgstr "알렉산드라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:9
 msgctxt "npcnames"
 msgid "Brida"
-msgstr ""
+msgstr "브리다"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:9
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:24
 msgctxt "npcnames"
 msgid "Coreywyn"
-msgstr ""
+msgstr "코레이윈"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:9
 msgctxt "npcnames"
 msgid "Basilia"
-msgstr ""
+msgstr "바실리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:10
 msgctxt "npcnames"
 msgid "Brierly"
-msgstr ""
+msgstr "브라이얼리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:10
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:25
 msgctxt "npcnames"
 msgid "Daale"
-msgstr ""
+msgstr "다알레"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:10
 msgctxt "npcnames"
@@ -131426,18 +131430,18 @@ msgstr "베네딕트"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:11
 msgctxt "npcnames"
 msgid "Byire"
-msgstr ""
+msgstr "바이레"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:11
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:26
 msgctxt "npcnames"
 msgid "Daet"
-msgstr ""
+msgstr "다에트"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:11
 msgctxt "npcnames"
 msgid "Cavein"
-msgstr ""
+msgstr "케이브인"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:11
 msgctxt "npcnames"
@@ -131447,561 +131451,561 @@ msgstr "브론윈"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:12
 msgctxt "npcnames"
 msgid "Cewe"
-msgstr ""
+msgstr "세웨"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:12
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:27
 msgctxt "npcnames"
 msgid "Dalo"
-msgstr ""
+msgstr "달로"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:12
 msgctxt "npcnames"
 msgid "Carrion"
-msgstr ""
+msgstr "캐리언"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:12
 msgctxt "npcnames"
 msgid "Calandra"
-msgstr ""
+msgstr "칼란드라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:13
 msgctxt "npcnames"
 msgid "Cheyelerie"
-msgstr ""
+msgstr "셰이엘레리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:13
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:28
 msgctxt "npcnames"
 msgid "Deed"
-msgstr ""
+msgstr "디드"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:13
 msgctxt "npcnames"
 msgid "Dunerider"
-msgstr ""
+msgstr "듄라이더"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:13
 msgctxt "npcnames"
 msgid "Callista"
-msgstr ""
+msgstr "칼리스타"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:14
 msgctxt "npcnames"
 msgid "Couisa"
-msgstr ""
+msgstr "쿠이사"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:14
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:29
 msgctxt "npcnames"
 msgid "Gaivan"
-msgstr ""
+msgstr "가이반"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:14
 msgctxt "npcnames"
 msgid "Dust"
-msgstr ""
+msgstr "더스트"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:14
 msgctxt "npcnames"
 msgid "Carissa"
-msgstr ""
+msgstr "카리사"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:15
 msgctxt "npcnames"
 msgid "Daiyve"
-msgstr ""
+msgstr "다이브"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:15
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:30
 msgctxt "npcnames"
 msgid "Gobra"
-msgstr ""
+msgstr "고브라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:15
 msgctxt "npcnames"
 msgid "Elmwater"
-msgstr ""
+msgstr "엘름워터"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:15
 msgctxt "npcnames"
 msgid "Cassandraree"
-msgstr ""
+msgstr "카산드라리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:16
 msgctxt "npcnames"
 msgid "Darina"
-msgstr ""
+msgstr "다리나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:16
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:31
 msgctxt "npcnames"
 msgid "Hued"
-msgstr ""
+msgstr "휴드"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:16
 msgctxt "npcnames"
 msgid "Eton"
-msgstr ""
+msgstr "에톤"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:17
 msgctxt "npcnames"
 msgid "Debrie"
-msgstr ""
+msgstr "데브리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:17
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:32
 msgctxt "npcnames"
 msgid "Joren"
-msgstr ""
+msgstr "조렌"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:17
 msgctxt "npcnames"
 msgid "Dalilia"
-msgstr ""
+msgstr "달릴리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:18
 msgctxt "npcnames"
 msgid "Dialia"
-msgstr ""
+msgstr "디알리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:18
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:33
 msgctxt "npcnames"
 msgid "Judan"
-msgstr ""
+msgstr "주단"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:18
 msgctxt "npcnames"
 msgid "Damaris"
-msgstr ""
+msgstr "다마리스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:19
 msgctxt "npcnames"
 msgid "Diari"
-msgstr ""
+msgstr "디아리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:19
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:34
 msgctxt "npcnames"
 msgid "Juevan"
-msgstr ""
+msgstr "주에반"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:19
 msgctxt "npcnames"
 msgid "Damitia"
-msgstr ""
+msgstr "다미티아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:20
 msgctxt "npcnames"
 msgid "Domade"
-msgstr ""
+msgstr "도마데"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:20
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:35
 msgctxt "npcnames"
 msgid "Juphi"
-msgstr ""
+msgstr "주피"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:20
 msgctxt "npcnames"
 msgid "Danelis"
-msgstr ""
+msgstr "다넬리스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:21
 msgctxt "npcnames"
 msgid "Donie"
-msgstr ""
+msgstr "도니"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:21
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:36
 msgctxt "npcnames"
 msgid "Kegar"
-msgstr ""
+msgstr "케가"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:21
 msgctxt "npcnames"
 msgid "Delphine"
-msgstr ""
+msgstr "델핀"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:22
 msgctxt "npcnames"
 msgid "Dseyria"
-msgstr ""
+msgstr "드세이리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:22
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:37
 msgctxt "npcnames"
 msgid "Kesel"
-msgstr ""
+msgstr "케셀"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:22
 msgctxt "npcnames"
 msgid "Demetria"
-msgstr ""
+msgstr "데메트리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:23
 msgctxt "npcnames"
 msgid "Fiosama"
-msgstr ""
+msgstr "피오사마"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:23
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:38
 msgctxt "npcnames"
 msgid "Kosto"
-msgstr ""
+msgstr "코스토"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:23
 msgctxt "npcnames"
 msgid "Deolinda"
-msgstr ""
+msgstr "데올린다"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:24
 msgctxt "npcnames"
 msgid "Flonah"
-msgstr ""
+msgstr "플로나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:24
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:39
 msgctxt "npcnames"
 msgid "Loric"
-msgstr ""
+msgstr "로릭"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:24
 msgctxt "npcnames"
 msgid "Dextra"
-msgstr ""
+msgstr "덱스트라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:25
 msgctxt "npcnames"
 msgid "Fralie"
-msgstr ""
+msgstr "프랄리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:25
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:40
 msgctxt "npcnames"
 msgid "Maje"
-msgstr ""
+msgstr "마제"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:25
 msgctxt "npcnames"
 msgid "Dimona"
-msgstr ""
+msgstr "디모나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:26
 msgctxt "npcnames"
 msgid "Ganah"
-msgstr ""
+msgstr "가나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:26
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:41
 msgctxt "npcnames"
 msgid "Maul"
-msgstr ""
+msgstr "몰"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:26
 msgctxt "npcnames"
 msgid "Dylanna"
-msgstr ""
+msgstr "딜란나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:27
 msgctxt "npcnames"
 msgid "Gemah"
-msgstr ""
+msgstr "게마"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:27
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:42
 msgctxt "npcnames"
 msgid "Moven"
-msgstr ""
+msgstr "모븐"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:27
 msgctxt "npcnames"
 msgid "Ebony"
-msgstr ""
+msgstr "에보니"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:28
 msgctxt "npcnames"
 msgid "Geme"
-msgstr ""
+msgstr "게메"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:28
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:43
 msgctxt "npcnames"
 msgid "Mylix"
-msgstr ""
+msgstr "마일릭스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:28
 msgctxt "npcnames"
 msgid "Edelmira"
-msgstr ""
+msgstr "에델미라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:29
 msgctxt "npcnames"
 msgid "Haleyther"
-msgstr ""
+msgstr "헤일리서"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:29
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:44
 msgctxt "npcnames"
 msgid "Nahen"
-msgstr ""
+msgstr "나헨"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:29
 msgctxt "npcnames"
 msgid "Egelinna"
-msgstr ""
+msgstr "에겔린나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:30
 msgctxt "npcnames"
 msgid "Hana"
-msgstr ""
+msgstr "하나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:30
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:45
 msgctxt "npcnames"
 msgid "Navin"
-msgstr ""
+msgstr "나빈"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:30
 msgctxt "npcnames"
 msgid "Electra"
-msgstr ""
+msgstr "엘렉트라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:31
 msgctxt "npcnames"
 msgid "Hara"
-msgstr ""
+msgstr "하라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:31
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:46
 msgctxt "npcnames"
 msgid "Nelix"
-msgstr ""
+msgstr "넬릭스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:31
 msgctxt "npcnames"
 msgid "Emeline"
-msgstr ""
+msgstr "에멜린"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:32
 msgctxt "npcnames"
 msgid "Irelerie"
-msgstr ""
+msgstr "이렐레리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:32
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:47
 msgctxt "npcnames"
 msgid "Nichoisaiah"
-msgstr ""
+msgstr "니코이사야"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:32
 msgctxt "npcnames"
 msgid "Eudocia"
-msgstr ""
+msgstr "에우도시아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:33
 msgctxt "npcnames"
 msgid "Irewa"
-msgstr ""
+msgstr "이레와"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:33
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:48
 msgctxt "npcnames"
 msgid "Pago"
-msgstr ""
+msgstr "파고"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:34
 msgctxt "npcnames"
 msgid "Isaeli"
-msgstr ""
+msgstr "이사엘리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:34
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:49
 msgctxt "npcnames"
 msgid "Rahu"
-msgstr ""
+msgstr "라후"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:34
 msgctxt "npcnames"
 msgid "Fiammetta"
-msgstr ""
+msgstr "피암메타"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:35
 msgctxt "npcnames"
 msgid "Isafe"
-msgstr ""
+msgstr "이사페"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:35
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:50
 msgctxt "npcnames"
 msgid "Rilix"
-msgstr ""
+msgstr "릴릭스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:35
 msgctxt "npcnames"
 msgid "Forsythia"
-msgstr ""
+msgstr "포시티아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:36
 msgctxt "npcnames"
 msgid "Jaerin"
-msgstr ""
+msgstr "재린"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:36
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:51
 msgctxt "npcnames"
 msgid "Stogan"
-msgstr ""
+msgstr "스토간"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:36
 msgctxt "npcnames"
 msgid "Freya"
-msgstr ""
+msgstr "프레야"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:37
 msgctxt "npcnames"
 msgid "Javane"
-msgstr ""
+msgstr "자바네"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:37
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:52
 msgctxt "npcnames"
 msgid "Stoken"
-msgstr ""
+msgstr "스토켄"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:37
 msgctxt "npcnames"
 msgid "Gelsominia"
-msgstr ""
+msgstr "젤소미니아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:38
 msgctxt "npcnames"
 msgid "Jeisa"
-msgstr ""
+msgstr "제이사"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:38
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:53
 msgctxt "npcnames"
 msgid "Tadal"
-msgstr ""
+msgstr "타달"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:38
 msgctxt "npcnames"
 msgid "Gillian"
-msgstr ""
+msgstr "질리안"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:39
 msgctxt "npcnames"
 msgid "Jeuna"
-msgstr ""
+msgstr "제우나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:39
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:54
 msgctxt "npcnames"
 msgid "Tajos"
-msgstr ""
+msgstr "타조스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:39
 msgctxt "npcnames"
 msgid "Glynis"
-msgstr ""
+msgstr "글리니스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:40
 msgctxt "npcnames"
 msgid "Jotha"
-msgstr ""
+msgstr "조사"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:40
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:55
 msgctxt "npcnames"
 msgid "Tanat"
-msgstr ""
+msgstr "타나트"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:40
 msgctxt "npcnames"
 msgid "Gwenda"
-msgstr ""
+msgstr "그웬다"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:41
 msgctxt "npcnames"
 msgid "Kade"
-msgstr ""
+msgstr "케이드"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:41
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:56
 msgctxt "npcnames"
 msgid "Tayrod"
-msgstr ""
+msgstr "테이로드"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:41
 msgctxt "npcnames"
 msgid "Hannah"
-msgstr ""
+msgstr "한나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:42
 msgctxt "npcnames"
 msgid "Kariad"
-msgstr ""
+msgstr "카리아드"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:42
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:57
 msgctxt "npcnames"
 msgid "Thrax"
-msgstr ""
+msgstr "스랙스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:43
 msgctxt "npcnames"
 msgid "Kariti"
-msgstr ""
+msgstr "카리티"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:43
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:58
 msgctxt "npcnames"
 msgid "Triian"
-msgstr ""
+msgstr "트리이안"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:43
 msgctxt "npcnames"
 msgid "Heladia"
-msgstr ""
+msgstr "헬라디아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:44
 msgctxt "npcnames"
 msgid "Kearia"
-msgstr ""
+msgstr "케아리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:44
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:59
 msgctxt "npcnames"
 msgid "Trimark"
-msgstr ""
+msgstr "트리마크"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:44
 msgctxt "npcnames"
 msgid "Hibernia"
-msgstr ""
+msgstr "히베르니아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:45
 msgctxt "npcnames"
 msgid "Kieri"
-msgstr ""
+msgstr "키에리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:45
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:60
 msgctxt "npcnames"
 msgid "Vaune"
-msgstr ""
+msgstr "바우네"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:45
 msgctxt "npcnames"
 msgid "Hildereth"
-msgstr ""
+msgstr "힐데레스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:46
 msgctxt "npcnames"
 msgid "Kira"
-msgstr ""
+msgstr "키라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:46
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:61
@@ -132012,12 +132016,12 @@ msgstr "베르논"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:46
 msgctxt "npcnames"
 msgid "Idona"
-msgstr ""
+msgstr "이도나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:47
 msgctxt "npcnames"
 msgid "Kiir"
-msgstr ""
+msgstr "키르"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:47
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:62
@@ -132028,60 +132032,60 @@ msgstr "월터"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:47
 msgctxt "npcnames"
 msgid "Imelda"
-msgstr ""
+msgstr "이멜다"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:48
 msgctxt "npcnames"
 msgid "Kile"
-msgstr ""
+msgstr "카일"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:48
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:63
 msgctxt "npcnames"
 msgid "Waluke"
-msgstr ""
+msgstr "왈루크"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:48
 msgctxt "npcnames"
 msgid "Inocencia"
-msgstr ""
+msgstr "이노센시아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:49
 msgctxt "npcnames"
 msgid "Krira"
-msgstr ""
+msgstr "크리라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:49
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:64
 msgctxt "npcnames"
 msgid "Wanic"
-msgstr ""
+msgstr "와닉"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:49
 msgctxt "npcnames"
 msgid "Isadora"
-msgstr ""
+msgstr "이사도라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:50
 msgctxt "npcnames"
 msgid "Laueli"
-msgstr ""
+msgstr "라우엘리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:50
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:65
 msgctxt "npcnames"
 msgid "Zaje"
-msgstr ""
+msgstr "자제"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:50
 msgctxt "npcnames"
 msgid "Ivy"
-msgstr ""
+msgstr "아이비"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:51
 msgctxt "npcnames"
 msgid "Lauuna"
-msgstr ""
+msgstr "라우나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:51
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:66
@@ -132095,22 +132099,22 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:51
 msgctxt "npcnames"
 msgid "Jacobina"
-msgstr ""
+msgstr "자코비나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:52
 msgctxt "npcnames"
 msgid "Leriedan"
-msgstr ""
+msgstr "레리단"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:52
 msgctxt "npcnames"
 msgid "Jacquline"
-msgstr ""
+msgstr "재클린"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:53
 msgctxt "npcnames"
 msgid "Lewe"
-msgstr ""
+msgstr "레웨"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:53
 msgctxt "npcnames"
@@ -132120,22 +132124,22 @@ msgstr "비취"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:54
 msgctxt "npcnames"
 msgid "Liabra"
-msgstr ""
+msgstr "리아브라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:55
 msgctxt "npcnames"
 msgid "Lyra"
-msgstr ""
+msgstr "리라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:55
 msgctxt "npcnames"
 msgid "Jennilee"
-msgstr ""
+msgstr "제닐리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:56
 msgctxt "npcnames"
 msgid "Maaly"
-msgstr ""
+msgstr "말리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:56
 msgctxt "npcnames"
@@ -132145,12 +132149,12 @@ msgstr "저스티스"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:57
 msgctxt "npcnames"
 msgid "Mariline"
-msgstr ""
+msgstr "마릴린"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:57
 msgctxt "npcnames"
 msgid "Kaitlin"
-msgstr ""
+msgstr "케이틀린"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:58
 msgctxt "npcnames"
@@ -132160,277 +132164,277 @@ msgstr "마미"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:58
 msgctxt "npcnames"
 msgid "Kassandra"
-msgstr ""
+msgstr "카산드라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:59
 msgctxt "npcnames"
 msgid "Maryli"
-msgstr ""
+msgstr "마릴리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:59
 msgctxt "npcnames"
 msgid "Kayley"
-msgstr ""
+msgstr "케일리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:60
 msgctxt "npcnames"
 msgid "Mina"
-msgstr ""
+msgstr "미나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:60
 msgctxt "npcnames"
 msgid "Kezia"
-msgstr ""
+msgstr "케지아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:61
 msgctxt "npcnames"
 msgid "Miraan"
-msgstr ""
+msgstr "미란"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:61
 msgctxt "npcnames"
 msgid "Kynthia"
-msgstr ""
+msgstr "킨시아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:62
 msgctxt "npcnames"
 msgid "Nicoire"
-msgstr ""
+msgstr "니코이르"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:62
 msgctxt "npcnames"
 msgid "Lainey"
-msgstr ""
+msgstr "레이니"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:63
 msgctxt "npcnames"
 msgid "Nicosi"
-msgstr ""
+msgstr "니코시"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:63
 msgctxt "npcnames"
 msgid "Lakeshia"
-msgstr ""
+msgstr "라케시아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:64
 msgctxt "npcnames"
 msgid "Niqueale"
-msgstr ""
+msgstr "니퀼레"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:64
 msgctxt "npcnames"
 msgid "Latanya"
-msgstr ""
+msgstr "라탄야"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:65
 msgctxt "npcnames"
 msgid "Norene"
-msgstr ""
+msgstr "노렌"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:65
 msgctxt "npcnames"
 msgid "Liana"
-msgstr ""
+msgstr "리아나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:66
 msgctxt "npcnames"
 msgid "Odethe"
-msgstr ""
+msgstr "오데스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:66
 msgctxt "npcnames"
 msgid "Lilith"
-msgstr ""
+msgstr "릴리스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:67
 msgctxt "npcnames"
 msgid "Odeva"
-msgstr ""
+msgstr "오데바"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:67
 msgctxt "npcnames"
 msgid "Lorelie"
-msgstr ""
+msgstr "로렐리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:68
 msgctxt "npcnames"
 msgid "Pherebe"
-msgstr ""
+msgstr "페레베"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:68
 msgctxt "npcnames"
 msgid "Lysandra"
-msgstr ""
+msgstr "리산드라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:69
 msgctxt "npcnames"
 msgid "Rama"
-msgstr ""
+msgstr "라마"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:69
 msgctxt "npcnames"
 msgid "Maggie"
-msgstr ""
+msgstr "매기"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:70
 msgctxt "npcnames"
 msgid "Rare"
-msgstr ""
+msgstr "레어"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:70
 msgctxt "npcnames"
 msgid "Mallcora"
-msgstr ""
+msgstr "말코라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:71
 msgctxt "npcnames"
 msgid "Ratha"
-msgstr ""
+msgstr "라사"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:71
 msgctxt "npcnames"
 msgid "Mercedes"
-msgstr ""
+msgstr "메르세데스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:72
 msgctxt "npcnames"
 msgid "Redrea"
-msgstr ""
+msgstr "레드레아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:72
 msgctxt "npcnames"
 msgid "Nedra"
-msgstr ""
+msgstr "네드라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:73
 msgctxt "npcnames"
 msgid "Riakari"
-msgstr ""
+msgstr "리아카리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:73
 msgctxt "npcnames"
 msgid "Nerys"
-msgstr ""
+msgstr "네리스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:74
 msgctxt "npcnames"
 msgid "Riara"
-msgstr ""
+msgstr "리아라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:74
 msgctxt "npcnames"
 msgid "Nilsine"
-msgstr ""
+msgstr "닐시네"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:75
 msgctxt "npcnames"
 msgid "Rierina"
-msgstr ""
+msgstr "리에리나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:75
 msgctxt "npcnames"
 msgid "Odelia"
-msgstr ""
+msgstr "오델리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:76
 msgctxt "npcnames"
 msgid "Rija"
-msgstr ""
+msgstr "리자"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:76
 msgctxt "npcnames"
 msgid "Olesia"
-msgstr ""
+msgstr "올레시아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:77
 msgctxt "npcnames"
 msgid "Ronimira"
-msgstr ""
+msgstr "로니미라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:77
 msgctxt "npcnames"
 msgid "Ophira"
-msgstr ""
+msgstr "오피라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:78
 msgctxt "npcnames"
 msgid "Rore"
-msgstr ""
+msgstr "로어"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:78
 msgctxt "npcnames"
 msgid "Pacifica"
-msgstr ""
+msgstr "파시피카"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:79
 msgctxt "npcnames"
 msgid "Rulilian"
-msgstr ""
+msgstr "룰릴리안"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:79
 msgctxt "npcnames"
 msgid "Pandora"
-msgstr ""
+msgstr "판도라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:80
 msgctxt "npcnames"
 msgid "Saemi"
-msgstr ""
+msgstr "사에미"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:80
 msgctxt "npcnames"
 msgid "Parthenia"
-msgstr ""
+msgstr "파르테니아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:81
 msgctxt "npcnames"
 msgid "Sanina"
-msgstr ""
+msgstr "사니나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:81
 msgctxt "npcnames"
 msgid "Payne"
-msgstr ""
+msgstr "페인"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:82
 msgctxt "npcnames"
 msgid "Savale"
-msgstr ""
+msgstr "사발레"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:82
 msgctxt "npcnames"
 msgid "Perfecta"
-msgstr ""
+msgstr "페르펙타"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:83
 msgctxt "npcnames"
 msgid "Savasarah"
-msgstr ""
+msgstr "사바사라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:83
 msgctxt "npcnames"
 msgid "Quirina"
-msgstr ""
+msgstr "퀴리나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:84
 msgctxt "npcnames"
 msgid "Shene"
-msgstr ""
+msgstr "셰네"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:85
 msgctxt "npcnames"
 msgid "Siealy"
-msgstr ""
+msgstr "시에일리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:85
 msgctxt "npcnames"
 msgid "Raign"
-msgstr ""
+msgstr "레인"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:86
 msgctxt "npcnames"
 msgid "Sieemi"
-msgstr ""
+msgstr "시에미"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:86
 msgctxt "npcnames"
@@ -132440,7 +132444,7 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:87
 msgctxt "npcnames"
 msgid "Sija"
-msgstr ""
+msgstr "시자"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:87
 msgctxt "npcnames"
@@ -132450,37 +132454,37 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:88
 msgctxt "npcnames"
 msgid "Suju"
-msgstr ""
+msgstr "수주"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:89
 msgctxt "npcnames"
 msgid "Sumanu"
-msgstr ""
+msgstr "수마누"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:89
 msgctxt "npcnames"
 msgid "Ruthina"
-msgstr ""
+msgstr "루티나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:90
 msgctxt "npcnames"
 msgid "Syfe"
-msgstr ""
+msgstr "사이프"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:91
 msgctxt "npcnames"
 msgid "Syke"
-msgstr ""
+msgstr "사이크"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:91
 msgctxt "npcnames"
 msgid "Sammantha"
-msgstr ""
+msgstr "사만사"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:92
 msgctxt "npcnames"
 msgid "Tayfra"
-msgstr ""
+msgstr "테이프라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:92
 msgctxt "npcnames"
@@ -132490,62 +132494,62 @@ msgstr "사파이어"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:93
 msgctxt "npcnames"
 msgid "Thaaly"
-msgstr ""
+msgstr "타알리"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:93
 msgctxt "npcnames"
 msgid "Scarlet"
-msgstr ""
+msgstr "스칼렛"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:94
 msgctxt "npcnames"
 msgid "Thade"
-msgstr ""
+msgstr "테이드"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:94
 msgctxt "npcnames"
 msgid "Selby"
-msgstr ""
+msgstr "셀비"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:95
 msgctxt "npcnames"
 msgid "Uname"
-msgstr ""
+msgstr "우나메"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:95
 msgctxt "npcnames"
 msgid "Sophia"
-msgstr ""
+msgstr "소피아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:96
 msgctxt "npcnames"
 msgid "Viaas"
-msgstr ""
+msgstr "비아스"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:96
 msgctxt "npcnames"
 msgid "Tabitha"
-msgstr ""
+msgstr "타비사"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:97
 msgctxt "npcnames"
 msgid "Viain"
-msgstr ""
+msgstr "비아인"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:98
 msgctxt "npcnames"
 msgid "Viarene"
-msgstr ""
+msgstr "비아렌"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:98
 msgctxt "npcnames"
 msgid "Tanisha"
-msgstr ""
+msgstr "타니샤"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:99
 msgctxt "npcnames"
 msgid "Wela"
-msgstr ""
+msgstr "웰라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:99
 msgctxt "npcnames"
@@ -132555,17 +132559,17 @@ msgstr "템페스트"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:100
 msgctxt "npcnames"
 msgid "Xafra"
-msgstr ""
+msgstr "자프라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:100
 msgctxt "npcnames"
 msgid "Tivian"
-msgstr ""
+msgstr "티비안"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:101
 msgctxt "npcnames"
 msgid "Xasi"
-msgstr ""
+msgstr "자시"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:101
 msgctxt "npcnames"
@@ -132575,77 +132579,77 @@ msgstr "황옥"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:102
 msgctxt "npcnames"
 msgid "Yvedsey"
-msgstr ""
+msgstr "이베드세이"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:102
 msgctxt "npcnames"
 msgid "Ulminia"
-msgstr ""
+msgstr "울미니아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:103
 msgctxt "npcnames"
 msgid "Yveral"
-msgstr ""
+msgstr "이베랄"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:103
 msgctxt "npcnames"
 msgid "Ultima"
-msgstr ""
+msgstr "울티마"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:104
 msgctxt "npcnames"
 msgid "Yvomine"
-msgstr ""
+msgstr "이보민"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:104
 msgctxt "npcnames"
 msgid "Ursula"
-msgstr ""
+msgstr "우르술라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:105
 msgctxt "npcnames"
 msgid "Yvoire"
-msgstr ""
+msgstr "이부아르"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:105
 msgctxt "npcnames"
 msgid "Valentia"
-msgstr ""
+msgstr "발렌티아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:106
 msgctxt "npcnames"
 msgid "Yvovia"
-msgstr ""
+msgstr "이보비아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:107
 msgctxt "npcnames"
 msgid "Zoele"
-msgstr ""
+msgstr "조엘레"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:109
 msgctxt "npcnames"
 msgid "Weslia"
-msgstr ""
+msgstr "웨슬리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:110
 msgctxt "npcnames"
 msgid "Winona"
-msgstr ""
+msgstr "위노나"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:111
 msgctxt "npcnames"
 msgid "Wysandra"
-msgstr ""
+msgstr "와이산드라"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:112
 msgctxt "npcnames"
 msgid "Xylia"
-msgstr ""
+msgstr "자일리아"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:113
 msgctxt "npcnames"
 msgid "Yessica"
-msgstr ""
+msgstr "예시카"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:114
 msgctxt "npcnames"
@@ -132679,72 +132683,72 @@ msgstr "윌람"
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:31
 msgctxt "npcdata"
 msgid "Anna Wooll"
-msgstr ""
+msgstr "안나 울"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:35
 msgctxt "npcdata"
 msgid "Bill Stoneham"
-msgstr ""
+msgstr "빌 스톤햄"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:37
 msgctxt "npcdata"
 msgid "Bonnie Long-Hemsath"
-msgstr "Bonnie Long-Hemssath"
+msgstr "보니 롱헴사스"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:54
 msgctxt "npcdata"
 msgid "Ernie Gallardo"
-msgstr ""
+msgstr "어니 가야르도"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:56
 msgctxt "npcdata"
 msgid "Fernando Castillo"
-msgstr ""
+msgstr "페르난도 카스티요"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:67
 msgctxt "npcdata"
 msgid "Joe McGuffin"
-msgstr ""
+msgstr "조 맥거핀"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:71
 msgctxt "npcdata"
 msgid "John Machin (Mac)"
-msgstr ""
+msgstr "존 매친 (맥)"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:74
 msgctxt "npcdata"
 msgid "Joseph Buron"
-msgstr ""
+msgstr "조셉 부론"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:77
 msgctxt "npcdata"
 msgid "Kate Vanover"
-msgstr ""
+msgstr "케이트 바노버"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:86
 msgctxt "npcdata"
 msgid "Mary Ellen Babson"
-msgstr ""
+msgstr "매리 엘렌 밥슨"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:88
 msgctxt "npcdata"
 msgid "Mark Miller"
-msgstr ""
+msgstr "마크 밀러"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:91
 msgctxt "npcdata"
 msgid "Nowa Morisaku"
-msgstr ""
+msgstr "노와 모리사쿠"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:93
 msgctxt "npcdata"
 msgid "Pete Ryu"
-msgstr ""
+msgstr "피트 류"
 
 #: mm8/Data/10LocLANG.EnglishT/placemon.txt.py:102
 msgctxt "npcdata"
 msgid "Todd Smailes"
-msgstr ""
+msgstr "토드 스마일스"
 
 #: mm8/Data/10LocLANG.EnglishT/Spells.txt.py:99
 msgctxt "spells"
@@ -134875,7 +134879,7 @@ msgstr ""
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:37
 msgctxt "npcprof"
 msgid "Prepare Meal"
-msgstr ""
+msgstr "식사 준비"
 
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:37
 #: mm6/data/10LocLANG.icons/npcprof.txt.py:37
@@ -134906,7 +134910,7 @@ msgstr "잉?  말라빠진 빵과 물을 다시 먹겠다구요?  <투덜투덜>
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:38
 msgctxt "npcprof"
 msgid "Prepare Feast"
-msgstr ""
+msgstr "만찬 준비"
 
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:38
 #: mm6/data/10LocLANG.icons/npcprof.txt.py:38
@@ -135040,7 +135044,7 @@ msgstr "비록 당신이 '위저드 아이'주문을 직접 쓸 수 있다하더
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:43
 msgctxt "npcprof"
 msgid "Wind Walk"
-msgstr ""
+msgstr "바람 위 걷기"
 
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:43
 #: mm6/data/10LocLANG.icons/npcprof.txt.py:43
@@ -135073,7 +135077,7 @@ msgstr "자네가 지금 비행의 힘을 포기하려는 건가?  눈꼽만한 
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:44
 msgctxt "npcprof"
 msgid "Cross Water"
-msgstr ""
+msgstr "물 위 걷기"
 
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:44
 #: mm6/data/10LocLANG.icons/npcprof.txt.py:44
@@ -135106,7 +135110,7 @@ msgstr "자네가 지금 물위를 걷는 힘을 포기하려는 건가?  눈꼽
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:45
 msgctxt "npcprof"
 msgid "Gate to Town"
-msgstr ""
+msgstr "마을 차원문"
 
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:45
 #: mm6/data/10LocLANG.icons/npcprof.txt.py:45
@@ -135138,7 +135142,7 @@ msgstr "자네가 지금 순간 이동하는 힘을 포기하려는 건가?  눈
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:46
 msgctxt "npcprof"
 msgid "Bless Party"
-msgstr ""
+msgstr "일행 축복"
 
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:46
 #: mm6/data/10LocLANG.icons/npcprof.txt.py:46
@@ -135169,7 +135173,7 @@ msgstr "신에게 물었더니, 자네가 나를 해고한다면 그분들이 �
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:47
 msgctxt "npcprof"
 msgid "Play Tune"
-msgstr ""
+msgstr "곡 연주"
 
 #: mm7/DATA/10LocLANG.events/NPCPROF.TXT.py:47
 #: mm6/data/10LocLANG.icons/npcprof.txt.py:47

@@ -69559,177 +69559,177 @@ msgstr "Náhodné MapNPC 6"
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1192
 msgctxt "npcdata"
 msgid "Random MapNPC 7"
-msgstr ""
+msgstr "Náhodné MapNPC 7"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1193
 msgctxt "npcdata"
 msgid "Random MapNPC 8"
-msgstr ""
+msgstr "Náhodné MapNPC 8"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1194
 msgctxt "npcdata"
 msgid "Random MapNPC 9"
-msgstr ""
+msgstr "Náhodné MapNPC 9"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1195
 msgctxt "npcdata"
 msgid "Random MapNPC 10"
-msgstr ""
+msgstr "Náhodné MapNPC 10"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1196
 msgctxt "npcdata"
 msgid "Random MapNPC 11"
-msgstr ""
+msgstr "Náhodné MapNPC 11"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1197
 msgctxt "npcdata"
 msgid "Random MapNPC 12"
-msgstr ""
+msgstr "Náhodné MapNPC 12"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1198
 msgctxt "npcdata"
 msgid "Random MapNPC 13"
-msgstr ""
+msgstr "Náhodné MapNPC 13"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1199
 msgctxt "npcdata"
 msgid "Random MapNPC 14"
-msgstr ""
+msgstr "Náhodné MapNPC 14"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1200
 msgctxt "npcdata"
 msgid "Random MapNPC 15"
-msgstr ""
+msgstr "Náhodné MapNPC 15"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1201
 msgctxt "npcdata"
 msgid "Random MapNPC 16"
-msgstr ""
+msgstr "Náhodné MapNPC 16"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1202
 msgctxt "npcdata"
 msgid "Random MapNPC 17"
-msgstr ""
+msgstr "Náhodné MapNPC 17"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1203
 msgctxt "npcdata"
 msgid "Random MapNPC 18"
-msgstr ""
+msgstr "Náhodné MapNPC 18"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1204
 msgctxt "npcdata"
 msgid "Random MapNPC 19"
-msgstr ""
+msgstr "Náhodné MapNPC 19"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1205
 msgctxt "npcdata"
 msgid "Random MapNPC 20"
-msgstr ""
+msgstr "Náhodné MapNPC 20"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1206
 msgctxt "npcdata"
 msgid "Random MapNPC 21"
-msgstr ""
+msgstr "Náhodné MapNPC 21"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1207
 msgctxt "npcdata"
 msgid "Random MapNPC 22"
-msgstr ""
+msgstr "Náhodné MapNPC 22"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1208
 msgctxt "npcdata"
 msgid "Random MapNPC 23"
-msgstr ""
+msgstr "Náhodné MapNPC 23"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1209
 msgctxt "npcdata"
 msgid "Random MapNPC 24"
-msgstr ""
+msgstr "Náhodné MapNPC 24"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1210
 msgctxt "npcdata"
 msgid "Random MapNPC 25"
-msgstr ""
+msgstr "Náhodné MapNPC 25"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1211
 msgctxt "npcdata"
 msgid "Random MapNPC 26"
-msgstr ""
+msgstr "Náhodné MapNPC 26"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1212
 msgctxt "npcdata"
 msgid "Random MapNPC 27"
-msgstr ""
+msgstr "Náhodné MapNPC 27"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1213
 msgctxt "npcdata"
 msgid "Random MapNPC 28"
-msgstr ""
+msgstr "Náhodné MapNPC 28"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1214
 msgctxt "npcdata"
 msgid "Random MapNPC 29"
-msgstr ""
+msgstr "Náhodné MapNPC 29"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1215
 msgctxt "npcdata"
 msgid "Random MapNPC 30"
-msgstr ""
+msgstr "Náhodné MapNPC 30"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1216
 msgctxt "npcdata"
 msgid "Random MapNPC 31"
-msgstr ""
+msgstr "Náhodné MapNPC 31"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1217
 msgctxt "npcdata"
 msgid "Random MapNPC 32"
-msgstr ""
+msgstr "Náhodné MapNPC 32"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1218
 msgctxt "npcdata"
 msgid "Random MapNPC 33"
-msgstr ""
+msgstr "Náhodné MapNPC 33"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1219
 msgctxt "npcdata"
 msgid "Random MapNPC 34"
-msgstr ""
+msgstr "Náhodné MapNPC 34"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1220
 msgctxt "npcdata"
 msgid "Random MapNPC 35"
-msgstr ""
+msgstr "Náhodné MapNPC 35"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1221
 msgctxt "npcdata"
 msgid "Random MapNPC 36"
-msgstr ""
+msgstr "Náhodné MapNPC 36"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1222
 msgctxt "npcdata"
 msgid "Random MapNPC 37"
-msgstr ""
+msgstr "Náhodné MapNPC 37"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1223
 msgctxt "npcdata"
 msgid "Random MapNPC 38"
-msgstr ""
+msgstr "Náhodné MapNPC 38"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1224
 msgctxt "npcdata"
 msgid "Random MapNPC 39"
-msgstr ""
+msgstr "Náhodné MapNPC 39"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1225
 msgctxt "npcdata"
 msgid "Random MapNPC 40"
-msgstr ""
+msgstr "Náhodné MapNPC 40"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1226
 msgctxt "npcdata"
 msgid "Random MapNPC 41"
-msgstr ""
+msgstr "Náhodné MapNPC 41"
 
 #: mmmerge/Data/Text localization/LANG_NPCGreet1.txt.py:3
 #: mm8/Data/10LocLANG.EnglishT/npcgreet.txt.py:2
@@ -81197,7 +81197,7 @@ msgstr "Walter"
 #: mm6/data/10LocLANG.icons/npcnames.txt.py:517
 msgctxt "npcnames"
 msgid "Wanye"
-msgstr ""
+msgstr "Wanye"
 
 #: mmmerge/Data/Text localization/LANG_NPCNames.txt.py:518
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:518
@@ -134403,7 +134403,7 @@ msgstr "Morcarack"
 #: localization/LANG_PlaceMonTxt.txt.py:116
 msgctxt "placemon"
 msgid "Super Vampire"
-msgstr ""
+msgstr "Hlavní upír"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:116 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:117
@@ -134467,19 +134467,19 @@ msgstr "Hairbaugh"
 #: localization/LANG_PlaceMonTxt.txt.py:135
 msgctxt "placemon"
 msgid "Q"
-msgstr ""
+msgstr "Q"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:125 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:126
 msgctxt "placemon"
 msgid "Queen Spider"
-msgstr ""
+msgstr "Pavoučí královna"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:126 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:127
 msgctxt "placemon"
 msgid "Fallen Defender"
-msgstr ""
+msgstr "Padlý obránce"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:127 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:128
@@ -134491,25 +134491,25 @@ msgstr "Snergle"
 #: localization/LANG_PlaceMonTxt.txt.py:129
 msgctxt "placemon"
 msgid "Rogue Leader"
-msgstr ""
+msgstr "Vůdce lupičů"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:129 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:130
 msgctxt "placemon"
 msgid "Lesser Genie"
-msgstr ""
+msgstr "Nižší džin"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:130 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:131
 msgctxt "placemon"
 msgid "Ethric"
-msgstr ""
+msgstr "Ethric"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:131 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:132
 msgctxt "placemon"
 msgid "Werewolf Leader"
-msgstr ""
+msgstr "Vůdce vlkodlaků"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:132 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:133
@@ -134533,7 +134533,7 @@ msgstr "Král lichů"
 #: localization/LANG_PlaceMonTxt.txt.py:137
 msgctxt "placemon"
 msgid "Lurch"
-msgstr ""
+msgstr "Lurch"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:137 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:138
@@ -134545,19 +134545,19 @@ msgstr "Hlídka VARNu"
 #: localization/LANG_PlaceMonTxt.txt.py:139
 msgctxt "placemon"
 msgid "Longfang Witherhide"
-msgstr ""
+msgstr "Longfang Witherhide"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:139 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:140
 msgctxt "placemon"
 msgid "Devil of Baa"
-msgstr ""
+msgstr "Ďábel řádu Baa"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:140 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:141
 msgctxt "placemon"
 msgid "Trip Hawkins"
-msgstr ""
+msgstr "Trip Hawkins"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:141 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:142
@@ -134569,13 +134569,13 @@ msgstr "Greg Fulton"
 #: localization/LANG_PlaceMonTxt.txt.py:143
 msgctxt "placemon"
 msgid "William Nesemeier"
-msgstr ""
+msgstr "William Nesemeier"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:143 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:144
 msgctxt "placemon"
 msgid "Andy Grumm"
-msgstr ""
+msgstr "Andy Grumm"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:145 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:146
@@ -134587,7 +134587,7 @@ msgstr "Pete Ryu"
 #: localization/LANG_PlaceMonTxt.txt.py:147
 msgctxt "placemon"
 msgid "Scott McDaniel"
-msgstr ""
+msgstr "Scott McDaniel"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:148 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:149
@@ -134599,13 +134599,13 @@ msgstr "Bonnie Long-Hemssath"
 #: localization/LANG_PlaceMonTxt.txt.py:150
 msgctxt "placemon"
 msgid "Becky Christel"
-msgstr ""
+msgstr "Becky Christel"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:150 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:151
 msgctxt "placemon"
 msgid "Rob King"
-msgstr ""
+msgstr "Rob King"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:151 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:152
@@ -134617,13 +134617,13 @@ msgstr "Steve Baca"
 #: localization/LANG_PlaceMonTxt.txt.py:153
 msgctxt "placemon"
 msgid "Rick Sanchez"
-msgstr ""
+msgstr "Rick Sanchez"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:153 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:154
 msgctxt "placemon"
 msgid "Helena Wickberg"
-msgstr ""
+msgstr "Helena Wickberg"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:154 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:155
@@ -134635,37 +134635,37 @@ msgstr "John Bolton"
 #: localization/LANG_PlaceMonTxt.txt.py:156
 msgctxt "placemon"
 msgid "Anthony Rizo"
-msgstr ""
+msgstr "Anthony Rizo"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:156 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:157
 msgctxt "placemon"
 msgid "Bruce Miyake"
-msgstr ""
+msgstr "Bruce Miyake"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:157 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:158
 msgctxt "placemon"
 msgid "NWC Employee"
-msgstr ""
+msgstr "Zaměstnanec NWC"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:158 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:159
 msgctxt "placemon"
 msgid "Randy Ruckel"
-msgstr ""
+msgstr "Randy Ruckel"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:159 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:160
 msgctxt "placemon"
 msgid "Karl Fischer"
-msgstr ""
+msgstr "Karl Fischer"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:160 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:161
 msgctxt "placemon"
 msgid "David Casso"
-msgstr ""
+msgstr "David Casso"
 
 #: mmmerge/Data/Text localization/LANG_QuestsTxt.txt.py:5
 #: mm8/Data/10LocLANG.EnglishT/quests.txt.py:4
@@ -142049,7 +142049,7 @@ msgstr "Povýšení na kněze Slunce"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:2
 msgctxt "npcnames"
 msgid "Alemada"
-msgstr ""
+msgstr "Alemada"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:2
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:17
@@ -142060,86 +142060,86 @@ msgstr "Alton"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:2
 msgctxt "npcnames"
 msgid "Abellona"
-msgstr ""
+msgstr "Abellona"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:3
 msgctxt "npcnames"
 msgid "Amadrea"
-msgstr ""
+msgstr "Amadrea"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:3
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:18
 msgctxt "npcnames"
 msgid "Beren"
-msgstr ""
+msgstr "Beren"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:3
 msgctxt "npcnames"
 msgid "Ashburn"
-msgstr ""
+msgstr "Ashburn"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:3
 msgctxt "npcnames"
 msgid "Abigail"
-msgstr ""
+msgstr "Abigail"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:4
 msgctxt "npcnames"
 msgid "Angeama"
-msgstr ""
+msgstr "Angeama"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:4
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:19
 msgctxt "npcnames"
 msgid "Blajake"
-msgstr ""
+msgstr "Blajake"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:4
 msgctxt "npcnames"
 msgid "Aylin"
-msgstr ""
+msgstr "Aylin"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:4
 msgctxt "npcnames"
 msgid "Acacia"
-msgstr ""
+msgstr "Acacia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:5
 msgctxt "npcnames"
 msgid "Angebria"
-msgstr ""
+msgstr "Angebria"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:5
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:20
 msgctxt "npcnames"
 msgid "Blajuan"
-msgstr ""
+msgstr "Blajuan"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:5
 msgctxt "npcnames"
 msgid "Basher"
-msgstr ""
+msgstr "Basher"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:5
 msgctxt "npcnames"
 msgid "Adalgisa"
-msgstr ""
+msgstr "Adalgisa"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:6
 msgctxt "npcnames"
 msgid "Annaju"
-msgstr ""
+msgstr "Annaju"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:6
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:21
 msgctxt "npcnames"
 msgid "Brale"
-msgstr ""
+msgstr "Brale"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:6
 msgctxt "npcnames"
 msgid "Aisilinn"
-msgstr ""
+msgstr "Aisilinn"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:7
 #: mm7/DATA/10LocLANG.events/NPCNAMES.TXT.py:7
@@ -142150,60 +142150,60 @@ msgstr "Adrienne"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:7
 msgctxt "npcnames"
 msgid "Ariasti"
-msgstr ""
+msgstr "Ariasti"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:7
 msgctxt "npcnames"
 msgid "Breed"
-msgstr ""
+msgstr "Breed"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:7
 msgctxt "npcnames"
 msgid "Alethea"
-msgstr ""
+msgstr "Alethea"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:8
 msgctxt "npcnames"
 msgid "Baimaria"
-msgstr ""
+msgstr "Baimaria"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:8
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:23
 msgctxt "npcnames"
 msgid "Chaseleon"
-msgstr ""
+msgstr "Chaseleon"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:8
 msgctxt "npcnames"
 msgid "Alexandra"
-msgstr ""
+msgstr "Alexandra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:9
 msgctxt "npcnames"
 msgid "Brida"
-msgstr ""
+msgstr "Brida"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:9
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:24
 msgctxt "npcnames"
 msgid "Coreywyn"
-msgstr ""
+msgstr "Coreywyn"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:9
 msgctxt "npcnames"
 msgid "Basilia"
-msgstr ""
+msgstr "Basilia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:10
 msgctxt "npcnames"
 msgid "Brierly"
-msgstr ""
+msgstr "Brierly"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:10
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:25
 msgctxt "npcnames"
 msgid "Daale"
-msgstr ""
+msgstr "Daale"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:10
 msgctxt "npcnames"
@@ -142213,18 +142213,18 @@ msgstr "Benedict "
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:11
 msgctxt "npcnames"
 msgid "Byire"
-msgstr ""
+msgstr "Byire"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:11
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:26
 msgctxt "npcnames"
 msgid "Daet"
-msgstr ""
+msgstr "Daet"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:11
 msgctxt "npcnames"
 msgid "Cavein"
-msgstr ""
+msgstr "Cavein"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:11
 msgctxt "npcnames"
@@ -142234,187 +142234,187 @@ msgstr "Bronwyn"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:12
 msgctxt "npcnames"
 msgid "Cewe"
-msgstr ""
+msgstr "Cewe"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:12
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:27
 msgctxt "npcnames"
 msgid "Dalo"
-msgstr ""
+msgstr "Dalo"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:12
 msgctxt "npcnames"
 msgid "Carrion"
-msgstr ""
+msgstr "Carrion"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:12
 msgctxt "npcnames"
 msgid "Calandra"
-msgstr ""
+msgstr "Calandra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:13
 msgctxt "npcnames"
 msgid "Cheyelerie"
-msgstr ""
+msgstr "Cheyelerie"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:13
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:28
 msgctxt "npcnames"
 msgid "Deed"
-msgstr ""
+msgstr "Deed"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:13
 msgctxt "npcnames"
 msgid "Dunerider"
-msgstr ""
+msgstr "Dunerider"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:13
 msgctxt "npcnames"
 msgid "Callista"
-msgstr ""
+msgstr "Callista"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:14
 msgctxt "npcnames"
 msgid "Couisa"
-msgstr ""
+msgstr "Couisa"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:14
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:29
 msgctxt "npcnames"
 msgid "Gaivan"
-msgstr ""
+msgstr "Gaivan"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:14
 msgctxt "npcnames"
 msgid "Dust"
-msgstr ""
+msgstr "Dust"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:14
 msgctxt "npcnames"
 msgid "Carissa"
-msgstr ""
+msgstr "Carissa"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:15
 msgctxt "npcnames"
 msgid "Daiyve"
-msgstr ""
+msgstr "Daiyve"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:15
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:30
 msgctxt "npcnames"
 msgid "Gobra"
-msgstr ""
+msgstr "Gobra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:15
 msgctxt "npcnames"
 msgid "Elmwater"
-msgstr ""
+msgstr "Elmwater"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:15
 msgctxt "npcnames"
 msgid "Cassandraree"
-msgstr ""
+msgstr "Cassandraree"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:16
 msgctxt "npcnames"
 msgid "Darina"
-msgstr ""
+msgstr "Darina"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:16
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:31
 msgctxt "npcnames"
 msgid "Hued"
-msgstr ""
+msgstr "Hued"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:16
 msgctxt "npcnames"
 msgid "Eton"
-msgstr ""
+msgstr "Eton"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:17
 msgctxt "npcnames"
 msgid "Debrie"
-msgstr ""
+msgstr "Debrie"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:17
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:32
 msgctxt "npcnames"
 msgid "Joren"
-msgstr ""
+msgstr "Joren"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:17
 msgctxt "npcnames"
 msgid "Dalilia"
-msgstr ""
+msgstr "Dalilia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:18
 msgctxt "npcnames"
 msgid "Dialia"
-msgstr ""
+msgstr "Dialia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:18
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:33
 msgctxt "npcnames"
 msgid "Judan"
-msgstr ""
+msgstr "Judan"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:18
 msgctxt "npcnames"
 msgid "Damaris"
-msgstr ""
+msgstr "Damaris"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:19
 msgctxt "npcnames"
 msgid "Diari"
-msgstr ""
+msgstr "Diari"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:19
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:34
 msgctxt "npcnames"
 msgid "Juevan"
-msgstr ""
+msgstr "Juevan"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:19
 msgctxt "npcnames"
 msgid "Damitia"
-msgstr ""
+msgstr "Damitia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:20
 msgctxt "npcnames"
 msgid "Domade"
-msgstr ""
+msgstr "Domade"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:20
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:35
 msgctxt "npcnames"
 msgid "Juphi"
-msgstr ""
+msgstr "Juphi"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:20
 msgctxt "npcnames"
 msgid "Danelis"
-msgstr ""
+msgstr "Danelis"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:21
 msgctxt "npcnames"
 msgid "Donie"
-msgstr ""
+msgstr "Donie"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:21
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:36
 msgctxt "npcnames"
 msgid "Kegar"
-msgstr ""
+msgstr "Kegar"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:21
 msgctxt "npcnames"
 msgid "Delphine"
-msgstr ""
+msgstr "Delphine"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:22
 msgctxt "npcnames"
 msgid "Dseyria"
-msgstr ""
+msgstr "Dseyria"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:22
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:37
@@ -142425,370 +142425,370 @@ msgstr "Kessel"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:22
 msgctxt "npcnames"
 msgid "Demetria"
-msgstr ""
+msgstr "Demetria"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:23
 msgctxt "npcnames"
 msgid "Fiosama"
-msgstr ""
+msgstr "Fiosama"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:23
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:38
 msgctxt "npcnames"
 msgid "Kosto"
-msgstr ""
+msgstr "Kosto"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:23
 msgctxt "npcnames"
 msgid "Deolinda"
-msgstr ""
+msgstr "Deolinda"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:24
 msgctxt "npcnames"
 msgid "Flonah"
-msgstr ""
+msgstr "Flonah"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:24
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:39
 msgctxt "npcnames"
 msgid "Loric"
-msgstr ""
+msgstr "Loric"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:24
 msgctxt "npcnames"
 msgid "Dextra"
-msgstr ""
+msgstr "Dextra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:25
 msgctxt "npcnames"
 msgid "Fralie"
-msgstr ""
+msgstr "Fralie"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:25
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:40
 msgctxt "npcnames"
 msgid "Maje"
-msgstr ""
+msgstr "Maje"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:25
 msgctxt "npcnames"
 msgid "Dimona"
-msgstr ""
+msgstr "Dimona"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:26
 msgctxt "npcnames"
 msgid "Ganah"
-msgstr ""
+msgstr "Ganah"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:26
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:41
 msgctxt "npcnames"
 msgid "Maul"
-msgstr ""
+msgstr "Maul"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:26
 msgctxt "npcnames"
 msgid "Dylanna"
-msgstr ""
+msgstr "Dylanna"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:27
 msgctxt "npcnames"
 msgid "Gemah"
-msgstr ""
+msgstr "Gemah"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:27
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:42
 msgctxt "npcnames"
 msgid "Moven"
-msgstr ""
+msgstr "Moven"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:27
 msgctxt "npcnames"
 msgid "Ebony"
-msgstr ""
+msgstr "Ebony"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:28
 msgctxt "npcnames"
 msgid "Geme"
-msgstr ""
+msgstr "Geme"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:28
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:43
 msgctxt "npcnames"
 msgid "Mylix"
-msgstr ""
+msgstr "Mylix"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:28
 msgctxt "npcnames"
 msgid "Edelmira"
-msgstr ""
+msgstr "Edelmira"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:29
 msgctxt "npcnames"
 msgid "Haleyther"
-msgstr ""
+msgstr "Haleyther"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:29
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:44
 msgctxt "npcnames"
 msgid "Nahen"
-msgstr ""
+msgstr "Nahen"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:29
 msgctxt "npcnames"
 msgid "Egelinna"
-msgstr ""
+msgstr "Egelinna"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:30
 msgctxt "npcnames"
 msgid "Hana"
-msgstr ""
+msgstr "Hana"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:30
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:45
 msgctxt "npcnames"
 msgid "Navin"
-msgstr ""
+msgstr "Navin"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:30
 msgctxt "npcnames"
 msgid "Electra"
-msgstr ""
+msgstr "Electra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:31
 msgctxt "npcnames"
 msgid "Hara"
-msgstr ""
+msgstr "Hara"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:31
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:46
 msgctxt "npcnames"
 msgid "Nelix"
-msgstr ""
+msgstr "Nelix"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:31
 msgctxt "npcnames"
 msgid "Emeline"
-msgstr ""
+msgstr "Emeline"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:32
 msgctxt "npcnames"
 msgid "Irelerie"
-msgstr ""
+msgstr "Irelerie"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:32
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:47
 msgctxt "npcnames"
 msgid "Nichoisaiah"
-msgstr ""
+msgstr "Nichoisaiah"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:32
 msgctxt "npcnames"
 msgid "Eudocia"
-msgstr ""
+msgstr "Eudocia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:33
 msgctxt "npcnames"
 msgid "Irewa"
-msgstr ""
+msgstr "Irewa"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:33
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:48
 msgctxt "npcnames"
 msgid "Pago"
-msgstr ""
+msgstr "Pago"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:34
 msgctxt "npcnames"
 msgid "Isaeli"
-msgstr ""
+msgstr "Isaeli"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:34
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:49
 msgctxt "npcnames"
 msgid "Rahu"
-msgstr ""
+msgstr "Rahu"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:34
 msgctxt "npcnames"
 msgid "Fiammetta"
-msgstr ""
+msgstr "Fiammetta"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:35
 msgctxt "npcnames"
 msgid "Isafe"
-msgstr ""
+msgstr "Isafe"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:35
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:50
 msgctxt "npcnames"
 msgid "Rilix"
-msgstr ""
+msgstr "Rilix"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:35
 msgctxt "npcnames"
 msgid "Forsythia"
-msgstr ""
+msgstr "Forsythia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:36
 msgctxt "npcnames"
 msgid "Jaerin"
-msgstr ""
+msgstr "Jaerin"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:36
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:51
 msgctxt "npcnames"
 msgid "Stogan"
-msgstr ""
+msgstr "Stogan"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:36
 msgctxt "npcnames"
 msgid "Freya"
-msgstr ""
+msgstr "Freya"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:37
 msgctxt "npcnames"
 msgid "Javane"
-msgstr ""
+msgstr "Javane"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:37
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:52
 msgctxt "npcnames"
 msgid "Stoken"
-msgstr ""
+msgstr "Stoken"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:37
 msgctxt "npcnames"
 msgid "Gelsominia"
-msgstr ""
+msgstr "Gelsominia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:38
 msgctxt "npcnames"
 msgid "Jeisa"
-msgstr ""
+msgstr "Jeisa"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:38
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:53
 msgctxt "npcnames"
 msgid "Tadal"
-msgstr ""
+msgstr "Tadal"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:38
 msgctxt "npcnames"
 msgid "Gillian"
-msgstr ""
+msgstr "Gillian"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:39
 msgctxt "npcnames"
 msgid "Jeuna"
-msgstr ""
+msgstr "Jeuna"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:39
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:54
 msgctxt "npcnames"
 msgid "Tajos"
-msgstr ""
+msgstr "Tajos"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:39
 msgctxt "npcnames"
 msgid "Glynis"
-msgstr ""
+msgstr "Glynis"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:40
 msgctxt "npcnames"
 msgid "Jotha"
-msgstr ""
+msgstr "Jotha"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:40
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:55
 msgctxt "npcnames"
 msgid "Tanat"
-msgstr ""
+msgstr "Tanat"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:40
 msgctxt "npcnames"
 msgid "Gwenda"
-msgstr ""
+msgstr "Gwenda"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:41
 msgctxt "npcnames"
 msgid "Kade"
-msgstr ""
+msgstr "Kade"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:41
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:56
 msgctxt "npcnames"
 msgid "Tayrod"
-msgstr ""
+msgstr "Tayrod"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:41
 msgctxt "npcnames"
 msgid "Hannah"
-msgstr ""
+msgstr "Hannah"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:42
 msgctxt "npcnames"
 msgid "Kariad"
-msgstr ""
+msgstr "Kariad"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:42
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:57
 msgctxt "npcnames"
 msgid "Thrax"
-msgstr ""
+msgstr "Thrax"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:43
 msgctxt "npcnames"
 msgid "Kariti"
-msgstr ""
+msgstr "Kariti"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:43
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:58
 msgctxt "npcnames"
 msgid "Triian"
-msgstr ""
+msgstr "Triian"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:43
 msgctxt "npcnames"
 msgid "Heladia"
-msgstr ""
+msgstr "Heladia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:44
 msgctxt "npcnames"
 msgid "Kearia"
-msgstr ""
+msgstr "Kearia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:44
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:59
 msgctxt "npcnames"
 msgid "Trimark"
-msgstr ""
+msgstr "Trimark"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:44
 msgctxt "npcnames"
 msgid "Hibernia"
-msgstr ""
+msgstr "Hibernia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:45
 msgctxt "npcnames"
 msgid "Kieri"
-msgstr ""
+msgstr "Kieri"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:45
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:60
 msgctxt "npcnames"
 msgid "Vaune"
-msgstr ""
+msgstr "Vaune"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:45
 msgctxt "npcnames"
 msgid "Hildereth"
-msgstr ""
+msgstr "Hildereth"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:46
 msgctxt "npcnames"
 msgid "Kira"
-msgstr ""
+msgstr "Kira"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:46
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:61
@@ -142799,12 +142799,12 @@ msgstr "Vernon"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:46
 msgctxt "npcnames"
 msgid "Idona"
-msgstr ""
+msgstr "Idona"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:47
 msgctxt "npcnames"
 msgid "Kiir"
-msgstr ""
+msgstr "Kiir"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:47
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:62
@@ -142815,60 +142815,60 @@ msgstr "Walter"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:47
 msgctxt "npcnames"
 msgid "Imelda"
-msgstr ""
+msgstr "Imelda"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:48
 msgctxt "npcnames"
 msgid "Kile"
-msgstr ""
+msgstr "Kile"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:48
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:63
 msgctxt "npcnames"
 msgid "Waluke"
-msgstr ""
+msgstr "Waluke"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:48
 msgctxt "npcnames"
 msgid "Inocencia"
-msgstr ""
+msgstr "Inocencia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:49
 msgctxt "npcnames"
 msgid "Krira"
-msgstr ""
+msgstr "Krira"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:49
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:64
 msgctxt "npcnames"
 msgid "Wanic"
-msgstr ""
+msgstr "Wanic"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:49
 msgctxt "npcnames"
 msgid "Isadora"
-msgstr ""
+msgstr "Isadora"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:50
 msgctxt "npcnames"
 msgid "Laueli"
-msgstr ""
+msgstr "Laueli"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:50
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:65
 msgctxt "npcnames"
 msgid "Zaje"
-msgstr ""
+msgstr "Zaje"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:50
 msgctxt "npcnames"
 msgid "Ivy"
-msgstr ""
+msgstr "Ivy"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:51
 msgctxt "npcnames"
 msgid "Lauuna"
-msgstr ""
+msgstr "Lauuna"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:51
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:66
@@ -142882,22 +142882,22 @@ msgstr ""
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:51
 msgctxt "npcnames"
 msgid "Jacobina"
-msgstr ""
+msgstr "Jacobina"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:52
 msgctxt "npcnames"
 msgid "Leriedan"
-msgstr ""
+msgstr "Leriedan"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:52
 msgctxt "npcnames"
 msgid "Jacquline"
-msgstr ""
+msgstr "Jacquline"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:53
 msgctxt "npcnames"
 msgid "Lewe"
-msgstr ""
+msgstr "Lewe"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:53
 msgctxt "npcnames"
@@ -142907,22 +142907,22 @@ msgstr "Nefrit"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:54
 msgctxt "npcnames"
 msgid "Liabra"
-msgstr ""
+msgstr "Liabra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:55
 msgctxt "npcnames"
 msgid "Lyra"
-msgstr ""
+msgstr "Lyra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:55
 msgctxt "npcnames"
 msgid "Jennilee"
-msgstr ""
+msgstr "Jennilee"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:56
 msgctxt "npcnames"
 msgid "Maaly"
-msgstr ""
+msgstr "Maaly"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:56
 msgctxt "npcnames"
@@ -142932,12 +142932,12 @@ msgstr "Spravedlnost"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:57
 msgctxt "npcnames"
 msgid "Mariline"
-msgstr ""
+msgstr "Mariline"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:57
 msgctxt "npcnames"
 msgid "Kaitlin"
-msgstr ""
+msgstr "Kaitlin"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:58
 msgctxt "npcnames"
@@ -142947,182 +142947,182 @@ msgstr "Marnie"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:58
 msgctxt "npcnames"
 msgid "Kassandra"
-msgstr ""
+msgstr "Kassandra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:59
 msgctxt "npcnames"
 msgid "Maryli"
-msgstr ""
+msgstr "Maryli"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:59
 msgctxt "npcnames"
 msgid "Kayley"
-msgstr ""
+msgstr "Kayley"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:60
 msgctxt "npcnames"
 msgid "Mina"
-msgstr ""
+msgstr "Mina"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:60
 msgctxt "npcnames"
 msgid "Kezia"
-msgstr ""
+msgstr "Kezia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:61
 msgctxt "npcnames"
 msgid "Miraan"
-msgstr ""
+msgstr "Miraan"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:61
 msgctxt "npcnames"
 msgid "Kynthia"
-msgstr ""
+msgstr "Kynthia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:62
 msgctxt "npcnames"
 msgid "Nicoire"
-msgstr ""
+msgstr "Nicoire"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:62
 msgctxt "npcnames"
 msgid "Lainey"
-msgstr ""
+msgstr "Lainey"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:63
 msgctxt "npcnames"
 msgid "Nicosi"
-msgstr ""
+msgstr "Nicosi"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:63
 msgctxt "npcnames"
 msgid "Lakeshia"
-msgstr ""
+msgstr "Lakeshia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:64
 msgctxt "npcnames"
 msgid "Niqueale"
-msgstr ""
+msgstr "Niqueale"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:64
 msgctxt "npcnames"
 msgid "Latanya"
-msgstr ""
+msgstr "Latanya"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:65
 msgctxt "npcnames"
 msgid "Norene"
-msgstr ""
+msgstr "Norene"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:65
 msgctxt "npcnames"
 msgid "Liana"
-msgstr ""
+msgstr "Liana"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:66
 msgctxt "npcnames"
 msgid "Odethe"
-msgstr ""
+msgstr "Odethe"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:66
 msgctxt "npcnames"
 msgid "Lilith"
-msgstr ""
+msgstr "Lilith"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:67
 msgctxt "npcnames"
 msgid "Odeva"
-msgstr ""
+msgstr "Odeva"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:67
 msgctxt "npcnames"
 msgid "Lorelie"
-msgstr ""
+msgstr "Lorelie"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:68
 msgctxt "npcnames"
 msgid "Pherebe"
-msgstr ""
+msgstr "Pherebe"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:68
 msgctxt "npcnames"
 msgid "Lysandra"
-msgstr ""
+msgstr "Lysandra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:69
 msgctxt "npcnames"
 msgid "Rama"
-msgstr ""
+msgstr "Rama"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:69
 msgctxt "npcnames"
 msgid "Maggie"
-msgstr ""
+msgstr "Maggie"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:70
 msgctxt "npcnames"
 msgid "Rare"
-msgstr ""
+msgstr "Rare"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:70
 msgctxt "npcnames"
 msgid "Mallcora"
-msgstr ""
+msgstr "Mallcora"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:71
 msgctxt "npcnames"
 msgid "Ratha"
-msgstr ""
+msgstr "Ratha"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:71
 msgctxt "npcnames"
 msgid "Mercedes"
-msgstr ""
+msgstr "Mercedes"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:72
 msgctxt "npcnames"
 msgid "Redrea"
-msgstr ""
+msgstr "Redrea"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:72
 msgctxt "npcnames"
 msgid "Nedra"
-msgstr ""
+msgstr "Nedra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:73
 msgctxt "npcnames"
 msgid "Riakari"
-msgstr ""
+msgstr "Riakari"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:73
 msgctxt "npcnames"
 msgid "Nerys"
-msgstr ""
+msgstr "Nerys"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:74
 msgctxt "npcnames"
 msgid "Riara"
-msgstr ""
+msgstr "Riara"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:74
 msgctxt "npcnames"
 msgid "Nilsine"
-msgstr ""
+msgstr "Nilsine"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:75
 msgctxt "npcnames"
 msgid "Rierina"
-msgstr ""
+msgstr "Rierina"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:75
 msgctxt "npcnames"
 msgid "Odelia"
-msgstr ""
+msgstr "Odelia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:76
 msgctxt "npcnames"
 msgid "Rija"
-msgstr ""
+msgstr "Rija"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:76
 msgctxt "npcnames"
@@ -143132,92 +143132,92 @@ msgstr "Olesia"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:77
 msgctxt "npcnames"
 msgid "Ronimira"
-msgstr ""
+msgstr "Ronimira"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:77
 msgctxt "npcnames"
 msgid "Ophira"
-msgstr ""
+msgstr "Ophira"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:78
 msgctxt "npcnames"
 msgid "Rore"
-msgstr ""
+msgstr "Rore"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:78
 msgctxt "npcnames"
 msgid "Pacifica"
-msgstr ""
+msgstr "Pacifica"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:79
 msgctxt "npcnames"
 msgid "Rulilian"
-msgstr ""
+msgstr "Rulilian"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:79
 msgctxt "npcnames"
 msgid "Pandora"
-msgstr ""
+msgstr "Pandora"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:80
 msgctxt "npcnames"
 msgid "Saemi"
-msgstr ""
+msgstr "Saemi"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:80
 msgctxt "npcnames"
 msgid "Parthenia"
-msgstr ""
+msgstr "Parthenia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:81
 msgctxt "npcnames"
 msgid "Sanina"
-msgstr ""
+msgstr "Sanina"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:81
 msgctxt "npcnames"
 msgid "Payne"
-msgstr ""
+msgstr "Payne"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:82
 msgctxt "npcnames"
 msgid "Savale"
-msgstr ""
+msgstr "Savale"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:82
 msgctxt "npcnames"
 msgid "Perfecta"
-msgstr ""
+msgstr "Perfecta"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:83
 msgctxt "npcnames"
 msgid "Savasarah"
-msgstr ""
+msgstr "Savasarah"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:83
 msgctxt "npcnames"
 msgid "Quirina"
-msgstr ""
+msgstr "Quirina"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:84
 msgctxt "npcnames"
 msgid "Shene"
-msgstr ""
+msgstr "Shene"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:85
 msgctxt "npcnames"
 msgid "Siealy"
-msgstr ""
+msgstr "Siealy"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:85
 msgctxt "npcnames"
 msgid "Raign"
-msgstr ""
+msgstr "Raign"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:86
 msgctxt "npcnames"
 msgid "Sieemi"
-msgstr ""
+msgstr "Sieemi"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:86
 msgctxt "npcnames"
@@ -143227,7 +143227,7 @@ msgstr "Havran"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:87
 msgctxt "npcnames"
 msgid "Sija"
-msgstr ""
+msgstr "Sija"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:87
 msgctxt "npcnames"
@@ -143237,37 +143237,37 @@ msgstr "Vrána"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:88
 msgctxt "npcnames"
 msgid "Suju"
-msgstr ""
+msgstr "Suju"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:89
 msgctxt "npcnames"
 msgid "Sumanu"
-msgstr ""
+msgstr "Sumanu"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:89
 msgctxt "npcnames"
 msgid "Ruthina"
-msgstr ""
+msgstr "Ruthina"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:90
 msgctxt "npcnames"
 msgid "Syfe"
-msgstr ""
+msgstr "Syfe"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:91
 msgctxt "npcnames"
 msgid "Syke"
-msgstr ""
+msgstr "Syke"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:91
 msgctxt "npcnames"
 msgid "Sammantha"
-msgstr ""
+msgstr "Sammantha"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:92
 msgctxt "npcnames"
 msgid "Tayfra"
-msgstr ""
+msgstr "Tayfra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:92
 msgctxt "npcnames"
@@ -143277,62 +143277,62 @@ msgstr "Safír"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:93
 msgctxt "npcnames"
 msgid "Thaaly"
-msgstr ""
+msgstr "Thaaly"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:93
 msgctxt "npcnames"
 msgid "Scarlet"
-msgstr ""
+msgstr "Scarlet"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:94
 msgctxt "npcnames"
 msgid "Thade"
-msgstr ""
+msgstr "Thade"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:94
 msgctxt "npcnames"
 msgid "Selby"
-msgstr ""
+msgstr "Selby"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:95
 msgctxt "npcnames"
 msgid "Uname"
-msgstr ""
+msgstr "Uname"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:95
 msgctxt "npcnames"
 msgid "Sophia"
-msgstr ""
+msgstr "Sophia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:96
 msgctxt "npcnames"
 msgid "Viaas"
-msgstr ""
+msgstr "Viaas"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:96
 msgctxt "npcnames"
 msgid "Tabitha"
-msgstr ""
+msgstr "Tabitha"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:97
 msgctxt "npcnames"
 msgid "Viain"
-msgstr ""
+msgstr "Viain"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:98
 msgctxt "npcnames"
 msgid "Viarene"
-msgstr ""
+msgstr "Viarene"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:98
 msgctxt "npcnames"
 msgid "Tanisha"
-msgstr ""
+msgstr "Tanisha"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:99
 msgctxt "npcnames"
 msgid "Wela"
-msgstr ""
+msgstr "Wela"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:99
 msgctxt "npcnames"
@@ -143342,17 +143342,17 @@ msgstr "Vichr"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:100
 msgctxt "npcnames"
 msgid "Xafra"
-msgstr ""
+msgstr "Xafra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:100
 msgctxt "npcnames"
 msgid "Tivian"
-msgstr ""
+msgstr "Tivian"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:101
 msgctxt "npcnames"
 msgid "Xasi"
-msgstr ""
+msgstr "Xasi"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:101
 msgctxt "npcnames"
@@ -143362,77 +143362,77 @@ msgstr "Topaz"
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:102
 msgctxt "npcnames"
 msgid "Yvedsey"
-msgstr ""
+msgstr "Yvedsey"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:102
 msgctxt "npcnames"
 msgid "Ulminia"
-msgstr ""
+msgstr "Ulminia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:103
 msgctxt "npcnames"
 msgid "Yveral"
-msgstr ""
+msgstr "Yveral"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:103
 msgctxt "npcnames"
 msgid "Ultima"
-msgstr ""
+msgstr "Ultima"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:104
 msgctxt "npcnames"
 msgid "Yvomine"
-msgstr ""
+msgstr "Yvomine"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:104
 msgctxt "npcnames"
 msgid "Ursula"
-msgstr ""
+msgstr "Ursula"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:105
 msgctxt "npcnames"
 msgid "Yvoire"
-msgstr ""
+msgstr "Yvoire"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:105
 msgctxt "npcnames"
 msgid "Valentia"
-msgstr ""
+msgstr "Valentia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:106
 msgctxt "npcnames"
 msgid "Yvovia"
-msgstr ""
+msgstr "Yvovia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:107
 msgctxt "npcnames"
 msgid "Zoele"
-msgstr ""
+msgstr "Zoele"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:109
 msgctxt "npcnames"
 msgid "Weslia"
-msgstr ""
+msgstr "Weslia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:110
 msgctxt "npcnames"
 msgid "Winona"
-msgstr ""
+msgstr "Winona"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:111
 msgctxt "npcnames"
 msgid "Wysandra"
-msgstr ""
+msgstr "Wysandra"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:112
 msgctxt "npcnames"
 msgid "Xylia"
-msgstr ""
+msgstr "Xylia"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:113
 msgctxt "npcnames"
 msgid "Yessica"
-msgstr ""
+msgstr "Yessica"
 
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:114
 msgctxt "npcnames"

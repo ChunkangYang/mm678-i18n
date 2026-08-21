@@ -31422,7 +31422,7 @@ msgstr "Meisterzauberer"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:2
 msgctxt "items"
 msgid "Iron Longsword"
-msgstr ""
+msgstr "Eisernes Langschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:2 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:3 mmmerge/Data/Text
@@ -31540,7 +31540,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:7
 msgctxt "items"
 msgid "Iron Two-Handed Sword"
-msgstr ""
+msgstr "Eisernes Zweihandschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:7 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:8 mmmerge/Data/Text
@@ -32924,7 +32924,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:67
 msgctxt "items"
 msgid "Sturdy Mace"
-msgstr ""
+msgstr "Robuster Streitkolben"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:67 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:69 mmmerge/Data/Text
@@ -34084,7 +34084,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:115
 msgctxt "items"
 msgid "Citizen Hat"
-msgstr ""
+msgstr "Bürgerhut"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:115 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:116 mmmerge/Data/Text
@@ -34155,7 +34155,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:118
 msgctxt "items"
 msgid "Studded Leather Belt"
-msgstr ""
+msgstr "Beschlagener Ledergürtel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:118 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:119 mmmerge/Data/Text
@@ -35342,7 +35342,7 @@ msgstr "Schlangenzauberstab der Lähmung"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:172
 msgctxt "items"
 msgid "Serpent Wand of Clouds"
-msgstr ""
+msgstr "Schlangenzauberstab der Wolken"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:173
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:175
@@ -39636,7 +39636,7 @@ msgstr "Elsenrail"
 #: localization/LANG_ItemsTxt.txt.py:502
 msgctxt "items"
 msgid "Artifact Longsword"
-msgstr ""
+msgstr "Artefakt-Langschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:501
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:503
@@ -39683,7 +39683,7 @@ msgstr "Terminus"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:503
 msgctxt "items"
 msgid "Artifact Broadsword"
-msgstr ""
+msgstr "Artefakt-Breitschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:503
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:505
@@ -39709,7 +39709,7 @@ msgstr "Weises Maß"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:504
 msgctxt "items"
 msgid "Artifact Cutlass"
-msgstr ""
+msgstr "Artefakt-Krummsäbel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:504
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:506
@@ -39734,7 +39734,7 @@ msgstr "Axt des Ältesten"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:505
 msgctxt "items"
 msgid "Artifact Axe"
-msgstr ""
+msgstr "Artefakt-Axt"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:505
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:507
@@ -39758,7 +39758,7 @@ msgstr "Vulkan"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:506
 msgctxt "items"
 msgid "Artifact Two-Handed Axe"
-msgstr ""
+msgstr "Artefakt-Zweihandaxt"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:506
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:508
@@ -39788,7 +39788,7 @@ msgstr "Lindwurmspeier"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:507
 msgctxt "items"
 msgid "Artifact Spear"
-msgstr ""
+msgstr "Artefakt-Speer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:507
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:509
@@ -39816,7 +39816,7 @@ msgstr "Wächter"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:508
 msgctxt "items"
 msgid "Artifact Halberd"
-msgstr ""
+msgstr "Artefakt-Hellebarde"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:508
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:510
@@ -39846,7 +39846,7 @@ msgstr "Fäulniszahn"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:509
 msgctxt "items"
 msgid "Artifact Long Dagger"
-msgstr ""
+msgstr "Artefakt-Langdolch"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:509
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:511
@@ -39873,7 +39873,7 @@ msgstr "Zepter der Könige"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:510
 msgctxt "items"
 msgid "Artifact Mace"
-msgstr ""
+msgstr "Artefakt-Streitkolben"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:510
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:512
@@ -39902,7 +39902,7 @@ msgstr "Brecher"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:511
 msgctxt "items"
 msgid "Artifact Club"
-msgstr ""
+msgstr "Artefakt-Keule"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:511
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:513
@@ -39929,7 +39929,7 @@ msgstr "Stab des Sumpfes"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:512
 msgctxt "items"
 msgid "Artifact Staff"
-msgstr ""
+msgstr "Artefakt-Stab"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:512
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:514
@@ -39955,7 +39955,7 @@ msgstr "Weitsucher"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:513
 msgctxt "items"
 msgid "Artifact Bow"
-msgstr ""
+msgstr "Artefakt-Bogen"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:513
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:515
@@ -39982,7 +39982,7 @@ msgstr "Serendines Bewahrung"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:514
 msgctxt "items"
 msgid "Artifact Leather Armor"
-msgstr ""
+msgstr "Artefakt-Lederrüstung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:514
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:516
@@ -40006,7 +40006,7 @@ msgstr "Glomenpanzer"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:515
 msgctxt "items"
 msgid "Artifact Chainmail"
-msgstr ""
+msgstr "Artefakt-Kettenpanzer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:515
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:517
@@ -40032,7 +40032,7 @@ msgstr "Überragende Plattenrüstung"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:516
 msgctxt "items"
 msgid "Artifact Plate Armor"
-msgstr ""
+msgstr "Artefakt-Plattenrüstung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:516
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:518
@@ -40058,7 +40058,7 @@ msgstr "Finsternis"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:517
 msgctxt "items"
 msgid "Artifact Large Shield"
-msgstr ""
+msgstr "Großer Artefakt-Schild"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:517
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:519
@@ -40088,7 +40088,7 @@ msgstr "Flinkfinger"
 #: localization/LANG_ItemsTxt.txt.py:1337
 msgctxt "items"
 msgid "Artifact Gauntlets"
-msgstr ""
+msgstr "Artefakt-Panzerhandschuhe"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:518
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:520
@@ -40114,7 +40114,7 @@ msgstr "Stiefel des Herolds"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:519
 msgctxt "items"
 msgid "Artifact Boots"
-msgstr ""
+msgstr "Artefakt-Stiefel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:519
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:521
@@ -40141,7 +40141,7 @@ msgstr "Ring der Ebenen"
 #: localization/LANG_ItemsTxt.txt.py:1339
 msgctxt "items"
 msgid "Artifact Ring"
-msgstr ""
+msgstr "Artefakt-Ring"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:520
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:522
@@ -40168,7 +40168,7 @@ msgstr "Droggs Helm"
 #: localization/LANG_ItemsTxt.txt.py:1335
 msgctxt "items"
 msgid "Artifact Helm"
-msgstr ""
+msgstr "Artefakt-Helm"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:521
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:523
@@ -40197,7 +40197,7 @@ msgstr "Krone der letzten Herrschaft"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:522
 msgctxt "items"
 msgid "Artifact Crown"
-msgstr ""
+msgstr "Artefakt-Krone"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:522
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:524
@@ -40226,7 +40226,7 @@ msgstr "Erzengelsflügel"
 #: localization/LANG_ItemsTxt.txt.py:1333
 msgctxt "items"
 msgid "Artifact Cloak"
-msgstr ""
+msgstr "Artefakt-Umhang"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:523
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:525
@@ -40254,7 +40254,7 @@ msgstr "Schlange"
 #: localization/LANG_ItemsTxt.txt.py:525
 msgctxt "items"
 msgid "Relic Longsword"
-msgstr ""
+msgstr "Relikt-Langschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:524
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:526
@@ -40301,7 +40301,7 @@ msgstr "Endgültigkeit"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:526
 msgctxt "items"
 msgid "Relic Two-Handed Sword"
-msgstr ""
+msgstr "Relikt-Zweihandschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:526
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:528
@@ -40329,7 +40329,7 @@ msgstr "Höllenspalter"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:527
 msgctxt "items"
 msgid "Relic Axe"
-msgstr ""
+msgstr "Relikt-Axt"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:527
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:529
@@ -40354,7 +40354,7 @@ msgstr "Geistertöter"
 #: localization/LANG_ItemsTxt.txt.py:529
 msgctxt "items"
 msgid "Relic Spear"
-msgstr ""
+msgstr "Relikt-Speer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:528
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:530
@@ -40403,7 +40403,7 @@ msgstr "Klinge der Barmherzigkeit"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:530
 msgctxt "items"
 msgid "Relic Dagger"
-msgstr ""
+msgstr "Relikt-Dolch"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:530
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:532
@@ -40431,7 +40431,7 @@ msgstr "Stab der Elemente"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:531
 msgctxt "items"
 msgid "Relic Staff"
-msgstr ""
+msgstr "Relikt-Stab"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:531
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:533
@@ -40458,7 +40458,7 @@ msgstr "Turnierbogen"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:532
 msgctxt "items"
 msgid "Relic Bow"
-msgstr ""
+msgstr "Relikt-Bogen"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:532
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:534
@@ -40486,7 +40486,7 @@ msgstr "Blitzarmbrust"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:533
 msgctxt "items"
 msgid "Relic Crossbow"
-msgstr ""
+msgstr "Relikt-Armbrust"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:533
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:535
@@ -40514,7 +40514,7 @@ msgstr "Brustharnisch der letzten Stufe"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:534
 msgctxt "items"
 msgid "Relic Leather Armor"
-msgstr ""
+msgstr "Relikt-Lederrüstung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:534
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:536
@@ -40541,7 +40541,7 @@ msgstr "Herondales verlorener Schild"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:535
 msgctxt "items"
 msgid "Relic Small Shield"
-msgstr ""
+msgstr "Kleiner Relikt-Schild"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:535
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:537
@@ -40567,7 +40567,7 @@ msgstr "Ring der Verschmelzung"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:536
 msgctxt "items"
 msgid "Relic Ring"
-msgstr ""
+msgstr "Relikt-Ring"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:536
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:538
@@ -40593,7 +40593,7 @@ msgstr "Glückshut"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:537
 msgctxt "items"
 msgid "Relic Hat"
-msgstr ""
+msgstr "Relikt-Hut"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:537
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:539
@@ -40615,7 +40615,7 @@ msgstr "Berserkergürtel"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:538
 msgctxt "items"
 msgid "Relic Belt"
-msgstr ""
+msgstr "Relikt-Gürtel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:538
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:540
@@ -40643,7 +40643,7 @@ msgstr "Streitkolben der Sonne"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:539
 msgctxt "items"
 msgid "Special Mace"
-msgstr ""
+msgstr "Spezial-Streitkolben"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:539
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:541
@@ -40665,7 +40665,7 @@ msgstr "Ebonest"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:540
 msgctxt "items"
 msgid "Special Spear"
-msgstr ""
+msgstr "Spezial-Speer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:540
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:542
@@ -40689,7 +40689,7 @@ msgstr "Schwert von Whistlebone"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:541
 msgctxt "items"
 msgid "Special Two-Handed Sword"
-msgstr ""
+msgstr "Spezial-Zweihandschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:541
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:543
@@ -40713,7 +40713,7 @@ msgstr "Balthazars Axt"
 #: localization/LANG_ItemsTxt.txt.py:1352
 msgctxt "items"
 msgid "Special Two-Handed Axe"
-msgstr ""
+msgstr "Spezial-Zweihandaxt"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:542
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:544
@@ -40743,7 +40743,7 @@ msgstr "Edelknochenbogen"
 #: localization/LANG_ItemsTxt.txt.py:1346
 msgctxt "items"
 msgid "Special Bow"
-msgstr ""
+msgstr "Spezial-Bogen"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:543
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:545
@@ -40768,7 +40768,7 @@ msgstr "Kreislauf des Lebens"
 #: localization/LANG_ItemsTxt.txt.py:1349
 msgctxt "items"
 msgid "Special Ring"
-msgstr ""
+msgstr "Spezial-Ring"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:544
 msgctxt "items"
@@ -40831,7 +40831,7 @@ msgstr "Nachtschatten-Feuerschale"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:607
 msgctxt "items"
 msgid "Brazier"
-msgstr ""
+msgstr "Feuerschale"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:605
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:607
@@ -42130,7 +42130,7 @@ msgstr "Magisch durchwirkter Metallstab"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:664
 msgctxt "items"
 msgid "Metal Rod"
-msgstr ""
+msgstr "Metallstab"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:664
 msgctxt "items"
@@ -42145,7 +42145,7 @@ msgstr "Großer runder Kristall"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:665
 msgctxt "items"
 msgid "Round crystal"
-msgstr ""
+msgstr "Runder Kristall"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:665
 msgctxt "items"
@@ -43154,7 +43154,7 @@ msgstr "Schnitzeljagd."
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:775
 msgctxt "items"
 msgid "Advertisment"
-msgstr ""
+msgstr "Anzeige"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:801
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:803
@@ -43349,7 +43349,7 @@ msgstr "Ein erathianisches Stahl - Breitschwert bester Qualität und Schärfe."
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:814
 msgctxt "items"
 msgid "Master Broadsword"
-msgstr ""
+msgstr "Meisterbreitschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:814
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:13
@@ -43396,7 +43396,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:817
 msgctxt "items"
 msgid "Exquisite Cutlass"
-msgstr ""
+msgstr "Erlesener Krummsäbel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:817
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:16
@@ -43414,7 +43414,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:818
 msgctxt "items"
 msgid "Improvised Dagger"
-msgstr ""
+msgstr "Improvisierter Dolch"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:818
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:17
@@ -43478,7 +43478,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:822
 msgctxt "items"
 msgid "Wonder Dagger"
-msgstr ""
+msgstr "Wunderdolch"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:822
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:21
@@ -43493,7 +43493,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:823
 msgctxt "items"
 msgid "Shoddy Long Dagger"
-msgstr ""
+msgstr "Schäbiger Langdolch"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:823
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:22
@@ -44119,7 +44119,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:858
 msgctxt "items"
 msgid "Makeshift Hammer"
-msgstr ""
+msgstr "Behelfshammer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:858
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:57
@@ -44134,7 +44134,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:859
 msgctxt "items"
 msgid "Battle Hammer"
-msgstr ""
+msgstr "Streithammer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:859
 msgctxt "items"
@@ -44167,7 +44167,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:861
 msgctxt "items"
 msgid "Primitive Club"
-msgstr ""
+msgstr "Primitive Keule"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:861
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:60
@@ -44182,7 +44182,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:862
 msgctxt "items"
 msgid "Thorned Club"
-msgstr ""
+msgstr "Dornenkeule"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:862
 msgctxt "items"
@@ -44367,7 +44367,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:872
 msgctxt "items"
 msgid "Light Dragon Leather"
-msgstr ""
+msgstr "Leichtes Drachenleder"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:872
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:71
@@ -44674,7 +44674,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:887
 msgctxt "items"
 msgid "Crude Buckler"
-msgstr ""
+msgstr "Primitiver Faustschild"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:887
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:86
@@ -44805,7 +44805,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:894
 msgctxt "items"
 msgid "Elven Helm"
-msgstr ""
+msgstr "Elfenhelm"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:894
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:93
@@ -44950,7 +44950,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:902
 msgctxt "items"
 msgid "Royal Crown"
-msgstr ""
+msgstr "Königliche Krone"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:902
 msgctxt "items"
@@ -45045,7 +45045,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:908
 msgctxt "items"
 msgid "Fine Leather Cloak"
-msgstr ""
+msgstr "Feiner Lederumhang"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:908
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:107
@@ -45120,7 +45120,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:913
 msgctxt "items"
 msgid "Pinched Gauntlets"
-msgstr ""
+msgstr "Zwickende Panzerhandschuhe"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:913
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:112
@@ -45680,7 +45680,7 @@ msgstr "Einhorn-Zauberstab der Bezauberungen"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:953
 msgctxt "items"
 msgid "Warlock's Wand of Blasting"
-msgstr ""
+msgstr "Hexenmeister-Zauberstab der Sprengung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:953 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:954 mmmerge/Data/Text
@@ -45706,22 +45706,22 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:954
 msgctxt "items"
 msgid "Warlock's Wand of The Fist"
-msgstr ""
+msgstr "Hexenmeister-Zauberstab der Faust"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:955
 msgctxt "items"
 msgid "Warlock's Wand of Rocks"
-msgstr ""
+msgstr "Hexenmeister-Zauberstab der Steine"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:956
 msgctxt "items"
 msgid "Warlock's Wand of Paralyzing"
-msgstr ""
+msgstr "Hexenmeister-Zauberstab der Lähmung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:957
 msgctxt "items"
 msgid "Warlock's Wand of Clouds"
-msgstr ""
+msgstr "Hexenmeister-Zauberstab der Wolken"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:958
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:157
@@ -49400,7 +49400,7 @@ msgstr "Elfenbann"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1334
 msgctxt "items"
 msgid "Artifact Two-Handed Sword"
-msgstr ""
+msgstr "Artefakt-Zweihandschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1334
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:533
@@ -49451,7 +49451,7 @@ msgstr "Elfenkettenrüstung"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1336
 msgctxt "items"
 msgid "Artifact Chain Mail"
-msgstr ""
+msgstr "Artefakt-Kettenrüstung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1336
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:535
@@ -49504,7 +49504,7 @@ msgstr "Heldengürtel"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1338
 msgctxt "items"
 msgid "Artifact Belt"
-msgstr ""
+msgstr "Artefakt-Gürtel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1338
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:537
@@ -49555,7 +49555,7 @@ msgstr "Clankers Amulett"
 #: localization/LANG_ItemsTxt.txt.py:1342
 msgctxt "items"
 msgid "Special Amulet"
-msgstr ""
+msgstr "Spezial-Amulett"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1340
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:539
@@ -49577,7 +49577,7 @@ msgstr "Krummsäbel des Leutnants"
 #: localization/LANG_ItemsTxt.txt.py:1355
 msgctxt "items"
 msgid "Special Cutlass"
-msgstr ""
+msgstr "Spezial-Krummsäbel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1341
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:540
@@ -49610,7 +49610,7 @@ msgstr "Lady Carmines Dolch"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1343
 msgctxt "items"
 msgid "Special Dagger"
-msgstr ""
+msgstr "Spezial-Dolch"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1343
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:542
@@ -49630,7 +49630,7 @@ msgstr "Klinge des Bösewichts"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1344
 msgctxt "items"
 msgid "Special Sword"
-msgstr ""
+msgstr "Spezial-Schwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1344
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:543
@@ -49691,7 +49691,7 @@ msgstr "Schattenmaske"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1347
 msgctxt "items"
 msgid "Special Helm"
-msgstr ""
+msgstr "Spezial-Helm"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1347
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:546
@@ -49747,7 +49747,7 @@ msgstr "Sonnenumhang"
 #: localization/LANG_ItemsTxt.txt.py:1353
 msgctxt "items"
 msgid "Special Cloak"
-msgstr ""
+msgstr "Spezial-Umhang"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1350
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:549
@@ -49821,7 +49821,7 @@ msgstr "Axt des Minotauren"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1354
 msgctxt "items"
 msgid "Special Axe"
-msgstr ""
+msgstr "Spezial-Axt"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1354
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:553
@@ -51836,7 +51836,7 @@ msgstr "Brief von Xenofex"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1575
 msgctxt "items"
 msgid "Catalyst potion"
-msgstr ""
+msgstr "Katalysatortrank"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1604
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:4
@@ -51877,7 +51877,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1607
 msgctxt "items"
 msgid "Conqueror Sword"
-msgstr ""
+msgstr "Eroberer-Schwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1607
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:7
@@ -51912,7 +51912,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1609
 msgctxt "items"
 msgid "Claymore"
-msgstr ""
+msgstr "Zweihänder"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1609
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:9
@@ -51927,7 +51927,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1610
 msgctxt "items"
 msgid "Barbarian Flamberge"
-msgstr ""
+msgstr "Barbaren-Flamberge"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1610
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:10
@@ -51944,7 +51944,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1611
 msgctxt "items"
 msgid "Vanquisher Sword"
-msgstr ""
+msgstr "Bezwingerschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1611
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:11
@@ -51959,7 +51959,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1612
 msgctxt "items"
 msgid "Fine Broadsword"
-msgstr ""
+msgstr "Feines Breitschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1612
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:12
@@ -51974,7 +51974,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1613
 msgctxt "items"
 msgid "Massive Steel Broadsword"
-msgstr ""
+msgstr "Massives Stahlbreitschwert"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1613
 msgctxt "items"
@@ -52128,7 +52128,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1623
 msgctxt "items"
 msgid "Fine Long Dagger"
-msgstr ""
+msgstr "Feiner Langdolch"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1623
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:23
@@ -52197,7 +52197,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1627
 msgctxt "items"
 msgid "Barbarian Axe"
-msgstr ""
+msgstr "Barbarenaxt"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1627
 msgctxt "items"
@@ -52231,7 +52231,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1629
 msgctxt "items"
 msgid "Dwarven Noble Axe"
-msgstr ""
+msgstr "Edle Zwergenaxt"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1629
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:29
@@ -52754,7 +52754,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1661
 msgctxt "items"
 msgid "Root Club"
-msgstr ""
+msgstr "Wurzelkeule"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1661
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:61
@@ -52883,7 +52883,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1670
 msgctxt "items"
 msgid "Reinforced Leather"
-msgstr ""
+msgstr "Verstärkte Lederrüstung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1670
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:70
@@ -52957,7 +52957,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1675
 msgctxt "items"
 msgid "Basic Steel Chain Mail"
-msgstr ""
+msgstr "Einfache Stahlkettenrüstung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1675
 msgctxt "items"
@@ -53024,7 +53024,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1679
 msgctxt "items"
 msgid "Plate Mail"
-msgstr ""
+msgstr "Plattenpanzer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1679
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:79
@@ -53043,7 +53043,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1680
 msgctxt "items"
 msgid "Steel Plate Mail"
-msgstr ""
+msgstr "Stählerner Plattenpanzer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1680
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:80
@@ -53060,7 +53060,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1681
 msgctxt "items"
 msgid "Golden Plate Mail"
-msgstr ""
+msgstr "Goldener Plattenpanzer"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1681
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:81
@@ -53153,7 +53153,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1687
 msgctxt "items"
 msgid "Splintery Buckler"
-msgstr ""
+msgstr "Splittriger Faustschild"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1687
 msgctxt "items"
@@ -53167,7 +53167,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1688
 msgctxt "items"
 msgid "Rusty Bronze Shield"
-msgstr ""
+msgstr "Rostiger Bronzeschild"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1688
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:87
@@ -53243,7 +53243,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1692
 msgctxt "items"
 msgid "Wooden Helm"
-msgstr ""
+msgstr "Holzhelm"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1692
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:92
@@ -53349,7 +53349,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1698
 msgctxt "items"
 msgid "Dandy Hat"
-msgstr ""
+msgstr "Dandyhut"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1698
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:98
@@ -53387,7 +53387,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1700
 msgctxt "items"
 msgid "Wreath Crown"
-msgstr ""
+msgstr "Kranzkrone"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1700
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:100
@@ -53443,7 +53443,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1703
 msgctxt "items"
 msgid "Crude Leather Belt"
-msgstr ""
+msgstr "Primitiver Ledergürtel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1703
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:103
@@ -53699,7 +53699,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1718
 msgctxt "items"
 msgid "Old Leather Boots"
-msgstr ""
+msgstr "Alte Lederstiefel"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1718
 msgctxt "items"
@@ -54033,7 +54033,7 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1738
 msgctxt "items"
 msgid "Sparkling Wand of Fire"
-msgstr ""
+msgstr "Funkelnder Zauberstab des Feuers"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1738 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1739 mmmerge/Data/Text
@@ -54056,27 +54056,27 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1739
 msgctxt "items"
 msgid "Sparkling Wand of Sparks"
-msgstr ""
+msgstr "Funkelnder Zauberstab des Funkenflugs"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1740
 msgctxt "items"
 msgid "Sparkling Wand of Poison"
-msgstr ""
+msgstr "Funkelnder Zauberstab des Gifts"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1741
 msgctxt "items"
 msgid "Sparkling Wand of Stunning"
-msgstr ""
+msgstr "Funkelnder Betäubungszauberstab"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1742
 msgctxt "items"
 msgid "Sparkling Wand of Harming"
-msgstr ""
+msgstr "Funkelnder Zauberstab des Verletzens"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1743
 msgctxt "items"
 msgid "Druid Wand of Light"
-msgstr ""
+msgstr "Druiden-Zauberstab des Lichts"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1743 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1744 mmmerge/Data/Text
@@ -54102,27 +54102,27 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1744
 msgctxt "items"
 msgid "Druid Wand of Ice"
-msgstr ""
+msgstr "Druiden-Zauberstab des Eises"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1745
 msgctxt "items"
 msgid "Druid Wand of Lashing"
-msgstr ""
+msgstr "Druiden-Zauberstab der Peitschenhiebe"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1746
 msgctxt "items"
 msgid "Druid Wand of Mind"
-msgstr ""
+msgstr "Druiden-Zauberstab des Geistes"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1747
 msgctxt "items"
 msgid "Druid Wand of Swarms"
-msgstr ""
+msgstr "Druiden-Zauberstab der Schwärme"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1748
 msgctxt "items"
 msgid "Cruel Wand of Fireballs"
-msgstr ""
+msgstr "Grausamer Zauberstab der Feuerbälle"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1748 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1749 mmmerge/Data/Text
@@ -54152,22 +54152,22 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1749
 msgctxt "items"
 msgid "Cruel Wand of Acid"
-msgstr ""
+msgstr "Grausamer Zauberstab der Säure"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1750
 msgctxt "items"
 msgid "Cruel Wand of Lightning"
-msgstr ""
+msgstr "Grausamer Zauberstab des Blitzes"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1751
 msgctxt "items"
 msgid "Cruel Wand of Blades"
-msgstr ""
+msgstr "Grausamer Zauberstab der Klingen"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1752
 msgctxt "items"
 msgid "Cruel Wand of Berzerking"
-msgstr ""
+msgstr "Grausamer Zauberstab der Berserkerwut"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1753
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:152
@@ -54227,7 +54227,7 @@ msgstr "Arkaner Zauberstab der Wolken"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1758
 msgctxt "items"
 msgid "Dragon Wand of Implosion"
-msgstr ""
+msgstr "Drachen-Zauberstab der Implosion"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1758 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1759 mmmerge/Data/Text
@@ -54253,22 +54253,22 @@ msgstr ""
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1759
 msgctxt "items"
 msgid "Dragon Wand of Distortion"
-msgstr ""
+msgstr "Drachen-Zauberstab der Verzerrung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1760
 msgctxt "items"
 msgid "Dragon Wand of Shrapmetal"
-msgstr ""
+msgstr "Drachen-Zauberstab des Schrapnells"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1761
 msgctxt "items"
 msgid "Dragon Wand of Shrinking"
-msgstr ""
+msgstr "Drachen-Zauberstab des Schrumpfens"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1762
 msgctxt "items"
 msgid "Dragon Wand of Incineration"
-msgstr ""
+msgstr "Drachen-Zauberstab der Einäscherung"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1763 mmmerge/Data/Text
 #: localization/LANG_ItemsTxt.txt.py:1764 mmmerge/Data/Text
@@ -68012,7 +68012,7 @@ msgstr "Der Prinz der Diebe"
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:805
 msgctxt "npcdata"
 msgid "Verdant"
-msgstr ""
+msgstr "Verdant"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:806
 #: mm6/data/10LocLANG.icons/NPCdata.txt.py:21
@@ -68254,7 +68254,7 @@ msgstr "Macro Caligula"
 #: mm6/data/10LocLANG.icons/NPCdata.txt.py:60
 msgctxt "npcdata"
 msgid "Orville Corvair"
-msgstr ""
+msgstr "Orville Corvair"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:846
 #: mm6/data/10LocLANG.icons/NPCdata.txt.py:61
@@ -69698,7 +69698,7 @@ msgstr "Slicker Silvertongue"
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1094
 msgctxt "npcdata"
 msgid "Runaway Chaos"
-msgstr ""
+msgstr "Entlaufenes Chaos"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1095
 #: mm6/data/10LocLANG.icons/NPCdata.txt.py:310
@@ -70249,207 +70249,207 @@ msgstr "Teleron Prentice"
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1186
 msgctxt "npcdata"
 msgid "Random MapNPC 1"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 1"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1187
 msgctxt "npcdata"
 msgid "Random MapNPC 2"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 2"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1188
 msgctxt "npcdata"
 msgid "Random MapNPC 3"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 3"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1189
 msgctxt "npcdata"
 msgid "Random MapNPC 4"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 4"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1190
 msgctxt "npcdata"
 msgid "Random MapNPC 5"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 5"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1191
 msgctxt "npcdata"
 msgid "Random MapNPC 6"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 6"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1192
 msgctxt "npcdata"
 msgid "Random MapNPC 7"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 7"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1193
 msgctxt "npcdata"
 msgid "Random MapNPC 8"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 8"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1194
 msgctxt "npcdata"
 msgid "Random MapNPC 9"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 9"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1195
 msgctxt "npcdata"
 msgid "Random MapNPC 10"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 10"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1196
 msgctxt "npcdata"
 msgid "Random MapNPC 11"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 11"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1197
 msgctxt "npcdata"
 msgid "Random MapNPC 12"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 12"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1198
 msgctxt "npcdata"
 msgid "Random MapNPC 13"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 13"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1199
 msgctxt "npcdata"
 msgid "Random MapNPC 14"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 14"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1200
 msgctxt "npcdata"
 msgid "Random MapNPC 15"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 15"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1201
 msgctxt "npcdata"
 msgid "Random MapNPC 16"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 16"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1202
 msgctxt "npcdata"
 msgid "Random MapNPC 17"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 17"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1203
 msgctxt "npcdata"
 msgid "Random MapNPC 18"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 18"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1204
 msgctxt "npcdata"
 msgid "Random MapNPC 19"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 19"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1205
 msgctxt "npcdata"
 msgid "Random MapNPC 20"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 20"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1206
 msgctxt "npcdata"
 msgid "Random MapNPC 21"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 21"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1207
 msgctxt "npcdata"
 msgid "Random MapNPC 22"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 22"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1208
 msgctxt "npcdata"
 msgid "Random MapNPC 23"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 23"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1209
 msgctxt "npcdata"
 msgid "Random MapNPC 24"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 24"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1210
 msgctxt "npcdata"
 msgid "Random MapNPC 25"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 25"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1211
 msgctxt "npcdata"
 msgid "Random MapNPC 26"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 26"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1212
 msgctxt "npcdata"
 msgid "Random MapNPC 27"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 27"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1213
 msgctxt "npcdata"
 msgid "Random MapNPC 28"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 28"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1214
 msgctxt "npcdata"
 msgid "Random MapNPC 29"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 29"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1215
 msgctxt "npcdata"
 msgid "Random MapNPC 30"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 30"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1216
 msgctxt "npcdata"
 msgid "Random MapNPC 31"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 31"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1217
 msgctxt "npcdata"
 msgid "Random MapNPC 32"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 32"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1218
 msgctxt "npcdata"
 msgid "Random MapNPC 33"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 33"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1219
 msgctxt "npcdata"
 msgid "Random MapNPC 34"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 34"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1220
 msgctxt "npcdata"
 msgid "Random MapNPC 35"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 35"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1221
 msgctxt "npcdata"
 msgid "Random MapNPC 36"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 36"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1222
 msgctxt "npcdata"
 msgid "Random MapNPC 37"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 37"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1223
 msgctxt "npcdata"
 msgid "Random MapNPC 38"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 38"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1224
 msgctxt "npcdata"
 msgid "Random MapNPC 39"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 39"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1225
 msgctxt "npcdata"
 msgid "Random MapNPC 40"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 40"
 
 #: mmmerge/Data/Text localization/LANG_NPCData.txt.py:1226
 msgctxt "npcdata"
 msgid "Random MapNPC 41"
-msgstr ""
+msgstr "Zufalls-Karten-NPC 41"
 
 #: mmmerge/Data/Text localization/LANG_NPCGreet1.txt.py:3
 #: mm8/Data/10LocLANG.EnglishT/npcgreet.txt.py:2
@@ -82133,7 +82133,7 @@ msgstr "Walter"
 #: mm6/data/10LocLANG.icons/npcnames.txt.py:517
 msgctxt "npcnames"
 msgid "Wanye"
-msgstr ""
+msgstr "Wanye"
 
 #: mmmerge/Data/Text localization/LANG_NPCNames.txt.py:518
 #: mm8/Data/10LocLANG.EnglishT/pcnames.txt.py:518
@@ -137283,7 +137283,7 @@ msgstr "Morcarack"
 #: localization/LANG_PlaceMonTxt.txt.py:116
 msgctxt "placemon"
 msgid "Super Vampire"
-msgstr ""
+msgstr "Herr der Vampire"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:116 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:117
@@ -137347,19 +137347,19 @@ msgstr "Hairbaugh"
 #: localization/LANG_PlaceMonTxt.txt.py:135
 msgctxt "placemon"
 msgid "Q"
-msgstr ""
+msgstr "Q"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:125 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:126
 msgctxt "placemon"
 msgid "Queen Spider"
-msgstr ""
+msgstr "Spinnenkönigin"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:126 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:127
 msgctxt "placemon"
 msgid "Fallen Defender"
-msgstr ""
+msgstr "Gefallener Verteidiger"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:127 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:128
@@ -137371,25 +137371,25 @@ msgstr "Snergal"
 #: localization/LANG_PlaceMonTxt.txt.py:129
 msgctxt "placemon"
 msgid "Rogue Leader"
-msgstr ""
+msgstr "Schurkenanführer"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:129 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:130
 msgctxt "placemon"
 msgid "Lesser Genie"
-msgstr ""
+msgstr "Niederer Dschinn"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:130 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:131
 msgctxt "placemon"
 msgid "Ethric"
-msgstr ""
+msgstr "Ethric"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:131 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:132
 msgctxt "placemon"
 msgid "Werewolf Leader"
-msgstr ""
+msgstr "Werwolf-Anführer"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:132 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:133
@@ -137413,7 +137413,7 @@ msgstr "Lichkönig"
 #: localization/LANG_PlaceMonTxt.txt.py:137
 msgctxt "placemon"
 msgid "Lurch"
-msgstr ""
+msgstr "Lurch"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:137 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:138
@@ -137425,19 +137425,19 @@ msgstr "Varn-Wache"
 #: localization/LANG_PlaceMonTxt.txt.py:139
 msgctxt "placemon"
 msgid "Longfang Witherhide"
-msgstr ""
+msgstr "Longfang Witherhide"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:139 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:140
 msgctxt "placemon"
 msgid "Devil of Baa"
-msgstr ""
+msgstr "Teufel von Baa"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:140 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:141
 msgctxt "placemon"
 msgid "Trip Hawkins"
-msgstr ""
+msgstr "Trip Hawkins"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:141 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:142
@@ -137449,13 +137449,13 @@ msgstr "Greg Fulton"
 #: localization/LANG_PlaceMonTxt.txt.py:143
 msgctxt "placemon"
 msgid "William Nesemeier"
-msgstr ""
+msgstr "William Nesemeier"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:143 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:144
 msgctxt "placemon"
 msgid "Andy Grumm"
-msgstr ""
+msgstr "Andy Grumm"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:145 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:146
@@ -137467,7 +137467,7 @@ msgstr "Pete Ryu"
 #: localization/LANG_PlaceMonTxt.txt.py:147
 msgctxt "placemon"
 msgid "Scott McDaniel"
-msgstr ""
+msgstr "Scott McDaniel"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:148 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:149
@@ -137479,13 +137479,13 @@ msgstr "Bonnie Long-Hemssath"
 #: localization/LANG_PlaceMonTxt.txt.py:150
 msgctxt "placemon"
 msgid "Becky Christel"
-msgstr ""
+msgstr "Becky Christel"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:150 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:151
 msgctxt "placemon"
 msgid "Rob King"
-msgstr ""
+msgstr "Rob King"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:151 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:152
@@ -137497,13 +137497,13 @@ msgstr "Steve Baca"
 #: localization/LANG_PlaceMonTxt.txt.py:153
 msgctxt "placemon"
 msgid "Rick Sanchez"
-msgstr ""
+msgstr "Rick Sanchez"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:153 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:154
 msgctxt "placemon"
 msgid "Helena Wickberg"
-msgstr ""
+msgstr "Helena Wickberg"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:154 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:155
@@ -137515,37 +137515,37 @@ msgstr "John Bolton"
 #: localization/LANG_PlaceMonTxt.txt.py:156
 msgctxt "placemon"
 msgid "Anthony Rizo"
-msgstr ""
+msgstr "Anthony Rizo"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:156 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:157
 msgctxt "placemon"
 msgid "Bruce Miyake"
-msgstr ""
+msgstr "Bruce Miyake"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:157 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:158
 msgctxt "placemon"
 msgid "NWC Employee"
-msgstr ""
+msgstr "NWC-Mitarbeiter"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:158 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:159
 msgctxt "placemon"
 msgid "Randy Ruckel"
-msgstr ""
+msgstr "Randy Ruckel"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:159 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:160
 msgctxt "placemon"
 msgid "Karl Fischer"
-msgstr ""
+msgstr "Karl Fischer"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:160 mmmerge/Data/Text
 #: localization/LANG_PlaceMonTxt.txt.py:161
 msgctxt "placemon"
 msgid "David Casso"
-msgstr ""
+msgstr "David Casso"
 
 #: mmmerge/Data/Text localization/LANG_QuestsTxt.txt.py:5
 #: mm8/Data/10LocLANG.EnglishT/quests.txt.py:4
