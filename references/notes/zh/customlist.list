@@ -8,7 +8,7 @@ class	Priest of the Light	光明主教
 class	Priest of the Dark	黑暗主教
 class	Dark Elf	黑暗精灵
 class	Patriarch	暗精尊者
-class	Dragon	龙
+class	Dragon	飞龙
 class	Great Wyrm	神龙
 class	Druid	德鲁伊
 class	Great Druid	高级德鲁伊
@@ -21,10 +21,10 @@ class	Champion	勇士
 class	Minotaur	牛头人
 class	Minotaur Lord	牛头领主
 class	Monk	僧侣
-class	Initiate	沙弥
-class	Master	大师
+class	Initiate	修士
+class	Master	智者
 class	Ninja	忍者
-class	Paladin	武士
+class	Paladin	圣武士
 class	Crusader	十字军
 class	Hero	英雄
 class	Villain	魔头
@@ -48,13 +48,13 @@ class	Arch Mage	大法师
 class	Master Necromancer	死灵大法师
 class	Peasant	农民
 class	High Priest	大主教
-class	Master Wizard	魔法大师
+class	Master Wizard	大魔法师
 class	Battle Mage	战斗射手
 class	Priest of Light	光明主教
 class	Priest of the Sun	太阳主教
 class	Dark Elf Patriarch	暗精尊者
 items	Longsword	长剑
-items	Warrior Sword	神箭手之剑
+items	Warrior Sword	战士之剑
 items	Crusader Sword	十字军之剑
 items	Champion Sword	勇士之剑
 items	Lionheart Sword	狮心剑
@@ -91,31 +91,31 @@ items	Sacred Spear	神矛
 items	Halberd	戟
 items	Massive Halberd	宽戟
 items	Elite Halberd	精英之戟
-items	Trident	三股叉
-items	Ornate Trident	簪银三股叉
-items	Titanic Trident	巨型三股叉
+items	Trident	三叉戟
+items	Ornate Trident	簪银三叉戟
+items	Titanic Trident	巨型三叉戟
 items	Longbow	长弓
 items	Elven Bow	精灵弓
 items	Precision Bow	精准弓
 items	Magic Bow	魔法弓
 items	Stellar Bow	星光弓
-items	Crossbow	十字弩
-items	Accurate Crossbow	精准弩
-items	True Crossbow	弩中之弩
-items	Mace	锤棍
-items	Wicked Mace	邪恶锤棍
-items	Thunder Mace	雷霆锤棍
-items	Wonder Mace	神锤棍
-items	Death Mace	死亡锤棍
+items	Crossbow	十字弓
+items	Accurate Crossbow	精准十字弓
+items	True Crossbow	地道十字弓
+items	Mace	钉锤
+items	Wicked Mace	邪恶钉锤
+items	Thunder Mace	雷霆钉锤
+items	Wonder Mace	神钉锤
+items	Death Mace	死亡钉锤
 items	Hammer	锤
 items	Dark Hammer	黑暗锤
 items	Holy Hammer	神锤
 items	Club	粗头棍
 items	Spiked Club	尖嘴粗头棍
 items	Killer Club	致命粗头棍
-items	Staff	长棍
-items	Emerald Staff	翠玉长棍
-items	Power Staff	强力长棍
+items	Staff	手杖
+items	Emerald Staff	翠玉手杖
+items	Power Staff	强力手杖
 items	Blaster	迷你榴弹枪
 items	Blaster Rifle	榴弹枪
 items	Leather Armor	皮革盔甲
@@ -163,8 +163,8 @@ items	Elven Cloak	精灵披风
 items	Cardinal Cloak	主教披风
 items	Doom's Day Cloak	世界末日披风
 items	Gauntlets	手套
-items	Knight Gauntlets	剑客手套
-items	Paladin Gauntlets	游侠手套
+items	Knight Gauntlets	骑士手套
+items	Paladin Gauntlets	圣武士手套
 items	Cavalier Gauntlets	豪侠手套
 items	Ultimate Gauntlets	终极手套
 items	Leather Boots	皮靴
@@ -192,13 +192,13 @@ items	Wand of Static	电击杖
 items	Wand of Cold	冷冻杖
 items	Wand of Stunning	眩晕杖
 items	Wand of Arrows	箭杖
-items	Fairy Wand of Fire	火焰仙杖
-items	Fairy Wand of Sparks	火星仙杖
-items	Fairy Wand of Poison	放毒仙杖
-items	Fairy Wand of Mind	心智仙杖
+items	Fairy Wand of Fire	烈火仙杖
+items	Fairy Wand of Sparks	火光仙杖
+items	Fairy Wand of Poison	毒药仙杖
+items	Fairy Wand of Mind	心灵仙杖
 items	Fairy Wand of Harm	伤害仙杖
 items	Alacorn Wand of Fireballs	火球权杖
-items	Alacorn Wand of Ice	冰冻权杖
+items	Alacorn Wand of Ice	寒冰权杖
 items	Alacorn Wand of Swarms	蜂群权杖
 items	Alacorn Wand of Blades	飞镖权杖
 items	Alacorn Wand of Charms	迷惑权杖
@@ -207,10 +207,10 @@ items	Arcane Wand of Lightning	闪电权杖
 items	Arcane Wand of Rocks	岩石权杖
 items	Arcane Wand of Paralyzing	麻痹权杖
 items	Arcane Wand of Clouds	云雾权杖
-items	Mystic Wand of Implosion	挤压神杖
-items	Mystic Wand of Distortion	变形神杖
+items	Mystic Wand of Implosion	内爆神杖
+items	Mystic Wand of Distortion	扭曲神杖
 items	Mystic Wand of Shrapmetal	霰弹神杖
-items	Mystic Wand of Shrinking	萎缩神杖
+items	Mystic Wand of Shrinking	缩小神杖
 items	Mystic Wand of Death	致命神杖
 items	Gold	金币
 items	Dark Containment	黑暗之神
@@ -248,7 +248,7 @@ items	Leather Pouch	皮囊
 items	Hourglass of Time	时间沙漏
 items	Sacred Chalice	圣杯
 items	Horn of Ros	罗斯之角
-items	Diamond	珠宝
+items	Diamond	钻石
 items	Topaz	黄宝石
 items	Amethyst	紫水晶
 items	Emerald	绿宝石
@@ -281,14 +281,14 @@ items	Lock Pick	锁凿
 items	Rope	绳子
 items	Lodestone	石头
 items	Golden Pyramid	金字塔
-items	Keg of Wine	酒桶
+items	Keg of Wine	桶装酒
 items	Cobra Egg	蛇蛋
 items	Chime of Harmony	美妙钟琴
 items	Tooth	牙齿
 items	Four Leaf Clover	四叶草
 items	Flute	长笛
 items	Harp	竖琴
-items	Jeweled Egg	宝石
+items	Jeweled Egg	宝石蛋
 items	Spider Queen's Heart	蜘蛛女王的心
 items	Amber	琥珀
 items	Magic Lamp	神灯
@@ -304,13 +304,13 @@ items	Map	地图
 items	Snergle's Axe	斯纳格的战斧
 items	Lord Kilburn's Shield	科尔本爵士的盾牌
 items	Name of Message	消息名称
-items	Letter from Zenofex	赞诺费克斯的信件
+items	Letter from Zenofex	诺菲克斯的信件
 items	Enemies List	敌人名单
 items	Orders from the Shadow Guild	阴影教的密令
 items	The Letter	信件
 items	Devil Plans	恶魔计划
-items	Missive from the Archbishop	大主教的密令
-items	Discharge Papers	拆开信件
+items	Missive from the Archbishop	大主教的信函
+items	Discharge Papers	除籍文件
 items	Letter from Cedric Druthers	塞德里克的信件
 items	Scrap of Paper	信件碎片
 items	Letter to Snergle	致斯纳格的信件
@@ -329,11 +329,11 @@ items	Letter to Marcus	致马库斯的信件
 items	Scrap from Gharik's Journal	加里克的游记残页
 items	Remnants of a Letter	信件残骸
 items	Letter to Terrax	致德里克斯的信件
-items	Loose Page	松散字页
+items	Loose Page	散页
 items	Journal Fragment	游记片段
 items	Letter to Agar	致阿加的信件
 items	Letter to Gharik	致加里克的信件
-items	Spiral Instructions	忠告
+items	Spiral Instructions	螺旋说明
 items	Captain's Code	船长的密码
 items	First Mate's Code	大副的密码
 items	Navigator's Code	导航员的密码
@@ -399,17 +399,17 @@ items	Crude Bow	弓箭
 items	Elven Longbow	精灵之弓
 items	Composite Bow	精准弓
 items	Griffin Bow	狮鹫之弓
-items	Heavy Crossbow	重型弩
-items	Ideal Crossbow	完美之弩
-items	Spiked Mace	力量锤棍
-items	Zealot Mace	狂热锤棍
+items	Heavy Crossbow	重型十字弓
+items	Ideal Crossbow	完美十字弓
+items	Spiked Mace	力量钉锤
+items	Zealot Mace	狂热钉锤
 items	Dwarven Morningstar	矮人流星锤
 items	Supreme Flail	战斗连枷
 items	War Hammer	战争之锤
 items	Dwarven Hammer	矮人之锤
 items	Steel club	钢制粗头棍
-items	Iron Core Staff	铁棍
-items	Wizard Staff	法师之棍
+items	Iron Core Staff	铁心手杖
+items	Wizard Staff	法师之杖
 items	Officer's Leather	魔法皮甲
 items	Regnan Leather	雷格那皮甲
 items	Royal Leather	皇室之甲
@@ -421,7 +421,7 @@ items	Noble Plate Armor	贵族钢甲
 items	Goblin Shield	大耳怪盾牌
 items	Horseman's Shield	骑士盾牌
 items	Sterling Shield	力量盾牌
-items	Phynaxian Shield	神奇盾牌
+items	Phynaxian Shield	菲尼克斯盾牌
 items	Wooden Buckler	木制小圆盾
 items	Metal Shield	精制盾牌
 items	Alloyed Shield	合金盾牌
@@ -429,7 +429,7 @@ items	Majestic Shield	皇家盾牌
 items	Horned Helm	守护头盔
 items	Conscript's Helm	神奇头盔
 items	Full Helm	防御头盔
-items	Phynaxian Helm	战斗头盔
+items	Phynaxian Helm	菲尼克斯头盔
 items	Mogred Helm	英勇头盔
 items	Peasant Hat	农夫之帽
 items	Traveller's Hat	旅行者之帽
@@ -449,13 +449,13 @@ items	Mogred Gauntlets	神奇手套
 items	Steel Plated Boots	钢靴
 items	Ranger Boots	巡逻之靴
 items	Knight's Boots	骑士之靴
-items	Paladin Boots	游侠之靴
+items	Paladin Boots	圣武士之靴
 items	Brass Ring	铜戒指
 items	Pearl Ring	珍珠戒指
 items	Platinum Ring	白金戒指
 items	Emerald Ring	翡翠戒指
 items	Sapphire Ring	水晶戒指
-items	Warlock's Ring	战斗指环
+items	Warlock's Ring	邪术师指环
 items	Enchanted Ring	迷人指环
 items	Dazzling Ring	神奇戒指
 items	Wizard Ring	魔法指环
@@ -468,15 +468,15 @@ items	Sun Amulet	太阳护身符
 items	Wand of Fire	烈火之杖
 items	Wand of Sparks	火光之杖
 items	Wand of Poison	毒药之杖
-items	Wand of Harm	攻击之杖
+items	Wand of Harm	伤害之杖
 items	Fairy Wand of Light	光明仙杖
 items	Fairy Wand of Ice	寒冰仙杖
-items	Fairy Wand of Lashing	狂暴仙杖
-items	Fairy Wand of Swarms	神奇仙杖
-items	Alacorn Wand of Acid	酸雨权杖
+items	Fairy Wand of Lashing	鞭笞仙杖
+items	Fairy Wand of Swarms	蜂群仙杖
+items	Alacorn Wand of Acid	强酸权杖
 items	Alacorn Wand of Lightning	闪电权杖
-items	Arcane Wand of The Fist	怒拳之杖
-items	Mystic Wand of Incineration	炽天神杖
+items	Arcane Wand of The Fist	猛拳权杖
+items	Mystic Wand of Incineration	焚烧神杖
 items	Blue Quartz	蓝色石英
 items	Green Garnet	绿色石榴石
 items	Rose Crystal	玫瑰水晶
@@ -492,8 +492,8 @@ items	Spirit Lash	灵魂移位
 items	Telepathy	心灵感应
 items	Berserk	狂性大发
 items	Enslave	夺魂大法
-items	Heal	疗伤大法
-items	Regeneration	浴火重生
+items	Heal	治疗
+items	Regeneration	再生术
 items	Hammerhands	重拳出击
 items	Light Bolt	光明之焰
 items	Summon Elemental	元素召唤
@@ -519,7 +519,7 @@ items	Hands of the Master	王者之手
 items	Seven League Boots	神行之靴
 items	Ruler's Ring	王者指环
 items	Mash	麦斯
-items	Ethric's Staff	埃斯里克之棍
+items	Ethric's Staff	埃斯里克之杖
 items	Hareck's Leather	海里克之甲
 items	Old Nick	尼克
 items	Amuck	阿姆克
@@ -532,7 +532,7 @@ items	Titan's Belt	泰坦腰带
 items	Twilight	昏暗
 items	Ania Selving	安娜雅·塞尔文
 items	Justice	正义
-items	Mekorig's Hammer	麦克林的锤棍
+items	Mekorig's Hammer	麦克林之锤
 items	Hermes' Sandals	赫尔密斯草鞋
 items	Cloak of the Sheep	羊鸣披风
 items	Elfbane	精灵杀手
@@ -581,7 +581,7 @@ items	Archibald Ironfist Painting	阿基巴德·艾恩法斯特画像
 items	Roland Ironfist Painting	罗兰德·艾恩法斯特画像
 items	Vase	花瓶
 items	Flower (Rose)	玫瑰花
-items	Zokarr IV's Skull	佐卡尔四世的头盖骨
+items	Zokarr IV's Skull	佐卡尔四世的头骨
 items	Thigh Bone	大腿骨
 items	Haldar's Remains	哈尔代尔的尸骨
 items	Elixir	丹药
@@ -629,11 +629,11 @@ items	Map to Evenmorn Island	埃弗蒙岛的地图
 items	Neutral Bow Placeholder	Neutral Bow Placeholder
 items	Elf/Human Artifact Placeholder	Elf/Human Artifact Placeholder
 items	Iron-laced ore	铁矿石
-items	Siertal-laced ore	索尔多矿石
+items	Siertal-laced ore	席尔多矿石
 items	Phylt-laced ore	非尔矿石
 items	Kergar-laced ore	科尔矿石
-items	Erudine-laced ore	尤诺矿石
-items	Stalt-laced ore	斯多尔矿石
+items	Erudine-laced ore	依鲁丁矿石
+items	Stalt-laced ore	斯多特矿石
 items	Crate of Arrowheads	一箱箭头
 items	Crate of Griffin Feathers	一箱狮鹫羽毛
 items	Crate of Tularean Wood	一箱图拉利昂木材
@@ -664,7 +664,7 @@ items	Orders from Steadwick	从斯坦德威克发来的命令
 items	journal entry, 2nd january	1月2日的日记
 items	journal entry, 19th september	9月19日的日记
 items	Journal Entry	日记
-items	Empty Message Scroll	一张字条
+items	Empty Message Scroll	空消息卷宗
 items	Bill of Sale	送货单
 items	Letter from Xenofex	诺菲克斯写的信
 items	Rejuvenation Recipe	返老还童药剂配方
@@ -687,7 +687,7 @@ items	Flaming Potion Recipe	火焰药剂配方
 items	Freezing Potion Recipe	冰冻药剂配方
 items	Noxious Potion Recipe	剧毒药剂配方
 items	Shocking Potion Recipe	光环药剂配方
-items	Swift Potion Recipe	敏捷药剂配方
+items	Swift Potion Recipe	迅捷药剂配方
 items	Cure Paralysis Recipe	治愈麻痹药剂配方
 items	Divine Restoration Recipe	神圣恢复药剂配方
 items	Divine Cure Recipe	神圣医疗药剂配方
@@ -702,7 +702,7 @@ items	Body Resistance Recipe	御体药剂配方
 items	Trollish War Sword	巨魔战斗剑
 items	Dark Elven Longsword	黑暗精灵长剑
 items	Templar's Sword	圣殿骑士剑
-items	Champion's Sword	英豪剑
+items	Champion's Sword	勇士之剑
 items	Dark Elven Bastard Sword	黑暗精灵巨剑
 items	Minotaur Battlesword	牛头人战斗剑
 items	Dragonning Blade	龙剑
@@ -713,7 +713,7 @@ items	Lizardman Broadsword	蜥蜴人阔剑
 items	Knightly Broadsword	骑士阔剑
 items	Archangel Broadsword	大天使阔剑
 items	Rusty Cutlass	生锈短剑
-items	Goblin Scimitar	地精弯刀
+items	Goblin Scimitar	大耳怪弯刀
 items	Regnan Falchion	雷格那偃月刀
 items	Captain's Cutlass	船长短剑
 items	Crude Dagger	简陋匕首
@@ -760,7 +760,7 @@ items	Hunting Crossbow	狩猎十字弓
 items	Caravaner's Crossbow	篷车十字弓
 items	Regnan Crossbow	雷格那十字弓
 items	Flail	链枷
-items	Temple Mace	神殿钉头锤
+items	Temple Mace	神殿钉锤
 items	Reverend Sceptre	神圣权杖
 items	Trollish War Mace	巨魔战斗锤
 items	Sledgehammer	大榔头
@@ -770,25 +770,25 @@ items	Sun Hammer	太阳之锤
 items	Trollish Maul	巨魔巨锤
 items	Thornbark Club	刺皮粗头棍
 items	Overlord's Club	霸王粗头棍
-items	Journey Staff	旅者之棍
-items	Orb Staff	圆球之棍
-items	Priestly Staff	牧师之棍
-items	Serpent Staff	蛇之棍
-items	Bone Staff	骨之棍
+items	Journey Staff	旅者之杖
+items	Orb Staff	圆球之杖
+items	Priestly Staff	牧师之杖
+items	Serpent Staff	蛇之杖
+items	Bone Staff	骨之杖
 items	Leather Jerkin	皮背心
 items	Hardened Leather Vest	硬皮背心
 items	Caravaner's Leather	皮衣
-items	Alvarian Leather	艾尔瓦皮甲
-items	Rusty Mail Vest	生锈锁子甲背心
-items	Steel Chainmail	钢锁子甲
-items	Minotaur Chainmail	牛头人锁子甲
-items	Siertal Chainmail	合金锁子甲
-items	Erudine Chainmail	超合金锁子甲
-items	Rusty Breastplate	生锈胸甲
-items	Banded Plate	板甲
-items	Minotaur Plate	牛头人铠甲
-items	Dark Knight Plate	黑骑士铠甲
-items	Dragoning Plate	龙甲
+items	Alvarian Leather	阿尔瓦皮甲
+items	Rusty Mail Vest	生锈锁甲背心
+items	Steel Chainmail	钢铁锁甲
+items	Minotaur Chainmail	牛头人锁甲
+items	Siertal Chainmail	席尔多锁甲
+items	Erudine Chainmail	依鲁丁锁甲
+items	Rusty Breastplate	生锈前胸钢甲
+items	Banded Plate	合钢甲
+items	Minotaur Plate	牛头人钢甲
+items	Dark Knight Plate	黑骑士钢甲
+items	Dragoning Plate	龙钢甲
 items	Trollish Shield	巨魔盾牌
 items	Thornbark Shield	刺木盾
 items	Regnan Tournament Shield	雷格那格斗盾
@@ -809,7 +809,7 @@ items	Steel Belt	钢皮带
 items	Artificer's Belt	精致腰带
 items	Traveler's Cloak	旅者斗篷
 items	Moon Temple Cloak	月神殿之斗篷
-items	Alvar Cloak	艾尔瓦斗篷
+items	Alvar Cloak	阿尔瓦斗篷
 items	Necromancer Cloak	死灵法师斗篷
 items	Vampire Cloak	吸血鬼斗篷
 items	Leather Gloves	皮手套
@@ -819,7 +819,7 @@ items	Crusader's Gauntlets	十字军铁手套
 items	Walking Boots	行路靴
 items	Hardened Leather Boots	硬皮靴
 items	Regnan Boots	雷格那之靴
-items	Alvarian Boots	艾尔瓦之靴
+items	Alvarian Boots	阿尔瓦之靴
 items	Dragonning Boots	猎龙靴
 items	Bronze Ring	青铜戒指
 items	Gold Ring	金戒指
@@ -835,35 +835,35 @@ items	Jade Amulet	翠玉护身符
 items	Blood Talisman	血脂护身符
 items	Shadow Sect Medallion	阴影教派护身符
 items	Locus Amulet	轨迹护身符
-items	Witch's Wand of Fire	女巫火焰之杖
-items	Witch's Wand of Sparks	女巫火花之杖
-items	Witch's Wand of Poison	女巫剧毒之杖
-items	Witch's Wand of Stunning	女巫震撼之杖
+items	Witch's Wand of Fire	女巫烈火之杖
+items	Witch's Wand of Sparks	女巫火光之杖
+items	Witch's Wand of Poison	女巫毒药之杖
+items	Witch's Wand of Stunning	女巫眩晕之杖
 items	Witch's Wand of Harming	女巫伤害之杖
-items	Shaman's Wand of Light	巫医光之杖
-items	Shaman's Wand of Ice	巫医冰之杖
-items	Shaman's Wand of Lashing	巫医鞭笞之杖
-items	Shaman's Wand of Mind	巫医心灵之杖
-items	Shaman's Wand of Swarms	巫医虫群之杖
+items	Shaman's Wand of Light	萨满光明之杖
+items	Shaman's Wand of Ice	萨满寒冰之杖
+items	Shaman's Wand of Lashing	萨满鞭笞之杖
+items	Shaman's Wand of Mind	萨满心灵之杖
+items	Shaman's Wand of Swarms	萨满蜂群之杖
 items	Wizard Wand of Fireballs	巫师火球之杖
 items	Wizard Wand of Acid	巫师强酸之杖
 items	Wizard Wand of Lightning	巫师闪电之杖
-items	Wizard Wand of Blades	巫师刀锋之杖
+items	Wizard Wand of Blades	巫师飞镖之杖
 items	Wizard Wand of Berzerking	巫师狂暴之杖
-items	Serpent Wand of Blasting	盘蛇爆炸之杖
+items	Serpent Wand of Blasting	盘蛇爆破之杖
 items	Serpent Wand of the Fist	盘蛇猛拳之杖
 items	Serpent Wand of Rocks	盘蛇岩石之杖
-items	Serpent Wand of Paralysis	盘蛇瘫痪之杖
+items	Serpent Wand of Paralysis	盘蛇麻痹之杖
 items	Necrotic Wand of Implosion	死灵内爆之杖
-items	Necrotic Wand of Distortion	死灵干扰之杖
-items	Necrotic Wand of Shrapnel	死灵锐金之杖
+items	Necrotic Wand of Distortion	死灵扭曲之杖
+items	Necrotic Wand of Shrapnel	死灵霰弹之杖
 items	Necrotic Wand of Shrinking	死灵缩小之杖
-items	Necrotic Wand of Incineration	死灵炙焰之杖
+items	Necrotic Wand of Incineration	死灵焚烧之杖
 items	Zircon	风信子玉
 items	Iolite	珠玉
 items	Citrine	黄水晶
-items	Summon Wisp	召唤元素
-items	Dark Grasp	牺牲
+items	Summon Wisp	光影召唤
+items	Dark Grasp	黑暗魔爪
 items	Elsenrail	光剑爱森瑞尔
 items	Glomenthal	暗之剑葛罗曼沙
 items	Terminus	特敏那斯圣剑
@@ -875,11 +875,11 @@ items	Guardian	守卫之矛
 items	Foulfang	恶牙匕
 items	Scepter of Kings	众王令牌
 items	Breaker	破坏之棒
-items	Staff of the Swamp	沼泽之棍
+items	Staff of the Swamp	沼泽之杖
 items	Longseeker	百步穿杨弓
 items	Serendine's Preservation	塞兰登之救赎
-items	Glomenmail	葛蓝门锁子甲
-items	Supreme Plate	超凡铠甲
+items	Glomenmail	葛蓝门锁甲
+items	Supreme Plate	超凡钢甲
 items	Eclipse	日蚀之盾
 items	Fleetfingers	空空手套
 items	Herald's Boots	前锋之靴
@@ -894,7 +894,7 @@ items	Hell's Cleaver	地狱邪斧
 items	Spiritslayer	灵魂断碎矛
 items	Trident of Rulership	统治三叉戟
 items	Blade of Mercy	慈悲之刃
-items	Staff of Elements	元素之棍
+items	Staff of Elements	元素之杖
 items	Tournament Bow	争斗之弓
 items	Lightning Crossbow	闪电十字弓
 items	Last Stage Cuirass	结局皮甲
@@ -902,21 +902,21 @@ items	Herondale's Lost Shield	鹰谷失落之盾
 items	Ring of Fusion	融合之戒
 items	Lucky Hat	幸运之帽
 items	Berserker Belt	狂暴腰带
-items	Mace of the Sun	烈阳锤棍
+items	Mace of the Sun	烈阳钉锤
 items	Ebonest	黑木之矛
 items	Sword of Whistlebone	惠索朋之剑
 items	Axe of Balthazar	巴尔萨煞之斧
 items	Noblebone Bow	魔骨之弓
 items	False Report	假信
 items	Urn of Ashes	骨灰坛
-items	Nightshade Brazier	龙葵炉
-items	Dragon Leader's Egg	群龙之首的龙卵
+items	Nightshade Brazier	龙葵灯炉
+items	Dragon Leader's Egg	飞龙领袖的蛋
 items	Heart of Fire	火之心
 items	Heart of Water	水之心
 items	Heart of Air	风之心
 items	Heart of Earth	地之心
 items	Conflux Key	汇流之钥
-items	Lost Book of Kehl	凯尔的失落之书
+items	Lost Book of Kehl	失落的凯尔之书
 items	Sarcophagus of Korbu	可布的石棺
 items	Puzzle Box	机关盒
 items	Vial of Grave Earth	墓土之瓶
@@ -929,14 +929,14 @@ items	Gem of Restoration	恢复宝石
 items	Prophecies of the Sun	太阳预言
 items	Remains of Korbu	可布的尸骸
 items	Ring of Keys	钥匙环
-items	Idol of the Snake	蛇之偶像
+items	Idol of the Snake	蛇之圣像
 items	Big Brass Ring	巨型铜戒指
 items	Naga Hide	蛇女皮
 items	Dire Wolf Pelt	猛狼皮
 items	Royal Wasp Jelly	蜂王胶
 items	Dragonbane Flower	灭龙花
 items	Bone of Doom	毁灭之骨
-items	Druid Circlet of Power	督伊德力量之环
+items	Druid Circlet of Power	德鲁伊力量之环
 items	Arcane Key	魔法之钥
 items	Wyvern Horn	双足翼龙之角
 items	Ogre Key	巨魔之钥匙
@@ -955,9 +955,9 @@ items	Ogre Ear	巨魔之耳
 items	Wasp Stingers	黄蜂刺
 items	Green Apple	绿苹果
 items	Enchanted Amulet	附魔护身符
-items	Wheel of Frelandeau	独角兽乳酪
-items	Log of Eldenbrie	艾顿布理乳酪
-items	Ball of Dunduck	登达克乳酪
+items	Wheel of Frelandeau	独角兽奶酪
+items	Log of Eldenbrie	艾顿布理奶酪
+items	Ball of Dunduck	登达克奶酪
 items	Emperor Thorn's Key	索恩帝王之钥
 items	Cannonball of Dominion	制霸炮弹
 items	Certificate of Authentication	认证书
@@ -1003,8 +1003,8 @@ items	Scavenger hunt.	寻宝游戏
 items	Old Halberd	旧戟
 items	Crude Trident	粗制三叉戟
 items	Crude Crossbow	粗制十字弓
-items	Crude Mace	粗制锤棍
-items	Simple Staff	简易棍棒
+items	Crude Mace	粗制钉锤
+items	Simple Staff	简易手杖
 items	Crude Leather Armor	粗制皮甲
 items	Disheveled Chain Mail	混乱锁甲
 items	Quality Steel Chain Mail	优质钢甲
@@ -1013,7 +1013,7 @@ items	Heavy Poleaxe	重战斧
 items	Grand Poleaxe	大战斧
 items	Common Halberd	通用戟
 items	Crude Longbow	粗制长弓
-items	Simple Mace	简易锤棍
+items	Simple Mace	简易钉锤
 items	Massive hammer	大锤
 items	Wand of Harming	伤害魔杖
 items	Alacorn Wand of Berzerking	狂战士独角兽魔杖
@@ -1026,7 +1026,7 @@ items	Magic Potion	魔法药剂
 items	Energy	能量药剂
 items	Protection	保护药剂
 items	Resistance	防御药剂
-items	Cure Poison	疗毒药剂
+items	Cure Poison	解毒药剂
 items	Supreme Protection	超级保护药剂
 items	Restoration	恢复药剂
 items	Extreme Energy	顶级能量药剂
@@ -1051,7 +1051,7 @@ items	Ruby	红宝石
 items	Harpy Feather	鹰身女妖的羽毛
 items	Widowsweep Berries	柳条浆果
 items	Crushed Rose Petals	玫瑰花
-items	Vial of Troll Blood	巨人血瓶
+items	Vial of Troll Blood	巨魔血瓶
 items	Dragon's Eye	龙之眼
 items	Meteorite Fragment	陨星碎片
 items	Elvish Toadstool	精灵毒菌
@@ -1080,7 +1080,7 @@ items	Flaming Potion	火焰药剂
 items	Freezing Potion	冰冻药剂
 items	Noxious Potion	剧毒药剂
 items	Shocking Potion	光环药剂
-items	Swift Potion	敏捷药剂
+items	Swift Potion	迅捷药剂
 items	Divine Restoration	神圣恢复药剂
 items	Luck Boost	运气药剂
 items	Fire Resistance	御火药剂
@@ -1135,7 +1135,7 @@ autonote or awards	Magic Potion (Blue) = Phirna Root + Empty Bottle	魔法药剂
 autonote or awards	Energy (Yellow) = Poppysnaps + Empty Bottle	能量药剂（黄色）= 罂粟花 + 空药剂瓶
 autonote or awards	Protection (Orange) = Yellow + Red	保护药剂（橙色）= 黄色药剂 + 红色药剂
 autonote or awards	Resistance (Green) = Yellow + Blue	防御药剂（绿色）= 黄色药剂 + 蓝色药剂
-autonote or awards	Cure Poison (Purple) = Blue + Red	疗毒药剂（紫色）= 蓝色药剂 + 红色药剂
+autonote or awards	Cure Poison (Purple) = Blue + Red	解毒药剂（紫色）= 蓝色药剂 + 红色药剂
 autonote or awards	Supreme Protection (White) = Orange + Green	超级保护药剂（白色）= 橙色药剂 + 绿色药剂
 autonote or awards	Restoration(White) = Purple + Green	恢复药剂（白色）= 紫色药剂 + 绿色药剂
 autonote or awards	Extreme Energy (White) = Orange + Yellow	顶级能量药剂（白色）= 橙色药剂 + 黄色药剂
@@ -1187,8 +1187,8 @@ autonote or awards	Noxious Potion (White) = Orange + Blue and Green Layered	剧�
 autonote or awards	Noxious Potion (White) = Purple + Yellow and Green Layered	剧毒药剂（白色）= 紫色药剂 + 黄绿相间药剂
 autonote or awards	Shocking Potion (White) = Purple + Red and Orange Layered	光环药剂（白色）= 紫色药剂 + 红橙相间药剂
 autonote or awards	Shocking Potion (White) = Orange + Red and Purple Layered	光环药剂（白色）= 橙色药剂 + 红紫相间药剂
-autonote or awards	Swift Potion (White) = Green + Blue and Purple Layered	敏捷药剂（白色）= 绿色药剂 + 蓝紫相间药剂
-autonote or awards	Swift Potion (White) = Purple + Blue and Green Layered	敏捷药剂（白色）= 紫色药剂 + 蓝绿相间药剂
+autonote or awards	Swift Potion (White) = Green + Blue and Purple Layered	迅捷药剂（白色）= 绿色药剂 + 蓝紫相间药剂
+autonote or awards	Swift Potion (White) = Purple + Blue and Green Layered	迅捷药剂（白色）= 紫色药剂 + 蓝绿相间药剂
 autonote or awards	Cure Paralysis (White) = Green + Yellow and Orange Layered	治愈麻痹药剂（白色）= 绿色药剂 + 黄橙相间药剂
 autonote or awards	Cure Paralysis (White) = Orange + Yellow and Green Layered	治愈麻痹药剂（白色）= 橙色药剂 + 黄绿相间药剂
 autonote or awards	Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered	神圣恢复药剂（白色）= 红橙相间药剂 + 蓝绿相间药剂
@@ -1205,7 +1205,7 @@ autonote or awards	Mind Resistance (White) = Red and Purple Layered + Blue and G
 autonote or awards	Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered	御体药剂（白色）= 蓝绿相间药剂 + 黄橙相间药剂
 autonote or awards	Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)	解除石化药剂（黑色）= 红紫相间药剂 + 治愈麻痹药剂（白色）
 autonote or awards	Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)	屠龙药剂（黑色）= 蓝紫相间药剂 + 火焰药剂（白色）
-autonote or awards	Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)	永恒运气药剂（黑色）= 黄橙相间药剂 + 敏捷药剂（白色）
+autonote or awards	Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)	永恒运气药剂（黑色）= 黄橙相间药剂 + 迅捷药剂（白色）
 autonote or awards	Pure Speed (Black) = Purple Potion + Speed Boost (White)	永恒速度药剂（黑色）= 紫色药剂 + 速度药剂（白色）
 autonote or awards	Pure Intellect (Black) = Orange Potion + Intellect Boost (White)	永恒智力药剂（黑色）= 橙色药剂 + 智力药剂（白色）
 autonote or awards	Pure Endurance (Black) = Green Potion + Endurance Boost (White)	永恒耐力药剂（黑色）= 绿色药剂 + 耐力药剂（白色）
@@ -1239,20 +1239,20 @@ autonote or awards	Pure Body Resistance = Essence of Luck + Body Resistance	永�
 autonote or awards	Protection from Magic = Remove Fear + Preservation	御魔奇术药剂 = 驱逐恐惧药剂 + 天神护体药剂
 autonote or awards	Protection from Magic = Remove Curse + Water Breathing	御魔奇术药剂 = 驱魔除咒药剂 + 水中呼吸药剂
 autonote or awards	Protection from Magic = Cure Insanity + Bless	御魔奇术药剂 = 治愈痴狂药剂 + 圣灵佑佐药剂
-location	Dagger Wound Island	匕伤群岛
-location	Ravenshore	鸦岸
+location	Dagger Wound Island	匕伤岛
+location	Ravenshore	渡鸦海滨
 location	Alvar	阿尔瓦
 location	Ironsand Desert	铁沙漠
 location	Garrote Gorge	绞刑峡谷
-location	Shadowspire	影旋山脉
+location	Shadowspire	阴影塔
 location	Murmurwoods	低语森林
-location	Ravage Roaming	荒烟回廊
+location	Ravage Roaming	残破镇
 location	Plane of Air	风元素界
-location	Plane of Earth	地元素界
+location	Plane of Earth	土元素界
 location	Plane of Fire	火元素界
 location	Plane of Water	水元素界
 location	Regna	雷格那
-location	Plane Between Planes	界间次元
+location	Plane Between Planes	界间之地
 location	Tutorial	教学之地
 location	Abandoned Temple	废庙
 location	Pirate Outpost	海盗前哨站
@@ -1261,7 +1261,7 @@ location	Dire Wolf Den	猛狼穴
 location	Merchant House of Alvar	阿尔瓦商人之家
 location	Escaton's Crystal	爱斯卡顿水晶
 location	Wasp Nest	黄蜂巢
-location	Ogre Fortress	巨魔要塞
+location	Ogre Fortress	食人妖要塞
 location	Troll Tomb	巨魔墓穴
 location	Cyclops Larder	独眼巨人储藏室
 location	Chain of Fire	火焰之链
@@ -1271,7 +1271,7 @@ location	Naga Vault	半蛇人洞穴
 location	Necromancers' Guild	死灵法师公会
 location	Mad Necromancer's Lab 	疯狂死灵法师实验室
 location	Vampire Crypt	吸血鬼墓窖
-location	Temple of the Sun	太阳庙
+location	Temple of the Sun	太阳神庙
 location	Druid Circle	德鲁伊圣圈
 location	Balthazar Lair	巴尔萨煞巢穴
 location	Barbarian Fortress	野蛮人要塞
@@ -1280,15 +1280,15 @@ location	Castle of Air	风之城堡
 location	Tomb of Lord Brinne	布林恩爵士之墓
 location	Castle of Fire	火之城堡
 location	War Camp	军营
-location	Pirate Stronghold	海盗要塞
+location	Pirate Stronghold	海盗堡垒
 location	Abandoned Pirate Keep	废弃海盗要塞
-location	Passage Under Regna	雷格那地底隧道
-location	Small Sub Pen	地底小洞窟
+location	Passage Under Regna	雷格那地下隧道
+location	Small Sub Pen	地下小洞窟
 location	Escaton's Palace	爱斯卡顿宫殿
 location	Prison of the Lord of Air	风之王监狱
 location	Prison of the Lord of Fire	火之王监狱
 location	Prison of the Lord of Water	水之王监狱
-location	Prison of the Lord of Earth	地之王监狱
+location	Prison of the Lord of Earth	土之王监狱
 location	Uplifted Library	图书馆高塔
 location	Dark Dwarf Compound	黑暗矮人聚集地
 location	Arena	竞技场
@@ -1296,9 +1296,9 @@ location	Ancient Troll Home	古代巨魔之家
 location	Grand Temple of Eep	伊普圣殿
 location	Chapel of Eep	伊普小教堂
 location	Church of Eep	伊普礼拜堂
-location	Old Loeb's Cave	老罗伯洞穴
-location	Ilsingore's Cave	艾欣格洞穴
-location	Yaardrake's Cave	雅达克洞穴
+location	Old Loeb's Cave	老罗伯的洞穴
+location	Ilsingore's Cave	艾欣格的洞穴
+location	Yaardrake's Cave	雅达克的洞穴
 location	NWC	NWC
 location	Emerald Island	翡翠岛
 location	Harmondale	哈蒙代尔
@@ -1327,11 +1327,11 @@ location	The Walls of Mist	迷雾之墙
 location	Clanker's Laboratory	科兰克实验室
 location	Zokarr's Tomb	佐卡尔的坟墓
 location	The School of Sorcery	魔法学院
-location	Watchtower 6	6号了望塔
+location	Watchtower 6	6号哨塔
 location	The Wine Cellar	酒窖
 location	The Tidewater Caverns	潮水洞穴
 location	Lord Markham's Manor	马克汉姆的府邸
-location	Grand Temple of the Moon	月亮神庙
+location	Grand Temple of the Moon	高级月亮神庙
 location	The Mercenary Guild	雇佣兵行会
 location	White Cliff Cave	悬崖洞穴
 location	The Hall under the Hill	山下之厅
@@ -1366,14 +1366,14 @@ location	Barrow V	坟墓5
 location	Barrow XI	坟墓11
 location	Barrow XV	坟墓15
 location	Wromthrax's Cave	劳斯莱克的洞穴
-location	William Setag's Tower	威廉姆-塞塔格的塔
+location	William Setag's Tower	威廉姆·塞塔格的塔
 location	The Hidden Tomb	神秘之墓
 location	The Dragon Caves	龙穴
 location	The Bandit Caves	盗贼巢穴
 location	The Small House	小屋
 location	Temple of the Light	光明神庙
 location	Temple of the Dark	暗黑神庙
-location	Grand Temple of the Sun	太阳神庙
+location	Grand Temple of the Sun	高级太阳神庙
 location	The Hall of the Pit	地狱之厅
 location	Sweet Water	甜水镇
 location	Paradise Valley	天堂谷
@@ -1412,7 +1412,7 @@ location	Caves of the Dragon Riders	驯龙者洞穴
 location	Temple of Baa	羊鸣庙
 location	Temple of the Fist	神拳庙
 location	Temple of Tsantsa	海神庙
-location	Temple of the Moon	月亮庙
+location	Temple of the Moon	月亮神庙
 location	Supreme Temple of Baa	超级羊鸣庙
 location	Superior Temple of Baa	顶级羊鸣庙
 location	Temple of the Snake	巨蛇庙
@@ -1428,8 +1428,8 @@ location	Dragon's Lair	龙穴
 location	pending	不明地
 location	Devil Outpost	恶魔据点
 location	New World Computing	New World Computing
-location	The Breach	缺口
-location	Basement of the Breach	缺口地下室
+location	The Breach	大裂缝
+location	Basement of the Breach	大裂缝地下室
 location	The Strange Temple	奇异神庙
 monsters	Archer	弓箭手
 monsters	Master Archer	弓箭大师
@@ -1445,7 +1445,7 @@ monsters	Terrible Eye	恐怖之眼
 monsters	Maddening Eye	狂乱之眼
 monsters	Blood Sucker	吸血者
 monsters	Brain Sucker	嗜脑髓者
-monsters	Soul Sucker	招魂者
+monsters	Soul Sucker	摄魂者
 monsters	Acolyte of Baa	羊鸣教僧徒
 monsters	Cleric of Baa	羊鸣教牧师
 monsters	Priest of Baa	羊鸣教教父
@@ -1466,7 +1466,7 @@ monsters	Lightning Lizard	闪电蜥蜴
 monsters	Thunder Lizard	雷霆蜥蜴
 monsters	Flame Drake	火亚龙
 monsters	Frost Drake	冰亚龙
-monsters	Energy Drake	强力亚龙
+monsters	Energy Drake	能量亚龙
 monsters	Wyrm	威猛兽
 monsters	Giant Wyrm	巨型威猛兽
 monsters	Great Wyrm	超级威猛兽
@@ -1481,7 +1481,7 @@ monsters	Dwarf Warrior	矮人勇士
 monsters	Dwarf Lord	矮人爵士
 monsters	Dust Devil	尘土恶魔
 monsters	Twister	陆龙卷
-monsters	Air Elemental	空气元素
+monsters	Air Elemental	风元素
 monsters	Rock Beast	石兽
 monsters	Earth Spirit	泥土精灵
 monsters	Earth Elemental	泥土元素
@@ -1559,7 +1559,7 @@ monsters	Apprentice Mage	低级魔法师
 monsters	Journeyman Mage	游方魔法师
 monsters	Mage	魔法师
 monsters	Follower of Baa	羊鸣教教徒
-monsters	Mystic of Baa	羊鸣教神密教徒
+monsters	Mystic of Baa	羊鸣教神秘教徒
 monsters	Fanatic of Baa	羊鸣教狂热教徒
 monsters	Common Rat	老鼠
 monsters	Large Rat	大老鼠
@@ -1574,7 +1574,7 @@ monsters	Skeleton	骷髅
 monsters	Skeleton Knight	骷髅骑士
 monsters	Skeleton Lord	骷髅爵士
 monsters	Sorcerer	巫师
-monsters	Magician	魔法师
+monsters	Magician	魔术师
 monsters	Warlock	邪术师
 monsters	Spider	蜘蛛
 monsters	Giant Spider	巨型蜘蛛
@@ -1593,7 +1593,7 @@ monsters	Reactor	反应器
 monsters	Angel	天使
 monsters	Angel Lord	炽天使
 monsters	Archangel	大天使
-monsters	Bowman	高级弓箭手
+monsters	Bowman	高级射手
 monsters	Elite Archer	神射手
 monsters	Inferno Bat	地狱蝙蝠
 monsters	Young Behemoth	比蒙幼兽
@@ -1628,7 +1628,7 @@ monsters	Sprite	水妖
 monsters	Sylph	水精灵
 monsters	Elven Archer	精灵弓箭手
 monsters	Elven Scout	精灵侦察兵
-monsters	Elven Ranger	精灵巡逻兵
+monsters	Elven Ranger	精灵游骑兵
 monsters	Elven Warrior	精灵战士
 monsters	Elven Defender	精灵卫士
 monsters	Elven Lancer	精灵勇士
@@ -1644,9 +1644,9 @@ monsters	Djinni	神怪
 monsters	Shade	鬼魂
 monsters	Hobgoblin	大耳怪首领
 monsters	Goblin Lord	大耳怪王
-monsters	Gogling	小妖精
-monsters	Gog	妖精
-monsters	Magog	大妖精
+monsters	Gogling	小哥魔
+monsters	Gog	哥魔
+monsters	Magog	大哥魔
 monsters	Bronze Golem	黄铜人
 monsters	Brass Golem	青铜人
 monsters	Gold Golem	金人
@@ -1668,7 +1668,7 @@ monsters	Empress Medusa	美杜莎女皇
 monsters	Minotaur Headsman	牛头怪首领
 monsters	Minotaur Lord	牛头王
 monsters	Monk	僧侣
-monsters	Initiate	隐士
+monsters	Initiate	修士
 monsters	Master	智者
 monsters	Necromancer	巫师
 monsters	Speaker for the Dead	大巫师
@@ -1700,15 +1700,15 @@ monsters	Troglodyte Queen	洞穴女皇
 monsters	Minion Vampire	吸血鬼
 monsters	Vampire	吸血怪
 monsters	Elder Vampire	吸血王
-monsters	Fire Warlock	火魔法师
-monsters	Water Warlock	水魔法师
-monsters	Air Warlock	空气魔法师
+monsters	Fire Warlock	火邪术师
+monsters	Water Warlock	水邪术师
+monsters	Air Warlock	空气邪术师
 monsters	Wight	野鬼
 monsters	Wraith	鬼怪
 monsters	Barrow Wight	游魂
-monsters	Wyvern	飞龙
-monsters	Horned Wyvern	大飞龙
-monsters	Ancient Wyvern	飞龙王
+monsters	Wyvern	双足翼龙
+monsters	Horned Wyvern	长角双足翼龙
+monsters	Ancient Wyvern	远古双足翼龙
 monsters	Rotted Corpse	腐尸
 monsters	Walking Dead	丧尸
 monsters	Zombie	僵尸
@@ -1772,12 +1772,12 @@ monsters	Bestial Shapeshifter	突变巨鼠
 monsters	Bestial Lycanthrope	兽化鼠妖
 monsters	Dragon Hunter	猎龙人
 monsters	Crusader	十字军
-monsters	Dragonslayer	杀龙人
+monsters	Dragonslayer	屠龙者
 monsters	Vampire Minion	吸血鬼爪牙
 monsters	Greater Vampire	大吸血鬼
 monsters	Dark Path Journeyman	黑暗之道旅者
 monsters	Master Necromancer	死灵大法师
-monsters	Troll Clubman	巨魔棍棒兵
+monsters	Troll Clubman	巨魔棍兵
 monsters	Troll Warrior	巨魔战士
 monsters	Troll Chieftain	巨魔酋长
 monsters	Troll Peasant	巨魔农民
@@ -1791,8 +1791,8 @@ monsters	Lesser Fire Elemental	次级火元素
 monsters	Greater Fire Elemental	高等火元素
 monsters	Lesser Water Elemental	次级水元素
 monsters	Greater Water Elemental	高等水元素
-monsters	Lesser Earth Elemental	次级地元素
-monsters	Greater Earth Elemental	高等地元素
+monsters	Lesser Earth Elemental	次级土元素
+monsters	Greater Earth Elemental	高等土元素
 monsters	Lesser Air Elemental	次级风元素
 monsters	Greater Air Elemental	高等风元素
 monsters	Dire Wolf Yearling	猛狼幼兽
@@ -1859,7 +1859,7 @@ monsters	Fear	恐惧
 monsters	Terror	畏怖
 monsters	Nightmare	恶梦
 monsters	Ether Knight	以太骑士
-monsters	Ether Champion	以太英豪
+monsters	Ether Champion	以太勇士
 monsters	Ether Lord	以太亡者
 monsters	Charger	冲撞者
 monsters	Juggernaut	巨灵车
@@ -1890,7 +1890,7 @@ monsters	Pirate Wizard	海盗巫师
 monsters	Hatchling	小龙
 monsters	Dragonette	幼龙
 monsters	Young Dragon	少龙
-monsters	Soldier of Fortune	未来战士
+monsters	Soldier of Fortune	兵痞
 monsters	Mercenary	佣兵
 monsters	Mercenary Captain	佣兵队长
 monsters	Chaos Guardian	混沌守卫
@@ -1979,10 +1979,10 @@ npcprof	Apothecary	药剂师
 npcprof	Chaplain	牧师
 npcprof	Diplomat	外交官
 npcprof	Fallen Wizard	堕落巫师
-npcprof	Initiate	沙弥
+npcprof	Initiate	修士
 npcprof	Prelate	主教
 npcprof	Monk	僧侣
-npcprof	Sage	智者
+npcprof	Sage	贤人
 npcprof	Blacksmith	铁匠
 npcprof	Armorsmith	盔甲工匠
 npcprof	Shopkeeper	店主
@@ -1990,25 +1990,25 @@ npcprof	Stablemaster	驿站主人
 npcprof	Captain	船长
 npcprof	Innkeep	旅店老板
 npcprof	Guildmaster	行会首领
-npcprof	Magician	魔法师
+npcprof	Magician	魔术师
 npcprof	Smuggler	走私者
 npcprof	Barmaid	服务员
 npcprof	Brekish One-Fang	布拉克许·单牙
 npcprof	Wererat Smuggler	半鼠人走私贩子
 npcprof	Overdune	欧瓦都
-npcprof	Dragon	龙
+npcprof	Dragon	飞龙
 npcprof	Charles Quixote	查尔斯·吉科德
 npcprof	Sandro	山德罗
 npcprof	Dyson Leland	戴森·李蓝
 npcprof	Escaton	爱斯卡顿
-skilldes	Staff	棍棒
+skilldes	Staff	手杖
 skilldes	Sword	长剑
 skilldes	Dagger	匕首
 skilldes	Axe	战斧
 skilldes	Spear	长矛
 skilldes	Bow	弓箭
-skilldes	Mace	锤棍
-skilldes	Blaster	爆能枪
+skilldes	Mace	钉锤
+skilldes	Blaster	榴弹枪
 skilldes	Shield	盾牌
 skilldes	Leather	皮甲
 skilldes	Chain	锁甲
@@ -2022,7 +2022,7 @@ skilldes	Mind	心智魔法
 skilldes	Body	肢体魔法
 skilldes	Light	光明魔法
 skilldes	Dark	暗黑魔法
-skilldes	Identify	鉴定术
+skilldes	Identify	鉴定
 skilldes	Merchant	经商术
 skilldes	Repair	修补术
 skilldes	Bodybuilding	健身术
@@ -2034,7 +2034,7 @@ skilldes	Disarm Traps	陷阱拆卸术
 skilldes	Learning	学习术
 skilldes	Identify Item	物品鉴定术
 skilldes	Dodging	闪躲术
-skilldes	Unarmed	肉搏术
+skilldes	Unarmed	空手搏斗术
 skilldes	Identify Monster	怪物鉴定术
 skilldes	Armsmaster	武器使用术
 skilldes	Stealing	偷窃术
@@ -2287,7 +2287,7 @@ stats	Exp.	经验值
 stats	Attack	攻击
 stats	Class	职业
 stats	Cond	状态
-stats	Dmg	破坏力
+stats	Dmg	杀伤力
 stats	Fame	知名度
 stats	HP	生命值
 stats	Name	姓名
@@ -2311,14 +2311,14 @@ spellgroupshort	Poison	中毒
 spellgroupshort	Magic	魔系
 condition	Afraid	恐惧
 condition	Asleep	睡着
-condition	Cursed	被诅咒
+condition	Cursed	诅咒
 condition	Dead	死亡
 condition	Diseased	患病
 condition	Drunk	喝醉
 condition	Eradicated	灰飞烟灭
 condition	Good	健康
 condition	Insane	痴狂
-condition	Paralyzed	被麻痹
+condition	Paralyzed	麻痹
 condition	Poison	中毒
 condition	Stoned	石化
 condition	Unconscious	昏迷
@@ -2362,8 +2362,8 @@ stditems	of Items	物品鉴定类
 stditems	of Monsters	怪物鉴定类
 stditems	of Arms	武器使用类
 stditems	of Dodging	闪躲类
-stditems	of the Fist	肉搏类
-stditems	of great Might	高力量类
+stditems	of the Fist	赤手空拳类
+stditems	of great Might	大力类
 spcitems	of Protection	保护类
 spcitems	of The Gods	众神类
 spcitems	of Carnage	屠杀类
@@ -2422,7 +2422,7 @@ spcitems	of The Unicorn	独角兽类
 spcitems	Warriors'	勇士类
 spcitems	Wizards'	法师类
 spcitems	Antique	古董类
-spcitems	Swift	敏捷类
+spcitems	Swift	迅捷类
 spcitems	Monks'	僧侣类
 spcitems	Thieves'	盗贼类
 spcitems	of Identifying	鉴定类

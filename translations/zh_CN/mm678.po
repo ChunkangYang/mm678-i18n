@@ -14929,7 +14929,7 @@ msgstr "精灵披风"
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:110
 msgctxt "items"
 msgid "Woven from plant fibers found in the forests of Erathia, these cloaks are the traditional garb of the Elven Rangers."
-msgstr "由取自埃拉西亚森林中的植物纤维制成，是精灵族巡逻队的传统装束。"
+msgstr "由取自埃拉西亚森林中的植物纤维制成，是精灵游骑兵的传统装束。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1711
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:111
@@ -15634,7 +15634,7 @@ msgstr "箭杖"
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:143
 msgctxt "items"
 msgid "Fairy Wand of Fire"
-msgstr "火焰仙杖"
+msgstr "烈火仙杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1743
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1744
@@ -15653,19 +15653,19 @@ msgstr "与其说是魔杖，更像是手杖。尽管它从树上砍下来好多
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:144
 msgctxt "items"
 msgid "Fairy Wand of Sparks"
-msgstr "火星仙杖"
+msgstr "火光仙杖"
 
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:145
 msgctxt "items"
 msgid "Fairy Wand of Poison"
-msgstr "放毒仙杖"
+msgstr "毒药仙杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:946
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:145
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:146
 msgctxt "items"
 msgid "Fairy Wand of Mind"
-msgstr "心智仙杖"
+msgstr "心灵仙杖"
 
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:147
 msgctxt "items"
@@ -15696,7 +15696,7 @@ msgstr "此魔杖由独角兽的神角和抛光的木料拼制而成。它天生
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:149
 msgctxt "items"
 msgid "Alacorn Wand of Ice"
-msgstr "冰冻权杖"
+msgstr "寒冰权杖"
 
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:150
 msgctxt "items"
@@ -15770,7 +15770,7 @@ msgstr "云雾权杖"
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:158
 msgctxt "items"
 msgid "Mystic Wand of Implosion"
-msgstr "挤压神杖"
+msgstr "内爆神杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1758
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1759
@@ -15791,7 +15791,7 @@ msgstr "此类魔杖由幼龙的前爪制成，具有威力最强大的魔法力
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:159
 msgctxt "items"
 msgid "Mystic Wand of Distortion"
-msgstr "变形神杖"
+msgstr "扭曲神杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:960
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:159
@@ -15805,7 +15805,7 @@ msgstr "霰弹神杖"
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:161
 msgctxt "items"
 msgid "Mystic Wand of Shrinking"
-msgstr "萎缩神杖"
+msgstr "缩小神杖"
 
 #: mm6/data/10LocLANG.icons/ITEMS.TXT.py:162
 msgctxt "items"
@@ -24298,13 +24298,13 @@ msgstr "罗兰德国王的游艇——凯瑟琳皇后号，已经多年没有出
 #: mm6/data/10LocLANG.icons/NPCNews.txt.py:75
 msgctxt "npc conversation"
 msgid "Lizardmen"
-msgstr "巨蜥人"
+msgstr "蜥蜴人"
 
 #: mmmerge/Data/Text localization/LANG_NPCNews.txt.py:176
 #: mm6/data/10LocLANG.icons/NPCNews.txt.py:75
 msgctxt "npc conversation"
 msgid "Lizardmen prowl around the swampy areas south of Castle Ironfist.  They use bows, but the most powerful are wizards that will cast Lightning Bolts when threatened."
-msgstr "巨蜥人潜伏在铁拳城堡南面的沼泽地区。他们一般使用弓箭，但最强大的是他们的法师，当情况紧急时会发射光电霹雳。"
+msgstr "蜥蜴人潜伏在铁拳城堡南面的沼泽地区。他们一般使用弓箭，但最强大的是他们的法师，当情况紧急时会发射光电霹雳。"
 
 #: mmmerge/Data/Text localization/LANG_NPCNews.txt.py:177
 #: mm6/data/10LocLANG.icons/NPCNews.txt.py:76
@@ -61054,7 +61054,7 @@ msgstr "菲尼克斯头盔"
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:94
 msgctxt "items"
 msgid "Worn by Phynaxian Dragoons during the expansion of their empire a few hundred years ago, these helms are tough, flexible, and light.  They are made of two strips of dragonhide bound together with stalt metal studs."
-msgstr "在几百年前的帝国扩张过程中，菲尼克斯王国的龙骑兵佩戴了这种头盔，它们坚韧、灵活、轻便，是由两根龙皮条用斯多克金属钉绑在一起制成的。"
+msgstr "在几百年前的帝国扩张过程中，菲尼克斯王国的龙骑兵佩戴了这种头盔，它们坚韧、灵活、轻便，是由两根龙皮条用斯多特金属钉绑在一起制成的。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:896
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:95
@@ -61536,7 +61536,7 @@ msgstr "毒药之杖"
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:141
 msgctxt "items"
 msgid "Wand of Harm"
-msgstr "攻击之杖"
+msgstr "伤害之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:943
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:142
@@ -61568,13 +61568,13 @@ msgstr "寒冰仙杖"
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:144
 msgctxt "items"
 msgid "Fairy Wand of Lashing"
-msgstr "狂暴仙杖"
+msgstr "鞭笞仙杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:947
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:146
 msgctxt "items"
 msgid "Fairy Wand of Swarms"
-msgstr "神奇仙杖"
+msgstr "蜂群仙杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:948
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:949
@@ -61594,7 +61594,7 @@ msgstr "这是用独角兽的角打造的魔杖，上面镶嵌了一颗黄铜制
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:148
 msgctxt "items"
 msgid "Alacorn Wand of Acid"
-msgstr "酸雨权杖"
+msgstr "强酸权杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:950
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:149
@@ -61620,7 +61620,7 @@ msgstr "这是一把抛光乌木魔杖，杖头顶端饰有一颗萎缩的、镶
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:153
 msgctxt "items"
 msgid "Arcane Wand of the Fist"
-msgstr "怒拳之杖"
+msgstr "猛拳权杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:958
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:959
@@ -61640,7 +61640,7 @@ msgstr "这把魔杖的顶部由一枚凤凰的蛋制成，手柄则由精钢制
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:161
 msgctxt "items"
 msgid "Mystic Wand of Incineration"
-msgstr "炽天神杖"
+msgstr "焚烧神杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:963
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:964
@@ -65120,7 +65120,7 @@ msgstr "这是一小块含有依鲁丁的矿石。这是一种在埃拉西亚少
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:693
 msgctxt "items"
 msgid "Stalt-laced ore"
-msgstr "斯多克矿石"
+msgstr "斯多特矿石"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:692
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1494
@@ -65128,7 +65128,7 @@ msgstr "斯多克矿石"
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:693
 msgctxt "items"
 msgid "A small chunk of stalt-laced ore.  Easy to enchant and as hard as obsidian, in the hands of a skilled craftsman stalt could make an incredibly powerful weapon, an amulet, a ring, armor, or almost any other item."
-msgstr "这是一小块含有斯多克的矿石。它易于附魔，像黑曜石一样坚硬。在熟练的工匠手中，斯多克可以制造出威力惊人的武器、护身符、戒指、盔甲，或者几乎任何其他物品。"
+msgstr "这是一小块含有斯多特的矿石。它易于附魔，像黑曜石一样坚硬。在熟练的工匠手中，斯多特可以制造出威力惊人的武器、护身符、戒指、盔甲，或者几乎任何其他物品。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1495
 #: mm7/DATA/10LocLANG.events/ITEMS.TXT.py:694
@@ -84489,7 +84489,7 @@ msgstr "龙鱼叉"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:48
 msgctxt "items"
 msgid "The back-barbed stalt steel head of this weapon is designed to deal grievous damage to even the most ancient of dragons. Naturally, it is the spearfighter's choice for dispatching all foes."
-msgstr "这种武器的背刺斯多克钢头可以对飞龙造成巨大伤害，连最古老的龙类都无法逃脱它的威胁。它很自然地成为了长矛手消灭敌人的利器。"
+msgstr "这种武器的背刺斯多特钢头可以对飞龙造成巨大伤害，连最古老的龙类都无法逃脱它的威胁。它很自然地成为了长矛手消灭敌人的利器。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:47
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:49
@@ -84723,7 +84723,7 @@ msgstr "雷格那十字弓"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:68
 msgctxt "items"
 msgid "The pirates of Regna Island have spent centuries perfecting their crossbow design. The resulting weapon has a crystal lensed sight and bowstaves of pure stalt - which would make the bow impossible to cock if not for the crank draw of erudine alloy."
-msgstr "雷格那岛上的海盗花费了好几个世纪的时间来改良它们十字弓的设计。设计出来的这种武器带有水晶透镜瞄准器和纯斯多克弓弦。如果不是由于依鲁丁合金的曲轴牵引，根本无法扣动这种弓。"
+msgstr "雷格那岛上的海盗花费了好几个世纪的时间来改良它们十字弓的设计。设计出来的这种武器带有水晶透镜瞄准器和纯斯多特弓弦。如果不是由于依鲁丁合金的曲轴牵引，根本无法扣动这种弓。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:67
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:69
@@ -84777,7 +84777,7 @@ msgstr "巨魔战斗锤"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:73
 msgctxt "items"
 msgid "While most races have concentrated on developing bladed weapons, the Trolls have always been content to refine the simple bludgeon. This brutal weapon forged as a single piece of stalt alloy is the finest example of their craft."
-msgstr "虽然大多数种族都专注于开发带刃的武器，但巨魔一族一直以改进重击武器为目标。这种由斯多克合金锻造而成的野蛮武器是他们工艺的最好例子。"
+msgstr "虽然大多数种族都专注于开发带刃的武器，但巨魔一族一直以改进重击武器为目标。这种由斯多特合金锻造而成的野蛮武器是他们工艺的最好例子。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:72
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:74
@@ -84981,7 +84981,7 @@ msgstr "阿尔瓦皮甲"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:91
 msgctxt "items"
 msgid "Leather armor sets of this quality are of the finest produced by the Alvarian Armorers' Guild. The stalt-alloy edged panels are virtually inpenetrable; their clever interlockings give the wearer excellent freedom of movement."
-msgstr "这种品质的皮甲是阿尔瓦盔甲公会所能够打造的最佳皮甲。这个皮甲所拥有的斯多克合金边板几乎无法穿透，而内部彼此闭锁的防御机制却还可以让穿戴者依旧行动自如。"
+msgstr "这种品质的皮甲是阿尔瓦盔甲公会所能够打造的最佳皮甲。这个皮甲所拥有的斯多特合金边板几乎无法穿透，而内部彼此闭锁的防御机制却还可以让穿戴者依旧行动自如。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:90
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:92
@@ -85176,7 +85176,7 @@ msgstr "猎龙人之盾"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:106
 msgctxt "items"
 msgid "The town of Kriegspire in Enroth had a problem with Dragons. These shields were their answer. Magically bound layers of erudine, stalt-steel and hydra leather, make a nearly unbreakable material resistant to most Dragon breath weapons."
-msgstr "恩洛斯克里格斯镇上的人们一直对于龙类的肆虐感到困扰，这个盾牌就是他们的解决方案。用魔法结合的一层层的依鲁丁、斯多克钢材和九头蛇皮，构成了几乎牢不可破的结构，可以抵抗大多数龙类的喷吐攻击。"
+msgstr "恩洛斯克里格斯镇上的人们一直对于龙类的肆虐感到困扰，这个盾牌就是他们的解决方案。用魔法结合的一层层的依鲁丁、斯多特钢材和九头蛇皮，构成了几乎牢不可破的结构，可以抵抗大多数龙类的喷吐攻击。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:105
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:107
@@ -85716,7 +85716,7 @@ msgstr "这是宝石工匠最自豪的完美产品。以白金打造的护身符
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:155
 msgctxt "items"
 msgid "Witch's Wand of Fire"
-msgstr "女巫火焰之杖"
+msgstr "女巫烈火之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:153
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:154
@@ -85736,19 +85736,19 @@ msgstr "这柄魔杖所使用的原料虽然原始，但却结合了黑暗灵魂
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:156
 msgctxt "items"
 msgid "Witch's Wand of Sparks"
-msgstr "女巫火花之杖"
+msgstr "女巫火光之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:155
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:157
 msgctxt "items"
 msgid "Witch's Wand of Poison"
-msgstr "女巫剧毒之杖"
+msgstr "女巫毒药之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:156
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:158
 msgctxt "items"
 msgid "Witch's Wand of Stunning"
-msgstr "女巫震撼之杖"
+msgstr "女巫眩晕之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:157
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:159
@@ -85760,7 +85760,7 @@ msgstr "女巫伤害之杖"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:160
 msgctxt "items"
 msgid "Shaman's Wand of Light"
-msgstr "萨满光之杖"
+msgstr "萨满光明之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:158
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:159
@@ -85780,7 +85780,7 @@ msgstr "在这柄魔杖顶端的哥魔骷髅中似乎有什么东西在不停的
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:161
 msgctxt "items"
 msgid "Shaman's Wand of Ice"
-msgstr "萨满冰之杖"
+msgstr "萨满寒冰之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:160
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:162
@@ -85798,7 +85798,7 @@ msgstr "萨满心灵之杖"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:164
 msgctxt "items"
 msgid "Shaman's Wand of Swarms"
-msgstr "萨满虫群之杖"
+msgstr "萨满蜂群之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:163
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:165
@@ -85836,7 +85836,7 @@ msgstr "巫师闪电之杖"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:168
 msgctxt "items"
 msgid "Wizard Wand of Blades"
-msgstr "巫师刀锋之杖"
+msgstr "巫师飞镖之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:167
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:169
@@ -85848,7 +85848,7 @@ msgstr "巫师狂暴之杖"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:170
 msgctxt "items"
 msgid "Serpent Wand of Blasting"
-msgstr "盘蛇爆炸之杖"
+msgstr "盘蛇爆破之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:168
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:169
@@ -85880,7 +85880,7 @@ msgstr "盘蛇岩石之杖"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:173
 msgctxt "items"
 msgid "Serpent Wand of Paralysis"
-msgstr "盘蛇瘫痪之杖"
+msgstr "盘蛇麻痹之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:173
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:175
@@ -85906,13 +85906,13 @@ msgstr "这柄魔杖是由独角兽的角加上一枚嵌在黄金台座中的红
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:176
 msgctxt "items"
 msgid "Necrotic Wand of Distortion"
-msgstr "死灵干扰之杖"
+msgstr "死灵扭曲之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:175
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:177
 msgctxt "items"
 msgid "Necrotic Wand of Shrapnel"
-msgstr "死灵锐金之杖"
+msgstr "死灵霰弹之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:176
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:178
@@ -85924,7 +85924,7 @@ msgstr "死灵缩小之杖"
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:179
 msgctxt "items"
 msgid "Necrotic Wand of Incineration"
-msgstr "死灵炙焰之杖"
+msgstr "死灵焚烧之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:178
 #: mm8/Data/10LocLANG.EnglishT/ITEMS.txt.py:180
@@ -109242,7 +109242,7 @@ msgstr "这把长匕首外形让人联想起埃拉西亚人用鲨鱼牙齿制成
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:852
 msgctxt "items"
 msgid "This is as much a crossbow as it is a work of art -- a sculpture of a dark figure with curved horns for bowstaves. It would be less surprising if it were indeed just a decoration, but it has all the mechanical parts it needs, cleverly worked into the wooden frame. Its origins are unknown, though it is safe to assume it's a product of dark sorcery, and its performance matches its appearance."
-msgstr "这把弩既是武器，也是艺术品——雕刻着一个黑暗身影，弯曲的兽角充作弓臂。若它只是一件摆设倒也不足为奇，但它其实具备所需的全部机关部件，巧妙地嵌入木制的弩身之中。它的来历不明，不过可以肯定与黑暗巫术脱不了干系，其性能也与外表相称。"
+msgstr "这把十字弓既是武器，也是艺术品——雕刻着一个黑暗身影，弯曲的兽角充作弓臂。若它只是一件摆设倒也不足为奇，但它其实具备所需的全部机关部件，巧妙地嵌入木制的弓身之中。它的来历不明，不过可以肯定与黑暗巫术脱不了干系，其性能也与外表相称。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:858
 msgctxt "items"
@@ -109252,7 +109252,7 @@ msgstr "简易锤"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:859
 msgctxt "items"
 msgid "Battle Hammer"
-msgstr "战锤"
+msgstr "战斗铁锤"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:859
 msgctxt "items"
@@ -109272,7 +109272,7 @@ msgstr "荆棘粗头棍"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:862
 msgctxt "items"
 msgid "This small club has been fitted with sharp, thorn-like spikes that somewhat make up for its compact size."
-msgstr "这根小棍上装有锋利的荆棘状尖刺，多少弥补了它体型短小的不足。"
+msgstr "这根小巧的粗头棍上装有锋利的荆棘状尖刺，多少弥补了它体型短小的不足。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:863
 msgctxt "items"
@@ -109333,7 +109333,7 @@ msgstr "精制皮革披风"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:910
 msgctxt "items"
 msgid "Woven from plant fibers found in the Tularean Forest, these cloaks are the traditional garb of the Elven Rangers. This black variety is reserved for higher ranking Rangers and symbolizes their status as leaders."
-msgstr "由取自图拉利昂森林中的植物纤维制成，是精灵族巡逻队的传统装束。这种黑色款式专供高阶巡逻队员穿着，象征着他们的领袖地位。"
+msgstr "由取自图拉利昂森林中的植物纤维制成，是精灵游骑兵的传统装束。这种黑色款式专供高阶游骑兵穿着，象征着他们的领袖地位。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:913
 msgctxt "items"
@@ -109378,57 +109378,57 @@ msgstr "邪术师云雾之杖"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:989
 msgctxt "items"
 msgid "An Antagarichan mountain crystal. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一块恩塔格瑞山地水晶。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一块恩塔格瑞山地水晶。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:990
 msgctxt "items"
 msgid "An Antagarichan small topaz. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗恩塔格瑞小型黄宝石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗恩塔格瑞小型黄宝石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:991
 msgctxt "items"
 msgid "An Antagarichan large emerald. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗恩塔格瑞大型绿宝石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗恩塔格瑞大型绿宝石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:992
 msgctxt "items"
 msgid "An Antagarichan sapphire in a flat round brilliant cut.  As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗切割成扁平圆形明亮式的恩塔格瑞蓝宝石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗切割成扁平圆形明亮式的恩塔格瑞蓝宝石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:993
 msgctxt "items"
 msgid "An Antagarichan green garnet in a unique flat square step cut. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗切割成独特扁平方形阶梯式的恩塔格瑞绿色石榴石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗切割成独特扁平方形阶梯式的恩塔格瑞绿色石榴石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:994
 msgctxt "items"
 msgid "An Antagarichan gemstone with a subtle rose hue. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗带有淡淡玫瑰色泽的恩塔格瑞宝石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗带有淡淡玫瑰色泽的恩塔格瑞宝石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:995
 msgctxt "items"
 msgid "An Antagarichan diamond with a small flaw, polished to a spheroidal shape. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗带有细小瑕疵、打磨成椭球形的恩塔格瑞钻石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗带有细小瑕疵、打磨成椭球形的恩塔格瑞钻石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:996
 msgctxt "items"
 msgid "An Antagarichan amethyst in an appealing round briliant shape. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗切割成迷人圆形明亮式的恩塔格瑞紫水晶。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗切割成迷人圆形明亮式的恩塔格瑞紫水晶。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:997
 msgctxt "items"
 msgid "An Antagarichan topaz, step cut and set in a bronze frame. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗阶梯式切割、镶嵌在青铜底座上的恩塔格瑞黄宝石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗阶梯式切割、镶嵌在青铜底座上的恩塔格瑞黄宝石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:998
 msgctxt "items"
 msgid "An Antagarichan diamond, flawless and set in an intricate gold frame. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗毫无瑕疵、镶嵌在精美金座上的恩塔格瑞钻石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗毫无瑕疵、镶嵌在精美金座上的恩塔格瑞钻石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:999
 msgctxt "items"
 msgid "An Antagarichan ruby in a gold frame with several smaller rubies adorning it. As a gem quality stone it has no magical properties, so you might as well sell it."
-msgstr "一颗镶嵌在金座上、周围点缀着数颗小红宝石的恩塔格瑞红宝石。作为宝石级原石，它没有魔法属性，卖掉也无妨。"
+msgstr "一颗镶嵌在金座上、周围点缀着数颗小红宝石的恩塔格瑞红宝石。作为宝石级原石，它没有魔法特性，卖掉也无妨。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1184
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1284
@@ -109538,7 +109538,7 @@ msgstr "这是埃拉西亚钢刃剑的加大版本，品质丝毫不逊于较小
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1617
 msgctxt "items"
 msgid "These splendid cutlasses were created in limited numbers by Alec Teling, master armorer to Hareck IX, and were issued only to admirals of Regnan fleets as a symbol of station. You are not likely to set your eyes upon a finer cutlass in your lifetime."
-msgstr "这些精美绝伦的短刀由海里克九世的御用军械师阿莱克·特林打造，数量稀少，只授予雷格那舰队的海军上将，作为身份的象征。你终生都难以再见到比这更精良的短刀了。"
+msgstr "这些精美绝伦的短刀由海里克九世的御用军械师埃里克·泰林打造，数量稀少，只授予雷格那舰队的海军上将，作为身份的象征。你终生都难以再见到比这更精良的短刀了。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1623
 msgctxt "items"
@@ -109643,7 +109643,7 @@ msgstr "黄金板甲"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1686
 msgctxt "items"
 msgid "This round shield is a design of the long gone Phynaxian empire that once ruled southern Erathia. Forged of stalt, it is extremely sturdy and susceptible to enchantments. It's so well-made that its only downside seems to be its rather compact size for a large shield, which somewhat limits its coverage."
-msgstr "这面圆盾出自古老的菲尼克斯帝国，该帝国曾统治埃拉西亚南部，但早已消逝。它由斯多克锻造而成，异常坚固，且极易附魔。做工如此精良，唯一的缺点似乎是作为大盾而言体积略显紧凑，防护范围因此受到一定限制。"
+msgstr "这面圆盾出自古老的菲尼克斯帝国，该帝国曾统治埃拉西亚南部，但早已消逝。它由斯多特锻造而成，异常坚固，且极易附魔。做工如此精良，唯一的缺点似乎是作为大盾而言体积略显紧凑，防护范围因此受到一定限制。"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1687
 msgctxt "items"
@@ -109763,7 +109763,7 @@ msgstr "冷酷闪电之杖"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1751
 msgctxt "items"
 msgid "Cruel Wand of Blades"
-msgstr "冷酷刀锋之杖"
+msgstr "冷酷飞镖之杖"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:1752
 msgctxt "items"
@@ -109798,7 +109798,7 @@ msgstr "龙焚烧之杖"
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:2041
 msgctxt "items"
 msgid "Graced with the might of thunder, Artemus fires bolts magically charged with electricity.  While powerful, the user of the bow should be careful--elemental magics seem drawn to the bow, and do more damage when they hit the wielder.  (Special Powers:  +20 Electricity damage, -10 to Elemental Resistances)"
-msgstr "阿尔特弥斯蕴含雷霆之力，射出的箭矢带有魔法充能的电流。虽然此弓威力强大，但使用者需多加小心——元素魔法似乎会被此弓吸引，命中持有者时造成的伤害会更大。（特殊威力：电系伤害+20，元素抗性-10）"
+msgstr "阿缇密丝蕴含雷霆之力，射出的箭矢带有魔法充能的电流。虽然此弓威力强大，但使用者需多加小心——元素魔法似乎会被此弓吸引，命中持有者时造成的伤害会更大。（特殊威力：附加20点电系伤害，四项元素抗性-10）"
 
 #: mmmerge/Data/Text localization/LANG_ItemsTxt.txt.py:2045
 msgctxt "items"
@@ -110549,7 +110549,7 @@ msgstr "\n白色御体药剂能暂时增加队员防御肢体魔法的能力。�
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:156
 msgctxt "scroll"
 msgid "A gray potions - Catalysts -  can be mixed together to result in potion with higher power. Applying Enchant Item spell on strong enough Catalyst will transform it into philsopher stone."
-msgstr "灰色药剂——催化剂——可以相互混合，制成威力更强的药剂。对足够强力的催化剂施放天赋魔力法术，可以将其变成贤者之石。"
+msgstr "灰色药剂——催化剂——可以相互混合，制成威力更强的药剂。对足够强力的催化剂施放天赋魔力法术，可以将其变成点金石。"
 
 #: mmmerge/Data/Text localization/LANG_MessageScrolls.txt.py:168
 #: mm6/data/10LocLANG.icons/Scroll.txt.py:4
@@ -112200,7 +112200,7 @@ msgstr "啊，是你们，寻宝比赛的优胜者，怎么又回来了。你们
 #: mmmerge/Data/Text localization/LANG_NPCGreet1.txt.py:333
 msgctxt "npc conversation"
 msgid "*Verdant appears behind you suddenly.* Boo! Well, well, you've traveled through time! Look around, can you believe this town, these people, they're all centuries older than you? Or have yet to be born and built? How does it feel to think about it for the first time? Hah. Here, I've got something for you - it's a Connector Gem."
-msgstr "（维尔丹突然出现在你身后。）哇！好啊好啊，你们真的穿越了时间！看看四周吧，你敢相信这座城镇，这些人，全都比你们年长了好几个世纪？又或者压根还没有出生、还没有建成？第一次想到这些，是什么感觉？哈。给，我这儿有个东西要给你们——一颗连接宝石。"
+msgstr "（维尔丹突然出现在你身后。）哇！好啊好啊，你们真的穿越了时间！看看四周吧，你敢相信这座城镇，这些人，全都比你们年长了好几个世纪？又或者压根还没有出生、还没有建成？第一次想到这些，是什么感觉？哈。给，我这儿有个东西要给你们——一颗通讯宝石。"
 
 #: mmmerge/Data/Text localization/LANG_NPCGreet2.txt.py:3
 #: mm8/Data/10LocLANG.EnglishT/npcgreet.txt.py:2
@@ -112762,22 +112762,22 @@ msgstr "错误文本"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:3
 msgctxt "npc conversation"
 msgid "Peasants on main island of Dagger Wound before the pirate outpost is defeated"
-msgstr "海盗前哨站被击败前，匕伤岛主岛上的农民"
+msgstr "海盗前哨站被击败前，匕伤岛主岛上的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:4
 msgctxt "npc conversation"
 msgid "Peasants on main island of Dagger Wound after the pirate outpost is defeated (Questbit 6)"
-msgstr "海盗前哨站被击败后，匕伤岛主岛上的农民（任务点6）"
+msgstr "海盗前哨站被击败后，匕伤岛主岛上的农夫（任务点6）"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:5
 msgctxt "npc conversation"
 msgid "Peasants on smaller islands before teleporters are fixed"
-msgstr "远距离传送器修复前，小岛上的农民"
+msgstr "远距离传送器修复前，小岛上的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:6
 msgctxt "npc conversation"
 msgid "Peasants on smaller islands after teleporters are fixed (questbit 2)"
-msgstr "远距离传送器修复后，小岛上的农民（任务点2）"
+msgstr "远距离传送器修复后，小岛上的农夫（任务点2）"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:7
 msgctxt "npc conversation"
@@ -112792,7 +112792,7 @@ msgstr "狼群"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:9
 msgctxt "npc conversation"
 msgid "Peasants in Ravenshore city"
-msgstr "渡鸦海滨城的农民"
+msgstr "渡鸦海滨城的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:10
 msgctxt "npc conversation"
@@ -112802,12 +112802,12 @@ msgstr "半鼠人"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:11
 msgctxt "npc conversation"
 msgid "Were-rats in Smugglers Cove after Fellmoon's letter has been delivered (Questbit 4).  Rats in Dungeo"
-msgstr "费尔蒙的信送达后（Questbit 4），走私者聚集处的半鼠人。地下城里的老鼠"
+msgstr "费尔蒙的信送达后（任务点4），走私者聚集处的半鼠人。地下城里的老鼠"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:12
 msgctxt "npc conversation"
 msgid "All Peasants after end game"
-msgstr "游戏结束后的所有农民"
+msgstr "游戏结束后的所有农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:13
 msgctxt "npc conversation"
@@ -112822,7 +112822,7 @@ msgstr "蜥蜴人战士"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:15
 msgctxt "npc conversation"
 msgid "Lzardmen Warriors after Questbit 6"
-msgstr "Questbit 6之后的蜥蜴人战士"
+msgstr "任务点6之后的蜥蜴人战士"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:16
 msgctxt "npc conversation"
@@ -112844,13 +112844,13 @@ msgstr "新闻"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:21
 msgctxt "npc conversation"
 msgid "Peasants in Ironsand/Rust"
-msgstr "铁沙漠/铁锈镇的农民"
+msgstr "铁沙漠/铁锈镇的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:22
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:23
 msgctxt "npc conversation"
 msgid "Dragon Hunters in Fort"
-msgstr "堡垒里的猎龙人"
+msgstr "碉堡里的猎龙人"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:24
 msgctxt "npc conversation"
@@ -112862,18 +112862,18 @@ msgstr "训练营里的猎龙人"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:27
 msgctxt "npc conversation"
 msgid "Peasants in Shadowspire"
-msgstr "阴影塔的农民"
+msgstr "阴影塔的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:28
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:29
 msgctxt "npc conversation"
 msgid "Peasants in Murmurwoods"
-msgstr "低语森林的农民"
+msgstr "低语森林的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:30
 msgctxt "npc conversation"
 msgid "Ogres in Ravage Roaming by Zog's fort"
-msgstr "残破镇里索格堡垒附近的食人妖"
+msgstr "残破镇里索格要塞附近的食人妖"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:31
 msgctxt "npc conversation"
@@ -112890,7 +112890,7 @@ msgstr "雷格那的海盗农民"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:35
 msgctxt "npc conversation"
 msgid "Peasant Minotaurs in Balzathar Lair"
-msgstr "巴尔萨煞的牛头人农民"
+msgstr "巴尔萨煞巢穴的牛头人农民"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:36
 msgctxt "npc conversation"
@@ -112921,7 +112921,7 @@ msgstr "公会中的死灵法师"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:45
 msgctxt "npc conversation"
 msgid "Rogues inside Dragon Hunter's Fort"
-msgstr "猎龙人要塞内的歹徒"
+msgstr "猎龙人碉堡内的歹徒"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:46
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:47
@@ -112962,7 +112962,7 @@ msgstr "农夫对话2，翡翠岛"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:59
 msgctxt "npc conversation"
 msgid "Adventurer message 2, Emerald Island"
-msgstr "探险家对话2，翡翠岛"
+msgstr "探险者对话2，翡翠岛"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:63
 msgctxt "npc conversation"
@@ -113032,67 +113032,67 @@ msgstr "地狱城第一区域的农夫"
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:77
 msgctxt "npc conversation"
 msgid "Peasents in the second area of the pit"
-msgstr "地狱城第二区域的平民"
+msgstr "地狱城第二区域的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:78
 msgctxt "npc conversation"
 msgid "Peasents in the third area of the pit"
-msgstr "地狱城第三区域的平民"
+msgstr "地狱城第三区域的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:79
 msgctxt "npc conversation"
 msgid "Peasents in main town of nighon"
-msgstr "尼根主城的平民"
+msgstr "尼根主城的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:80
 msgctxt "npc conversation"
 msgid "Peasents in western town of Nighon"
-msgstr "尼根西城的平民"
+msgstr "尼根西城的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:81
 msgctxt "npc conversation"
 msgid "Peasents in Eastern village of Nighon"
-msgstr "尼根东村的平民"
+msgstr "尼根东村的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:82
 msgctxt "npc conversation"
 msgid "Peasents in the Mercenary guild village"
-msgstr "雇佣兵行会村庄的平民"
+msgstr "雇佣兵行会村庄的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:83
 msgctxt "npc conversation"
 msgid "Peasents in the wharf town"
-msgstr "码头镇的平民"
+msgstr "码头镇的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:84
 msgctxt "npc conversation"
 msgid "Peasents in the village area"
-msgstr "村庄区域的平民"
+msgstr "村庄区域的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:85
 msgctxt "npc conversation"
 msgid "Peasents in the Dock area"
-msgstr "码头区域的平民"
+msgstr "码头区域的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:86
 msgctxt "npc conversation"
 msgid "Peasents good endgame"
-msgstr "善良结局中的平民"
+msgstr "善良结局中的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:87
 msgctxt "npc conversation"
 msgid "Peasents evil endgame"
-msgstr "邪恶结局中的平民"
+msgstr "邪恶结局中的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:88
 msgctxt "npc conversation"
 msgid "Peasants in 6/7 endgame"
-msgstr "6/7结局中的平民"
+msgstr "6/7结局中的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCNewsTopics.txt.py:89
 msgctxt "npc conversation"
 msgid "Peasants in 5/8 endgame"
-msgstr "5/8结局中的平民"
+msgstr "5/8结局中的农夫"
 
 #: mmmerge/Data/Text localization/LANG_NPCText.txt.py:2
 #: mm8/Data/10LocLANG.EnglishT/npctext.txt.py:2
@@ -117113,7 +117113,7 @@ msgstr "你们要学习暗黑魔法，就只有加入暗黑魔法行会。别轻
 #: mmmerge/Data/Text localization/LANG_NPCText.txt.py:1072
 msgctxt "npc conversation"
 msgid "Missing Text 133"
-msgstr "失落的正文133"
+msgstr "缺失文本133"
 
 #: mmmerge/Data/Text localization/LANG_NPCText.txt.py:1073
 #: mm7/DATA/10LocLANG.events/NPCTEXT.TXT.py:135
@@ -120076,7 +120076,7 @@ msgstr "我希望你明白自己在干什么，所有人都说我叔叔是个叛
 #: mmmerge/Data/Text localization/LANG_NPCText.txt.py:1731
 msgctxt "npc conversation"
 msgid "missing text 38"
-msgstr "失落的正文38"
+msgstr "缺失文本38"
 
 #: mmmerge/Data/Text localization/LANG_NPCText.txt.py:1732
 #: mm6/data/10LocLANG.icons/npctext.txt.py:41
@@ -120099,7 +120099,7 @@ msgstr "我的传统职责是监督王国中那些，嗯，不那么正规的商
 #: mmmerge/Data/Text localization/LANG_NPCText.txt.py:1735
 msgctxt "npc conversation"
 msgid "missing text 42"
-msgstr "失落的正文42"
+msgstr "缺失文本42"
 
 #: mmmerge/Data/Text localization/LANG_NPCText.txt.py:1736
 #: mm6/data/10LocLANG.icons/npctext.txt.py:45
@@ -120704,7 +120704,7 @@ msgstr "欢迎来到太阳马戏团。我们有各种各样的游戏节目，使
 #: mm6/data/10LocLANG.icons/npctext.txt.py:183
 msgctxt "npc conversation"
 msgid "Missing Text:\nCircus Main Tent Trade for Prize"
-msgstr "失落的正文：在马戏团主帐篷里交换奖品"
+msgstr "缺失文本：在马戏团主帐篷里交换奖品"
 
 #: mmmerge/Data/Text localization/LANG_NPCText.txt.py:1875
 #: mm6/data/10LocLANG.icons/npctext.txt.py:184
@@ -123704,107 +123704,107 @@ msgstr "你微不足道的财富根本不足以诱惑我。我是不会被收买
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1334
 msgctxt "npctopic"
 msgid "Missing Text 20"
-msgstr "缺失文本 20"
+msgstr "缺失文本20"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1337
 msgctxt "npctopic"
 msgid "Missing Text 23"
-msgstr "缺失文本 23"
+msgstr "缺失文本23"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1358
 msgctxt "npctopic"
 msgid "Put Text Here 44"
-msgstr "在此处填写文本 44"
+msgstr "在此处填写文本44"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1364
 msgctxt "npctopic"
 msgid "Put Text Here 50"
-msgstr "在此处填写文本 50"
+msgstr "在此处填写文本50"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1371
 msgctxt "npctopic"
 msgid "Put Text Here 57"
-msgstr "在此处填写文本 57"
+msgstr "在此处填写文本57"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1377
 msgctxt "npctopic"
 msgid "Put Text Here 63"
-msgstr "在此处填写文本 63"
+msgstr "在此处填写文本63"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1389
 msgctxt "npctopic"
 msgid "Put Text Here 75"
-msgstr "在此处填写文本 75"
+msgstr "在此处填写文本75"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1621
 msgctxt "npctopic"
 msgid "Put Text Here 307"
-msgstr "在此处填写文本 307"
+msgstr "在此处填写文本307"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1657
 msgctxt "npctopic"
 msgid "Put Text Here 343"
-msgstr "在此处填写文本 343"
+msgstr "在此处填写文本343"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1658
 msgctxt "npctopic"
 msgid "Put Text Here 344"
-msgstr "在此处填写文本 344"
+msgstr "在此处填写文本344"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1659
 msgctxt "npctopic"
 msgid "Put Text Here 345"
-msgstr "在此处填写文本 345"
+msgstr "在此处填写文本345"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1660
 msgctxt "npctopic"
 msgid "Put Text Here 346"
-msgstr "在此处填写文本 346"
+msgstr "在此处填写文本346"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1675
 msgctxt "npctopic"
 msgid "Put Text Here 361"
-msgstr "在此处填写文本 361"
+msgstr "在此处填写文本361"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1681
 msgctxt "npctopic"
 msgid "Put Text Here 367"
-msgstr "在此处填写文本 367"
+msgstr "在此处填写文本367"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1682
 msgctxt "npctopic"
 msgid "Put Text Here 368"
-msgstr "在此处填写文本 368"
+msgstr "在此处填写文本368"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1683
 msgctxt "npctopic"
 msgid "Put Text Here 369"
-msgstr "在此处填写文本 369"
+msgstr "在此处填写文本369"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1684
 msgctxt "npctopic"
 msgid "Put Text Here 370"
-msgstr "在此处填写文本 370"
+msgstr "在此处填写文本370"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1685
 msgctxt "npctopic"
 msgid "Put Text Here 371"
-msgstr "在此处填写文本 371"
+msgstr "在此处填写文本371"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1686
 msgctxt "npctopic"
 msgid "Put Text Here 372"
-msgstr "在此处填写文本 372"
+msgstr "在此处填写文本372"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1687
 msgctxt "npctopic"
 msgid "Put Text Here 373"
-msgstr "在此处填写文本 373"
+msgstr "在此处填写文本373"
 
 #: mmmerge/Data/Text localization/LANG_NPCTopic.txt.py:1688
 msgctxt "npctopic"
 msgid "Put Text Here 374"
-msgstr "在此处填写文本 374"
+msgstr "在此处填写文本374"
 
 #: mmmerge/Data/Text localization/LANG_Placemon.txt.py:28
 #: mmmerge/Data/Text localization/LANG_PlaceMonTxt.txt.py:29
@@ -124544,7 +124544,7 @@ msgstr "强大力量"
 #: mmmerge/Data/10LocLANG.T/ZDDB03.STR.py:3
 msgctxt "location"
 msgid "You find jerked beef in the sack (+10 food)."
-msgstr "你在袋子里找到了风干牛肉（+10食物）。"
+msgstr "你在布袋里找到了风干牛肉（+10食物）。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB02.STR.py:4
 #: mmmerge/Data/10LocLANG.T/ZDDB03.STR.py:4
@@ -124567,19 +124567,19 @@ msgstr "装满炖肉的碗。"
 #: mmmerge/Data/10LocLANG.T/ZDDB02.STR.py:7
 msgctxt "location"
 msgid "The stew tasts good - you feel better (+5 hits)."
-msgstr "炖肉的味道不错——你感觉好些了（+5生命）。"
+msgstr "炖肉的味道不错——你感觉好些了（+5生命值）。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB02.STR.py:8
 #: mmmerge/Data/10LocLANG.T/ZDDB03.STR.py:8
 msgctxt "location"
 msgid "Crates filled with wood chips."
-msgstr "装满木屑的板条箱。"
+msgstr "装满木屑的木箱。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB02.STR.py:9
 #: mmmerge/Data/10LocLANG.T/ZDDB03.STR.py:9
 msgctxt "location"
 msgid "The sack is empty."
-msgstr "袋子是空的。"
+msgstr "布袋是空的。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB02.STR.py:10
 #: mmmerge/Data/10LocLANG.T/ZDDB03.STR.py:10
@@ -124591,7 +124591,7 @@ msgstr "碗是空的。"
 #: mmmerge/Data/10LocLANG.T/ZDDB03.STR.py:11
 msgctxt "location"
 msgid "There is of nothing of value in the crates."
-msgstr "板条箱里没有任何值钱的东西。"
+msgstr "木箱里没有任何值钱的东西。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB02.STR.py:12
 #: mmmerge/Data/10LocLANG.T/ZDDB03.STR.py:12
@@ -124602,7 +124602,7 @@ msgstr "蜂蜜酒桶是空的。"
 #: mmmerge/Data/10LocLANG.T/ZDDB03.STR.py:7
 msgctxt "location"
 msgid "The stew tastes good - you feel better (+5 hits)."
-msgstr "炖肉的味道不错——你感觉好些了（+5生命）。"
+msgstr "炖肉的味道不错——你感觉好些了（+5生命值）。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB04.STR.py:2
 msgctxt "location"
@@ -124617,7 +124617,7 @@ msgstr "你找到了一根小木栓。"
 #: mmmerge/Data/10LocLANG.T/ZDDB04.STR.py:5
 msgctxt "location"
 msgid "There seems to be a small hole in the crate."
-msgstr "板条箱上似乎有个小孔。"
+msgstr "木箱上似乎有个小孔。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB04.STR.py:6
 msgctxt "location"
@@ -124627,7 +124627,7 @@ msgstr "你把木栓插入孔中，弹出了一把小钥匙。"
 #: mmmerge/Data/10LocLANG.T/ZDDB04.STR.py:7
 msgctxt "location"
 msgid "The crate is padlocked - you need a key."
-msgstr "板条箱上了挂锁——你需要一把钥匙。"
+msgstr "木箱上了挂锁——你需要一把钥匙。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB04.STR.py:8
 msgctxt "location"
@@ -124662,7 +124662,7 @@ msgstr "空气中弥漫着一股霉味，让你咳嗽起来。"
 #: mmmerge/Data/10LocLANG.T/ZDDB05.STR.py:7
 msgctxt "location"
 msgid "A small nymph comes out of a hole in the floor thanking you for clearing the spores, he shakes your hand vigorously then disappears down the hole (which somehow disappears after him). +500 experience."
-msgstr "一个小精灵从地板上的一个洞里钻出来，感谢你清除了孢子，他用力地和你握手，随后消失在那个洞里（那个洞也随之神秘地消失了）。+500经验。"
+msgstr "一个小精灵从地板上的一个洞里钻出来，感谢你清除了孢子，他用力地和你握手，随后消失在那个洞里（那个洞也随之神秘地消失了）。+500经验值。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB05.STR.py:8
 msgctxt "location"
@@ -124687,7 +124687,7 @@ msgstr "装满水的木桶。"
 #: mmmerge/Data/10LocLANG.T/ZDDB06.STR.py:5
 msgctxt "location"
 msgid "Sack filled with mining equipment."
-msgstr "装满采矿工具的袋子。"
+msgstr "装满采矿工具的布袋。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB06.STR.py:6
 msgctxt "location"
@@ -124762,7 +124762,7 @@ msgstr "小块岩石和碎屑从上方坠落。"
 #: mmmerge/Data/10LocLANG.T/ZDDB07.STR.py:2
 msgctxt "location"
 msgid "There is a strong smell of gas pervading the air."
-msgstr "空气中弥漫着一股浓烈的瓦斯味。"
+msgstr "空气中弥漫着一股浓烈的沼气味。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB07.STR.py:3
 msgctxt "location"
@@ -124839,17 +124839,17 @@ msgstr "你看到散落的精炼工具和细小的水晶碎屑。"
 #: mmmerge/Data/10LocLANG.T/ZDDB08.STR.py:6
 msgctxt "location"
 msgid "Sacks."
-msgstr "麻袋。"
+msgstr "布袋"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB08.STR.py:7
 msgctxt "location"
 msgid "The sacks are filled with flawed crystal shards (worthless)."
-msgstr "麻袋里装满了有瑕疵的水晶碎片（毫无价值）。"
+msgstr "布袋里装满了有瑕疵的水晶碎片（毫无价值）。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB08.STR.py:8
 msgctxt "location"
 msgid "Crystal."
-msgstr "记忆水晶"
+msgstr "水晶"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB08.STR.py:9
 msgctxt "location"
@@ -124879,7 +124879,7 @@ msgstr "你研究这幅壁画，心中涌起一股美好的感觉。"
 #: mmmerge/Data/10LocLANG.T/ZDDB08.STR.py:14
 msgctxt "location"
 msgid "Carved mural."
-msgstr "雕刻壁画。"
+msgstr "雕刻壁画"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB08.STR.py:16
 msgctxt "location"
@@ -124904,7 +124904,7 @@ msgstr "木箱"
 #: mmmerge/Data/10LocLANG.T/ZDDB10.STR.py:6
 msgctxt "location"
 msgid "The crates are all empty."
-msgstr "箱子都是空的。"
+msgstr "木箱都是空的。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB10.STR.py:8
 msgctxt "location"
@@ -125019,7 +125019,7 @@ msgstr "铁处女里除了尖刺什么都没有。"
 #: mmmerge/Data/10LocLANG.T/ZDDB10.STR.py:31
 msgctxt "location"
 msgid "You search the Burial niche and find some gold."
-msgstr "你搜查了墓龛，找到了一些金币。"
+msgstr "你搜查了壁龛，找到了一些金币。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB10.STR.py:32
 msgctxt "location"
@@ -125074,7 +125074,7 @@ msgstr "一股奇怪的力量从墙里伸出，抓住了你。"
 #: mmmerge/Data/10LocLANG.T/ZDDB10.STR.py:46
 msgctxt "location"
 msgid "You find some half decent food in the sack."
-msgstr "你在麻袋里找到了一些还算过得去的食物。"
+msgstr "你在布袋里找到了一些还算过得去的食物。"
 
 #: mmmerge/Data/10LocLANG.T/ZDDB10.STR.py:47
 msgctxt "location"
