@@ -55,50 +55,73 @@
 - 翡翠岛 NPC 对话有数条英文条目（标题为龙蝇、火焰抗性等）
 - 巫妖物品描述中“心系抗性”不存在？（Mind and Spirit resistances 的译法待查）
 
-### 2026-09 diagnosis: MM6 popup/scroll text windows don't get the DBCS renderer at all
+### 2026-09 diagnosis: some MM6 UI text is drawn from strings that never reach the DBCS path (not a hook-coverage gap)
 
 Found while testing a fresh `mm6 build --langs zh_TW` install (GrayFace MM6
 Patch 2.5.7 + MMExtension 2.2 + this repo's built package, all installed
 correctly per [mm6-steam-manual-install.md](mm6-steam-manual-install.md)).
-Confirmed **not** a translation-completeness or packaging problem — verified
-byte-for-byte at every stage (`.po` → `build/prod` → `build/postprod` →
-packed `.lod` → the actual deployed archive in the game folder) for every
-table below, and zero leftover English substrings remain in any of them.
-Also grepped `MM6.exe`, `MM6patch.dll` and `ExeMods/MMExtension.dll` for the
-literal strings (both ASCII and UTF-16LE) — not hardcoded there either.
 
-Symptoms (all Chinese data is correct on disk, but the game still shows
-English):
-- NPC conversation paragraph text (`npctext.txt`) — confirmed via
-  `FNT_DBCS.log` (`nativelog=1`) that no `wrap`/glyph-draw event fires while
-  this text is on screen, while adjacent UI text in the same session logs
-  normally.
-- The topic "breadcrumb"/history trail above the topic list (e.g. "The
-  Letter" → "Quest") — visually a *different font* (white italic/cursive)
-  than the actual clickable topic list right below it (gold serif, which
-  **does** render correctly in Chinese) — strong evidence these are two
-  separate draw paths, only one of which is hooked.
+**Ruled out** (verified byte-for-byte at every pipeline stage — `.po` →
+`build/prod` → `build/postprod` → packed `.lod` → the actual deployed
+archive in the game folder — for `npctext.txt`, `npctopic.txt`,
+`MapStats.txt`, `SPCITEMS.TXT`, `STDITEMS.TXT`, `ITEMS.TXT`; zero leftover
+English substrings in any of them, and none of the affected strings are
+hardcoded in `MM6.exe` / `MM6patch.dll` / `ExeMods/MMExtension.dll` either):
+- Translation completeness / packaging.
+- **`FNT_DBCS.lua`'s hook coverage.** An earlier version of this note
+  claimed the topic breadcrumb, conversation text and item-inspect popups
+  use an unhooked draw path. That was wrong — read through the full script:
+  MM6's `G` handler is explicitly documented as covering both
+  "DrawCentered and scrolls", and a clean `FNT_DBCS.log` (`nativelog=1`)
+  captured across an entire play session shows `wrap`/`D6`/`G6` firing
+  continuously and correctly for plenty of on-screen Chinese text
+  (profession titles, other topics, etc.) throughout, including right
+  around the moments the broken text is shown.
+
+**Actual root cause (confirmed via the log, not guessed):** `FNT_DBCS.lua`'s
+`widthHandler`/`wrapHandler` both bail early — `if not decoded and not
+s:find("[\129-\255]") then return nil end` — deliberately handing pure-ASCII
+strings back to the original engine path, since plain English never needs
+DBCS handling. The topic "breadcrumb"/history trail (e.g. "The Letter" →
+"Quest", shown in a distinct white italic font above the actual clickable
+topic list, which **is** gold serif and **does** render correctly) never
+produces a single log line across a full session — meaning the string the
+engine hands to the draw call at that point is *already* plain ASCII
+English at runtime, not our translated Chinese being mis-rendered. Likely
+explanation: the breadcrumb reads back an internal topic identifier/label
+(probably the English original, used programmatically for conversation-
+history bookkeeping) rather than re-looking-up the display string from
+`npctopic.txt`.
+
+**This is not fixable from the translation/pipeline side** (no `.po`/table
+change reaches it) and isn't a `FNT_DBCS.lua` hook gap either — it needs
+someone to disassemble `MM6.exe`/`MM6patch.dll` to find where the breadcrumb
+actually reads its string from. Left open; not pursuing further without
+disassembly tooling.
+
+Still-open items originally lumped into this note, not yet re-diagnosed:
 - Location names on the continent-travel ("return to waypoint") screen —
-  this one already listed above ("时空之门切换大陆时大陆名称未翻译"); now
-  confirmed `MapStats.txt`'s translated names aren't the issue, since they're
-  correctly translated in the deployed archive too.
+  already listed above ("时空之门切换大陆时大陆名称未翻译"); confirmed
+  `MapStats.txt`'s translated names aren't the issue (correctly translated
+  in the deployed archive), so this is presumably the same class of bug
+  (screen reads a name from somewhere other than `MapStats.txt`) but not
+  confirmed via log the way the breadcrumb was.
 - Item affix names (`SPCITEMS.TXT`), base item names (`STDITEMS.TXT`) and
-  item effect descriptions (`ITEMS.TXT`) shown in the item
-  identify/inspect popup — same pattern, data confirmed 100% translated on
-  disk, popup still shows English.
-
-Working hypothesis: `FNT_DBCS.lua`'s hooks (`GetLineWidth`/`WordWrap`/
-`DrawText bridge`/`DrawTextLimited bridge`/`GetTextHeight len`/`DrawText
-len`, per the `install ...: ok` lines it logs on startup) cover the fixed
-in-panel labels (class/profession titles, the topic list itself) but not
-whatever draw routine MM6 uses for scrollable/paginated popup text windows
-(conversation text, the letter/quest breadcrumb, item description popups).
-This would need a new hook in `FNT_DBCS.lua` (or wherever MM6's book/scroll
-text routine differs from MM7/MM8's, if it does) — not something fixable
-from the translation-table side.
+  item effect descriptions (`ITEMS.TXT`) shown in the item identify/inspect
+  popup — same "data confirmed correct on disk, popup still shows English"
+  symptom; not yet log-confirmed whether it's the same "reads a
+  non-translated internal string" cause or something else.
+- NPC conversation paragraph text (`npctext.txt`, e.g. Andover Potbello's
+  Temple of Baa candelabra quest) — the original report for this note;
+  not yet re-confirmed with the corrected diagnostic method (the first
+  `nativelog` check predates realizing pure-ASCII strings are silently
+  skipped by design, so "no log line" isn't by itself proof of an engine
+  bug the way it is for the breadcrumb - could equally mean the string
+  reaching the draw call there is genuinely still English).
 
 Repro: any Steam MM6 + GrayFace 2.5.7 + MMExtension 2.2 + this repo's zh_CN
-or zh_TW `mm6` build. Talk to any NPC, or inspect any magic item.
+or zh_TW `mm6` build. Talk to any NPC (watch the topic breadcrumb), or
+inspect any magic item.
 
 ## Translation quality (zh_CN)
 
